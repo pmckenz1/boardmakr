@@ -3,8 +3,8 @@ title: 'Example: Knights and Bishops'
 author: "Patrick McKenzie"
 date: "April 11, 2017"
 output:
-  pdf_document: default
-  html_document: default
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}

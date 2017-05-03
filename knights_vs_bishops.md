@@ -1,31 +1,14 @@
----
-title: 'Example: Knights and Bishops'
-author: "Patrick McKenzie"
-date: "April 11, 2017"
-output:
-  pdf_document: default
-  html_document: default
----
+Intro
+-----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+In the classic method of assigning point values to pieces, knights and bishops are both assigned values of 3. More recently, the value of bishops tends to be adjusted to being just higher than that of knights, as most people consider bishops to be stronger pieces.
 
-## Intro
-
-In the classic method of assigning point values to pieces, knights and bishops are both assigned values of 3. More recently, the value of bishops tends to be adjusted to being just higher than that of knights, as most people consider bishops to be stronger pieces. 
-
-## Counting the number of pieces captured by bishops vs. knights
+Counting the number of pieces captured by bishops vs. knights
+-------------------------------------------------------------
 
 A simple way to start is to take an average number of pieces taken by bishops across a lot of games and to compare that with the average number of pieces taken by knights.
 
-```{r include = FALSE}
-source("R/get_moves.R") #use get_moves(__gametext__)
-source("R/white_move.R") #used within get_boards()
-source("R/black_move.R") #used within get_boards()
-source("R/get_boards.R")  #use get_boards(__moveslist__)
-```
-```{r eval = FALSE}
+``` r
 files <- list.files("../data/games")
 knight_caps <- integer(0)
 bishop_caps <- integer(0)
@@ -78,84 +61,45 @@ for (q in files[1:1000]) {
   }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
 }
 ```
-```{r include = FALSE}
-files <- list.files("../data/games")
-knight_caps <- integer(0)
-bishop_caps <- integer(0)
-queen_caps <- integer(0)
-length(files)
-for (q in files[1:1000]) {
-  tryCatch({
 
-    
-    firstfile <- q
-    test <- readLines(paste0("../data/games/",firstfile))
-    mymoves <- get_moves(test)
-    full_game <-get_boards(mymoves)
-    
-    
-    # now we want all of the "moves" -- this captures all board transitions that involve two changing squares. 
-    # this excludes castling.
-    involved_spaces <- integer(0)
-    for(i in 1:(length(full_game$boardpositions)-1)) { 
-      move <- full_game$boardpositions[[i]][!(full_game$boardpositions[[i]] == full_game$boardpositions[[i+1]])]
-      if (length(move) == 2) {
-        involved_spaces <- rbind(involved_spaces,move)
-      }
-    }
-    
-    white <- involved_spaces[!(1:nrow(involved_spaces) %% 2 == 0),] # sorts out all white moves
-    black <- involved_spaces[(1:nrow(involved_spaces) %% 2 == 0),] # sorts out all black moves
-    
-    whitecaptures <- white[-arrayInd(grep("none", white),dim(white))[,1],] #this sorts out all of the non-captures
-    blackcaptures <- black[-arrayInd(grep("none", black),dim(black))[,1],]
-    
-    whiteknightcaptures <- rbind(whitecaptures[arrayInd(grep("N1_w", whitecaptures),dim(whitecaptures))[,1],],
-                                 whitecaptures[arrayInd(grep("N2_w", whitecaptures),dim(whitecaptures))[,1],])
-    whitebishopcaptures <- rbind(whitecaptures[arrayInd(grep("B1_w", whitecaptures),dim(whitecaptures))[,1],],
-                                 whitecaptures[arrayInd(grep("B2_w", whitecaptures),dim(whitecaptures))[,1],])
-    whitequeencaptures <- whitecaptures[arrayInd(grep("Q_w", whitecaptures),dim(whitecaptures))[,1],]
-    
-    blackknightcaptures <- rbind(blackcaptures[arrayInd(grep("N1_b", blackcaptures),dim(blackcaptures))[,1],],
-                                 blackcaptures[arrayInd(grep("N2_b", blackcaptures),dim(blackcaptures))[,1],])
-    blackbishopcaptures <- rbind(blackcaptures[arrayInd(grep("B1_b", blackcaptures),dim(blackcaptures))[,1],],
-                                 blackcaptures[arrayInd(grep("B2_b", blackcaptures),dim(blackcaptures))[,1],])
-    blackqueencaptures <- blackcaptures[arrayInd(grep("Q_b", blackcaptures),dim(blackcaptures))[,1],]    
-    numknightcaptures <- nrow(whiteknightcaptures) + nrow(blackknightcaptures)
-    numbishopcaptures <- nrow(whitebishopcaptures) + nrow(blackbishopcaptures)
-    numqueencaptures <- nrow(whitequeencaptures) + nrow(blackqueencaptures)
-    
-    knight_caps <- c(knight_caps,numknightcaptures)
-    bishop_caps <- c(bishop_caps,numbishopcaptures)
-    queen_caps <- c(queen_caps,numqueencaptures)
-    
-  }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
-}
-```
-```{r}
+``` r
 mean(knight_caps)
+```
+
+    ## [1] 2.957763
+
+``` r
 mean(bishop_caps)
+```
+
+    ## [1] 3.077626
+
+``` r
 mean(queen_caps)
 ```
 
-*  Notice that the queen captures fewer pieces on average, but remember that there is only one queen while there are two of each knights and bishops.
+    ## [1] 2.227545
+
+-   Notice that the queen captures fewer pieces on average, but remember that there is only one queen while there are two of each knights and bishops.
 
 So we can see that, on average, bishops capture more pieces during these games than knights do.
 
 This opens up all sorts of new questions...
 
-1) Does this hold when different numbers of each knights and bishops are left on the board? Or might single knights perform better than single bishops? This might be tough to answer, given that each type of piece might exist as a "single" for different amounts of time, on average, and at different phases of the game.
-2) Do knights tend to do better in closed games than in open games, as we might be led to believe from literature? If so, this might be an effect of the piece actually performing better, or it might be the effect of chess players using the pieces differently based on what mainstream chess theory teaches about using knights and bishops.
-3) Are knights and bishops used differently depending on the skill of the player? What about the time in history?
+1.  Does this hold when different numbers of each knights and bishops are left on the board? Or might single knights perform better than single bishops? This might be tough to answer, given that each type of piece might exist as a "single" for different amounts of time, on average, and at different phases of the game.
+2.  Do knights tend to do better in closed games than in open games, as we might be led to believe from literature? If so, this might be an effect of the piece actually performing better, or it might be the effect of chess players using the pieces differently based on what mainstream chess theory teaches about using knights and bishops.
+3.  Are knights and bishops used differently depending on the skill of the player? What about the time in history?
 
-## Partitioning games based on number of remaining knights / bishops
+Partitioning games based on number of remaining knights / bishops
+-----------------------------------------------------------------
 
-*  We would love to be able to estimate the average number of pieces captured when only one bishop or one knight is on the board, but this is biased -- such scenarios only exist toward the end of the game, when pieces might not be captured as frequently.
-    *  We'll try fixing this by taking a proportion: The number of captures by a piece during a partition divided by the total number of captures during that partition. However, this seems like it might be easily skewed if, for example, the bishop is the only remaining piece to make captures toward the end of a game.
-*  *Side note:* It might be easy and interesting to characterize the rate, generally, at which pieces are captured through games. Have "number of total pieces remaining" on the y-axis and "move" on the x-axis, and then divide by the total number of moves.
+-   We would love to be able to estimate the average number of pieces captured when only one bishop or one knight is on the board, but this is biased -- such scenarios only exist toward the end of the game, when pieces might not be captured as frequently.
+    -   We'll try fixing this by taking a proportion: The number of captures by a piece during a partition divided by the total number of captures during that partition. However, this seems like it might be easily skewed if, for example, the bishop is the only remaining piece to make captures toward the end of a game.
+-   *Side note:* It might be easy and interesting to characterize the rate, generally, at which pieces are captured through games. Have "number of total pieces remaining" on the y-axis and "move" on the x-axis, and then divide by the total number of moves.
 
 The functions below break the game up in three partitions for a designated piece: where two of that piece are surviving, where one is surviving, and where neither is surviving. They then calculate the proportion of captures made during each partition by the designated "capturing piece."
-```{r}
+
+``` r
 get_captures_by_partition <- function(game,partitionpiece,capturingpiece = NULL) { #partitionpiece = single letter (like "B"). Refers to the piece for which you want to break captures apart by (if bishop, it'll be partitioned into "two,one, and no bishop captures")
 
 allblackmoves <- game$black.moves
@@ -275,7 +219,7 @@ list(captures = captures, number_moves_partition = num.moves)
 }
 ```
 
-```{r proportion_captured_function}
+``` r
 proportion_captured_pieces_by_partition <- function(game, partitionpiece, capturingpiece) {
 bishop_capture_partition <- get_captures_by_partition(game,partitionpiece,capturingpiece)
 bishop_capture_partition_total <- get_captures_by_partition(game,partitionpiece)
@@ -299,7 +243,8 @@ list(piece_captures_per_capture_when_2 = bishopcaps_per_capture2,piece_captures_
 ```
 
 We can now apply this function to try to estimate whether bishops or knights make a higher proportion of captures (the proportion bit is meant to correct for different numbers of captures through different phases of the game) when both of the piece type are surviving or one of the piece type is surviving.
-```{r eval = FALSE}
+
+``` r
 bishopscore2 <- integer(0)
 bishopscore1 <- integer(0)
 knightscore2 <- integer(0)
@@ -332,54 +277,40 @@ for (q in files[1:1000]) {
   }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
 }
 ```
-```{r include = FALSE}
-bishopscore2 <- integer(0)
-bishopscore1 <- integer(0)
-knightscore2 <- integer(0)
-knightscore1 <- integer(0)
-NBscore2 <- integer(0)
-NBscore1 <- integer(0)
-BNscore2 <- integer(0)
-BNscore1 <- integer(0)
-for (q in files[1:1000]) {
-  
-  tryCatch({
-    
-  firstfile <- q
-  test <- readLines(paste0("../data/games/",firstfile))
-  mymoves <- get_moves(test)
-  full_game <-get_boards(mymoves)
-  bishops <- proportion_captured_pieces_by_partition(full_game,"B","B")
-  knights <- proportion_captured_pieces_by_partition(full_game,"N","N")
-  bishopscore2 <- c(bishopscore2, bishops[[1]])
-  bishopscore1 <- c(bishopscore1, bishops[[2]])
-  knightscore2 <- c(knightscore2, knights[[1]])
-  knightscore1 <- c(knightscore1, knights[[2]])
-  part_N_cap_B <- proportion_captured_pieces_by_partition(full_game,"N","B")
-  part_B_cap_N <- proportion_captured_pieces_by_partition(full_game,"B","N")
-  NBscore2 <- c(NBscore2, part_N_cap_B[[1]])
-  NBscore1 <- c(NBscore1, part_N_cap_B[[2]])
-  BNscore2 <- c(BNscore2, part_B_cap_N[[1]])
-  BNscore1 <- c(BNscore1, part_B_cap_N[[2]])
-  
-  }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
-}
-```
-```{r}
+
+``` r
 mean(bishopscore2) # prop of captures made by bishops when 2 are surviving
+```
+
+    ## [1] 0.302707
+
+``` r
 mean(knightscore2) # prop of captures made by knights when 2 are surviving
+```
+
+    ## [1] 0.3531886
+
+``` r
 mean(bishopscore1) # prop of captures made by bishops when 1 is surviving
+```
+
+    ## [1] 0.204525
+
+``` r
 mean(knightscore1) # prop of captures made by knights when 1 is surviving
 ```
 
+    ## [1] 0.2030555
+
 So we see that the knight scores are **higher** here! What does this mean?
 
-*  Given that bishops take more pieces overall, the only way to explain the lower proportion of captures by bishops is that they exist longer in the game -- so that the denominator ("number of total captures by any pieces through this partition") is bigger.
+-   Given that bishops take more pieces overall, the only way to explain the lower proportion of captures by bishops is that they exist longer in the game -- so that the denominator ("number of total captures by any pieces through this partition") is bigger.
 
-Now let's test to confirm that bishops last longer through chess games. 
+Now let's test to confirm that bishops last longer through chess games.
 
 Here is the function that will count the number of a piece for each color for each move:
-```{r}
+
+``` r
 count_number_of_piece_thru_game <- function(N_or_B_or_R) {
   letter <- N_or_B_or_R
   before_white_moves <- unlist(lapply(full_game$white.moves,head,1,1),recursive = FALSE)
@@ -397,7 +328,8 @@ count_number_of_piece_thru_game <- function(N_or_B_or_R) {
 ```
 
 And here is code that will allow us to directly compare the length of time before a bishop / knight is lost from either color ("early"), and then from the other color ("late"):
-```{r eval = FALSE}
+
+``` r
 earlybishop <- latebishop <- earlyknight <- lateknight <- integer(0)
 for (q in files[1:1000]) {
   
@@ -426,51 +358,41 @@ for (q in files[1:1000]) {
   }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
 }
 ```
-```{r include = FALSE}
-earlybishop <- latebishop <- earlyknight <- lateknight <- integer(0)
-for (q in files[1:1000]) {
-  
-  tryCatch({
-  
-      firstfile <- q
-      test <- readLines(paste0("../data/games/",firstfile))
-      mymoves <- get_moves(test)
-      full_game <-get_boards(mymoves)
-      
-      
-      numbishops <- count_number_of_piece_thru_game("B")
-      numknights <- count_number_of_piece_thru_game("N")
-      
-      white.bish2 <- sum(numbishops$num.white.pieces == 2)/length(full_game$black.moves)
-      black.bish2 <- sum(numbishops$num.black.pieces == 2)/length(full_game$black.moves)
-      
-      white.knight2 <- sum(numknights$num.white.pieces == 2)/length(full_game$black.moves)
-      black.knight2 <- sum(numknights$num.black.pieces == 2)/length(full_game$black.moves)
-      
-      earlybishop <- c(earlybishop,min(c(white.bish2,black.bish2)))
-      latebishop <- c(latebishop,max(c(white.bish2,black.bish2)))
-      earlyknight <- c(earlyknight,min(c(white.knight2,black.knight2)))
-      lateknight <- c(lateknight,max(c(white.knight2,black.knight2)))
-      
-  }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
-}
-```
-```{r}
+
+``` r
 mean(earlybishop) # time for either color to lose its first bishop
+```
+
+    ## [1] 0.4018202
+
+``` r
 mean(latebishop) # time for the other color to lose its first bishop
+```
+
+    ## [1] 0.5715628
+
+``` r
 mean(earlyknight) # time for either color to lose its first knight
+```
+
+    ## [1] 0.348186
+
+``` r
 mean(lateknight) # time for the other color to lose its first knight
 ```
 
+    ## [1] 0.4803788
+
 So we can see that bishops **do last longer before being taken** than knights.
 
-## Open vs. Closed Games
+Open vs. Closed Games
+---------------------
 
 First, we need to figure out how we're going to classify games as "open" or "closed." This generally refers to whether the center is crowded with pawns.
 
 In the following code, I count the number of pawns in the middle of the board (rows 3:6, columns c:f) for 1000 games, and I take the maximum number of pawns in this space at any moment for each game.
 
-```{r eval = FALSE}
+``` r
 game.max.pawns <- integer(0)
 for (q in 1:1000) {
   tryCatch({
@@ -492,42 +414,23 @@ game.max.pawns <- c(game.max.pawns,max.pawns)
   }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
 }
 ```
-```{r include = FALSE}
-game.max.pawns <- integer(0)
-for (q in 1:1000) {
-  tryCatch({
-firstfile <- files[q]
-test <- readLines(paste0("../data/games/",firstfile))
-mymoves <- get_moves(test)
-full_game <-get_boards(mymoves)
 
-
-pawn.locations <- lapply(full_game$boardpositions,grep,pattern = "p")
-center.locations <- c(19:22,27:30,35:38,43:46) # rows 3:6, columns c:f
-pawns <- integer(0)
-for (i in 1:length(pawn.locations)) {
-  pawns <- c(pawns,sum(pawn.locations[[i]] %in% center.locations))
-  max.pawns <- max(pawns)
-}
-game.max.pawns <- c(game.max.pawns,max.pawns)
-
-  }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
-}
-```
-```{r fig.height=3,fig.width=6}
+``` r
 hist(game.max.pawns,right = TRUE,main = "Histogram of Maximum Pawns in Center",breaks = 9)
 ```
 
-We can see that the maximum number of pawns in the middle of the board for most games is five or six. Given this, we'll define a "closed game" as a game that, at some point, includes as many as seven pawns in the center. 
+![](knights_vs_bishops_files/figure-markdown_github/unnamed-chunk-15-1.png)
 
-*  A more inclusive way to classify closed games would be to lower this to six. This would offer more data, but it might reduce our "closed game" signal.
-*  We might also want to consider the length of time that pawns occupy the center, but this is beyond the scope of this simple test.
+We can see that the maximum number of pawns in the middle of the board for most games is five or six. Given this, we'll define a "closed game" as a game that, at some point, includes as many as seven pawns in the center.
+
+-   A more inclusive way to classify closed games would be to lower this to six. This would offer more data, but it might reduce our "closed game" signal.
+-   We might also want to consider the length of time that pawns occupy the center, but this is beyond the scope of this simple test.
 
 Now we want to count the number of knight captures vs. bishop captures in what we define as closed games vs. open games.
 
-*  We will do this by wrapping our knight vs. bishop capture script from the first test (now written as a function) in code that directs capture counts to the proper "open game" or "closed game" vector.
+-   We will do this by wrapping our knight vs. bishop capture script from the first test (now written as a function) in code that directs capture counts to the proper "open game" or "closed game" vector.
 
-```{r}
+``` r
 count_knight_bishop_captures <- function(game) {
     # now we want all of the "moves" -- this captures all board transitions that involve two changing squares. 
     # this excludes castling.
@@ -563,7 +466,7 @@ count_knight_bishop_captures <- function(game) {
 }
 ```
 
-```{r eval = FALSE}
+``` r
 closed_bishop_caps <- closed_knight_caps <- open_bishop_caps <- open_knight_caps <- integer(0)
 for (q in 1:5000) {
   tryCatch({
@@ -592,49 +495,32 @@ for (q in 1:5000) {
 }, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
 }
 ```
-```{r include = FALSE}
-closed_bishop_caps <- closed_knight_caps <- open_bishop_caps <- open_knight_caps <- integer(0)
-for (q in 1:5000) {
-  tryCatch({
-    firstfile <- files[q]
-    test <- readLines(paste0("../data/games/",firstfile))
-    mymoves <- get_moves(test)
-    full_game <-get_boards(mymoves)
-    caps <- count_knight_bishop_captures(full_game)
-    
-    pawn.locations <- lapply(full_game$boardpositions,grep,pattern = "p")
-    center.locations <- c(19:22,27:30,35:38,43:46) # rows 3:6, columns c:f
-    pawns <- integer(0)
-    for (i in 1:length(pawn.locations)) {
-      pawns <- c(pawns,sum(pawn.locations[[i]] %in% center.locations))
-      max.pawns <- max(pawns)
-    }
-    
-    if (max.pawns >= 7) {
-      closed_bishop_caps <- c(closed_bishop_caps, caps$numbishopcaptures)
-      closed_knight_caps <- c(closed_knight_caps, caps$numknightcaptures)
-    }
-    if (max.pawns < 7) {
-      open_bishop_caps <- c(open_bishop_caps, caps$numbishopcaptures)
-      open_knight_caps <- c(open_knight_caps, caps$numknightcaptures)
-    }
-}, error=function(e){cat("ERROR :",conditionMessage(e), "\n")})
-}
-```
-```{r}
+
+``` r
 mean(open_bishop_caps)
+```
+
+    ## [1] 3.014763
+
+``` r
 mean(closed_bishop_caps)
+```
+
+    ## [1] 2.913649
+
+``` r
 mean(open_knight_caps)
+```
+
+    ## [1] 2.965738
+
+``` r
 mean(closed_knight_caps)
 ```
 
+    ## [1] 2.538997
+
 So these results are unexpected. The absolute difference in numbers between open and closed games isn't necessarily surprising, but bishops outperforming knights by so much in closed games -- especially when considering the same comparison in open games, where bishops don't do very much better than knights -- is surprising.
 
-*  Maybe this is a result of knights being taken earlier in closed games than in open games, so that their absolute count of "pieces taken" is misleading. Maybe it'd be better to represent this as "pieces taken per move that the piece exists." 
-*  Also, perhaps this signals something I have yet to address: That "pieces captured" might not be the best way to represent the tactical advantage offered by a piece.
-
-
-
-
-
-
+-   Maybe this is a result of knights being taken earlier in closed games than in open games, so that their absolute count of "pieces taken" is misleading. Maybe it'd be better to represent this as "pieces taken per move that the piece exists."
+-   Also, perhaps this signals something I have yet to address: That "pieces captured" might not be the best way to represent the tactical advantage offered by a piece.
