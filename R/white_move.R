@@ -124,7 +124,7 @@ if (nchar(move) == 3) {
       }
       two.coords <- possible.coords[indices]
       moving.to.coords <- c(rownumber,colnumber)
-      if (two.coords[[1]][1] == two.coords[[2]][1]) {
+      if (two.coords[[1]][1] == two.coords[[2]][1]) {  # if two rooks are in the same row
         if (abs(moving.to.coords[2]-two.coords[[1]][2]) > abs(moving.to.coords[2]-two.coords[[2]][2])) {
           movingpiece <- startingboard[two.coords[[2]][1],two.coords[[2]][2]]
         }
@@ -132,7 +132,7 @@ if (nchar(move) == 3) {
           movingpiece <- startingboard[two.coords[[1]][1],two.coords[[1]][2]]
         }
       }
-      if (two.coords[[1]][2] == two.coords[[2]][2]) {
+      if (two.coords[[1]][2] == two.coords[[2]][2]) {  # if two rooks are in the same column
         if (abs(moving.to.coords[1]-two.coords[[1]][1]) > abs(moving.to.coords[1]-two.coords[[2]][1])) {
           movingpiece <- startingboard[two.coords[[2]][1],two.coords[[2]][2]]
         }
@@ -269,13 +269,13 @@ if (nchar(move) == 3) {
         startingboard[substr(move,4,4),substr(move,3,3)] <- movingpiece
       }
     }
-    else if (substr(move,2,2) %in% letters[1:8]) {
+    else if (substr(move,2,2) %in% letters[1:8]) {  # if defining piece by column, eg Naxe6
       column <- as.vector(startingboard[,substr(move,2,2)])
       movingpiece <- column[grepl(substr(move,1,1),column)+grepl("w",column) == 2]
       startingboard[grep(movingpiece,startingboard)] <- "none"
       startingboard[substr(move,4,4),substr(move,3,3)] <- movingpiece
     }
-    else if (substr(move,2,2) %in% 1:8) {
+    else if (substr(move,2,2) %in% 1:8) {# if defining piece by row, eg N1xe6
       row <- as.vector(startingboard[substr(move,2,2),])
       movingpiece <- row[grepl(substr(move,1,1),row)+grepl("w",row) == 2]
       startingboard[grep(movingpiece,startingboard)] <- "none"

@@ -117,7 +117,7 @@ if (nchar(move) == 3) {
       startingboard[grep(movingpiece,startingboard)] <- "none"
       startingboard[substr(move,3,3),substr(move,2,2)] <- movingpiece
     }
-    else {
+    else { # in case there are two rooks on same row!
       indices <- integer(0)
       for (i in 1:length(possible.coords)) {
         if (startingboard[possible.coords[[i]][1],possible.coords[[i]][2]] %in% c("R1_b","R2_b")) {
@@ -207,6 +207,7 @@ if (nchar(move) == 3) {
     }
   }
   #Knight
+  #all possible night moves
   if (substr(move,1,1) == "N") {
     colnumber <- match(substr(move,2,2),colnames(startingboard))
     rownumber <- match(substr(move,3,3),rownames(startingboard))
@@ -271,13 +272,13 @@ if (nchar(move) == 3) {
         startingboard[substr(move,4,4),substr(move,3,3)] <- movingpiece
       }
     }
-    else if (substr(move,2,2) %in% letters[1:8]) {
+    else if (substr(move,2,2) %in% letters[1:8]) { #specifying which column -- e.g. Nexc4
       column <- as.vector(startingboard[,substr(move,2,2)])
       movingpiece <- column[grepl(substr(move,1,1),column)+grepl("b",column) == 2]
       startingboard[grep(movingpiece,startingboard)] <- "none"
       startingboard[substr(move,4,4),substr(move,3,3)] <- movingpiece
     }
-    else if (substr(move,2,2) %in% 1:8) {
+    else if (substr(move,2,2) %in% 1:8) { # specifying row -- e.g. N2xc5
       row <- as.vector(startingboard[substr(move,2,2),])
       movingpiece <- row[grepl(substr(move,1,1),row)+grepl("b",row) == 2]
       startingboard[grep(movingpiece,startingboard)] <- "none"
@@ -285,7 +286,7 @@ if (nchar(move) == 3) {
     }
   }
   if (nchar(move) == 5) {
-    if (substr(move,3,3) == "x") {
+    if (substr(move,3,3) == "x") { # if a capture
       if (substr(move,2,2) %in% letters[1:8]) { #the moving piece is in a particular column
         column <- as.vector(startingboard[,substr(move,2,2)])
         movingpiece <- column[grepl(substr(move,1,1),column)+grepl("b",column) == 2]

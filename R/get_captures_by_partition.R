@@ -6,11 +6,13 @@
 ##' @export
 get_captures_by_partition <- function(game,partitionpiece,capturingpiece = NULL) { #partitionpiece = single letter (like "B"). Refers to the piece for which you want to break captures apart by (if bishop, it'll be partitioned into "two,one, and no bishop captures")
 
-allblackmoves <- game$black.moves
-allwhitemoves <- game$white.moves
+allblackmoves <- game$black.moves  # pairs of layouts showing black moves
+allwhitemoves <- game$white.moves  # pairs of layouts showing white moves
 
+# get the board layouts before each move
 premove <- unlist(lapply(allblackmoves,head,n=1),recursive = FALSE)
-premovebishops <- lapply(premove,grep,pattern=partitionpiece)
+premovebishops <- lapply(premove,grep,pattern=partitionpiece) # returns count and location for partitionpiece
+# now let's  get boards by partition
 num.black <- integer(0)
 for (i in 1:length(premove)) {
   survivingpieces <-premove[[i]][premovebishops[[i]]]
@@ -19,6 +21,7 @@ for (i in 1:length(premove)) {
 }
 premove <- unlist(lapply(allwhitemoves,head,n=1),recursive = FALSE)
 premovebishops <- lapply(premove,grep,pattern=partitionpiece)
+# get boards by partition
 num.white <- integer(0)
 for (i in 1:length(premove)) {
   survivingpieces <-premove[[i]][premovebishops[[i]]]
@@ -60,10 +63,11 @@ two.white.spaces <- get_involved_spaces(two.white) # the two spaces involved in 
 one.white.spaces <- get_involved_spaces(one.white)
 no.white.spaces <- get_involved_spaces(no.white)
 
-get_captures <- function(x) {    # returns moves that are captures
+#function returns moves that are captures
+get_captures <- function(x) {
   if (is.null(x)) {return(NULL)}
   captures <- x[-arrayInd(grep("none", x),dim(x))[,1],]
-  if (length(captures)==0) {     # if all moves are captures
+  if (length(captures)==0) {  # in case all moves in partition are captures
     captures <- x
   }
   if (is.null(dim(captures))) {
@@ -79,10 +83,11 @@ two.white.captures <- get_captures(two.white.spaces)
 one.white.captures <- get_captures(one.white.spaces)
 no.white.captures <- get_captures(no.white.spaces)
 
+# objects describing captures during each partition and total number of moves (regardless of whether capture) in each partition.
 captures <- list(twopieces_white=two.white.captures,twopieces_black=two.black.captures,onepieces_white=one.white.captures,onepieces_black=one.black.captures,nopieces_white=no.white.captures,nopieces_black = no.black.captures)
 num.moves <- c(nummoves.two.white,nummoves.two.black,nummoves.one.white,nummoves.one.black,nummoves.no.white,nummoves.no.black)
 
-
+# Below, we're counting total numbers of captures by the specified piece within each partition
 if (!is.null(capturingpiece)) {
   possiblepieces <- c(paste0(capturingpiece,"1_w"),paste0(capturingpiece,"2_w"),paste0(capturingpiece,"1_b"),paste0(capturingpiece,"2_b"))
   if (!is.null(captures$twopieces_white)) {

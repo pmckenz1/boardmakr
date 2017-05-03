@@ -41,17 +41,19 @@ get_boards <- function(moves) {
     num.white.moves <- length(boardpositions)/2
     num.black.moves <- length(boardpositions)/2 - 1
   }
+  # make a list of white moves (represented by pairs of board layouts)
   whitemoves <- list()
   for (i in 1:num.white.moves) {
     pairwise <- list(boardpositions[[2*i-1]],boardpositions[[2*i]])
     whitemoves[[i]] <- pairwise
   }
+  # make a list of black moves (represented by pairs of board layouts)
   blackmoves <- list()
   for (i in 1:num.black.moves) {
     pairwise <- list(boardpositions[[2*i]],boardpositions[[2*i+1]])
     blackmoves[[i]] <- pairwise
   }
   chess_game <- list(boardpositions = boardpositions,white.moves = whitemoves,black.moves = blackmoves)
-  chess_game
+  chess_game  # return a chess game list
 }
 
