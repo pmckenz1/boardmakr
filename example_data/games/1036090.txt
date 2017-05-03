@@ -1,0 +1,26 @@
+[Event "18th DSB Kongress"]
+[Site "Breslau GER"]
+[Date "1912.07.23"]
+[EventDate "1912.07.15"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Amos Burn"]
+[Black "Carl Johan Margot Carls"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1.d4 d5 2.c4 c6 3.e3 Nf6 4.Nc3 g6 5.Nf3 Bg7 6.Bd3 Nbd7 7.O-O
+O-O 8.b3 Qc7 9.Bb2 e5 10.cxd5 cxd5 11.Nb5 Qd8 12.dxe5 Ng4
+13.Rc1 Ndxe5 14.Ba3 Nxf3+ 15.Qxf3 Be5 16.g3 Re8 17.Rfd1 Nf6
+18.Rd2 Bg4 19.Qg2 a6 20.Nc3 Qa5 21.Bb2 Rad8 22.a3 Qb6 23.b4
+Qe6 24.Ne2 Ne4 25.Rdc2 Bh3 26.Qh1 Bxb2 27.Nf4 Nxf2 28.Nxe6
+Nxh1 29.Nxd8 Bxc1 30.Rxc1 Rxd8 31.Kxh1 Rc8 32.Rxc8+ Bxc8
+33.Kg2 Bg4 34.h3 Bd1 35.e4 Bb3 36.Kf3 f6 37.Ke3 Kf7 38.Kd4 Ke6
+39.h4 Kd6 40.Bb1 dxe4 41.Bxe4 b6 42.g4 Bd1 43.g5 fxg5 44.hxg5
+Ke6 45.Bd3 Bf3 46.Bc2 Bc6 47.Bd3 Bb7 48.Bc2 Bg2 49.Bd3 Bc6
+50.Bc2 Bd7 51.Bd3 Bb5 52.Be4 Be8 53.Bd3 Ba4 54.Be4 b5 55.Bd3
+Kf7 56.Be4 Kg7 57.Ke5 h5 58.Bb7 Kf7 59.Bxa6 Ke7 60.Bb7 Bc2
+61.Ba6 Ba4 62.Bb7 Bc2 63.Bc6 Bd3 64.a4 bxa4 65.Bxa4 Kd8 66.Bc6
+Kc7 67.Be8 Kb6 68.Kf4 Bf5 69.Kg3 1/2-1/2

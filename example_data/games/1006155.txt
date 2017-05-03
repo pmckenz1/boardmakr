@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Oskar Bjarnason"]
+[Black "Robert Hardarson"]
+[ECO "C34"]
+[WhiteElo "2218"]
+[BlackElo "2356"]
+[PlyCount "52"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. Bc4 d5 5. exd5 Nxd5 6. Bxd5
+Qxd5 7. Nc3 Qf5 8. d4 Bd6 9. Qe2+ Qe6 10. d5 Qxe2+ 11. Nxe2 g5
+12. Nxg5 Rg8 13. h4 h6 14. Ne4 Rxg2 15. Nxd6+ cxd6 16. Bxf4
+Bf5 17. Kd2 Bg4 18. Rae1 Na6 19. Rhg1 Rxg1 20. Nxg1+ Kd7
+21. Bxh6 Rc8 22. Bg5 Rc5 23. Re7+ Kc8 24. Re8+ Kd7 25. Re7+
+Kc8 26. Re8+ Kd7 1/2-1/2

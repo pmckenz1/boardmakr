@@ -1,0 +1,20 @@
+[Event "Olympiad (w)"]
+[Site "Yerevan ARM"]
+[Date "1996.09.21"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Eva Repkova"]
+[Black "Alisa Galliamova"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3
+Be7 8.f4 O-O 9.Qf3 Qa5 10.O-O-O Nxd4 11.Rxd4 Bd7 12.g4 b5
+13.Bb3 b4 14.g5 bxc3 15.gxf6 Bxf6 16.e5 Be7 17.Rg1 g6 18.h4
+Rab8 19.Kb1 Rfc8 20.Bc1 Bc6 21.Qf2 dxe5 22.fxe5 Qxe5 23.Rf1
+Be8 24.Re1 Qa5 25.Qg3 Bf6 26.Rc4 cxb2 27.Bg5 Bxg5 28.Rxc8 Rxc8
+29.hxg5 Ba4 30.Rxe6 Bxb3 31.Qxb3 Qxg5 32.Kxb2 h5 33.Re3 Qf6+
+34.Kc1 Qf1+ 35.Kb2 Qf6+ 36.Kc1 Qf4 37.Kd1 Rd8+ 38.Rd3 Re8 0-1

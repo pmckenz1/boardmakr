@@ -1,0 +1,20 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.29"]
+[EventDate "1912.05.20"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Semion Alapin"]
+[Black "Oldrich Duras"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5
+7. a4 Rb8 8. axb5 axb5 9. Nc3 O-O 10. Nd5 Nxd5 11. Bxd5 Ne7
+12. Bb3 d5 13. d3 Qd6 14. O-O f6 15. Be3 Kh8 16. Bxc5 Qxc5
+17. exd5 Bb7 18. Qe3 Qxe3 19. fxe3 Bxd5 20. Nd2 Ra8 21. e4 Bg8
+22. Bxg8 Kxg8 23. Nb3 Nc6 24. c3 Rfd8 25. Rxa8 Rxa8 26. Ra1
+Rxa1+ 27. Nxa1 Kf7 28. Kf2 b4 29. Ke3 bxc3 30. bxc3 Na5
+31. Nc2 Ke6 32. Ne1 c5 33. Nf3 Nb3 34. Ne1 Kd6 1/2-1/2

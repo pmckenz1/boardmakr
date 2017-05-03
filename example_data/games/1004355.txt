@@ -1,0 +1,21 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "7"]
+[Result "1-0"]
+[White "Albert Becker"]
+[Black "Erno Gereben"]
+[ECO "D48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 a6 9. e4 Bb7 10. e5 Nd5 11. Ne4 c5 12. O-O
+h6 13. Qe2 Qb6 14. a4 c4 15. Bc2 Rc8 16. axb5 axb5 17. Be3 Be7
+18. Nfd2 Qc6 19. Qg4 Kf8 20. Nc3 N7b6 21. Be4 b4 22. Nxd5 exd5
+23. Bf5 Rd8 24. Rac1 h5 25. Qe2 Ra8 26. Nf3 Bc8 27. Bb1 Ba6
+28. Bg5 Qd7 29. Rfe1 c3 30. Qe3 Nc4 31. Qf4 Qg4 32. bxc3 Qxf4
+33. Bxf4 bxc3 34. e6 f6 35. Nh4 Bb4 36. Ng6+ Kg8 37. Nxh8 Kxh8
+38. Bg6 Bb5 39. Ra1 1-0

@@ -1,0 +1,21 @@
+[Event "Birmingham"]
+[Site "Birmingham ENG"]
+[Date "1926.06.05"]
+[EventDate "1926.06.03"]
+[Round "3"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Eugene Aleksandrovich Znosko-Borovsky"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bxf6 Qxf6 6. Rc1 b6
+7. Nf3 Bb7 8. e3 O-O 9. Be2 d6 10. O-O Bxc3 11. Rxc3 Nd7
+12. Nd2 e5 13. Bf3 Bxf3 14. Nxf3 e4 15. Nd2 Qe7 16. Qa4 f5
+17. Qc6 Nf6 18. b4 a5 19. Ra3 Qd7 20. Qxd7 Nxd7 21. bxa5 Rxa5
+22. Rxa5 bxa5 23. Rb1 Rb8 24. Rxb8+ Nxb8 25. Kf1 Nd7 26. Ke2
+Nb6 27. Kd1 a4 28. d5 Nd7 29. Kc2 Ne5 30. Kc3 Ng4 31. Kb4 Nxf2
+32. Kxa4 f4 33. exf4 e3 34. Nf3 Nd3 35. Kb5 g5 36. fxg5 hxg5
+37. a4 e2 38. h3 Nc5 39. a5 Nb3 40. Ne1 Nd4+ 41. Ka4 1-0

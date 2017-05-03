@@ -1,0 +1,23 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Kerry Corker"]
+[Black "Ilija Ilic"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. Nf3 d6 2. b3 Nf6 3. Bb2 c5 4. g3 Nc6 5. Bg2 g6 6. e4 Bg7
+7. d3 O-O 8. O-O e5 9. a4 Bd7 10. Nbd2 Qc8 11. Nh4 Bh3 12. Nc4
+Ne8 13. Ne3 Bxg2 14. Kxg2 Ne7 15. f4 f6 16. f5 g5 17. Nf3 Nc7
+18. Nd2 d5 19. h4 dxe4 20. dxe4 Qd7 21. Rf2 Qc6 22. Qh5 Rad8
+23. hxg5 Rxd2 24. Rxd2 Qxe4+ 25. Qf3 Qb4 26. Nc4 fxg5 27. Ba3
+Rxf5 28. Rd8+ Bf8 29. Bxb4 Rxf3 30. Kxf3 cxb4 31. Nxe5 Ne6
+32. Rb8 Nc5 33. Kg4 Nd5 34. Re1 Kg7 35. Rd8 Nf6+ 36. Kh3 Be7
+37. Rc8 Nd5 38. Nd3 Na6 39. Ra8 Kf6 40. Rxa7 h5 41. Rxb7 Nac7
+42. Rb6+ Kf7 43. Ne5+ Kg7 44. Rf1 g4+ 45. Kg2 Bc5 46. Rg6+ Kh8
+47. Rf7 Bd4 48. Nc6 Bc3 49. Ne7 1-0

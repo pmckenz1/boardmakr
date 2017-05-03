@@ -1,0 +1,23 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vladimir Rozhdestvensky"]
+[Black "Aivars Gipslis"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Be2 O-O 6.Nf3 c6 7.O-O b5
+8.a3 Nbd7 9.Kh1 Nb6 10.Qe1 a5 11.Bd3 Bg4 12.Qg3 b4 13.Nd1 Qc8
+14.Ne3 Bxf3 15.Qxf3 Nfd7 16.e5 c5 17.c3 bxc3 18.bxc3 cxd4
+19.cxd4 Qc3 20.Nc2 dxe5 21.fxe5 Rac8 22.Bf4 Nc4 23.Be4 Qxf3
+24.gxf3 Ndb6 25.Rab1 e6 26.Rb5 Na4 27.Rb3 h6 28.Rfb1 Rfd8
+29.h4 Bf8 30.h5 g5 31.Bc1 Nxe5 32.dxe5 Nc3 33.Ne3 Nxb1 34.Rxb1
+Rc3 35.Kg2 a4 36.Ng4 Rb3 37.Ra1 Kg7 38.Bc2 Rc3 39.Bxa4 Rd4
+40.Be8 Rd1 41.Nxh6 Rc2+ 42.Kg3 Rg1+ 43.Kh3 Rgxc1 44.Rxc1 Rxc1
+45.Nxf7 Be7 46.Nd6 Rc3 47.Kg4 Rxa3 48.Bd7 Bxd6 49.exd6 Kf6
+50.Be8 Rd3 51.d7 Rd4+ 52.Kg3 e5 53.Kf2 Ke7 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Copenhagen (Denmark)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Lars Schandorff"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 c6 6.Be3 O-O 7.Qd2 e5
+8.Nge2 Nbd7 9.O-O-O a6 10.Kb1 Re8 11.Nc1 b5 12.dxe5 dxe5
+13.Nb3 Bb7 14.Qf2 Qc7 15.Be2 Nh5 16.g3 Rad8 17.Rc1 b4 18.Na4
+f5 19.c5 Ndf6 20.Qg2 Bc8 21.Bc4+ Kh8 22.Nb6 fxe4 23.fxe4 Ng4
+24.Bg5 Bh6 25.Bxd8 Rxd8 26.Nxc8 Qxc8 27.Qe2 Bxc1 28.Bxa6 Qd7
+29.Rxc1 Ngf6 30.Re1 Qa7 31.Bc4 Ra8 32.Kc2 Qe7 33.Qd2 Rxa2
+34.Qxb4 Ra8 35.Qb6 Qe8 36.Qc7 Rd8 37.Qf7 Qxf7 38.Bxf7 Kg7
+39.Bc4 Ra8 40.Nc1 Ra1 41.Re2 Ra8 42.b4 Kh6 43.Nd3 Re8 44.Kc3
+Ng7 45.Bb3 Kg5 46.Ba4 Re6 47.Nf2 Nfe8 48.Rd2 h5 49.h4+ Kf6
+50.Nh3 Ke7 51.Ng5 Rf6 52.b5 Ne6 53.Nxe6 Kxe6 54.b6 1-0

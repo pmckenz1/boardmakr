@@ -1,0 +1,19 @@
+[Event "New York bf simul (8-board), USA"]
+[Site "New York bf simul (8-board) USA"]
+[Date "1945.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Charles A Ruberl"]
+[ECO "D82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Nf3 O-O
+7. Rc1 Nh5 8. Be5 f6 9. Bxb8 Rxb8 10. cxd5 cxd5 11. Nxd5 Qxd5
+12. Bc4 e6 13. Bxd5 exd5 14. O-O Bh6 15. Rc7 Ng7 16. Qb3 Be6
+17. Rfc1 Nf5 18. Rxb7 Rxb7 19. Qxb7 Bg7 20. Rc7 Bf7 21. Qxa7
+g5 22. h3 h5 23. g4 hxg4 24. hxg4 Nd6 25. a4 Ne4 26. a5 Kh7
+27. Rxf7 1-0

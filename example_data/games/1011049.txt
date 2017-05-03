@@ -1,0 +1,22 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Knut Harald Storland"]
+[Black "Torbjorn Ringdal Hansen"]
+[ECO "A20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3
+Nc6 7. O-O Be7 8. a3 O-O 9. b4 a6 10. d3 Re8 11. Bb2 Bf8
+12. Rc1 Nd4 13. Nxd4 exd4 14. Ne4 Bg4 15. h3 Bh5 16. g4 Bg6
+17. Nc5 Bxc5 18. bxc5 Nd5 19. Qd2 h5 20. Bxd4 hxg4 21. hxg4
+Qh4 22. f3 Rad8 23. Rc4 b5 24. cxb6 Nxb6 25. Rb4 a5 26. Rxb6
+cxb6 27. Bxb6 Rb8 28. Bxa5 Qe7 29. f4 Qxa3 30. f5 Bh7 31. Bc3
+Qc5+ 32. d4 Qc4 33. Bf3 Rb6 34. d5 Qc7 35. Qd4 f6 36. Kg2 Rb3
+37. Rc1 Qd6 38. Bd2 g6 39. Rc6 Qd7 40. fxg6 Bxg6 41. Qxf6 Bf7
+42. Qg5+ Kf8 43. Rh6 Bg8 44. Qf4+ Bf7 45. Qf6 1-0

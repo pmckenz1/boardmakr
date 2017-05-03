@@ -1,0 +1,21 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Ivan Hecimovic"]
+[Black "Darko Feletar"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 g6 2. d4 Bg7 3. b3 c5 4. Bb2 Nc6 5. Nf3 cxd4 6. Bc4 Qa5+
+7. Nbd2 Nf6 8. O-O d5 9. exd5 Nxd5 10. b4 Ndxb4 11. a3 Na6
+12. Nb3 Qb6 13. Rb1 O-O 14. Nbxd4 Rd8 15. Nxc6 Rxd1 16. Nxe7+
+Kf8 17. Bxg7+ Kxg7 18. Rfxd1 Qc5 19. Nxc8 Rxc8 20. Bb3 Rc7
+21. h4 Qxa3 22. Ng5 Nc5 23. Bd5 Qa4 24. c4 Qc2 25. Rbc1 Qf5
+26. Rc3 Qg4 27. Nf3 Re7 28. Rd4 Qf5 29. g4 Qb1+ 30. Kg2 Qb2
+31. Rcd3 Nxd3 32. Rxd3 Re2 33. Kg3 Rxf2 34. Re3 Rg2+ 35. Kf4
+Qf6+ 0-1

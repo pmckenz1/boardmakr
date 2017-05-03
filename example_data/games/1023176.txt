@@ -1,0 +1,19 @@
+[Event "Lvov"]
+[Site "Lviv UKR"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Na5 11.Bd3 b6 12.Rc1 cxd4
+13.cxd4 e6 14.e5 Bb7 15.Nf4 Qd7 16.Qg4 Rac8 17.h4 Rxc1 18.Rxc1
+Rc8 19.Rxc8+ Qxc8 20.h5 Nc4 21.Bxc4 Qxc4 22.Qg5 Qxa2 23.Qd8+
+Bf8 24.Kh2 Qc4 25.hxg6 hxg6 26.Qg5 Qc6 27.f3 Bg7 28.Qd8+ Bf8
+29.Qg5 1/2-1/2

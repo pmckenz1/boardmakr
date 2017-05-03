@@ -1,0 +1,18 @@
+[Event "Berliner Sommer"]
+[Site "Berliner Sommer"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Maxim Boguslawsky"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.b3 d5 2.Bb2 e6 3.e3 Nf6 4.f4 Be7 5.Nf3 b6 6.Be2 Bb7 7.O-O
+O-O 8.Qe1 c5 9.Qg3 Nbd7 10.d3 Qc7 11.Ne5 d4 12.Nxd7 Nxd7
+13.exd4 Bf6 14.c4 Rad8 15.Bc3 Bxd4+ 16.Bxd4 cxd4 17.Nd2 Nf6
+18.Rae1 Qc5 19.Bf3 Bxf3 20.Nxf3 Qc7 21.Qh4 Ne8 22.Re5 Nd6
+23.g4 Nb7 24.Rh5 h6 25.g5 Qe7 26.Ne5 Rd6 27.Rf3 1-0

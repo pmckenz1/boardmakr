@@ -1,0 +1,27 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.12.04"]
+[EventDate "1923.11.16"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Albert Becker"]
+[Black "Karel Opocensky"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 e5
+7. fxe5 Ng4 8. e6 Ne5 9. exf7+ Nxf7 10. Nf3 O-O 11. Be2 Bg4
+12. O-O Nd7 13. Bf4 Qe7 14. Nd2 Bxe2 15. Qxe2 a6 16. Kh1 Rae8
+17. Rae1 Nde5 18. Nf3 Nxf3 19. Rxf3 Bd4 20. g3 g5 21. Bd2 Ne5
+22. Rf5 g4 23. Bg5 Qg7 24. Rxf8+ Rxf8 25. Bf4 Nf3 26. Rf1 Be5
+27. Bxe5 Qxe5 28. Nd1 h5 29. Qe3 Kg7 30. Qc3 Qxc3 31. Nxc3 Kf6
+32. Ne2 Ke5 33. Nf4 Kxe4 34. Kg2 h4 35. Rf2 h3+ 36. Kf1 b5
+37. Re2+ Kf5 38. cxb5 axb5 39. Nd3 Ra8 40. b3 c4 41. bxc4 bxc4
+42. Ne1 Ne5 43. Nc2 Kg5 44. Nd4 Ra5 45. Kf2 Rxd5 46. Ke3 Ra5
+47. Rf2 Ra3+ 48. Ke4 Rd3 49. Ne6+ Kh6 50. Nf4 Rd1 51. a4 Nc6
+52. Rc2 d5+ 53. Nxd5 Rd4+ 54. Ke3 Rxd5 55. Rxc4 Ne5 56. Rb4
+Kg5 57. Ke4 Ra5 58. Rb5 Rxb5 59. axb5 Nc4 60. Kd5 Na5 61. Ke5
+Nb7 62. b6 Na5 63. Kd5 Kf5 64. Kc5 Ke5 65. Kb5 Nb7 66. Kc6 Nd6
+67. Kc5 Ke6 68. Kd4 Nf5+ 69. Ke4 Nxg3+ 70. Kf4 Kd6 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "10s, Copenhagen Open"]
+[Site "Copenhagen DEN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kurt Setterqvist"]
+[Black "Fernando Braga"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 c6 5. e3 Nbd7 6. Nc3 Be7
+7. Rc1 O-O 8. Bd3 a6 9. a3 b5 10. cxb5 cxb5 11. O-O Bb7 12. a4
+b4 13. Ne2 Bd6 14. Bf4 Bxf4 15. Nxf4 Qa5 16. Ne5 Rfc8 17. Nxd7
+Nxd7 18. Qh5 Nf6 19. Qh4 Qxa4 20. g4 h6 21. g5 hxg5 22. Qxg5
+Rxc1 23. Rxc1 Rc8 24. Rb1 Bc6 25. Kh1 Bb5 26. Rg1 Ne8 27. Bb1
+Kf8 28. h4 Qb3 29. h5 Qxb2 30. h6 gxh6 31. Qxh6+ Ke7 32. Qg5+
+Kd7 33. Nxd5 exd5 34. Bf5+ Kc7 35. Qe7+ Kb8 36. Bxc8 Kxc8
+37. Qxf7 Qc2 38. Qe6+ Kb7 39. Qe7+ Nc7 40. Qxb4 Qxf2 41. Qe7
+Qf5 42. Rg2 Qe4 43. Qf6 Qxe3 44. Rg6 Qc1+ 45. Kh2 Qc2+ 46. Kh1
+Qb1+ 47. Kh2 Be8 48. Rg7 Qb6 49. Qe5 Qc6 50. Kg1 Bg6 51. Kf2
+a5 52. Ke1 Be4 53. Qe7 Qc3+ 54. Ke2 Qd3+ 55. Ke1 Qe3+ 56. Kd1
+Qxd4+ 57. Ke1 Qc3+ 58. Kd1 Bf3+ 0-1

@@ -1,0 +1,17 @@
+[Event "Sousse Interzonal"]
+[Site "Sousse TUN"]
+[Date "1967.10.17"]
+[EventDate "1967.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lubomir Kavalek"]
+[Black "Efim Geller"]
+[ECO "B64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O O-O 9.f4 h6 10.Bxf6 Bxf6 11.Ndb5 e5 12.Nd5 exf4
+13.Nbc7 Rb8 14.Nxf6+ Qxf6 15.Qxd6 Qxd6 16.Rxd6 Bg4 17.h3 Bh5
+18.Nd5 1/2-1/2

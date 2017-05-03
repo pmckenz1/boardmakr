@@ -1,0 +1,22 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Johannes Hermanus Addicks"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nge2 g6 6. g3 Bg7
+7. Bg2 O-O 8. O-O exd4 9. Nxd4 Ne5 10. b3 Nc6 11. Bb2 Ng4
+12. Nd5 Nge5 13. h3 Nxd4 14. Bxd4 c6 15. Ne3 Be6 16. Rc1 c5
+17. Ba1 Nc6 18. Bxg7 Kxg7 19. f4 f5 20. exf5 gxf5 21. Rc2 Nd4
+22. Rd2 Qf6 23. Nc2 Nxc2 24. Qxc2 Rad8 25. Bxb7 h5 26. Qb2 h4
+27. Qxf6+ Kxf6 28. g4 fxg4 29. f5 Bf7 30. hxg4 Kg5 31. Kh2
+Rfe8 32. Kh3 d5 33. Bxd5 Re3+ 34. Kh2 Bxd5 35. Rxd5 Re2+
+36. Kg1 Rxd5 37. cxd5 Kxg4 38. f6 Kg3 39. Rf3+ Kxf3 40. f7 Kg3
+41. f8=Q 1-0

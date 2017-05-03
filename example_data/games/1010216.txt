@@ -1,0 +1,19 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Zoltan Gyimesi"]
+[Black "Ivan Farago"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7
+7. Bg2 d5 8. cxd5 exd5 9. O-O O-O 10. Nc3 Bb7 11. Rc1 Na6
+12. Ne5 Re8 13. Bg5 Ne4 14. Bxe7 Qxe7 15. e3 c5 16. Nd3 cxd4
+17. exd4 Rac8 18. Nb5 Rxc1 19. Qxc1 Nb4 20. Bxe4 dxe4 21. Nxb4
+Qxb4 22. Qc7 Qxb5 23. Qxb7 Qb4 24. Qd7 Qe7 25. Qxe7 Rxe7
+1/2-1/2

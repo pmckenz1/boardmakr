@@ -1,0 +1,18 @@
+[Event "Jakarta zt"]
+[Site "Jakarta zt"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Anthony F Ker"]
+[Black "Utut Adianto"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 d5 2.c4 dxc4 3.Nc3 Nf6 4.Bg5 c6 5.e3 b5 6.Bxf6 exf6 7.a4
+b4 8.Ne4 Qd5 9.Qf3 f5 10.Ng3 b3 11.Be2 Qa5+ 12.Kf1 c3 13.bxc3
+b2 14.Rd1 Qxc3 15.e4 Qc1 16.Qd3 Be6 17.d5 fxe4 18.Nxe4 cxd5
+19.Nc3 Be7 20.Nf3 Nc6 21.g4 O-O 22.Kg2 Qf4 23.h3 Rfd8 24.Qb5
+Nb4 25.Rb1 d4 0-1

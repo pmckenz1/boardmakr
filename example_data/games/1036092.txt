@@ -1,0 +1,20 @@
+[Event "18th DSB Kongress"]
+[Site "Breslau GER"]
+[Date "1912.08.02"]
+[EventDate "1912.07.15"]
+[Round "17"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "Oldrich Duras"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 d5 2.c4 e6 3.Nc3 a6 4.e3 Nf6 5.Nf3 Be7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bb3 Bb7 9.O-O Nbd7 10.Qe2 c5 11.Rd1 Qb6 12.Bd2 O-O 13.Be1
+c4 14.Bc2 b4 15.Nb1 Qb5 16.Nbd2 Rfc8 17.Nf1 a5 18.Ng3 Ba6
+19.e4 a4 20.Bd2 b3 21.axb3 cxb3 22.Qxb5 Bxb5 23.Bb1 a3 24.bxa3
+b2 25.Ra2 Bxa3 26.e5 Nd5 27.Ne4 Bc4 28.Rxa3 Rxa3 29.Nd6 Rc7
+30.Ng5 Bd3 31.Re1 Bxb1 32.Nb5 Ra1 33.Nxc7 Bf5 34.Nxd5 Rxe1+
+35.Bxe1 b1=Q 36.Ne7+ Kf8 0-1

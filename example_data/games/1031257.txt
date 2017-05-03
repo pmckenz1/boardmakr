@@ -1,0 +1,19 @@
+[Event "Sao Paulo (Brazil)"]
+[Site "Zt"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nestor Del Pozo"]
+[Black "Julio Bolbochan"]
+[ECO "B94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7
+7.Qd2 e6 8.O-O-O b5 9.Bd3 Bb7 10.Rhe1 Be7 11.f4 b4 12.Nb1 Qb6
+13.Nb3 h6 14.Bh4 Nxe4 15.Rxe4 Bxh4 16.Rxb4 Qc7 17.Qe2 Be7
+18.f5 e5 19.Rxb7 Qxb7 20.Be4 Bg5+ 21.N1d2 d5 22.Bf3 O-O 23.Kb1
+e4 24.Nxe4 dxe4 25.Bxe4 Rae8 26.Bxb7 Rxe2 27.Nd4 Rf2 28.a3 Nc5
+29.Bf3 Rd8 30.Bc6 Bf6 31.c3 Nb3 0-1

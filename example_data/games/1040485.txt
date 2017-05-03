@@ -1,0 +1,21 @@
+[Event "Valley"]
+[Site "Valley"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "L Buccino"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 Rb8 4.Bg2 g6 5.d3 Bg7 6.f4 b5 7.Nh3 b4
+8.Nd5 e6 9.Ne3 Nge7 10.f5 exf5 11.exf5 d5 12.fxg6 hxg6 13.Nf4
+Be6 14.Nxe6 fxe6 15.a3 a5 16.axb4 axb4 17.Qg4 Ne5 18.Qd1 O-O
+19.Ra6 N7c6 20.Ng4 Qc8 21.Nxe5 Nxe5 22.Ra7 Nc6 23.Rxg7+ Kxg7
+24.Qd2 Rb7 25.h4 Kg8 26.h5 Qe8 27.Qg5 Rf5 28.Qg4 Ne5 29.Qe2
+gxh5 30.Bf4 Ng6 31.Bh3 Nxf4 32.gxf4 Rf6 33.Bg2 Qg6 34.Rxh5
+Rxf4 35.Re5 Ra7 36.Re3 Ra1+ 37.Kd2 d4 38.Rxe6 Qg5 39.Bd5 Re4
+0-1

@@ -1,0 +1,17 @@
+[Event "Prague blitz"]
+[Site "Prague blitz"]
+[Date "1943.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Sik"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 dxe4 6. Nxe4
+Bd7 7. dxc5 Qa5+ 8. Nc3 Bxc5 9. O-O Nf6 10. Bg5 Nd5 11. Nxd5
+exd5 12. Re1+ Be6 13. Bxc6+ bxc6 14. Nd4 Bxd4 15. Qxd4 O-O
+16. Re3 c5 17. Qh4 Rab8 18. Bf6 gxf6 19. Rg3+ 1-0

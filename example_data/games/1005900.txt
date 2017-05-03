@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "0-1"]
+[White "Adrianus M J van den Berg"]
+[Black "Dejan Stojanovski"]
+[ECO "B27"]
+[WhiteElo "2209"]
+[BlackElo "2279"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 g6 3. Nc3 Bg7 4. Bc4 d6 5. O-O Nf6 6. Ng5 O-O
+7. f4 h6 8. Nf3 Nxe4 9. Nxe4 d5 10. Bxd5 Qxd5 11. d3 Nc6
+12. h3 c4 13. Nf2 Rd8 14. Qe2 cxd3 15. Nxd3 Bf5 16. Nde1 b5
+17. c3 a5 18. a3 Rac8 19. Be3 e5 20. fxe5 Nxe5 21. Nd4 Bd7
+22. Rd1 Qc4 23. Qf2 b4 24. cxb4 axb4 25. b3 Qd5 26. a4 Qe4
+27. Ndf3 Be6 28. Rxd8+ Rxd8 29. Nxe5 Qxe5 30. Nf3 Qc3 31. a5
+Qxb3 32. Bb6 Rc8 33. Nd4 Qc4 34. Nxe6 Qxe6 35. a6 b3 36. a7
+Qd5 37. Rb1 b2 38. Be3 Qd3 39. Qe1 Bc3 40. a8=Q Rxa8 0-1

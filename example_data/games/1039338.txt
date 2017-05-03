@@ -1,0 +1,15 @@
+[Event "Groningen"]
+[Site "Groningen NED"]
+[Date "1991.12.21"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Lubomir Ftacnik"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 O-O 8.Ne2 Nc6 9.O-O 1/2-1/2

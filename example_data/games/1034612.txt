@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "David Bronstein"]
+[Black "Bukhuti Gurgenidze"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7
+7. Bb5+ Nbd7 8. d6 O-O 9. dxe7 Qxe7+ 10. Nge2 a6 11. Bd3 b5
+12. O-O Bb7 13. Bg5 Nb6 14. Qd2 Rfe8 15. Ng3 Qd7 16. Nce2 Ne4
+17. Bxe4 Bxe4 18. b3 Nd5 19. f3 1/2-1/2

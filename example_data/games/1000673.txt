@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.28"]
+[EventDate "1911.08.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Paul F Johner"]
+[Black "Julius Perlis"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d3 Qc7 11.Nbd2 O-O 12.Nf1 Kh8 13.h3
+Ng8 14.d4 Bf6 15.Ne3 Be6 16.Ng4 Bxg4 17.hxg4 exd4 18.cxd4 cxd4
+19.g5 Be5 20.Nh4 g6 21.f4 Bg7 22.f5 Be5 23.Nf3 f6 24.g4 Nc6
+25.Kg2 gxf5 26.exf5 Nb4 27.Be4 d5 28.Bb1 d3 29.Bxd3 Nxd3
+30.Qxd3 Rfe8 31.Rh1 fxg5 32.Nxg5 Nf6 33.Bd2 Rg8 34.Rh4 Ra7
+35.Rc1 Qb6 36.Kf3 Rag7 37.Re1 Qb8 38.Rxe5 Qxe5 39.Bc3 Qe7
+40.Rh6 Rf8 41.Ne6 Qxe6 42.fxe6 Nxg4 43.Ke2 Nxh6 44.Qxd5 Nf5
+45.Qd7 Kg8 46.Bxg7 Nxg7 47.e7 Re8 48.Qd5+ Kh8 49.Qf7 h5 50.Kf3
+Kh7 51.b4 Kh6 52.Kf4 1-0

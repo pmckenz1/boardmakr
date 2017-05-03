@@ -1,0 +1,26 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Lajos Asztalos"]
+[Black "Hans Kmoch"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 Nc6 6. Nf3 g6
+7. c3 Bf5 8. O-O Bxd3 9. Qxd3 Bg7 10. Bf4 O-O 11. Nbd2 Rc8
+12. Rfe1 a6 13. Re2 Nh5 14. Bh2 Bh6 15. Ne5 Nf4 16. Bxf4 Bxf4
+17. Ndf3 e6 18. g3 Bh6 19. Kg2 Bg7 20. h4 Nxe5 21. dxe5 h5
+22. Nd4 Qc7 23. f4 Qc4 24. Qf3 b5 25. a3 a5 26. g4 b4 27. axb4
+axb4 28. Rc1 bxc3 29. bxc3 hxg4 30. Qxg4 Qd3 31. Qf3 Qxf3+
+32. Kxf3 Rc4 33. h5 Rfc8 34. Rec2 gxh5 35. Ke3 Bh6 36. Kf3 Kf8
+37. Ne2 Ke7 38. Rd2 Re4 39. Rcd1 Rxe2 40. Rxe2 Rxc3+ 41. Kg2
+Bxf4 42. Rf1 Rg3+ 43. Kh1 Rg4 44. Rf3 f6 45. exf6+ Kxf6
+46. Rh3 h4 47. Ra3 d4 48. Re4 e5 49. Rd3 Kf5 50. Rexd4 exd4
+51. Rxd4 Rg3 52. Rd1 Ra3 53. Rd8 Kg4 54. Rg8+ Kh3 55. Rg1 Bg3
+56. Rd1 Ra2 57. Rf1 Rd2 58. Kg1 Be5 59. Rf3+ Kg4 60. Rf1 Kg3
+0-1

@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Joanna Dworakowska"]
+[Black "Silvia Buervenich"]
+[ECO "B99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 gxf6
+12. Bh3 Nb6 13. f5 e5 14. Nde2 Bd7 15. Bf1 Bc6 16. h4 O-O-O
+17. b3 Kb8 18. Kb2 Rc8 19. Rd2 Rhd8 20. Nd5 Nxd5 21. exd5 Bd7
+22. Ng3 Qa5 23. Qe3 Rg8 24. Be2 Bd8 25. Ne4 Bb6 26. Qf3 Bd4+
+27. c3 Bc5 28. b4 Bxb4 29. cxb4 Qxb4+ 30. Ka1 Rc7 31. Rb1 Qa5
+32. Rdb2 Qxd5 33. Nxf6 Qd4 34. Nxg8 e4 35. Qb3 Qe5 36. Bxa6
+Bc8 37. Nxh6 d5 38. g5 d4 39. Nxf7 Qa5 40. Bf1 Qxf5 41. Nd6
+Qg6 42. Nxc8 Kxc8 43. Bh3+ Kb8 44. Qd5 1-0

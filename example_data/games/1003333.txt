@@ -1,0 +1,23 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Frederik Benima"]
+[Black "Alfred Moewig"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Ne4
+7. Bxe7 Qxe7 8. cxd5 Nxc3 9. bxc3 exd5 10. Bd3 c5 11. O-O c4
+12. Bb1 f5 13. Bc2 Nd7 14. Qb1 g6 15. Qb5 Qd6 16. Rfb1 a6
+17. Qb4 Qxb4 18. Rxb4 b6 19. Ba4 b5 20. Bd1 Bb7 21. Ng5 h6
+22. Ne6 Rfc8 23. h4 Kf7 24. Nf4 g5 25. hxg5 hxg5 26. Nh5 Nf6
+27. Ng3 Ke6 28. Bc2 Ne4 29. Nxe4 dxe4 30. a4 Bc6 31. Kf1 Rh8
+32. Ke2 f4 33. exf4 gxf4 34. Rbb1 Rag8 35. axb5 axb5 36. Ra6
+Kd7 37. Ra7+ Kd6 38. Ra6 f3+ 39. gxf3 exf3+ 40. Kd2 Re8
+41. Rxb5 Rh1 42. Re5 Rxe5 43. dxe5+ Kc5 44. e6 Rh6 45. Bf5 Kd6
+46. Be4 1-0

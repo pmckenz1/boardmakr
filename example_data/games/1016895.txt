@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Balatonbereny (Hungary)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Istvan Borocz"]
+[Black "Andras Adorjan"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O
+Be7 8.f4 O-O 9.Kh1 Qc7 10.Qe1 b5 11.Bf3 Bb7 12.a3 Re8 13.Be3
+Nc6 14.Rd1 Rac8 15.Qg3 Red8 16.Qf2 Qb8 17.Nde2 Ba8 18.g4 b4
+19.axb4 d5 20.exd5 Nxb4 21.Ba7 Qb7 22.Bb6 Rxd5 23.Nxd5 Nbxd5
+24.g5 Ng4 25.Qg1 Nde3 26.Qxg4 Qxb6 27.Qg1 Bc5 28.b4 Qxb4 29.c3
+Qe4 30.h4 Nxf1 31.Qxc5 Qxf3+ 0-1

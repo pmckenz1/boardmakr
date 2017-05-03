@@ -1,0 +1,18 @@
+[Event "ICS"]
+[Site "ICS"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "NN"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 e6 5.Nc3 Nf6 6.Nf3 Be7 7.cxd5
+Nxd5 8.Bd3 Nc6 9.O-O Ncb4 10.Bb1 Nxc3 11.bxc3 Nd5 12.Qd3 Nf6
+13.Ne5 Bd7 14.Re1 Ba4 15.Bg5 Qa5 16.Qf3 Rd8 17.Be4 Qc7 18.Bxb7
+O-O 19.Rac1 Ba3 20.Bxf6 gxf6 21.Be4 fxe5 22.Bxh7+ Kxh7 23.Qh5+
+Kg7 24.Qg5+ 1-0

@@ -1,0 +1,22 @@
+[Event "Wall Street Blitz 2-"]
+[Site "Wall Street Blitz 2-"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Patrick Wolff"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 e6 4.d4 exd5 5.Nc3 Be7 6.Bd3 O-O
+7.Nge2 dxc4 8.Bxc4 Nbd7 9.O-O Nb6 10.Bb3 h6 11.Re1 Bd6 12.Ng3
+Bg4 13.Qd3 Qd7 14.h3 Be6 15.Bc2 Bc4 16.Qf3 Nh7 17.Nf5 Be6
+18.Nxd6 Qxd6 19.Bf4 Qxd4 20.Bxc7 Rac8 21.Be5 Qh4 22.Qxb7 Nc4
+23.Bg3 Qf6 24.Rad1 Ng5 25.Ne4 Qxb2 26.Bb3 Nxe4 27.Qxe4 Qf6
+28.Qd4 Qxd4 29.Rxd4 Na5 30.Bxe6 fxe6 31.Rxe6 Rf7 32.Ra4 Nc6
+33.Rc4 Ne7 34.Rxc8+ Nxc8 35.Re8+ Rf8 36.Rxf8+ Kxf8 37.Kf1 Kf7
+38.Ke2 Ke6 39.Kd3 Kd5 40.f3 Ne7 41.Bf2 h5 42.Bxa7 Nc6 43.Bf2
+Ne5+ 44.Kc3 Nc6 45.a4 g6 46.Bb6 Ne7 47.Kb4 Nf5 48.Kb5 Nd6+ 1-0

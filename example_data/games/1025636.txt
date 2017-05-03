@@ -1,0 +1,18 @@
+[Event "Novgorod op 64/87 (Smagin,S)"]
+[Site "Novgorod RUS"]
+[Date "1995.06.03"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Sergey Smagin"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Be2 Nxd5 5.d4 Bf5 6.Nf3 e6
+7.a3 Be7 8.c4 Nb6 9.Be3 O-O 10.Nc3 Bf6 11.h3 Nc6 12.g4 Bg6
+13.h4 e5 14.dxe5 Nxe5 15.Nxe5 Bxe5 16.h5 Bxc3+ 17.bxc3 Be4
+18.f3 Qxd1+ 19.Rxd1 Bc2 20.Rd4 Rfe8 21.Kf2 Re7 22.Rd2 Ba4
+23.h6 g6 24.c5 Nd7 25.Rb1 Rae8 26.Bb5 Bxb5 27.Rxb5 b6 1/2-1/2

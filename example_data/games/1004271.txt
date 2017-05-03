@@ -1,0 +1,18 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.06.30"]
+[EventDate "1930.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Ernst Gruenfeld"]
+[Black "Edgar Colle"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2
+Bxd2+ 7. Nbxd2 O-O 8. Qc2 d6 9. O-O Nbd7 10. e4 e5 11. d5 a5
+12. b3 Kh8 13. Ne1 Ng8 14. Nd3 Nc5 15. f4 Nxd3 16. Qxd3 exf4
+17. gxf4 c6 18. dxc6 Bxc6 19. Nf3 b5 20. Rad1 bxc4 21. Qxc4
+Qb6+ 22. Qd4 Qb7 1/2-1/2

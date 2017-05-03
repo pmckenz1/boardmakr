@@ -1,0 +1,18 @@
+[Event "Bundesliga 1988/89"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Peter K Wells"]
+[Black "Andras Adorjan"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O d6 7.Re1
+Be7 8.e4 a6 9.d4 cxd4 10.Nxd4 Qc7 11.Be3 Nbd7 12.Rc1 Rc8 13.f4
+Qb8 14.g4 g6 15.g5 Nh5 16.f5 e5 17.f6 exd4 18.Bxd4 Bd8 19.Bh3
+Nf4 20.Bg4 h5 21.gxh6 Ne5 22.Rf1 Nxg4 23.Qxg4 Rxc4 24.Rcd1 Nh5
+25.Nd5 b5 26.Rfe1 Qc8 27.Qg5 Qe6 28.Bc3 O-O 29.Rd3 Rxe4 0-1

@@ -1,0 +1,21 @@
+[Event "Rubinstein Memorial 15th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1977.08.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Eugenio Torre"]
+[Black "Lutz Espig"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 a6 7.g5
+Nfd7 8.h4 b5 9.a3 Bb7 10.Be3 Nb6 11.h5 N8d7 12.Rg1 g6 13.Rh1
+Bg7 14.hxg6 hxg6 15.Rxh8+ Bxh8 16.Qg4 Qe7 17.O-O-O Rc8 18.f4
+Rxc3 19.bxc3 Bxe4 20.Qh3 Bg7 21.Kd2 d5 22.Ra1 Na4 23.Ne2 Bf5
+24.Qh7 Kf8 25.Bh3 Nxc3 26.Bd4 Ne4+ 27.Kc1 e5 28.Bb2 Nxg5
+29.fxg5 Qxg5+ 30.Kd1 Nf6 31.Bc1 Nxh7 32.Bxg5 Nxg5 33.Bxf5 gxf5
+34.Ng3 f4 35.Nf5 e4 36.Nxg7 Kxg7 37.a4 f3 38.axb5 axb5 39.Rb1
+e3 40.Rb3 d4 0-1

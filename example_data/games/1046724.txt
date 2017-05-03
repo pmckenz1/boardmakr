@@ -1,0 +1,25 @@
+[Event "Tbilisi ch-URS wmn"]
+[Site "Tbilisi ch-URS wmn"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Zoya Schleining"]
+[Black "Alisa Galliamova"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 h6 4.Bxf6 Qxf6 5.Nbd2 d6 6.c3 g6 7.g3
+b6 8.Bg2 Bb7 9.Qa4+ c6 10.e4 Qe7 11.h4 Bg7 12.e5 O-O 13.Qa3 c5
+14.exd6 Qxd6 15.dxc5 Qxc5 16.Qxc5 bxc5 17.O-O-O Bd5 18.Ne1 Nc6
+19.Nf1 Bxg2 20.Nxg2 Ne5 21.Nfe3 c4 22.Kc2 Rab8 23.Rd2 Rfc8
+24.Rb1 Rb7 25.Ne1 Kf8 26.f4 Nd7 27.Nf3 h5 28.Ng5 Nf6 29.Rbd1
+Ke7 30.Re2 Rb5 31.Kc1 Ra5 32.a3 Rb5 33.Nc2 Rb7 34.Ne4 Nxe4
+35.Rxe4 a5 36.Ne3 a4 37.Rxc4 Rxc4 38.Nxc4 f6 39.Kc2 e5 40.fxe5
+fxe5 41.Rd5 Ke6 42.Ne3 Bh6 43.Rd3 Bxe3 44.Rxe3 Kd5 45.Rd3+ Ke4
+46.c4 Rc7 47.Kc3 Rb7 48.Rd6 Rb3+ 49.Kc2 g5 50.c5 Rb5 51.Kc3
+Rxc5+ 52.Kb4 Rc2 53.hxg5 Rxb2+ 54.Kxa4 Kf3 55.g6 Rb8 56.g7 Rg8
+57.Rg6 e4 58.Kb3 e3 59.Kc2 e2 60.Rf6+ Kxg3 61.Kd2 Rxg7 62.Kxe2
+h4 63.Kf1 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Mlada Boleslav (Czechoslovakia)"]
+[Site "Mlada Boleslav (Czechoslovakia)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Premysl Belaska"]
+[Black "Gerardo F Barbero"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.c3 cxd4 5.cxd4 d5 6.e5 Nc6 7.Nc3
+Bg4 8.Be2 Bxf3 9.Bxf3 e6 10.Be3 Nge7 11.O-O O-O 12.Qd2 Nf5
+13.Ne2 f6 14.exf6 Qxf6 15.Rad1 Rae8 16.b3 a6 17.Bg4 Nd6 18.f3
+h5 19.Bh3 Kh7 20.Nc3 Nf5 21.Bxf5 exf5 22.g3 Qd6 23.Rfe1 Re6
+24.Bf2 Rfe8 25.Kf1 Qb4 26.Rxe6 Rxe6 27.Qd3 Qa5 28.a4 Nb4
+29.Qd2 Bh6 30.f4 Nc6 31.Qd3 Bg7 32.Qf3 Ne7 33.Kg2 Rc6 34.Rd3
+Rd6 35.Be1 Qd8 36.Ne2 Ng8 37.Bb4 Rd7 38.Qe3 Nf6 39.Ng1 Ne4
+40.Nf3 Rc7 41.Ba5 Rc2+ 42.Rd2 Qc8 43.Ng5+ Kg8 44.Nxe4 fxe4
+45.h3 Rc1 46.Qe2 Rc6 47.g4 hxg4 48.hxg4 b6 49.Bb4 a5 50.Be7
+Rc3 51.f5 gxf5 52.Qb5 Qc6 53.Qxc6 Rxc6 54.gxf5 Kf7 55.Bd8 Bf6
+56.Bxf6 Kxf6 57.Rb2 Kxf5 58.b4 Rc4 59.bxa5 bxa5 60.Rb5 Rxd4
+61.Rxa5 Kf4 0-1

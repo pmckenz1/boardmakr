@@ -1,0 +1,21 @@
+[Event "USSR 14/493"]
+[Site "USSR 14/493"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Oleg Dementiev"]
+[Black "Yuri Balashov"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qc7 8.Qe2 Nbd7 9.O-O-O b5 10.g4 Bb7 11.Bg2 Nb6 12.a3 Rc8
+13.Bh4 h6 14.Be1 g6 15.h4 Qc4 16.Rd3 Bg7 17.Nb3 Qc7 18.Nd4 Qc4
+19.f5 Nfd7 20.fxe6 Bxd4 21.exd7 Nxd7 22.e5 Bxg2 23.exd6 Ne5
+24.d7 Kxd7 25.Rxd4+ Qxd4 26.Qxg2 Ke6 27.Rf1 f6 28.Qb7 Rhd8
+29.g5 hxg5 30.hxg5 f5 31.Qxa6+ Rc6 32.Qxb5 Qe3+ 33.Kb1 Rb6
+34.Qa4 Qxg5 35.Bh4 Qg2 36.Re1 Qd2 37.Qc4+ Kd6 38.Nb5+ Rxb5
+39.Qxb5 Nc6 40.Qc4 Ne5 41.Qf1 1-0

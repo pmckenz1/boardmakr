@@ -1,0 +1,24 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Thies Heinemann"]
+[Black "Stellan Brynell"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. dxc5
+Bxc5 7. Nb3 Bb6 8. Bg5 f6 9. Qe2+ Qe7 10. Bd2 Nc6 11. Bc3 Bg4
+12. Qxe7+ Ngxe7 13. Nfd4 Nxd4 14. Bxd4 Bxd4 15. Nxd4 Nc6
+16. Nxc6 bxc6 17. f3 Bf5 18. O-O-O Kd7 19. c4 Kd6 20. Bd3 Bxd3
+21. Rxd3 Rhd8 22. Re1 Rd7 23. cxd5 cxd5 24. Rde3 a5 25. Re6+
+Kc5 26. Kc2 Rb7 27. Rc1 Kd4 28. Rc6 Rab8 29. b3 a4 30. Rd1+
+Ke5 31. Re1+ Kd4 32. Rc3 axb3+ 33. axb3 Ra8 34. Rd3+ Kc5
+35. Kb2 Rba7 36. Red1 Ra2+ 37. Kc3 Rd8 38. b4+ Kc6 39. R1d2
+Ra3+ 40. Kd4 Ra4 41. Kc3 Ra3+ 42. Kc2 Ra2+ 43. Kb3 Rxd2
+44. Rxd2 Re8 45. Rc2+ Kb6 46. Kc3 Re1 47. Rd2 Kc6 48. Rc2 Kb6
+49. Rd2 1/2-1/2

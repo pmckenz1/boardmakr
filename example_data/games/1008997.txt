@@ -1,0 +1,15 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Julian Michael Hodgson"]
+[Black "Anthony Cornelis Kosten"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 c5 4. e3 h6 5. Bh4 b6 6. Nbd2 Bb7
+7. Bd3 Be7 8. O-O O-O 9. c3 1/2-1/2

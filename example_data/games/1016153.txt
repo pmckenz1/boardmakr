@@ -1,0 +1,22 @@
+[Event "Gladsaxe (Denmark)"]
+[Site "Gladsaxe (Denmark)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jens Kristiansen"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.f3 O-O 6.Bg5 Nc6 7.Nge2
+a6 8.Qd2 Rb8 9.h4 h5 10.O-O-O b5 11.Nd5 bxc4 12.g4 Nxd5
+13.exd5 Nb4 14.Nc3 c5 15.Bh6 Bxd4 16.Bxc4 hxg4 17.h5 g3
+18.Bxf8 Qxf8 19.a3 Qg7 20.axb4 Rxb4 21.h6 Qf8 22.Qe2 g2 23.h7+
+Kh8 24.Rhe1 Qh6+ 25.Kc2 Qh2 26.Qxe7 g1=Q 27.Re2 Bf5+ 28.Bd3
+Qxe2+ 29.Qxe2 Qe3 30.Qxe3 Bxe3 31.Bxf5 gxf5 32.Ra1 Bf4 33.Rxa6
+Kxh7 34.Ra4 Rxa4 35.Nxa4 Kg6 36.Kd3 Kf6 37.Nb6 Ke5 38.Kc4 Bh6
+39.Kb5 Kf4 40.Nc8 Bf8 41.Kc6 Kxf3 42.Nxd6 f4 43.Nxf7 Ke4 44.d6
+c4 45.Kc5 f3 46.Ng5+ Ke3 47.Nxf3 Kxf3 48.Kd5 Bxd6 1/2-1/2

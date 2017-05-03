@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Krishnan Sasikiran"]
+[Black "Daniel Gormally"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4
+O-O 7. e4 Na6 8. Be2 c5 9. d5 e6 10. O-O exd5 11. exd5 Bf5
+12. Bf4 Qb6 13. Na4 Qb4 14. a3 Qxc4 15. Bxc4 Rad8 16. Nc3 Ne4
+17. Nh4 Bxc3 18. Nxf5 Bd2 19. Ne3 g5 20. Bg3 Bxe3 21. fxe3 Nd2
+22. Bxa6 bxa6 23. Rf5 f6 24. b4 Kf7 25. bxc5 Kg6 26. Rd1 Ne4
+27. Rdf1 Nxc5 28. d6 Ne4 29. Rd5 Rd7 30. Rc1 Rb8 31. Rd4 f5
+32. Rd5 Nxg3 33. hxg3 Rb6 34. Rcc5 Rdxd6 35. Rxf5 h6 36. Rfd5
+Rf6 37. g4 Rb3 38. e4 Rxa3 39. e5 Re6 40. Kf2 Rb3 41. Rd6
+1/2-1/2

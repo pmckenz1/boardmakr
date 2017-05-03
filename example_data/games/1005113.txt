@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Martin Klicnar"]
+[Black "Markus Bawart"]
+[ECO "A30"]
+[WhiteElo "2250"]
+[BlackElo "2330"]
+[PlyCount "55"]
+
+1. c4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O Nf6 6. d4 cxd4
+7. Nxd4 O-O 8. Nc3 Ng4 9. e3 d6 10. b3 Nxd4 11. exd4 Nh6
+12. Bb2 Nf5 13. d5 Bd7 14. Qd2 Qa5 15. Rad1 Rfc8 16. Rfe1 a6
+17. g4 Bh6 18. Qe2 Nh4 19. Qxe7 Nxg2 20. Kxg2 Bg7 21. Qxd7
+Bxc3 22. Bxc3 Qxc3 23. Qxd6 b5 24. Qf4 bxc4 25. Re7 f5 26. Qh6
+Qh8 27. Rde1 fxg4 28. R1e6 1-0

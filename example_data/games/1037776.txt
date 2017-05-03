@@ -1,0 +1,21 @@
+[Event "05, Toronto"]
+[Site "05, Toronto"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ron Livshits"]
+[Black "Lawrence Day"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.c4 Nf6 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.d4 O-O 6.Nf3 Nbd7 7.O-O
+e5 8.e4 c6 9.Qc2 Re8 10.Rd1 Qe7 11.d5 c5 12.a3 Rf8 13.b4 b6
+14.Rb1 a6 15.bxc5 bxc5 16.Qa4 Nb8 17.Bg5 h6 18.Bxf6 Qxf6
+19.Rd2 Bg4 20.Ne1 Bd7 21.Qa5 Qd8 22.Qb6 Bc8 23.Rdb2 Qe7 24.Qa5
+Nd7 25.Qc7 Re8 26.Na4 Bf8 27.Bh3 Nf6 28.Qxe7 Bxe7 29.Bxc8
+Raxc8 30.f3 Ra8 31.Rb7 Bf8 32.Rc7 Re7 33.Rc6 Ne8 34.Rcb6 f5
+35.Ng2 Rf7 36.Nc3 Raa7 37.Rb8 Nf6 38.Nh4 fxe4 39.fxe4 Kh7
+40.Rd8 Be7 41.Rc8 Nd7 1/2-1/2

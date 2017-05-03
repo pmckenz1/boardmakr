@@ -1,0 +1,18 @@
+[Event "Tilburg UNEDO"]
+[Site "Tilburg NED"]
+[Date "1994.09.14"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Nana Ioseliani"]
+[Black "Alisa Galliamova"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f4 h6 10.Bh4 g5 11.fxg5 Ng4 12.Be2 Nge5
+13.Nxc6 Bxc6 14.g3 Ng6 15.Kb1 Be7 16.gxh6 Nxh4 17.gxh4 Bf8
+18.h5 Rxh6 19.Rhg1 Qe7 20.Rg8 O-O-O 21.Qd4 Rh7 22.a4 Qc7
+23.Rdg1 Bh6 24.Qf6 Be8 25.Nd5 Qc5 26.b4 Qa7 27.Qc3+ 1-0

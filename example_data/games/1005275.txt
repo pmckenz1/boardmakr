@@ -1,0 +1,17 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.05"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Hytham Omar"]
+[Black "Antoine Kassis"]
+[ECO "B20"]
+[WhiteElo "2106"]
+[BlackElo "2170"]
+[PlyCount "39"]
+
+1. e4 c5 2. d3 e6 3. g3 d5 4. Qe2 Nc6 5. c3 Nf6 6. Bg2 Be7
+7. f4 b6 8. e5 Nd7 9. Nf3 Ba6 10. O-O Rc8 11. a4 O-O 12. Na3
+Re8 13. f5 exf5 14. e6 Bf6 15. exf7+ Kxf7 16. Qd1 g6 17. Nb5
+Nde5 18. Bf4 Kg7 19. Nxe5 Bxe5 20. Qf3 1/2-1/2

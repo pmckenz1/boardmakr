@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.06.18"]
+[EventDate "1883.04.26"]
+[Round "26"]
+[Result "1-0"]
+[White "Samuel Rosenthal"]
+[Black "Alexander G Sellman"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Nf3 Bd6 6. Bd3
+Be6 7. O-O O-O 8. Ne2 c6 9. Ng3 Qc7 10. b3 Nbd7 11. c4 Rfe8
+12. Qc2 b6 13. Bb2 Nf8 14. c5 Bf4 15. Ne2 Bh6 16. Ne5 b5
+17. Bc1 Bxc1 18. Rfxc1 N6d7 19. Nf3 Bg4 20. Ng5 Nf6 21. h3
+Bxe2 22. Bxe2 Ne4 23. Nf3 Ng6 24. a4 a6 25. Bf1 Nf4 26. Ra2 b4
+27. g3 Nc3 28. Rb2 Nfe2+ 29. Bxe2 Nxe2+ 30. Qxe2 Rxe2 31. Rxe2
+f6 32. Rce1 Kf7 33. Kg2 a5 34. Re6 Qd7 35. Rd6 Qb7 36. Rde6
+Qd7 37. R6e3 h6 38. g4 g5 39. Nh2 h5 40. gxh5 Rf8 41. Ng4 Qd8
+42. Nh6+ Kg7 43. Nf5+ Kh8 44. Re7 Rg8 45. Nh6 Rf8 46. Nf7+
+Rxf7 47. Rxf7 g4 48. Rfe7 gxh3+ 49. Kh1 1-0

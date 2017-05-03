@@ -1,0 +1,17 @@
+[Event "Malmö Candidates Reserve Playoff"]
+[Site "Malmö SWE"]
+[Date "1983.01.05"]
+[EventDate "1983.01.02"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Mikhail Tal"]
+[Black "Ulf Andersson"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 O-O 6.g3 b6
+7.Bg2 Bb7 8.Nc3 Ne4 9.Nxe4 Bxe4 10.O-O d6 11.Qe3 Bb7 12.Qd3 f5
+13.Nh4 Bxg2 14.Nxg2 Qd7 15.Rad1 Nc6 16.Nf4 Rae8 17.d5 Nd8
+18.dxe6 Nxe6 19.Nxe6 Rxe6 20.e3 1/2-1/2

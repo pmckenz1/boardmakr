@@ -1,0 +1,21 @@
+[Event "Philadelphia op"]
+[Site "Philadelphia op"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nelson Castaneda"]
+[Black "Walter Shawn Browne"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.a4 Nc6 9.f4 O-O 10.O-O Nb4 11.Kh1 Bd7 12.a5 Rc8 13.Be3
+Bc6 14.Bd3 Re8 15.Qf3 d5 16.fxe5 dxe4 17.Nxe4 Nxd3 18.cxd3
+Qxd3 19.exf6 Bxe4 20.Qg3 Bxf6 21.Nc5 Qxe3 22.Qxe3 Bxg2+
+23.Kxg2 Rxe3 24.Nxb7 Rb8 25.Rae1 Re7 26.Nc5 Rxb2+ 27.Kh3 h5
+28.Nxa6 Ra7 29.Nc5 Rxa5 30.Nd3 Ra3 31.Rd1 Be5 32.Kh4 Rxh2+
+33.Kg5 Bf6+ 34.Rxf6 gxf6 35.Kxf6 Ra6+ 36.Kf5 Ra5+ 37.Kf4 Rh4+
+38.Kg3 Rg4+ 39.Kf2 Rf5+ 40.Ke3 h4 41.Nf2 Rg3+ 0-1

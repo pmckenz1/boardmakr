@@ -1,0 +1,20 @@
+[Event "London (England)"]
+[Site "London ENG"]
+[Date "1987.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Peter G Large"]
+[Black "Jay R Bonin"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 b6 7.Nf3
+Ba6 8.Bxa6 Nxa6 9.Ng5 h5 10.O-O Nb8 11.Qf3 Nf5 12.Qh3 Nc6
+13.g4 Nh6 14.Qxh5 Qd7 15.f4 O-O-O 16.f5 exf5 17.gxf5 f6 18.Ne6
+Rdg8 19.Qe2 g6 20.Qa6+ Kb8 21.Nc5 gxf5 22.Kh1 Qc8 23.Qb5 Ng4
+24.Bf4 Nxh2 25.Bxh2 Rxh2+ 26.Kxh2 Rh8+ 27.Kg2 Qg8+ 28.Kf2 Rh2+
+29.Ke1 Qg3+ 30.Kd1 Qxc3 31.Nb3 Qxc2+ 32.Ke1 a6 33.Qxd5 Qe2#
+0-1

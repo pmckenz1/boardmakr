@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Patrick Yee"]
+[Black "Joel Benjamin"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.f4 Nf6 2.Nf3 g6 3.e3 Bg7 4.Be2 O-O 5.O-O c5 6.d3 Nc6 7.e4 d6
+8.Qe1 Ne8 9.c3 Rb8 10.a4 a6 11.Na3 b5 12.axb5 axb5 13.Nc2 Nc7
+14.d4 cxd4 15.cxd4 d5 16.e5 b4 17.Bd2 Bg4 18.Nxb4 Nxb4 19.Bxb4
+Ne6 20.Qd2 Qd7 21.Bc3 Bh6 22.g3 f6 23.exf6 exf6 24.Rfe1 Ra8
+25.Rxa8 Rxa8 26.Ne5 fxe5 27.Bxg4 e4 28.Qg2 Bg7 29.Qh3 Ra6
+30.Qf1 Qc6 31.Rd1 Qb6 32.Bxe6+ Qxe6 33.Qb5 h5 34.Bb4 Rb6
+35.Qa4 Kh7 36.Bc3 h4 37.Qc2 Qg4 38.Be1 Rxb2 39.Qxb2 Qxd1
+40.Qd2 Bxd4+ 41.Kg2 Qxd2+ 42.Bxd2 hxg3 43.hxg3 Kg7 44.Kf1 Kf6
+45.g4 Bc5 46.Ke2 d4 47.Bc1 Ke6 48.Bd2 Kd5 49.Bc1 d3 50.Ke1 e3
+51.Kd1 Ke4 0-1

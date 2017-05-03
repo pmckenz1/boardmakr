@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.15"]
+[EventDate "1911.08.21"]
+[Round "19"]
+[Result "0-1"]
+[White "Erich Cohn"]
+[Black "Charles Jaffe"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bf4 Bb4 6.Qb3 c5 7.e3
+Qa5 8.Nd2 Nh5 9.Bd6 Qb6 10.dxc5 Nxc5 11.Bxc5 Qxc5 12.Rc1 Bxc3
+13.Qxc3 O-O 14.Be2 Nf6 15.O-O dxc4 16.Nxc4 Nd5 17.Qe5 Qe7
+18.Rfd1 f6 19.Qd4 b6 20.Bf3 Bb7 21.e4 e5 22.Qd2 Nf4 23.Nd6 Bc8
+24.g3 Nh3+ 25.Kg2 Ng5 26.Be2 Bh3+ 27.Kh1 Rad8 28.Bc4+ Kh8
+29.f4 exf4 30.gxf4 Rxd6 0-1

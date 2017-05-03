@@ -1,0 +1,25 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Jacek Gdanski"]
+[Black "Bartlomiej Macieja"]
+[ECO "C26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 Bc5 5. Nge2 d6 6. Na4 Bb6
+7. O-O O-O 8. Nxb6 axb6 9. d4 exd4 10. Nxd4 Bd7 11. b3 Re8
+12. Re1 d5 13. Nxc6 Bxc6 14. e5 Nd7 15. Bb2 Nc5 16. a4 Qd7
+17. Qd2 Qf5 18. Bd4 Ne6 19. c3 Rad8 20. b4 Bd7 21. Qe3 Bc8
+22. f4 Qg6 23. a5 b5 24. Bf1 Nxd4 25. cxd4 c6 26. Ra2 h5
+27. h3 f6 28. Kh2 fxe5 29. fxe5 Rf8 30. Bd3 Bf5 31. Bxf5 Rxf5
+32. Rf2 Rxf2+ 33. Qxf2 Rf8 34. Qe2 h4 35. Rg1 Qe4 36. Qxe4
+dxe4 37. gxh4 e3 38. Kg3 Rd8 39. Kf3 Rxd4 40. Rg4 Rd5 41. Rg5
+Rd4 42. Rg4 Rd5 43. Re4 Kf7 44. e6+ Ke7 45. Kxe3 Rd6 46. Rg4
+Rxe6+ 47. Kd4 Kd6 48. h5 Re7 49. Rg6+ Kc7 50. h4 b6 51. a6 Kb8
+52. Rxc6 Ka7 53. Kd5 Kxa6 54. h6 gxh6 55. Rxh6 Rh7 56. Rxh7
+1/2-1/2

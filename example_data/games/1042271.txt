@@ -1,0 +1,19 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jacques Davidson"]
+[Black "Max Euwe"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 b6 4. Bg2 Bb7 5. O-O Bg7 6. c4 O-O
+7. Nc3 d6 8. Qc2 Nbd7 9. e4 e5 10. dxe5 dxe5 11. h3 c6 12. Be3
+Qc7 13. Rad1 Rfd8 14. Rd2 Nf8 15. Rfd1 Rxd2 16. Rxd2 Ne6
+17. Ng5 Nxg5 18. Bxg5 Rd8 19. Qd1 Rxd2 20. Qxd2 Nd7 21. Be7
+Nf8 22. Qd6 Qxd6 23. Bxd6 Ne6 24. Bb8 a6 25. a4 Nd4 26. Ba7 b5
+27. axb5 axb5 28. cxb5 cxb5 29. Nd5 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "London ;HCL 34"]
+[Site "London ENG"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "John Finch"]
+[Black "John Racker Medley"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 c5 2.f4 e6 3.c4 g6 4.Nf3 Bg7 5.Nc3 Nc6 6.d3 Nge7 7.Be3 b6
+8.Be2 Bb7 9.O-O O-O 10.Rb1 d5 11.cxd5 exd5 12.exd5 Nxd5
+13.Nxd5 Qxd5 14.b3 Rfe8 15.Bf2 Nd4 16.Bxd4 Bxd4+ 17.Kh1 Re7
+18.Rc1 Rae8 19.Rc2 Be3 20.d4 Bxd4 21.Bc4 Qh5 22.Be2 Qg4 23.Bb5
+Bxf3 24.gxf3 Qxf4 25.Bxe8 Rxe8 26.Re2 Re6 27.Rxe6 fxe6 28.Qe2
+Kf7 29.Qe4 Qd2 30.Re1 e5 31.Rf1 Qe3 32.Qb7+ Kf6 33.Qxh7 Qe2
+34.Qh4+ Kf7 35.Qe1 Qxe1 36.Rxe1 Kf6 37.Re4 Kf5 38.Kg2 Bc3
+39.Kf1 a5 40.a4 Bd2 41.Kg2 Bf4 42.h3 Kg5 43.Re1 Kf5 44.Rd1 Ke6
+45.Rd8 c4 46.bxc4 Be3 47.Kg3 g5 48.Kg4 Ke7 49.Rh8 Kd6 50.Rc8
+Kd7 51.Rb8 Kc6 52.Kf5 Bf4 53.Ke4 Kc5 54.Rb7 Kc6 55.Rb8 Kc5
+56.Rc8+ Kd6 57.Re8 Kc5 58.Re6 Bg3 59.Kf5 Bf4 60.Kg4 Kxc4
+61.Rxb6 1-0

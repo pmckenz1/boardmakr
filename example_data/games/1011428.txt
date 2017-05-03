@@ -1,0 +1,27 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "Ch USA (juniors), San Francisco (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Eugene Perelshteyn"]
+[Black "Vinay Bhat"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3
+Be7 7. Be3 Nd7 8. Nd4 Ne5 9. Be2 c5 10. Nf3 Ng4 11. Bf4 O-O
+12. O-O Nf6 13. Qd3 Qb6 14. a4 Bg4 15. Nd2 Bxe2 16. Qxe2 Rfe8
+17. Qb5 Nd5 18. Bg3 Bf8 19. Nc4 Qc7 20. Rfd1 a6 21. Qb3 Nf6
+22. Bxd6 Bxd6 23. Nxd6 Re2 24. Qxb7 Qxb7 25. Nxb7 Rxc2
+26. Nxc5 Rxb2 27. Nxa6 g6 28. Nb4 Ne4 29. Nd5 Ra5 30. Rd4 Nc5
+31. Ne3 Kg7 32. Kf1 Rb7 33. Rb4 Rba7 34. Rc4 Nxa4 35. h4 h5
+36. g3 Nb2 37. Rxa5 Rxa5 38. Rd4 Ra2 39. Kg2 Kf6 40. Kf3 Ra3
+41. Ke4 Na4 42. Nd5+ Ke6 43. Kd3 Ra2 44. f3 Nc5+ 45. Kc4 Nb7
+46. Nf4+ Ke7 47. Nd3 Nd6+ 48. Kb3 Rg2 49. g4 hxg4 50. fxg4 Rh2
+51. c4 Rxh4 52. c5 Nb5 53. Re4+ Kd8 54. Ne5 Kc7 55. Nxf7 Kc6
+56. Kb4 Nc7 57. Kc4 g5 58. Ne5+ Kb7 59. c6+ Kb6 60. Re1 Ne6
+61. Rb1+ Kc7 62. Kd5 Nd8 63. Ra1 Rh2 64. Ra7+ Kc8 65. Nc4 Kb8
+66. c7+ 1-0

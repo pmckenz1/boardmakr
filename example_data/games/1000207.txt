@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Stanley W Fink"]
+[Black "Edward W Formanek"]
+[ECO "A45"]
+[WhiteElo "2200"]
+[BlackElo "2407"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6
+7. f4 Qd8 8. Bc4 a6 9. a4 g6 10. e5 Nfd7 11. Qe2 dxe5 12. fxe5
+Bg7 13. Nf3 O-O 14. O-O Nb6 15. Ba2 Bg4 16. h3 Bxf3 17. Rxf3
+c4 18. Raf1 Nxd5 19. Nxd5 Qxd5 20. Bxc4 Qc5+ 21. Be3 Qxe5
+22. Rxf7 Rxf7 23. Rxf7 Kh8 24. Qd2 Nc6 25. Kh1 Rd8 26. Bd3 Qe6
+27. Rf1 Ne5 28. Bh6 Nxd3 29. cxd3 Bf6 30. Qb4 Qd7 31. Qb3 Qxd3
+32. Qxd3 Rxd3 33. Rb1 Rd7 34. Rc1 Kg8 35. g4 g5 36. Rc5 b6
+37. Rf5 Rd1+ 38. Kg2 Ra1 39. h4 gxh4 40. Be3 Ra2+ 41. Kh1 h6
+42. Bxh6 Rxa4 43. Be3 b5 44. g5 Bd4 45. Bxd4 Rxd4 0-1

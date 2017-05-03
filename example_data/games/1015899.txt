@@ -1,0 +1,20 @@
+[Event "Magyarorszag"]
+[Site "Magyarorszag"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Laszlo Vadasz"]
+[Black "Andras Adorjan"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.c4 Bg4 5.Be2 Nc6 6.Nbd2 e5 7.d5
+Nce7 8.Qb3 b6 9.Nxe5 Bxe2 10.Qa4+ b5 11.Qxb5+ Kf8 12.Nd7+ Ke8
+13.Nf6+ Kf8 14.Nxg8 Nf5 15.exf5 Rb8 16.Qxb8 Qxb8 17.Kxe2 Rxg8
+18.Re1 Ke7 19.fxg6 hxg6 20.Kf1 Kd7 21.Ne4 Re8 22.c5 Qb5+
+23.Kg1 dxc5 24.Bh6 Bd4 25.Rad1 Qxb2 26.Bc1 Qb6 27.d6 Re6
+28.dxc7 Kxc7 29.Bf4+ Kc6 30.h4 Qb2 31.Bg3 Qxa2 32.Kh2 a5 33.f3
+a4 34.Rd2 Qb3 35.Rc1 Be3 36.Nxc5 Bxc5 0-1

@@ -1,0 +1,17 @@
+[Event "URS-FL Irkutsk"]
+[Site "URS-FL Irkutsk"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Yuri Razuvaev"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6 11.Be3 Ne5 12.f3 Bb7 13.Qe1
+Rc8 14.Rd1 Qc7 15.Qf2 Nfd7 16.Rd4 Nc6 17.Rd2 Nce5 18.Rd4 Nc6
+19.Rd2 Nce5 20.Rd4 1/2-1/2

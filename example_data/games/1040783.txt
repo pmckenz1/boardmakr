@@ -1,0 +1,18 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Staehelin"]
+[Black "Erich Eliskases"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 Nbd7 6.Be2 e5 7.d5
+Nc5 8.Qc2 a5 9.O-O O-O 10.b3 Nh5 11.Re1 f5 12.Nd2 Nf6 13.f3
+Nh5 14.exf5 Qh4 15.Bb2 Bh6 16.Nf1 Qd4+ 17.Kh1 Bxf5 18.Qd1 Qf2
+19.Bc1 Bc2 20.Qxc2 Qxe1 21.a3 Bxc1 22.Rxc1 Qf2 23.Nd1 Qd4
+24.b4 axb4 25.axb4 Na6 26.Rb1 Nf4 27.Ng3 c5 28.bxc5 Nxc5 0-1

@@ -1,0 +1,15 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.18"]
+[EventDate "1930.01.16"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Rudolf Spielmann"]
+[Black "Milan Vidmar"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.Bg5 h6 7.Bxf6
+Qxf6 8.Nd5 Qd8 9.Qe2 Bg4 10.h3 Bxf3 11.Qxf3 1/2-1/2

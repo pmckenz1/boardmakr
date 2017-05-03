@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Leonid Alexandrovich Shamkovich"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3
+Be7 8.Qe2 a6 9.O-O-O Qc7 10.Bb3 O-O 11.Rhg1 Nd7 12.g4 Nc5
+13.g5 Nxb3+ 14.axb3 b5 15.Nxc6 Qxc6 16.Bd4 b4 17.Bf6 Re8
+18.Rd3 bxc3 19.Rh3 Bf8 20.Rxh7 Kxh7 21.Qh5+ Kg8 22.Rg4 Qb5
+23.bxc3 Qe2 24.g6 fxg6 25.Qxg6 e5 26.Rg3 Re6 27.Qg5 Rxf6 0-1

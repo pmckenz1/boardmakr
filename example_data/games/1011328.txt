@@ -1,0 +1,18 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "John K Shaw"]
+[Black "Alan Minnican"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+
+Nxf6 7. c3 Qc7 8. Bc4 e6 9. O-O Bd6 10. Re1 O-O 11. Qe2 b6
+12. Ne5 Re8 13. Bg5 Nd5 14. Qh5 g6 15. Qh4 f5 16. Bxd5 cxd5
+17. Re3 Be7 18. Rg3 Bxg5 19. Rxg5 Re7 20. Qh6 Rg7 21. h4 a5
+22. Re1 Ra7 23. Re3 Kf8 24. h5 1-0

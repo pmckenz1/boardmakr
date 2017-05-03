@@ -1,0 +1,25 @@
+[Event "Ch World FIDE (play-off), Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Andres Rodriguez Vila"]
+[Black "Karen Asrian"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6
+7. Nbd2 Nd7 8. c3 c5 9. a3 Nc6 10. b4 cxd4 11. cxd4 Be7
+12. Re1 O-O 13. Nf1 Nb6 14. Ne3 Bg6 15. Bb2 Rc8 16. Rc1 Qd7
+17. Qb3 a6 18. Nd2 Na7 19. f4 Qa4 20. Rxc8 Rxc8 21. Rc1 Rxc1+
+22. Bxc1 Qc6 23. Bb2 Na4 24. Kf2 Nxb2 25. Qxb2 Nb5 26. Nb3 Nc3
+27. Nc5 Nxe2 28. Qxe2 a5 29. Qb2 axb4 30. axb4 Qb5 31. f5 Bxf5
+32. Nxf5 exf5 33. Qb3 b6 34. Qa4 Qc4 35. Qe8+ Bf8 36. Nd7
+Qxd4+ 37. Kf1 Qd1+ 38. Kf2 Qd2+ 39. Kf1 Qf4+ 40. Ke2 Qxb4
+41. Qc8 b5 42. Qb8 d4 43. Nxf8 Qxf8 44. Qxb5 Qa8 45. Kf2 Qa2+
+46. Kg3 Qe6 47. Kf3 Kh7 48. Qc5 Qb3+ 49. Kf4 Qd3 50. h4 g6
+51. Qc1 Qe4+ 52. Kg3 Qxe5+ 53. Kf2 Qe3+ 54. Qxe3 dxe3+
+55. Kxe3 Kg7 0-1

@@ -1,0 +1,24 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.21"]
+[EventDate "2000.01.21"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Dick Floor"]
+[Black "Alexander Kalinin"]
+[ECO "B63"]
+[WhiteElo "2278"]
+[BlackElo "2422"]
+[PlyCount "104"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 h6 8. Bxf6 gxf6 9. O-O-O a6 10. f4 Bd7 11. Kb1 Qb6
+12. Nf3 O-O-O 13. Bc4 Kb8 14. f5 Qc5 15. Bb3 Na5 16. Qe2 Nxb3
+17. axb3 Be7 18. Rd3 h5 19. g3 b5 20. Rhd1 Bc8 21. Nd4 h4
+22. b4 Qb6 23. g4 Bd7 24. Qf3 Rhg8 25. Nce2 Qb7 26. Nf4 e5
+27. Nd5 exd4 28. Nxe7 Bc6 29. Nxc6+ Qxc6 30. Rxd4 Rge8 31. Qf4
+Re5 32. Qh6 Rxe4 33. Qxf6 Rc8 34. c3 Rxd4 35. Qxd4 Re8 36. h3
+Re2 37. g5 Kb7 38. Qxd6 Qe4+ 39. Qd3 Qxd3+ 40. Rxd3 Rg2
+41. Rd7+ Kc6 42. Rxf7 Rxg5 43. f6 Rf5 44. Rf8 Kd5 45. b3 Rf3
+46. Kc2 Rxh3 47. Ra8 Rf3 48. Rxa6 h3 49. f7 Rxf7 50. Rh6 Rf2+
+51. Kd3 Rf3+ 52. Kd2 Rg3 1/2-1/2

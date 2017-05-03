@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.20"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Amado Dounia"]
+[Black "Efim Geller"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Bb3 O-O 6.O-O d6 7.c3
+Nd7 8.Be3 Nc5 9.Bc2 Bg4 10.b4 Ne6 11.Bb3 Bg5 12.Bxe6 Bxf3
+13.Qxf3 fxe6 14.Qg4 Bxe3 15.fxe3 Rxf1+ 16.Kxf1 Qf6+ 17.Kg1 a5
+18.b5 Rf8 19.Qe2 Na7 20.c4 Nc8 21.Nd2 Nb6 22.Rf1 Qg5 1/2-1/2

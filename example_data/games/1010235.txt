@@ -1,0 +1,20 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexander Chernin"]
+[Black "Gyula Sax"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7
+7. Bg2 c6 8. O-O d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Bc3 O-O
+12. Nd2 Rb8 13. Bb2 Nf6 14. Rc1 c5 15. cxd5 exd5 16. Re1 Re8
+17. e3 Rc8 18. dxc5 bxc5 19. Qc2 Qd7 20. Nf3 Ne4 21. Ne5 Qe6
+22. Nd3 Bxd3 23. Qxd3 Bf6 24. Bxf6 Nxf6 25. Red1 Red8 26. Rd2
+h6 27. Qb5 Qb6 28. Qxb6 axb6 29. Rcd1 Rc7 30. Bxd5 Rcd7 31. e4
+Kf8 32. Rd3 1/2-1/2

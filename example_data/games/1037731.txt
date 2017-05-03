@@ -1,0 +1,26 @@
+[Event "05, Toronto"]
+[Site "05, Toronto"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Krunoslav Hulak"]
+[Black "Lawrence Day"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 Bf5 4.Nc3 h6 5.g3 c6 6.Bg2 Nbd7 7.O-O
+e6 8.d5 cxd5 9.cxd5 e5 10.Nd2 Nb6 11.a4 a5 12.e4 Bd7 13.b3 Be7
+14.Ba3 O-O 15.Qe2 Ne8 16.Nb5 Ra6 17.Rac1 Na8 18.Rc2 g6 19.Nc4
+Kh7 20.f4 exf4 21.gxf4 Nac7 22.Nxc7 Nxc7 23.e5 Ne8 24.Kh1 b5
+25.Nd2 Rb6 26.e6 fxe6 27.dxe6 Bc8 28.axb5 Ng7 29.Bb2 d5 30.Nf3
+Rxe6 31.Ne5 Bb7 32.Rfc1 Bd6 33.Qd2 Nh5 34.Nc6 Qh4 35.Be5 Nxf4
+36.Bxd6 Rxd6 37.Ne5 Re6 38.Rc7+ Re7 39.Nf3 Qf6 40.Qd4 Qd6
+41.Rxe7+ Qxe7 42.b6 Ne6 43.Qe5 Qf6 44.Qxf6 Rxf6 45.Ne5 Rf8
+46.Nd3 Kg8 47.Ra1 Rf7 48.Rxa5 d4 49.Kg1 Bxg2 50.Kxg2 Rb7
+51.Ra8+ Kf7 52.Ra7 Rxa7 53.bxa7 Nc7 54.Kf3 Ke6 55.Ke4 Kd6
+56.Ne5 g5 57.b4 h5 58.Nf7+ Kc6 59.Nxg5 Kb7 60.Kxd4 Kxa7 61.Kc5
+Na6+ 62.Kb5 Kb7 63.Ne6 Nb8 64.Nc5+ Kc8 65.Kb6 h4 66.b5 h3
+67.Ka7 Kc7 68.Na6+ Nxa6 69.Kxa6 Kb8 70.Kb6 Ka8 71.Kc7 1-0

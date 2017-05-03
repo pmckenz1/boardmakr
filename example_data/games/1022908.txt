@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga LAT"]
+[Date "1968.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Mikhail Podgaets"]
+[Black "Vladimir Bagirov"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.O-O c6 6.Ba4 Nf6
+7.Re1 d6 8.d3 Be7 9.c3 dxc3 10.Nxc3 O-O 11.d4 d5 12.e5 Ne8
+13.Bc2 g6 14.Bh6 Ng7 15.a3 a5 16.Qd2 Re8 17.Rad1 Bf5 18.Bxg7
+Bxc2 19.Qxc2 Kxg7 20.f4 f5 21.Na4 Qb8 22.Nc5 Bxc5 1/2-1/2

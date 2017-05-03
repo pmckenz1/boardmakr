@@ -1,0 +1,16 @@
+[Event "Wrexham (England)"]
+[Site "It"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Malcolm Pein"]
+[Black "Nigel Rodney Davies"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Qb3 Qe7 6.a3 Bxc3+
+7.Qxc3 Bb7 8.g3 O-O 9.Bg2 d6 10.O-O Nbd7 11.b4 a5 12.Bb2 axb4
+13.axb4 Rxa1 14.Rxa1 Ra8 15.Rxa8+ Bxa8 16.Qa3 1/2-1/2

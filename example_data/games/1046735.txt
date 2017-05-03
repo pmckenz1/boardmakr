@@ -1,0 +1,20 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "T Hoang"]
+[Black "Alisa Galliamova"]
+[ECO "A35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.c4 Nf6 2.Nf3 c5 3.Nc3 Nc6 4.e4 e6 5.d3 d5 6.e5 d4 7.Nb5 Ng4
+8.Bg5 Be7 9.Nd6+ Kf8 10.Bxe7+ Qxe7 11.Ne4 Ngxe5 12.Nxe5 Nxe5
+13.Qh5 f5 14.Ng5 Bd7 15.Be2 Be8 16.Qh4 h6 17.Qg3 Nxd3+ 18.Bxd3
+hxg5 19.Qe5 Rd8 20.O-O Qd6 21.Rae1 Kf7 22.f3 b6 23.a3 Bc6
+24.b4 Qxe5 25.Rxe5 Kf6 26.Rfe1 Be4 27.fxe4 f4 28.Rd5 exd5
+29.e5 Ke6 30.b5 g4 31.a4 Rh5 32.cxd5 Kxd5 33.e6+ Re5 34.Bc4+
+Kd6 0-1

@@ -1,0 +1,25 @@
+[Event "Irkutsk URS sf"]
+[Site "5"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Oleg Romanishin"]
+[Black "Yuri Balashov"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.d4 e6 5.O-O cxd4 6.Nxd4 Bc5 7.Nb3
+Bb6 8.c4 Nge7 9.Nc3 dxc4 10.Qxd8+ Bxd8 11.Nd2 Na5 12.b4 cxb3
+13.axb3 Nf5 14.Rd1 Nc6 15.Nc4 O-O 16.Ba3 Be7 17.Bxe7 Nfxe7
+18.Nb5 e5 19.Nb6 Rb8 20.Nxa7 Nxa7 21.Rxa7 Nc6 22.Bxc6 bxc6
+23.Nc4 Rxb3 24.Nxe5 Rb7 25.Nxc6 Rxa7 26.Nxa7 Ba6 27.Rd2 Re8
+28.Kf1 Kf8 29.Nc6 Bb7 30.Nd4 g6 31.f3 Rc8 32.Kf2 Rc4 33.h4 h5
+34.Ke3 Ke7 35.Rb2 Bc8 36.Rc2 Rxc2 37.Nxc2 f6 38.Nb4 Ke6 39.Kd4
+Bd7 40.Nd3 Bb5 41.Nf4+ Kf7 42.e4 Bc6 43.Nd3 Ke6 44.f4 Kd6
+45.Nc5 Ke7 46.e5 Bf3 47.Ne4 fxe5 48.fxe5 Bg4 49.Nc5 Bh3 50.Ke4
+Bg4 51.Kd3 Bf5+ 52.Ke2 Bb1 53.Kf2 Kf7 54.Kf3 Ke7 55.Ke3 Bc2
+56.Kf4 Kf7 57.Na6 Ke7 58.Nb4 Bb1 59.Nc6+ Ke6 60.Nd4+ Kd5
+61.Nf3 Ke6 62.Ng5+ Kd5 63.Nf7 Ke6 64.Nh8 1-0

@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Shaun Davies"]
+[Black "Mark McKenzie"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 c5 2. e3 e6 3. Nf3 Nf6 4. Bd3 d5 5. b3 Bd7 6. Bb2 Be7
+7. Nbd2 O-O 8. O-O Nc6 9. a3 a5 10. Ne5 Nxe5 11. dxe5 Ne8
+12. Qh5 g6 13. Qh3 Kg7 14. f4 f5 15. exf6+ Bxf6 16. Bxf6+ Rxf6
+17. g4 Nd6 18. Nf3 h6 19. g5 hxg5 20. fxg5 Nf5 21. gxf6+ Qxf6
+22. Bxf5 Rh8 23. Qg3 exf5 24. Qg5 Qd6 25. Rf2 Rh5 26. Qg3 Qf6
+27. Qe5 Bc6 28. Qxf6+ Kxf6 29. h4 d4 30. exd4 cxd4 31. Nxd4
+Be4 32. Nf3 f4 33. Ng5 Bf5 34. Rxf4 Ke5 35. Rf2 Kf6 36. Ne4+
+Kg7 37. Ng3 1-0

@@ -1,0 +1,17 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Igors Rausis"]
+[Black "Stefan E S Kindermann"]
+[ECO "E64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7
+7. Nc3 e5 8. b3 Re8 9. e3 exd4 10. exd4 Nf8 11. Be3 c6 12. h3
+d5 13. Rc1 Ne4 14. cxd5 Nxc3 15. Rxc3 Qxd5 16. Rc5 Qd6 17. d5
+Rxe3 18. fxe3 Qxc5 0-1

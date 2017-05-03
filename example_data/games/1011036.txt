@@ -1,0 +1,23 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Einar J Gausel"]
+[Black "Knut Harald Storland"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. g3 b5 6. Bg2 Bb7
+7. O-O Nd7 8. e4 Bb4 9. d5 e5 10. a4 a6 11. Bg5 Ngf6 12. dxc6
+Bxc6 13. axb5 axb5 14. Rxa8 Qxa8 15. Bxf6 gxf6 16. Nd5 Bxd5
+17. exd5 Bd6 18. Nh4 Nc5 19. Nf5 Kd7 20. Qf3 e4 21. Qc3 Qxd5
+22. Qxf6 Be5 23. Qe7+ Kc6 24. Ra1 Rb8 25. Qa7 Rb7 26. Qa8 Qd7
+27. Ne3 Bxb2 28. Rd1 Bd4 29. Kh1 f5 30. Nxf5 Qxf5 31. Rxd4
+Qxf2 32. Rd1 Qf6 33. Ra1 Qd4 34. Rf1 c3 35. Qf8 Kb6 36. Qh6+
+Ka5 37. Ra1+ Na4 38. Qc6 c2 39. Rf1 Qc4 40. Qxc4 bxc4 41. Bxe4
+Rb2 42. Rc1 Nc3 43. Rxc2 Rb1+ 44. Kg2 Nxe4 45. Rxc4 Nf6
+1/2-1/2

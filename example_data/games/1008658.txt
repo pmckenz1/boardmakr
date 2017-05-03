@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Bin-Sattar Reefat"]
+[Black "John Emms"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6
+7. O-O Nf6 8. Kh1 Nxd4 9. Qxd4 Bc5 10. Qd3 b5 11. f4 Bb7
+12. Bf3 h5 13. e5 Ng4 14. Bxb7 Qxb7 15. Ne4 Be7 16. b3 Rc8
+17. Bb2 Nh6 18. Qf3 Qb8 19. Rf2 Nf5 20. Rd1 h4 21. Rd3 Rc7
+22. Bd4 b4 23. Rfd2 O-O 24. Nf6+ Bxf6 25. exf6 g6 26. Be5 d6
+27. Bxd6 Nxd6 28. Rxd6 Rxc2 29. h3 Rxa2 30. Rd1 Ra1 31. Kh2
+Rxd1 32. Qxd1 Re8 33. Qd4 a5 34. Qe5 Rd8 35. Rd7 Qa8 36. Re7
+Rd2 37. Qg5 a4 38. f5 Qb8+ 0-1

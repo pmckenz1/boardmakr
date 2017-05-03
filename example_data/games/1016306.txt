@@ -1,0 +1,24 @@
+[Event "Esbjerg"]
+[Site "Esbjerg DEN"]
+[Date "1985.07.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Istvan Csom"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.c4 c5 2.Nf3 b6 3.Nc3 Bb7 4.e3 Nf6 5.d4 cxd4 6.exd4 e6 7.Bd3
+Be7 8.O-O d6 9.d5 e5 10.Nh4 g6 11.f4 Nbd7 12.Nf3 a6 13.Kh1
+exf4 14.Bxf4 O-O 15.Qd2 Re8 16.Rae1 Bf8 17.Rxe8 Qxe8 18.Qf2
+Ng4 19.Qh4 Nge5 20.Ng5 h6 21.Bxe5 Nxe5 22.Nxf7 Nxd3 23.Ne4 Ne5
+24.Nf6+ Kxf7 25.Nxe8 Kxe8 26.Qd4 Nd7 27.Qe4+ Ne5 28.Qe3 Rd8
+29.Qxb6 Rd7 30.Re1 Bg7 31.c5 dxc5 32.Qe6+ Re7 33.Qg8+ Kd7
+34.Qb8 Bxd5 35.Qa7+ Kd6 36.Qxa6+ Nc6 37.Rxe7 Kxe7 38.Qb7+ Kf8
+39.b3 Bd4 40.a4 Nb4 41.Qb8+ Kg7 42.Qc7+ Kg8 43.a5 Bxb3 44.Qb8+
+Kg7 45.a6 Bf7 46.a7 Nc6 47.Qb7 Nxa7 48.Qxa7 Kf6 49.Qc7 Kg7
+50.Qd6 Kg8 51.h3 Kg7 52.g3 Kg8 53.Kg2 Kg7 54.Kf3 Kg8 55.g4 Kg7
+56.Ke4 Kg8 57.h4 Kg7 58.g5 h5 59.Qe7 Kg8 1/2-1/2

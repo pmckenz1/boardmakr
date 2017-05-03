@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Stellan Brynell"]
+[Black "Holger Ellers"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5
+Bd7 7. Nxc6 bxc6 8. Bd3 Bd6 9. Qe2 Ne7 10. e5 Bc5 11. O-O Ng6
+12. Nf3 O-O 13. c4 Qb6 14. h4 f6 15. exf6 gxf6 16. Qc2 Kg7
+17. Qd2 Rh8 18. h5 Nf8 19. Qh6+ Kf7 20. Bd2 Rg8 21. Rae1 Re8
+22. Bc3 d4 23. Bd2 Qxb2 24. Re2 Qa3 25. Qf4 e5 26. Nxe5+ Rxe5
+27. Rxe5 Bd6 28. Ra5 Qxa5 29. Qxd6 Qxd2 30. Qxd4 Qg5 31. g3 c5
+32. Qe4 Qxh5 33. Rb1 Rg5 34. Be2 Qg6 35. Qxg6+ hxg6 36. Rb7
+Ke7 37. Rxa7 Ne6 38. Kh2 Re5 39. Bf3 Nd4 40. Bd5 Re2 41. Kg1
+Kd6 42. a4 Be6 43. Ra6+ Kc7 44. Kf1 f5 45. a5 Bxd5 46. cxd5
+Ra2 47. Rxg6 c4 0-1

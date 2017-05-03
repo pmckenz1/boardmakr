@@ -1,0 +1,19 @@
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.03.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Vanko Georgievski"]
+[Black "Andras Adorjan"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.b3 e5 2.Bb2 Nc6 3.c4 Nf6 4.Nc3 g6 5.g3 Bg7 6.Bg2 O-O 7.d3 d6
+8.Nf3 Nd4 9.Nd2 c6 10.e3 Nf5 11.Qe2 d5 12.Nd1 Re8 13.cxd5 Nxd5
+14.a3 b6 15.O-O Bb7 16.Rc1 Qd7 17.Nf3 c5 18.e4 Nd4 19.Nxd4
+exd4 20.Qc2 Nc7 21.Rb1 Rad8 22.Bc1 Nb5 23.Re1 f5 24.f3 h6
+25.Ra1 Kh7 26.Bd2 Nd6 27.Nb2 fxe4 28.fxe4 Nxe4 29.Bxe4 Bxe4
+30.dxe4 d3 31.Qc4 Bxb2 32.Ra2 b5 0-1

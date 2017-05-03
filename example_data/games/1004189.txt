@@ -1,0 +1,18 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1929.05.19"]
+[EventDate "1929.05.??"]
+[Round "7"]
+[Result "1-0"]
+[White "Harold Saunders"]
+[Black "Savielly Tartakower"]
+[ECO "A44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. d4 c5 2. d5 d6 3. e4 e5 4. Bd3 Be7 5. Ne2 g6 6. O-O f5
+7. f4 fxe4 8. Bxe4 Nf6 9. Nbc3 Nxe4 10. Nxe4 exf4 11. Bxf4 O-O
+12. Qd2 Bf5 13. N2g3 Bxe4 14. Nxe4 Qb6 15. Bg5 Qd8 16. Rxf8+
+Qxf8 17. Rf1 Qe8 18. Qe2 Nd7 19. Bxe7 Qxe7 20. Nf6+ Qxf6
+21. Rxf6 Nxf6 22. Qe6+ Kg7 23. Qe7+ 1-0

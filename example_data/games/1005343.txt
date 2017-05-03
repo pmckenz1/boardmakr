@@ -1,0 +1,26 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Georgy Arzumanian"]
+[Black "Viktor Moskalenko"]
+[ECO "A07"]
+[WhiteElo "2363"]
+[BlackElo "2469"]
+[PlyCount "126"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 g6 6. Bg2 Bg7
+7. O-O Nge7 8. Re1 h6 9. h4 b6 10. c3 dxe4 11. dxe4 Ba6 12. e5
+O-O 13. a4 Bd3 14. Nf1 Bxf1 15. Qxd8 Raxd8 16. Bxf1 Na5
+17. Ra3 Nec6 18. Bf4 Rd5 19. Rb1 c4 20. Re1 a6 21. Bg2 Rd7
+22. Be3 Rb8 23. Raa1 Ne7 24. Rad1 Nd5 25. Nh2 b5 26. axb5 axb5
+27. Bxd5 exd5 28. f4 b4 29. Nf3 Bf8 30. Bd4 Re8 31. g4 Nc6
+32. h5 gxh5 33. gxh5 Kh7 34. Kf2 Nxd4 35. Nxd4 Bc5 36. Kf3
+bxc3 37. bxc3 Ra7 38. f5 Ra3 39. Re3 Be7 40. f6 Bc5 41. Kf4
+Rg8 42. Rf3 Ra2 43. Rg3 Bxd4 44. Rxd4 Rf2+ 45. Rf3 Rh2
+46. Rxd5 Rxh5 47. Rd7 Kg6 48. Ke4 Rg5 49. Kd5 Ra8 50. Kxc4
+Rxe5 51. Kd4 Rg5 52. c4 Rg4+ 53. Kd5 Ra5+ 54. c5 Rg5+ 55. Kd6
+Raxc5 56. Ke7 Rce5+ 57. Kf8 Ra5 58. Rd8 Raf5 59. Rh3 Rxf6
+60. Kg8 h5 61. Rd4 Ra6 62. Rd8 Ra7 63. Rf3 f6 0-1

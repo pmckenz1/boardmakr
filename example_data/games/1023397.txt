@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Karen Ashotovich Grigorian"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Be3 c5 8.Rc1 Qa5 9.Qd2 O-O 10.d5 e6 11.Nf3 exd5 12.exd5 Bf5
+13.Be2 c4 14.O-O Nd7 15.Rfd1 Nc5 16.Bd4 Nd3 17.Rb1 Be4 18.Bxg7
+Kxg7 19.Nd4 a6 20.Bxd3 Bxd3 21.Rxb7 Qxd5 22.Re7 Rfe8 23.Ne6+
+Qxe6 24.Rxe6 Rxe6 1/2-1/2

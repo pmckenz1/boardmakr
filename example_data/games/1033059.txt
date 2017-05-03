@@ -1,0 +1,23 @@
+[Event "10s, it op Opatija SLO"]
+[Site "10s, it op Opatija SLO Hiarcs 7.32"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Miso Cebalo"]
+[Black "Fernando Braga"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. f3 O-O
+7. Bg5 h6 8. Be3 e6 9. Nge2 exd5 10. cxd5 a6 11. a4 Nbd7
+12. Ng3 h5 13. Be2 h4 14. Nf1 Nh7 15. Nd2 f5 16. exf5 gxf5
+17. f4 Qe7 18. Bf2 Re8 19. Nf3 Bf6 20. Qd2 Ndf8 21. O-O Ng6
+22. Rfe1 Qg7 23. Ra3 Rb8 24. Rb3 b6 25. Bf1 Re7 26. Re6 Bxe6
+27. dxe6 Rxe6 28. Bc4 Qf7 29. Bxe6 Qxe6 30. Nd5 Bd8 31. Re3
+Qf7 32. Nc3 Be7 33. Qe1 d5 34. Ne5 Nxe5 35. Rxe5 Bf6 36. Re6
+Nf8 37. Rd6 Re8 38. Qb1 d4 39. Nd5 Re6 40. Rxb6 Rxb6 41. Nxb6
+Qb3 42. a5 d3 43. Be1 Bxb2 44. Kh1 c4 45. Nc8 Qc2 46. Ne7+ Kf7
+47. Qa2 Qc1 0-1

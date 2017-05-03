@@ -1,0 +1,25 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "0-1"]
+[White "Neelotpal Das"]
+[Black "Venkatachalam Saravanan"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Re1 O-O
+7. Bf1 Nc6 8. a3 Rb8 9. h3 b5 10. d4 e5 11. d5 Ne7 12. c4 a6
+13. cxb5 axb5 14. Nc3 b4 15. axb4 Rxb4 16. Nd2 Ne8 17. Nc4 f5
+18. f4 exf4 19. e5 g5 20. Ra8 Ng6 21. e6 g4 22. Bxf4 Nxf4
+23. e7 Qd7 24. exf8=Q+ Kxf8 25. hxg4 Bd4+ 26. Ne3 Nc7 27. Ra7
+fxg4 28. Nb5 Rxb5 29. Bxb5 Qe7 30. Qd2 g3 31. Rxc7 Qxc7
+32. Rf1 Qf7 33. Rf3 Qf6 34. Rxg3 Nxd5 35. Qf2 Qxf2+ 36. Kxf2
+Nxe3 37. Rxe3 Kg7 38. Ke2 Bxe3 39. Kxe3 Kf6 40. Bd3 h6 41. Bc4
+Ke5 42. g3 Bf5 43. Be2 d5 44. Bf3 c4 45. Kd2 d4 46. Bg2 Kd6
+47. Bf3 Kc5 48. Be2 Kb4 49. Bd1 Bg6 50. Bf3 Kb3 51. Bd5 Bf5
+52. Bf7 Bd7 53. Kc1 d3 54. Bd5 Bb5 55. Be6 d2+ 56. Kxd2 Kxb2
+57. Ke3 c3 58. Bf5 Bd7 59. Be4 h5 0-1

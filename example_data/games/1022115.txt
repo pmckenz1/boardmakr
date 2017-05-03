@@ -1,0 +1,19 @@
+[Event "Tournament (team)"]
+[Site "Andropov (Russia)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Igor Belov"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nb6 8.Nc3 Nc6 9.d5 Na5 10.e4 c6 11.Bg5 Nac4 12.Qe2 h6 13.Bf4
+e5 14.dxe6 Bxe6 15.Rad1 Qe7 16.Nd4 Bd7 17.h3 Rad8 18.b3 Qb4
+19.Nb1 Ne5 20.Nc2 Qe7 21.Rfe1 c5 22.Nc3 g5 23.Bc1 Nc6 24.Nd5
+Nxd5 25.exd5 Qxe2 26.Rxe2 Nd4 27.Nxd4 Bxd4 28.Bb2 Bxb2 29.Rxb2
+Rfe8 30.Rc1 Rc8 31.Rbc2 b6 32.a3 Kf8 33.d6 1/2-1/2

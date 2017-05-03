@@ -1,0 +1,17 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Rolf Sieberg"]
+[Black "Efim Geller"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1
+Bc5 8.c3 d6 9.d4 Bb6 10.Bg5 h6 11.Bh4 Qe7 12.dxe5 dxe5 13.Qe2
+g5 14.Bg3 Nh5 15.Bxe5 Nxe5 16.Nxe5 Nf4 17.Bxf7+ Qxf7 18.Qc2
+Qe6 19.Nf3 Qg4 0-1

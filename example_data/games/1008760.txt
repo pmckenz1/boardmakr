@@ -1,0 +1,16 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Craig A Hanley"]
+[Black "Richard J Palliser"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. g3 O-O 5. Bg2 c5 6. O-O cxd4
+7. Nxd4 Nc6 8. Nc3 d6 9. Nxc6 bxc6 10. Bxc6 Rb8 11. Bg2 Qa5
+12. Qd3 Qh5 13. h4 Bb7 1/2-1/2

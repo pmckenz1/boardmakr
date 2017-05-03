@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Roman Slobodjan"]
+[Black "Paul van der Sterren"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. c4 Be7 6. d4 O-O
+7. Bd3 Ng5 8. Nxg5 Bxg5 9. Qh5 Re8+ 10. Kd1 Bxc1 11. Qxh7+ Kf8
+12. Qh8+ Ke7 13. Qh4+ Kf8 14. Qh8+ Ke7 15. Qh4+ Kf8 16. Qxd8
+Rxd8 17. Kxc1 d5 18. Rd1 Nc6 19. cxd5 Rxd5 20. Be4 Rxd4
+21. Bxc6 Rc4+ 22. Nc3 Rxc6 23. Rd8+ Ke7 24. Rg8 g6 25. Kd2
+Rd6+ 26. Ke3 b6 27. Nb5 Re6+ 28. Kf4 Re4+ 29. Kxe4 Bb7+
+30. Kf4 Rxg8 31. Re1+ Kd7 32. Rd1+ Ke7 33. Re1+ Kd7 34. Rd1+
+Ke7 1/2-1/2

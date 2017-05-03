@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Mark Taimanov"]
+[Black "Yuri Balashov"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.Nf3 d5 2.b3 c5 3.e3 a6 4.Bb2 Nc6 5.Be2 Nf6 6.O-O Bg4 7.c4 e6
+8.cxd5 Nxd5 9.d4 Nf6 10.Ne5 Bxe2 11.Qxe2 Rc8 12.Rd1 cxd4
+13.Nxc6 Rxc6 14.Bxd4 Qc7 15.Nd2 Be7 16.Nc4 O-O 17.Be5 Qc8
+18.h3 Nd7 19.Bb2 Bf6 20.Rac1 Bxb2 21.Qxb2 Qc7 22.Na5 Rxc1
+23.Qxc1 Rc8 24.Qd2 Nf6 25.Nc4 h6 1/2-1/2

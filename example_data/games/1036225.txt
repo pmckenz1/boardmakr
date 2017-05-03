@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1899.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gyula Makovetz"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.dxe5 d5
+7.Nbd2 O-O 8.Qe2 f5 9.c4 Nxd2 10.Qxd2 a6 11.Qxd5+ Qxd5 12.cxd5
+axb5 13.dxc6 bxc6 14.Nd4 Bd7 15.Bf4 c5 16.Nf3 h6 17.e6 Bxe6
+18.Rfe1 Rf6 19.Be5 Rxa2 20.Rxa2 Bxa2 21.Bxf6 Bxf6 22.Ne5 b4
+23.f4 c4 24.Kf2 c3 25.bxc3 b3 26.Re2 Bxe5 27.fxe5 Bb1 28.Rb2
+Bc2 29.Ke3 Kf7 30.Kd4 Ke6 31.c4 g5 0-1

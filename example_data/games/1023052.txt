@@ -1,0 +1,59 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Raymond Keene"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 { Notes by Raymond Keene. } Nf6 2. c4 e6 3. Nc3 Bb4
+4. Bg5 {The Leningrad variation, originally a Spassky
+speciality, but in 1974 high fashion.} 4...h6 {A natural
+reply, but in Timman - Korchnoi, match game 1976, Black
+deferred this and obtained a satisfactory position: 4...c5 5
+d5 Bxc3+ 6 bxc3 d6 7 e3 e5 8 f3 Nbd7 9 Bd3 Nf8 10 Ne2 Ng6 11
+O-O h6 12 Bxf6 Qxf6 13 Ng3 O-O 14 Qc2 Qg5 15 Qd2 f5=.} 5. Bh4
+c5 6. d5 Bxc3+ {A violent alternative is 6...b5!?} 7. bxc3 e5
+{?! More circumspect is 7...d6, but I wanted to tempt White's
+following advance, believing that the pawn on d6 would be
+weak.} 8. d6 {! Annotating this game in The Guardian Leonard
+Barden wrote: 'Boris Spassky's move, learnt from his boyhood
+trainer V. Zak. It was for a long time considered so strong
+that Black should not allow it - but now the verdict on 8 d6
+is changing to "too sharp".' Since then the verdict has swung
+back again and now I consider that it is 7...e5 which must be
+condemned as 'too sharp'.} 8...Nc6 9. Qc2 {? Bagirov misses 9
+e3! g5 10 Bg3 Ne4 11 Bxe5! Nxe5 12 Qd5 inaugurating
+complications favourable to White. His less active choice in
+the game permits Black to create a favourable climate for the
+exploitation of White's doubled pawns.} 9...g5 10. Bg3 Nh5
+11. e3 Qf6 12. Rd1 b6 13. Be2 Nxg3 14. hxg3 {From a Russian
+one might have expected the less dogmatic recapture 14 fxg3!?
+Admittedly, this would wreck his pawn structure, but there
+would be possibilities for counter-attack in the f-file. Black
+now succeeds in developing his pieces around the 'Spassky
+pawn', which, far from being a bone jammed in Black's throat,
+is about to be crushed by Black's jaws.} 14...Bb7 15. Bf3
+O-O-O 16. Ne2 {? White already has a difficult game and this
+mistake makes it worse. The best chance was 16 g4!} 16...h5
+{!} 17. Rxh5 Rxh5 18. Bxh5 Na5 {Black's temporary pawn
+sacrifice has exposed the radical weakness in White's
+structure.} 19. Bf3 Bxf3 20. gxf3 Qxf3 21. Ng1 {This sets a
+neat trap: if 21...Qg2? 22 Ke2 e4 23 Qd2 Rh8 (playing to win
+the immobilised knight) 24 Qd5 Nc6 25 a4! Rh1 26 Qxf7 Rxg1 27
+Rxg1 Qxg1 28 Qe8+ Nd8 29 Qxe4 Kb8 30 Qe8=} 21...Qg4 {! The
+most clear-cut. Black wipes out White's queenside and the
+d6-pawn.} 22. Qh7 Qxc4 23. Ne2 Nc6 {The threat of ...e5-e4 and
+...Ne5 induces White to shed more pawns.} 24. e4 Qxa2 25. f3
+Qe6 26. Kf2 Qf6 27. Rh1 Qxd6 {Voila!} 28. Qxf7 g4 29. Qd5 Qxd5
+30. exd5 Ne7 31. c4 {? The last try was 31 fxg4 Nxd5 32
+Kf3. As played, Black's queenside pawn roller is
+irresistible. The rest is easy.} 31...Rf8 32. f4 exf4 33. gxf4
+Nf5 34. Rg1 Rg8 35. Ng3 Nd6 36. Ke3 Nxc4+ 37. Ke4 Kc7 38. f5
+Nd6+ 39. Kf4 c4 40. f6 b5 41. Ra1 Kb6 42. Ke5 Nf7+ 43. Kd4 Rg6
+44. Rf1 a5 45. Rf2 a4 46. Ne4 g3 0-1

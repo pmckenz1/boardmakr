@@ -1,0 +1,25 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak HUN"]
+[Date "1986.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Mihai Suba"]
+[Black "Andras Adorjan"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 e6 4.g3 b6 5.Bg2 Bb7 6.d4 cxd4 7.Qxd4
+Nc6 8.Qf4 Bb4 9.Bd2 O-O 10.O-O Be7 11.Rfd1 d6 12.b3 Rc8 13.Bc1
+Rc7 14.Ba3 Rd7 15.e4 Qb8 16.Qe3 Rfd8 17.h3 Ba8 18.Rd2 a6
+19.Rad1 b5 20.e5 dxe5 21.Bxe7 Nxe7 22.Nxe5 Rxd2 23.Rxd2 Rxd2
+24.Qxd2 Bxg2 25.Kxg2 h6 26.Qd4 Nf5 27.Qc5 b4 28.Na4 Ne4 29.Nc6
+Qa8 30.Qb6 Nc3 31.Qb8+ Qxb8 32.Nxb8 Nxa2 33.Nxa6 Nd4 34.N4c5
+Kf8 35.Nd3 Ke7 36.Naxb4 Nxb4 37.Nxb4 Kd6 38.Nd3 Nxb3 39.f4 f6
+40.Kf2 Na5 41.c5 Kd5 42.Ke3 Nb3 43.f5 e5 44.g4 Nxc5 45.Nf2 Nb7
+46.Nh1 h5 47.Ng3 hxg4 48.hxg4 Nd6 49.Nh5 Ne8 50.Ng3 Kd6 51.Ke4
+Ke7 52.Kd5 Nc7+ 53.Kc6 Na6 54.Kb5 Nb8 55.Nh5 Kf7 56.Ng3 Nd7
+57.Kc6 Nf8 58.Kd6 Nh7 59.Ne4 Ke8 60.Ke6 Kf8 61.Kd5 Ke7 62.Kc5
+Kf7 63.Kd6 Nf8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Leukerbad SUI"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Tamas Erdelyi"]
+[Black "Alexander Baburin"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5
+7.O-O b6 8.d4 Bb7 9.Nc3 Rc8 10.Bg5 cxd4 11.Qxd4 Bc5 12.Qf4 O-O
+13.Rfd1 Qe7 14.Rxd7 Qxd7 15.Ne5 Qc7 16.Bxb7 Qxb7 17.Bxf6 gxf6
+18.Ne4 Be7 19.Ng4 Rfd8 20.Ngxf6+ Bxf6 21.Nxf6+ Kf8 22.Nxh7+
+Kg7 23.Nf6 Rc4 24.e4 Qc7 25.Qh4 Rh8 0-1

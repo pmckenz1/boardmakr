@@ -1,0 +1,23 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.05.21"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Theodor von Scheve"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.h3 Be7 7.c4 O-O
+8.Nc3 Nd4 9.Nxd4 exd4 10.Ne2 c5 11.Bc2 b5 12.b3 Ne8 13.g4 Bh4
+14.O-O h5 15.f3 g5 16.Kh2 Ng7 17.Ng3 Ra7 18.f4 hxg4 19.hxg4 f6
+20.Qf3 Rff7 21.Bd2 gxf4 22.Bxf4 Bxg3+ 23.Qxg3 Ne8 24.Bd1 Rg7
+25.Bf3 Rg6 26.Rg1 Rag7 27.Rg2 Be6 28.Kh1 Qd7 29.Rag1 b4 30.Bc1
+Kf8 31.Qf4 Kg8 32.Bd2 a5 33.Be1 Rh7+ 34.Rh2 Rxh2+ 35.Kxh2 Qh7+
+36.Kg2 Qh6 37.Qxh6 Rxh6 38.Bd2 Rg6 39.Kg3 Rg7 40.a3 bxa3
+41.Ra1 f5 42.g5 fxe4 43.Bxe4 Nf6 44.Bg2 Nd7 45.Rxa3 Ne5 46.Be4
+Ra7 47.Rxa5 Rxa5 48.Bxa5 Kf7 49.Bc7 Ke7 50.g6 Nd7 51.Kf4 Nf6
+52.Bf3 Ne8 53.Ba5 Kf6 54.Be4 Ng7 55.Bd8+ 1-0

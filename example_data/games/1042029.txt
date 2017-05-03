@@ -1,0 +1,18 @@
+[Event "SSS Cup"]
+[Site "Scheveningen NED"]
+[Date "1922.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rudolf Johannes Loman"]
+[Black "Max Euwe"]
+[ECO "B88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6
+7. O-O Be7 8. Be3 O-O 9. h3 Bd7 10. Qd2 a6 11. Rad1 b5 12. Be2
+b4 13. Nb1 Nxe4 14. Qe1 d5 15. f3 Bh4 16. Nxc6 Bxc6 17. Qxb4
+Rb8 18. Qa3 Ng3 19. Rfe1 Nf5 20. Bc5 Bxe1 21. Bxf8 Qh4 22. Bc5
+d4 23. Bxa6 Qf2+ 24. Kh2 Nh4 0-1

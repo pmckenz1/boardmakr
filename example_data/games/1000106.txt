@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.13"]
+[EventDate "1900.??.??"]
+[Round "14.2"]
+[Result "1-0"]
+[White "James Mason"]
+[Black "M Didier"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Qf6 6.Qc4 c6
+7.Nc3 d6 8.Be3 Qe6 9.Qa4 Bd7 10.Qa5 Nf6 11.Bd3 Be7 12.h3 b5
+13.a4 Bd8 14.Qa6 b4 15.Ne2 O-O 16.O-O Nxe4 17.Bxe4 Qxe4 18.Qb7
+Bb6 19.Qxd7 Bxe3 20.fxe3 Qxe3+ 21.Rf2 Qc5 22.Qf5 d5 23.Qd3
+Rae8 24.Rf1 Re4 25.Kh1 Rfe8 26.Qf3 f6 27.Nf4 Re1 28.Nd3 Rxf1+
+29.Rxf1 Qxc2 30.Nxb4 Qxa4 31.Qc3 Re4 32.Nxc6 Rc4 33.Ne7+ Kf7
+34.Qf3 Kxe7 35.b3 1-0

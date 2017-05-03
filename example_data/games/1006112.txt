@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "1-0"]
+[White "Hannes Stefansson"]
+[Black "Harmen Jonkman"]
+[ECO "C67"]
+[WhiteElo "2566"]
+[BlackElo "2446"]
+[PlyCount "85"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Ne7 11. Ne4
+Ng6 12. Re1 h6 13. Be3 b6 14. Nd4 c5 15. Nb5 Kd7 16. f4 Kc6
+17. c4 Be7 18. b3 h5 19. a4 Bf5 20. Ng3 Bc2 21. Rec1 Bd3
+22. Rc3 Bh4 23. Rxd3 Bxg3 24. Rad1 Nxf4 25. Rd7 Ne6 26. R1d5
+Rhf8 27. a5 a6 28. Nxc7 Nxc7 29. R5d6+ Kb7 30. axb6 Rac8
+31. Rxc7+ Rxc7 32. bxc7 Kxc7 33. Bxc5 Re8 34. Rxa6 Bxe5 35. b4
+Bg3 36. Bf2 Bxf2+ 37. Kxf2 Re4 38. Ra7+ Kb6 39. Rxf7 Rxc4
+40. Rxg7 Rxb4 41. Rg5 h4 42. Rg4 Rb2+ 43. Kg1 1-0

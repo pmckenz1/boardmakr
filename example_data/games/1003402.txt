@@ -1,0 +1,24 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.06.15"]
+[EventDate "1905.06.12"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Georg Marco"]
+[Black "Jean Taubenhaus"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 d6 6.d4 Bd7 7.Bxc6
+Bxc6 8.Qe2 exd4 9.Nxd4 Bd7 10.O-O Be7 11.b3 O-O 12.Bb2 Re8
+13.Rad1 Bf8 14.Qd3 Qe7 15.Rfe1 Rad8 16.Nf3 c6 17.h3 Bc8 18.Ba3
+Qc7 19.Bc1 Nd7 20.Nd4 Ne5 21.Qg3 Ng6 22.h4 Qa5 23.f4 Be7
+24.Re3 Bxh4 25.Qh2 Bf6 26.f5 Nf8 27.Nde2 Qc5 28.Qf4 h6 29.Qf2
+Nh7 30.Red3 Qxf2+ 31.Kxf2 d5 32.exd5 Bxf5 33.R3d2 c5 34.Ba3
+Bg5 35.Bxc5 Bxd2 36.Rxd2 Nf6 37.Ng3 Be6 38.d6 Rd7 39.Na4 b5
+40.Nb6 Rb7 41.a4 Nd7 42.Nxd7 Bxd7 43.a5 Re5 44.Bb6 Rb8 45.c4
+bxc4 46.bxc4 Rc8 47.Rd4 f5 48.Ne2 g5 49.Nc3 Kf7 50.Bc7 Rce8
+51.Rd2 Rc5 52.Rd4 Ree5 53.Nd5 Rxc4 54.Rxc4 Rxd5 55.Rc2 Ke6
+56.Re2+ 1/2-1/2

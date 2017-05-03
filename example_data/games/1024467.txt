@@ -1,0 +1,21 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Ivanov"]
+[Black "Yuri Balashov"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 d6 4.d4 cxd4 5.Nxd4 a6 6.Be2 Nf6 7.O-O
+Be7 8.f4 O-O 9.Kh1 Nc6 10.Be3 Bd7 11.Qe1 b5 12.a3 Nxd4 13.Bxd4
+Bc6 14.Bf3 Qc7 15.Qg3 Rfd8 16.Rae1 Ne8 17.Qf2 Rab8 18.Be2 Qb7
+19.Bf3 Bf8 20.Qg3 b4 21.axb4 Qxb4 22.Ne2 Qb7 23.Nc1 Rdc8
+24.Nb3 Ba4 25.e5 Qd7 26.Bc3 Bxb3 27.cxb3 g6 28.Be2 Rc6 29.Bf3
+Rcb6 30.Bg4 Ng7 31.Ra1 d5 32.Qd3 h5 33.Bd1 Nf5 34.Ba5 Rc6
+35.Bd2 Bb4 36.Be3 Qc7 37.Bf2 Bc5 38.Bxc5 Rxc5 39.Rxa6 Rc1
+40.Be2 Rxf1+ 41.Bxf1 Qc1 42.Ra4 0-1

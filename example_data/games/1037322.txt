@@ -1,0 +1,22 @@
+[Event "Wrexham (England)"]
+[Site "It"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Nasser M Abbasi"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6
+7.Bg5 a6 8.Na3 b5 9.Nd5 Qa5+ 10.Bd2 Qd8 11.Nxf6+ Qxf6 12.Bd3
+Be7 13.O-O O-O 14.c4 bxc4 15.Nxc4 Rb8 16.b3 Nb4 17.Bxb4 Rxb4
+18.Qe2 Be6 19.Ne3 a5 20.Bc4 g6 21.Rac1 Qf4 22.Nd5 Bxd5 23.Bxd5
+Rd4 24.Rfd1 Kg7 25.g3 Qg5 26.h4 Rxd1+ 27.Qxd1 Qf6 28.Rc7 h5
+29.Kg2 Rb8 30.Qd2 Rb4 31.Bc4 Rb8 32.Ra7 Rf8 33.Rxa5 Bd8 34.Ra6
+Bc7 35.a4 Qe7 36.Qd5 g5 37.hxg5 Qxg5 38.Ra7 Qd8 39.a5 h4 40.a6
+Kh6 41.Qd2+ Kg7 42.Rb7 hxg3 43.fxg3 f5 44.exf5 Rxf5 45.Be6 Rf6
+46.Qg5+ Kh8 47.Bf5 1-0

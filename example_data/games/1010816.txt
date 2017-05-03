@@ -1,0 +1,22 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Mikhail Lunin"]
+[Black "Valentin Zakharov"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1
+7. Bxa1 d6 8. d4 e5 9. dxe5 dxc5 10. bxc5 Bxc5 11. e3 Be6
+12. Nf3 Ne7 13. Bd3 Nd7 14. Qc2 Qa5+ 15. Bc3 Bb4 16. O-O Bxc3
+17. Qxc3 Qxc3 18. Nxc3 Kd8 19. Rb1 Kc7 20. Rc1 Kb8 21. Ng5
+Nxe5 22. Bxh7 g6 23. Nce4 Kc7 24. h4 b5 25. Nxe6+ fxe6 26. Ng5
+Kb6 27. h5 gxh5 28. Be4 Rh6 29. f4 Ng4 30. Nf7 Rf6 31. Ne5
+Nxe5 32. fxe5 Rf8 33. Bf3 h4 34. Kh2 c5 35. Bg4 Nf5 36. e4 Nd4
+37. Kh3 c4 38. Rd1 Kc5 39. Kxh4 Rf4 40. Re1 b4 41. Kg5 Rxg4+
+42. Kxg4 b3 43. Kg5 c3 44. Kf6 c2 0-1

@@ -1,0 +1,21 @@
+[Event "x,III-IV"]
+[Site "04"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Graeme N Buckley"]
+[Black "Alisa Galliamova"]
+[ECO "E43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 Ne4 7.O-O
+Nxc3 8.bxc3 Bxc3 9.Rb1 Ba5 10.e4 Nc6 11.e5 Nb4 12.Bg5 Qc8
+13.d5 exd5 14.Nd4 h6 15.Bh4 g5 16.Bg3 Ba6 17.f4 Qb7 18.Nb3
+dxc4 19.Nxa5 bxa5 20.Be2 c3 21.e6 fxe6 22.Bxa6 Qxa6 23.Qh5+
+Kd8 24.fxg5 Qd3 25.g6 c2 26.Rbc1 Rg8 27.Qxa5 Nd5 28.Kh1 Rb8
+29.g7 Rb1 30.Bh4+ Kc8 31.Qe1 Rxc1 32.Qxc1 Rxg7 33.Rf8+ Kb7
+34.h3 Qd1+ 35.Rf1 Ne3 36.Qb2+ Kc8 37.Rxd1 cxd1=Q+ 38.Kh2 Rxg2+
+39.Qxg2 Nxg2 40.Kxg2 d6 0-1

@@ -1,0 +1,17 @@
+[Event "Gothenburg Interzonal"]
+[Site "Gothenburg SWE"]
+[Date "1955.09.10"]
+[EventDate "1955.08.15"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Miguel Najdorf"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qc7 8.Qf3 Nc6 9.O-O-O Bd7 10.Be2 Be7 11.Rhe1 Nxd4 12.Rxd4 Bc6
+13.Red1 Rc8 14.Qe3 O-O 15.e5 Nd5 16.Nxd5 Bxd5 17.Bd3 Bxg5
+18.exd6 Qxd6 19.fxg5 Qxh2 1/2-1/2

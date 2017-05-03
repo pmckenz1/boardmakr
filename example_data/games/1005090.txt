@@ -1,0 +1,20 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Joachim Wallner"]
+[Black "Claude Wagner"]
+[ECO "C00"]
+[WhiteElo "2290"]
+[BlackElo "2250"]
+[PlyCount "62"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 exd5 5. d4 Bd6 6. Bd3
+O-O 7. O-O Bg4 8. Bg5 c6 9. h3 Bh5 10. Bf5 Nbd7 11. Qd3 Qb6
+12. a4 Rfe8 13. Nd2 Bg6 14. Nb3 Qc7 15. Rfe1 Nh5 16. Qf3 Nf8
+17. Bxg6 hxg6 18. Nc5 Bxc5 19. dxc5 Ne6 20. Bd2 Nxc5 21. b4
+Nd7 22. Ne2 Ne5 23. Qb3 Nc4 24. Bc3 Re4 25. Nd4 Rae8 26. Nf3
+Nf4 27. Rxe4 Rxe4 28. Re1 Qe7 29. Rxe4 Qxe4 30. b5 c5 31. a5
+Nxh3+ 0-1

@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Saint Martin (France & Netherl)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Grzegorz Lukasiewicz"]
+[ECO "A93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O O-O 6.c4 d5 7.b3 a5
+8.Ba3 Bxa3 9.Nxa3 Qe7 10.Nc2 c6 11.Nce1 b6 12.Nd3 Bb7 13.c5 b5
+14.a3 Bc8 15.b4 a4 16.Nfe5 Nfd7 17.f3 Nxe5 18.Nxe5 Bb7 19.e4
+Nd7 20.exd5 exd5 21.Re1 Rae8 22.Ra2 Rf6 23.Rae2 Re6 24.Nxc6
+Qf6 25.Rxe6 Rxe6 26.Na5 Rxe1+ 27.Qxe1 Qxd4+ 28.Kh1 1-0

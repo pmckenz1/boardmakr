@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.16"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Alonso Zapata"]
+[Black "Eugenio Torre"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.Nxe5 Nxe5 6.d4 a6
+7.Ba4 Nxe4 8.Qe2 Be7 9.Qxe4 Ng6 10.f4 O-O 11.f5 d5 12.Qd3 Nh4
+13.g3 c5 14.dxc5 Bxc5+ 15.Kh1 Qa5 16.Bb3 Nxf5 17.Bd2 Qb5
+18.Qxb5 axb5 19.Nc3 Nd4 20.Bxd5 Nxc2 21.Rac1 Nb4 22.Be4 Bh3
+23.Rf4 Rad8 24.Nb1 f5 25.Bxb4 Be3 26.Re1 Bxf4 27.Bxf8 fxe4
+28.Bb4+ Bd6 29.Bxd6 Rxd6 30.Nc3 b4 31.Rd1 bxc3 0-1

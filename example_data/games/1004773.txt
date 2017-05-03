@@ -1,0 +1,28 @@
+[Event "Semmering/Baden"]
+[Site "Semmering/Baden AUT"]
+[Date "1937.09.26"]
+[EventDate "1937.09.08"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Vladimir Petrov"]
+[Black "Viacheslav Ragozin"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "144"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Ng3 Be6 5. d3 Nc6 6. a3 g6
+7. f4 exf4 8. Bxf4 Bd6 9. Qd2 Qe7 10. Nf3 O-O-O 11. Ng5 h5
+12. Nxe6 Qxe6 13. Be2 Bc5 14. O-O f6 15. b4 Bd6 16. Rfc1 Nge7
+17. Bxd6 Qxd6 18. b5 Ne5 19. Qb4 h4 20. Nf1 g5 21. Nd2 N7g6
+22. Qxd6 Rxd6 23. g3 Kd8 24. Kg2 Ne7 25. c4 dxc3 26. Rxc3 f5
+27. Rac1 hxg3 28. hxg3 Rdh6 29. Nf1 c6 30. d4 Nd7 31. bxc6
+bxc6 32. e5 f4 33. Bf3 c5 34. dxc5 Nxe5 35. Re1 N7c6 36. Bxc6
+Nxc6 37. Rd3+ Kc7 38. Rd5 Rg8 39. Red1 Rg7 40. Nh2 Re6 41. Ng4
+fxg3 42. Kxg3 Ne7 43. Re5 Rxe5 44. Nxe5 Nf5+ 45. Kf3 Re7
+46. Rd5 Nh4+ 47. Kg3 Nf5+ 48. Kf3 Nh6 49. Kg3 Ng8 50. Ng4 Rg7
+51. Rd6 Ne7 52. Ne3 Rf7 53. Kg4 Rf4+ 54. Kxg5 Re4 55. Ng4 Nc6
+56. Rd5 Rd4 57. Nf6 Rxd5+ 58. Nxd5+ Kb7 59. Kf5 Nd8 60. Ne7
+Nc6 61. Nd5 Nd8 62. Nb4 a5 63. Nd3 Kc6 64. Ke5 Kb5 65. Kd6 a4
+66. Kd5 Nc6 67. Nb2 Ne7+ 68. Ke6 Nc8 69. Kd7 Na7 70. Kd6 Nc8+
+71. Kc7 Na7 72. Kd6 Nc8+ 1/2-1/2

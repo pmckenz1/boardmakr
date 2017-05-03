@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "R Alan Barton"]
+[Black "Edmund C Player"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 Bxg3 6. hxg3
+Qd6 7. Nbd2 Nbd7 8. c4 c6 9. Qc2 b6 10. a3 Bb7 11. Be2 Rc8
+12. g4 c5 13. g5 Ne4 14. dxc5 Ndxc5 15. b4 Nxd2 16. Nxd2 Qe5
+17. Rc1 Ne4 18. f4 Qc7 19. Nxe4 dxe4 20. Qb2 e5 21. c5 O-O
+22. Qxe5 Qxe5 23. fxe5 Rfe8 24. e6 fxe6 25. O-O bxc5 26. bxc5
+Bd5 27. Bb5 Re7 28. c6 Rec7 29. Rc5 Rf8 30. Rcc1 Rff7 31. Rxf7
+Kxf7 32. Ba4 Ke7 33. Rb1 Kd6 34. Rd1 Ke5 35. Rc1 Kd6 36. Rd1
+Ke5 37. Kh2 g6 38. Rc1 Kd6 39. Rd1 Rc8 40. Kg3 Rc7 41. Rd4 Kc5
+42. Rb4 Bxc6 43. Bxc6 Rxc6 44. Rxe4 Kd5 45. Rd4+ Ke5 46. Ra4
+a6 47. Kf3 Kd5 48. e4+ Ke5 49. Ra5+ Kd6 50. Kf4 Rb6 51. g3 Rc6
+52. e5+ Kc7 53. Ra4 Kb6 54. Rb4+ Kc7 55. Rd4 Rc5 56. a4 Rc3
+57. Kg4 Rc5 58. Kf4 Rc3 1/2-1/2

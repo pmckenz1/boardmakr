@@ -1,0 +1,21 @@
+[Event "Voronezh Kotov mem"]
+[Site "Voronezh URS"]
+[Date "1987.09.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Vladimir Petrienko"]
+[ECO "B60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6
+7.Be3 Qxb2 8.Ndb5 Qb4 9.Bd2 Qc5 10.Be3 Qb4 11.Bd2 Qc5 12.Be2
+Qb6 13.Rb1 Ne5 14.Be3 Qa5 15.Rb3 g6 16.Ra3 Qd8 17.Bxa7 Ned7
+18.f4 Rxa7 19.Nxa7 Bg7 20.e5 dxe5 21.fxe5 Nxe5 22.Qxd8+ Kxd8
+23.O-O Kc7 24.Rb1 Be6 25.Nab5+ Kb8 26.Nd4 Bc8 27.Ra5 Nfd7
+28.Nd5 e6 29.Ne7 Re8 30.Nxc8 Rxc8 31.Rab5 Rc7 32.Kf1 Nc5
+33.Bf3 Nc4 34.R1b4 Nd2+ 35.Ke2 Nxf3 36.gxf3 Na6 37.Ra4 Bxd4
+38.Rxa6 Bg1 39.h4 Rxc2+ 40.Kd3 Rc7 41.h5 1/2-1/2

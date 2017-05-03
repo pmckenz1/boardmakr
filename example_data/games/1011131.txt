@@ -1,0 +1,23 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Luis Chiong Zacarias Romero"]
+[Black "Ben Flores"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 e6 5. Bg5 Nbd7 6. Nc3 h6
+7. Bh4 dxc4 8. e4 g5 9. Bg3 b5 10. e5 Nd5 11. h4 g4 12. Nd2
+Qb6 13. Rd1 Bb7 14. Be2 O-O-O 15. O-O Be7 16. Bxc4 Nxc3
+17. bxc3 bxc4 18. Nxc4 Qa6 19. Nd6+ Bxd6 20. exd6 c5 21. Kh2
+cxd4 22. cxd4+ Qc6 23. Rc1 Qxc2 24. Rxc2+ Kb8 25. Rc7 Ka8
+26. Rb1 Bd5 27. Rb5 f6 28. Ra5 Bb7 29. Rb5 Nb6 30. a4 Rd7
+31. a5 Rxc7 32. dxc7 Nd7 33. Bd6 a6 34. Rb4 h5 35. Kg1 Re8
+36. Kf1 e5 37. dxe5 Nxe5 38. Kg1 Nc6 39. Rc4 Nxa5 40. Rc5 Nb3
+41. Rxh5 Nd4 42. Rh6 f5 43. Kh2 Bc8 44. Kg3 Ne6 45. h5 Kb7
+46. Rf6 a5 0-1

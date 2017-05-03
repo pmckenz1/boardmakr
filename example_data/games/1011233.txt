@@ -1,0 +1,26 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Bartosz Socko"]
+[Black "Artur Jakubiec"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Bd7 6. f3 e5
+7. Nb3 Bc6 8. Qe2 Be7 9. Be3 a5 10. a4 O-O 11. O-O-O Na6
+12. Qf2 Nb4 13. g4 Qe8 14. Bb5 d5 15. exd5 Bxb5 16. d6 Bd8
+17. Nxb5 Qc6 18. Kb1 Nfd5 19. Bc5 Bg5 20. Rhe1 Bf4 21. Qe2 b6
+22. Bxb4 Nxb4 23. Qe4 Qd7 24. c3 Na6 25. Nd2 Nc5 26. Qc2 Qc6
+27. Ne4 Ne6 28. d7 Rfd8 29. Rd6 Qb7 30. Red1 Be3 31. Qd3 Bf4
+32. h4 Nf8 33. g5 h5 34. gxh6 Bxh6 35. Rxh6 gxh6 36. Rg1+ Kh8
+37. Nf6 Ng6 38. Rxg6 fxg6 39. Nd6 Rxd7 40. Qe3 Qa7 41. Qxh6+
+Rh7 42. Qxg6 Rf8 43. Qg5 Qg7 44. Nxh7 Qxh7+ 45. Ka1 Qg7
+46. Qh5+ Kg8 47. Nc4 Rf4 48. Qe8+ Qf8 49. Qg6+ Qg7 50. Qe8+
+Qf8 51. Qc6 Qc5 52. Qe6+ Kg7 53. Nxb6 Rxh4 54. Ka2 Rf4 55. Kb3
+Qg1 56. Qxe5+ Rf6 57. Nd5 Qd1+ 58. Kc4 Qf1+ 59. Kc5 Qf2+
+60. Kb5 1-0

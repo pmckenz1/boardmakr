@@ -1,0 +1,22 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "04"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Carlos Incutto"]
+[Black "Erich Eliskases"]
+[ECO "A70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.e4
+Bg7 8.Bb5+ Nbd7 9.Be2 O-O 10.Bf4 Qe7 11.Nd2 Ne8 12.O-O Nc7
+13.a4 b6 14.Bg3 Rb8 15.Nb5 Nxb5 16.axb5 f5 17.exf5 gxf5 18.f3
+f4 19.Bf2 Ne5 20.Re1 Bf5 21.Ra4 Qg5 22.Ne4 Qg6 23.Kh1 Rb7
+24.Qd2 Bh6 25.Bf1 Rg7 26.Rea1 Bh3 27.Be1 Nxf3 28.Qf2 Nxe1
+29.gxh3 Nc2 30.Bd3 Nxa1 31.Rxa1 f3 32.Qg3 Qh5 33.Qxd6 Qxh3
+34.Qe6+ Qxe6 35.dxe6 Be3 36.Bc4 Kh8 37.Ng3 Bd4 38.Rd1 Rg5
+39.Ne4 Re5 40.Nd6 Kg7 41.Nf7 Re3 42.Ng5 f2 43.Kg2 Rf5 44.h4 h6
+45.Nh3 Re1 0-1

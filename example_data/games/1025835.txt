@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lars Schandorff"]
+[Black "Gerardo F Barbero"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.cxd5 exd5 7.Bg2
+Be7 8.O-O O-O 9.Nc3 c6 10.Qc2 Nbd7 11.Re1 Rc8 12.Bf4 Nh5 13.a3
+Nxf4 14.gxf4 Nf6 15.e3 Bb7 16.b4 Re8 17.Qb3 Bd6 18.Ne5 Bxe5
+19.fxe5 Ng4 20.f3 Nh6 21.Qc2 c5 22.bxc5 bxc5 23.Rab1 cxd4
+24.exd4 Qh4 25.Qf2 Qxf2+ 26.Kxf2 Rxc3 27.Rxb7 Rxa3 28.Bh3 Rd3
+29.e6 fxe6 30.Bxe6+ Kf8 31.Bxd5 Rxe1 32.Kxe1 Rxd4 33.Be4 Nf7
+34.Rxa7 Ng5 35.Kf2 Nxe4+ 36.fxe4 Rxe4 37.Kg3 Re7 38.Ra8+ Kf7
+39.Ra6 Re6 40.Ra7+ Kf6 41.Rb7 h6 1/2-1/2

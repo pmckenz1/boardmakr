@@ -1,0 +1,16 @@
+[Event "Rubinstein Memorial 9th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1971.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Vladimir Doroshkievich"]
+[Black "Andras Adorjan"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 g6 3.d5 Bg7 4.Nc3 O-O 5.g3 d6 6.Bg2 c5 7.Nf3 Na6
+8.O-O Nc7 9.a4 Rb8 10.e4 Bg4 11.h3 Bxf3 12.Bxf3 e5 13.Qd3
+1/2-1/2

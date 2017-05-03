@@ -1,0 +1,27 @@
+[Event "Budapest (zt) 57/514"]
+[Site "Budapest (zt) 57/514"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Gyula Sax"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7
+7. Bg2 c6 8. O-O d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Bc3 O-O
+12. Nd2 Rc8 13. e4 c5 14. exd5 exd5 15. dxc5 dxc4 16. c6 cxb3
+17. Re1 Bb5 18. axb3 a5 19. Rc1 Nc5 20. Qg4 Bf6 21. Bxf6 Qxf6
+22. Ne4 Qd4 23. Red1 Bd3 24. Rxc5 bxc5 25. Qd7 Rfd8 26. Qxd4
+cxd4 27. Rxd3 Rxc6 28. Bf1 Kf8 29. Ng5 Ke7 30. Rd1 h6 31. Nf3
+Rc3 32. Nxd4 Kf6 33. Rd2 Rd6 34. Kg2 Rd5 35. Bc4 Rd8 36. Ne2
+Rxd2 37. Nxc3 Ke7 38. Kf3 f6 39. Nd5+ Kd6 40. Ne3 Kc5 41. h4
+h5 42. Bf7 Rd7 43. Be8 Rb7 44. Ba4 g5 45. hxg5 fxg5 46. Nc4
+Rf7+ 47. Kg2 Kb4 48. Ne5 Rf5 49. f4 gxf4 50. gxf4 Kc3 51. Kf3
+Rf8 52. Ke3 Rf6 53. Ke4 h4 54. f5 h3 55. Ng4 Rh6 56. Nh2 Rd6
+57. Kf4 Rd2 58. Kg3 Rg2+ 59. Kxh3 Rf2 60. Bd7 Kxb3 61. Ng4 Rf1
+62. Kg2 Rd1 63. Be6+ Kc3 64. f6 Rd8 65. Ne5 a4 66. f7 a3
+67. Nc6 Ra8 68. Kg3 Kb2 69. Nb4 1-0

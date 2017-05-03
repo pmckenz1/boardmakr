@@ -1,0 +1,20 @@
+[Event "Sumperk CZE ch"]
+[Site "Sumperk CZE ch"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Eduard Prandstetter"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. b3 O-O
+7. Bb2 c5 8. e3 d5 9. Ne5 Qc8 10. f4 dxc4 11. bxc4 Bxg2
+12. Kxg2 Qb7+ 13. Qf3 Qxf3+ 14. Kxf3 Nfd7 15. Nxd7 Nxd7
+16. Nc3 Nb8 17. g4 Nc6 18. g5 f6 19. gxf6 Bxf6 20. Ke2 Rad8
+21. Rab1 Rd7 22. Ba1 Nb4 23. Ne4 Nxa2 24. Nxf6+ gxf6 25. d4
+Nb4 26. f5 exf5 27. dxc5 Nc2 28. Rxf5 Nxa1 29. Rxa1 bxc5
+1/2-1/2

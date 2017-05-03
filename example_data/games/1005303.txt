@@ -1,0 +1,17 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.12"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Antoine Kassis"]
+[Black "Mahmoud Abdulaziz"]
+[ECO "B09"]
+[WhiteElo "2170"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7
+7. e5 Ng4 8. Bxd7+ Qxd7 9. d5 h5 10. O-O O-O 11. Qd3 Na6
+12. h3 Nh6 13. Nh4 Nb4 14. Qe4 Nf5 15. Nxf5 Qxf5 16. Qxf5 gxf5
+17. Rf2 e6 18. dxe6 fxe6 19. Nb5 dxe5 1/2-1/2

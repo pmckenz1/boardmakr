@@ -1,0 +1,21 @@
+[Event "Round Robin"]
+[Site "Altensteig FRG"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Stefan E S Kindermann"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.Nf3 g6 2.c4 Bg7 3.d4 Nf6 4.g3 O-O 5.Bg2 d5 6.O-O dxc4 7.Na3
+c3 8.bxc3 c5 9.e3 Nc6 10.Qe2 Qa5 11.Bb2 Bf5 12.Rfc1 Be4 13.Nc4
+Qa4 14.Ncd2 Na5 15.c4 Rac8 16.d5 a6 17.Bh3 Rcd8 18.Nxe4 Nxe4
+19.Bf1 Bxb2 20.Qxb2 Nd6 21.Nd2 b5 22.cxb5 axb5 23.Qe5 c4
+24.Qxe7 Nf5 25.Qe5 Rfe8 26.Qb2 Rxd5 27.e4 Rxd2 28.Qxd2 Rxe4
+29.Bg2 Re6 30.Rab1 Nc6 31.Bxc6 Rxc6 32.Qd5 Rc8 33.Rxb5 Nd4
+34.Rb7 Ne2+ 35.Kf1 Qe8 36.Re1 Rd8 37.Qxc4 Rd2 38.Rxe2 Rd1+
+39.Kg2 1-0

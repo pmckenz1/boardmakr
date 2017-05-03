@@ -1,0 +1,18 @@
+[Event "Buenos Aires (Clarin)"]
+[Site "Buenos Aires ARG"]
+[Date "1979.12.05"]
+[EventDate "1979.11.26"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Florin Gheorghiu"]
+[Black "Ulf Andersson"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.cxd5 exd5 6.Bg5 c6 7.e3
+Bd6 8.Bd3 Nf8 9.Qc2 Ng6 10.Nh4 O-O 11.Nf5 Bxf5 12.Bxf5 h6
+13.Bxf6 Qxf6 14.g3 Rfe8 15.O-O Nf8 16.Rad1 g6 17.Bh3 Nh7
+18.Bg2 Qe7 19.e4 dxe4 20.Nxe4 Nf6 21.Rfe1 Kg7 22.Qb3 Nxe4
+23.Rxe4 Qc7 24.d5 Rxe4 25.Bxe4 1/2-1/2

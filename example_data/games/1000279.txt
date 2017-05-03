@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "0-1"]
+[White "Ilan Kreitner"]
+[Black "Jay R Bonin"]
+[ECO "B32"]
+[WhiteElo "2200"]
+[BlackElo "2358"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7
+7. Be2 Be6 8. N1c3 a6 9. Na3 Bg5 10. Nc2 Bxc1 11. Rxc1 Nf6
+12. O-O O-O 13. Ne3 Rc8 14. b3 Nd4 15. Re1 Qa5 16. Ned5 Bxd5
+17. exd5 b5 18. Bf1 bxc4 19. Bxc4 Nb5 20. Qf3 Nxc3 21. Qxc3
+Qxc3 22. Rxc3 a5 23. Rcc1 Rc5 24. Rcd1 Rfc8 25. f3 Kf8 26. Kf2
+Nd7 27. Ba6 R8c7 28. Rd2 Nb6 29. Red1 f5 30. h4 g6 31. Kg3 Ke7
+32. Be2 Rc2 33. Bb5 f4+ 34. Kh3 R7c3 35. Kg4 35... Nxd5 $1
+36. Kg5 Ne3 37. Rxc2 Rxc2 38. Rd3 Nf5 39. g4 fxg3 40. Rd1 g2
+41. h5 Nd4 0-1

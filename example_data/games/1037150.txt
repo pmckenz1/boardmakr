@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Lyons (France)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Artashes Minasian"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Bg5 Nc6 5.d5 Ne5 6.f4 Nd7 7.Nf3 c6
+8.Qd2 cxd5 9.exd5 Ngf6 10.O-O-O Nc5 11.Nd4 Nfe4 12.Nxe4 Nxe4
+13.Qe3 Nxg5 14.fxg5 O-O 15.Bc4 Bd7 16.h4 b5 17.Be2 Rc8 18.h5
+Rc5 19.hxg6 hxg6 20.Qe4 Qc7 21.Bd3 Rc8 22.Rdf1 Rc4 23.Rxf7 1-0

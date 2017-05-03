@@ -1,0 +1,56 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.05"]
+[EventDate "1895.08.05"]
+[Round "1"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "Curt von Bardeleben"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 {Notes by S. Tinsley} d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.e3
+O-O 6.Be2 {In a very similar position recently (Steinitz
+v. Lasker, St. Petersburg, January 9, 1896) the first player
+proceeds with c5, which is doubtless generally regarded with
+distrust. It is curious that White seems to have no better
+move than the text, which appears to amount to nothing if the
+Bishop has to take the Pawn subsequently. Ne5 has points,
+supported later by f4, and that may eventually turn out to be
+the strongest continuation.} dxc4 7.O-O c5 8.dxc5 Bxc5 9.Bxc4
+a6 10.Qe2 b5 11.Bb3 Bb7 12.Bd2 {Rd1 suggests itself at once as
+a more vigorous line of play. e4 would be good now, but for
+the reply b4.} Nbd7 13.Rfd1 Qe7 14.Be1 b4 15.Na4 {The question
+naturally occurs, what is the future of this Piece? Nb1 was
+probably superior, notwithstanding appearances to the
+contrary. Afterwards Nbd2, and then to c4, or f1, as
+circumstances suggest.} Bd6 16.Qd3 {By first playing Bc2, a
+good deal might be threatened later, and the disagreeable
+counter-attack by Black would have been at least deferred.}
+Bb8 17.Rac1 Bxf3 {The exchange, not generally favourable in
+such positions, is here evidently in Black's favour. He makes
+a doubled Pawn at once, and has many good prospects of a
+King's side attack.} 18.gxf3 Ne5 19.Qe2 g5 20.Rd4 a5 21.f4
+gxf4 22.Rxf4 Kh8 23.f3 {White has already drifted into a most
+unsatisfactory position, and this is one of the best of a
+number of poor defences. It will be noted that White's Rook is
+in a line with Black's King's Bishop, and that some means must
+be found to prevent a fatal attack by Black’s Qh4,
+etc. later.} Nh5 24.Rd4 Ba7 25.Bh4 Qb7 26.Re4 f5 {A very
+charming resource, the point of which is not at first sight
+apparent, but is disclosed in the following moves.} 27.Rxe5
+Qg7+ 28.Kh1 Qxe5 29.Rc6 Ng7 30.Bf2 Rad8 31.Nb6 Bxb6 32.Rxb6
+Qc5 33.e4 {We have indicated a few weak points in White's play
+in our 2nd, 3rd, and 4th notes. We are informed, and the game
+bears out the statement, that White was short of time at one
+or two points. In such a difficult game it is no wonder White
+went astray under those circumstances. In the latter part of
+this game we can suggest no variation satisfactory to him. On
+the other hand, Herr Bardeleben, if by no means enterprising,
+conducts his attack with deadly accuracy and force.} Qc1+
+34.Be1 fxe4 35.Qxe4 Rf4 36.Qe2 Rdf8 37.Kg2 Rxf3 38.Qe5 a4
+{Leading up to a very pretty winning move,...Qc4.} 39.Bxa4 Qc4
+40.Bb5 Qg4+ {If 41 Bg3 Rf2+ 42 Kh1 or Kg1 43 Qd1+. Or if 41
+Kh1 at once then Rf1+ and mate next move.} 0-1

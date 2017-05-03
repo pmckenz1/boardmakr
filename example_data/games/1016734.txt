@@ -1,0 +1,21 @@
+[Event "Zalaegerszeg"]
+[Site "Zalaegerszeg"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Igor Gazik"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.Nf3 d6 2.d4 f5 3.g3 Nf6 4.Bg2 g6 5.b3 Bg7 6.Bb2 O-O 7.O-O c6
+8.Nbd2 Ne4 9.e3 Qe8 10.Qe2 h6 11.Nxe4 fxe4 12.Nd2 d5 13.f3
+exf3 14.Nxf3 Bg4 15.e4 e6 16.Rae1 dxe4 17.Qxe4 Bf5 18.Qe2 Nd7
+19.Nh4 Qd8 20.h3 Kh7 21.c4 Re8 22.Rf2 a5 23.Qd2 a4 24.Bc3 axb3
+25.axb3 Qg5 26.Qxg5 hxg5 27.Nf3 Ra3 28.g4 Bd3 29.Nxg5+ Kg8
+30.Nxe6 Rxb3 31.Nxg7 Rxe1+ 32.Bxe1 Rb1 33.Rf3 Rxe1+ 34.Kh2
+Bxc4 35.Rc3 Bf7 36.d5 cxd5 37.Rc7 Nf6 38.g5 Ne4 39.Nf5 gxf5
+40.Rxb7 Nxg5 0-1

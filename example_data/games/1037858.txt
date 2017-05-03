@@ -1,0 +1,21 @@
+[Event "32nd olm Yerevan ARM"]
+[Site "Yerevan ARM"]
+[Date "1996.09.30"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Guillermo Soppe"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.g3 d5 2.Bg2 c6 3.d3 g6 4.Nd2 Bg7 5.e4 e5 6.Ngf3 Ne7 7.O-O
+O-O 8.Re1 Nd7 9.b3 d4 10.a4 c5 11.Nc4 Qc7 12.Nh4 Nb6 13.f4
+Nxc4 14.bxc4 Bd7 15.Rf1 exf4 16.gxf4 f5 17.e5 Be6 18.Nf3 Kh8
+19.Bd2 Rab8 20.h4 h6 21.Kf2 Nc6 22.Rh1 b6 23.Rh3 a6 24.h5 g5
+25.fxg5 Nxe5 26.gxh6 Ng4+ 27.Kg1 Bxh6 28.Bxh6 Nxh6 29.Nh4 Kh7
+30.Ng6 Rfe8 31.Qf3 Bf7 32.Kf1 Re3 33.Qf2 Rxh3 34.Bxh3 Rg8
+35.Bxf5 Nxf5 36.Qxf5 Bxg6 37.hxg6 Rxg6 38.Kf2 Qe7 39.Re1 Qf6
+40.Qxf6 Rxf6+ 41.Kg3 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Thessaloniki olm ;BIG"]
+[Site "Thessaloniki GRE"]
+[Date "1984.12.04"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Lev Gutman"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 Nxc3 5. bxc3 g6 6. Bg2
+Bg7 7. Rb1 Nd7 8. Nf3 O-O 9. O-O Nb6 10. Ng5 Re8 11. Ne4 Bd7
+12. Nc5 Bc6 13. e4 e5 14. Qb3 Qc8 15. f4 a5 16. fxe5 a4
+17. Qc2 Ra5 18. Ba3 Nc4 19. Bb4 b6 20. Nd3 Rd8 21. Rbd1 Rb5
+22. Be7 Re8 23. Nb4 Bb7 24. Bf6 Bf8 25. Qxa4 c6 26. Qb3 Qe6
+27. a4 Ra5 28. Nd3 Ba6 29. Nf4 Qd7 30. Bh3 Qa7 31. e6 b5+
+32. Bd4 bxa4 33. Qa2 Bc5 34. exf7+ Qxf7 35. Bxc5 Rxc5 36. Ne6
+Qa7 37. Nxc5 Qxc5+ 38. d4 Qg5 39. Rf4 Qa5 40. Bd7 Re7 41. Bxc6
+Qxc3 42. Bd5+ Kg7 43. Qxa4 1-0

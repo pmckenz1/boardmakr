@@ -1,0 +1,21 @@
+[Event "FRG-ch International"]
+[Site "Hannover FRG"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "De Chen"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Bg5 Be7 5.Nc3 O-O 6.e3 h6 7.Bh4 b6
+8.Be2 dxc4 9.Bxc4 Bb7 10.O-O Nbd7 11.Qe2 c5 12.Rfd1 Ne4 13.Bg3
+Nxg3 14.hxg3 Qc8 15.d5 exd5 16.Nxd5 Re8 17.Nf4 Bf6 18.Rd6 Bxf3
+19.gxf3 Ne5 20.Rad1 Qc7 21.R6d2 Nxc4 22.Qxc4 Qc6 23.Nd5 Re6
+24.a4 g6 25.Nf4 Ree8 26.Nxg6 Qxf3 27.Rd7 Bg5 28.Nh4 Qf6
+29.R1d6 Re6 30.Rxe6 Qxe6 31.Qxe6 fxe6 32.Nf3 Bf6 33.b3 Kf8
+34.Kf1 Rd8 35.Rxa7 Rd3 36.Rb7 Bd8 37.Ne5 Rxb3 38.a5 b5 39.a6
+Ra3 40.a7 Ke8 41.Nc6 1-0

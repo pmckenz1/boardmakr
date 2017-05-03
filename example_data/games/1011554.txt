@@ -1,0 +1,22 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Ivan Zaja"]
+[Black "Ibro Saric"]
+[ECO "A69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5
+7. d5 e6 8. Be2 exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4
+12. e6 fxe6 13. d6 a6 14. Ng5 Nf6 15. O-O b6 16. Nge4 Nxe4
+17. Nxe4 Rf8 18. Bg5 Rxf1+ 19. Qxf1 Qf8 20. Qxf8+ Kxf8
+21. Rf1+ Kg8 22. Nf6+ Bxf6 23. Bxf6 Bb7 24. Bg4 Bd5 25. Rd1
+Nd7 26. Rxd5 Nxf6 27. Bxe6+ Kf8 28. Rd3 Rd8 29. Rf3 Rxd6
+30. Bc8 b5 31. h3 b4 32. a3 a5 33. axb4 cxb4 34. Re3 a4
+35. Re5 Rc6 36. Be6 b3 37. Re2 a3 38. Bxb3 Rb6 39. Ba2 axb2
+40. Bb1 Nd5 41. Rc2 Rb3 42. Rc8+ Kg7 43. Re8 Re3 0-1

@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Yury Novikov"]
+[Black "Dmitri Saulin"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nxc6
+bxc6 7. c4 Rb8 8. Qc2 Qa5+ 9. Nd2 Nf6 10. O-O O-O 11. a3 c5
+12. Ra2 Qc7 13. Qa4 h5 14. b4 h4 15. Bb2 hxg3 16. hxg3 Ng4
+17. Qb3 Bxb2 18. Qxb2 Bb7 19. Qc3 Bxg2 20. Kxg2 Nf6 21. Rb1
+Qc6+ 22. Qf3 Qe6 23. Rb3 d6 24. Re3 Qd7 25. bxc5 dxc5 26. Ne4
+Ng4 27. Rd3 Qe6 28. Rd5 Ne5 29. Qc3 f6 30. f3 Rfc8 31. Rad2
+Qa6 32. Rxe5 fxe5 33. Qxe5 Rb6 34. Qxe7 Re6 35. Rd8+ Rxd8
+36. Qxd8+ Kg7 37. Qd7+ Kf8 38. Ng5 Rxe2+ 39. Kh3 Re7 40. Qd8+
+Re8 41. Qd5 Qc8+ 42. g4 Re7 43. Qd6 Qe8 44. Qxc5 Kg7 45. Qd4+
+Kh6 46. Ne4 Qf8 47. g5+ 1-0

@@ -1,0 +1,21 @@
+[Event "cr olm"]
+[Site "cr olm"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jerzy Sokolow"]
+[Black "Lawrence Day"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 g6 2.e4 d6 3.Nc3 Bg7 4.Nf3 Nf6 5.Be2 O-O 6.O-O Bg4 7.Be3
+Nc6 8.Qd2 Kh8 9.h3 Bd7 10.Bh6 e5 11.Rad1 Qe8 12.Rfe1 Bxh6
+13.Qxh6 Nxd4 14.Nxd4 exd4 15.Rxd4 Qe5 16.Qd2 g5 17.Nd5 Nxd5
+18.Rxd5 Qxb2 19.Rxg5 f6 20.Rg3 Rg8 21.Rc3 Qb4 22.Bc4 Rg7
+23.Ree3 Rf8 24.Qe2 b5 25.Bd5 c6 26.Bxc6 Rfg8 27.Qf3 Qb1+
+28.Kh2 Qf1 29.g3 Bxh3 30.Rcd3 Rg6 31.Rd1 Qc4 32.Bd5 Qc8 33.Rc3
+Qd7 34.Bc6 Qc8 35.Rxd6 b4 36.Rc5 Qf8 37.Qf4 Rh6 38.Kg1 Be6
+39.Rxe6 1-0

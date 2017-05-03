@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1922.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Geza Maroczy"]
+[ECO "C13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Nc6
+7. Nh3 f6 8. Nf4 Ndxe5 9. dxe5 Nxe5 10. Qe2 fxg5 11. hxg5 Bd6
+12. Qh5+ Nf7 13. g6 Bxf4 14. gxf7+ Kf8 15. g3 Bg5 16. Bd3 e5
+17. f4 exf4 18. O-O-O fxg3+ 19. Kb1 Be6 20. Rde1 Bxf7 21. Qg4
+Bf6 22. Bxh7 Qd6 23. Nb5 Qc5 24. Bd3 Rh2 25. Qxg3 Qf2 26. Qxh2
+1-0

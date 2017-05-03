@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Ilya Frog"]
+[Black "Vitaly Kunin"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+
+7. bxc3 d6 8. e4 e5 9. O-O Bg4 10. d5 Ne7 11. h3 Bh5 12. g4
+Bg6 13. Qe2 Qd7 14. Kg2 Nxg4 15. Nh4 Nf6 16. f4 exf4 17. Bxf4
+O-O 18. Bh2 Rfe8 19. Rxf6 gxf6 20. Qf3 Kg7 21. Rg1 Ng8 22. Kh1
+Kf8 23. Ng2 Re7 24. Bf4 Rd8 25. Ne3 Re5 26. Bxe5 fxe5 27. h4
+Bh5 28. Qg3 Nh6 29. Qg7+ Ke7 30. Kh2 Rg8 31. Qxh6 Rxg1
+32. Nf5+ 1-0

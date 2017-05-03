@@ -1,0 +1,19 @@
+[Event "Aaronsons open (01)"]
+[Site "London ENG"]
+[Date "1978.03.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jeremy Silman"]
+[Black "Michael John Basman"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 b6 2. d4 Bb7 3. Nd2 e6 4. Ngf3 Nf6 5. Bd3 c5 6. c3 Qc7
+7. O-O Be7 8. Re1 O-O 9. Nf1 d6 10. Bg5 Nbd7 11. e5 dxe5
+12. dxe5 Nd5 13. c4 Bxg5 14. Nxg5 Nf4 15. Bxh7+ Kh8 16. g3 f6
+17. gxf4 fxg5 18. Qh5 Rxf4 19. Bf5+ Kg8 20. Bxe6+ Kf8 21. Qh8+
+Ke7 22. Qxg7+ Kxe6 23. Qg6+ Ke7 24. Qxg5+ Ke6 25. Qxf4 Rf8
+26. Qh6+ Ke7 27. Rad1 1-0

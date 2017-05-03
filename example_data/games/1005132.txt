@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Eric N Cooke"]
+[Black "Gyorgy Jamrich"]
+[ECO "D07"]
+[WhiteElo "2165"]
+[BlackElo "2270"]
+[PlyCount "87"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. a3
+Bxc3+ 7. bxc3 Qd6 8. Nf3 Bg4 9. Be2 Rd8 10. O-O Nge7 11. a4
+O-O 12. Ba3 Qf6 13. Rc1 Rfe8 14. Re1 Ng6 15. Bb2 h6 16. Ba1
+Qe7 17. Rb1 Bc8 18. h3 e4 19. Nd2 Nh4 20. Bf1 Qg5 21. Kh1 Rd6
+22. Rb5 Qg6 23. Rh5 Qf6 24. f4 Nf5 25. Kh2 g6 26. Rxf5 gxf5
+27. c4 Qg6 28. Be2 Kh7 29. Bh5 Qg8 30. Qb1 a5 31. d5 Nb4
+32. Rg1 Nd3 33. g4 Rb6 34. Qc2 Nb4 35. Qc3 fxg4 36. hxg4 Rg6
+37. Bxg6+ fxg6 38. Qf6 Nc2 39. Bd4 Bd7 40. Rc1 Bxa4 41. Kg3 b6
+42. Be5 Nxe3 43. Nxe4 Bd7 44. Ng5+ 1-0

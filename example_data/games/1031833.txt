@@ -1,0 +1,18 @@
+[Event "USSR Championship"]
+[Site "Leningrad (RUS)"]
+[Date "1933.08.27"]
+[EventDate "1933.??.??"]
+[Round "10"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Mikhail M Yudovich Sr."]
+[ECO "D96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.c4 Nf6 2.d4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 c6 6.cxd5 Nxd5 7.Bd2
+O-O 8.e4 Nb6 9.Rd1 N8d7 10.a4 a5 11.Be3 Qc7 12.Be2 Qd6 13.Na2
+e6 14.O-O h6 15.Rc1 f5 16.Nc3 Kh7 17.Rfd1 fxe4 18.Nxe4 Qb4
+19.Qc2 Qxa4 20.b3 Qa3 21.Nh4 Qe7 22.Nxg6 Kxg6 23.Bh5+ { Kh7
+24.Nf6+ Kh8 25.Qh7# } 1-0

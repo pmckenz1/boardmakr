@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Murugan Thiruchelvam"]
+[Black "Stewart Haslinger"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O
+7. Bb3 a6 8. Nbd2 Ba7 9. Re1 Ng4 10. Re2 Kh8 11. h3 Nh6
+12. Nf1 f5 13. Bg5 Qe8 14. Bxh6 gxh6 15. exf5 Bxf5 16. Bd5 Qc8
+17. Qd2 Rf6 18. Kh2 Ne7 19. Be4 Be6 20. Ng3 d5 21. Nh5 Qf8
+22. Nxe5 dxe4 23. Nxf6 Qxf6 24. Rxe4 Bxf2 25. d4 Rg8 26. Qe2
+Bg3+ 27. Kh1 Bxe5 28. dxe5 Qg6 29. Rf4 Qg5 30. Ra4 Nd5 31. h4
+Qg3 32. Qf3 Ne3 33. Qxg3 Rxg3 34. Rg1 Bd5 35. Kh2 Rxg2+
+36. Rxg2 Nxg2 37. Rd4 Ne3 38. Rd3 Ng4+ 39. Kg3 Be6 40. Rd4 Ne3
+41. Rb4 b5 42. Re4 Nf5+ 43. Kf2 Bxa2 44. e6 Nd6 45. Re5 Kg7
+46. e7 Kf7 47. Rc5 Ne4+ 0-1

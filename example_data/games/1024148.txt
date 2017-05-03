@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1971.09.28"]
+[EventDate "1971.09.15"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "B87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 a6 7.Bb3
+b5 8.O-O Be7 9.Qf3 Qc7 10.Qg3 Nc6 11.Be3 O-O 12.Nxc6 Qxc6
+13.Bh6 Ne8 14.Nd5 Bd8 15.Rfe1 Qb7 16.Nc3 1/2-1/2

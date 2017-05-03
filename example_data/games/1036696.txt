@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1926.11.20"]
+[EventDate "1926.11.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Paul F Johner"]
+[ECO "D04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 Bg4 4.c4 e6 5.Qb3 Qc8 6.Ne5 Bf5 7.Nc3
+c6 8.cxd5 exd5 9.Bd2 Bd6 10.Rc1 O-O 11.Nb5 Be7 12.Bd3 Bxd3
+13.Qxd3 Na6 14.a3 Qe6 15.Nc3 Nc5 16.Qc2 Nce4 17.O-O Bd6 18.f4
+Nxc3 19.Bxc3 Ne4 20.Rf3 f6 21.Nd3 Rac8 22.b4 b6 23.Bb2 Rc7
+24.Qb3 Nd2 25.Qd1 Nxf3+ 26.Qxf3 Re8 27.Re1 Qe4 28.Qd1 Rce7
+29.Bc3 Rc7 30.Nf2 Qg6 31.Bd2 c5 32.bxc5 bxc5 33.Ba5 Rd7 34.e4
+cxd4 35.Qxd4 Bxf4 36.Rd1 Qf7 37.exd5 Be3 38.Qd3 Re5 39.d6
+Bxf2+ 0-1

@@ -1,0 +1,19 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Valeri Yandemirov"]
+[Black "Alexey Dreev"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.c3 c5 6.Bd3 Nc6 7.Ne2
+cxd4 8.cxd4 f6 9.Nf4 Nxd4 10.Qh5+ Ke7 11.exf6+ Nxf6 12.Ng6+
+hxg6 13.Qxh8 e5 14.Nf3 Nxf3+ 15.gxf3 Bf5 16.Bxf5 gxf5 17.Bg5
+Qa5+ 18.Kf1 e4 19.Bxf6+ Kxf6 20.Rg1 Qd2 21.Qh5 Qd3+ 22.Kg2 Bc5
+23.Rad1 Qe2 24.Qh4+ g5 25.Qh6+ Ke5 26.Qg7+ Ke6 27.Qg6+ Ke5
+28.Qg7+ Ke6 1/2-1/2

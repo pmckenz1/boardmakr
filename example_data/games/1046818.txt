@@ -1,0 +1,24 @@
+[Event "Prestwich UENGO"]
+[Site "07"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andrew Webster"]
+[Black "Alisa Galliamova"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.c4 Nf6 2.g3 c5 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nc7 6.Qa4+ Nd7
+7.Nf3 f6 8.d4 cxd4 9.Nxd4 e5 10.Nf5 g6 11.Ne3 a6 12.b4 a5
+13.bxa5 Ne6 14.Nc4 Kf7 15.Be3 Nd4 16.f4 Nc5 17.Qd1 Be6 18.fxe5
+Nxe2 19.Qxd8 Rxd8 20.Nd6+ Bxd6 21.exd6 Nxc3 22.Bxc5 Rd7 23.a3
+Rc8 24.Bb4 Bd5 25.O-O Bxg2 26.Kxg2 Nd5 27.Rfc1 Ne3+ 28.Kf3 Nc2
+29.Rab1 Rc6 30.Rd1 Ke6 31.Rb3 Nxb4 32.Re3+ Kf7 33.axb4 Rcxd6
+34.Rxd6 Rxd6 35.Rc3 Rd7 36.b5 Ke6 37.Re3+ Kf5 38.g4+ Kg5
+39.Ra3 Rd5 40.a6 bxa6 41.bxa6 Rd8 42.a7 Ra8 43.Kg3 Kh6 44.Kf4
+g5 45.Ke4 Kg6 46.Kd5 h5 47.h3 hxg4 48.hxg4 Kf7 49.Ra6 Kg6
+50.Kc6 Rxa7 51.Rxa7 f5 52.Kd5 fxg4 53.Ke4 Kh5 54.Ke3 Kh4
+55.Kf2 1-0

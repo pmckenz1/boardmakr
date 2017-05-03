@@ -1,0 +1,20 @@
+[Event "Barmen Main B, GER"]
+[Site "Barmen Main B GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Savielly Tartakower"]
+[Black "Theodor von Scheve"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 d5 4. dxe5 Nxe4 5. Bxd5 Ng5 6. Bxg5
+Qxg5 7. Nf3 Qh5 8. Nc3 Be7 9. h3 c6 10. Bb3 O-O 11. Qe2 Na6
+12. Ne4 Nc5 13. Nxc5 Bxc5 14. O-O-O b5 15. g4 Qg6 16. Nd2 Be6
+17. f4 Bxb3 18. Nxb3 Be7 19. h4 Qe6 20. f5 Qc8 21. Qf3 c5
+22. f6 Bd8 23. fxg7 Re8 24. Rhf1 Qe6 25. Nxc5 Qxa2 26. e6 f6
+27. Qxa8 Qa1+ 28. Kd2 Qxb2 29. Qd5 Ba5+ 30. Ke3 Bb6 31. Kf3
+Ba5 32. Nd3 Qxc2 33. Qd7 1-0

@@ -1,0 +1,23 @@
+[Event "Ch World FIDE (play-off), Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Sergei Shipov"]
+[Black "Hannes Stefansson"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. Bg5 Bb7 8. e3 d6 9. f3 Nbd7 10. Nh3 c5 11. dxc5 bxc5
+12. Be2 Qb6 13. O-O Rfe8 14. Rfd1 d5 15. Rac1 Rac8 16. Bh4 e5
+17. cxd5 Nxd5 18. Qd2 e4 19. Bc4 N7f6 20. f4 Ne7 21. Nf2 Rcd8
+22. Qe2 Rxd1+ 23. Rxd1 Nfd5 24. Bxe7 Nxe7 25. Qh5 Rf8 26. Ng4
+Ba6 27. Bxa6 Qxa6 28. Qxc5 Ng6 29. Qc2 f5 30. Ne5 Nxe5
+31. fxe5 Qe6 32. Qc5 Qb3 33. Rd7 Qxb2 34. Qe7 Qa1+ 35. Kf2
+Qa2+ 36. Kg3 Qf7 37. Qxf7+ Rxf7 38. e6 Rf8 39. Kf4 Rb8
+40. Rxa7 h6 41. Kxf5 Rb5+ 42. Kxe4 Kf8 43. Rf7+ Kg8 44. Rf5
+Rb7 45. g4 Ra7 46. h4 Re7 47. Ke5 Ra7 48. Ke4 1-0

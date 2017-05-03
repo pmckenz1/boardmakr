@@ -1,0 +1,21 @@
+[Event "ARG-ch Juniors 22nd"]
+[Site "Buenos Aires ARG"]
+[Date "1976.02.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Sergio Negri"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 c6 2. d4 g6 3. h4 h5 4. Nc3 d5 5. e5 Bh6 6. Bg5 Qa5
+7. Qd2 Na6 8. a3 Be6 9. Bd3 Nb4 10. Be2 c5 11. Nf3 O-O-O
+12. O-O Nc6 13. b4 Qc7 14. bxc5 f6 15. exf6 exf6 16. Bxh6 Nxh6
+17. Nb5 Qe7 18. Nd6+ Rxd6 19. cxd6 Qxd6 20. Rfd1 Ng4 21. Bb5
+Kb8 22. c4 Ne7 23. c5 Qc7 24. Re1 Bf5 25. Bd3 Bxd3 26. Qxd3
+Nf5 27. Qe2 a6 28. Qe6 Nxh4 29. Nxh4 Qh2+ 30. Kf1 Qxh4
+31. Qd6+ Ka7 32. Qg3 Qg5 33. Rab1 Qd2 34. Re7 Rb8 35. c6 Nh2+
+36. Kg1 1-0

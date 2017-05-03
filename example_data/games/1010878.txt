@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Zurab Igriashvili"]
+[Black "Dmitri Rumiantsev"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 Nc6 6. Bb5
+Kd8 7. a4 Qb4 8. Nf3 Qd6 9. d5 Ne5 10. Bf4 Nxf3+ 11. Qxf3 Qc5
+12. O-O Bg4 13. Qg3 h5 14. b4 h4 15. Qd3 Qxb4 16. Bc4 Bf5
+17. Qd4 Qb6 18. Qe5 Rh5 19. Rab1 Bxc2 20. Rxb6 Rxe5 21. Rxb7
+Rf5 22. Bxc7+ Kc8 23. Ba6 Bd3 24. Nb5 Bxb5 25. axb5 Kd7
+26. Bb8+ Kd8 27. Bxa7 Nxd5 28. b6 e6 29. Bb5 Nc3 30. Rd7+ Kc8
+31. b7# 1-0

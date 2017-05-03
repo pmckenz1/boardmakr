@@ -1,0 +1,46 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.12"]
+[EventDate "?"]
+[Round "17"]
+[Result "1/2-1/2"]
+[White "Jackson Whipps Showalter"]
+[Black "James Moore Hanham"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "139"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 d6 3.d4 Nd7 4.Nc3 c6 5.Be2
+Be7 6.O-O h6 7.Be3 Ngf6 8.h3 g5 9.Nh2 Qc7 10.Qd2 Nf8 11.Rad1
+Ng6 12.Bf3 Be6 {The opponent's weak eight move has given him
+opportunities for a strong attack which he ought to have
+pursued without delay by Nf4. Anyhow Bd7 was better if he
+intended to develop that piece first.} 13.Rfe1 Nf4 14.d5 cxd5
+{Bd7 was again preferable.} 15.exd5 Bd7 16.Bxf4 gxf4 17.Be2
+Rg8 18.Kh1 Qb6 19.Bf1 Rc8 20.b3 Kf8 21.Bd3 Rg7 22.Nf3 Ng8
+23.Ng1 f5 24.f3 Nf6 25.b4 Kf7 {We saw no reason for not taking
+the b-pawn here and on the next two moves.} 26.a4 a6 27.a5 Qd4
+28.Nge2 Qf2 29.Rg1 Rcg8 30.Rdf1 Qh4 31.Qe1 Qh5 32.Qf2 Nh7
+{Instead of this useless move he might more effectively tried
+to get his inactive KB round to a7 via d8, c7, and b8. White
+could hardly prevent this plan; for he had always to guard
+against the sacrifice of the adverse Knight for the h-pawn.}
+33.Nc1 Ng5 34.N3e2 Nh7 35.c4 Nf8 36.Rd1 Ng6 37.Nc3 Nh4 38.Bf1
+Nxf3 39.Be2 Qxh3+ {The culmination of a deep and highly
+ingenious plan.} 40.gxh3 Rxg1+ 41.Rxg1 Rxg1+ 42.Qxg1 Nxg1
+43.Kxg1 e4 44.Bh5+ Kf6 45.Nb3 Ke5 46.Kf2 Bh4+ 47.Ke2 f3
+48.Bxf3 exf3 49.Kxf3 f4 {Letting a sure victory slip. Be1
+first would have driven back the Knight to a2 in order to
+protect the b-pawn which obviously he could not afford to
+lose, and then the advance f4 would have won the h-pawn.}
+50.Ne2 Bxh3 51.Nxf4 Bf5 52.b5 Bg5 53.Ne6 Bd3 54.bxa6 bxa6
+55.Nxg5 hxg5 56.c5 Be4+ 57.Kg3 {Kg4 was clearly better.} Bxd5
+58.cxd6 Kxd6 59.Nd2 Ke5 60.Kg4 Kf6 61.Nb1 Be6+ 62.Kg3 Ke5
+63.Nc3 Kd4 64.Ne2+ Ke4 {Waste of precios time. Kc4 gave him
+excellent winning prospects.} 65.Ng1 Kd5 66.Nf3 g4 67.Kf4
+{Fine play. White now draws in an ingenious matter.} Kc5
+68.Nh2 Kb5 69.Nxg4 Bxg4 70.Ke3 {A well known book
+position. White will reach the a1 square, from which post he
+cannot be driven by the adverse Bishop, and only a stalemate
+can be effected by the opponent.} 1/2-1/2

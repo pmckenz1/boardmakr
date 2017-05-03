@@ -1,0 +1,21 @@
+[Event "Antwerp 1of6 consult"]
+[Site "Antwerp BEL"]
+[Date "1923.02.10"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Oscar Prils/Blaut"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 6. O-O b5
+7. Bb3 d6 8. a4 b4 9. Nd5 O-O 10. d4 Bg4 11. c3 bxc3 12. bxc3
+Nxe4 13. Re1 Nf6 14. h3 Bh5 15. Nxf6+ Bxf6 16. Bd5 Qd7 17. a5
+Rad8 18. Qd3 Nb8 19. Ba3 Rfe8 20. Be4 Bg6 21. Bxg6 hxg6 22. d5
+e4 23. Rxe4 Rxe4 24. Qxe4 Bxc3 25. Rc1 Bxa5 26. Bb2 Re8
+27. Qh4 f6 28. Nd4 Kf7 29. Rc4 Re5 30. Ne6 Rh5 31. Qe4 Qe7
+32. Qd3 Bb6 33. Re4 Qd7 34. g4 Rh8 35. Rf4 Re8 36. Bxf6 gxf6
+37. Rxf6+ Kxf6 38. Qc3+ 1-0

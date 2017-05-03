@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Macon A Shibut"]
+[Black "John E Roush"]
+[ECO "B40"]
+[WhiteElo "2311"]
+[BlackElo "2055"]
+[PlyCount "57"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7
+7. O-O O-O 8. Nh4 Bd7 9. f4 f5 10. c3 Be8 11. Re1 Bc7 12. Ndf3
+h6 13. a3 a5 14. Qa4 Bf7 15. Qc2 g6 16. Kh1 Qb8 17. Be3 b6
+18. Qf2 fxe4 19. dxe4 e5 20. Nxe5 Nxe5 21. fxe5 Bxe5 22. Bxh6
+Bg7 23. Bxg7 Kxg7 24. exd5 Nxd5 25. Rad1 Ra7 26. Qd2 Nf6
+27. Qg5 Qc8 28. Rd6 Ng4 29. Nxg6 1-0

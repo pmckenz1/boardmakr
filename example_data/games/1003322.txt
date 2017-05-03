@@ -1,0 +1,19 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "E E Middleton"]
+[Black "Dirk Bleijkmans"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Na4 Bb6 6. Nxb6
+axb6 7. Bb5 Bg4 8. O-O Nge7 9. h3 Bxf3 10. Qxf3 O-O 11. c3 f5
+12. exf5 Rxf5 13. d4 exd4 14. Bd3 Ne5 15. Qe2 Nxd3 16. Qxd3
+dxc3 17. bxc3 Qd7 18. c4 Rfa5 19. Qb3 Qa4 20. Qe3 Nf5 21. Qe6+
+Kf8 22. Qe4 Re8 23. Qd3 Qc6 24. Bd2 Qc5+ 25. Rf2 Ra3 26. Qd5
+Qxd5 27. cxd5 Rd3 28. Rc1 Ng3 29. Rc2 Rxd5 30. Bc1 Rd1+ 0-1

@@ -1,0 +1,21 @@
+[Event "10, Moscow"]
+[Site "Moscow URS"]
+[Date "1991.11.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Aleksandr Shneider"]
+[Black "Vladimir Bagirov"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d6 2.g3 e5 3.dxe5 dxe5 4.Qxd8+ Kxd8 5.Bg2 c6 6.f4 exf4
+7.Bxf4 Ne7 8.Nc3 Ng6 9.O-O-O Nd7 10.Nf3 Nxf4 11.gxf4 Bb4
+12.Ne4 Ke7 13.Rd4 Ba5 14.Nd6 Bb6 15.Nxc8+ Rhxc8 16.Rc4 Rd8
+17.Nd4 Nf6 18.Nf5+ Kf8 19.Rc3 g6 20.Ng3 Ng4 21.Bf3 Be3+ 22.Kb1
+Nf2 23.Rf1 Bxf4 24.e3 Bxg3 25.hxg3 Nh3 26.b4 Ng5 27.Bh1 a6
+28.a4 Rd6 29.b5 cxb5 30.Bxb7 Rb8 31.Rc7 Ke8 32.Bg2 bxa4 33.Ka2
+Kd8 34.Ra7 Rd2 35.Bh1 Rxc2+ 36.Ka3 Rc3+ 37.Ka2 a3 38.Rxa6 Rb2+
+39.Ka1 Rxe3 0-1

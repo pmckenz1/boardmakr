@@ -1,0 +1,18 @@
+[Event "Kusadasi op"]
+[Site "Kusadasi TUR"]
+[Date "1990.04.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Zoran S Ilic"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e5 7.Nh3 Nge7
+8.O-O O-O 9.f5 f6 10.g4 Bd7 11.Nf2 Kh8 12.Ne2 Be8 13.Ng3 d5
+14.h4 dxe4 15.dxe4 Qxd1 16.Rxd1 b6 17.c3 Bf7 18.Be3 Rfd8
+19.Re1 h6 20.g5 hxg5 21.hxg5 fxg5 22.Bxg5 Rd6 23.Ng4 Bf8
+24.Kf2 gxf5 25.exf5 Nd5 26.Ne4 Rdd8 27.Rh1+ Kg7 28.Bh6+ 1-0

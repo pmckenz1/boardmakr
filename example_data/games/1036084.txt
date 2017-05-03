@@ -1,0 +1,24 @@
+[Event "18th DSB Kongress"]
+[Site "Breslau GER"]
+[Date "1912.07.19"]
+[EventDate "1912.07.15"]
+[Round "5"]
+[Result "0-1"]
+[White "Zoltan von Balla"]
+[Black "Amos Burn"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c5 4.Nf3 Nc6 5.Bb5 a6 6.exd5 axb5 7.dxc6
+bxc6 8.dxc5 Qxd1+ 9.Kxd1 Bxc5 10.Ne4 Be7 11.Be3 Nf6 12.Nxf6+
+gxf6 13.Nd4 Bb7 14.Nb3 Rg8 15.Rg1 Rg4 16.Bc5 Rc4 17.Bxe7 Kxe7
+18.c3 c5 19.f3 Bd5 20.Kc2 Kd6 21.a3 f5 22.Nd2 Rh4 23.h3 Kc6
+24.b3 e5 25.Rge1 f6 26.Re2 Bf7 27.Kb2 c4 28.a4 Kb6 29.axb5
+Rxa1 30.Kxa1 cxb3 31.Kb2 Kxb5 32.Nxb3 Ra4 33.Rd2 Kc6 34.Rd8
+Ra7 35.Nc1 f4 36.Kc2 Kc7 37.Rd2 Bg6+ 38.Kb3 Rb7+ 39.Kc4 Kc6
+40.Rf2 Bf7+ 41.Kd3 Kc5 42.Rd2 Bg6+ 43.Ke2 Kc4 44.Na2 Rb3
+45.Rd7 Rb2+ 46.Rd2 Bd3+ 47.Kd1 Rb1+ 48.Nc1 Bg6 49.Rd6 Kxc3
+50.Rc6+ Kd4 51.Rd6+ Ke3+ 52.Rd2 e4 53.Re2+ Kd4 54.fxe4 Bh5
+55.Kd2 Rxc1 0-1

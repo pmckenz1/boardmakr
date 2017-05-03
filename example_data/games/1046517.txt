@@ -1,0 +1,23 @@
+[Event "It (open), Hamburg (Germany)"]
+[Site "It (open), Hamburg (Germany)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Yochanan Afek"]
+[Black "Lubomir Ftacnik"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. e5 dxe5 6. dxe5 Qxd1+
+7. Kxd1 Nfd7 8. Nf3 f6 9. exf6 exf6 10. Bc4 Nb6 11. Bb3 Nc6
+12. Re1+ Kd8 13. Nbd2 Bf5 14. Nc4 Re8 15. Be3 Nd5 16. Bd2 Kd7
+17. Ne3 Nxe3+ 18. Bxe3 Na5 19. Ba4+ c6 20. Bc2 Be6 21. f5 Bxf5
+22. Bxf5+ gxf5 23. b3 Bf8 24. Kc2 c5 25. Rad1+ Kc6 26. Nh4 Re5
+27. Bf4 Re4 28. Bg3 Rae8 29. Rf1 Re2+ 30. Kb1 b6 31. Rxf5 R8e6
+32. Rh5 R6e3 33. Rc1 Re7 34. Rf1 Rd7 35. Bf4 Bd6 36. Bc1 Be5
+37. c4 Nb7 38. Nf3 Bc3 39. g3 Nd6 40. Rd1 Rde7 41. Rd3 Ne4
+42. Rf5 Rg2 43. Rf4 Bd4 44. Bd2 Nxd2+ 45. Rxd2 Rxd2 46. Nxd2
+Re2 47. Kc2 Rxh2 48. b4 Be3 0-1

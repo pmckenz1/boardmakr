@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Olivier Touzane"]
+[Black "Johannes Fischer"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bh4 e6 5. e3 c5 6. Nf3 Qb6
+7. a3 Nc6 8. Be2 Be7 9. O-O cxd4 10. exd4 Bd7 11. Re1 Rc8
+12. Bf1 g5 13. Bg3 g4 14. Ne5 Qxb2 15. Nb5 a6 16. Rb1 Qa2
+17. Nxd7 axb5 18. Nb6 Rd8 19. Bc7 Qxa3 20. Re3 Qa2 21. Bxb5
+Qa5 22. Nxd5 Qa2 23. Nxf6+ Bxf6 24. Bxd8 Kxd8 25. Reb3 Qa7
+26. Bxc6 bxc6 27. Qxg4 1-0

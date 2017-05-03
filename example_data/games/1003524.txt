@@ -1,0 +1,20 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.07.11"]
+[EventDate "1905.06.12"]
+[Round "21"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Georg Marco"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 a6 7.Rc1
+O-O 8.cxd5 exd5 9.Bd3 c6 10.O-O Ne8 11.Bf4 g6 12.Ne5 Nxe5
+13.dxe5 Ng7 14.e4 d4 15.Ne2 c5 16.Bh6 b5 17.b3 Qb6 18.Nf4 Be6
+19.Nd5 Bxd5 20.exd5 Rfc8 21.f4 c4 22.Be4 Ba3 23.Rb1 d3 24.Kh1
+Qd4 25.Qf3 c3 26.f5 Qxe5 27.fxg6 fxg6 28.Qf7+ Kh8 29.Bxd3 Rf8
+30.Qb7 Bd6 31.Bf4 Qe7 32.Qxe7 Bxe7 33.Be5 b4 34.d6 Bg5 35.d7
+a5 36.g3 Kg8 37.h4 Bh6 38.Bf6 Rxf6 39.Rxf6 Nh5 40.Rc6 1-0

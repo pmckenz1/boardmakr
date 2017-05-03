@@ -1,0 +1,16 @@
+[Event "07, Berliner Sommer"]
+[Site "Berlin GER"]
+[Date "1995.08.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Aivars Gipslis"]
+[Black "Vladimir Bagirov"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3
+7.exf6 Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d6 11.Bf4 Bf5
+12.Bd3 Bxd3 13.cxd3 1/2-1/2

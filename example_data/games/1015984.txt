@@ -1,0 +1,17 @@
+[Event "It (cat.12)"]
+[Site "Baden AUT"]
+[Date "1980.11.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Michael Francis Stean"]
+[Black "Andras Adorjan"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.Nf3 Nf6 2.c4 c5 3.d4 cxd4 4.Nxd4 e6 5.g3 Bb4+ 6.Bd2 Qb6
+7.Bg2 Bc5 8.e3 Bxd4 9.exd4 Qxd4 10.O-O Nc6 11.Na3 O-O 12.Bc3
+Qc5 13.Qd2 Qe7 14.Nb5 d5 15.Bxf6 Qxf6 16.cxd5 Rd8 17.Qc3 Qxc3
+18.Nxc3 exd5 19.Nxd5 Kf8 20.Rfc1 Bd7 21.Nc7 1/2-1/2

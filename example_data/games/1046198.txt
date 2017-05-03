@@ -1,0 +1,23 @@
+[Event "Bacolod"]
+[Site "Bacolod"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Rogelio Barcenilla"]
+[Black "Lubomir Ftacnik"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. a4 Be7 8. O-O O-O 9. Be3 Nc6 10. f4 Qc7 11. Kh1 Re8 12. Bf3
+Bd7 13. Nb3 b6 14. g4 Bc8 15. g5 Nd7 16. Bg2 g6 17. Rf3 Bf8
+18. Rh3 Bg7 19. Qd2 Bb7 20. Rd1 Rad8 21. Qxd6 Qc8 22. Qd2 Ne7
+23. Qe1 e5 24. Qh4 Nf8 25. Rf1 Qc6 26. Qf2 exf4 27. Bxb6 Rd6
+28. Bc5 Ne6 29. Bxd6 Qxd6 30. Rd3 Qe5 31. Nd5 Qxg5 32. Nxf4
+Nxf4 33. Qxf4 Qxf4 34. Rxf4 Bxb2 35. Na5 Be5 36. Rf1 Bc8
+37. Nc4 Nc6 38. Nd6 Bxd6 39. Rxd6 Ne5 40. Rfd1 Kg7 41. Rd8
+Rxd8 42. Rxd8 Bd7 43. a5 Bb5 44. Rc8 Nc4 45. e5 Nxe5 46. Bd5
+Kf6 47. c4 Bd7 48. Ra8 Ke7 49. Rxa6 f5 50. Rb6 1-0

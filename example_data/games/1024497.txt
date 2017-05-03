@@ -1,0 +1,18 @@
+[Event "Lvov zt"]
+[Site "Lviv UKR"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Iossif Davidovich Dorfman"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 d5 4.cxd5 Nxd5 5.d4 Nxc3 6.bxc3 g6
+7.e3 Bg7 8.Bd3 O-O 9.O-O Qa5 10.Bb2 cxd4 11.cxd4 Nc6 12.Nd2
+Bf5 13.Nb3 Qd5 14.Ba3 Rfc8 15.Rc1 Bxd3 16.Qxd3 e6 17.Rfd1 Na5
+18.e4 Qh5 19.d5 Nc4 20.dxe6 Nxa3 21.Rxc8+ Rxc8 22.Qd7 Ra8
+23.Qxf7+ Kh8 24.Rd7 Be5 25.g3 1-0

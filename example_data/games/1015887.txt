@@ -1,0 +1,26 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1978.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vlastimil Jansa"]
+[Black "Andras Adorjan"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.Nf3 Nf6 2.g3 b6 3.Bg2 Bb7 4.c4 e6 5.O-O Be7 6.b3 O-O 7.Bb2
+c5 8.Nc3 d5 9.cxd5 Nxd5 10.Nxd5 Bxd5 11.d4 Bf6 12.Qd3 Nd7
+13.Rad1 cxd4 14.Bxd4 Rc8 15.e4 Bb7 16.Ba1 Rc7 17.e5 Be7 18.Nd2
+Bxg2 19.Kxg2 Nxe5 20.Qxd8 Rxd8 21.Bxe5 Rcd7 22.Bc3 Bf6 23.Rc1
+Bxc3 24.Rxc3 Rxd2 25.a4 g5 26.Rc7 R8d7 27.Rfc1 Kg7 28.h3 h6
+29.R1c4 R7d5 30.g4 Rd7 31.b4 R2d4 32.Rc3 Kf6 33.a5 bxa5
+34.bxa5 R4d5 35.a6 R5d6 36.Rb7 Ke7 37.Rcc7 Rxc7 38.Rxc7+ Rd7
+39.Rc6 Kd8 40.Kf3 Rc7 41.Rd6+ Ke7 42.Rd3 Rc6 43.Ra3 Kf6 44.Kg3
+Kg6 45.h4 gxh4 46.Kxh4 Rc4 47.Kg3 f6 48.Rd3 Rc6 49.Ra3 h5
+50.gxh5+ Kxh5 51.Ra5+ Kg6 52.Ra3 Kf5 53.Ra5+ Ke4 54.Kg4 Kd4
+55.Ra2 Kc5 56.Kh5 Kb5 57.Kg6 f5 58.Kf6 Rxa6 59.Rb2+ Kc4 60.Rb7
+Kd5 61.Rb5+ Ke4 62.Rb4+ Kf3 63.Rb2 Rb6 64.Ra2 a5 65.Rxa5 Kxf2
+66.Kg5 Rb3 67.Ra4 Kg3 0-1

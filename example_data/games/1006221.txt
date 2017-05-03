@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Sigurdur Pall Steindorsson"]
+[Black "Heikki Westerinen"]
+[ECO "A25"]
+[WhiteElo "2056"]
+[BlackElo "2392"]
+[PlyCount "83"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 Nf6 6. Nge2 O-O
+7. O-O d6 8. d3 Be6 9. Rb1 d5 10. d4 exd4 11. cxd5 dxc3
+12. Nxc3 Bg4 13. f3 Bf5 14. e4 Ne7 15. exf5 Nxf5 16. g4 Nd6
+17. Qd3 Nd7 18. Bf4 Qf6 19. Bxd6 cxd6 20. f4 Qd4+ 21. Qxd4
+Bxd4+ 22. Kh1 Bxc3 23. bxc3 Nc5 24. f5 Rae8 25. fxg6 fxg6
+26. Rbe1 Rxe1 27. Rxe1 Rf2 28. h4 Kf7 29. g5 Rxa2 30. Rf1+ Kg7
+31. Kh2 Ra4 32. Kg3 Rc4 33. Rf6 Rxc3+ 34. Kg4 a5 35. Rxd6 a4
+36. Rd8 a3 37. d6 Rc4+ 38. Kg3 Rd4 39. Ra8 Rd3+ 40. Kf4 b5
+41. Ra7+ Kf8 42. Ke5 1/2-1/2

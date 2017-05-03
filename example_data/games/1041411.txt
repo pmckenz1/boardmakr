@@ -1,0 +1,16 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1980.03.19"]
+[EventDate "1980.03.16"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Michael Wilder"]
+[Black "Eugenio Torre"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Nbd2 Nf6 5.Bd3 O-O 6.O-O Nc6 7.c3
+Re8 8.Nc4 e5 9.dxe5 Nxe5 10.Nfxe5 dxe5 11.Bg5 h6 12.Bh4 Qe7
+13.Qf3 1/2-1/2

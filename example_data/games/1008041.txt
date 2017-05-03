@@ -1,0 +1,22 @@
+[Event "Zurich"]
+[Site "Zurich SUI"]
+[Date "1934.07.20"]
+[EventDate "1934.07.14"]
+[Round "7"]
+[Result "0-1"]
+[White "Walter Henneberger"]
+[Black "Hans Mueller"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 bxc6 5.d3 d6 6.Qe2 e5 7.c4
+Nf6 8.O-O Be7 9.Re1 Nd7 10.Nbd2 Nf8 11.Nf1 Bg4 12.h3 Bh5
+13.Ng3 Bg6 14.Nf5 Ne6 15.Be3 O-O 16.g3 a5 17.Kg2 a4 18.Rad1
+Re8 19.Rh1 Bxf5 20.exf5 Nd4 21.Nxd4 exd4 22.Bc1 d5 23.Rhe1 Qd7
+24.Qf3 Bf6 25.g4 dxc4 26.g5 Be5 27.dxc4 Bc7 28.h4 Ba5 29.Bd2
+Bxd2 30.Rxe8+ Rxe8 31.Rxd2 Kf8 32.f6 gxf6 33.Qxf6 Qg4+ 34.Kh2
+Qxh4+ 35.Kg2 Re6 36.Qd8+ Kg7 37.Rd3 Qe4+ 38.Rf3 h6 39.Qd7 Qg6
+40.Rg3 hxg5 41.Qd8 Qe4+ 42.Kg1 g4 43.Qg5+ Rg6 44.Qxc5 Rh6
+45.Qg5+ Kh7 0-1

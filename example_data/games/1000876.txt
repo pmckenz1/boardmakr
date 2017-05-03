@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.18"]
+[EventDate "1911.08.21"]
+[Round "21"]
+[Result "1-0"]
+[White "Hugo Suechting"]
+[Black "Georg Salwe"]
+[ECO "C87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.c3
+O-O 8.h3 Nd7 9.d4 Bf6 10.Be3 Ne7 11.Nbd2 g6 12.Bh6 Re8 13.Nf1
+b5 14.Bb3 Nf8 15.Ne3 Be6 16.Bxe6 fxe6 17.Ng4 Nc6 18.dxe5 Nxe5
+19.Nfxe5 Bxe5 20.Nxe5 dxe5 21.Qg4 Qe7 22.Bg5 Qg7 23.Qh4 Nd7
+24.Rad1 h5 25.Rd2 Rf8 26.Red1 Rf7 27.Qg3 Nb6 28.b3 Kh7 29.Qe3
+Qf8 30.Qg3 Qc5 31.Be3 Qxc3 32.Qg5 1-0

@@ -1,0 +1,22 @@
+[Event "Smolensk"]
+[Site "Smolensk"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Elmar Magerramov"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 c5 2.g3 Nc6 3.Bg2 g6 4.d3 Bg7 5.f4 d6 6.Nf3 e6 7.O-O Nge7
+8.c3 O-O 9.Be3 b6 10.Bf2 e5 11.Na3 h6 12.Nh4 exf4 13.gxf4 Rb8
+14.Bg3 f5 15.Nc2 Qe8 16.Ne3 Qf7 17.Bf3 Be6 18.Qe2 Rbd8 19.Qg2
+d5 20.Nxg6 Qxg6 21.exd5 Nxd5 22.Nxd5 Qf7 23.Nxb6 axb6 24.Bxc6
+Rxd3 25.a3 Rfd8 26.Rae1 R8d6 27.Re2 Kh7 28.Rfe1 Bc4 29.Be8 Qf6
+30.Re7 Bd5 31.Bh4 Qxe7 32.Bxe7 Bxg2 33.Bxd6 Be4 34.Bc7 Rd2
+35.Bxb6 Rg2+ 36.Kf1 Rxb2 37.Bxc5 Bxc3 38.Rd1 Rxh2 39.Rd7+ Kh8
+40.Bb4 Bxb4 41.axb4 h5 42.Bg6 h4 43.Rh7+ Kg8 44.Rh5 Rb2
+1/2-1/2

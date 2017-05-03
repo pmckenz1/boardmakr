@@ -1,0 +1,26 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "Ch USA (juniors), San Francisco (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Dmitry Schneider"]
+[Black "Marcel Martinez"]
+[ECO "C71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4 Bg4 6. h3 Bxf3
+7. Qxf3 g6 8. Nc3 Bg7 9. Nd5 Nge7 10. d3 O-O 11. Nf6+ Kh8
+12. Bg5 Nd4 13. Qg4 h5 14. Qd1 Ne6 15. h4 c6 16. Bb3 Qa5+
+17. Kf1 Qc7 18. g4 Bxf6 19. Bxf6+ Kh7 20. gxh5 Nf4 21. hxg6+
+fxg6 22. Bg5 Ng8 23. h5 Nxh5 24. Rxh5+ gxh5 25. Qxh5+ Kg7
+26. c5 d5 27. exd5 cxd5 28. Bxd5 Qxc5 29. Bh6+ Nxh6 30. Qxe5+
+Rf6 31. Qg5+ Rg6 32. Qe5+ Kf8 33. Qh8+ Ng8 34. Bxg8 Rxg8
+35. Qf6+ Ke8 36. Qe6+ Kf8 37. Qf6+ Ke8 38. Re1+ Kd7 39. Qf7+
+Kc6 40. Re6+ Kb5 41. Qxb7+ Ka5 42. b4+ Qxb4 43. Re5+ Qb5
+44. Rxb5+ axb5 45. d4 Rac8 46. d5 Kb4 47. Qe7+ Kc4 48. d6 Rgd8
+49. d7 Ra8 50. Qe6+ Kc5 51. f4 Rf8 52. f5 Rad8 53. Ke2 Rh8
+54. f6 Kd4 55. f7 Kc5 56. Ke3 Rhf8 57. Ke4 Rh8 58. Qd5+ Kb6
+59. Qd6+ Kb7 60. Kf5 1-0

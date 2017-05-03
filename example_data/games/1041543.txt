@@ -1,0 +1,20 @@
+[Event "FRG-ch International"]
+[Site "Hannover FRG"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Slim Bouaziz"]
+[Black "Eugenio Torre"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4
+Nc6 14.Nb3 a5 15.Be3 a4 16.Nbd2 Bd7 17.Rc1 Qb8 18.Qe2 Re8
+19.a3 h6 20.Bd3 Na5 21.dxe5 dxe5 22.Bc5 Bd8 23.Rc2 Nh7 24.Rec1
+Ra6 25.Bb4 Rg6 26.Kh1 Nf8 27.Nh4 Bxh4 28.Bxa5 Qa7 29.Nf3 Bxf2
+30.Bb4 Bb6 31.Bxf8 Kxf8 32.Bxb5 Rd6 33.Bxd7 Qxd7 34.Nd2 Rd8
+35.Nf3 f6 36.Rc4 Rd3 37.Rf1 Kg8 38.Qc2 Rb3 39.Nh4 Rxh3+ 0-1

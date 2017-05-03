@@ -1,0 +1,27 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Angelo Tsagarakis"]
+[Black "Alek Safarian"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1. d4 d5 2. Nf3 c6 3. g3 Nf6 4. Bg2 e6 5. O-O Bd6 6. b3 O-O
+7. c4 Nbd7 8. Bb2 b6 9. Nbd2 Bb7 10. Rc1 Rc8 11. Ne5 Qc7
+12. cxd5 exd5 13. f4 Qb8 14. e4 Rc7 15. Nxd7 Nxd7 16. e5 Be7
+17. f5 Qd8 18. Qg4 f6 19. e6 Nb8 20. Nf3 c5 21. Ne5 fxe5
+22. dxe5 Kh8 23. f6 gxf6 24. exf6 Bxf6 25. Rxf6 Rxf6 26. Be5
+Nc6 27. Bxc7 Qxc7 28. Bxd5 Ne7 29. Bxb7 Qxb7 30. Rd1 Rf8
+31. Qe2 Qf3 32. Qe5+ Kg8 33. Qg5+ Ng6 34. Qd2 Qf6 35. Qd5 Qf2+
+36. Kh1 Qf3+ 37. Qxf3 Rxf3 38. Rd8+ Rf8 39. Rd7 Re8 40. Rxa7
+Rxe6 41. a4 Ne5 42. a5 b5 43. Rb7 b4 44. Rb5 Nd3 45. Kg2 h6
+46. Kf3 Kf7 47. Kg4 Ne5+ 48. Kf5 Nd7 49. g4 Ke7 50. g5 Re5+
+51. Kg4 hxg5 52. a6 Re6 53. a7 Ra6 54. Rb7 Kd6 55. Kxg5 Kc6
+56. Rb8 Rxa7 57. Re8 Ra3 58. h4 Rxb3 59. h5 Rh3 60. h6 Rxh6
+61. Kxh6 b3 62. Re6+ Kb5 63. Rd6 Nb6 64. Kg5 b2 65. Rd1 c4
+66. Kf4 c3 67. Ke3 c2 68. Kd2 cxd1=Q+ 69. Kxd1 b1=Q+ 0-1

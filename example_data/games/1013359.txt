@@ -1,0 +1,19 @@
+[Event "Nice"]
+[Site "Nice FRA"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eliashoff/Kahn V/Ros"]
+[Black "Alexander Alekhine"]
+[ECO "E33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 e5 6. a3 Bxc3+
+7. bxc3 O-O 8. Nf3 d6 9. Be2 Bg4 10. Bb2 Qe7 11. O-O Na5
+12. Qa4 b6 13. Rfe1 c5 14. Rac1 Rac8 15. d5 Ne4 16. Qc2 f5
+17. Rcd1 Bxf3 18. Bxf3 Nxc4 19. Bxe4 fxe4 20. Qxe4 b5 21. Bc1
+Rf6 22. Qb1 Qd7 23. e4 Rcf8 24. f3 Rg6 25. Kh1 Rxf3 26. Qc2
+Qg4 27. Rg1 Rh3 28. g3 Qf3+ 29. Qg2 Rgxg3 0-1

@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1970.12.16"]
+[EventDate "1970.??.??"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Vladimir Borisovich Tukmakov"]
+[Black "Yuri Balashov"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Be7 7.Nc3
+O-O 8.O-O d5 9.cxd5 Nxd5 10.Qc2 Nd7 11.Rfd1 c5 12.dxc5 Nxc5
+13.Bf4 Qc8 14.Nxd5 Bxd5 15.Ng5 Bxg5 16.Bxd5 exd5 17.Bxg5 Qe6
+18.Be3 Ne4 19.a4 Rad8 20.a5 Rd6 21.axb6 axb6 22.Ra6 Nc5 23.Ra7
+Rc8 24.b4 Ne4 25.Rc7 Rxc7 26.Qxc7 h6 27.b5 Nf6 28.Rc1 d4
+29.Bf4 Rd5 30.Qc8+ Qxc8 31.Rxc8+ Kh7 32.Rc4 Ne4 33.Kg2 Nc3
+34.e3 Nxb5 35.exd4 g5 36.Bc7 Rxd4 1/2-1/2

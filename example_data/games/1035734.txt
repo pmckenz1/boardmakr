@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Philadelphia (USA)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Walter Shawn Browne"]
+[Black "Sergey Kudrin"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 O-O 9.Be3 Nc6 10.Rc1 cxd4 11.cxd4 Qa5+ 12.Kf1
+Qa3 13.Rc3 Qd6 14.f3 Na5 15.Bd3 Be6 16.Bf4 Qb4 17.Bd2 b6
+18.Rc7 Qd6 19.Bf4 Qd8 20.d5 Bd7 21.Ba6 f5 22.d6 Be6 23.Qc2
+exd6 24.Bb5 a6 25.Bd3 b5 26.Kf2 1/2-1/2

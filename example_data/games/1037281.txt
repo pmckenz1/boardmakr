@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Leeuwarden (Netherlands)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Hans Klip"]
+[Black "Nigel Rodney Davies"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.c3 d5 7.exd5
+Nxd5 8.Re1 Bg4 9.h3 Bh5 10.Nbd2 Kh8 11.Nf1 f6 12.Ng3 Bf7
+13.Bb5 Bc5 14.Ne4 Bb6 15.c4 Nde7 16.c5 Ba5 17.Rf1 Nd4 18.Bc4
+Nef5 19.Nxd4 Nxd4 20.Qa4 Bxc4 21.dxc4 Ne2+ 22.Kh1 Qd3 23.Qxa5
+Qxe4 24.Be3 f5 25.Qd2 Nf4 26.Bxf4 exf4 27.Qd5 Rad8 28.Qxe4
+fxe4 29.Rad1 Kg8 30.Rfe1 Rd3 31.Rxd3 exd3 32.Rd1 Rd8 33.g3 f3
+34.g4 d2 35.Kh2 g5 0-1

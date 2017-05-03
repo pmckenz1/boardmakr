@@ -1,0 +1,21 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.05"]
+[EventDate "1911.08.21"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Georg Salwe"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.e3 Nf6 5.Nf3 Nc6 6.Bd3 Bd6 7.O-O
+O-O 8.Qe2 Qe7 9.a3 Rd8 10.Rd1 Bd7 11.Nb5 Bb8 12.dxc5 Qxc5
+13.b4 Qe7 14.Bb2 a5 15.cxd5 exd5 16.bxa5 Rxa5 17.h3 Ne4
+18.Rac1 h6 19.Qe1 Ra8 20.Bb1 Ng5 21.Nxg5 Qxg5 22.f4 Qh5 23.Qc3
+f6 24.Qc2 Ne7 25.Qh7+ Kf7 26.Nd4 Bd6 27.Qd3 Rac8 28.Qf1 Bc5
+29.g4 Qh4 30.Qg2 Bxd4 31.Bxd4 h5 32.f5 hxg4 33.hxg4 Rxc1
+34.Rxc1 Rc8 35.Rxc8 Qe1+ 36.Qf1 Qg3+ 37.Qg2 Qe1+ 38.Qf1 Qg3+
+39.Qg2 Qe1+ 40.Qf1 Qg3+ 41.Qg2 1/2-1/2

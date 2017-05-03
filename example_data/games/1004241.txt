@@ -1,0 +1,19 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.06.24"]
+[EventDate "1930.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Edgar Colle"]
+[Black "Carl Ahues"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 c5 5. c3 Nc6 6. Nbd2 Qc7
+7. O-O Be7 8. dxc5 Bxc5 9. e4 O-O 10. Qe2 Bd6 11. Re1 Ng4
+12. h3 Nge5 13. Nxe5 Nxe5 14. Bc2 d4 15. Nb1 Nc6 16. Ba4 Bc5
+17. e5 Rd8 18. Bg5 Be7 19. Bxe7 Nxe7 20. cxd4 Nf5 21. Nc3 Nxd4
+22. Qg4 Nf5 23. Rac1 Qe7 24. Red1 Bd7 25. Bxd7 Rxd7 26. Rxd7
+Qxd7 27. Rd1 Qc7 28. Qe4 a6 1/2-1/2

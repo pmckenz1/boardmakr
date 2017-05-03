@@ -1,0 +1,19 @@
+[Event "10s, IGC2"]
+[Site "10s, IGC2 Hiarcs 7.32"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Rodriguez Blas"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 b5
+7. Bb3 O-O 8. Nxe5 Na5 9. Nxf7 Rxf7 10. Bxf7+ Kxf7 11. e5 Nd5
+12. Qf3+ Ke6 13. Bd2 c6 14. Qh5 d6 15. Re1 Nc4 16. b3 Nxd2
+17. Nxd2 Kd7 18. c4 Nb4 19. a3 Nc2 20. Qf5+ Kc7 21. Qxc2 dxe5
+22. Qe4 g6 23. Qxe5+ Bd6 24. Qg7+ Kb8 25. Qxh7 Ra7 26. Qxg6
+1-0

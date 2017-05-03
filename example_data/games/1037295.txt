@@ -1,0 +1,19 @@
+[Event "London (England)"]
+[Site "London (England)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Mark Ferguson"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Qb3 Qb6 5.Nc3 Na6 6.c5 Qxb3 7.axb3
+Bf5 8.e4 Bc8 9.Bxa6 bxa6 10.Ne5 Bb7 11.exd5 Nxd5 12.O-O f6
+13.Nxd5 cxd5 14.Nd3 Kd7 15.Nb4 e6 16.Re1 Be7 17.c6 Bxc6
+18.Nxc6 Kxc6 19.Rxe6+ Kd7 20.Rexa6 Rhb8 21.Rxa7+ Rxa7 22.Rxa7+
+Ke6 23.Kf1 Rxb3 24.Ke2 Rb4 25.Kd3 f5 26.Ra6+ Kd7 27.Ra7+ Ke6
+1/2-1/2

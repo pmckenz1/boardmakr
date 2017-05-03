@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Margeir Petursson"]
+[Black "Lev Alburt"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 b4 5.a3 g6 6.axb4 cxb4 7.Nbd2
+Bg7 8.e4 O-O 9.Bd3 d6 10.O-O Bg4 11.Qa4 a5 12.e5 Nfd7 13.e6
+fxe6 14.dxe6 Nc5 15.Qc2 Bxe6 16.Ng5 Bf5 17.Bxf5 Rxf5 18.Nde4
+Nbd7 19.Be3 Qc8 20.Ng3 Rf8 21.h4 Ne5 22.b3 a4 23.bxa4 b3
+24.Qd1 b2 25.Rb1 Nxa4 26.c5 dxc5 27.N3e4 Qd7 28.Bxc5 Qxd1
+29.Rfxd1 Nxc5 30.Nxc5 Nc4 31.Nge6 Na3 0-1

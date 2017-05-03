@@ -1,0 +1,19 @@
+[Event "cr"]
+[Site "cr"]
+[Date "1893.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Rudolf Rezso Charousek"]
+[Black "Antal Niedermann"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7
+7.Qd2 O-O 8.Nd1 c5 9.c3 f6 10.f4 Nc6 11.Nf3 cxd4 12.cxd4 fxe5
+13.fxe5 Rxf3 14.gxf3 Qh4+ 15.Nf2 Nxd4 16.O-O-O Nxf3 17.Qe3
+Ndxe5 18.Nd3 Qg5 19.Qxg5 Nxd3+ 20.Bxd3 Nxg5 21.Rhf1 g6 22.Rf6
+e5 23.Bc2 Kg7 24.Rd6 d4 25.Rd8 Ne6 26.Re8 Kf7 27.Rh8 Kg7
+28.Re8 Kf7 29.Rh8 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Warsaw"]
+[Site "07"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Valery A Chekhov"]
+[Black "Yuri Balashov"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.dxc5
+Bxc5 8.Qxd8+ Kxd8 9.Rd1+ Ke7 10.a3 Bd7 11.Nbd2 Rd8 12.b3 Nc6
+13.Bb2 Be8 14.b4 Bb6 15.Nb3 Rxd1+ 16.Rxd1 1/2-1/2

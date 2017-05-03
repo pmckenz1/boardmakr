@@ -1,0 +1,18 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.06"]
+[EventDate "1904.04.25"]
+[Round "8.2"]
+[Result "1/2-1/2"]
+[White "William Ewart Napier"]
+[Black "Jackson Whipps Showalter"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 exd4 7.Qe2
+O-O 8.e5 Ne8 9.Rd1 f6 10.Bxc6 bxc6 11.Nxd4 d5 12.exd6 Bxd6
+13.Nxc6 Qd7 14.Qf3 Bb7 15.Qb3+ Kh8 16.Qxb7 Bxh2+ 17.Kxh2 Qxd1
+18.Qxa8 Qxc1 19.Qd8 Qf4+ 20.Kg1 Qc1+ 21.Kh2 Qf4+ 22.Kg1 Qc1+
+23.Kh2 1/2-1/2

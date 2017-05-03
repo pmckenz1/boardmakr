@@ -1,0 +1,20 @@
+[Event "Lucerne op (SUI)"]
+[Site "Lucerne op (SUI)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Golubev"]
+[Black "Utut Adianto"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bf4 Qa5+ 12.Bd2 Qc7
+13.O-O-O e6 14.Ne4 Bd6 15.g3 Nxe4 16.Qxe4 O-O-O 17.c4 Nf6
+18.Qc2 c5 19.d5 exd5 20.cxd5 Rhe8 21.Bc3 Qd7 22.Bxf6 gxf6
+23.Nh4 Kb8 24.Kb1 Qg4 25.Nf5 Qf3 26.Nxh6 Bf8 27.Nxf7 Rd7 28.d6
+Re2 29.Rhe1 Rxe1 30.Rxe1 Bxd6 31.Nxd6 Rxd6 32.Re8+ Kc7
+33.Qxc5+ Rc6 34.Qe7+ Kb6 35.Qe3+ 1-0

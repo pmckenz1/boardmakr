@@ -1,0 +1,20 @@
+[Event "Bad Pyrmont D-ch"]
+[Site "Bad Pyrmont D-ch"]
+[Date "1933.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Carl Johan Margot Carls"]
+[Black "Efim Bogoljubov"]
+[ECO "A18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 Ne4 6.Nf3 Nc6 7.Bb5
+Be7 8.O-O O-O 9.d3 Nxc3 10.bxc3 Bd7 11.Rb1 b6 12.Re1 Na5
+13.Bxd7 Qxd7 14.e6 fxe6 15.Qe2 Bf6 16.Ne5 Bxe5 17.Qxe5 Rae8
+18.Qg3 c5 19.Qg4 Qf7 20.Rb2 e5 21.Rbe2 e4 22.h4 Re6 23.dxe4
+Rxe4 24.Rxe4 Qxf2+ 25.Kh2 dxe4 26.Rxe4 Qf5 27.Qe2 Nc6 28.Re6
+Qd5 29.Re8+ h6 30.Bf4 Kf7 31.Re3 Kg8 32.Re8 Nd8 33.Bb8 Nc6
+34.Bf4 1/2-1/2

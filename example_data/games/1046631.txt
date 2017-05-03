@@ -1,0 +1,25 @@
+[Event "etch, (m) Pula (Croatia)"]
+[Site "Pula CRO"]
+[Date "1997.05.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Timothy J Upton"]
+[Black "Lubomir Ftacnik"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Be7 8. f4 O-O 9. Qe1 Qc7 10. Qg3 b5 11. a3 Bb7 12. Bd3
+Nbd7 13. Bd2 Rfe8 14. Rae1 Bf8 15. Kh1 g6 16. f5 Bg7 17. fxe6
+fxe6 18. Qh3 Nc5 19. Bg5 Nfd7 20. Nde2 Ne5 21. Bf6 Bxf6
+22. Rxf6 Qe7 23. Rff1 Rf8 24. b4 Ncxd3 25. cxd3 Rf6 26. Rf4
+Raf8 27. Ref1 Rxf4 28. Rxf4 Rxf4 29. Nxf4 Bc8 30. d4 Nc4
+31. Nce2 Qf8 32. Nxe6 Qf1+ 33. Ng1 Qe1 34. d5 Qxe4 35. Qxh7+
+Kxh7 36. Ng5+ Kg7 37. Nxe4 Nb6 38. Ne2 Nxd5 39. N4c3 Bb7
+40. a4 bxa4 41. Nxa4 Ne3 42. Kg1 Nc2 43. Kf2 Nxb4 44. Nd4 Nd3+
+45. Ke3 Ne5 46. Kf2 Ng4+ 47. Kg3 Ne3 48. Nb6 Kf6 49. Nb3 Ke5
+50. Nd7+ Kf5 51. Kf2 Nc4 52. h3 a5 53. g4+ Ke6 54. Nf8+ Kf7
+55. Nd7 a4 56. Nc1 Ke7 0-1

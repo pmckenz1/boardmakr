@@ -1,0 +1,20 @@
+[Event "USSR Championship 1968/69"]
+[Site "Alma Ata (RUS)"]
+[Date "1968.??.??"]
+[EventDate "1968.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Yuri Nikolaevich Sakharov"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 exd5 7.cxd5
+O-O 8.e3 Re8 9.Rc1 d6 10.Bb5 Bd7 11.Bxd7 Nbxd7 12.Ne2 Nf8
+13.O-O Ng6 14.Bg3 Nh5 15.a3 Bxc3 16.Nxc3 Nxg3 17.hxg3 Qd7
+18.Qc2 Rac8 19.Ne2 b5 20.Rcd1 a6 21.Rfe1 Qe7 22.Nf4 Ne5 23.e4
+c4 24.Qc3 g6 25.Re2 Qa7 26.Qe3 Qxe3 27.Rxe3 a5 28.f3 b4 29.g4
+c3 30.bxc3 b3 31.a4 Rc4 32.Rb1 Rb8 33.Ne2 Rxa4 34.Nd4 b2
+35.Nc6 Ra1 36.Ree1 Rxb1 37.Rxb1 a4 0-1

@@ -1,0 +1,24 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.06.26"]
+[EventDate "1930.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Edgar Colle"]
+[Black "Vera Menchik"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 Bg7 4. e4 d6 5. Bc4 O-O 6. O-O c5
+7. dxc5 dxc5 8. Qe2 Nc6 9. Nb3 Qc7 10. h3 Nd7 11. c3 Nce5
+12. Nxe5 Nxe5 13. Bf4 Bd7 14. Bh2 Rad8 15. a4 b6 16. a5 Bc6
+17. Bb5 Qb7 18. Ba6 Qc7 19. f4 Nd7 20. Nd2 b5 21. Bxb5 Bxb5
+22. Qxb5 Rb8 23. Qd3 Rxb2 24. Nc4 Rb3 25. e5 Nb8 26. Rab1 Rxb1
+27. Rxb1 Rd8 28. Qe3 Qc6 29. Bg3 Qd5 30. Qe2 Nc6 31. Bf2 Bh6
+32. g3 Rb8 33. Rd1 Qe6 34. Kh2 Qc8 35. Qe3 Rb5 36. Rd5 Nxa5
+37. Na3 Rb3 38. Rxc5 Qd8 39. Nc2 Nb7 40. Rc4 Qd1 41. Ne1 Rb2
+42. Rd4 Qa1 43. Rb4 a5 44. Rxb2 Qxb2 45. Qb6 Qxb6 46. Bxb6 e6
+47. c4 g5 48. c5 Nxc5 49. Bxc5 gxf4 50. g4 Kg7 51. h4 Kg6
+52. Nf3 Bg7 53. h5+ Kh6 54. Be7 a4 55. Bg5# 1-0

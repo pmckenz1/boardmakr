@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.02"]
+[EventDate "1911.08.21"]
+[Round "10"]
+[Result "1-0"]
+[White "Oscar Chajes"]
+[Black "Julius Perlis"]
+[ECO "D33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.Nc3 Nc6 5.cxd5 exd5 6.g3 Be6 7.Bg2
+Nf6 8.O-O h6 9.Bf4 Be7 10.Nb5 O-O 11.Nc7 Rc8 12.Nxe6 fxe6
+13.Bh3 Qd7 14.dxc5 Bxc5 15.Rc1 Bd6 16.Be3 Qf7 17.Qa4 Ne4 18.a3
+a6 19.Kg2 Rce8 20.b4 e5 21.Rxc6 bxc6 22.Qxc6 a5 23.bxa5 Bxa3
+24.Bb6 Nf6 25.a6 Qe7 26.a7 Qd6 27.Qb7 d4 28.Ra1 Nd5 29.Rxa3
+Nxb6 30.Ra6 e4 31.Nh4 e3+ 32.f3 d3 33.Rxb6 Qd4 34.a8=Q Rxa8
+35.Rxh6 Rae8 36.Qb3+ Rf7 37.Re6 Rxe6 38.Bxe6 dxe2 39.Bxf7+ 1-0

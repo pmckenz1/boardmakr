@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.20"]
+[EventDate "1923.11.16"]
+[Round "3"]
+[Result "0-1"]
+[White "Theodor Gruber"]
+[Black "Sandor Takacs"]
+[ECO "A12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. Nf3 Nf6 2. g3 c6 3. Bg2 d5 4. c4 e6 5. b3 Be7 6. Bb2 O-O
+7. O-O Nbd7 8. d3 b6 9. Nbd2 Bb7 10. Ne5 c5 11. Ndf3 Qc7
+12. Rc1 d4 13. Nxd7 Nxd7 14. e4 f5 15. Nd2 Ne5 16. Qe2 f4
+17. Nf3 Ng6 18. Rce1 e5 19. Kh1 Bc8 20. Ng1 Bd7 21. Bc1 Rf7
+22. f3 Qc8 23. Bd2 Be6 24. Rb1 a5 25. Qd1 h5 26. Qc1 Qf8
+27. a4 Bd6 28. Qd1 Qc8 29. Qe2 Ne7 30. Rf2 g5 31. gxf4 exf4
+32. Qf1 Ng6 33. Bh3 g4 34. Bg2 Qd8 35. fxg4 hxg4 36. e5 Bxe5
+37. Bxa8 Qxa8+ 38. Qg2 f3 39. Nxf3 Rxf3 40. Rxf3 Qxf3 41. Qxf3
+gxf3 42. Kg1 Bf6 43. Be1 Nf4 44. Bg3 Nxd3 45. Bc7 Bh3 46. Bxb6
+Bg5 0-1

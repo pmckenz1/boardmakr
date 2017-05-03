@@ -1,0 +1,18 @@
+[Event "Genting/SW,35,30"]
+[Site "Genting/SW,35,30"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Utut Adianto"]
+[Black "Viswanathan Anand"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bb3 Nc6 7.Ne2
+Bf5 8.Nbc3 e6 9.O-O Be7 10.Be3 Na5 11.Bc2 Bg6 12.Be4 O-O
+13.Qc2 Nac4 14.Nf4 c5 15.Rad1 Bxe4 16.Nxe4 Nxe3 17.fxe3 cxd4
+18.Rxd4 Qb8 19.Nd3 Nd5 20.Qe2 Qc7 21.Qh5 Rad8 22.Rf3 Qb6
+23.Rh3 h6 24.Ndf2 Nf4 25.Nf6+ Bxf6 26.Rxf4 Bg5 27.Rg4 Qxb2 0-1

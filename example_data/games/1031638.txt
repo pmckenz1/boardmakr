@@ -1,0 +1,19 @@
+[Event "Leningrad 1st cat"]
+[Site "Leningrad 1st cat"]
+[Date "1925.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "M Schebarschin"]
+[ECO "A50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Qc2 e6 5.e4 Bb4 6.Bd3 d5 7.cxd5
+Bxc3+ 8.bxc3 exd5 9.e5 Qe7 10.Ne2 Nfd7 11.O-O Nc6 12.a4 O-O-O
+13.Ba3 Qe8 14.f4 Na5 15.f5 c5 16.Nf4 g5 17.e6 Nf6 18.Bb5 Qe7
+19.dxc5 bxc5 20.Nd3 Ne4 21.Bd7+ Kb8 22.Rab1 Ka8 23.Rb5 Rxd7
+24.exd7 Nc4 25.Bxc5 Qxd7 26.Bd4 Re8 27.Nc5 Nxc5 28.Rxc5 Bc6
+29.Qd3 Bxa4 30.Qg3 Bc6 31.Ra1 Kb7 32.Rxc4 1-0

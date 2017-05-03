@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Elena Grechanovskaya"]
+[Black "Oleg Gerasimchuk"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. Qc2 cxd4 6. Nxd4
+Nc6 7. e3 O-O 8. Nxc6 bxc6 9. Bd3 d5 10. O-O Ba6 11. a3 Be7
+12. b4 Bxc4 13. Bxc4 dxc4 14. Rd1 Qb6 15. Rd4 Rfd8 16. Rxc4
+Qa6 17. Qe2 Bxb4 18. Bb2 Be7 19. h3 Rab8 20. Ra2 h6 21. g3 Rd2
+22. Qxd2 Qxc4 23. Qe2 Qb3 24. Qa6 Ne4 25. Qxc6 Bf6 26. Qxe4
+Bxc3 27. Bxc3 Qxa2 28. Qd4 Rb1+ 29. Kg2 Qd5+ 30. Qxd5 exd5
+31. Kf3 Rb3 32. Bb4 f6 33. Bd6 a5 34. h4 h5 35. Kg2 Kf7 36. f3
+Rxe3 37. Bc5 Re1 0-1

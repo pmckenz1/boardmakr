@@ -1,0 +1,24 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Arnold Zakharchenko"]
+[Black "A Evchenko"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O
+7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 Nf8 10. O-O c6 11. a3 Nh5
+12. Bxe7 Qxe7 13. Rae1 g6 14. Nc1 Ne6 15. Be2 Nhg7 16. Nd3 Ng5
+17. b4 a5 18. Qb3 Ne4 19. Rd1 axb4 20. axb4 Nf5 21. Nc5 Qg5
+22. N5xe4 dxe4 23. Kh1 Be6 24. Bc4 Bxc4 25. Qxc4 Nd6 26. Qc5
+Qxc5 27. dxc5 Nf5 28. Rd7 Ra3 29. Rc1 Re7 30. Rxe7 Nxe7
+31. Nxe4 Nd5 32. g3 f5 33. Nd6 Nxb4 34. Nxb7 Nd3 35. Rf1 Rc3
+36. Kg2 Rc2 37. Nd8 Rxc5 38. Ne6 Re5 39. Rd1 Nxf2 40. Rd8+ Kf7
+41. Nd4 Ng4 42. Nxc6 Rxe3 43. h3 Nf6 44. Rd3 Re8 45. Kf3 g5
+46. Re3 g4+ 47. hxg4 fxg4+ 48. Kf2 Kg6 49. Ne7+ Kf7 50. Nf5
+Rxe3 51. Kxe3 Ke6 52. Kf4 1/2-1/2

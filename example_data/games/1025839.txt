@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Ingvar Andreasson"]
+[Black "Gerardo F Barbero"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.b4 c6 5.Bb2 a5 6.bxa5 Qxa5 7.O-O
+Bg7 8.d3 O-O 9.Nbd2 Nbd7 10.c4 Re8 11.cxd5 cxd5 12.a4 e5
+13.Ra2 e4 14.Nb3 exf3 15.Nxa5 fxg2 16.Kxg2 Rxa5 17.Bd4 Ra6
+18.Qb3 Rae6 19.a5 Nb8 20.a6 Rxa6 21.Rxa6 Nxa6 22.Qb2 Nh5
+23.Rc1 Bxd4 24.Qxd4 Be6 25.Qb6 Nf6 26.Qxb7 Nb8 27.d4 Kg7 28.f3
+h5 29.h4 Bf5 30.Kf2 Nbd7 31.Rc8 Rxc8 32.Qxc8 Nf8 33.Qc7 N8d7
+34.Qd6 Kg8 35.Ke3 Kg7 36.Kd2 Kg8 37.Ke3 Kg7 38.Kd2 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Mark McKenzie"]
+[Black "Nikolai Stawski"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bg5 Be7 6. Bxe7
+Ngxe7 7. e3 Bg4 8. Be2 dxe3 9. Qxd8+ Rxd8 10. fxe3 Nb4 11. Na3
+Nd3+ 12. Bxd3 Rxd3 13. Nc2 c5 14. O-O O-O 15. Rad1 Rfd8
+16. Rxd3 Rxd3 17. Nce1 Rxe3 18. Nc2 Re2 19. Rc1 Nc6 20. Kf1
+Bxf3 21. gxf3 Rxh2 22. Kg1 Re2 23. f4 Kf8 24. b3 Ke7 25. a3 a5
+26. b4 axb4 27. axb4 cxb4 28. Ne1 b3 29. Nd3 Nd4 30. Kf1 Rd2
+31. Nf2 Nc2 32. Kg2 b2 33. Rb1 Na3 0-1

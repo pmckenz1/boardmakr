@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.21"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alonso Zapata"]
+[Black "Utut Adianto"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.Bd3 Bxd3 9.Qxd3 Ngf6 10.Bd2 e6 11.O-O-O Qc7 12.Rhe1
+O-O-O 13.Qb3 Bd6 14.Qa4 Kb8 15.Ba5 Nb6 16.Bxb6 axb6 17.Ne4 b5
+18.Qb3 Bf4+ 19.Kb1 Nxe4 20.Rxe4 Rd5 21.Rde1 Rhd8 22.c3 Bd6
+23.Qc2 c5 24.dxc5 Bxc5 25.a3 Qb6 26.R4e2 Qc7 27.g3 Be7 28.Rd2
+Rxd2 29.Nxd2 Qc6 30.Nb3 Bf6 31.Nc1 Rd5 32.Rd1 Kc7 33.Rxd5 Qxd5
+34.Qe2 Be7 35.Kc2 e5 36.h5 f5 37.Nb3 Bg5 38.g4 fxg4 39.Qxg4
+Qf7 40.f3 g6 41.Qe4 gxh5 42.Qxe5+ Kc8 43.Nd4 Qh7+ 44.Nf5 h4
+45.f4 Bd8 46.Qxb5 Qg6 47.Qd3 Qg2+ 48.Kb3 h3 49.Nd6+ Kb8 50.Nb5
+Qg8+ 51.c4 h2 52.Qd6+ Ka8 53.Qc5 Kb8 54.Qe5+ Ka8 55.Qd4 Kb8
+56.Qe5+ Ka8 57.Qd4 Kb8 58.Qd6+ Ka8 59.Qc5 Kb8 60.Qa7+ Kc8
+61.Qa8+ Kd7 62.Qxb7+ Ke8 63.Qc6+ Ke7 64.Qc5+ Kd7 65.Qd6+ Ke8
+66.Qc6+ Ke7 67.f5 Qg1 68.f6+ Kf7 69.Qd5+ Kxf6 70.Qxd8+ Kg6
+71.Qd3+ Kh5 72.Qe2+ Kg6 73.Qd3+ Kh5 74.Qe2+ Kg6 75.Qd3+
+1/2-1/2

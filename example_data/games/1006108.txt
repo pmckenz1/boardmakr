@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "0-1"]
+[White "Manuela Schmitz"]
+[Black "Anatoly A Bykhovsky"]
+[ECO "D31"]
+[WhiteElo "2134"]
+[BlackElo "2409"]
+[PlyCount "54"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Nf3 Bd6 6. Bg5 Qb6
+7. Qd2 Bf5 8. Nh4 Be6 9. g3 Nd7 10. Bg2 Ngf6 11. O-O h6
+12. Bxf6 Nxf6 13. Qd3 O-O 14. e3 Qxb2 15. Rab1 Qa3 16. Rxb7
+Bb4 17. Qb1 Bxc3 18. Rb3 Qa5 19. Rc1 Bd2 20. Rc2 Ne4 21. Bxe4
+dxe4 22. Rb7 Rad8 23. Qb2 Bxe3 24. fxe3 Qe1+ 25. Kg2 Qxe3
+26. d5 Rxd5 27. Re2 Qd3 0-1

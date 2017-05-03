@@ -1,0 +1,21 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Richard Bitoon"]
+[Black "Petronio Roca"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5
+d6 7. Bf4 e5 8. Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 Bg7
+12. c3 O-O 13. Nc2 f5 14. exf5 Bxf5 15. Nce3 Be6 16. Bd3 f5
+17. Qh5 e4 18. Bc2 Bxd5 19. Nxd5 Ne5 20. O-O Nc4 21. a4 Rb8
+22. Bb3 Kh8 23. Qe2 Ne5 24. a5 Qh4 25. f3 Nd3 26. fxe4 Nc5
+27. g3 Qg5 28. Ba2 fxe4 29. Kh1 Be5 30. Rxf8+ Rxf8 31. Rf1
+Rxf1+ 32. Qxf1 Kg7 33. b4 Ne6 34. Bb1 Bxg3 35. Bxe4 Bxh2
+36. Kxh2 Qh4+ 37. Kg1 1-0

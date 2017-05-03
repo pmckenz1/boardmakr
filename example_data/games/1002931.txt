@@ -1,0 +1,24 @@
+[Event "11th DSB Kongress, Cologne"]
+[Site "Cologne GER"]
+[Date "1898.08.04"]
+[EventDate "1898.08.01"]
+[Round "4"]
+[Result "0-1"]
+[White "Adolf Albin"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5
+7. Bb3 d6 8. a4 Bd7 9. a5 O-O 10. d4 Bg4 11. d5 Nb8 12. h3 Bh5
+13. g4 Bg6 14. Bc2 c6 15. dxc6 Nxc6 16. Nh4 Bxe4 17. Bxe4 Nxe4
+18. Qxe4 d5 19. Qg2 Bxh4 20. g5 e4 21. Bf4 f6 22. g6 Ne5
+23. gxh7+ Kh8 24. O-O Bg5 25. Be3 Nf3+ 26. Kh1 Rf7 27. Rd1
+Bxe3 28. fxe3 g6 29. Nd2 Ng5 30. Qg3 Rxh7 31. Kg2 Rxh3 32. Rh1
+Rxh1 33. Rxh1+ Kg7 34. Nb3 Rc8 35. Qh4 Qd7 36. Nd4 Rg8 37. Qf4
+Nf7 38. Qc7 Rd8 39. Qb6 Qg4+ 40. Kf2 Rd6 41. Qc7 Qd7 42. Qb8
+f5 43. Ke1 Qd8 44. Qa7 Qf6 45. Ne2 b4 46. Kd2 Qe5 47. Kc2 bxc3
+48. bxc3 d4 49. exd4 Qd5 50. Kc1 Qa2 51. Qb7 e3 52. Qb2 Qxa5
+53. Qb3 Rf6 54. Rf1 Rb6 0-1

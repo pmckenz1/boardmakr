@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Caorle (Italy)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vittorio Anceschi"]
+[Black "Gerardo F Barbero"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Bc5 5.O-O d6 6.h3 h6 7.c3 Qe7
+8.a4 a6 9.Qe2 g5 10.b4 Ba7 11.Nh2 g4 12.hxg4 Rg8 13.g5 hxg5
+14.Be3 Qf8 15.Bxa7 Qh6 16.g4 Rxa7 17.f3 Rh8 18.Rf2 Ne7 19.Qe3
+Ra8 20.Kf1 Ng6 21.Ke2 Nf4+ 22.Kd2 Qxh2 23.Rxh2 Rxh2+ 24.Kc1
+Be6 25.Nd2 Kd7 26.Kc2 Re2 27.Qg1 Rh8 28.Re1 Rg2 29.Bxe6+ fxe6
+30.Qa7 Rhh2 31.Rd1 Re2 32.a5 Ng2 33.Kb3 Ne3 34.Rb1 d5 35.b5
+axb5 36.Qxb7 Rxd2 37.a6 Kd6 38.Qxb5 Nd7 39.d4 Nc4 40.dxe5+ Ke7
+41.exd5 exd5 0-1

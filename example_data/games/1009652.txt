@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Anne Muller"]
+[Black "Kristiane Prescha"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6
+7. Ne2 Ba6 8. Bb1 Nc6 9. Nf3 Qc7 10. Be3 cxd4 11. cxd4 Bb4+
+12. Bd2 Bxe2 13. Qxe2 Nxd4 14. Nxd4 Qc1+ 15. Qd1 Bxd2+ 16. Ke2
+Qxd1+ 17. Rxd1 Bf4 18. g3 Bxe5 19. f4 Bf6 20. Bc2 Rc8 21. Bb3
+O-O 22. Rd2 g6 23. g4 a6 24. f5 e5 25. Nf3 d4 26. g5 Be7
+27. f6 Bb4 28. Rdd1 Nc5 29. Bc2 d3+ 30. Bxd3 e4 31. Bxe4 Rfe8
+32. a3 Rxe4+ 33. Kf2 Nb3 34. axb4 Nxa1 35. Rxa1 Rxb4 36. Rxa6
+Rxb2+ 37. Kg3 Rb3 38. h4 Kf8 39. Ra7 Rbc3 40. Rb7 R3c6 41. Ne5
+Rc3+ 42. Kf4 R8c7 43. Rxb6 Ke8 44. Ra6 1/2-1/2

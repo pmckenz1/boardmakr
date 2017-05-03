@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.22"]
+[EventDate "1928.09.21"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Kornel Havasi"]
+[Black "Zoltan von Balla"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O
+7. Nf3 a6 8. Bd3 Nbd7 9. O-O Qc7 10. Bd2 Rb8 11. a4 b6 12. Qc2
+Bb7 13. Rae1 Rbe8 14. Kh1 e5 15. fxe5 dxe5 16. Qc1 Kh8 17. Bh6
+Ng8 18. Bxg7+ Kxg7 19. Rf2 f6 20. Ref1 Qd8 21. Qd2 Nh6 22. h3
+Nf7 23. Nh2 h5 24. Rf3 Nh6 25. Qe2 Rh8 26. Nd1 Ref8 27. Ne3
+Rf7 28. Rg3 Kh7 29. Bc2 Rg7 30. Nf3 Nf8 31. Qd2 g5 32. Nf5
+Nxf5 33. exf5 Kg8 34. Nxg5 Rxg5 35. Rxg5+ fxg5 36. f6 Nh7
+37. Bxh7+ Rxh7 38. Qxg5+ Kf8 39. Qxe5 Qc7 40. d6 Qc6 41. Rf2
+Qe4 42. Qc3 Qe6 43. Qg3 h4 44. Qf4 Qxh3+ 45. Kg1 Qe6 46. d7
+Qxd7 47. Qb8+ Bc8 48. Qxb6 Qc7 49. Qb3 h3 50. Qe3 hxg2
+51. Rxg2 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Edward W Formanek"]
+[Black "Noah J Siegel"]
+[ECO "B19"]
+[WhiteElo "2407"]
+[BlackElo "2255"]
+[PlyCount "106"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6
+12. O-O-O Ngf6 13. Qe2 O-O-O 14. Ne5 Nb6 15. Ba5 Rd5 16. Bxb6
+axb6 17. c4 Rd8 18. Kb1 Bd6 19. f4 Rhe8 20. Rhe1 c5 21. dxc5
+Bxc5 22. Ne4 Bd4 23. Nf3 Nxe4 24. Nxd4 Nf6 25. Qe5 Qxe5
+26. Rxe5 Re7 27. Kc2 Rc7 28. b3 Rc5 29. Nb5 Rxd1 30. Kxd1 Rxe5
+31. fxe5 Nxh5 32. Nd6+ Kc7 33. Nxf7 Nf4 34. g3 Ng6 35. Ke2 h5
+36. Ke3 Kd7 37. Ke4 Ne7 38. Kf4 Nf5 39. Ng5 h4 40. g4 Nd4
+41. Ne4 Ne2+ 42. Kf3 Nc1 43. Nc3 Nd3 44. g5 Nxe5+ 45. Kf4 h3
+46. Kg3 h2 47. Kxh2 Nf3+ 48. Kg3 Nxg5 49. Kg4 Nf7 50. Kh5 Nh8
+51. Ne4 Kc6 52. Ng5 Kd6 53. Ne4+ 53... Ke7 1/2-1/2

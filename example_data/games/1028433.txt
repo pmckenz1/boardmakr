@@ -1,0 +1,15 @@
+[Event "Hastings 1961/62"]
+[Site "Hastings ENG"]
+[Date "1961.12.31"]
+[EventDate "1961.12.27"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Salomon Flohr"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 g6 5.Nc3 Bg7 6.Qb3 O-O 7.Bd2
+Qb6 8.Qxb6 axb6 9.cxd5 Nxd5 10.Nxd5 cxd5 11.Bd3 Nc6 1/2-1/2

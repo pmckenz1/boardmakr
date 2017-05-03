@@ -1,0 +1,21 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Manon Leger"]
+[Black "Swantje Strassmann"]
+[ECO "B95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. Qd2 Be7 8. f3 Qc7 9. O-O-O Nbd7 10. h4 b5 11. g4 Bb7
+12. Qg2 b4 13. Nce2 Rc8 14. Ng3 Ne5 15. Bxf6 gxf6 16. Qd2 d5
+17. Rh3 Nc4 18. Bxc4 Qxc4 19. Kb1 a5 20. Nde2 a4 21. Rhh1 Rc7
+22. Rc1 dxe4 23. fxe4 Bxe4 24. Nxe4 Qxe4 25. Rhg1 a3 26. Qd3
+Qe5 27. c3 axb2 28. Kxb2 Rd7 29. Qa6 Rd2+ 30. Rc2 bxc3+
+31. Nxc3 Rxc2+ 32. Kxc2 Qh2+ 33. Ne2 O-O 34. h5 Rd8 35. Rd1
+Qc7+ 36. Nc3 Rxd1 37. Kxd1 Qxc3 38. Qa8+ Bf8 0-1

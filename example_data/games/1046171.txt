@@ -1,0 +1,17 @@
+[Event "Stara Zagora"]
+[Site "Stara Zagora BUL"]
+[Date "1990.02.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Mihail-Viorel Ghinda"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4
+7. h3 Bxf3 8. Bxf3 Nc6 9. Ne2 e5 10. c3 Nd7 11. g3 Qf6 12. Bg4
+Qe7 13. d5 Ncb8 14. h4 Nc5 15. Qc2 Nxe4 16. Qxe4 f5 17. Qc4
+fxg4 18. Qxg4 Nd7 19. Bg5 Qf7 20. c4 Qf5 1/2-1/2

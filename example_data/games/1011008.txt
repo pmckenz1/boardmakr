@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Iokhan Doukhine"]
+[Black "Konstantin Burlachenko"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6
+7. Be3 Bg7 8. Rc1 O-O 9. b3 e6 10. Nf3 h6 11. h4 Nc6 12. Qd2
+h5 13. Bh6 e5 14. d5 Nd4 15. Nxd4 Bxh6 16. Qxh6 exd4 17. Ne2
+Re8 18. Rd1 Bf5 19. Rxd4 Qf6 20. Qf4 Nd7 21. f3 Ne5 22. Kf2
+Qe7 23. Ng3 Bb1 24. Rd2 Qc7 25. Qd4 Qc8 26. Be2 Bf5 27. Re1 b6
+28. Qf4 Qc5+ 29. Kf1 Qa3 30. Red1 Qc5 31. Nxf5 gxf5 32. Qxf5
+Ng6 33. Qxh5 1-0

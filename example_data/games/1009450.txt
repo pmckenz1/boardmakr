@@ -1,0 +1,18 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Matthew Sadler"]
+[Black "Julian Michael Hodgson"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. d4 d6 2. e4 Nf6 3. f3 d5 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 cxd4 8. Nxd4 Nxd4 9. Bxd4 Nb8 10. Nc3 Nc6 11. Bf2 e6
+12. Bd3 d4 13. Ne4 Bb4+ 14. c3 dxc3 15. bxc3 Be7 16. O-O b6
+17. Qf3 Bb7 18. Bh4 Na5 19. Bb5+ Kf8 20. Rad1 Qc7 21. Bxe7+
+Qxe7 22. Rd7 Bxe4 23. Qxe4 Qc5+ 24. Rf2 1-0

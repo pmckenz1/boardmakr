@@ -1,0 +1,27 @@
+[Event "GER"]
+[Site "GER"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Eckhard Schmittdiel"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nd2 d5 5. Nh3 c5 6. e3 Nc6
+7. Nf3 Bd6 8. O-O O-O 9. c4 dxc4 10. Qe2 Bd7 11. dxc5 Bxc5
+12. Qxc4 Qe7 13. Nd4 Na5 14. Qc3 Bb6 15. b4 Rac8 16. Qd3 Nc4
+17. Bxb7 Rc7 18. Ba6 Qxb4 19. Qb3 Nd5 20. Nf4 Na5 21. Nxd5
+Nxb3 22. Nxb4 Nxa1 23. Ba3 Bxd4 24. exd4 Nc2 25. Rc1 Rc3
+26. Nxc2 Rb8 27. Kf1 Ba4 28. Bc5 Bxc2 29. Ke1 Rb1 30. Rxb1
+Bxb1 31. a4 Bd3 32. Bc8 Bc4 33. Bxa7 Rc2 34. d5 Bxd5 35. Ba6
+Ra2 36. Bb5 Bb3 37. Bd4 Kf7 38. h4 Bxa4 39. Bc4 Rc2 40. Bd3
+Rc7 41. Kd2 Bb3 42. Ke3 Bc4 43. Bc2 Rc8 44. Kf4 Rd8 45. Ke3
+Ra8 46. Kd2 Ra5 47. Kc3 Ba2 48. Kb4 Rd5 49. Be3 Rd7 50. Kc3
+Kf6 51. Bg5+ Ke5 52. Ba4 Ra7 53. Bc2 Kd5 54. Be3 Rc7+ 55. Kd2
+g6 56. Bd3 Bc4 57. Bc2 e5 58. Bd1 Ke6 59. Ba4 Rc8 60. Bc2 Ra8
+61. Kc3 Bd5 62. Kd2 Rf8 63. Ke1 f4 64. gxf4 exf4 65. Bd4 Bf3
+66. Bb3+ Kf5 0-1

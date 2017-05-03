@@ -1,0 +1,23 @@
+[Event "USA-06.Congress New York (23-1)"]
+[Site "New York, NY USA"]
+[Date "1889.04.22"]
+[EventDate "?"]
+[Round "23"]
+[Result "1/2-1/2"]
+[White "David Graham Baird"]
+[Black "Constant Ferdinand Burille"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Nxe5 Nxe5 8.dxe5 Nc5 9.Bb3 Nxb3 10.axb3
+d5 11.exd6 Bxd6 12.Qf3 Be6 13.Qc6+ Bd7 14.Re1+ Be7 15.Qe4 Be6
+16.Nc3 O-O 17.Bf4 Bc5 18.Red1 Qc8 19.Qc6 Bb6 20.b4 {Nd5 was
+superior.} Re8 21.Rd2 Rb8 22.h3 Re7 23.Rad1 Qe8 24.Qxe8+ Rbxe8
+25.Kh2 f6 26.Ra1 Bc8 27.Rad1 Kf7 28.Nd5 Rd7 29.Be3 Bxe3
+30.Nxe3 Red8 31.Rxd7+ Rxd7 32.Rxd7+ Bxd7 {the game is
+simplified to a dry position which allows no initiative on
+either side, and a draw is the natural result.} 33.Kg3 Ke6
+34.Kf3 Kd6 35.Ke4 c5 36.bxc5 Kxc5 1/2-1/2

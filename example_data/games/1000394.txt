@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Nathan Solon"]
+[Black "Justin Sarkar"]
+[ECO "E25"]
+[WhiteElo "2197"]
+[BlackElo "2429"]
+[PlyCount "50"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5
+7. cxd5 Nxd5 8. Qd3 b6 9. e4 Ba6 10. Qd2 Bxf1 11. Kxf1 Ne7
+12. Ne2 Nbc6 13. Kf2 Na5 14. Qd3 O-O 15. Rd1 Qd7 16. a4 f5
+17. Kg1 fxe4 18. fxe4 e5 19. d5 Rae8 20. Ng3 Nc8 21. Be3 Nd6
+22. Re1 Rf7 23. Nf1 Nac4 24. a5 Nxa5 25. Rxa5 c4 0-1

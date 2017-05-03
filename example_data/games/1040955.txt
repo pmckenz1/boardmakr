@@ -1,0 +1,20 @@
+[Event "Mar del Plata zt ,MCL 03"]
+[Site "06"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Carlos Hugo Maderna"]
+[Black "Erich Eliskases"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6
+7.Qc2 b5 8.Bg2 Bb7 9.a4 c5 10.axb5 axb5 11.Rxa8 Qxa8 12.Nbd2
+cxd4 13.Qd3 Bc5 14.Qxb5 O-O 15.O-O Bd5 16.Ne1 Bxg2 17.Nxg2 e5
+18.Nf3 Qd5 19.Nfe1 Rb8 20.Qa4 e4 21.Nf4 Qf5 22.h4 h6 23.Kg2 g5
+24.hxg5 hxg5 25.Nh3 g4 26.Nf4 Nb6 27.Qb5 Qc8 28.Rh1 Nbd5
+29.Qc4 Qf5 30.Rh6 Rc8 31.Nxd5 Nxd5 32.Qa6 d3 33.f4 gxf3
+34.exf3 exf3 35.Nxf3 Re8 0-1

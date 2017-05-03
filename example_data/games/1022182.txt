@@ -1,0 +1,20 @@
+[Event "Budapest UHUNO Spring"]
+[Site "Budapest HUN"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Daniel Summermatter"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 d6 6.Bg5 Nbd7 7.e3
+b6 8.Be2 Bb7 9.O-O Bxc3 10.bxc3 h6 11.Bh4 g5 12.Bg3 Ne4 13.Nd2
+Nxd2 14.Qxd2 f5 15.f3 Qe7 16.Rae1 Kh8 17.Bd3 Rf7 18.e4 f4
+19.Bf2 Rg7 20.e5 dxe5 21.Be4 Bxe4 22.Rxe4 g4 23.dxe5 gxf3
+24.g3 fxg3 25.Bxg3 Qg5 26.Qxg5 Rxg5 27.Rxf3 Rf8 28.Rxf8+ Nxf8
+29.c5 Ng6 30.Kf2 Rf5+ 31.Ke2 h5 32.Ra4 h4 33.Bf2 Rxe5+ 34.Kd2
+Rd5+ 35.Kc2 Rg5 36.Bxh4 Nxh4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1868.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eduard Hammacher"]
+[Black "Adolf Anderssen"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O
+dxc3 8.Qb3 Qf6 9.e5 Qg6 10.Nxc3 Nge7 11.Ne2 b5 12.Bxb5 Rb8
+13.Qa4 a6 14.Bxc6 Nxc6 15.Nf4 Qf5 16.Ba3 Rb5 17.Ne2 Nxe5
+18.Nfd4 Qe4 19.Qd1 Bb7 20.f3 Qe3+ 21.Kh1 Rd5 22.Rb1 Bb6 23.Bc1
+Qd3 24.Qxd3 Nxd3 25.Be3 O-O 26.Rbd1 Ne5 27.Bg1 Ng6 28.Ng3 Rg5
+29.Nde2 Bxg1 30.Nxg1 d6 31.Nh3 Ra5 32.Rf2 f5 33.f4 Nh4 34.Ng5
+Re8 35.Rb1 Rb5 36.Rc1 Nxg2 37.Rxg2 Rb2 38.Rg1 Rxg2 39.Rxg2
+Re1+ 40.Nf1 Rxf1# 0-1

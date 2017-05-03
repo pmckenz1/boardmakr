@@ -1,0 +1,21 @@
+[Event "Goteborg (Sweden)"]
+[Site "Gothenburg SWE"]
+[Date "1971.07.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Moshe Czerniak"]
+[Black "Istvan Bilek"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 c5 2.b3 e6 3.Bb2 Nc6 4.Nf3 a6 5.d4 cxd4 6.Nxd4 Nf6 7.Bd3
+d5 8.exd5 exd5 9.O-O Be7 10.Nf5 Bxf5 11.Bxf5 O-O 12.Nd2 Bc5
+13.Nf3 Ne4 14.c4 Ne7 15.Bxe4 dxe4 16.Ne5 Nc6 17.Nxc6 bxc6
+18.Qg4 Bd4 19.Rad1 f5 20.Qf4 c5 21.Bxd4 cxd4 22.f3 d3 23.Rfe1
+Qd4+ 24.Qe3 Qc3 25.fxe4 fxe4 26.Qxe4 Rad8 27.Qe6+ Kh8 28.Qe3
+h6 29.h3 a5 30.Qd2 Qd4+ 31.Qe3 Qc3 32.c5 Rd5 33.Rc1 Qb2
+34.Red1 d2 35.Rc4 Qxa2 36.c6 Rdf5 37.Rxd2 Qa1+ 38.Kh2 Rf1
+39.c7 Re1 40.c8=Q Rxc8 41.Rxc8+ Kh7 42.Qd3+ 1-0

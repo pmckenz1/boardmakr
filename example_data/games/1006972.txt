@@ -1,0 +1,22 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.26"]
+[EventDate "1922.??.??"]
+[Round "17"]
+[Result "0-1"]
+[White "Ladislav Prokes"]
+[Black "Ernst Gruenfeld"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Bg5 h6
+7. Bxf6 Qxf6 8. Nd5 Qd8 9. c3 a6 10. a4 O-O 11. b4 Ba7 12. h3
+Ne7 13. Ne3 Ng6 14. h4 c6 15. g3 Re8 16. h5 Nf8 17. Nh4 Bxe3
+18. fxe3 d5 19. exd5 cxd5 20. Bb3 Qg5 21. Kd2 d4 22. Qf3 Be6
+23. Bd1 dxc3+ 24. Kc2 e4 25. dxe4 Qe7 26. Rh2 Qxb4 27. Kc1
+Red8 28. Raa2 Bxa2 29. Rxa2 Rd2 30. Bc2 Rad8 31. Nf5 Qc4
+32. Kb1 Qe2 33. Qxe2 Rxe2 34. Ra3 Rh2 35. Rxc3 Ne6 36. Nh4 Rh3
+37. Bb3 Rxg3 38. Bd5 Rh3 39. Nf5 Rxh5 40. Kc1 Rxf5 41. exf5
+Rxd5 42. fxe6 fxe6 0-1

@@ -1,0 +1,21 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Roy Shankar"]
+[Black "Ravi Gopal Hegde"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5
+Nbd7 7. Bc4 Bg7 8. Qd2 O-O 9. O-O-O Re8 10. f4 c6 11. Nf3 Qb6
+12. e5 dxe5 13. fxe5 Ng4 14. e6 fxe6 15. Rhe1 Nde5 16. Nxe5
+Nxe5 17. Bb3 a5 18. Be3 Qb4 19. a3 Qh4 20. Bg5 Qh5 21. Ne4 Rf8
+22. Rf1 Bd7 23. Nc5 Kh8 24. Kb1 Rae8 25. Rxf8+ Rxf8 26. Nxd7
+Nxd7 27. Be7 a4 28. Qxd7 axb3 29. Bxf8 bxc2+ 30. Kxc2 Bxf8
+31. Qxe6 Qxh2 32. Qf6+ Kg8 33. Rd8 Qxg2+ 34. Kb1 Qe4+ 35. Ka1
+Qh1+ 36. Ka2 Qh6 37. Rd7 g5 38. Qf7+ 1-0

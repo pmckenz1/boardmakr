@@ -1,0 +1,22 @@
+[Event "10s, Casablanca Zaragoza"]
+[Site "Zaragoza ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Antonio Torrecillas Martinez"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. g3 Bb7 6. Bg2 O-O
+7. O-O d5 8. Qc2 Be7 9. cxd5 exd5 10. Ne5 c5 11. dxc5 bxc5
+12. Rd1 Qc7 13. Ndf3 Na6 14. Bf4 Qb6 15. Rac1 Rad8 16. Qa4
+Rfe8 17. Bd2 Qe6 18. Ba5 Rb8 19. b3 Bd6 20. Nc6 Ra8 21. Bc3 d4
+22. Nfxd4 cxd4 23. Nxd4 Qc8 24. Nb5 Bc5 25. Nd6 Bxd6 26. Bxf6
+Bc5 27. Bd4 Bxg2 28. b4 Bc6 29. b5 Bd7 30. Bxc5 Nxc5 31. Qd4
+Be6 32. Rxc5 Qb7 33. a4 a6 34. Rg5 g6 35. b6 a5 36. Rb5 Bh3
+37. Qd5 Qxd5 38. Rbxd5 Rxe2 39. b7 Rb8 40. Rd8+ Rxd8 41. Rxd8+
+Kg7 42. f3 Rg2+ 0-1

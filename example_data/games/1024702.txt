@@ -1,0 +1,19 @@
+[Event "Minsk"]
+[Site "Minsk URS"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Amador Rodriguez Cespedes"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 d5 5.e3 O-O 6.b4 Nbd7 7.c4
+c6 8.Rc1 Ne4 9.Bh4 Ndf6 10.Be2 a5 11.cxd5 cxd5 12.b5 Bf5
+13.O-O Qd6 14.Nxe4 Nxe4 15.Qb3 Rfc8 16.Bd3 Bf8 17.Bg3 a4
+18.Qb1 Qa3 19.Bxe4 Bxe4 20.Qa1 Bd3 21.Rfe1 Bxb5 22.Rb1 Ba6
+23.Rb2 e6 24.Rc1 Rxc1+ 25.Qxc1 b6 26.h4 Rc8 27.Qd2 b5 28.Ne5
+b4 29.Nd7 b3 30.Be5 Bb4 0-1

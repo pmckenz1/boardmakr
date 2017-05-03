@@ -1,0 +1,20 @@
+[Event "Ch World (team) (under 26)"]
+[Site "Mendoza ARG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Rafael Emilio Espinosa Flores"]
+[Black "Gerardo F Barbero"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Nf3 Nc6 6.Be3 c4 7.b3
+cxb3 8.axb3 Bd6 9.Be2 Nge7 10.O-O O-O 11.c4 Bf5 12.Nc3 a6
+13.Bg5 f6 14.Bh4 Bg4 15.Bg3 Bb4 16.cxd5 Bxc3 17.dxc6 Nxc6
+18.Rc1 Bb2 19.Rc2 Bxf3 20.Bxf3 Qxd4 21.Qb1 Ba3 22.Rd1 Qb6
+23.b4 Bxb4 24.Rc4 a5 25.Bd5+ Kh8 26.Bd6 Ne5 27.Rh4 g6 28.Bxf8
+Rxf8 29.h3 Kg7 30.Rhd4 Rd8 31.Bb3 Rxd4 32.Rc1 Rd2 33.Rf1 Bc5
+0-1

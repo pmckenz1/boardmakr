@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Gennady Tunik"]
+[ECO "B48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 a6 6.Be3 Qc7 7.Bd3
+Nf6 8.O-O Ne5 9.h3 Bc5 10.Qe2 d6 11.f4 Ng6 12.Nb3 Bxe3+
+13.Qxe3 b5 14.Rf2 O-O 15.a3 Rb8 16.Bf1 Bd7 17.Rd1 a5 18.Qd4 b4
+19.axb4 axb4 20.Na2 e5 21.Qxd6 Qa7 22.Qa6 Qxa6 23.Bxa6 Nxf4
+24.Rxf4 exf4 25.e5 Bf5 26.Nd4 Bxc2 27.Nxc2 b3 28.exf6 bxc2
+29.Re1 Ra8 30.Nb4 Rfb8 31.Nc6 Rxb2 32.Bd3 Rb1 33.Rxb1 cxb1=Q+
+34.Bxb1 Ra1 35.Kf2 Rxb1 36.Ne7+ Kf8 37.fxg7+ Kxg7 38.Nd5 Kg6
+39.Nxf4+ Kf5 40.Nh5 Rb2+ 41.Kf3 Rb3+ 42.Kf2 Ke5 43.g3 Ke4
+44.Nf6+ Kf5 45.Nh5 Kg5 46.Nf4 h5 47.Ng2 0-1

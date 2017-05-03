@@ -1,0 +1,25 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Vladislav Shiyanovsky"]
+[Black "Vadim Malakhatko"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. g3 Bxa6
+7. Bg2 d6 8. Nf3 Bg7 9. O-O Nbd7 10. Nc3 O-O 11. Bf4 Nb6
+12. b3 Ne8 13. Rc1 Nc7 14. Qd2 Bxc3 15. Rxc3 Nbxd5 16. Bh6
+Nxc3 17. Qxc3 f6 18. Bxf8 Kxf8 19. Re1 Bb7 20. a4 Rb8 21. e4
+Ba6 22. h4 Qc8 23. Nd2 Rb4 24. f4 Rd4 25. Nc4 Bxc4 26. bxc4
+Qa6 27. Bf1 Qxa4 28. e5 Qb4 29. Qe3 Qd2 30. exf6 Qxe3+
+31. Rxe3 exf6 32. Rb3 h5 33. Rb7 Ne6 34. Rb8+ Kg7 35. Rb7+ Kh6
+36. Rf7 f5 37. Re7 Nf8 38. Rf7 Nh7 39. Kf2 Re4 40. Be2 Re6
+41. Bf3 Nf6 42. Bd5 Ng4+ 43. Kf3 Re3+ 44. Kg2 Rd3 45. Be6 Rd2+
+46. Kg1 Nf2 47. Bd5 Ne4 48. Re7 Nf6 49. Bf3 Rd4 50. Be2 Ne4
+51. Kg2 Rd2 52. Kf3 Rc2 53. Bd3 Rc3 54. Ke3 d5 55. Ke2 Nxg3+
+0-1

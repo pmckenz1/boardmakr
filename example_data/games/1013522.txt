@@ -1,0 +1,20 @@
+[Event "3rd General Government"]
+[Site "Warsaw POL"]
+[Date "1942.10.12"]
+[EventDate "1942.10.12"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Hans Zollner"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5
+7. Bb3 O-O 8. d4 d5 9. dxe5 Nxe4 10. c3 Be6 11. Nbd2 Nc5
+12. Bc2 d4 13. Bb1 dxc3 14. bxc3 Qd7 15. Ne4 Rad8 16. Nxc5
+Bxc5 17. Qe4 g6 18. Bg5 Be7 19. Qh4 h5 20. Be4 Bxg5 21. Qxg5
+Bf5 22. Rfe1 Bxe4 23. Rxe4 Ne7 24. Rae1 Qe8 25. g4 Rd3 26. Nh4
+hxg4 27. Rxg4 Rd5 28. Qh6 Qd8 29. Nf3 Nf5 30. Qc1 Rd3 31. Ng5
+Nh6 32. Ne6 Qe7 33. Qxh6 Qxe6 34. Rh4 1-0

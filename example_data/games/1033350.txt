@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI "]
+[Date "1992.06.10"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Juan Aguilar Novoa"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Bc4 Nf6 5. Qe2 O-O 6. O-O c6
+7. e5 Nd5 8. Re1 Bg4 9. Bb3 dxe5 10. dxe5 Nd7 11. c4 Nb4
+12. Bd2 a5 13. Bc3 Nc5 14. Nbd2 Qc7 15. h3 Bf5 16. Nd4 Nbd3
+17. Nxf5 gxf5 18. Red1 Bxe5 19. Bc2 Bxc3 20. bxc3 Rad8 21. Nf3
+Nf4 22. Qe3 Ne4 23. Bxe4 fxe4 1/2-1/2

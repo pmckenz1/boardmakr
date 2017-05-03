@@ -1,0 +1,23 @@
+[Event "New York (USA)"]
+[Site "It"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Nenad Vulicevic"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 c6 6.Bg2 Bb4+ 7.Bd2
+Be7 8.O-O d5 9.Bc3 Nbd7 10.Nbd2 O-O 11.Re1 Bb7 12.e4 dxe4
+13.Nxe4 Nxe4 14.Rxe4 Qc7 15.Re1 Rad8 16.Qc2 Nf6 17.Rad1 h6
+18.Rd2 c5 19.d5 exd5 20.Rde2 Rfe8 21.Bxf6 gxf6 22.Nh4 d4
+23.Qf5 Bc8 24.Qh5 d3 25.Rd2 Bf8 26.Rxe8 Rxe8 27.Bd5 Re5
+28.Qg6+ Bg7 29.Qxd3 Re1+ 30.Kg2 Qd7 31.Qg6 Qh3+ 32.Kf3 Re7
+33.Qh5 Bd7 34.Be4 Qxh2 35.Qd5 f5 36.Bxf5 Qh1+ 37.Kg4 Bxf5+
+38.Nxf5 Qe4+ 39.Qxe4 Rxe4+ 40.f4 Bd4 41.Nxh6+ Kg7 42.Nf5+ Kf6
+43.Kf3 Bc3 44.Kxe4 Bxd2 45.Nd6 Ke6 46.Nc8 f5 47.Kf3 Kd7
+48.Nxa7 1-0

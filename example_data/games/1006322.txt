@@ -1,0 +1,15 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.13"]
+[EventDate "2000.04.05"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Anthony Miles"]
+[Black "Bu Xiangzhi"]
+[ECO "A46"]
+[WhiteElo "2579"]
+[BlackElo "2565"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. Nf3 e6 3. c3 c5 4. Bg5 cxd4 5. cxd4 Qb6 6. Qc2
+Nc6 7. e3 Ne4 8. Bf4 g5 9. Bg3 d5 1/2-1/2

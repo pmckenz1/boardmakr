@@ -1,0 +1,17 @@
+[Event "Frenstat CZE ch"]
+[Site "Frenstat CZE ch"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Jan Ambroz"]
+[Black "Lubomir Ftacnik"]
+[ECO "B51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Ngf6 5. Qe2 a6 6. Ba4 e5
+7. O-O Be7 8. d4 b5 9. Bc2 O-O 10. a4 Bb7 11. Rd1 Qc7 12. dxe5
+dxe5 13. axb5 axb5 14. Rxa8 Rxa8 15. Na3 b4 16. Nc4 bxc3
+17. bxc3 Ra1 18. Re1 h6 19. Bd2 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Canadian Championships Toronto CAN"]
+[Site "15"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Kevin Spraggett"]
+[Black "Lawrence Day"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.c4 Nf6 2.Nc3 d6 3.d4 Bf5 4.Nf3 h6 5.g3 c6 6.Bg2 Nbd7 7.O-O
+e6 8.b3 d5 9.Bb2 Bd6 10.Nd2 O-O 11.e4 dxe4 12.Ndxe4 Be7 13.Qe2
+Re8 1/2-1/2

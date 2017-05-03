@@ -1,0 +1,19 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.12"]
+[EventDate "?"]
+[Round "17"]
+[Result "1-0"]
+[White "Max Weiss"]
+[Black "Dionisio M Martinez"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6
+7.Bxc6 bxc6 8.dxe5 Nb7 9.Nd4 O-O 10.Nc3 Nc5 11.Re1 Re8 12.Rd1
+Ba6 13.Qg4 Qc8 14.Nf5 g6 15.Be3 Ne6 16.Ne4 Qd8 17.Nxe7+ Rxe7
+18.Nf6+ Kh8 19.Qh4 h5 20.g4 d5 21.gxh5 g5 22.Bxg5 Qf8 23.h6
+Rb8 24.b3 Nxg5 25.Qxg5 Re6 26.Rd4 Be2 27.Re1 Bf3 28.Rf4 Be4
+29.Rg4 Bg6 30.h4 Rb4 31.Rg3 Qe7 32.h5 Rxf6 33.hxg6 1-0

@@ -1,0 +1,17 @@
+[Event "Riga Interzonal"]
+[Site "Riga LAT"]
+[Date "1979.09.06"]
+[EventDate "1979.09.05"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Ruben Rodriguez"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 Bg7
+7.Rb1 Nd7 8.Nf3 Nb6 9.c4 Bd7 10.d3 Bc6 11.O-O O-O 12.Bb2 Bxb2
+13.Rxb2 e5 14.Qc1 Qe7 15.Qe3 Rfe8 16.Nd2 Bxg2 17.Kxg2 f5 18.f3
+Rad8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial 32nd"]
+[Site "Polanica-Zdroj POL"]
+[Date "1995.08.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Marcin Kaminski"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3
+e5 7. Nc3 Bb4 8. Bd2 Bxc3 9. bxc3 Qd6 10. Bg2 Nge7 11. Rb1 b6
+12. O-O O-O 13. f4 exf4 14. e4 Rad8 15. e5 Qg6 16. Bxf4 Nd5
+17. Qd2 Nxf4 18. Qxf4 Ne7 19. Qg3 Qe6 20. Rb2 c5 21. Rd1 f6
+22. Rbd2 fxe5 23. dxe5 Rxd2 24. Rxd2 Qf5 25. h3 Kh8 26. Qe3
+Ng6 27. e6 Re8 28. Bc6 Re7 29. Rd8+ Nf8 30. Qe5 Qg6+ 31. Kh2
+Kg8 32. Rxf8+ Kxf8 33. Qf4+ 1-0

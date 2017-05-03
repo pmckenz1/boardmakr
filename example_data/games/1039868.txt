@@ -1,0 +1,20 @@
+[Event "San Sebastian"]
+[Site "San Sebastian ESP"]
+[Date "1912.03.19"]
+[EventDate "1912.02.19"]
+[Round "22"]
+[Result "0-1"]
+[White "Oldrich Duras"]
+[Black "Julius Perlis"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6
+7.Bd3 O-O 8.Qc2 h6 9.Ne2 Re8 10.Be3 Qa5 11.h3 Be6 12.Kd2 c5
+13.dxc5 Bxc5 14.Bxc5 Qxc5 15.Ke1 Nc6 16.Kf1 Rad8 17.b3 Rd6
+18.Ng3 f5 19.Kg1 Red8 20.b4 Qb6 21.Rd1 Ne5 22.Be2 Rxd1+
+23.Bxd1 Nc4 24.Nf1 Qd6 25.Bf3 b6 26.Qa4 Ne5 27.Be2 f4 28.f3
+Qc7 29.b5 Qc5+ 30.Kh2 Bc4 31.Qc2 Qf2 32.Qe4 Bxe2 33.Qxe5 Bxf1
+34.Rg1 Qg3+ 0-1

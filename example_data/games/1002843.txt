@@ -1,0 +1,28 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.23"]
+[EventDate "1897.09.13"]
+[Round "10"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Adolf Julius Zinkl"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7
+7. Rc1 a6 8. cxd5 exd5 9. Bd3 c6 10. O-O Ne4 11. Bf4 f5 12. h3
+Qe8 13. Bh2 Bd6 14. Bxd6 Nxd6 15. Qb3 Kh8 16. Na4 Ne4 17. Nb6
+Nxb6 18. Qxb6 f4 19. exf4 Rxf4 20. Ne5 Qe7 21. f3 Nd6 22. Rce1
+Be6 23. Qc5 Nf5 24. Qxe7 Nxe7 25. Ng4 Bxg4 26. Rxe7 Bh5
+27. Rxb7 Rxd4 28. Bxa6 Ra4 29. Bd3 Rxa2 30. Re1 Ra1 31. Rxa1
+Rxa1+ 32. Kf2 Ra8 33. f4 Rf8 34. f5 c5 35. Ke3 Bf7 36. g4 d4+
+37. Kd2 c4 38. Be4 Bg8 39. Rd7 d3 40. b3 cxb3 41. Kxd3 Rb8
+42. Bb7 h6 43. Kc3 Re8 44. Ba6 Rb8 45. Kb2 Ra8 46. Rd6 Re8
+47. Bd3 Rf8 48. Rb6 Rd8 49. Kc3 Rc8+ 50. Kd4 Rd8+ 51. Ke3 Re8+
+52. Kf4 Rd8 53. Be4 Rf8 54. h4 Re8 55. Kf3 Bf7 56. Kf4 Kg8
+57. Bc6 Rd8 58. Ke5 Kf8 59. g5 hxg5 60. hxg5 Bg8 61. Rb7 Bc4
+62. Rb4 Bf7 63. g6 Bg8 64. Rb5 Bc4 65. Rb7 Bg8 66. Bd7 Ke7
+67. Be6+ Kf8 68. Rxb3 Ra8 69. Rb5 Rd8 70. Ra5 Ke7 71. Bxg8
+Rxg8 72. Ra7+ 1-0

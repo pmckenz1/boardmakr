@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1979.07.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nikolay Sergeevich Popov"]
+[Black "Yuri Balashov"]
+[ECO "A54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Qc2
+Ne8 8.Bxe7 Qxe7 9.Bd3 g6 10.O-O-O Nef6 11.h4 Re8 12.Ng5 c6
+13.h5 Nf8 14.hxg6 fxg6 15.dxe5 Qxe5 16.Nf3 Qe7 17.Rh4 Be6
+18.Rdh1 Rad8 19.Ng5 Bf7 20.g4 d5 21.Nxf7 Qxf7 22.g5 Nh5
+23.cxd5 cxd5 24.Rd4 Qf3 25.Rh2 Ne6 26.Rdh4 Neg7 27.Kb1 1/2-1/2

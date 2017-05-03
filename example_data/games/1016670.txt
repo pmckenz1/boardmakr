@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Matthias Ruf"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.cxd5 exd5 5.Bf4 c6 6.e3 Bf5 7.Nge2
+Nd7 8.Ng3 Be6 9.Nh5 Kf8 10.Bg3 f5 11.Bd3 g6 12.Nf4 Bf7 13.Bc2
+Ngf6 14.O-O Kg7 15.h3 Re8 16.Nd3 Ne4 17.Bf4 Bf6 18.Rc1 Qe7
+19.Bb1 Kg8 20.Re1 Bh4 21.a3 Nb6 22.Ba2 Rad8 23.Re2 Bf6 24.Be5
+Nd7 25.Bxf6 Qxf6 26.Qa4 a6 27.Qb4 Rb8 28.f4 Ng3 29.Ree1 g5
+30.Ne5 Nxe5 31.fxe5 Qh6 32.Ne2 Ne4 33.Kh2 g4 34.Nf4 1/2-1/2

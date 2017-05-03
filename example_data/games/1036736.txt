@@ -1,0 +1,25 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1929.08.04"]
+[EventDate "1929.07.31"]
+[Round "4"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Milan Vidmar"]
+[ECO "D04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c5 4.c3 Nbd7 5.Nbd2 g6 6.Bd3 Bg7 7.O-O
+O-O 8.e4 dxe4 9.Nxe4 cxd4 10.Nxd4 Ne5 11.Nxf6+ Bxf6 12.Be2 Bd7
+13.Qb3 Qc8 14.Bh6 Rd8 15.Bf4 Nc6 16.Nxc6 Bxc6 17.Bc4 Qg4
+18.Bxf7+ Kg7 19.Bg3 Rd2 20.Rae1 Rad8 21.Be6 Qg5 22.Bh3 Bb5
+23.Bf4 Qxf4 24.Qxb5 Qc7 25.Bg4 R8d5 26.Qb4 a5 27.Qa3 Rb5 28.b3
+Rc5 29.c4 Bb2 30.Qa4 b5 31.cxb5 Rd4 32.b6 Rxa4 33.bxc7 Rxg4
+34.Rxe7+ Kf6 35.Rfe1 Rb4 36.g3 Rb6 37.Rxh7 Be5 38.f4 Bd6
+39.Rd1 Bxc7 40.Rd2 Rbc6 41.Rhd7 Rc2 42.Kg2 Ke6 43.Rd3 R6c3
+44.Re3+ Kf5 45.Ree2 Rxd2 46.Rxd2 Kg4 47.Re2 Bd6 48.Rb2 Rd3
+49.Rc2 Bb4 50.Re2 Bc3 51.Rf2 Bd4 52.Rc2 Rd1 53.h3+ Kf5 54.Re2
+Rd3 55.Rc2 Ke4 56.Re2+ Be3 57.Rc2 Rd1 58.Rc4+ Bd4 59.h4 Rd2+
+60.Kh3 Kf3 61.Rc6 Rxa2 0-1

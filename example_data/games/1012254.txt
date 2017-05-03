@@ -1,0 +1,23 @@
+[Event "BCF Major Open"]
+[Site "Portsmouth-Southsea ENG"]
+[Date "1923.08.15"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Jakob Adolf Seitz"]
+[Black "Alexander Alekhine"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. e3 Nbd7 6. cxd5 exd5
+7. Nf3 Qa5 8. Nd2 Bb4 9. Qc2 O-O 10. Bd3 Re8 11. O-O Be7
+12. Rfe1 Nf8 13. h3 Be6 14. a3 Qc7 15. Ne2 Nh5 16. Bxe7 Rxe7
+17. Nf3 Ng6 18. Bf5 Rae8 19. Ng5 Bxf5 20. Qxf5 Nf6 21. Rac1 h6
+22. Nf3 Re4 23. h4 Nxh4 24. Nxh4 Rxh4 25. Nf4 Ne4 26. g3 g6
+27. Nxd5 Qd6 28. Qf3 Rh5 29. Nf4 Rf5 30. Re2 Qd7 31. Qh1 Kh7
+32. Rec2 g5 33. Nd3 Nxg3 34. fxg3 Rxe3 35. Nf2 Rxg3+ 36. Kf1
+Qxd4 37. Re2 Rgf3 38. Rcc2 Qd1+ 39. Kg2 Qd5 40. Kg1 Rg3+
+41. Kh2 Rxf2+ 42. Rxf2 Rh3+ 43. Kxh3 Qxh1+ 44. Kg4 Qe4+
+45. Kg3 f5 0-1

@@ -1,0 +1,22 @@
+[Event "Moscow consult"]
+[Site "Moscow consult"]
+[Date "1907.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Alekhine / Allies"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. a3 a6
+7. dxc5 Bxc5 8. b4 Bd6 9. Bb2 dxc4 10. Bxc4 b5 11. Bd3 Bb7
+12. O-O O-O 13. Rc1 Ne5 14. Nxe5 Bxe5 15. f4 Bc7 16. Qe2 Bb6
+17. Rfd1 Qe7 18. Kh1 Rac8 19. e4 Rfd8 20. Nb1 Rxc1 21. Rxc1
+Rxd3 22. Qxd3 Nxe4 23. Bd4 Qd6 24. Rd1 Qd5 25. Qe3 Bxd4
+26. Rxd4 Ng3+ 27. Qxg3 Qxd4 28. Nc3 h5 29. h4 Qd2 30. Kh2 Kh7
+31. a4 Bxg2 32. Qxg2 Qxc3 33. axb5 axb5 34. Qe4+ g6 35. Kg2
+Kg7 36. Kf2 Qd2+ 37. Kf3 Qd5 38. Ke3 Qxe4+ 39. Kxe4 Kf6
+40. Kd4 Kf5 41. Kc5 e5 42. fxe5 g5 0-1

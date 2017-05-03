@@ -1,0 +1,24 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Andras Toth"]
+[Black "Oleg Boricsev"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. O-O Be6 9. a4 Nbd7 10. Kh1 Qc7 11. f4 exf4
+12. Bxf4 Ne5 13. Nd4 O-O 14. Qe1 Qb6 15. Be3 Qc7 16. Rd1 Nc4
+17. Bc1 Nd7 18. Nf5 Bf6 19. Qg3 Kh8 20. b3 Ne3 21. Qxe3 Bxc3
+22. Ba3 Be5 23. Nxd6 Nf6 24. c4 Rfd8 25. c5 Qc6 26. Nc4 Rxd1
+27. Rxd1 Qxe4 28. Qd2 Bc7 29. Bf3 Qh4 30. Nd6 Bxb3 31. Rb1
+Qxa4 32. Bb2 Ne8 33. Re1 Be6 34. Bxb7 Rd8 35. Qg5 f6 36. Qh5
+Bxd6 37. cxd6 Nxd6 38. Bf3 Bf7 39. Qc5 Qd7 40. Rd1 Qe6 41. h3
+Bg8 42. Qb6 Rd7 43. Qxa6 Nc4 44. Qxe6 Rxd1+ 45. Bxd1 Bxe6
+46. Bb3 Kg8 47. Bd4 Bd5 48. Kg1 Kf7 49. Bxc4 Bxc4 50. Kf2 Ke6
+51. g3 Kf5 52. h4 1/2-1/2

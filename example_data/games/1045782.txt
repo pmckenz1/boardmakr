@@ -1,0 +1,29 @@
+[Event "Prag"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Jozsef Pinter"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4
+Nd3+ 7. Ke2 Nf4+ 8. Kf1 Ne6 9. b4 g6 10. bxc5 Bg7 11. Bxe6
+Bxe6 12. d4 Nc6 13. Be3 Qa5 14. Qd2 O-O-O 15. Rc1 f5 16. exf5
+gxf5 17. Qe2 Qb4 18. Kg1 Qc4 19. Qe1 Rhg8 20. h4 Bd5 21. Nd2
+Qa6 22. Nxd5 Rxd5 23. Nf3 Qxa2 24. Rh3 Rdd8 25. Rb1 Bf6
+26. Bg5 Qd5 27. Qf1 Rd7 28. Bxf6 exf6 29. Rg3 Re8 30. Qc1 Qe4
+31. h5 Red8 32. h6 Nxd4 33. Nxd4 Rxd4 34. Rg7 R4d7 35. Rxd7
+Rxd7 36. Qb2 Rd2 37. Qb5 Rd7 38. Qb3 f4 39. Ra1 a6 40. Rc1 Qd5
+41. Qc3 Qc6 42. Qc4 b5 43. Qxf4 Rd5 44. Qg4+ Kc7 45. Qg3+ Kb7
+46. Re1 Rd7 47. Qf4 a5 48. Qf5 Rc7 49. Re6 Qxc5 50. Qe4+ Ka7
+51. Rxf6 Re7 52. Qf3 a4 53. g3 Rc7 54. Rf5 Qb6 55. Rf6 Qd4
+56. Qf5 Qd7 57. Qe4 Qe7 58. Re6 Qc5 59. Re5 Qb6 60. Qe1 Ka6
+61. Qe4 Rc6 62. Re7 a3 63. Re8 Rc1+ 64. Kg2 Qb7 65. Re6+ Ka7
+66. Re7 Rc7 67. Rxc7 Qxc7 68. Qe3+ Kb7 69. Qxa3 Qc6+ 70. Kg1
+Qxh6 71. Qc5 Qb6 72. Qxb6+ Kxb6 73. Kf1 Ka5 74. Ke2 Ka4 75. f4
+1/2-1/2

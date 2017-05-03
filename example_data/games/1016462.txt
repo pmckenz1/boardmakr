@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Larry Mark Christiansen"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Nc3 d5 7.cxd5
+exd5 8.Bg2 O-O 9.O-O Bg4 10.e3 Rad8 11.Qb3 Ne4 12.Nxe4 dxe4
+13.Bxb4 Nxb4 14.Ng5 c5 1/2-1/2

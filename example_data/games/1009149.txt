@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Stellan Brynell"]
+[Black "Werner Beckemeyer"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4
+Bb4 7. Bd2 Ke7 8. Nf3 Bd6 9. O-O-O h6 10. Nd5+ Nxd5 11. Bxd5
+c6 12. Bb3 Bg4 13. Be3 Rd8 14. Rxd6 Kxd6 15. Rd1+ Kc7 16. Rxd8
+Kxd8 17. Nxe5 Be6 18. Nxf7+ Ke7 19. Bxe6 Kxe6 20. Nd8+ Ke5
+21. Nxb7 Kxe4 22. Nc5+ Kd5 23. a4 Kd6 24. c4 Nd7 25. Nxd7 Kxd7
+26. Kc2 a6 27. Kc3 Rb8 28. b4 h5 29. h4 Ke6 30. Bc5 g6 31. g3
+Ke5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.30"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Lhamsuren Myagmarsuren"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Qc2
+c6 8.Bd3 h6 9.Bh4 Re8 10.O-O Nf8 11.Rad1 Nh5 12.Bxe7 Qxe7
+13.e4 Nf4 14.Rfe1 Nxd3 15.Qxd3 dxc4 16.Qxc4 Bd7 17.e5 Red8
+18.Nd2 b5 19.Qe2 c5 20.d5 exd5 21.Nxd5 Qh4 22.Ne4 c4 23.Nd6
+Ng6 24.Nxf7 Bg4 25.Qxg4 1-0

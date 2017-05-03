@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.27"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Yrjo A Rantanen"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.f4 e6 3.Qe2 Nc6 4.Nf3 Nge7 5.b3 d5 6.Bb2 dxe4 7.Qxe4
+Nf5 8.Na3 Bd7 9.g3 Be7 10.Bg2 Rc8 11.O-O O-O 12.Rad1 Bf6 13.c3
+Nb4 14.Qb1 Nd5 15.Nc4 Bb5 16.Nfe5 Bxe5 17.fxe5 Nb6 18.Rxf5
+Bxc4 19.Rf2 Bd3 20.Qc1 Qc7 21.c4 Rcd8 22.Qc3 Rd7 23.Bf1 Bxf1
+24.Rdxf1 Nc8 25.b4 b6 26.Ba3 Rd4 27.Rf4 Rxf4 28.Rxf4 Ne7
+29.bxc5 bxc5 30.d4 cxd4 31.Rxd4 Rc8 32.Bd6 Qb7 33.Qb3 Qxb3
+34.axb3 Nc6 35.Rd3 a5 36.g4 Rd8 37.Re3 f6 38.Kg2 fxe5 39.Bxe5
+Nxe5 40.Rxe5 Rd3 1/2-1/2

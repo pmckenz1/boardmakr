@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Anatoly Volovich"]
+[ECO "A60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 a6 7.a4 g6
+8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.e3 Bg7 12.Nd2 Nxg3 13.hxg3 Nd7
+14.Qc2 Qe7 15.Bd3 Ne5 16.Bf5 Bxf5 17.Qxf5 Qd7 18.Qxd7+ Kxd7
+19.Ke2 f5 20.a5 Rae8 21.Na4 f4 22.gxf4 gxf4 23.e4 Bf6 24.Rab1
+Rh7 25.b4 cxb4 26.Rhc1 Kd8 27.Rxb4 Rc7 28.Rxc7 Kxc7 29.Nc4 Nf7
+30.Nab6 Ne5 31.Rb1 h5 32.Rc1 Kb8 33.Nb2 Bg5 34.f3 Rd8 35.Nd3
+Ng6 36.e5 dxe5 37.d6 e4 38.Nc5 exf3 39.gxf3 Re8+ 40.Kf1 Nf8
+41.Ne4 Bh4 42.Kg2 Rd8 43.Kh3 Bg3 44.Rc7 Ne6 45.Re7 Be1 46.Rxe6
+Bxa5 47.Nd5 1-0

@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1996.08.20"]
+[EventDate "1996.08.17"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Nick DeFirmian"]
+[Black "Vassily Ivanchuk"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O
+Be7 8.Bb3 O-O 9.f4 b5 10.e5 dxe5 11.fxe5 Nfd7 12.Be3 Nxe5
+13.Qh5 Nc4 14.Bxc4 bxc4 15.Rad1 Qc7 16.Rf3 g6 17.Qh6 f6
+18.Rdf1 e5 19.Rg3 Bd8 20.Nf3 Nc6 21.Bc5 Be7 22.Rxg6+ hxg6
+23.Qxg6+ Kh8 1/2-1/2

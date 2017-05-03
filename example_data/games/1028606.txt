@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "?"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arthur Bisguier"]
+[Black "John Nunn"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nge2 Nd7 5.g3 Rb8 6.a4 a6 7.a5 c5
+8.Bg2 b5 9.axb6 Qxb6 10.Nd5 Qa7 11.c3 e6 12.Ne3 cxd4 13.Nxd4
+Qc7 14.O-O Ngf6 15.Qc2 O-O 16.Nb3 Bb7 17.Na5 Ba8 18.Rd1 Nc5
+19.Rd4 Rb5 20.Nec4 Ncxe4 21.f3 Nc5 22.Rxd6 Nd5 23.Qe2 Rc8
+24.Bf4 Nxf4 25.gxf4 Bd5 26.Rd1 Bf8 27.R6xd5 exd5 28.Rxd5 Nb7
+29.Rxb5 axb5 30.Nxb7 bxc4 0-1

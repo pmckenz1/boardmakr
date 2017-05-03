@@ -1,0 +1,28 @@
+[Event "Bariloche"]
+[Site "03"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ruben Shocron"]
+[Black "Erich Eliskases"]
+[ECO "D25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "158"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 g6 5.Bxc4 Bg7 6.O-O O-O 7.Nc3
+Nfd7 8.Qe2 Nb6 9.Bb3 Nc6 10.Rd1 Bd7 11.Ne4 e5 12.dxe5 Nxe5
+13.Nc5 Qe7 14.Nxe5 Bxe5 15.Nxd7 Nxd7 16.e4 Nc5 17.Bc2 Rad8
+18.Bh6 Qh4 19.Qe3 Qxh2+ 20.Kf1 Ne6 21.Qh3 Qxh3 22.gxh3 Rxd1+
+23.Rxd1 Rd8 24.Rxd8+ Nxd8 25.b3 Ne6 26.Be3 Bd4 27.Bh6 g5 28.h4
+gxh4 29.Kg2 h3 30.Kxh3 Bxf2 31.Kg4 f6 32.Bd3 Kf7 33.e5 fxe5
+34.Kf5 Ke7 35.Kxe5 Bd4+ 36.Kd5 c6 37.Kc4 Bg7 38.Bxg7 Nxg7
+39.Bxh7 Kd6 40.a3 Ne6 41.Bd3 a5 42.a4 Nc7 43.Be4 b5 44.axb5
+cxb5 45.Kd4 Ne6+ 46.Kc3 Kc5 47.Bf3 Nf4 48.Bb7 Ne2+ 49.Kd3 Nd4
+50.Kc3 b4 51.Kb2 Kd6 52.Ba6 Ke5 53.Bc4 Ke4 54.Kc1 Ke3 55.Kd1
+Nf3 56.Kc2 Nd2 57.Bf7 Ne4 58.Bc4 Ng3 59.Bf7 Nf5 60.Bc4 Kd4
+61.Bf7 Nd6 62.Be6 Ke3 63.Bd7 Ne4 64.Be6 Nc3 65.Bc4 Ne2 66.Kd1
+Nd4 67.Kc1 Nf5 68.Kc2 Nd6 69.Ba6 Nf7 70.Bc4 Ne5 71.Be6 Nf3
+72.Bc4 Ne1+ 73.Kd1 Nd3 74.Kc2 Nc5 75.Bf7 Kd4 76.Kd2 Ne4+
+77.Kc2 Ng5 78.Bg8 Ke3 79.Bc4 Nf3 0-1

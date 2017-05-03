@@ -1,0 +1,17 @@
+[Event "Memorial V.Karseladze"]
+[Site "Gori GEO"]
+[Date "1968.11.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Levon Ashotovich Grigorian"]
+[Black "Nona Gaprindashvili"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.d5 Ne4 6.Qc2 Qa5 7.Qxe4
+Bxc3+ 8.Bd2 Bxd2+ 9.Nxd2 Qb4 10.O-O-O O-O 11.e3 exd5 12.cxd5
+Qxe4 13.Nxe4 b6 14.Nd6 Ba6 15.a3 Bxf1 16.Rhxf1 Na6 17.Nb5 Rab8
+18.e4 Rb7 19.Nd6 Rbb8 20.Nb5 Rb7 1/2-1/2

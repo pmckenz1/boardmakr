@@ -1,0 +1,19 @@
+[Event "It (cat.10)"]
+[Site "Cannes (France)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marc Santo-Roman"]
+[Black "Andras Adorjan"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h4
+Nc6 8.Rg1 h5 9.gxh5 Nxh5 10.Bg5 Nf6 11.Qd2 Qb6 12.Nb3 a6
+13.O-O-O Bd7 14.Rg3 Rc8 15.Qe2 Qc7 16.Bg2 Be7 17.Re3 Ne5 18.f4
+Nc4 19.Red3 Nh5 20.Rh3 f6 21.f5 fxg5 22.hxg5 Bxg5+ 23.Kb1 Ke7
+24.Rxh5 Rxh5 25.Qxh5 Bf6 26.Bh3 Na3+ 27.Kc1 Bxc3 28.fxe6 Be8
+29.Qe2 Be5 30.bxa3 Qc3 31.Qd3 Qb2+ 32.Kd2 Bb5 0-1

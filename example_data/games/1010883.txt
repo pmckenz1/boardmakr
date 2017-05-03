@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Vladimir Kozlov"]
+[Black "Alexey Mitenkov"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nc6 8. Be3 Be7 9. Qe2 O-O 10. O-O-O Qc7 11. Rhg1 Na5
+12. g4 b5 13. g5 Nxb3+ 14. axb3 Nd7 15. Nf5 exf5 16. Nd5 Qd8
+17. exf5 Re8 18. f6 Bf8 19. fxg7 Bxg7 20. Rg3 Bb7 21. Nf6+
+Nxf6 22. gxf6 Qxf6 23. Rdg1 Qxb2+ 24. Kd1 Qa1+ 25. Kd2 Qc3+
+1/2-1/2

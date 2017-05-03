@@ -1,0 +1,21 @@
+[Event "V Ballester op"]
+[Site "V Ballester op"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Claudio Javier Minzer"]
+[Black "Andres Rodriguez Vila"]
+[ECO "E43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 b6 5.a3 Bxc3+ 6.bxc3 O-O 7.Bd3
+d6 8.Ne2 Nc6 9.Ng3 Qe8 10.O-O Ba6 11.e4 e5 12.Bg5 Nd7 13.Be3
+f6 14.f4 Qf7 15.fxe5 dxe5 16.Nf5 Kh8 17.Qe2 Na5 18.d5 g6
+19.Nh4 Qe7 20.Nf3 Nc5 21.Nd2 c6 22.Kh1 Nxd3 23.Qxd3 Rac8
+24.Bh6 Rf7 25.Qh3 Re8 26.Rf3 Nxc4 27.Nxc4 Bxc4 28.dxc6 Qd6
+29.Qh4 Qxc6 30.Re1 Rd8 31.Bc1 Rd6 32.h3 Bd3 33.Bb2 Kg7 34.Kh2
+Qa4 35.Ree3 Qc2 36.Rf2 Qd1 37.Qg3 Bc4 38.Ref3 Qe1 39.Qh4 Be2
+40.Re3 g5 41.Rexe2 Qxe2 42.Qxg5+ fxg5 43.Rxe2 Rf1 0-1

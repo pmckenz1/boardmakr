@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Cappelle la Grande (France)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Bruno Carlier"]
+[Black "Alexander Baburin"]
+[ECO "C26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 Nf6 2.Nc3 e5 3.Bc4 Bc5 4.d3 d6 5.Na4 Bb6 6.Nxb6 axb6 7.f4
+Be6 8.Bxe6 fxe6 9.fxe5 dxe5 10.Nf3 Nc6 11.O-O O-O 12.Bg5 Qe8
+13.Nd2 Qg6 14.Bxf6 Rxf6 15.Rxf6 gxf6 16.c3 Qh6 17.Qe2 Ne7
+18.d4 Ng6 19.Nf3 Nf4 20.Qf2 Kh8 21.Kh1 Rg8 22.Rg1 Qh5 23.Qe3
+Rg3 24.Qf2 Rg4 25.dxe5 fxe5 26.Qd2 Rg8 27.g4 Qg6 28.Re1 Qg7
+29.Rd1 Rf8 30.Qd8 Nd5 31.Qg5 Rxf3 32.Qxg7+ Kxg7 33.exd5 Rf2
+34.dxe6 Kf6 35.Rd7 Kxe6 36.Rxh7 e4 37.Kg1 Rxb2 38.Rh3 Rxa2
+39.Rg3 Kf6 40.h4 Ke5 41.g5 Kf4 42.Rg2 Rxg2+ 43.Kxg2 Kf5 44.c4
+c6 45.Kf2 b5 46.cxb5 cxb5 47.Ke3 b4 48.g6+ Kxg6 49.Kxe4
+1/2-1/2

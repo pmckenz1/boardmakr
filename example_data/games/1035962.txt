@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1898.07.06"]
+[EventDate "1898.??.??"]
+[Round "25"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "David Graham Baird"]
+[ECO "D53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 c6 6.Nf3 Nbd7 7.Bd3
+dxc4 8.Bxc4 Nd5 9.Bxe7 Qxe7 10.O-O Nxc3 11.bxc3 e5 12.e4 O-O
+13.Qe2 h6 14.Kh1 Re8 15.Rae1 a5 16.a4 Qa3 17.dxe5 Nxe5 18.Nxe5
+Rxe5 19.f4 Re8 20.f5 Qxc3 21.e5 Rf8 22.e6 Qf6 23.exf7 Kh7
+24.Qe7 Qxe7 25.Rxe7 b6 26.Re8 Bd7 27.Rxa8 Rxa8 28.Be6 Rf8
+29.Bxd7 Rxf7 30.Bxc6 Rf6 31.Bb5 h5 32.Re1 Kh6 33.Re6 Kg5
+34.Rxf6 Kxf6 35.Bd3 Ke5 36.g3 b5 37.axb5 a4 38.Kg2 Kd4 39.b6
+Kxd3 40.b7 a3 41.b8=Q Kc2 42.Qc7+ Kb1 43.Qxg7 a2 44.Qc3 a1=Q
+45.Qxa1+ Kxa1 46.f6 1-0

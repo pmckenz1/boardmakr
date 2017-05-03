@@ -1,0 +1,20 @@
+[Event "South Baden"]
+[Site "South Baden"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Geis"]
+[Black "Efim Bogoljubov"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 g6 2.h4 c5 3.h5 g5 4.Be2 Nc6 5.d3 Bg7 6.Nc3 h6 7.f4 e6
+8.Nf3 f6 9.Be3 d6 10.Qd2 e5 11.f5 Nge7 12.g4 Nd4 13.Kf2 Bd7
+14.a4 Bc6 15.Rhb1 d5 16.b4 Nxf3 17.Kxf3 d4 18.bxc5 dxe3
+19.Qxe3 O-O 20.Nb5 Qd7 21.c3 Kh8 22.d4 Nxf5 23.gxf5 Qxf5+
+24.Kg3 Bxe4 25.Rf1 Qf4+ 26.Qxf4 gxf4 27.Kf2 f5 28.Rad1 Bc2
+29.Ra1 a6 30.Nc7 exd4 31.Nxa8 Rxa8 32.Rfc1 Be4 33.Ra3 d3
+34.Bf1 Bf8 35.Ke1 Bxc5 0-1

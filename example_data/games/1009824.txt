@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Alek Safarian"]
+[Black "Milan Ninchich"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Be7 5. e3 Nf6 6. Qc2 Na6
+7. a3 Qa5 8. Be2 Ne4 9. O-O f5 10. b4 Qd8 11. c5 Nc7 12. Ne5
+O-O 13. a4 Bd7 14. f3 Nxc3 15. Qxc3 Bf6 16. Qc2 Bg5 17. Rb1 a6
+18. e4 f4 19. Bd3 Be8 20. exd5 Qxd5 21. Bxh7+ Kh8 22. Rd1 Qd8
+23. Bg6 Rf6 24. Bxe8 Qxe8 25. Qe4 Nd5 26. Bd2 Kg8 27. Re1 Rd8
+28. Ng4 Rg6 29. Ne5 Rh6 30. g4 Qe7 31. b5 Bf6 32. Nd3 Bxd4+
+33. Qxd4 Nb4 34. Qxb4 Rxd3 35. Bxf4 Rh3 36. Qc4 Rhxf3 37. Rxe6
+Rxf4 38. Re4+ 1-0

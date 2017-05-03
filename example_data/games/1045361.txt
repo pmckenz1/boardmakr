@@ -1,0 +1,21 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Attila Groszpeter"]
+[Black "Lubomir Ftacnik"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 c5 2. f4 g6 3. Nf3 Bg7 4. Be2 e6 5. O-O Ne7 6. d3 O-O
+7. c3 b5 8. Be3 Bb7 9. Nbd2 d5 10. Kh1 Nbc6 11. Rc1 f5 12. e5
+d4 13. cxd4 Nd5 14. Bg1 Nxf4 15. dxc5 Nxe5 16. d4 Ned3
+17. Bxd3 Nxd3 18. c6 Bc8 19. Rc3 Nf4 20. Qb3 Nd5 21. Rcc1 Bh6
+22. Rcd1 a5 23. a3 Qd6 24. Ne5 Ba6 25. Rfe1 Rfc8 26. h3 Bf4
+27. Bh2 Bxh2 28. Kxh2 Rxc6 29. Qg3 Rc2 30. Ndf3 Bb7 31. h4 Nf6
+32. Rd2 Rxd2 33. Nxd2 Qxd4 34. Qg5 Rf8 35. h5 Ne4 36. Nxe4
+Qxe5+ 37. Ng3 Qxe1 0-1

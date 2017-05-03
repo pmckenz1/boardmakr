@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Maxim L Devereaux"]
+[Black "Craig A Hanley"]
+[ECO "A26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nf3 Nge7
+7. O-O O-O 8. Rb1 a5 9. a3 h6 10. b4 axb4 11. axb4 Be6 12. b5
+Na5 13. Nd2 d5 14. cxd5 Nxd5 15. Nxd5 Bxd5 16. Bxd5 Qxd5
+17. Qc2 Rfc8 18. Nc4 Nxc4 19. dxc4 Qe6 20. Rd1 1/2-1/2

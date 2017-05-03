@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Wolfgang Kaiser"]
+[Black "Christian Scholz"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. Nf3 d6 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 e5 6. c4 O-O
+7. Nc3 Nc6 8. d3 h6 9. O-O Be6 10. Nd2 Qd7 11. Nde4 Nh5
+12. Nd5 Nd8 13. f4 c6 14. Ne3 f5 15. Nc3 exf4 16. gxf4 Bd4
+17. Qd2 g5 18. fxg5 f4 19. Ncd5 fxe3 20. Rxf8+ Kxf8 21. Rf1+
+Kg8 22. Nxe3 Bxb2 23. Qxb2 hxg5 24. Be4 Qg7 25. Qd2 Nf4
+26. Kh1 Bh3 27. Rg1 Nde6 28. Nf5 Qe5 29. Ng3 d5 30. e3 dxe4
+31. exf4 e3 32. fxe5 exd2 33. Rd1 Nd4 34. Ne4 Nf3 35. Nxd2
+Nxd2 36. Rxd2 c5 37. d4 Rf8 0-1

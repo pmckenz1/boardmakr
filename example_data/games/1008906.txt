@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "David E Buckley"]
+[Black "Paul McMahon"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Bd7 6. Bxd7+
+Nbxd7 7. Qe2+ Qe7 8. Qxe7+ Bxe7 9. c4 Nc5 10. Ke2 O-O-O 11. d4
+Nce4 12. Bxf4 Nh5 13. Be5 f6 14. g4 fxe5 15. gxh5 exd4
+16. Nbd2 Nxd2 17. Kxd2 Rhf8 18. Rhf1 c6 19. dxc6 bxc6 20. Ne5
+c5 21. Kd3 Kc7 22. b3 Rxf1 23. Rxf1 Bf6 24. Ng4 Rf8 25. h6 Kd6
+26. Rf5 Re8 27. Nxf6 Re3+ 28. Kd2 gxf6 29. Rxf6+ Re6 30. Rxe6+
+Kxe6 31. Kd3 a5 32. a3 Ke5 33. h3 a4 34. Kc2 axb3+ 35. Kxb3
+Ke4 36. Kc2 Ke3 37. Kd1 Kd3 38. Kc1 Kxc4 39. Kc2 Kb5 40. Kb3
+c4+ 41. Kb2 Ka4 42. Ka2 c3 0-1

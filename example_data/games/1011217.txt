@@ -1,0 +1,18 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Bartlomiej Macieja"]
+[Black "Jan Pinski"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6
+7. a4 Kh8 8. a5 Rb8 9. c3 Bg4 10. Nbd2 d5 11. exd5 Nxd5 12. h3
+Bh5 13. Ne4 f6 14. Ng3 Bf7 15. Nh4 Re8 16. Nhf5 Bf8 17. Qb3
+Qd7 18. Ne3 Red8 19. Nxd5 Bxd5 20. Be3 b5 21. axb6 axb6
+22. Qc2 1/2-1/2

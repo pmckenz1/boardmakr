@@ -1,0 +1,16 @@
+[Event "It (cat.15)"]
+[Site "Biel SUI"]
+[Date "1995.07.22"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Vladislav Tkachiev"]
+[Black "Utut Adianto"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Qa4+ Nbd7 6.Nc3 g6
+7.Nf3 Bg7 8.Qb3 O-O 9.Bc4 Nc5 10.Qa3 Nce4 11.O-O Nd6 12.Qb3
+Bf5 13.Re1 1/2-1/2

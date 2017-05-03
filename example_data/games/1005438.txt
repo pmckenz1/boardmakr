@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "1"]
+[Result "0-1"]
+[White "Anatoly Borodavkin"]
+[Black "Jury Khodotov"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "2364"]
+[PlyCount "82"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. b3 Bb4+ 5. Nbd2 Bb7 6. Ne5 Bc3
+7. Rb1 Bxd4 8. Bb2 Bxb2 9. Rxb2 O-O 10. Nef3 Qe7 11. g3 c5
+12. Bg2 d5 13. O-O Nc6 14. Re1 Rad8 15. Qb1 dxc4 16. Nxc4 Nd4
+17. Nxd4 Rxd4 18. Bxb7 Qxb7 19. Rd1 Rfd8 20. Rbd2 Rxd2
+21. Rxd2 Rxd2 22. Nxd2 Qd5 23. Qc2 Kf8 24. e4 Qd4 25. Kg2 Ke7
+26. f4 Ng4 27. Nf1 Ne3+ 28. Nxe3 Qxe3 29. e5 g6 30. b4 Qd4
+31. bxc5 bxc5 32. Qb1 Qd5+ 33. Kh3 Qc6 34. Qb8 a6 35. Qa7+ Kf8
+36. Qb8+ Kg7 37. Qd8 Qd5 38. Qa5 c4 39. Qa3 a5 40. Qb2 Qd3
+41. Qb5 Qf1+ 0-1

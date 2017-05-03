@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Benasque (Spain)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jose Manuel Rodriguez"]
+[Black "Gerardo F Barbero"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Bc4 Be7 5.Nxd4 Nf6 6.Nc3 O-O
+7.O-O a6 8.a4 Nc6 9.h3 Nb4 10.Nde2 Re8 11.Nd5 Nbxd5 12.exd5
+Ne4 13.Ng3 Nxg3 14.fxg3 Bf6 15.Ra3 Bd7 16.Raf3 Qe7 17.Bd3 Qf8
+18.b3 c6 19.c4 cxd5 20.cxd5 Rac8 21.Bb1 Kh8 22.g4 Re7 23.Qd3
+Qg8 24.Rxf6 gxf6 25.Bb2 Re5 26.Rxf6 Qg7 27.Rxd6 Kg8 28.Rxd7
+Kf8 29.Qf1 Kg8 30.Bxe5 1-0

@@ -1,0 +1,21 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.23"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Slim Belkhodja"]
+[Black "Gerardo F Barbero"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 O-O 6.O-O Bb6 7.Re1
+h6 8.Nbd2 Re8 9.Bb3 d6 10.a4 a6 11.Nc4 Ba7 12.Be3 Bxe3 13.Nxe3
+Ne7 14.Nh4 g5 15.Qf3 Kg7 16.Nhf5+ Nxf5 17.Nxf5+ Bxf5 18.Qxf5
+Qc8 19.Qf3 Qg4 20.Qe3 Rad8 21.Qd2 d5 22.exd5 Nxd5 23.Bxd5 Rxd5
+24.Re3 Red8 25.h3 Qd7 26.Qe2 Qf5 27.Rf3 Qg6 28.c4 e4 29.cxd5
+exf3 30.Qxf3 Qf6 31.Qe4 Qxb2 32.Re1 Qf6 33.Rb1 b6 34.Rc1 Qd6
+35.Qd4+ Kg8 36.Qc4 Qxd5 37.Qxc7 Rd6 38.Qe7 Rd8 39.Qf6 Qd6
+40.Rc6 Qxf6 41.Rxf6 b5 42.a5 Kg7 1/2-1/2

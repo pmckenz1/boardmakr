@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.14"]
+[EventDate "1905.08.14"]
+[Round "1"]
+[Result "1-0"]
+[White "Hugo Suechting"]
+[Black "Walter John"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. c3 Be7 5. Bc4 Bf6 6. Be3 h6
+7. Qb3 Qe7 8. Nbd2 Nb6 9. Be2 g5 10. dxe5 dxe5 11. Bb5+ c6
+12. Be2 Qc7 13. Nc4 Nxc4 14. Bxc4 b5 15. Be2 Be6 16. Qc2 Ne7
+17. a4 Qb7 18. axb5 cxb5 19. Nd2 Ng6 20. Nb3 Nh4 21. O-O Bxb3
+22. Qxb3 a6 23. Bc4 Qd7 24. Bxb5 axb5 25. Rxa8+ Bd8 26. Rd1
+Qg4 27. Raxd8+ 1-0

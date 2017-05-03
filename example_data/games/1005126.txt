@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Yuri Zimmerman"]
+[Black "Hubert Mossong"]
+[ECO "A55"]
+[WhiteElo "2370"]
+[BlackElo "2270"]
+[PlyCount "91"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 Be7 6. Be2 O-O
+7. O-O c6 8. d5 Nc5 9. Qc2 Bg4 10. Ne1 Bxe2 11. Qxe2 cxd5
+12. cxd5 Qd7 13. f3 Rfc8 14. Be3 Na4 15. Nxa4 Qxa4 16. b3 Qa3
+17. Nd3 Nd7 18. Rfc1 Qa5 19. a4 a6 20. b4 Qd8 21. Nb2 Bg5
+22. Nc4 Bxe3+ 23. Qxe3 Qe7 24. Na5 b6 25. Nc6 Qe8 26. Rc2 Kh8
+27. Rac1 h6 28. f4 f6 29. fxe5 Nxe5 30. Rc3 b5 31. axb5 axb5
+32. Qe2 Nc4 33. Nd4 Ra3 34. Rxa3 Nxa3 35. Rc6 Ra8 36. Ne6 Qb8
+37. h3 Nc4 38. Rc7 Ra7 39. Rc6 Ra1+ 40. Kh2 Ra7 41. Qf2 Qa8
+42. Nc7 Qb8 43. Nxb5 Ra8 44. Nc7 Ra7 45. Na6 Qe8 46. Qxa7 1-0

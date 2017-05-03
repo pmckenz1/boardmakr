@@ -1,0 +1,19 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.17"]
+[EventDate "1904.04.25"]
+[Round "14.6"]
+[Result "0-1"]
+[White "Thomas Francis Lawrence"]
+[Black "Albert Hodges"]
+[ECO "B34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nxc6 bxc6 6.Qd4 Nf6
+7.e5 Nd5 8.e6 Nf6 9.exf7+ Kxf7 10.Bd3 Bg7 11.O-O Rf8 12.Qh4 d5
+13.Re1 Kg8 14.Nc3 Rf7 15.Bg5 Qf8 16.Re2 Rb8 17.Na4 e5 18.c3 e4
+19.Bc2 Ba6 20.Ree1 Nd7 21.Be3 Ne5 22.Rab1 Bd3 23.Bxd3 Nxd3
+24.Re2 Qa3 25.Rd2 Qxa2 26.Rf1 Qxa4 27.Rxd3 Rxb2 28.Bc1 Rb1
+29.Rh3 Bf8 30.Qd8 Qa1 31.Qg5 Be7 32.Qh6 Ba3 33.Rg3 Rxc1 0-1

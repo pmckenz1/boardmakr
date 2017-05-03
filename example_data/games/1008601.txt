@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Thomas Clarke"]
+[Black "Andrew Ledger"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. e3 Bf5 5. Bd3 Bg6 6. Nf3
+e6 7. c4 c6 8. O-O Nd7 9. Nc3 Bg7 10. Re1 O-O 11. b4 Qe7
+12. Bxg6 hxg6 13. Qb3 f5 14. Rab1 Rac8 15. a4 g5 16. Nd2 Bf6
+17. Rec1 Kg7 18. cxd5 cxd5 19. a5 Rh8 20. g3 Qd6 21. Nb5 Qb8
+22. Rxc8 Rxc8 23. f4 a6 24. Na3 Qc7 25. Nf3 g4 26. Ne1 Qc3
+27. Qxc3 Rxc3 28. Nac2 Bd8 29. Kf2 Nf6 30. Ke2 Ne4 31. Ra1 Be7
+32. Kd1 Rb3 0-1

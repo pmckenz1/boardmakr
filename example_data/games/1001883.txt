@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.11"]
+[EventDate "1883.04.26"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Arthur Skipworth"]
+[Black "Samuel Rosenthal"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. Nf3 d5 2. e3 e6 3. b3 Nf6 4. Bb2 Be7 5. c4 O-O 6. Be2 b6
+7. O-O Bb7 8. Qc2 Nbd7 9. Ne5 Nxe5 10. Bxe5 Bd6 11. f4 Bxe5
+12. fxe5 Nd7 13. d4 Qg5 14. Rf3 dxc4 15. Rg3 cxb3 16. axb3 Qd8
+17. Nc3 a6 18. Bd3 g6 19. Rf1 c5 20. Be4 Ra7 21. Rff3 cxd4
+22. exd4 f5 23. exf6 Nxf6 24. Qd3 Bd5 25. Nxd5 Nxd5 26. Bxg6
+Rxf3 27. Rxf3 hxg6 28. Qxg6+ Rg7 29. Qxe6+ Kh8 30. Qh6+ Kg8
+31. Qe6+ Kh8 32. Rh3+ Rh7 33. Qe5+ Nf6 34. Rf3 Rf7 35. g4 Kg8
+36. Qg5+ Kf8 37. Qh6+ Ke8 38. Qf4 Qd5 39. Qb8+ Kd7 40. Qa7+
+Ke8 41. Qb8+ 1/2-1/2

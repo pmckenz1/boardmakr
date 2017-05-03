@@ -1,0 +1,17 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Viktor Vass"]
+[Black "Robert Csolig"]
+[ECO "B41"]
+[WhiteElo "?"]
+[BlackElo "2165"]
+[PlyCount "38"]
+
+1. e4 c5 2. Nf3 a6 3. c4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Bb4
+7. f3 Qc7 8. Be2 d5 9. Qa4+ Nc6 10. Nxc6 Bxc3+ 11. bxc3 bxc6
+12. exd5 exd5 13. O-O O-O 14. Re1 Bf5 15. Bg5 Rfe8 16. Bxf6
+gxf6 17. cxd5 cxd5 18. Qd4 Qc6 19. Rad1 Rad8 1/2-1/2

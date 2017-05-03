@@ -1,0 +1,19 @@
+[Event "10s, Mar del Plata BOLSA"]
+[Site "10s, Mar del Plata BOLSA Hiarcs 7.32"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Jorge Rodriguez"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nc6 6. Be2 Bd6
+7. dxc5 Bxc5 8. Nbd2 Nf6 9. O-O O-O 10. Nb3 Bb6 11. Bg5 Re8
+12. Qc2 h6 13. Bh4 g5 14. Bg3 Ne4 15. Nfd4 Qf6 16. Rad1 Bd7
+17. Rfe1 Rac8 18. Qb1 Nxd4 19. Nxd4 Rxc3 20. Bd3 Rcc8 21. Bxe4
+dxe4 22. Rxe4 Rxe4 23. Qxe4 Re8 24. Qd5 Qxd4 25. Qxd4 Bxd4
+26. h3 Re4 27. Kh2 Bc6 28. f3 Re2 29. Rxd4 Bxf3 0-1

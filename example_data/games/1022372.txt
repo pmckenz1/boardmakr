@@ -1,0 +1,27 @@
+[Event "It (op) 'Berlin Summer' VIII Berlin (German"]
+[Site "It (op) 'Berlin Summer' VIII Berlin (German"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Saptarshi Roy Chowdhury"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3
+h6 8.Bh4 Be6 9.Nge2 c6 10.Qc2 Re8 11.f3 Nbd7 12.O-O Rc8
+13.Rad1 c5 14.dxc5 Bxc5 15.Nd4 Ne5 16.Bb5 Rf8 17.Kh1 Bxd4
+18.Rxd4 Ng6 19.Bf2 Qa5 20.Bd3 Ne5 21.Ra4 Qc7 22.Rd1 a6 23.Rd4
+Nc6 24.Rh4 Rfd8 25.a3 b5 26.Bf1 Ne7 27.Rhd4 Nc6 28.R4d2 Na5
+29.Bh4 g5 30.Bg3 Qe7 31.Be5 Nd7 32.Bd4 Nc6 33.Re1 Nxd4 34.Rxd4
+Nb6 35.Qd2 Nc4 36.Bxc4 Rxc4 37.Rd1 Rxd4 38.Qxd4 Rd7 39.Kg1 f6
+40.Kf2 Kg7 41.h4 gxh4 42.Qxh4 Qf7 43.Ne2 Rc7 44.Nd4 Bc8 45.Qf4
+Rc4 46.Rh1 Qg6 47.g4 Qg5 48.Qd6 Qe5 49.Qd8 Rc5 50.Rh5 Qc7
+51.Qxc7+ Rxc7 52.Rxd5 Kg6 53.Kg3 Rc1 54.Kf4 Kf7 55.Rd8 Be6
+56.Rd6 Bc8 57.Rc6 Rxc6 58.Nxc6 Ke6 59.e4 Bd7 60.Nd4+ Kf7 61.b4
+Kg6 62.Nb3 Kf7 63.Nc5 Bc8 64.Kg3 Ke7 65.f4 Kf7 66.f5 Ke7
+67.Kf3 Kd6 68.Ke3 Ke5 69.Nd3+ Kd6 70.Kd4 Bd7 71.Nf4 Bc6 72.Nd5
+1-0

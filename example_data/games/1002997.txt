@@ -1,0 +1,32 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.17"]
+[EventDate "1905.08.14"]
+[Round "4"]
+[Result "0-1"]
+[White "Johann Nepomuk Berger"]
+[Black "Amos Burn"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "184"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nc6 4. c4 e6 5. Nc3 Nf6 6. Bd3 Be7
+7. O-O O-O 8. a3 b6 9. dxc5 bxc5 10. Qc2 Qc7 11. cxd5 exd5
+12. e4 c4 13. Nxd5 Nxd5 14. exd5 cxd3 15. Qxc6 Qxc6 16. dxc6
+Bf6 17. Bg5 Bxb2 18. Ra2 Bc3 19. Rc1 Be6 20. Rxc3 Bxa2
+21. Rxd3 f6 22. Bf4 Rfd8 23. Rxd8+ Rxd8 24. h4 Kf7 25. Kf1 Rd3
+26. c7 Be6 27. a4 Bc8 28. Be3 Rc3 29. Bxa7 Rxc7 30. Bb6 Rc4
+31. a5 Bg4 32. Ne1 Ra4 33. f3 Bc8 34. g3 Ra2 35. Kg1 Bb7
+36. Kf1 h5 37. Kg1 Ke6 38. Kf1 Kd7 39. Kg1 Bd5 40. Kf1 Kc6
+41. Kg1 Kb5 42. Bc7 Kc4 43. g4 hxg4 44. fxg4 Be4 45. g5 fxg5
+46. hxg5 g6 47. Bd8 Kd5 48. Bf6 Rxa5 49. Ng2 Ra2 50. Nf4+ Kc4
+51. Be5 Kb3 52. Bf6 Rd2 53. Kf1 Kc2 54. Ke1 Rh2 55. Be5 Bf5
+56. Bf6 Rh4 57. Nd5 Kd3 58. Kf2 Rc4 59. Kg3 Rc5 60. Nf4+ Ke3
+61. Ng2+ Ke4 62. Nf4 Rc2 63. Ng2 Ra2 64. Be7 Ra7 65. Bf6 Ra3+
+66. Kf2 Rh3 67. Be7 Bg4 68. Bf6 Kf5 69. Ne3+ Kf4 70. Nd5+ Ke4
+71. Nc3+ Kf5 72. Nd5 Bh5 73. Ne3+ Ke4 74. Ng2 Rf3+ 75. Kg1 Ra3
+76. Kf2 Rh3 77. Bd8 Rf3+ 78. Kg1 Rd3 79. Bf6 Rd2 80. Be7 Kf3
+81. Ne1+ Ke2 82. Ng2 Rd4 83. Kh2 Re4 84. Bd6 Kf3 85. Kh1 Rg4
+86. Ne1+ Ke2 87. Ng2 Rxg5 88. Nf4+ Kf1 89. Nxh5 Rxh5+ 90. Bh2
+Rg5 91. Bd6 Rg2 92. Bc7 g5 0-1

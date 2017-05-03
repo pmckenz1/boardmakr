@@ -1,0 +1,19 @@
+[Event "Schwaebisch Gmuend op"]
+[Site "Schwaebisch Gmuend op"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Martin Pribyl"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 d6 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.d3 c5 6.f4 Nc6 7.Nf3 Rb8
+8.O-O O-O 9.h3 b5 10.a3 a5 11.Be3 b4 12.axb4 axb4 13.Ne2 Bb7
+14.g4 Ra8 15.Rb1 c4 16.b3 cxd3 17.cxd3 Ra2 18.Rf2 Qa8 19.Ned4
+Nxd4 20.Nxd4 Rxf2 21.Bxf2 e5 22.fxe5 dxe5 23.Nf3 Qa5 24.Nd2
+Ra8 25.Nc4 Qb5 26.Ra1 Rxa1 27.Qxa1 Nd7 28.Qa5 Qxa5 29.Nxa5 Ba6
+30.Nc6 Bf8 31.d4 exd4 32.Bxd4 1/2-1/2

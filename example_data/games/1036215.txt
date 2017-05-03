@@ -1,0 +1,25 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1897.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Schlechter / Marco"]
+[Black "Hugo Faehndrich / Rudolf Charousek"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6
+7.Bxc6 bxc6 8.dxe5 Nb7 9.Nd4 O-O 10.Nc3 Bc5 11.Be3 Qe8 12.f4
+d5 13.Rae1 Bb6 14.Nb3 f6 15.Bxb6 axb6 16.Qd2 fxe5 17.Rxe5 Qd8
+18.f5 Qd6 19.Qd4 Nd8 20.g4 Nf7 21.Re3 Bd7 22.Nd2 Rae8 23.Rfe1
+Rxe3 24.Rxe3 h5 25.h3 Nh6 26.Rf3 hxg4 27.hxg4 g6 28.Rh3 gxf5
+29.g5 Ng4 30.Nf3 Qe6 31.b4 Kf7 32.a4 Ke8 33.a5 Kd8 34.axb6 Kc8
+35.Na4 Qe2 36.b7 Kb8 37.Nc5 Ne3 38.Nxd7+ Kxb7 39.Qd2 Qf1+
+40.Kh2 f4 41.Qxe3 fxe3 42.Nxf8 Qf2+ 43.Kh1 e2 44.g6 e1=Q+
+45.Nxe1 Qxe1+ 46.Kg2 Qd2+ 47.Kf3 Qc3+ 48.Kg4 Qxb4+ 49.Kg5 Qe7+
+50.Kh6 Qxf8+ 51.Kh7 Qf5 52.Rh6 Qxc2 53.Kh8 Qd2 54.Kh7 Qd3
+55.Kh8 Qe3 56.Kh7 Qe4 57.Kh8 Qe8+ 58.Kh7 d4 59.g7 d3 60.g8=Q
+Qxg8+ 61.Kxg8 c5 0-1

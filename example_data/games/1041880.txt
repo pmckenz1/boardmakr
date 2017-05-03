@@ -1,0 +1,17 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1920.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Reurt Meijer"]
+[Black "Max Euwe"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. d4 d5 6. Bb3
+exd4 7. Nxd4 Bc5 8. Be3 O-O 9. Nxc6 bxc6 10. Bxc5 Nxc5 11. Nc3
+Qf6 12. Na4 Ne6 13. Re1 Nf4 14. Re3 Bf5 15. Qd2 Qg5 16. f3
+Nxg2 0-1

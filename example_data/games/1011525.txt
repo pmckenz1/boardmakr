@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Bogdan Bozinovic"]
+[Black "Drago Kojic"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Nge2 d6
+7. Ng3 Na6 8. Be2 Nc7 9. O-O Rb8 10. a4 h5 11. h3 a6 12. Bg5
+Nh7 13. Be3 h4 14. Nh1 b5 15. Qd2 bxc4 16. Bxc4 e5 17. f4 f5
+18. Nf2 exf4 19. Bxf4 g5 20. Bh2 f4 21. Nd3 Ne8 22. Kh1 Nef6
+23. e5 Nh5 24. e6 N7f6 25. b3 Qe8 26. Rae1 Qg6 27. Nf2 g4
+28. Nfe4 f3 29. Bxd6 Bh6 30. Qf2 Bf4 31. Bxf8 Kxf8 32. hxg4
+Ng3+ 33. Kg1 1-0

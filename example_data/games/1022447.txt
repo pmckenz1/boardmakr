@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Liechtenstein"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vit Valenta"]
+[Black "Alexander Baburin"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Nxd5 Qxd5 5.Qf3 Qc5 6.c3 e5
+7.Qe3 Qxe3+ 8.dxe3 e4 9.Bc4 Nd7 10.Ne2 c6 11.Ng3 Ne5 12.Be2 f5
+13.Bd2 Be6 14.c4 Nxc4 15.Bxc4 Bxc4 16.Nxf5 g6 17.Bc3 Rg8
+18.Ng3 Bd3 19.f3 exf3 20.gxf3 Bc5 21.Kf2 O-O-O 22.Ne2 Bxe3+
+23.Kxe3 Rge8+ 24.Kf4 Bxe2 25.Rhe1 Rd3 26.Kg3 Rxf3+ 27.Kg2 Rf5
+28.Rad1 Re4 29.Rd4 Bf3+ 30.Kg3 Rxe1 31.Bxe1 Bd5 32.a3 Rf3+
+33.Kg4 Re3 34.Bd2 Re2 35.h4 Kd7 36.Kg5 Ke6 37.Kh6 c5 38.Rd3
+Rh2 39.Kxh7 Be4 40.Rd8 g5 41.Kh6 gxh4+ 42.Kg5 Ke7 0-1

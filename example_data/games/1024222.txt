@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Baku AZE"]
+[Date "1972.12.14"]
+[EventDate "1972.11.17"]
+[Round "18"]
+[Result "1-0"]
+[White "Vladimir Savon"]
+[Black "Yuri Balashov"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Nd4 Be7 9.Be2 O-O 10.O-O Bd7 11.Be3 Qb8 12.Nb3 h6 13.f4
+Rc8 14.Nd2 Ne8 15.Rc1 Na7 16.Bd3 b5 17.b3 Bf6 18.Ne2 Nc6
+19.Bb1 a5 20.cxb5 Qxb5 21.Nc4 Nb4 22.e5 Bd8 23.Nc3 Qb7 24.exd6
+Nf6 25.Bd4 Ra6 26.Bxf6 Bxf6 27.Ne4 Qa7+ 28.Kh1 Bd4 29.Qe2 Kh8
+30.Ne5 Rxc1 31.Rxc1 Bxe5 32.fxe5 Qd4 33.a3 Rc6 34.Rd1 Qxe5
+35.axb4 axb4 36.Qf2 Ra6 37.Qc5 Ra5 38.Qc7 1-0

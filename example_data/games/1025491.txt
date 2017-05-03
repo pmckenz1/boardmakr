@@ -1,0 +1,23 @@
+[Event "Dortmund op-A"]
+[Site "06"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Roland Speckner"]
+[Black "Yuri Balashov"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.e4 c5 2.Nc3 e6 3.f4 Nc6 4.Nf3 a6 5.g3 d5 6.Bg2 d4 7.Ne2 f5
+8.e5 Nge7 9.O-O Nd5 10.c4 dxc3 11.dxc3 c4 12.Ned4 Bc5 13.Kh1
+Nxd4 14.Nxd4 O-O 15.Nc2 Qe7 16.Qe2 b5 17.Ne3 Bxe3 18.Bxd5 Bb7
+19.Bxb7 Qxb7+ 20.Qg2 Qxg2+ 21.Kxg2 Bc5 22.a4 Rfd8 23.Kf3 b4
+24.cxb4 Rd3+ 25.Ke2 Bxb4 26.Rd1 Rb3 27.Ra2 a5 28.Be3 Rc8
+29.Bd4 h5 30.Raa1 h4 31.gxh4 Rh3 32.Bf2 Rxh2 33.Rh1 Rxh1
+34.Rxh1 c3 35.bxc3 Rxc3 36.Bd4 Ra3 37.Ra1 Rxa1 38.Bxa1 Kh7
+39.Bd4 Kg6 40.Bf2 Kh6 41.Kf3 Kh5 42.Kg3 Be7 43.Kh3 Bd8 44.Be1
+Bb6 45.Kg3 g6 46.Kh3 Kh6 47.Kg3 Kg7 48.Bf2 Bd8 49.Be1 Kf7
+50.Kh3 Ke8 51.Bf2 Kd7 52.h5 gxh5 53.Bh4 Bb6 54.Bg3 Bd8 1/2-1/2

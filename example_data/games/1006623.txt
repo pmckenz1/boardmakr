@@ -1,0 +1,20 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.03"]
+[EventDate "1920.08.02"]
+[Round "2"]
+[Result "1-0"]
+[White "Arthur Hakansson"]
+[Black "Walter John"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.e3 b6 5.Bd3 Bb7 6.f3 Bb4 7.Bd2 O-O
+8.Nge2 Nc6 9.Qc2 Bxc3 10.Bxc3 d5 11.O-O Ne7 12.Nf4 Qd7 13.Rae1
+dxc4 14.Bxc4 Ned5 15.Nd3 Qd6 16.Ne5 Nxc3 17.bxc3 Nd7 18.Nxd7
+Qxd7 19.e4 fxe4 20.fxe4 Kh8 21.Qd3 c5 22.Qh3 cxd4 23.Bxe6 Qd6
+24.Bf5 g6 25.e5 Qc6 26.Be4 Rxf1+ 27.Kxf1 Rf8+ 28.Kg1 Qc8
+29.Qxc8 Bxc8 30.cxd4 Rd8 31.d5 Kg7 32.Rc1 Bf5 33.Bxf5 gxf5
+34.Rc7+ Kg6 35.d6 a6 36.Re7 1-0

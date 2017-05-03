@@ -1,0 +1,31 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.04"]
+[EventDate "1911.08.21"]
+[Round "11"]
+[Result "1-0"]
+[White "Borislav Kostic"]
+[Black "Charles Jaffe"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "191"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2
+Bb4 8.Qc2 O-O 9.Bxf6 Nxf6 10.Bd3 Qc7 11.O-O e5 12.cxd5 exd4
+13.Nb5 Qa5 14.Nb3 Qb6 15.N5xd4 cxd5 16.Rac1 Bd6 17.Nf5 Bxf5
+18.Bxf5 g6 19.Bh3 Rfe8 20.Rfd1 Re5 21.g3 h5 22.Nd4 h4 23.Nf3
+hxg3 24.Nxe5 gxh2 25.Kxh2 Bxe5+ 26.Kg2 Kg7 27.Qb3 Qd8 28.f4
+Bc7 29.Qc3 Bb6 30.Qe5 Qh8 31.Bd7 Qh5 32.Qxh5 gxh5 33.Bf5 Bxe3
+34.Rc7 d4 35.Kf3 Nd5 36.Rxb7 Nxf4 37.Be4 Rd8 38.Rxa7 Nh3
+39.Bc2 Rd6 40.Ra5 Ng5+ 41.Kg3 Rb6 42.b3 Rc6 43.Bd3 Rc3 44.Rb5
+Kh6 45.Rb6+ Ne6 46.Kf3 Kg7 47.Rb5 Nc5 48.Ke2 h4 49.b4 Nxd3
+50.Rxd3 Rc2+ 51.Kf3 Kg6 52.Kg4 Rxa2 53.Kxh4 f5 54.Rb6+ Kf7
+55.Kg3 Ra1 56.b5 Rg1+ 57.Kf3 Rf1+ 58.Kg2 Rg1+ 59.Kh2 Ra1
+60.Kg3 Rg1+ 61.Kf3 Rf1+ 62.Ke2 Rf2+ 63.Ke1 Ra2 64.Rb3 f4
+65.Ra6 Rh2 66.Raa3 Rh1+ 67.Ke2 Rh3 68.Ra1 f3 69.Kd3 f2 70.Rf1
+Ke6 71.Kc4 Rh8 72.b6 Rc8+ 73.Kb5 Kd5 74.b7 Rb8 75.Ka6 Kc4
+76.Rb6 Kd3 77.Ka7 Rh8 78.Rb2 Ke4 79.b8=Q Rxb8 80.Rxb8 Kf3
+81.Rb2 Kg2 82.Rd1 d3 83.Ka6 d2 84.Rbb1 Kf3 85.Rf1 Ke2 86.Rbd1
+Bd4 87.Kb5 Be3 88.Kc4 Bb6 89.Kc3 Be3 90.Kc2 Bg5 91.Rh1 Bf4
+92.Rh4 Bg5 93.Rh5 Bf4 94.Rf5 Bh6 95.Re5+ Be3 96.Re7 1-0

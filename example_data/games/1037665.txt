@@ -1,0 +1,20 @@
+[Event "Toronto op"]
+[Site "Toronto CAN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Brian Hartman"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 Bh5 7.g4
+Bg6 8.Nxe5 f6 9.Nxg6 hxg6 10.Qf3 Qd7 11.d4 Qxd4 12.Nc3 Bd6
+13.Bf4 O-O-O 14.Rfd1 Qc4 15.Rd3 Nh6 16.Bxh6 Rxh6 17.e5 Bxe5
+18.Rxd8+ Kxd8 19.Rd1+ Kc8 20.Qd3 Qxd3 21.Rxd3 Rh8 22.Kf1 Rd8
+23.Ke2 Rd6 24.b3 Rxd3 25.Kxd3 Bxc3 26.Kxc3 Kd7 27.h4 Ke6
+28.Kd4 f5 29.g5 c5 30.Ke3 c4 31.bxc4 Kd6 32.Kd4 c5 33.Ke3 Ke5
+34.f4+ Kd6 35.Kd3 Kc6 36.Kc3 Kb6 37.Kb3 Ka5 38.a4 Kb6 1/2-1/2

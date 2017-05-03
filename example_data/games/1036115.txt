@@ -1,0 +1,17 @@
+[Event "Kaschau"]
+[Site "Kaschau"]
+[Date "1893.04.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Rudolf Rezso Charousek"]
+[Black "Jakob Wollner"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 Nf6 5.Nf3 Bc5 6.Nxc3 d6
+7.O-O O-O 8.Ng5 h6 9.Nxf7 Rxf7 10.e5 Ng4 11.e6 Qh4 12.exf7+
+Kf8 13.Bf4 Nxf2 14.Qe2 Ng4+ 15.Kh1 Bd7 16.Rae1 Nc6 17.Qe8+
+Rxe8 18.fxe8=Q+ Bxe8 19.Bd6# 1-0

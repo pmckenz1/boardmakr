@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Stuart C Conquest"]
+[Black "James E Cobb"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. c3 Nc6 6. e5 Nd7
+7. d4 a5 8. Qa4 Ncb8 9. b4 Bb7 10. b5 Be7 11. Qc2 a4 12. Bd3
+h6 13. Nf1 c6 14. Ng3 cxb5 15. Nh5 Kf8 16. Bxb5 a3 17. h4 Ba6
+18. Bxa6 Nxa6 19. Rh3 Qc7 20. Rb1 b5 21. Rxb5 Nb4 22. Qd2 Nc6
+23. Rg3 g6 24. Nf4 Ke8 25. Rb1 Nb6 26. Qd3 Kd7 27. Nd2 Bxh4
+28. Rf3 Be7 29. Ne2 Ke8 30. Kf1 Na5 31. Qb5+ Nd7 32. Qa4 Kf8
+33. Bxa3 Bxa3 34. Qxa3+ Kg7 35. Qe7 Rhf8 36. Nf4 Qc6 37. Kg1
+Rae8 38. Qb4 Nc4 39. Nb3 Rb8 40. Qe7 Rbe8 41. Qh4 Qa4 42. Nc5
+Nxc5 43. Rh3 Rh8 44. Qf6+ Kg8 45. Nxg6 Rh7 46. Rg3 1-0

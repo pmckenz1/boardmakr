@@ -1,0 +1,19 @@
+[Event "Los Angeles m, USA"]
+[Site "Los Angeles, CA USA"]
+[Date "1947.10.28"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Herman Steiner"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O g6 6. c3
+Bg7 7. f4 Ne7 8. f5 gxf5 9. exf5 Bf6 10. Na3 a6 11. Bd3 d5
+12. Nc2 c5 13. cxd4 c4 14. Be2 Bxf5 15. d3 Qb6 16. dxc4 dxc4
+17. Bxc4 Rg8 18. Bf4 Rc8 19. Bd3 Bxd4+ 20. Kh1 Qg6 21. Ne1
+Bxb2 22. Rb1 Bc3 23. Bxf5 Nxf5 24. Rxb7 Kf8 25. Qf3 Rg7
+26. Rc7 Re8 27. Qxc3 1-0

@@ -1,0 +1,26 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Andrei Zaremba"]
+[Black "Pieter Bierkens"]
+[ECO "A07"]
+[WhiteElo "2345"]
+[BlackElo "2175"]
+[PlyCount "121"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O e5
+7. Nc3 Nf6 8. Be3 O-O 9. h3 Ne8 10. Nd5 Ne7 11. Nxe7+ Qxe7
+12. c3 f5 13. Qd2 Nf6 14. exf5 gxf5 15. Bh6 Be6 16. Bxg7 Qxg7
+17. Ng5 Rae8 18. Nxe6 Rxe6 19. d4 e4 20. dxc5 dxc5 21. Rad1 b6
+22. Rfe1 Kh8 23. Qf4 Nh5 24. Qh4 Qg6 25. Rd8 Rxd8 26. Qxd8+
+Re8 27. Qd7 Nf4 28. Bf1 e3 29. Kh2 e2 30. Bg2 Nxg2 31. Kxg2 f4
+32. Qg4 Qe4+ 33. Qf3 Qc2 34. Qxf4 Qd1 35. Qf6+ Kg8 36. Qg5+
+Kh8 37. Qh5 Qxe1 38. Qxe8+ Kg7 39. Kf3 Qd2 40. Qxe2 Qd5+
+41. Kf4 Qf7+ 42. Ke3 Qxa2 43. g4 Qb1 44. Kf3 Qh1+ 45. Kg3 Qg1+
+46. Kh4 Qg2 47. Qe5+ Kg6 48. Qe3 Qg1 49. Qg5+ Kf7 50. Qf5+ Kg7
+51. Kg5 Qc1+ 52. f4 h6+ 53. Kh5 Qxb2 54. Qg6+ Kf8 55. Qxh6+
+Kf7 56. f5 Qxc3 57. Qe6+ Kf8 58. f6 Qxh3+ 59. Kg5 Qh7 60. Qc8+
+Kf7 61. Qd7+ 1-0

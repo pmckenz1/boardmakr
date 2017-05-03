@@ -1,0 +1,17 @@
+[Event "Trencianske Teplice (Slovakia)"]
+[Site "Trencianske Teplice (Slovakia)"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Cenek Kottnauer"]
+[Black "Julio Bolbochan"]
+[ECO "D77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d5 6.c4 c5 7.dxc5
+dxc4 8.Qc2 Qd5 9.Na3 Qxc5 10.Qxc4 Qh5 11.Rd1 Nc6 12.Qb5 Qxb5
+13.Nxb5 Bf5 14.Nfd4 Rfd8 15.Bg5 Ne4 16.Be3 Nxd4 17.Nxd4 Nd6
+1/2-1/2

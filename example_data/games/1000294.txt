@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "1-0"]
+[White "Justin Sarkar"]
+[Black "Boris Reichstein"]
+[ECO "B42"]
+[WhiteElo "2429"]
+[BlackElo "2272"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6
+dxc6 7. Nd2 e5 8. Qh5 Bd6 9. Nc4 Nf6 10. Qh4 O-O 11. O-O Bc7
+12. Bg5 h6 13. Bxf6 Qxf6 14. Qxf6 gxf6 15. Ne3 Rd8 16. Rfd1 b5
+17. Kf1 Be6 18. a4 Bb6 19. Ke2 Bd4 20. Rdb1 Rdb8 21. c3 Bc5
+22. b4 Be7 23. Ra3 a5 24. axb5 axb4 25. Rxa8 Rxa8 26. bxc6
+bxc3 27. Nd5 Bxd5 28. exd5 Bd6 29. Rb3 Kf8 30. Rxc3 Ke7
+31. Kf3 Ra3 32. Rxa3 Bxa3 33. Kg4 Bd6 34. Kh5 e4 35. Bxe4 Bxh2
+36. Kxh6 Kd6 37. Kg7 f5 38. Bxf5 Kxd5 39. Bd7 f5 40. Kf6 1-0

@@ -1,0 +1,20 @@
+[Event "Milwaukee"]
+[Site "Milwaukee, WI USA"]
+[Date "1935.07.28"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Albert Charles Simonson"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nd7 5. Nf3 Bd6 6. Bd3 f5
+7. cxd5 cxd5 8. Bd2 a6 9. O-O Qf6 10. Re1 Bb8 11. Rc1 Ne7
+12. e4 fxe4 13. Bxe4 dxe4 14. Nxe4 Qf8 15. Qb3 h6 16. Qxe6 Nc5
+17. Nf6+ Qxf6 18. Qxc8+ Kf7 19. Qxc5 Rd8 20. Qb4 Bd6 21. Qb3+
+Kf8 22. Re6 Qf5 23. Rce1 Nd5 24. Qxb7 Rab8 25. Rxd6 Rxb7
+26. Rxd8+ Kf7 27. Ne5+ Ke7 28. Rxd5 Qc2 29. Bc3 Rc7 30. Nf3+
+Kf7 31. Rde5 Qa4 32. h3 1-0

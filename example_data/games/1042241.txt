@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Jan Hendrik Graves"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Ne7 6. dxc5 Qxc5
+7. Bd3 Bd7 8. O-O Bb5 9. Be3 d4 10. cxd4 Qc6 11. Bxb5 Qxb5
+12. Nc3 Qd7 13. Ng5 Ng6 14. Qh5 h6 15. Nge4 a6 16. Rfd1 Nc6
+17. Na4 Qc7 18. Nac5 Bxc5 19. Nxc5 Qe7 20. Ne4 Qh4 21. Nd6+
+Ke7 22. Qf3 f5 23. Nxb7 Qe4 24. Qg3 Qg4 25. Rac1 Qxg3 26. hxg3
+Rhc8 27. Nd6 Rc7 28. d5 exd5 29. Bb6 Rcc8 30. Nxc8+ Rxc8
+31. Rxd5 Na7 32. Rxc8 Nxc8 33. Bd4 1-0

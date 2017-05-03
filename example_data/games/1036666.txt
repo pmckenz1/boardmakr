@@ -1,0 +1,21 @@
+[Event "Scheveningen"]
+[Site "Scheveningen NED"]
+[Date "1923.07.27"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "George Salto Fontein"]
+[Black "Edgar Colle"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.d4 Nf6 2.Nf3 d6 3.c4 Bf5 4.Nc3 h6 5.Bf4 Nbd7 6.h3 c6 7.e3
+Qa5 8.Nd2 e5 9.Bh2 Be7 10.Be2 Rd8 11.O-O O-O 12.Rc1 Rfe8 13.a3
+Bf8 14.Nb3 Qb6 15.Na4 Qc7 16.Bd3 e4 17.Bb1 Nb6 18.Nxb6 axb6
+19.f4 d5 20.c5 h5 21.Qe1 g6 22.Bg3 Nd7 23.cxb6 Qxb6 24.Qc3 Rc8
+25.Nc5 Nxc5 26.dxc5 Qb5 27.Bh4 Re6 28.b4 Bg7 29.Qb3 Ra8 30.Bc2
+d4 31.a4 Qa6 32.exd4 Bxd4+ 33.Kh1 e3 34.Bxf5 gxf5 35.a5 Rae8
+36.Rf3 Rg6 37.Qc2 Re4 38.Be1 Qa8 39.Qe2 Qd8 40.Rc2 Qd5 41.Qd3
+e2 42.Rg3 Re3 0-1

@@ -1,0 +1,18 @@
+[Event "Debrecen (Hungary)"]
+[Site "Debrecen (Hungary)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "22"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Stefan Mohr"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.Nf3 d6 2.d4 g6 3.c4 Bg7 4.Nc3 e5 5.e4 exd4 6.Nxd4 Ne7 7.Be3
+O-O 8.Qd2 Nbc6 9.Be2 f5 10.exf5 Bxd4 11.Bxd4 Nxf5 12.Be3 Nxe3
+13.Qxe3 Qf6 14.Rd1 Bg4 15.f3 Rae8 16.Qf2 Bf5 17.O-O b6 18.f4
+Kh8 19.Bf3 Nb4 20.Nd5 Nxd5 21.cxd5 Be4 22.Qd4 Bxf3 23.Rxf3
+Re1+ 24.Rf1 Re2 25.Rf2 Re1+ 1/2-1/2

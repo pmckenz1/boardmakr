@@ -1,0 +1,17 @@
+[Event "Ch Hungary"]
+[Site "Hungary"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Janos Tompa"]
+[Black "Andras Adorjan"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 e6 5.Nf3 Nf6 6.Bd3 Be7 7.O-O
+O-O 8.Qe2 Nc6 9.dxc5 Rd8 10.Rd1 Qxc5 11.Bg5 Bd7 12.Nbd2 Be8
+13.Bxf6 Bxf6 14.Ne4 Qe7 15.Nxf6+ Qxf6 16.Bb5 Rxd1+ 17.Rxd1 Rd8
+1/2-1/2

@@ -1,0 +1,20 @@
+[Event "10s, olm Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Toufeeq Catalan"]
+[Black "Fernando Braga"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2
+Bxd2+ 7. Nbxd2 Nh6 8. O-O c5 9. Nb3 Qe7 10. Rc1 b6 11. Bd5 Bb7
+12. Nxc5 bxc5 13. Qa4+ Kf8 14. Rxc5 Na6 15. Ra5 Rb8 16. Rc1
+Nb4 17. Nxd4 Nxd5 18. exd5 g6 19. Rxa7 Qg5 20. Qb4+ Kg7
+21. Ne6+ fxe6 22. Rxb7+ Rxb7 23. Qxb7+ Nf7 24. Rc7 Qf5 25. h3
+exd5 26. Rd7 Re8 27. Qxd5 Re1+ 28. Kh2 Qf4+ 29. g3 Qxf2+
+30. Qg2 Qe3 31. Rd2 Ne5 32. Rf2 Ng4+ 0-1

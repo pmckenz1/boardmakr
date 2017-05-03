@@ -1,0 +1,21 @@
+[Event "Labour Day Toronto"]
+[Site "05"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Kevin Spraggett"]
+[Black "Lawrence Day"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 Be7 6.Nf3 O-O 7.Bd3 Ne8
+8.h3 Nd7 9.Qe2 a6 10.Be3 Kh8 11.O-O g6 12.Nh2 Ng7 13.Qd2 f5
+14.exf5 gxf5 15.f4 e4 16.Be2 Nf6 17.Rfb1 Rg8 18.b4 b6 19.a4 a5
+20.bxc5 bxc5 21.Ra3 Nge8 22.Nb5 Qd7 23.Kh1 Bd8 24.g4 Nc7 25.g5
+Nfe8 26.Qb2+ Qg7 27.Qxg7+ Kxg7 28.Bc1 Na6 29.Bb2+ Kf8 30.h4
+Nb4 31.Rc1 Rb8 32.Nf1 Rb7 33.Rg3 h6 34.Kg2 hxg5 35.hxg5 Rh7
+36.Rh3 Rxh3 37.Kxh3 Bxg5 38.fxg5 Rxg5 39.Kh2 f4 40.Nd2 f3
+41.Bf1 1/2-1/2

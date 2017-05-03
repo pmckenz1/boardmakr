@@ -1,0 +1,26 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "F Norman Stephenson"]
+[Black "Keith Arkell"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 g6 5. Bd3 Bg7 6. Nf3 Bg4
+7. h3 Bxf3 8. Qxf3 Nf6 9. Bf4 O-O 10. Nd2 Nc6 11. O-O a6
+12. a4 Ne8 13. Rfe1 e6 14. Qg3 Rc8 15. Nf3 Nf6 16. Qh4 Nh5
+17. Bg5 Qc7 18. Rad1 Rfe8 19. g4 Nf4 20. Bb1 f6 21. Bxf6 Bxf6
+22. Qxf6 Nxh3+ 23. Kg2 Nf4+ 24. Kh1 Re7 25. Qh4 Rf8 26. Qg3 e5
+27. dxe5 Nxe5 28. Ba2 Ned3 29. Rxe7 Qxe7 30. Bxd5+ Kg7 31. Nd4
+Nxd5 32. Qxd3 Qh4+ 33. Kg1 Qxf2+ 34. Kh1 Qh4+ 35. Kg1 Qxg4+
+36. Kh1 Ne3 37. Qxe3 Qxd1+ 38. Kh2 Qh5+ 39. Kg3 Rf7 40. Ne6+
+Kg8 41. Ng5 Rf5 42. Qe8+ Kg7 43. Qe7+ Kh6 44. Nf7+ Rxf7
+45. Qxf7 Qe5+ 46. Kg2 Qe4+ 47. Kg3 Qe3+ 48. Kg2 b6 49. Qf8+
+Kh5 50. Qg7 Qg5+ 51. Kh2 Qf4+ 52. Kg2 Qe4+ 53. Kf2 g5 54. b4
+Qf5+ 55. Kg1 b5 56. axb5 axb5 57. Qc7 Kg4 58. Qb6 Qb1+ 59. Kg2
+Qc2+ 60. Kg1 Qd1+ 61. Kf2 Qd2+ 62. Kf1 Kf3 63. Qf6+ 0-1

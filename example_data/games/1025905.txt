@@ -1,0 +1,22 @@
+[Event "Palma de Majorca (Spain)"]
+[Site "Palma de Mallorca ESP"]
+[Date "1989.12.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Elizbar Ubilava"]
+[Black "Gerardo F Barbero"]
+[ECO "A11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.c4 c6 2.Nf3 d5 3.e3 Nf6 4.b3 g6 5.Bb2 Bg7 6.Nc3 O-O 7.d4 Bg4
+8.cxd5 cxd5 9.Be2 Nc6 10.O-O Rc8 11.Rc1 Qd6 12.Na4 Bxf3
+13.Bxf3 e5 14.dxe5 Nxe5 15.Bxe5 Qxe5 16.Qd3 Ne4 17.Rfd1 Rxc1
+18.Rxc1 f5 19.Rd1 Rd8 20.g3 Qe8 21.Bxe4 fxe4 22.Qe2 Qc6 23.Qd2
+d4 24.Qa5 Rd5 25.Qxa7 dxe3 26.Rxd5 exf2 27.Kxf2 Qxd5 28.Qb8+
+Bf8 29.Qc8 Qd2+ 30.Kf1 Qd1+ 31.Kf2 Qf3+ 32.Kg1 Qd1+ 33.Kf2
+Qd4+ 34.Kg2 b5 35.Nc3 Qd2+ 36.Kh3 Qh6+ 37.Kg4 Qh5+ 38.Kf4 Qf3+
+39.Ke5 Qxc3+ 40.Qxc3 Bg7+ 41.Kxe4 Bxc3 42.a4 bxa4 43.bxa4 Kf7
+44.h4 Be1 45.Kf4 Kf6 46.Kg4 Ba5 47.Kf4 Bc7+ 48.Kf3 h6 0-1

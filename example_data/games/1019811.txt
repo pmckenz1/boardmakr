@@ -1,0 +1,17 @@
+[Event "Tilburg Interpolis"]
+[Site "Tilburg NED"]
+[Date "1977.09.29"]
+[EventDate "1977.09.23"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Lubomir Kavalek"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.c4 Nf6 2.Nf3 c6 3.Nc3 d5 4.d4 e6 5.cxd5 exd5 6.Qc2 Be7 7.Bg5
+O-O 8.e3 Nbd7 9.Bd3 Re8 10.O-O Nf8 11.Ne5 Ng4 12.Bxe7 Qxe7
+13.Nxg4 Bxg4 14.Rab1 a5 15.Rfc1 Bh5 16.a3 Bg6 17.b4 axb4
+18.axb4 Bxd3 19.Qxd3 b5 1/2-1/2

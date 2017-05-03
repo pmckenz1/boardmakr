@@ -1,0 +1,22 @@
+[Event "Sarajevo (Bosnia & Herzegovina)"]
+[Site "Sarajevo (Bosnia & Herzegovina)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bojan Kurajica"]
+[Black "Andras Adorjan"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.b3 Bg7 7.Bb2
+O-O 8.Nc3 d6 9.d3 a6 10.e4 e6 11.Re1 Nc6 12.Qd2 Rb8 13.h3 Ba8
+14.Ne2 b5 15.Rab1 Rb6 16.Bc3 Qb8 17.Nh2 bxc4 18.dxc4 e5 19.Nc1
+Nd4 20.Nd3 Bc6 21.Ba5 Rb7 22.g4 h6 23.Bc3 Qa8 24.f4 Rd7 25.Nf2
+exf4 26.Bxd4 cxd4 27.Qxf4 Re8 28.Nf1 Rde7 29.Nd2 d5 30.e5 Nh7
+31.Qxd4 Bxe5 32.Qd3 Nf6 33.Nf3 dxc4 34.bxc4 Bf4 35.Rxe7 Rxe7
+36.Qd4 Ne4 37.Re1 Rd7 38.Qb6 Bg3 39.Nxe4 Bxe4 40.Rf1 Rd3
+41.Qf6 Qa7+ 42.Kh1 Bb8 43.c5 Qc7 44.Qb2 Qf4 45.Kg1 Bxf3
+46.Rxf3 Qh2+ 47.Kf2 Bg3+ 0-1

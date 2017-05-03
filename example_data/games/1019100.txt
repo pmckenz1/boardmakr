@@ -1,0 +1,21 @@
+[Event "Cologne"]
+[Site "Cologne GER"]
+[Date "1860.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "A Carstanjen"]
+[Black "Adolf Anderssen"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O
+d6 8.cxd4 Bb6 9.d5 Na5 10.e5 Ne7 11.Nc3 Nxc4 12.Qa4+ Bd7
+13.Qxc4 O-O 14.Ne4 Bf5 15.Bb2 Bxe4 16.Qxe4 Ng6 17.Rad1 Qe7
+18.g3 Rae8 19.Qd3 dxe5 20.Ba3 Bc5 21.Bxc5 Qxc5 22.Rfe1 h6
+23.Qf5 Qd6 24.Rd3 Re7 25.Nd2 Qa6 26.Ne4 Qxa2 27.h4 Qa6 28.h5
+Ree8 29.d6 Kh8 30.Red1 cxd6 31.hxg6 d5 32.gxf7 Re7 33.Rxd5
+Rexf7 34.Qxe5 Qe2 35.R5d2 Qf3 36.Rd7 Kh7 37.R1d3 Qg4 38.Rxf7
+Rxf7 39.Nc3 Rd7 40.Rxd7 Qxd7 41.Qe4+ Kh8 42.Qa4 Qc8 1/2-1/2

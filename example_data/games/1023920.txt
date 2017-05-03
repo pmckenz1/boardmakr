@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Kstovo (Russia)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Konstantin Aseev"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2
+Nxc3 8.Qxc3 h6 9.Bf4 Bd6 10.Bg3 O-O 11.e3 Qe7 12.Be2 Nd7
+13.O-O Bxg3 14.hxg3 c5 15.Rfd1 Rac8 16.Rac1 cxd4 17.Qxd4 Nc5
+18.Qd6 Qxd6 19.Rxd6 Bd5 20.Rd1 Na4 21.Rd2 Rc1+ 22.Kh2 Nc5
+23.Bd3 Rc8 24.b4 Nxd3 25.Rxd3 R8c2 26.Rd2 Rxd2 27.Nxd2 Rc2
+28.e4 Rxd2 29.exd5 Rxd5 30.Rc6 Rd7 31.f3 g6 32.Rc3 h5 33.Kg1
+Rd1+ 34.Kf2 Rd2+ 35.Kg1 Ra2 36.g4 hxg4 37.fxg4 g5 38.Kh2 Kg7
+39.Kg3 Kf6 40.Re3 Ke7 41.Rf3 Rc2 42.Re3 Rc4 43.Kf3 f6 44.g3 b5
+45.Rd3 a6 46.Re3 e5 0-1

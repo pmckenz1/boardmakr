@@ -1,0 +1,14 @@
+[Event "It, Haninge (Sweden)"]
+[Site "It, Haninge (Sweden)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Edvins Kengis"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "11"]
+
+1.Nf3 b6 2.d4 Bb7 3.c4 e6 4.a3 f5 5.Nc3 Nf6 6.d5 1/2-1/2

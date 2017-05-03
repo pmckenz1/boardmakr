@@ -1,0 +1,24 @@
+[Event "Debrecen 56/498"]
+[Site "Debrecen 56/498"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jean-Luc Costa"]
+[Black "Vladimir Bagirov"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bb3 b4 9.Na4 Ba6 10.Bd2 c5 11.dxc5 Nxc5 12.Nxc5 Bxc5
+13.Bxe6 O-O 14.Qb3 Bb7 15.Bc4 a5 16.Rd1 Qc7 17.O-O Rad8 18.h3
+Ba7 19.Bc1 Rc8 20.Be2 Bb8 21.Rfe1 Ne4 22.h4 Nf6 23.Qa4 h6
+24.a3 Bc6 25.Qc2 Qb7 26.Qf5 Qc7 27.axb4 axb4 28.Bd2 Be4 29.Qb5
+Bc2 30.Rc1 b3 31.Bb4 Rfe8 32.Bd3 Bxd3 33.Qxd3 Qxc1 34.Rxc1
+Rxc1+ 35.Be1 Be5 36.Qxb3 Rb8 37.Qd3 Bxb2 38.Kh2 Ng4+ 39.Kh3 h5
+40.Qd7 Nf6+ 41.Qf5 Rd8 42.Ba5 Rh1+ 43.Kg3 Re8 44.Ng5 Be5+
+45.f4 Bc3 46.e4 Bxa5 47.Qxa5 Rd1 48.Qf5 Rd3+ 49.Kf2 Red8
+50.Nf3 Ng4+ 51.Kg3 g6 52.Qg5 Kg7 53.f5 Re8 54.Kf4 Re3 55.f6
+Kg8 56.e5 Re6 57.Nh2 R6xe5 58.Nxg4 R5e4+ 0-1

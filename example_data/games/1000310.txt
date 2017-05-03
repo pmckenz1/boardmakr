@@ -1,0 +1,28 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Andrei Zaremba"]
+[Black "Daniel Rensch"]
+[ECO "B78"]
+[WhiteElo "2345"]
+[BlackElo "2224"]
+[PlyCount "142"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. O-O-O a5 11. h4 Ne5
+12. Be2 b5 13. Ndxb5 a4 14. g4 Qa5 15. g5 Nh5 16. f4 Ng4
+17. Bd4 Ng3 18. Rhg1 Nxe2+ 19. Qxe2 e5 20. fxe5 Nxe5 21. Nxd6
+Rab8 22. Nd5 Be6 23. Bc3 Qc5 24. Qe3 Qxe3+ 25. Nxe3 Bxa2
+26. h5 Rfd8 27. h6 Bh8 28. Rgf1 Rd7 29. Nb5 Rdb7 30. Na3 Nc6
+31. Bxh8 Kxh8 32. Nec4 Kg8 33. Rd6 Na7 34. Rfd1 Kf8 35. e5 Nb5
+36. Rd8+ Rxd8 37. Rxd8+ Ke7 38. Ra8 Nxa3 39. Nxa3 Rb4 40. Rh8
+Re4 41. Nb5 Rxe5 42. Nc3 Be6 43. Nxa4 Rxg5 44. Rxh7 Rh5 45. b4
+g5 46. b5 g4 47. b6 Kd6 48. Rh8 Kc6 49. Kd2 Kb7 50. h7 Bf5
+51. Nc5+ Kxb6 52. Rb8+ Kxc5 53. h8=Q Rxh8 54. Rxh8 Be4 55. Ke3
+f5 56. Rc8+ Kd6 57. Kf4 Kd7 58. Rc4 Kd6 59. Rd4+ Kc6 60. Rc4+
+Kd6 61. c3 Kd7 62. Rc5 Kd6 63. Ra5 Kc6 64. c4 Kb6 65. Re5 Kc6
+66. Re8 Kc5 67. Rc8+ Kd6 68. c5+ Kd7 69. Rg8 Kc6 70. Rxg4 fxg4
+71. Kxg4 Kxc5 1/2-1/2

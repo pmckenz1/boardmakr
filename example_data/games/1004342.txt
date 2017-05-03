@@ -1,0 +1,19 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Lajos Steiner"]
+[Black "Gyula Lovas"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6
+7. O-O a6 8. Be3 Bd7 9. f4 Qc7 10. Qe1 b5 11. a3 Na5 12. Rd1
+Nc4 13. Bc1 Rc8 14. Bf3 Be7 15. Rd3 h6 16. b3 Qb6 17. Kh1 Nxa3
+18. Bxa3 b4 19. e5 dxe5 20. fxe5 Nh7 21. Nf5 Rxc3 22. Nxg7+
+Kf8 23. Rxd7 Re3 24. Nxe6+ Qxe6 25. Qxe3 bxa3 26. Bd5 Qxd7
+27. Qxh6+ Ke8 28. Bxf7+ Kd8 29. Qb6+ Qc7 30. Rd1+ 1-0

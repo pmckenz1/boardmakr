@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Stuart C Conquest"]
+[Black "Saevar Bjarnason"]
+[ECO "C02"]
+[WhiteElo "2563"]
+[BlackElo "2305"]
+[PlyCount "80"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 cxd4
+7. cxd4 Nh6 8. Nc3 Nf5 9. Na4 Qc7 10. Be2 Be7 11. O-O a6
+12. b4 h5 13. Bb2 Bd7 14. Rc1 Rc8 15. Qd2 Qb8 16. Nc5 Na7
+17. Nxd7 Kxd7 18. Ng5 Rxc1 19. Rxc1 Bxg5 20. Qxg5 Qd8 21. Qd2
+Qb6 22. g3 Nc6 23. Rc5 g6 24. h3 Rc8 25. g4 hxg4 26. hxg4 Nfe7
+27. Bd1 Qd8 28. Rc3 Qh8 29. Kg2 Qg7 30. Rf3 Rh8 31. Kf1 g5
+32. a4 b5 33. axb5 axb5 34. Qd3 Qh6 35. Qxb5 Rb8 36. Qc5 Qh1+
+37. Ke2 Rxb4 38. Bc3 Rb1 39. Rd3 Qe4+ 40. Re3 Qxg4+ 0-1

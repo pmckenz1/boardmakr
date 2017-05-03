@@ -1,0 +1,22 @@
+[Event "New York Int"]
+[Site "New York, NY USA"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Michael Wilder"]
+[Black "Jay R Bonin"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nd2
+a6 8.a4 Nbd7 9.e4 Bg7 10.Be2 O-O 11.O-O Re8 12.Qc2 Ne5 13.Ra3
+Rb8 14.Kh1 Nfg4 15.Nd1 b5 16.f4 Nc4 17.Nxc4 bxc4 18.Bxc4 f5
+19.Ne3 Nxe3 20.Rxe3 fxe4 21.b3 Qf6 22.Rxe4 Bf5 23.Rxe8+ Rxe8
+24.Qd2 Qa1 25.Bxa6 Bc3 26.Qd1 Qa2 27.Bd3 Bxd3 28.Qxd3 Qe2
+29.Qxe2 Rxe2 30.g4 Re4 31.f5 Rd4 32.f6 Kf7 33.g5 Rxd5 34.Bf4
+Be5 35.h4 Rd4 36.Bxe5 dxe5 37.Rf2 Rb4 38.Rc2 Rxb3 39.Rxc5 Rh3+
+40.Kg2 Rxh4 41.Rc7+ Kg8 42.a5 Ra4 43.Ra7 Rg4+ 44.Kh3 Ra4 45.a6
+Kf8 46.Ra8+ Kf7 47.a7 1-0

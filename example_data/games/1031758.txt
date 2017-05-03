@@ -1,0 +1,20 @@
+[Event "Leningrad tt"]
+[Site "Leningrad tt"]
+[Date "1931.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Yurgis"]
+[Black "Mikhail Botvinnik"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 b6 4.g3 Bb7 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+e6 8.b3 Be7 9.Bb2 O-O 10.Nxd5 Bxd5 11.d3 Nd7 12.Qc2 Rc8
+13.Rae1 b5 14.e4 Bb7 15.Nd2 Nb8 16.f4 Nc6 17.a3 Qd7 18.Nf3
+Rfd8 19.Rd1 Ba6 20.Ba1 b4 21.a4 Nd4 22.Qb2 Bf6 23.e5 Be7
+24.Nxd4 cxd4 25.Qe2 Rc5 26.Bb2 f5 27.h4 Rc3 28.Bxc3 dxc3
+29.Qe3 Bxd3 30.Rf2 Qd4 31.Qxd4 Rxd4 32.Bf1 c2 33.Rc1 Bxf1
+34.Rcxf1 Rc4 35.bxc4 Bc5 36.Kg2 Bxf2 37.Kxf2 b3 0-1

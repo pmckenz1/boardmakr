@@ -1,0 +1,30 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Ferenc Langheinrich"]
+[Black "Stephan Schmidt"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "164"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 a6 8. Qd2 b5 9. a3 Bb7 10. Bd3 b4 11. axb4 c4 12. Be2
+Bxb4 13. O-O O-O 14. Qe1 Nb6 15. Qg3 f5 16. Qh3 Qd7 17. Kh1
+Ne7 18. Na2 Nc6 19. Rg1 Nc8 20. Nxb4 Nxb4 21. Bd2 Nc6 22. Bc3
+N8e7 23. Nh4 Bc8 24. g4 fxg4 25. Rxg4 Nf5 26. Nxf5 exf5
+27. Rh4 g6 28. Bf3 Rd8 29. Rg1 Qg7 30. Qf1 Be6 31. Rg3 Rab8
+32. Qe1 Rb5 33. Rgh3 Rd7 34. Qg1 Rf7 35. Qg5 a5 36. Rg3 a4
+37. Rg1 Ra7 38. Ra1 Qe7 39. Qh6 Rbb7 40. Ra3 Ra8 41. Rh3 Ra6
+42. Be2 Na7 43. Rg3 Bf7 44. Qh3 Kh8 45. Bxc4 dxc4 46. e6 Nb5
+47. exf7 Qxf7 48. Ra1 Nxc3 49. bxc3 a3 50. Re3 a2 51. Qf1 Kg7
+52. Kg1 Kf8 53. Ree1 Re7 54. Rxe7 Kxe7 55. Qe1+ Kd7 56. Qe5
+Qe6 57. Qb5+ Qc6 58. Qe5 Kc8 59. Qh8+ Kb7 60. Qxh7+ Qc7
+61. Qh4 Qd6 62. Qe1 Qxf4 63. Qe7+ Qc7 64. Qe8 Ka7 65. Qb5 f4
+66. Qe5 Qxe5 67. dxe5 Kb6 68. Kf2 Ra3 69. Kf3 Rxc3+ 70. Kxf4
+Rxc2 71. e6 Re2 72. e7 Kc5 73. Rxa2 Rxe7 74. Ra6 c3 75. Ra8
+Re6 76. Rc8+ Kd4 77. Kg5 Kd3 78. h4 c2 79. Rd8+ Ke2 80. Rc8
+Kd1 81. Rd8+ Kc1 82. Rc8 Rb6 0-1

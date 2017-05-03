@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.01"]
+[EventDate "1922.07.31"]
+[Round "2"]
+[Result "0-1"]
+[White "Charles Gilbert Marriott Watson"]
+[Black "Alexander Alekhine"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 {Notes by Geza Maroczy} Nf6 2. Nf3 e6 3. e3 b6 4. Nbd2
+Bb7 5. Be2 {Alekhine thinks that Bd3 is better.} Be7 6. O-O
+O-O 7. b3 c5 8. Bb2 Nc6 9. Ne5 Qc7 10. f4 {This costs a pawn;
+Watson played against Rubinstein Bf3.} Nd5 11. Rf3 cxd4
+12. exd4 f6 13. Nd3 Ncb4 14. Nxb4 Bxb4 {Much better than Nxb4
+whereby White could obtain a strong attack for instance 15 Rh3
+Qxf4 16 a3 Nd5 17 Bd3 g6 18 c4 Ne3 19 Qe2 Nf5 20 Rf1, etc.}
+15. c4 Nxf4 16. Rf2 e5 {!} 17. a3 Bd6 18. Bf1 e4 {The passed
+pawn decides the game. There is no further hope for White.}
+19. g3 e3 20. gxf4 exf2+ 21. Kxf2 Bxf4 22. Nf3 Bxh2 23. d5
+Qg3+ 24. Ke2 Rae8+ 25. Kd2 Qf2+ 26. Kc1 Bf4+ 27. Kb1 Re3 0-1

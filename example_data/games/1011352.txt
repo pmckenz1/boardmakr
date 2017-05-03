@@ -1,0 +1,17 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Kenneth S Beaton"]
+[Black "John B Henderson"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 Nc6 5. Bb2 O-O 6. Nf3
+d6 7. e3 Re8 8. Be2 Ne5 9. Qb3 Ba5 10. Nc3 c6 11. d4 Nxf3+
+12. Bxf3 Ne4 13. Rd1 Nxc3 14. Bxc3 Bxc3+ 15. Qxc3 d5 16. cxd5
+cxd5 17. O-O Be6 18. Qb3 Qd7 1/2-1/2

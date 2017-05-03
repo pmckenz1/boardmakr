@@ -1,0 +1,16 @@
+[Event "Warsaw zt pr B"]
+[Site "Warsaw POL"]
+[Date "1979.01.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Theodor Ghitescu"]
+[Black "Andras Adorjan"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.e3 e6 5.d4 d5 6.a3 Ne4 7.Qc2
+Nxc3 8.Qxc3 cxd4 9.Nxd4 Nxd4 10.Qxd4 dxc4 11.Qxd8+ Kxd8
+12.Bxc4 Bd6 1/2-1/2

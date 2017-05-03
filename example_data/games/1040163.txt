@@ -1,0 +1,16 @@
+[Event "It (cat.14)"]
+[Site "Tilburg NED"]
+[Date "1978.09.06"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Roman Dzindzichashvili"]
+[Black "Vlastimil Hort"]
+[ECO "D29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 a6 5.Bxc4 c5 6.O-O e6 7.Qe2
+b5 8.Bb3 Bb7 9.Rd1 Nbd7 10.Nc3 Qb6 11.d5 e5 12.Bc2 c4 13.e4
+1/2-1/2

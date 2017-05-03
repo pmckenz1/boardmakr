@@ -1,0 +1,20 @@
+[Event "10s, Londres Peace"]
+[Site "10s, Londres Peace Hiarcs 7.32"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Christopher Ward"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 b5 5. Qc2 bxc4 6. e4 exd5
+7. e5 Ng8 8. Nc3 Bb7 9. Bg5 Qa5 10. O-O-O Ne7 11. Bxe7 Bxe7
+12. Nxd5 Bxd5 13. Rxd5 Qxa2 14. Bxc4 Qa1+ 15. Qb1 Qa4 16. b3
+Qa5 17. Rhd1 O-O 18. Kb2 Qb4 19. Qe4 a6 20. h4 h6 21. Rd6 Bxd6
+22. Rxd6 Nc6 23. Rxh6 Rfb8 24. Qh7+ Kf8 25. Qh8+ Ke7 26. Qxg7
+Kd8 27. Qxf7 Kc7 28. Qd5 Ra7 29. e6 Ne7 30. Qxd7+ Kb6 31. Qd6+
+Ka5 32. Rh5 Rc8 33. Re5 Rb7 34. Qxa6# 1-0

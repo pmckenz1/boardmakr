@@ -1,0 +1,27 @@
+[Event "Kiev"]
+[Site "Kyiv UKR"]
+[Date "1978.06.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Heinz Lehmann"]
+[Black "Lubomir Ftacnik"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3
+7. bxc3 dxc4 8. e3 Be6 9. Nd2 b5 10. a4 c6 11. Be2 a6 12. Bf3
+Ra7 13. O-O O-O 14. Qe2 f5 15. Rfb1 Qd7 16. h3 Rc7 17. Bg3
+Rcc8 18. Bf4 c5 19. axb5 axb5 20. Ra5 b4 21. Nxc4 Qd8 22. d5
+Bxd5 23. Bxd5+ Qxd5 24. Bxb8 Rxb8 25. cxb4 Rfc8 26. b5 Be5
+27. b6 Bd6 28. Ra2 Rf8 29. Rd1 Qc6 30. Qd3 Rfd8 31. Qb3 Kg7
+32. Ra7 Kh6 33. Kf1 Qe4 34. Ra4 Qc6 35. Qc2 Rxb6 36. Nxb6 Qxb6
+37. Rh4+ Kg7 38. Qc3+ Kg8 39. Ra4 Qb5+ 40. Qc4+ Qxc4+ 41. Rxc4
+Rb8 42. Ke2 Kf7 43. g4 h6 44. gxf5 gxf5 45. Rh4 Kg6 46. Rg1+
+Kh7 47. Rc4 Rb2+ 48. Kf3 Ra2 49. Rb1 Kg7 50. Rb6 Ra1 51. Kg2
+Ra8 52. Rc6 Kf7 53. Kf3 Kg7 54. Rc2 Ra4 55. Rd2 Kf6 56. Rc2
+Kf7 57. Rc8 Ra3 58. Rc4 Ra1 59. Kg2 Ra2 60. Rc3 Kg7 61. Rc1
+Kf7 62. Kf3 Ra4 63. Rh8 Kg7 64. Rd8 Kf7 65. Rc8 Rh4 66. Kg2
+Ra4 67. Rc2 f4 68. Rc3 fxe3 69. Rxe3 Rh4 1/2-1/2

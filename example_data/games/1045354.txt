@@ -1,0 +1,21 @@
+[Event "Trnava"]
+[Site "Trnava CSR"]
+[Date "1979.03.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jindrich Trapl"]
+[Black "Lubomir Ftacnik"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6
+7. O-O Bg4 8. e5 dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5
+12. Be3 f6 13. Bxf5 gxf5 14. Qe2 Qd5 15. Rfd1 Qe6 16. Nd4 Nxd4
+17. cxd4 Rad8 18. Qb5 fxe5 19. dxe5 b6 20. Rd3 c6 21. Qa6 Rxd3
+22. Qxd3 Qd5 23. Qb3 Kh8 24. c4 Qe4 25. Rd1 b5 26. cxb5 cxb5
+27. Rd4 Qc6 28. Qd3 a6 29. Rd8 Qe6 30. Qd7 Qxa2 31. Qxe7 Kg8
+32. Bc5 Rxd8 33. Qxd8+ Kf7 34. Qe7+ Kg6 35. Qg5+ Kf7 36. Qxf5+
+Kg8 37. Qc8+ Kf7 38. Qd7+ Kg6 39. f5+ Kh5 40. Qd1+ 1-0

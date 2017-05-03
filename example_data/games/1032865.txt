@@ -1,0 +1,26 @@
+[Event "ARG-ch Juniors 22nd"]
+[Site "Buenos Aires ARG"]
+[Date "1976.02.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Marcelo Rodolfo Ibar"]
+[Black "Fernando Braga"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. e3 Be7 6. cxd5 exd5
+7. Bd3 O-O 8. Qc2 h6 9. Bh4 Re8 10. Nge2 Ne4 11. Bxe7 Qxe7
+12. Ng3 Nxg3 13. hxg3 Nd7 14. O-O-O Nf6 15. Rh4 Bd7 16. Rdh1
+Rac8 17. Kb1 c5 18. Qd2 c4 19. Bc2 Rc6 20. e4 Nxe4 21. Nxe4
+dxe4 22. Rxe4 Qf6 23. Rxe8+ Bxe8 24. Re1 Bd7 25. Re5 Rd6
+26. Qe3 g6 27. d5 b5 28. f4 Ra6 29. Re7 Bf5 30. Re8+ Kh7
+31. Qe5 Kg7 32. Bxf5 gxf5 33. Kc2 b4 34. Rc8 c3 35. bxc3 bxc3
+36. a4 Rd6 37. Qe8 Kg6 38. Rc6 Kh7 39. Rxd6 Qxd6 40. Qxf7+ Kh8
+41. Qe8+ Kh7 42. Qf7+ Kh8 43. Kxc3 Qa3+ 44. Kd4 Qa1+ 45. Kc5
+Qxa4 46. Qf6+ Kg8 47. Qg6+ Kh8 48. Qxh6+ Kg8 49. Qg6+ Kh8
+50. Qf6+ Kg8 51. Qxf5 Qa1 52. Qc8+ Kh7 53. Qf5+ Kg8 54. Qc8+
+Kh7 55. Qc7+ Kg6 56. d6 Qc3+ 57. Kb5 Qb2+ 58. Ka6 Qa2+ 59. Kb7
+Qxg2+ 60. Qc6 Qb2+ 61. Kc7 1-0

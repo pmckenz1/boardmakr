@@ -1,0 +1,19 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Valerij Zhuravliov"]
+[Black "David Bronstein"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nc3 Bb4 6. Nb5
+Ba5 7. Bd3 a6 8. Na3 b5 9. Bd2 Nf6 10. O-O Bxc3 11. bxc3 d6
+12. f4 O-O 13. f5 Nd7 14. Qe2 Re8 15. Rf3 Nce5 16. Rg3 h6
+17. Rf1 Qf6 18. Qh5 Kf8 19. h4 d5 20. exd5 Bb7 21. c4 bxc4
+22. Bxc4 Nb6 23. Bg5 Qd6 24. f6 Ng6 25. Rgf3 Nxc4 26. Nxc4
+Qxd5 27. fxg7+ Kg8 28. Qxh6 Qd4+ 29. R3f2 Re2 30. h5 Be4 1-0

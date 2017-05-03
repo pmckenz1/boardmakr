@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.10"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Boris Alterman"]
+[Black "Vladimir Bagirov"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 exd4
+7.Qxd4 Qxd4 8.Nxd4 Be6 9.Nc3 a6 10.f4 Ne7 11.Nxe6 fxe6 12.Bxc4
+e5 13.g3 Rf8 14.Rf1 Nd7 15.O-O-O Rd8 16.f5 b5 17.Bb3 c6 18.g4
+Nc5 19.Bc2 a5 20.g5 Nc8 21.Rf3 Rxd1+ 22.Nxd1 Nd6 23.Nf2 Ne6
+24.Rd3 Ke7 25.Ng4 Nxg5 26.Nxe5 Ngxe4 27.Nxc6+ Kf6 28.Nxa5 Rc8
+29.Nb3 Nxf5 30.Kb1 Ned6 31.Nd4 g6 32.b3 Rc5 33.Kb2 h5 34.Nxf5
+Nxf5 35.Rc3 Rd5 36.Rc6+ Nd6 37.a4 bxa4 38.bxa4 g5 39.a5 Ke6
+40.a6 Ra5 41.Bd3 Kd7 42.Rc1 Ne8 43.Rf1 Ke7 44.Bc4 Nc7 45.Rf7+
+Kd6 46.Rf6+ Kc5 47.Kb3 g4 48.Rh6 Kd4 49.Rc6 Nxa6 50.Bxa6 Rg5
+51.Bc4 g3 52.hxg3 Rxg3+ 53.Kb4 h4 54.Rd6+ Ke4 55.Rh6 Rg4
+56.Kc3 Ke3 57.Bd5 Rf4 58.Rg6 Rf5 59.Kc4 Rf4+ 60.Kc5 Rf5 61.Kd6
+Rh5 1/2-1/2

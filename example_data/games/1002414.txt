@@ -1,0 +1,23 @@
+[Event "USA-06.Congress New York (35-2)"]
+[Site "New York, NY USA"]
+[Date "1889.05.17"]
+[EventDate "?"]
+[Round "35.1"]
+[Result "1-0"]
+[White "Dionisio M Martinez"]
+[Black "Constant Ferdinand Burille"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4
+5.d4 d5 6.Bd3 Be7 7.O-O O-O 8.c4 Nf6 9.Nc3 dxc4 10.Bxc4 Bg4
+11.Be3 Nc6 12.Rc1 Qd7 13.Be2 Rad8 14.Re1 Rfe8 15.Qa4 Qf5 {?
+...Nd5 would have given him a good attack, whereas this
+compromises his game.} 16.Ne5 {!} Qh5 {A desperate answer, but
+16...Bxe2 (0r 16...Nxe5 17.dxe5 Bxe2 18.exf6) 17.Nxc6 was also
+very disadvantageous.} 17.Nxg4 Nxg4 18.h3 f5 19.hxg4 fxg4
+20.Ne4 {!} Qg6 21.Bd3 Nb4 22.Qb3+ Kh8 23.Bb1 Nd5 24.Ng3 Qf7
+25.Rxc7 {!} h5 26.Rxb7 h4 27.Nf5 h3 28.Nxe7 Rxe7 29.Rxe7 Qxe7
+30.Qd3 Nf6 31.gxh3 gxh3 32.Bd2 Qd7 33.Qf5 1-0

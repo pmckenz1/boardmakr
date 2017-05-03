@@ -1,0 +1,20 @@
+[Event "10s, it Amsterdam NED"]
+[Site "10s, it Amsterdam NED Hiarcs 7.32"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Albert Blees"]
+[Black "Fernando Braga"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O
+7. h3 Ne8 8. Nf3 Nc7 9. g4 a6 10. a4 Nd7 11. Rg1 Nf6 12. g5
+Nfe8 13. h4 g6 14. Nh2 Kh8 15. Ng4 Ng7 16. b3 f5 17. Nh6 fxe4
+18. Nxe4 Bf5 19. Bb2 Bxe4 20. Bxe4 Nce8 21. Qc2 Nh5 22. Bxg6
+hxg6 23. Qxg6 Qa5+ 24. Kd1 Neg7 25. Nf7+ Kg8 26. Nh6+ Kh8
+27. Ng4 Qb4 28. Ra3 Rf3 29. Qh6+ Kg8 30. g6 Bd8 31. Ke2 Rxb3
+32. Bxe5 Qxc4+ 33. Ke1 Qe4+ 34. Kd1 Qd3+ 0-1

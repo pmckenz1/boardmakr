@@ -1,0 +1,16 @@
+[Event "Reggio"]
+[Site "Reggio Emilia ITA"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Ivan Sokolov"]
+[Black "Viswanathan Anand"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qc2 dxc4 12.Qxc4 c5
+13.Be3 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1971.09.19"]
+[EventDate "1971.09.15"]
+[Round "4"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Vladimir Karasev"]
+[ECO "C82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Bc5 10.Nbd2 O-O 11.Bc2 Bf5 12.Nb3 Bg4
+13.Nxc5 Nxc5 14.Be3 Ne6 15.Qd3 g6 16.Bh6 Re8 17.Rfe1 Bf5
+18.Qe2 Bxc2 19.Qxc2 Qd7 20.Rad1 Rad8 21.Qc1 Ne7 22.Bg5 Nxg5
+23.Nxg5 Nc6 24.Qf4 Qf5 25.Qxf5 gxf5 26.e6 fxe6 27.Nxe6 Rd7
+28.Nc5 Rde7 29.Rxe7 Rxe7 30.Nxa6 Re2 31.Nxc7 Rxb2 32.g3 f4
+33.gxf4 Rxa2 34.Rxd5 b4 35.cxb4 Nxb4 36.Rd7 Ra7 37.Kg2 Nc6 1-0

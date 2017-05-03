@@ -1,0 +1,26 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Gildardo Garcia"]
+[Black "Lubomir Ftacnik"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Be7 8. f4 O-O 9. a4 Qc7 10. Be3 Nbd7 11. Bf3 Nb6
+12. Kh1 Nc4 13. Bc1 e5 14. Nde2 exf4 15. Nxf4 Be6 16. b3 Ne5
+17. Bb2 Rac8 18. Qe2 Rfe8 19. Rad1 Qc5 20. Rfe1 Bd8 21. Nd3
+Nxd3 22. Rxd3 Nd7 23. e5 Nxe5 24. Ne4 Qb4 25. Bxe5 dxe5
+26. Nd6 Rxc2 27. Qd1 Rf8 28. Nxb7 Bg5 29. Re4 Qxe4 30. Bxe4
+Rc1 31. Qxc1 Bxc1 32. Nd8 Bc8 33. Nc6 Bg5 34. g3 Re8 35. h4
+Bf6 36. b4 Be6 37. b5 axb5 38. a5 Bc8 39. Ra3 Be7 40. Nxe7+
+Rxe7 41. a6 Ra7 42. Bb7 Bf5 43. Rb3 g6 44. Rxb5 Bd3 45. Rb6 e4
+46. Kg2 e3 47. g4 Kg7 48. Kf3 e2 49. Kf2 h6 50. Ke1 g5
+51. hxg5 hxg5 52. Rd6 Bc4 53. Rc6 Be6 54. Rxe6 fxe6 55. Kxe2
+Kf6 56. Kd3 Ke5 57. Ke3 Kd6 58. Ke4 Kd7 59. Ke5 Ke7 60. Ke4
+Kd7 61. Ke5 Ke7 62. Kd4 Kd6 63. Kd3 Kc7 64. Ke4 1/2-1/2

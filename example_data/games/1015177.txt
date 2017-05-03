@@ -1,0 +1,19 @@
+[Event "Jakarta zt"]
+[Site "Jakarta zt"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Edhi Handoko"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.cxd5 exd5 6.Bg5 Bb4 7.Rc1
+Nbd7 8.a3 Be7 9.e3 Ne4 10.Bxe7 Qxe7 11.Bd3 O-O 12.O-O f5 13.b4
+a6 14.Na4 a5 15.Nc5 axb4 16.axb4 Ndxc5 17.bxc5 f4 18.exf4 Rxf4
+19.Ne5 Ra2 20.Rc2 Rxc2 21.Qxc2 Nf6 22.Qd2 Rh4 23.Ra1 Bd7
+24.Ra8+ Be8 25.g3 Rh5 26.Qb2 Qc7 27.Ra7 Qc8 28.Qxb7 Qxb7
+29.Rxb7 1-0

@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Matthias Roeder"]
+[Black "Csaba Horvath"]
+[ECO "D45"]
+[WhiteElo "2445"]
+[BlackElo "2520"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6
+7. Bd3 O-O 8. O-O dxc4 9. Bxc4 Qe7 10. a3 e5 11. h3 Bb8
+12. Ba2 h6 13. dxe5 Nxe5 14. Nd4 Kh8 1/2-1/2

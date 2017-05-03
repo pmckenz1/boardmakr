@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.14"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Aris Daniilidis"]
+[Black "Andras Adorjan"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.g5
+hxg5 8.Bxg5 Nc6 9.Qd2 Qb6 10.Nb3 a6 11.O-O-O Bd7 12.h4 Be7
+13.f4 O-O-O 14.Be2 d5 15.exd5 Nxd5 16.Nxd5 exd5 17.Bxe7 Nxe7
+18.Qc3+ Qc7 19.Qxc7+ Kxc7 20.h5 Bf5 21.Nd4 Be4 22.Rhg1 g6
+23.hxg6 Nxg6 24.Rg4 Rh2 25.Bd3 Re8 26.Re1 Rf2 27.Rf1 Rxf1+
+28.Bxf1 Rh8 29.Kd2 Rh2+ 30.Be2 Kd6 31.b4 Nh4 32.Kc3 Nf5
+33.Nxf5+ Bxf5 34.Rg5 Bxc2 35.Bf3 Be4 36.Bxe4 dxe4 37.Re5 Rxa2
+38.Rxe4 Ra3+ 39.Kb2 Rf3 40.Rd4+ Kc6 41.Kc2 b6 42.Kd2 f5 43.Ke2
+Rb3 44.Kd2 Kb5 45.Rd5+ Kxb4 46.Rxf5 a5 47.Rf8 a4 48.f5 a3
+49.f6 Rf3 50.Ke2 Rf5 51.f7 a2 52.Ra8 Kb3 0-1

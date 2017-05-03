@@ -1,0 +1,21 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.03.29"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Nicholas MacLeod"]
+[Black "James Moore Hanham"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e5 2.c3 d6 3.Nf3 Be7 4.Be2 Nf6 5.O-O O-O 6.Qc2 Nc6 7.d4
+Bg4 8.d5 Nb8 9.h3 Bh5 10.Nh2 Bg6 11.Nd2 Nxd5 12.Qb3 Nf4 13.Bg4
+b6 14.g3 Nh5 15.Bxh5 Bxh5 16.f4 exf4 17.Qd5 fxg3 18.Qxa8 gxh2
+19.Kxh2 a5 20.Qd5 Be2 21.Rf2 c6 22.Qb3 Bh5 23.Nf3 Bg6 24.Qc4
+b5 25.Qe2 Nd7 26.Bf4 Nc5 27.Nd2 Re8 28.Qf3 Bh4 29.Re2 Qe7
+30.e5 Nd3 31.Rg1 Nxf4 32.Qxf4 dxe5 33.Qg4 f5 34.Qf3 e4 35.Qe3
+Qc7+ 36.Kh1 f4 37.Qd4 Bf6 38.Qc5 e3 39.Rg4 exd2 40.Rxd2 Re1+
+41.Kg2 Re5 42.Qf2 Be4+ 43.Kf1 f3 0-1

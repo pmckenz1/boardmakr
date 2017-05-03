@@ -1,0 +1,17 @@
+[Event "Kolisch Memorial"]
+[Site "Vienna AUT"]
+[Date "1890.03.02"]
+[EventDate "1890.??.??"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Max Weiss"]
+[Black "Johann Hermann Bauer"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.dxe5 dxe5 6.O-O Bd6
+7.Nc3 Nge7 8.Be3 O-O 9.Bc4 a6 10.Nd5 Nxd5 11.Bxd5 h6 12.h3 Qe7
+13.Qe2 Nd8 14.Rfd1 Be6 15.Rd2 Bxd5 16.Rxd5 c6 17.Rd2 Ne6
+18.Rad1 Rad8 19.c3 Bc7 1/2-1/2

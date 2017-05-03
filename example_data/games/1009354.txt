@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Martin Forchert"]
+[Black "Murray Chandler"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O
+12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5 15. Bc4 Rb8 16. b3 Kh8
+17. O-O g6 18. Qd3 f5 19. f3 fxe4 20. fxe4 Rxf1+ 21. Qxf1 Be6
+22. Ra1 Ne7 23. Nxe7 Qxe7 24. Bxe6 Qxe6 25. b4 Qb3 26. Qd3 a4
+27. g3 Rc8 28. Qxd6 Qxc3 29. Rf1 Bh6 30. Rf7 Qxc2 31. Qxe5+
+Kg8 32. Qd5 Kh8 33. Qe5+ Kg8 34. Qd5 Kh8 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Jan Plachetka"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 d6 2. c4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Qd2 g6 6. b3 Bg7
+7. Bb2 Nf6 8. g3 O-O 9. Nh3 Re8 10. Nf4 Ne5 11. Bg2 Rb8
+12. O-O a6 13. Rfd1 Ned7 14. Rac1 Nc5 15. b4 Ne6 16. Nfd5 b5
+17. cxb5 axb5 18. Nxf6+ Qxf6 19. Bc6 Rf8 20. Rc2 Ng5 21. f3
+Bf5 22. Nd5 Qd8 23. Bxg7 Kxg7 24. Rc3 f6 25. Re3 Be6 26. f4
+Bxd5 27. Qxd5 Nf7 28. Rd4 Nh6 29. Re6 Qc8 30. Rde4 Qa6
+31. Re7+ Kh8 32. Kg2 Qb6 33. Bd7 Ng8 34. R7e6 f5 35. Qb3 Kg7
+36. Re7+ Nxe7 37. Rxe7+ Kh6 38. Qc3 Rg8 39. Qf6 1-0

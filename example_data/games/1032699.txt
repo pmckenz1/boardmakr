@@ -1,0 +1,20 @@
+[Event "Sverdlosk"]
+[Site "Sverdlosk"]
+[Date "1965.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Botvinnik"]
+[Black "Anton Fradkin"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d6 4.Bg2 Nc6 5.d3 Be6 6.e4 Qd7 7.Nge2
+Bh3 8.O-O h5 9.f4 h4 10.f5 hxg3 11.Nxg3 Be7 12.Bxh3 Rxh3
+13.Kg2 Rh4 14.Bg5 Ng4 15.h3 Bxg5 16.hxg4 O-O-O 17.Rh1 Rdh8
+18.Nce2 Qd8 19.Rxh4 Rxh4 20.Ng1 Qh8 21.Nf3 Rxg4 22.Nxg5 Rxg5
+23.Qh1 Qd8 24.Kf2 Rxg3 25.Kxg3 Qg5+ 26.Kh2 Nd4 27.Qg2 Qf4+
+28.Qg3 Qd2+ 29.Kh1 Ne2 30.Qxg7 b6 31.Rf1 Qxd3 32.Kh2 Nf4
+33.Rxf4 exf4 34.b3 Qe2+ 35.Kh3 f3 0-1

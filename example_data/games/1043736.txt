@@ -1,0 +1,22 @@
+[Event "New York (blind 8 b)"]
+[Site "New York (blind 8 b)"]
+[Date "1933.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Nikolai Feldman"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. g3 e5 2. Bg2 d5 3. b3 Nf6 4. Bb2 Nc6 5. Nf3 Bd6 6. O-O Bd7
+7. d4 e4 8. Ne5 Qe7 9. Nxd7 Nxd7 10. e3 O-O 11. c4 b6 12. cxd5
+Nb4 13. Nc3 f5 14. Qe2 Nd3 15. Bc1 Nf6 16. Bd2 Bb4 17. d6 Bxd6
+18. f3 Nb4 19. fxe4 fxe4 20. Rxf6 gxf6 21. Nxe4 Nd5 22. Qc4 c6
+23. Qxc6 Nxe3 24. Bxe3 Rad8 25. Re1 Bb4 26. Rf1 Kh8 27. Bh6
+Rg8 28. Qxf6+ Qxf6 29. Nxf6 Rg6 30. Be3 Bc3 31. Nd5 Bb2
+32. Rb1 Ba3 33. b4 Rc6 34. Bf4 Rc2 35. Be5+ Kg8 36. Bh3 Bc1
+37. Bf5 Rc4 38. Bd3 Rcc8 39. Ne7+ Kf7 40. Nxc8 Rxc8 41. Kf1
+Ke7 42. Ke2 Ba3 43. h4 Rc3 44. g4 Bc1 45. Bxh7 1-0

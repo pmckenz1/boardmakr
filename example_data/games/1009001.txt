@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Gary W Lane"]
+[Black "Abhijit Kunte"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qb6 6. Nb3 Qc7
+7. c4 Nf6 8. O-O Be7 9. f4 d6 10. Nc3 b6 11. e5 Nfd7 12. exd6
+Bxd6 13. Ne4 Be7 14. Qg4 O-O 15. Qh3 Nc6 16. f5 exf5 17. Ng3
+Nde5 18. Nxf5 Nxd3 19. Qxd3 Bf6 20. Ne3 Ne5 21. Qe2 Be6
+22. Nd5 Bxd5 23. cxd5 Rfd8 24. Be3 Qc4 25. Rfe1 Qxe2 26. Rxe2
+Nc4 27. Bd4 Bxd4+ 28. Nxd4 Rxd5 29. Nc6 Rc5 30. Nb4 Ne5
+31. Rd1 f6 32. Rd6 a5 33. Nd5 Re8 34. Nf4 Rc1+ 35. Kf2 g5
+36. Ne6 Kf7 37. Nd4 Rd1 38. Rc2 Ng4+ 39. Kg3 Rd3+ 40. Kxg4
+Re4+ 0-1

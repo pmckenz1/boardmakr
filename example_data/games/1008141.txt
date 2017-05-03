@@ -1,0 +1,18 @@
+[Event "Hastings 1936/37"]
+[Site "Hastings (ENG)"]
+[Date "1937.01.05"]
+[EventDate "1936.12.28"]
+[Round "8"]
+[Result "1-0"]
+[White "William Winter"]
+[Black "Vera Menchik"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 e6 2.Nf3 c5 3.c4 cxd4 4.Nxd4 Nf6 5.g3 Qb6 6.Bg2 Bc5 7.e3
+Nc6 8.Nb3 Bb4+ 9.Nc3 d5 10.cxd5 Nxd5 11.O-O Nxc3 12.bxc3 Bxc3
+13.Rb1 O-O 14.Qc2 Bb4 15.a3 Be7 16.Bd2 Nd8 17.Rfd1 e5 18.Ba5
+Qf6 19.Nc5 Bg4 20.Rd2 Nc6 21.Bc7 b6 22.Nd7 Bxd7 23.Rxd7 Bc5
+24.Qa4 Qf5 25.Rbd1 Ne7 26.Bxa8 Rxa8 27.Rd8+ 1-0

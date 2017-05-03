@@ -1,0 +1,26 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "Ch USA (juniors), San Francisco (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andrei Zaremba"]
+[Black "Eugene Perelshteyn"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6
+7. Nc3 Qa5 8. h3 Be6 9. Nd2 Qa6 10. d5 cxd5 11. cxd5 Bd7
+12. e4 b5 13. e5 dxe5 14. d6 Nc6 15. dxe7 Nxe7 16. Bxa8 Rxa8
+17. Re1 Bxh3 18. Nde4 Nxe4 19. Nxe4 Qc6 20. Qd6 Qxd6 21. Nxd6
+a6 22. Be3 Nc6 23. Rac1 Nb4 24. Rc7 Be6 25. Rd1 Nd5 26. Rc5
+Nxe3 27. fxe3 h5 28. b3 Kh7 29. Ne4 Kh6 30. Rc7 g5 31. Rd6 Kg6
+32. Rxf7 Kxf7 33. Nxg5+ Kf6 34. Nxe6 Ke7 35. Rb6 Bf6 36. Nc5
+Bg5 37. Re6+ Kf7 38. Rxe5 Kf6 39. Nd7+ Kg6 40. Kg2 Rc8 41. Nc5
+Bf6 42. Rd5 Be7 43. Ne4 Rc2+ 44. Rd2 Rxd2+ 45. Nxd2 Kf5
+46. Kf3 Ke5 47. Ne4 h4 48. gxh4 Bxh4 49. Nc5 a5 50. Nd3+ Kd5
+51. Kg4 Be7 52. Kf5 Bh4 53. a3 a4 54. Nf4+ Kc5 55. Ne6+ Kd6
+56. b4 Kd5 57. e4+ Kc4 58. Nc5 Kc3 59. e5 Kb2 60. Nxa4+ Kxa3
+61. Nc3 1/2-1/2

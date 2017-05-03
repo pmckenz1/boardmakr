@@ -1,0 +1,21 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Devaki V Prasad"]
+[Black "Neeraj-Kumar Mishra"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6
+7. O-O Nf6 8. Kh1 Bb4 9. Bg5 Bxc3 10. Bxf6 gxf6 11. bxc3 Ne7
+12. Qd2 h5 13. f4 b6 14. Rab1 Bb7 15. Bf3 Rc8 16. Ne2 b5
+17. Qd4 Rh6 18. f5 Qe5 19. Qb6 Rc7 20. a4 bxa4 21. Nd4 Bc8
+22. Qb4 Qc5 23. fxe6 fxe6 24. Qxa4 Kf7 25. Rb3 Ng6 26. Be2 Bb7
+27. Bxa6 Bxe4 28. Nb5 Qc6 29. Qxe4 Qxa6 30. Qf3 Ne5 31. Nxc7
+Qa7 32. Qf4 Ng4 33. Nb5 Qa2 34. Nd6+ Ke7 35. Rb8 e5 36. Nf5+
+Ke6 37. Rb6+ 1-0

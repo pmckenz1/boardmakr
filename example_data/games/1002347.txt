@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.05.11"]
+[EventDate "?"]
+[Round "35"]
+[Result "1-0"]
+[White "Samuel Lipschutz"]
+[Black "John Washington Baird"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 O-O 7.dxe5
+Nxe4 8.c3 Nc5 9.Bc2 Re8 10.Bf4 Ne6 11.Bg3 f6 12.Qd3 Nf8
+13.Bb3+ Ne6 14.Nbd2 Kh8 15.Bc2 Nf8 16.Rfe1 b5 17.exf6 gxf6
+18.Rad1 d6 19.Qd5 Bd7 20.Qh5 Ne5 21.Nxe5 fxe5 22.Nf3 Bf6
+23.Nh4 Re7 24.Nf5 Qe8 25.Qh6 Rf7 26.f4 Qc8 27.Qh5 Ng6 28.Nh6
+Rg7 29.fxe5 dxe5 30.Rf1 Qd8 31.Bb3 Qf8 32.Qf3 Qc5+ 33.Bf2 Qf8
+34.Nf7+ Rxf7 35.Bxf7 Nf4 36.Rxd7 1-0

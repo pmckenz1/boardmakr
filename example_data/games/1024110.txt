@@ -1,0 +1,21 @@
+[Event "Kapfenberg ETC"]
+[Site "Kapfenberg AUT"]
+[Date "1970.05.12"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Peicho Chonev Peev"]
+[Black "Yuri Balashov"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2
+d5 8.cxd5 exd5 9.O-O O-O 10.Ne5 Nd7 11.Nd3 Ndf6 12.b4 c6
+13.Rc1 Re8 14.Bf4 Bf8 15.Nxe4 Nxe4 16.Ne5 Qf6 17.Qb3 Qe6 18.b5
+c5 19.Bxe4 dxe4 20.Qxe6 Rxe6 21.Rfd1 g5 22.Be3 Rc8 23.Nd7 cxd4
+24.Rxc8 Bxc8 25.Nxf8 Kxf8 26.Rxd4 f6 27.Rc4 Bd7 28.a4 Be8
+29.Bc1 Bh5 30.Ba3+ Ke8 31.Rc7 Bxe2 32.Rxa7 h5 33.h3 Kd8 34.Bb4
+Kc8 35.Rf7 g4 36.Rf8+ Kb7 37.Rf7+ Kc8 38.Rf8+ Kb7 39.Rf7+
+1/2-1/2

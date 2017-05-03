@@ -1,0 +1,22 @@
+[Event "Lvov UUKRO"]
+[Site "Lvov <UKR>"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Alexandre Sulypa"]
+[ECO "D59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6
+8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5
+13.Qa3 Rc8 14.Be2 Kf8 15.dxc5 bxc5 16.O-O Nd7 17.Rfd1 a5
+18.Bb5 Nb6 19.Qd3 Bg4 20.Rd2 a4 21.Ne1 Bh5 22.b3 Bg6 23.Qe2
+Ra5 24.Bd3 Bxd3 25.Qxd3 Kg8 26.h3 axb3 27.axb3 Qa7 28.Rdc2 Ra1
+29.Rxa1 Qxa1 30.Qc3 Qa7 31.Nd3 c4 32.bxc4 dxc4 33.Nf4 Qd7
+34.Ne2 Qd1+ 35.Kh2 Qd6+ 36.g3 Qc5 37.Qd4 Qf5 38.e4 Qe6 39.Nc3
+f5 40.Nd5 Nxd5 41.exd5 Qe4 42.Qxe4 fxe4 43.d6 c3 44.d7 Rd8
+45.Rxc3 Rxd7 46.Re3 Rd4 1/2-1/2

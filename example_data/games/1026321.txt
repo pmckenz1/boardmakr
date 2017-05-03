@@ -1,0 +1,18 @@
+[Event "Eastbourne ch-GB"]
+[Site "Eastbourne ENG"]
+[Date "1990.08.06"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Michael John Basman"]
+[Black "Tim Wall"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. h3 e5 2. a3 d5 3. c4 c6 4. cxd5 cxd5 5. g4 Nc6 6. Bg2 Be6
+7. d3 Nge7 8. Nc3 Ng6 9. Nf3 Be7 10. g5 f5 11. gxf6 gxf6
+12. Rg1 Qd7 13. h4 h5 14. Qa4 O-O-O 15. b4 b6 16. Bd2 Kb8
+17. b5 Na5 18. Na2 Nb7 19. Nb4 Bxb4 20. axb4 Nd6 21. Bh3 Bxh3
+22. Rxg6 Rhg8 23. Rxf6 Rg7 24. Bg5 Qc8 25. Rc1 Rc7 26. Rc6 1-0

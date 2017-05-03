@@ -1,0 +1,17 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Ivan Farago"]
+[Black "Andras Adorjan"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 c5 4.d5 d6 5.e4 Nf6 6.Bf4 O-O 7.Nf3 e6
+8.dxe6 Bxe6 9.Bxd6 Re8 10.Be2 Nc6 11.O-O Qa5 12.a3 Nd4 13.Nxd4
+cxd4 14.Qxd4 Nd5 15.e5 Nxc3 16.Qxc3 Qxc3 17.bxc3 b6 18.c5 bxc5
+19.Bf3 Rad8 20.Rfd1 Bb3 21.Re1 Bf8 1/2-1/2

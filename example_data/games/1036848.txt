@@ -1,0 +1,20 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.13"]
+[EventDate "1904.04.25"]
+[Round "12.4"]
+[Result "1/2-1/2"]
+[White "John Finan Barry"]
+[Black "Jackson Whipps Showalter"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.a4 Bg4 9.c3 O-O 10.d4 Bxf3 11.gxf3 Qd7 12.f4 Qh3 13.f3
+Na5 14.Bc2 Nh5 15.fxe5 dxe5 16.Qe2 Rfb8 17.Qf1 Qh4 18.Re2 Nf4
+19.Bxf4 exf4 20.Bd3 b4 21.Nd2 Rb6 22.Rg2 c5 23.Nc4 Nxc4
+24.Bxc4 cxd4 25.cxd4 a5 26.b3 Rd8 27.d5 Bc5+ 28.Kh1 Rh6 29.Rd1
+Bd6 30.Rdd2 Re8 31.Rg4 Qh5 32.Rgg2 f5 33.Bd3 fxe4 34.Bxe4 Kf8
+35.Rc2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Memorial L.Toth"]
+[Site "Kecskemet (Hungary)"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Nikola Padevsky"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d4 c6 7.Qc2 b6
+8.Rd1 Bb7 9.Ne5 Nbd7 10.Bf4 Rc8 11.Nc3 b5 1/2-1/2

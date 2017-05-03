@@ -1,0 +1,19 @@
+[Event "ARG-ch"]
+[Site "Quilmes ARG"]
+[Date "1980.06.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Juan Carlos Hase"]
+[Black "Fernando Braga"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. O-O Qb6 6. Bxc6
+Qxc6 7. d3 d6 8. Nc3 e6 9. Qe1 Ne7 10. Bd2 Bd7 11. Nd1 f5
+12. Bc3 Bxc3 13. Nxc3 O-O-O 14. Ng5 Rdf8 15. Nxe6 Bxe6
+16. exf5 Bd5 17. Qxe7 Bxg2 18. Rf2 Bh3 19. Ne4 gxf5 20. Qe6+
+Kc7 21. Ng5 h6 22. Nxh3 Rhg8+ 23. Ng5 hxg5 24. Qe7+ Qd7
+1/2-1/2

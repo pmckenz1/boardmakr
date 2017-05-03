@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Lugano (Switzerland)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Darko Anic"]
+[Black "Eugenio Torre"]
+[ECO "D14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3
+e6 8.Bb5 Nd7 9.O-O Rc8 10.Rc1 Be7 11.Na4 O-O 12.Bxc6 bxc6
+13.Ne5 Nxe5 14.Bxe5 f6 15.Bg3 Qa5 16.f3 Rfe8 17.Qb3 Bf8 18.Nc5
+e5 19.Rfd1 exd4 20.exd4 Re2 21.Na4 Rce8 22.Nc3 R2e6 23.Re1 Qb6
+24.Rxe6 Qxb3 25.axb3 Rxe6 26.Ra1 Bc2 27.Rxa7 Bxb3 28.Rc7 g5
+29.Kf2 Bc4 30.h4 gxh4 31.Bf4 Bg7 32.Be3 f5 33.f4 Bf8 34.Na4
+Bb5 35.Nb6 h6 36.Rc8 Re7 37.Rb8 Bd3 38.Rc8 Be4 39.Rxc6 Rg7
+40.Rc8 Rxg2+ 41.Kf1 h3 0-1

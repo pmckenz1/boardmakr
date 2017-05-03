@@ -1,0 +1,18 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.14"]
+[EventDate "1911.08.21"]
+[Round "18"]
+[Result "1-0"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Georg Rotlewi"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bd3 Ngf6 6.Nxf6+ Nxf6
+7.Nf3 Be7 8.O-O O-O 9.Bg5 b6 10.Qe2 Bb7 11.Rad1 Qd5 12.c4 Qd6
+13.Ne5 Rad8 14.Rfe1 Nd7 15.Bf4 Nxe5 16.Bxe5 Qc6 17.Qg4 f6
+18.d5 Qd7 19.dxe6 Qc6 20.Bc3 Qc5 21.h4 a5 22.a3 Kh8 23.Re3 Rg8
+24.Bxh7 Rxd1+ 25.Qxd1 Rd8 26.Bd3 Kg8 27.Qg4 Qc6 28.Rg3 1-0

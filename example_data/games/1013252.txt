@@ -1,0 +1,23 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.06.16"]
+[EventDate "1937.06.16"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Endre Steiner"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 h6 5. Bxf6 Qxf6 6. e4 Qd8
+7. d5 Qc7 8. Na3 a6 9. Nc4 b5 10. Ne3 e5 11. a4 bxa4 12. Qxa4
+Be7 13. Rd1 O-O 14. d6 Bxd6 15. Nf5 Qb7 16. Nxd6 Qxb2 17. Qc4
+a5 18. Qxc5 Nc6 19. Bb5 Ba6 20. O-O Bxb5 21. Nxb5 Rab8 22. Rb1
+Qc2 23. Qd5 Ne7 24. Qd6 Ng6 25. Nxe5 Nxe5 26. Qxe5 Rbe8
+27. Qd5 Qxe4 28. Qxd7 Re6 29. Qd4 Qc6 30. Qd3 Rg6 31. g3 Qa6
+32. c4 Rc8 33. Rfd1 Rgc6 34. Qd5 Rc5 35. Qf3 Rf8 36. Rd4 a4
+37. Ra1 Rfc8 38. Nd6 R8c7 39. Qa3 Re5 40. Nb5 Rce7 41. Rd8+
+Kh7 42. Qd3+ f5 43. Rd5 Qf6 44. Rxe5 Qxe5 45. Rxa4 Qe1+
+46. Kg2 1-0

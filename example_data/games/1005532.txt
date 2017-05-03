@@ -1,0 +1,20 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "4"]
+[Result "1-0"]
+[White "Ihor Nester"]
+[Black "Georgy Dubivka"]
+[ECO "A46"]
+[WhiteElo "2266"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. Nf3 d6 3. g3 Nbd7 4. Bg2 e5 5. c4 Be7 6. Nc3 O-O
+7. O-O c6 8. e4 Qc7 9. h3 a5 10. Be3 Re8 11. Qc2 Bf8 12. b3 g6
+13. Rfe1 exd4 14. Nxd4 Nc5 15. Rad1 Bd7 16. g4 h6 17. Nde2
+Rad8 18. Ng3 Na6 19. Na4 c5 20. Nc3 Nb4 21. Qc1 Kh7 22. a3 Nc6
+23. g5 Ng8 24. Nd5 Qb8 25. gxh6 Nce7 26. Bg5 Be6 27. Bxe7 Bxe7
+28. Nxe7 Rxe7 29. Qc3 Nxh6 30. Qxa5 Qc8 31. Kh2 Kg7 32. e5 Rh8
+33. exd6 Ree8 34. Ne4 f6 35. Qxc5 Qd7 36. Qc7 Ng4+ 37. Kg1 1-0

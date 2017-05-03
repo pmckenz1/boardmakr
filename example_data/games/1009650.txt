@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Claudia Meissner"]
+[Black "Tina Mietzner"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Bf4 Nf6 6. e3 a6
+7. Rc1 Bf5 8. h3 Qb6 9. Qd2 e6 10. a3 Ne4 11. Nxe4 Bxe4
+12. Ne2 Be7 13. Nc3 O-O 14. Nxe4 dxe4 15. Be2 Rfd8 16. O-O e5
+17. Rxc6 bxc6 18. Bxe5 Bd6 19. Bxd6 Rxd6 20. Bc4 c5 21. Qc2
+cxd4 22. Qxe4 Rad8 23. Qe7 d3 24. Bxf7+ Kh8 25. b3 d2 26. Rd1
+Qb5 27. Bc4 Qh5 28. f3 R6d7 29. Qe4 Qc5 30. b4 Qd6 31. Kf2 Rc7
+32. Ke2 Qg3 33. f4 Rxc4 0-1

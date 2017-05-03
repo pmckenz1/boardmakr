@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "R Alan Barton"]
+[Black "Daniel L Bisby"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. d4 d6 2. h3 g6 3. Nf3 Bg7 4. c4 f5 5. Nc3 Nf6 6. Qc2 O-O
+7. Bg5 Nc6 8. e3 e5 9. dxe5 dxe5 10. Nd5 e4 11. O-O-O Qe8
+12. Bxf6 Bxf6 13. Ne1 Qf7 14. f4 Bg7 15. Be2 Be6 16. g4 Nd8
+17. gxf5 gxf5 18. Rg1 c6 19. Nc3 Bxc4 20. Bxc4 Qxc4 21. Rd4
+Qe6 22. Qd2 Kh8 23. Rd6 Qc4 24. Nc2 Nf7 25. Rd7 Rad8 26. Nd1
+Qe6 27. Qg2 Rg8 28. Rxd8 Nxd8 29. Kb1 Bf6 30. Qxg8+ Qxg8
+31. Rxg8+ Kxg8 32. Kc1 Ne6 33. Kd2 Nc5 34. b3 Nd3 35. a3 Kf7
+36. Ne1 Nxe1 37. Kxe1 Ke6 38. Kd2 Kd5 39. Kc2 b5 40. Nf2 a5
+41. Nd1 b4 42. axb4 axb4 43. Kd2 c5 44. Kc1 c4 45. Kc2 Kc5
+46. Nf2 Bh4 47. Nd1 c3 48. Kc1 Be1 49. Kc2 Kd6 50. Kc1 Ke6
+51. Kc2 Kf6 52. h4 Kg6 0-1

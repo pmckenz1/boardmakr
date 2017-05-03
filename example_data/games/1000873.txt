@@ -1,0 +1,29 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.18"]
+[EventDate "1911.08.21"]
+[Round "21"]
+[Result "1-0"]
+[White "Georg Rotlewi"]
+[Black "Hans Fahrni"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "161"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 d5 4.Nf3 Nbd7 5.e3 c6 6.Bd3 Bd6 7.O-O
+O-O 8.e4 dxc4 9.Bxc4 e5 10.Bg5 Qe7 11.Re1 Nb6 12.Bb3 Bg4 13.d5
+c5 14.a4 h6 15.Be3 Nh7 16.h3 Bh5 17.g4 Bg6 18.Bc2 a6 19.h4 h5
+20.Ng5 Nf6 21.gxh5 Bxh5 22.f3 Nh7 23.Qe2 Nxg5 24.Bxg5 f6
+25.Be3 Kf7 26.Kf2 Rh8 27.Rg1 Rh7 28.Qf1 Nd7 29.Ne2 Nf8 30.a5
+Qc7 31.Qh3 c4 32.Ng3 g6 33.Qf1 Rc8 34.Qe1 Nd7 35.Qc3 Bc5
+36.Rgc1 Bd4 37.Bxd4 exd4 38.Qxd4 Qd6 39.Bd1 Qf4 40.Be2 Ne5
+41.Rc3 Kf8 42.Kg2 Nd3 43.Rxc4 Rxc4 44.Qxc4 Bxf3+ 45.Bxf3 Qxf3+
+46.Kxf3 Ne5+ 47.Ke3 Nxc4+ 48.Kd4 Nd6 49.Rh1 Rc7 50.h5 gxh5
+51.Nxh5 Rc4+ 52.Kd3 Rxe4 53.Nxf6 Rb4 54.Re1 Rxb2 55.Re6 Nb5
+56.d6 Nxd6 57.Rxd6 Ke7 58.Rb6 Ra2 59.Nd5+ Kf8 60.Rxb7 Rxa5
+61.Ke4 Ra1 62.Kf5 Rf1+ 63.Nf4 Ke8 64.Ke6 Kf8 65.Ng6+ Kg8
+66.Ne7+ Kf8 67.Rb8+ Kg7 68.Rg8+ Kh7 69.Rg3 Rb1 70.Nd5 Kh6
+71.Rg4 a5 72.Kf6 Kh5 73.Rg5+ Kh6 74.Rg2 Kh5 75.Kf5 Rf1+
+76.Nf4+ Kh6 77.Rg6+ Kh7 78.Rg4 a4 79.Kf6 a3 80.Kf7 Kh6 81.Kg8
+1-0

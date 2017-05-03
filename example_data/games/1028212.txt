@@ -1,0 +1,20 @@
+[Event "ENG"]
+[Site "Hastings"]
+[Date "1896.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Henry Edward Bird"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4
+7.cxd4 Bb6 8.Bb2 Na5 9.d5 Ne7 10.Bd3 d6 11.Nc3 c5 12.Ne2 O-O
+13.Rc1 f6 14.Nh4 Ng6 15.Nxg6 hxg6 16.h4 Qe8 17.h5 c4 18.Bb1
+Bg4 19.f3 Bd7 20.Qd2 c3 21.Rxc3 gxh5 22.Ng3 Qg6 23.Nxh5 Rac8
+24.Bd3 Bc5 25.a3 b5 26.g4 b4 27.Rxc5 dxc5 28.Nf4 Qg5 29.Rh5
+Nb3 30.Qh2 bxa3 31.Rxg5 fxg5 32.e5 Nd4 33.Qh7+ Kf7 34.Bg6+ Ke7
+35.Qxg7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Minsk URS ch"]
+[Site "Minsk BLR"]
+[Date "1979.12.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Yuri Razuvaev"]
+[Black "Yuri Balashov"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.g3 O-O 7.Bg2
+d5 8.cxd5 Nxd5 9.Bd2 Bxc3 10.bxc3 e5 11.Nb3 Nc6 12.O-O Nde7
+13.c4 Qc7 14.Qc2 Rd8 15.Rac1 Bf5 16.Qb2 Rac8 17.Bc3 b6 18.c5
+f6 19.cxb6 axb6 20.Bd2 Be6 21.Bc3 Bf5 22.Bd2 Be6 23.Bc3 Bf5
+1/2-1/2

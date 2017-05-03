@@ -1,0 +1,26 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Evarth Kahn"]
+[Black "Eric N Cooke"]
+[ECO "D58"]
+[WhiteElo "2295"]
+[BlackElo "2165"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6
+7. Bh4 b6 8. Bd3 Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rfd1 cxd4
+12. exd4 dxc4 13. Bxc4 Re8 14. Ne5 Nd5 15. Bxe7 Rxe7 16. Ne4
+N7f6 17. Nxf6+ Nxf6 18. Rd3 Be4 19. Rd2 Rc8 20. Rad1 Qd6
+21. b3 Bh7 22. Qf3 Ne4 23. Re2 b5 24. Bd3 Nc3 25. Rc2 Rec7
+26. Rxc3 Rxc3 27. Qxf7+ Kh8 28. Ng6+ Bxg6 29. Qxg6 Kg8
+30. Qh7+ Kf7 31. Bg6+ Kf6 32. Bh5 Qf4 33. Qg6+ Ke7 34. Qxg7+
+Kd6 35. g3 Qg5 36. Qf7 R3c7 37. Qf3 Rc3 38. Qf7 Qf5 39. Qxf5
+exf5 40. Bg6 Rc1 41. Rxc1 Rxc1+ 42. Kg2 Ke6 43. a4 bxa4
+44. bxa4 Rd1 45. Be8 a6 46. Kf3 Rxd4 47. Ke3 Re4+ 48. Kd3 Kd6
+49. Bg6 Rxa4 50. Bxf5 Ke5 51. Bc8 Ra3+ 52. Ke2 a5 53. h4 a4
+54. f4+ Kf6 55. g4 Rc3 56. g5+ hxg5 57. fxg5+ Ke7 58. Bb7 Rc5
+59. Be4 a3 60. Bb1 Rc1 0-1

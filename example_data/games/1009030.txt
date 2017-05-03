@@ -1,0 +1,20 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Andras Toth"]
+[Black "Hoang Thanh Trang"]
+[ECO "C12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3
+7. bxc3 Ne4 8. Qg4 g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Bd7
+12. Rab1 c4 13. Be2 Bc6 14. h4 Nd7 15. Nh2 Qe7 16. Qf4 f5
+17. exf6 Nxf6 18. Bf3 h5 19. g4 O-O-O 20. g5 Ne4+ 21. Bxe4
+dxe4 22. Qe3 e5 23. d5 Rxd5+ 24. Ke2 Kb8 25. Rhd1 Rxd1
+26. Rxd1 Rf8 27. Rd2 Rf4 28. Qg3 Kc7 29. Qh3 Rf5 30. Qg3 Qa3
+31. Nf1 e3 32. Nxe3 Bf3+ 33. Ke1 Qc1+ 34. Nd1 Rf4 0-1

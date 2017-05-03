@@ -1,0 +1,15 @@
+[Event "op Kilkenny IRL"]
+[Site "op Kilkenny IRL"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Stuart C Conquest"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 g6 5.Nc3 Bg7 6.Bd3 O-O 7.O-O
+Bg4 8.h3 Bxf3 9.Qxf3 e6 10.Bd2 Nbd7 1/2-1/2

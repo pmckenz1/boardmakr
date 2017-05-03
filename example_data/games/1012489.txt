@@ -1,0 +1,17 @@
+[Event "Capablanca - Alekhine World Championship Match"]
+[Site "Buenos Aires ARG"]
+[Date "1927.09.20"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "Jose Raul Capablanca"]
+[ECO "D65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7
+7. Rc1 c6 8. Qc2 a6 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Be2 Re8
+12. O-O Nxc3 13. Qxc3 e5 14. Rfd1 exd4 15. Nxd4 Nf6 16. Bf3
+Bg4 17. Bxg4 Nxg4 18. Nf5 Qf6 19. Qxf6 Nxf6 1/2-1/2

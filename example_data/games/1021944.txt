@@ -1,0 +1,16 @@
+[Event "PCA Qualifiers"]
+[Site "Groningen NED"]
+[Date "1993.12.29"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Leonid Yudasin"]
+[Black "Zurab Azmaiparashvili"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 f5 2.c4 Nf6 3.Nf3 e6 4.Nc3 Bb4 5.Qb3 a5 6.g3 b6 7.Bg2 Bb7
+8.O-O O-O 9.Bg5 Bxc3 10.Qxc3 h6 11.Bxf6 Qxf6 12.Rac1 d6
+13.Rfd1 Be4 14.c5 bxc5 15.dxc5 Qxc3 1/2-1/2

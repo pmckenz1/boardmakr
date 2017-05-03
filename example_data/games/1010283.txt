@@ -1,0 +1,22 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Katalin Decsey"]
+[Black "Ildiko Madl"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. cxd5 exd5 5. Nc3 Nf6 6. Bg5 h6
+7. Bh4 Bf5 8. e3 Be7 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. O-O O-O
+12. Rab1 a5 13. Rfe1 Re8 14. a3 a4 15. Qc2 b5 16. Na2 Rc8
+17. Bxf6 Nxf6 18. Rbc1 Bd6 19. Nc3 Qe7 20. Qf5 Rc7 21. Rc2 g6
+22. Qh3 Kg7 23. Rec1 Rec8 24. Nb1 Ne4 25. Nfd2 f5 26. Nxe4
+dxe4 27. g3 h5 28. Qf1 h4 29. Nc3 Qg5 30. Qg2 hxg3 31. hxg3
+Qh5 32. Ne2 g5 33. Kf1 Kf6 34. Ke1 Bf8 35. Nc3 Bd6 36. Ne2 b4
+37. axb4 Bxb4+ 38. Kf1 c5 39. dxc5 Rxc5 40. Rxc5 Rxc5 41. Rxc5
+Bxc5 42. g4 Qf7 43. Qh2 fxg4 1/2-1/2

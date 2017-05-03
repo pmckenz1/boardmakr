@@ -1,0 +1,28 @@
+[Event "Ch Russia"]
+[Site "Voronezh (Russia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Semen I Dvoirys"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "163"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 O-O 7.O-O
+Nb6 8.Nc3 c6 9.h3 Be6 10.e4 Qd7 11.Kh2 Na6 12.a4 Rad8 13.a5
+Na8 14.Be3 N8c7 15.Qe2 Qd6 16.Rfc1 Qb4 17.Ra4 Qb3 18.Ra3 Qb4
+19.Ra4 Qb3 20.Ra3 Qc4 21.Bf1 Qxe2 22.Bxe2 Nb4 23.Na4 Nca6
+24.Bc4 c5 25.Bxa6 cxd4 26.Bg5 Nxa6 27.Bxe7 d3 28.Rd1 Bc4
+29.Nc3 Rc8 30.Bxf8 Bxf8 31.Raa1 Nb4 32.Ne5 Bb3 33.Rd2 Bc2
+34.Nd5 Nxd5 35.exd5 Bb4 36.Rxd3 Bxd3 37.Nxd3 Bd6 38.a6 b5
+39.Rc1 Rc4 40.b3 Rd4 41.Rc8+ Kg7 42.Nc5 Rxd5 43.Ne4 Be5 44.Kg2
+Rd4 45.Ng5 Bf6 46.Nf3 Rd6 47.Rb8 Rxa6 48.Rxb5 Ra2 49.Rb7 Kf8
+50.Rd7 Ke8 51.Rd3 Bd8 52.Re3+ Kf8 53.Ne5 f6 54.Nc4 Be7 55.Kf3
+Kf7 56.Re2 Rxe2 57.Kxe2 Ke6 58.g4 f5 59.f3 Bc5 60.Kd3 fxg4
+61.fxg4 Kd5 62.Nd2 Ke5 63.Ne4 Be7 64.Ke3 a5 65.Nc3 Bg5+ 66.Kd3
+Kf4 67.Ne4 Be7 68.Kd4 h6 69.Kd5 Bb4 70.Nf6 Kg3 71.Ke6 Kxh3
+72.Kf7 g5 73.Kg6 Be7 74.Nd5 Kxg4 75.Nxe7 h5 76.Ng8 h4 77.Nf6+
+Kf4 78.Kh5 h3 79.Ng4 Kf5 80.Nh2 Ke4 81.Kg4 Kd3 82.Kxh3 1/2-1/2

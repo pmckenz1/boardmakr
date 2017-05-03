@@ -1,0 +1,20 @@
+[Event "RUS-ch Elista"]
+[Site "Elista RUS"]
+[Date "1995.10.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Nukhim N Rashkovsky"]
+[Black "Yuri Balashov"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O
+Nbd7 8.Qc2 c6 9.Rc1 Ne4 10.Be1 f5 11.b4 Bf6 12.Nbd2 Nxd2
+13.Bxd2 Nb6 14.c5 Nc4 15.Bc3 a5 16.bxa5 Nxa5 17.Nd2 Qc7 18.e3
+e5 19.dxe5 Bxe5 20.Rab1 Be6 21.Rb4 Ra7 22.Bf1 Rfa8 23.Bxe5
+Qxe5 24.Nf3 Qf6 25.Nd4 g6 26.Rcb1 Bf7 27.h4 h5 28.Qc3 Qe7
+29.a4 Nc4 30.Bxc4 dxc4 31.Ne2 Rd8 32.Nf4 Rd7 33.Re1 Ra8
+34.Reb1 Rad8 35.a5 Qe4 36.Qe1 Qf3 0-1

@@ -1,0 +1,17 @@
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1974.12.19"]
+[EventDate "1974.11.30"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Lev Alburt"]
+[Black "Mark Izrailovich Dvoretsky"]
+[ECO "E05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 e6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Be7 5.c4 dxc4 6.Qa4+ Bd7
+7.Qxc4 Bc6 8.Nc3 O-O 9.O-O Ne4 10.Qd3 Nxc3 11.bxc3 Nd7 12.Re1
+f5 13.a4 Be4 14.Qb5 Nb6 15.Bf4 a6 16.Qe5 Qc8 17.Qxc7 Nd5
+18.Qxc8 Raxc8 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Isle of Man (Great Britain)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Richard O'Donovan"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Nc3
+Re8 8.e4 e5 9.d5 a5 10.b3 Nc5 11.Ne1 c6 12.Nd3 Nxd3 13.Qxd3 c5
+14.Bd2 Bd7 15.a3 Qe7 16.b4 axb4 17.axb4 cxb4 18.Nb5 Bxb5
+19.cxb5 Nd7 20.Bxb4 Nc5 21.Bxc5 dxc5 22.d6 Qd7 23.Bh3 Qxh3
+24.d7 Bf6 25.dxe8=Q+ Rxe8 26.Rfd1 Qc8 27.Qd7 c4 28.Ra7 Rd8
+29.Qxc8 Rxc8 30.Rxb7 c3 31.b6 c2 32.Rc1 Bd8 33.Kf1 Kg7 34.Rc7
+Rxc7 35.bxc7 Bxc7 36.Rxc2 Bb6 37.Ke2 Ba7 38.Kd3 Bb6 39.Kc4 Kf6
+40.Kd5 Bd4 41.f4 1-0

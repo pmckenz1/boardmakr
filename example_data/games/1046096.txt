@@ -1,0 +1,15 @@
+[Event "Prag"]
+[Site "Prag"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Klaus Bischoff"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. Nf3 d6 2. d4 g6 3. e4 Bg7 4. Be2 Nf6 5. Nbd2 O-O 6. O-O Nc6
+7. c3 Nd7 8. Nc4 e5 9. Bg5 f6 10. Be3 Qe7 1/2-1/2

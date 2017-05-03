@@ -1,0 +1,18 @@
+[Event "47th US Open"]
+[Site "Pittsburgh, PA USA"]
+[Date "1946.07.08"]
+[EventDate "1946.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Edgar Thomas McCormick"]
+[Black "Arthur Bisguier"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.c3 Nc6 5.Ngf3 Nf6 6.Bd3 cxd4 7.Nxd4
+Nxd4 8.cxd4 dxe4 9.Nxe4 Bb4+ 10.Nc3 Bd7 11.Qb3 Qa5 12.a3 Nd5
+13.Bd2 Bc6 14.O-O Be7 15.Be4 Qd8 16.Rae1 O-O 17.Nxd5 exd5
+18.Bb1 Qd7 19.Re3 Bf6 20.Rf3 Rfe8 21.Rxf6 gxf6 22.Qg3+ Kh8
+23.Qh4 f5 24.Qf6+ Kg8 25.Bh6 1-0

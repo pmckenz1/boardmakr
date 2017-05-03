@@ -1,0 +1,21 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Srdjan Marangunic"]
+[Black "Sasa Vidovic"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 Nf6 4. Nf3 O-O 5. O-O d6 6. c3 c6
+7. Re1 Nbd7 8. e4 e5 9. Qc2 Qc7 10. Nbd2 Re8 11. b3 b6 12. Ba3
+c5 13. dxe5 dxe5 14. Nc4 b5 15. Ne3 Bb7 16. Nd2 Nf8 17. Nd5
+Qc6 18. Nf1 Ne6 19. Nfe3 Rac8 20. Nxf6+ Bxf6 21. Nd5 Bg7
+22. Bb2 c4 23. b4 Nc7 24. Ne3 Rcd8 25. Rad1 Qe6 26. Bc1 h5
+27. h4 Rd6 28. Rxd6 Qxd6 29. Rd1 Qe7 30. Qe2 Rd8 31. Rd2 Rd6
+32. Qd1 Bf8 33. f3 Qd8 34. Bh3 Rxd2 35. Qxd2 Qxd2 36. Bxd2 Bh6
+37. Nxc4 1-0

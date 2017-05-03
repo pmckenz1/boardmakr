@@ -1,0 +1,22 @@
+[Event "Rotterdam (Netherlands)"]
+[Site "Rotterdam NED"]
+[Date "1874.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "H Heyermans"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 Qxd5 5.Nf3 Nd7 6.Bd3 Bxc3+
+7.bxc3 Ngf6 8.Ba3 b5 9.Qe2 Ba6 10.O-O Rb8 11.Rab1 Qc6 12.Ne5
+Nxe5 13.Qxe5 Kd7 14.d5 Qxd5 15.Rfd1 Qxe5 16.Bxb5+ Kc8 17.Bxa6+
+Rb7 18.Bxb7+ Kb8 19.Bc6 Kc8 20.Rb5 Qxc3 21.Bc5 Nd5 22.Bxd5
+exd5 23.Bxa7 Re8 24.Rbb1 c6 25.Rb8+ Kd7 26.Rb7+ Ke6 27.Bd4
+Qxc2 28.Re1+ Kd6 29.Be3 d4 30.Bf4+ Kc5 31.Rf1 d3 32.Rbb1 d2
+33.Bxd2 Qxd2 34.Rfc1+ Kd4 35.Rd1 Re2 36.Rxd2+ Rxd2 37.Ra1 c5
+38.Kf1 c4 39.Ke1 Rb2 40.a4 c3 41.a5 Kd3 42.a6 Re2+ 43.Kf1 c2
+44.a7 Re8 0-1

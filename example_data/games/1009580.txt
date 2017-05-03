@@ -1,0 +1,16 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Igor Stohl"]
+[Black "Matthias Wahls"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7
+7. Bg2 c6 8. Bc3 d5 9. Nbd2 O-O 10. O-O Bb7 11. Ne5 Na6 12. e4
+1/2-1/2

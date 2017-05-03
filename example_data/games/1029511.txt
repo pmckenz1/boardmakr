@@ -1,0 +1,26 @@
+[Event "St Petersburg"]
+[Site "St. Petersburg  RUS"]
+[Date "1914.04.26"]
+[EventDate "1914.04.21"]
+[Round "4"]
+[Result "1-0"]
+[White "Siegbert Tarrasch"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.d3 g6 6.c3 Bg7 7.O-O
+Ne7 8.cxd4 Bxd4 9.Nc3 c6 10.Bc4 d6 11.Be3 Bg7 12.Qf3 O-O
+13.Bb3 Kh8 14.Qg3 Be6 15.Bxe6 fxe6 16.Qh3 e5 17.Bg5 Bf6 18.Bh6
+Bg7 19.Bg5 Bf6 20.Bh6 Bg7 21.Bg5 Bf6 22.Bh6 Bg7 23.Bxg7+ Kxg7
+24.Rad1 c5 25.Ne2 Nc6 26.f4 Qe7 27.f5 Nd4 28.Nc3 Qg5 29.fxg6
+hxg6 30.Qd7+ Kh6 31.Qxd6 Rad8 32.Qxf8+ Rxf8 33.Rxf8 Kg7 34.Rf2
+Qh5 35.Rdf1 g5 36.h3 Ne6 37.Rf7+ Qxf7 38.Rxf7+ Kxf7 39.Nd5 b5
+40.Kf2 Nd4 41.Ne3 Ke6 42.Ke1 a5 43.Kd2 a4 44.Nc2 Nc6 45.Ne1
+Nd4 46.Ke3 Kf6 47.Nf3 Ne6 48.g3 Nf8 49.Ng1 Nd7 50.Ne2 b4
+51.Ng1 Nb6 52.Nf3 c4 53.d4 c3 54.dxe5 Kg6 55.bxc3 b3 56.axb3
+axb3 57.Nd2 b2 58.Kd3 Kf7 59.Kc2 Ke6 60.Kxb2 Kxe5 61.Kc2 Nd7
+62.Kd3 Nc5+ 63.Ke3 Ne6 64.Nf3+ Kf6 65.e5 Kf5 66.Nd4+ Kxe5
+67.Nxe6 1-0

@@ -1,0 +1,27 @@
+[Event "Kolisch Memorial"]
+[Site "Vienna AUT"]
+[Date "1890.03.09"]
+[EventDate "1890.??.??"]
+[Round "15"]
+[Result "0-1"]
+[White "Bernhard Fleissig"]
+[Black "Johann Hermann Bauer"]
+[ECO "C43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qxd4 d5 6.exd6 Nxd6
+7.Bg5 f6 8.Be3 Nc6 9.Qd5 Nf5 10.Qb3 Bb4+ 11.Nbd2 Nxe3 12.Qxe3+
+Qe7 13.Qxe7+ Kxe7 14.O-O-O Be6 15.a3 Bc5 16.Ne4 Bb6 17.Bb5 Kf7
+18.Rhe1 h6 19.c4 Na5 20.b4 Nxc4 21.Nc5 Bxc5 22.Bxc4 Bxc4
+23.Rd7+ Kg6 24.bxc5 Rhe8 25.Re3 Rxe3 26.fxe3 Rc8 27.Nh4+ Kh5
+28.Nf5 Kg5 29.Ng3 Kg6 30.e4 Bb5 31.Re7 Re8 32.Rxc7 Bc6 33.Kd2
+Re5 34.Ke3 Kh7 35.Kd4 Rg5 36.Nf5 Rxg2 37.h4 h5 38.a4 Rg4
+39.Re7 a5 40.Nd6 Rxh4 41.Nxb7 Bxa4 42.Nxa5 Rg4 43.Nc4 h4
+44.Ne3 Rg5 45.Rb7 Bc6 46.Rb6 h3 47.Rb2 Rh5 48.Rh2 Rh4 49.Nf5
+Rxe4+ 50.Kd3 Re5 51.Rxh3+ Kg8 52.Nd4 Rxc5 53.Re3 Bb5+ 54.Kd2
+Kf7 55.Rb3 Rd5 56.Kc3 Rc5+ 57.Kd2 Bc6 58.Rb6 Bg2 59.Ra6 g5
+60.Ke3 Rc3+ 61.Kf2 Be4 62.Re6 f5 63.Rb6 g4 64.Rb3 g3 65.Ke2
+Rxb3 66.Nxb3 Kf6 67.Ke3 Ke5 68.Nc1 f4 69.Ke2 Kf5 70.Kf1 Kg4
+71.Kg1 f3 72.Ne2 f2 73.Kf1 Bd3 74.Kg2 Bxe2 75.Kh1 Bf3# 0-1

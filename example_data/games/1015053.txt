@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.16"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Harry Schussler"]
+[Black "Utut Adianto"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Bg5 Be7 5.Nc3 h6 6.Bh4 O-O 7.e3
+Nbd7 8.Rc1 c6 9.Bd3 dxc4 10.Bxc4 Nd5 11.Bxe7 Qxe7 12.Ne4 N5f6
+13.Ng3 c5 14.O-O Rd8 15.Bb5 b6 16.Bc6 Rb8 17.Qa4 Bb7 18.Bxb7
+Rxb7 19.Rfd1 cxd4 20.Qxd4 Re8 21.e4 e5 22.Qe3 Ng4 23.Qe2 g6
+24.Nd4 exd4 25.Qxg4 d3 26.Qf4 Nc5 27.Qxh6 Rd7 28.f3 Qe5 29.Qd2
+a5 30.Nf1 Ne6 31.Rc3 Red8 32.Qe3 Qb5 33.Rb3 Qc4 34.Kf2 b5
+35.Rc1 d2 36.Rd1 Qc2 37.Qe2 Nd4 38.Rxd2 Qc5 39.Qe3 Nxb3
+40.Rxd7 Rxd7 41.axb3 Qc2+ 42.Qe2 Qxb3 43.Ne3 Rd4 44.Nd5 a4
+45.Kg3 Qd3 46.Qe1 Qd2 47.Qg1 Qxb2 48.Qe3 Qd2 49.Qa3 Qg5+ 0-1

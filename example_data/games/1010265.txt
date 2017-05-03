@@ -1,0 +1,26 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Anita Gara"]
+[Black "Monika Grabics"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O h6 9. Be3 Bd7 10. f4 b5 11. Bd3 Qc7 12. Kb1
+Na5 13. h3 Nc4 14. Bxc4 Qxc4 15. e5 b4 16. exf6 bxc3 17. fxg7
+Bxg7 18. Qxc3 Qxc3 19. bxc3 Rc8 20. Rd3 e5 21. fxe5 dxe5
+22. Re1 O-O 23. Ne2 Rb8+ 24. Kc1 Be6 25. a4 Rfc8 26. a5 Rb5
+27. Bb6 Bf5 28. Rf3 h5 29. Ng3 Bg6 30. Ne4 Bh6+ 31. Be3 Bxe4
+32. Rg3+ Kh7 33. Bxh6 Bg6 34. Bg5 Rxa5 35. Bf6 Ra4 36. Kd2 Ra2
+37. Rc1 Rc5 38. Rg5 Rd5+ 39. Ke3 Bxc2 40. Rxe5 Rd3+ 41. Ke2
+Rd6 42. Be7 Bg6+ 43. Kf3 Rdd2 44. Bc5 Rxg2 45. Bd4 Rh2 46. Kg3
+Rag2+ 47. Kf3 h4 48. Re8 Bh5+ 49. Kf4 f6 50. Re7+ Kg6 51. Re6
+Rxh3 52. Rxf6+ Kh7 53. Rxa6 Rf3+ 54. Ke5 Bf7 55. Ke4 Rfg3
+56. Ra7 Kg6 57. Rb1 Rg4+ 58. Ke3 R2g3+ 59. Kd2 Rg2+ 60. Ke3
+R4g3+ 61. Ke4 Rg4+ 1/2-1/2

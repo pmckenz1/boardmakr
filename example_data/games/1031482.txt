@@ -1,0 +1,21 @@
+[Event "New York op 16"]
+[Site "04"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert Feldstein"]
+[Black "Jay R Bonin"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.O-O h6 5.d3 Bf5 6.Bd2 Nbd7 7.Qc1
+e5 8.Rd1 Qc7 9.Be1 Bd6 10.Nbd2 O-O 11.Qb1 a5 12.a3 Bh7 13.Kf1
+e4 14.Nd4 e3 15.N2f3 Ng4 16.Rc1 Nde5 17.h3 Nxf2 18.g4 Rae8
+19.Nh4 f5 20.gxf5 Qe7 21.Bxf2 exf2 22.Nhf3 Nxf3 23.Bxf3 Bxf5
+24.Nxf5 Rxf5 25.Bg4 h5 26.e4 hxg4 27.hxg4 Rf7 28.c4 Qh4
+29.cxd5 Qh3+ 30.Ke2 f1=Q+ 31.Kd2 Rf2+ 32.Kc3 Be5+ 33.Kc4 cxd5
+34.Kc5 Qe3+ 35.Kb5 Rxb2+ 36.Qxb2 Qfxd3+ 37.Ka4 Qexe4+ 38.Qb4
+axb4 39.Rc5 Ra8+ 40.Ra5 b5 0-1

@@ -1,0 +1,19 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Ernst Ludwig Klein"]
+[Black "Janos Balogh"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 d5 2. Nf3 c5 3. c4 cxd4 4. cxd5 Qa5+ 5. Qd2 Qxd5 6. Qxd4
+Qxd4 7. Nxd4 Bd7 8. Nc3 Nc6 9. Nxc6 Bxc6 10. e4 e6 11. Bb5 Rc8
+12. Bxc6+ Rxc6 13. Ke2 Bb4 14. Bd2 Nf6 15. f3 O-O 16. Rhd1
+Rfc8 17. a3 Bc5 18. Be3 e5 19. Rac1 Bxe3 20. Kxe3 Kf8 21. Ne2
+Ke7 22. Rxc6 Rxc6 23. Rc1 Kd6 24. Rxc6+ Kxc6 25. Kd3 a5
+26. Kc3 b5 27. b3 1/2-1/2

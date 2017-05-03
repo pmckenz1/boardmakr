@@ -1,0 +1,18 @@
+[Event "Madison WI"]
+[Site "Madison WI"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rudolph"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 a6 6.Bc4 d6 7.O-O
+Nc6 8.Qe2 b5 9.Bb3 Ra7 10.Rd1 Rd7 11.a3 Be7 12.Bf4 Nf6 13.Rd3
+O-O 14.h3 Qc7 15.Rad1 Ne5 16.R3d2 Nxf3+ 17.gxf3 Qc5 18.Kh2 Nh5
+19.Qe3 Nxf4 20.Qxc5 dxc5 21.Rxd7 Bxd7 22.Rxd7 Bf6 23.Rd2 Be5
+24.Nd1 c4 25.Ba2 Nd3 26.Kg1 Ne1 27.Rd7 Nxf3+ 28.Kf1 Ng5 0-1

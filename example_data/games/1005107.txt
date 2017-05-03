@@ -1,0 +1,20 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Markus Bawart"]
+[Black "Hannes Ganaus"]
+[ECO "C09"]
+[WhiteElo "2330"]
+[BlackElo "2275"]
+[PlyCount "63"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Be2
+Bd6 7. O-O Nf6 8. dxc5 Bxc5 9. Nb3 Bb6 10. Bg5 O-O 11. c3 Re8
+12. Bh4 h6 13. Re1 g5 14. Bg3 Ne4 15. Nfd4 f5 16. f4 g4
+17. Bd3 Qd6 18. Bc2 Bd7 19. Qd3 a6 20. Rad1 Nxd4 21. Nxd4 Bb5
+22. Qe3 Rac8 23. Qc1 Nxg3 24. Rxe8+ Rxe8 25. hxg3 Be2 26. Re1
+Bxd4+ 27. cxd4 Qb4 28. Bxf5 Qxd4+ 29. Kh2 Kf8 30. Qc7 Qxb2
+31. Qd6+ Kg7 32. Rb1 1-0

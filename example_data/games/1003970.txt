@@ -1,0 +1,23 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Ernst Gruenfeld"]
+[Black "Hermanis Karlovich Mattison"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. g3 Be7 6. Bg2 O-O
+7. O-O c6 8. e4 Qc7 9. h3 Re8 10. Be3 Bf8 11. Rc1 g6 12. d5 c5
+13. Ne1 Nb6 14. b3 Bg7 15. Nd3 a6 16. Kh2 Nfd7 17. Qd2 Nf8
+18. Rce1 f6 19. f4 Bd7 20. fxe5 fxe5 21. Rf3 Reb8 22. Ref1 Be8
+23. h4 h5 24. Bh3 Nbd7 25. Be6+ Kh7 26. Bg5 b5 27. Be7 b4
+28. Nd1 Nxe6 29. dxe6 Nb6 30. Bf8 Rb7 31. e7 Kg8 32. Qf2 Bh8
+33. Rf7 Qd7 34. Rf6 Nc8 35. Ne3 Nxe7 36. Bxe7 Qxe7 37. Rf8+
+Kh7 38. Nd5 Qe6 39. Qe3 Bg7 40. Nf6+ Bxf6 41. R8xf6 Qd7
+42. Ne1 Qd8 43. Qd2 Bc6 44. Rxd6 Qc7 45. Nf3 Re8 46. Ng5+ Kg7
+47. Rf7+ 1-0

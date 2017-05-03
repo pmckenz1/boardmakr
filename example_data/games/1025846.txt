@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Naestved (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Andrzej Sydor"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 h6 5.Bxf6 Qxf6 6.Nc3 Qd8 7.Qb3
+dxc4 8.Qxc4 Be7 9.g3 O-O 10.Bg2 Nd7 11.O-O a6 12.a4 c5 13.dxc5
+Bxc5 14.Ne4 Ba7 15.Rfd1 Nb6 16.Rxd8 Nxc4 17.Rxf8+ Kxf8 18.Rc1
+Nxb2 19.Nd6 Bd7 20.Rc7 Ke7 21.Nxf7 Kxf7 22.Rxd7+ Kf6 23.Nd2
+Rb8 24.Bxb7 Bb6 25.Ne4+ Kg6 26.Bxa6 Nxa4 27.Re7 Bc5 28.Rxe6+
+Kf5 29.Nxc5 Nxc5 30.Rc6 Nb3 31.Kg2 Nd4 32.Bd3+ Ke5 33.Rg6 Rb7
+34.f4+ Kd5 35.Kf2 Ne6 36.Bc4+ 1-0

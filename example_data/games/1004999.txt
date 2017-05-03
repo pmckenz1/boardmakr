@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Anh Dung Nguyen"]
+[Black "Michael Hoffmann"]
+[ECO "D82"]
+[WhiteElo "2485"]
+[BlackElo "2405"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5
+7. Rc1 dxc4 8. Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Qa5 11. O-O Nc6
+12. h3 Bf5 13. Qe2 Ne4 14. Nxe4 Bxe4 15. Nd2 Bd5 16. Nc4 Qb5
+17. Rfd1 Rad8 18. Qc2 Be6 19. Bg3 h6 20. Kh2 Nb4 21. Qe4 Qc6
+22. Qxc6 Nxc6 23. Rxd8 Rxd8 24. Rc2 Bf5 25. Rc1 Bd3 26. h4 h5
+27. Ba4 Rd5 28. Bxc6 bxc6 29. b3 Bf6 1/2-1/2

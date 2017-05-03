@@ -1,0 +1,20 @@
+[Event "London LB (02)"]
+[Site "London LB (02)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael John Basman"]
+[Black "Alexandar Budnikov"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. h3 d5 2. a3 e5 3. c4 d4 4. d3 a5 5. g4 Nc6 6. Nf3 h6
+7. Nbd2 Nf6 8. Bg2 Be7 9. g5 hxg5 10. Nxg5 Nh5 11. Ndf3 f6
+12. Ne4 g5 13. Qc2 Rg8 14. e3 dxe3 15. Bxe3 Ng7 16. d4 exd4
+17. O-O-O Nf5 18. Ng3 Qd7 19. Rhe1 Nxe3 20. fxe3 d3 21. Rxd3
+Qe6 22. Rd5 Bd7 23. Nf5 O-O-O 24. Qb3 Qe4 25. Ne5 Qxf5
+26. Nxc6 Bxc6 27. Rxf5 Bxg2 28. e4 g4 29. hxg4 Rxg4 30. Rxa5
+b6 31. c5 Kb7 32. c6+ Kb8 33. Ra8+ 1-0

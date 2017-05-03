@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.26"]
+[EventDate "1911.08.21"]
+[Round "5"]
+[Result "0-1"]
+[White "Oscar Chajes"]
+[Black "Paul F Johner"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Be3 Bb6 6.Nc3 d6 7.Qd2
+O-O 8.O-O Be6 9.Bb3 Qe7 10.Bg5 h6 11.Bh4 Nd8 12.Ne2 Bg4 13.Ng3
+Ne6 14.h3 Bxf3 15.Nf5 Qd8 16.Nxh6+ Kh7 17.Nxf7 Rxf7 18.Bxe6
+Bh5 19.Bxf7 Bxf7 20.Qg5 Qe7 21.Kh1 Rh8 22.a4 a5 23.c3 Kg8
+24.Rae1 c6 25.f4 Rh5 26.Qg3 Nxe4 27.dxe4 Qxh4 28.Qxh4 Rxh4
+29.fxe5 dxe5 30.Rf5 Bc7 31.Rf3 Rf4 32.b4 Bb3 33.Rxf4 exf4
+34.Ra1 Kf7 35.bxa5 Bc4 36.Rb1 Ba6 37.h4 Bxa5 38.c4 Ke6 39.g3
+fxg3 40.Kg2 Ke5 41.Kf3 Bd8 42.Kxg3 Bf6 43.Kf3 Bxh4 44.Ke3 Be7
+45.Kd3 Bc5 46.a5 Ke6 47.Rb2 g5 48.Rg2 Kf6 49.Rh2 g4 50.Rh5 g3
+51.e5 Kg6 52.Rh8 Kf5 53.Rh5+ Kf4 54.e6 g2 55.Rh4+ Kf5 0-1

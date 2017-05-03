@@ -1,0 +1,16 @@
+[Event "4, Philadelphia"]
+[Site "4, Philadelphia"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Joel Benjamin"]
+[Black "Nelson Gamboa"]
+[ECO "A18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.c4 e6 2.Nc3 Nf6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6
+7.Nf3 c5 8.Bd3 Bd7 9.Be4 Bc6 10.Qe2 Bxe4 11.Qxe4 Nc6 12.Rb1
+O-O-O 13.d4 Rd7 14.Bf4 Qg6 15.Qxc6+ 1-0

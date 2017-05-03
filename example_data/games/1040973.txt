@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.02.28"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Eldis Cobo Arteaga"]
+[Black "Erich Eliskases"]
+[ECO "E70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 c5 6.d5 e5 7.d6 Nc6
+8.h4 Nd4 9.h5 Qb6 10.hxg6 fxg6 11.Nf3 Qxd6 12.Bg5 b6 13.Bxf6
+Bxf6 14.Qd2 Bb7 15.O-O-O Rf7 16.Rh2 Raf8 17.Rdh1 Bd8 18.Kb1
+Rg7 19.Qe3 Qf6 20.Rh6 d6 21.Bd1 Qf4 22.Qd3 Bg5 23.Nxg5 Qxg5
+24.Qh3 Bc8 25.Qh2 Rff7 26.f3 Be6 27.Bb3 a6 28.Qg1 b5 29.cxb5
+Bxb3 30.axb3 axb5 31.Qf1 Qd2 32.Nxb5 Qc2+ 33.Ka1 Ra7+ 0-1

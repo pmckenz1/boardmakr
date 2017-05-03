@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Lim Chin Lee"]
+[Black "Bagyashree Sathe Thipsay"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. f4 Nf6
+7. Qe2 Nxd4 8. Qe5 Ne6 9. Nf3 Bd7 10. Qxc7 Nxc7 11. Ne5 Bb5
+12. Nd2 Bxd3 13. Nxd3 e6 14. Nf3 Bd6 15. Be3 O-O 16. O-O Ne4
+17. g4 Na6 18. f5 Nac5 19. Nf4 Bxf4 20. Bxf4 Nd3 21. Bc1 Rac8
+22. Rb1 b6 23. Be3 Rfe8 24. Rfd1 Ndc5 25. Bf4 Nd7 26. Rd4 h6
+27. h4 e5 28. Rxd5 Nef6 29. Rd2 Rc4 30. Bh2 Rxg4+ 31. Rg2 h5
+32. Rd1 Re7 33. Re1 Rxg2+ 34. Kxg2 Ng4 35. Nd4 Re8 36. Bg1 Nc5
+37. Nc6 Nd3 38. Re4 Nxb2 39. Nxa7 Nd1 40. Nb5 Rd8 41. Re2 Rd3
+42. Bxb6 Nxc3 43. Nxc3 Rxc3 44. a4 Ra3 45. a5 Kh7 46. Re4 g6
+47. f6 g5 48. hxg5 Kg6 49. Bc7 Kxg5 50. Bxe5 Ra2+ 51. Kf3 Kf5
+52. Bd4 Ra3+ 0-1

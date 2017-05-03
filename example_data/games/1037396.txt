@@ -1,0 +1,26 @@
+[Event "Chess Olympiad Final-A"]
+[Site "Lugano SUI"]
+[Date "1968.11.03"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Michael Janata"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1.d4 Nf6 2.Nf3 c5 3.Nc3 d5 4.dxc5 e6 5.Bg5 Bxc5 6.e3 Nbd7 7.a3
+O-O 8.Bd3 Be7 9.O-O Nc5 10.Re1 Bd7 11.Ne5 Rc8 12.e4 dxe4
+13.Nxe4 Nfxe4 14.Bxe7 Qxe7 15.Bxe4 Rfd8 16.Qe2 Nxe4 17.Qxe4
+Be8 18.Qe2 Qc5 19.Rac1 Rd6 20.Ng4 Rcd8 21.Red1 Rxd1+ 22.Rxd1
+Rxd1+ 23.Qxd1 f5 24.Ne3 f4 25.Nf1 Bc6 26.h3 Kf7 27.Qd3 Qe5
+28.b4 Qe4 29.Qxe4 Bxe4 30.c3 e5 31.Nd2 Bd3 32.f3 Ke6 33.c4 b6
+34.Kf2 g5 35.Ne4 h6 36.Nd2 Ke7 37.Ke1 Kd7 38.Kf2 Kc7 39.Ke1
+Kd6 40.Ne4+ Kc6 41.Nd2 Kd6 42.Kf2 Ke6 43.Ke1 Kf6 44.Kf2 Kf5
+45.Kg1 e4 46.fxe4 Bxe4 47.Nb3 Ke5 48.c5 Bd5 49.cxb6 axb6
+50.Nc1 Kd4 51.Kf2 Kc3 52.h4 Bc4 53.hxg5 hxg5 54.Ne2+ Bxe2
+55.Kxe2 g4 56.b5 Kb3 57.Kd3 Kxa3 58.Ke4 f3 59.gxf3 gxf3
+60.Kxf3 Kb4 61.Ke3 Kxb5 62.Kd3 Kb4 63.Kc2 Ka3 64.Kb1 b5 65.Ka1
+b4 0-1

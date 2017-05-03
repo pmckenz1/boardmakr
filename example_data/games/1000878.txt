@@ -1,0 +1,29 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.18"]
+[EventDate "1911.08.21"]
+[Round "21"]
+[Result "1-0"]
+[White "Milan Vidmar"]
+[Black "Charles Jaffe"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "163"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.e3 c6 6.Bd3 Bd6 7.O-O
+dxc4 8.Bxc4 Qc7 9.e4 e5 10.d5 Nb6 11.Bb3 O-O 12.Bg5 Nfd7
+13.Rc1 Nc5 14.Bc2 Bg4 15.b4 Ncd7 16.Bb3 Bxb4 17.Nb5 Qc8 18.d6
+Nf6 19.Bxf6 gxf6 20.a3 Qd8 21.axb4 cxb5 22.Qd3 Bxf3 23.gxf3
+Rc8 24.Kh1 Qd7 25.f4 Kh8 26.Rc5 Rg8 27.f5 Rc6 28.Rd1 Nc8
+29.Rxc6 bxc6 30.Qd2 Rg5 31.Bxf7 Nxd6 32.Be6 Nxe4 33.Bxd7 Nxd2
+34.Rxd2 Rg4 35.Rd6 Kg7 36.Bxc6 Rxb4 37.Rd7+ Kh6 38.Rxa7 Rf4
+39.f3 Rxf5 40.Be4 Rf4 41.Rxh7+ Kg5 42.Rg7+ Kh4 43.Rh7+ Kg5
+44.Rg7+ Kh4 45.Rf7 Kg5 46.Rg7+ Kh4 47.Bc6 b4 48.Kg2 f5 49.Be8
+Rc4 50.Rh7+ Kg5 51.Kg3 f4 52.Kh3 e4 53.Rh5+ Kf6 54.fxe4 Rxe4
+55.Bc6 Re5 56.Rh8 Re6 57.Bf3 Ke5 58.Rb8 Rh6+ 59.Kg2 Rg6+
+60.Kf1 Rh6 61.Kg2 Rg6+ 62.Kh1 Rd6 63.Rxb4 Rd2 64.Kg1 Ra2
+65.Re4+ Kf5 66.Rb4 Rd2 67.Rb5+ Kf6 68.Bg4 Kg6 69.Rf5 Rd4 70.h3
+Rb4 71.Kf2 Rb6 72.Kf3 Rf6 73.Rc5 Rf8 74.Bc8 Rf6 75.Bb7 Rf8
+76.Kg4 Kg7 77.Be4 Rf6 78.Bf5 f3 79.Kxf3 Kh6 80.Kf4 Rb6 81.Rc7
+Rb7 82.Rxb7 1-0

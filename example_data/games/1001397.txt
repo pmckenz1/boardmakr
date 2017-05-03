@@ -1,0 +1,25 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1851.??.??"]
+[EventDate "1851.??.??"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Marmaduke Wyvill"]
+[Black "Hugh Alexander Kennedy"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. c4 e6 2. e3 d5 3. g3 c5 4. Bg2 Nc6 5. Ne2 Nf6 6. d3 Bd6
+7. Nbc3 Bc7 8. O-O h5 9. Qb3 Na5 10. Qb5+ Nc6 11. cxd5 exd5
+12. e4 d4 13. Nd5 Nd7 14. Bg5 f6 15. Bf4 Be5 16. Bh3 Qa5
+17. Qb3 Nb6 18. Bxc8 Rxc8 19. Rfd1 Qa4 20. Qxa4 Nxa4 21. Bc1
+Nb6 22. Nef4 g5 23. Nxb6 axb6 24. Nd5 g4 25. Nxb6 Rc7 26. Bf4
+h4 27. Rac1 hxg3 28. fxg3 Rch7 29. Rd2 Bxf4 30. gxf4 g3
+31. Rxc5 gxh2+ 32. Kh1 Kd8 33. Nd5 Rh3 34. Rc1 f5 35. Rf1 fxe4
+36. dxe4 d3 37. Rff2 Nd4 38. Nb4 Re3 39. Nxd3 Rxe4 40. Rxh2
+Rxh2+ 41. Rxh2 Ne2 42. Rf2 Ke7 43. Kg2 Kf6 44. Kf3 Ra4
+45. Rxe2 Rxa2 46. Re5 Ra6 47. Rb5 Rd6 48. Ne5 b6 49. Nc4 Rd3+
+50. Ke4 Rd1 51. Rxb6+ Ke7 52. f5 Rc1 53. f6+ Kf7 54. Ne5+ Kg8
+55. f7+ Kh7 56. Rh6+ Kxh6 57. f8=Q+ 1-0

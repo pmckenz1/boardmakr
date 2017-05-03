@@ -1,0 +1,26 @@
+[Event "Stockholm it, SWE"]
+[Site "Stockholm SWE"]
+[Date "1937.01.17"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Bertil Sundberg"]
+[Black "Reuben Fine"]
+[ECO "D04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. b3 Nc6 5. Bb2 Bg4 6. Be2 e6
+7. Nbd2 Rc8 8. O-O Bd6 9. h3 Bf5 10. a3 cxd4 11. exd4 O-O
+12. Re1 Ne4 13. Bd3 Nxd2 14. Qxd2 Qf6 15. Bxf5 Qxf5 16. c4
+dxc4 17. bxc4 Rfd8 18. Qc3 Be7 19. Rad1 h5 20. d5 Bf6 21. Qd2
+b6 22. Bxf6 Qxf6 23. Qe2 Na5 24. Ne5 g6 25. d6 Nc6 26. Nf3 e5
+27. Qd2 Nd4 28. Nxe5 Rxd6 29. Qe3 Rcd8 30. Rd2 Qf5 31. Rxd4
+Rxd4 32. Nc6 R4d7 33. Nxd8 Rxd8 34. Qe7 Rd2 35. Qe3 Rd3
+36. Qe8+ Kg7 37. a4 Qf4 38. Qe7 Rd2 39. Rf1 a5 40. Qa7 Qd4
+41. Qe7 Rc2 42. Qe3 Rxc4 43. Rb1 Qxe3 44. fxe3 Rb4 45. Ra1 Kf8
+46. Kf2 Ke7 47. Kf3 Kd6 48. Ke2 Kc5 49. Kd3 Rb3+ 50. Ke4 Kb4
+51. g4 Rb2 52. gxh5 gxh5 53. Kd4 Rd2+ 54. Ke5 Rd3 55. Ke4 Ra3
+56. Rb1+ Kc5 57. Rb5+ Kc6 58. Rxh5 Rxa4+ 59. Kd3 Ra3+ 60. Kd4
+Ra1 0-1

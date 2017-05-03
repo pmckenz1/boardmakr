@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.25"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Orestes Rodriguez Vargas"]
+[Black "Fernando Braga"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 Na6
+7. Bg2 Nc7 8. f4 exf4 9. Bxf4 Nd7 10. Nf3 g5 11. Be3 g4
+12. Nd2 1/2-1/2

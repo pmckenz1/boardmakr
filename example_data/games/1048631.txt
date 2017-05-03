@@ -1,0 +1,18 @@
+[Event "Zurich Candidates"]
+[Site "Zurich SUI"]
+[Date "1953.10.21"]
+[EventDate "1953.08.30"]
+[Round "29"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Tigran Vartanovich Petrosian"]
+[ECO "E50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 c5 5.e3 O-O 6.Be2 b6 7.O-O
+Bb7 8.Qb3 cxd4 9.Qxb4 Nc6 10.Qa3 dxc3 11.Qxc3 Ne4 12.Qc2 f5
+13.a3 Rf6 14.b4 Rh6 15.Bb2 d6 16.Rad1 Qe7 17.Bd3 a5 18.b5 Nb8
+19.Bxe4 Bxe4 20.Qe2 Nd7 21.Ne1 e5 22.f3 Bb7 23.Qf2 Rc8 24.Rc1
+Qe6 25.f4 e4 26.Nc2 Nc5 27.Nd4 Qf7 28.Qg3 1/2-1/2

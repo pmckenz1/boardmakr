@@ -1,0 +1,24 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Sergey Makarichev"]
+[Black "Yuri Balashov"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.d4 Nf6 6.Bg5 cxd4
+7.Bb5+ Bd7 8.Qe2+ Qe7 9.Bxf6 Qxe2+ 10.Bxe2 gxf6 11.Nxd4 Nc6
+12.O-O O-O-O 13.Bh5 Nxd4 14.cxd4 Be6 15.f4 Bh6 16.Nc3 f5
+17.Rac1 Kb8 18.Ne2 Rc8 19.Kf2 Rc4 20.b3 Rxc1 21.Rxc1 Rc8
+22.Rxc8+ Kxc8 23.Ke3 Bf8 24.Nc1 a5 25.Nd3 Ba3 26.Ne5 f6 27.Nd3
+b6 28.g3 Kc7 29.Be2 Bc8 30.Ne1 Bc1+ 31.Kf2 Bd7 32.a4 Kd6
+33.Nf3 Bb2 34.Bd3 Ke7 35.Ke2 Kf7 36.Kd2 Ke7 37.Kc2 Ba1 38.Kd2
+Bb2 39.Bf1 Be8 40.Nh4 Bd7 41.Kc2 Bc1 42.Kd3 Bb2 43.Bh3 b5
+44.axb5 Bxb5+ 45.Kc2 Ba1 46.Bxf5 Bxd4 47.Bxh7 Bc5 48.Bd3 Bd7
+49.Bf5 Bb5 50.Bd3 Bd7 51.f5 Be3 52.Nf3 Bc6 53.Kc3 Kd6 54.Nd4
+1/2-1/2

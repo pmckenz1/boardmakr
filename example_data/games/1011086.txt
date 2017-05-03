@@ -1,0 +1,21 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Stig Tjomsland"]
+[Black "Helge Andreas Nordahl"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. Nf3 d6 2. d4 Nf6 3. h3 g6 4. c3 Bg7 5. Bf4 O-O 6. e3 c5
+7. Qb3 b6 8. d5 e5 9. Bh2 Na6 10. c4 Nc7 11. Nc3 Rb8 12. Be2
+a6 13. Qa3 b5 14. b4 e4 15. Nd2 a5 16. bxc5 b4 17. Qxa5 bxc3
+18. Nb3 Ra8 19. Qb6 Ra6 20. Qb8 Nd7 21. cxd6 Rxd6 22. Qa7 Ne5
+23. O-O Na6 24. Kh1 Rd7 25. Qd4 Nf3 26. Qxe4 Nxh2 27. Kxh2 Re7
+28. Qf3 Bf5 29. Nd4 Be4 30. Qg3 Nb4 31. a3 Bxd4 32. exd4 Nc2
+33. Ra2 Nxd4 34. Qxc3 Nxe2 35. Rxe2 Bxg2 36. Rxe7 Bxf1 37. Re1
+Qc7+ 38. d6 Qxc4 39. Qf3 Bd3 40. Qf6 Bf5 41. Re7 Qf1 0-1

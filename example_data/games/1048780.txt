@@ -1,0 +1,20 @@
+[Event "Amsterdam Candidates"]
+[Site "Amsterdam NED"]
+[Date "1956.04.16"]
+[EventDate "1956.03.27"]
+[Round "11"]
+[Result "1-0"]
+[White "Vasily Smyslov"]
+[Black "Efim Geller"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 4.d4 O-O 5.Nc3 c6 6.d5 d6 7.Nf3 e5
+8.O-O cxd5 9.cxd5 Nbd7 10.a4 a5 11.Rb1 Nc5 12.Nd2 Bd7 13.b3
+Rc8 14.Ba3 Ne8 15.Nce4 b6 16.Nc4 Bf5 17.Nxc5 bxc5 18.e4 Bd7
+19.Qd2 f5 20.Qxa5 Qg5 21.Nb6 Rd8 22.b4 cxb4 23.Qxb4 Qh5 24.Qc3
+fxe4 25.Nxd7 Rxd7 26.Bxe4 Nf6 27.Bg2 e4 28.Qc4 e3 29.h3 Qg5
+30.Rb3 Re8 31.Bc1 exf2 32.Rxf2 Qh5 33.Bb2 Rf7 34.Rbf3 Re1+
+35.Rf1 Re4 36.Qc2 Re5 37.Bxe5 dxe5 38.Qc8+ 1-0

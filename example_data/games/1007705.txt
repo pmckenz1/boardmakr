@@ -1,0 +1,22 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.26"]
+[EventDate "1927.06.26"]
+[Round "1"]
+[Result "1-0"]
+[White "Arpad Vajda"]
+[Black "Carl Ahues"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7
+7. Nbd2 O-O 8. Nf1 b5 9. Bc2 d5 10. Qe2 Re8 11. h3 dxe4
+12. dxe4 Be6 13. Bd2 Bc4 14. Qe3 Nd7 15. b3 Be6 16. g4 Nf8
+17. Ng3 Ng6 18. Nf5 Nf4 19. Kf1 f6 20. Ne1 Bf8 21. Rd1 g6
+22. Qf3 Qc8 23. Bxf4 exf4 24. Nd4 Nxd4 25. cxd4 g5 26. Qd3 Qd7
+27. Nf3 Bf7 28. h4 Bg6 29. hxg5 Bxe4 30. Qxe4 Rxe4 31. Bxe4
+Re8 32. Bxh7+ Kg7 33. Bf5 Qd5 34. Rh7+ Kg8 35. gxf6 Qxf5
+36. gxf5 Kxh7 37. Kg2 Bd6 38. Ng5+ Kh6 39. Nf7+ Kh7 40. Rh1+
+Kg8 41. Ng5 Re2 42. Rh7 Rxa2 43. f7+ Kf8 44. Ne6+ 1-0

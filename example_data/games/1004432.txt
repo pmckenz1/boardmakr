@@ -1,0 +1,21 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "15"]
+[Result "1-0"]
+[White "Hans Mueller"]
+[Black "Gyula Kluger"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c5 4. cxd5 cxd4 5. Nxd4 Nxd5 6. e4
+Nf6 7. Nc3 e5 8. Ndb5 a6 9. Qxd8+ Kxd8 10. Na3 Bxa3 11. bxa3
+Nbd7 12. Bc4 Ke8 13. Be3 b6 14. Nd5 Rb8 15. Nxf6+ Nxf6 16. f3
+b5 17. Bb3 Be6 18. Bxe6 fxe6 19. Rc1 Kd7 20. Ke2 Rhc8
+21. Rhd1+ Ke8 22. Rd6 Ke7 23. Rxa6 Rxc1 24. Bxc1 h6 25. Be3
+Nd7 26. Kd2 Rb7 27. Kc2 Nb8 28. Ra7 Rxa7 29. Bxa7 Nc6 30. Bc5+
+Kf7 31. Kb3 Ke8 32. a4 bxa4+ 33. Kxa4 g6 34. Kb5 Kd7 35. Kb6
+Nb8 36. a4 Kc8 37. Bd6 Nd7+ 38. Kc6 1-0

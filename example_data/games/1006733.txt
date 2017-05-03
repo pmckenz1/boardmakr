@@ -1,0 +1,22 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Jacob Antoni Brekke"]
+[Black "Sven Johan Bjurulf"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Bxd2+ 5.Nbxd2 d5 6.e3 Nbd7
+7.Bd3 c5 8.O-O Qb6 9.Qc2 O-O 10.Nb3 dxc4 11.Bxc4 cxd4 12.Nbxd4
+Rd8 13.Rad1 Nc5 14.Ne5 Bd7 15.Ndf3 Be8 16.b3 Qa5 17.Rxd8 Rxd8
+18.Rd1 Rxd1+ 19.Qxd1 b5 20.Bf1 Qxa2 21.Qd8 Nce4 22.Ng4 Qxb3
+23.Nd4 Qd5 24.Qb8 a6 25.f3 Nd6 26.Nxf6+ gxf6 27.Bd3 Kg7 28.Qb6
+e5 29.Be4 Nxe4 30.Nf5+ Kf8 31.fxe4 Qc6 32.Qd8 Qe6 33.Qd1 Bc6
+34.Qh5 Qb3 35.Qh6+ Ke8 36.Qxf6 Qd1+ 37.Kf2 Qc2+ 38.Kg3 Qc5
+39.Nd6+ Kd7 40.Qxf7+ Kd8 41.Qf8+ Kc7 42.Qc8+ Kb6 43.Qd8+ Ka7
+44.Qe7+ Kb8 1/2-1/2

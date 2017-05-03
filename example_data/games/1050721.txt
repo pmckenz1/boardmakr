@@ -1,0 +1,16 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Aivars Gipslis"]
+[Black "Alexey Sokolsky"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 dxe4 5.Bxe4 Nf6 6.Bf3 Nbd7
+7.Ne2 e5 8.O-O O-O 9.Bg5 Bd6 10.Ne4 h6 11.Bxf6 Nxf6 12.Nxd6
+Qxd6 13.dxe5 Qxe5 14.Qd4 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Capelle la Grande"]
+[Site "Capelle la Grande"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Iivo Nei"]
+[Black "Efim Geller"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bg5 h6 6.Bxf6 Bxf6
+7.cxd5 exd5 8.e3 O-O 9.Be2 Be6 10.O-O Nd7 11.Rc1 c5 12.dxc5
+Nxc5 13.Nd4 Qb6 14.Na4 Nxa4 15.Qxa4 Rac8 16.b3 Bxd4 17.Qxd4
+Qxd4 18.exd4 1/2-1/2

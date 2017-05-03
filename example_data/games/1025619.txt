@@ -1,0 +1,25 @@
+[Event "Moscow2"]
+[Site "Moscow2"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ashot Anastasian"]
+[Black "Yuri Balashov"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6 7.Bh4
+c5 8.Nf3 cxd4 9.Nxd4 Nc6 10.Nxc6 bxc6 11.e3 O-O 12.Rd1 Qd6
+13.Be2 Ne4 14.O-O Qc5 15.Rc1 Bxc3 16.bxc3 Re8 17.c4 d4 18.Bd3
+Nd6 19.exd4 Qxd4 20.Bg3 Ne4 21.Bxe4 Qxe4 22.Qa4 Bf5 23.Qa5 Bg6
+24.a4 Qf5 25.c5 Re4 26.h3 Qd5 27.Qa6 Qd7 28.Rfd1 Qc8 29.Qa5
+Bf5 30.Rd6 Qb7 31.Qc3 Rae8 32.Kh2 h5 33.Qf3 Bg6 34.h4 Qa6
+35.Qb3 Kh7 36.a5 Re1 37.Qc4 Qxa5 38.Rxc6 Rxc1 39.Qxc1 Re1
+40.Qb2 Rb1 41.Qe2 Qa1 42.Bf4 Qa4 43.Qf3 Rb3 44.Be3 Qxh4+
+45.Qh3 Qe4 46.Ra6 Qb7 47.Rd6 Rb4 48.c6 Qe7 49.Rd7 Qe5+ 50.f4
+Qc3 51.c7 Rc4 52.Rd5 f5 53.Qg3 Rxc7 54.Rd6 Bf7 55.Ra6 Re7
+56.Bf2 Qxg3+ 57.Kxg3 Bd5 58.Rxa7 Re2 59.Bd4 Rxg2+ 60.Kh3 Rg4
+61.Be5 h4 62.Rc7 Bg2+ 63.Kh2 h3 64.Rc3 Kh6 65.Rg3 1/2-1/2

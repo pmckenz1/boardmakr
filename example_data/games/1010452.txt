@@ -1,0 +1,28 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "0-1"]
+[White "Ramachandran Ramesh"]
+[Black "Ponnuswamy Konguvel"]
+[ECO "B39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "144"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6
+7. Nc3 Ng4 8. Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 Qa5 11. Be2 b6
+12. O-O Bb7 13. f3 g5 14. Rf2 h5 15. Bf1 Qe5 16. Rd2 d6
+17. Nd5 Kf8 18. b4 Bh6 19. c5 bxc5 20. bxc5 dxc5 21. Rxc5 Nxc5
+22. Bxc5 Bxd5 23. Bd4 Qc7 24. Bxh8 Be6 25. Rc2 Rd8 26. Rxc7
+Rxd1 27. Bc3 g4 28. Kf2 Rc1 29. a4 gxf3 30. gxf3 Bf4 31. Rc5
+f6 32. Bd4 Rd1 33. Bc4 Bxc4 34. Rxc4 Rd2+ 35. Kf1 Rxh2
+36. Bxa7 h4 37. Bb8 e5 38. Ba7 h3 39. Rc8+ Kg7 40. Rc7+ Kg6
+41. Rc8 Rh1+ 42. Kf2 h2 43. Kg2 Ra1 44. Rh8 Rxa4 45. Bc5 Ra2+
+46. Kh1 Ra1+ 47. Kg2 Kf7 48. Rh7+ Kg6 49. Rh3 Rc1 50. Bb6 Kf7
+51. Ba7 Ke6 52. Rh7 Rc6 53. Bf2 Rc2 54. Kf1 Kd6 55. Bb6 Kc6
+56. Bf2 Kb5 57. Rb7+ Kc6 58. Rh7 Ra2 59. Rh8 Ra1+ 60. Kg2 Kb5
+61. Rxh2 Bxh2 62. Kxh2 Kc4 63. Bh4 Ra6 64. Kg3 Kd3 65. Kg4 Ke3
+66. Kg3 Ra8 67. Kg4 Rf8 68. Be1 Rg8+ 69. Kf5 Kxf3 70. Bb4 Rg4
+71. Be7 Rf4+ 72. Ke6 Kxe4 0-1

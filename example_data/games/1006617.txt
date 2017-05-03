@@ -1,0 +1,24 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Adolf Georg Olland"]
+[Black "Ernst Gruenfeld"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.e5
+Ne4 8.Nxd4 O-O 9.Re1 Nc5 10.Bxc6 dxc6 11.Nc3 Re8 12.Bf4 Bf8
+13.Qd2 Ne6 14.Rad1 Nxd4 15.Qxd4 Qxd4 16.Rxd4 Bf5 17.Re2 h6
+18.Rd1 Rad8 19.Kf1 Bb4 20.Rb1 Rd7 21.Nd1 Red8 22.Ne3 Be6 23.a3
+Be7 24.Ke1 b5 25.Rd1 c5 26.Red2 Rxd2 27.Rxd2 Rd4 28.Bg3 g5
+29.f3 Kg7 30.h3 Kg6 31.Bf2 c6 32.g4 Bd8 33.Ng2 Rxd2 34.Kxd2
+Bd5 35.Bxc5 Bxf3 36.Ne3 Bc7 37.Bd6 Bb6 38.b3 h5 39.c4 Bxe3+
+40.Kxe3 hxg4 41.cxb5 cxb5 42.hxg4 Bxg4 43.a4 bxa4 44.bxa4 a5
+45.Ke4 Bd7 46.Bc7 Bc6+ 47.Kd4 g4 48.Bxa5 Kf5 49.Ke3 g3 50.Ke2
+Bg2 51.Bb6 Kg4 52.a5 Kh3 53.a6 Bc6 54.a7 Kh2 55.Ke3 g2 56.Kf4
+g1=Q 57.Bxg1+ Kxg1 1/2-1/2

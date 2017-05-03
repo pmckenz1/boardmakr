@@ -1,0 +1,28 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Tal Shaked"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "156"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+a6 8.h3 Rb8 9.e4 b5 10.e5 dxe5 11.dxe5 Qxd1 12.Rxd1 Nd7 13.e6
+fxe6 14.cxb5 axb5 15.Bf4 b4 16.Na4 Nb6 17.Nxb6 Rxb6 18.Rac1
+Bxb2 19.Bxc7 Ra6 20.Rc5 Rf5 21.Rc4 Rd5 22.Nd2 Bc3 23.Bf4 Bd7
+24.Bxd5 exd5 25.Rc5 Rxa2 26.Rxd5 Bxh3 27.Ne4 Bf5 28.Nxc3 bxc3
+29.Rc5 c2 30.Re1 Ra6 31.Kg2 Kf7 32.Bg5 Rb6 33.g4 Bxg4 34.Rxc2
+Be6 35.Rd2 Rb5 36.f4 Bd5+ 37.Kf2 e6 38.Rc1 Rb6 39.Rc3 Kg7
+40.Rh3 Rb1 41.Bh6+ Kf6 42.Rc3 Rb6 43.Ra3 Kf5 44.Rg3 Rb1 45.Rh3
+Kg4 46.Rg3+ Kf5 47.Rh3 Na5 48.Bg7 Nc4 49.Rdd3 Nd6 50.Rxh7 Ne4+
+51.Ke3 Re1+ 52.Kd4 Nf2 53.Rd2 Re4+ 54.Kc5 Rxf4 55.Kb6 Ne4
+56.Rc2 g5 57.Bd4 e5 58.Ba1 Rf3 59.Bb2 Rb3+ 60.Ka5 Rb7 61.Rh8
+Ra7+ 62.Kb6 Rb7+ 63.Ka6 Rf7 64.Re8 Rf6+ 65.Ka5 Re6 66.Rd8 Bb3
+67.Rc1 g4 68.Rf1+ Kg5 69.Bc1+ Kh4 70.Rd3 g3 71.Rh1+ Kg4
+72.Rxb3 Nf2 73.Rh8 Rg6 74.Be3 Kf3 75.Rf8+ Kg2 76.Bxf2 gxf2
+77.Rb2 e4 78.Rfxf2+ Kh1 1-0

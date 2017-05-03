@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Groningen NED"]
+[Date "1995.12.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Nenad Ristic"]
+[Black "Alexander Baburin"]
+[ECO "D22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.Qe2 b5 7.Bd3
+cxd4 8.exd4 Nf6 9.O-O Be7 10.Bg5 Bb7 11.Nc3 O-O 12.Rad1 Nbd7
+13.Rfe1 Rc8 14.d5 Bxd5 15.Nxd5 Nxd5 16.Bxh7+ Kxh7 17.Rxd5 Kg8
+18.Qd3 exd5 19.Bxe7 Nc5 20.Qd1 Qb6 21.Bxf8 Ne4 22.Rf1 Kxf8
+23.Ne5 Nf6 24.h3 g6 25.Kh2 Kg7 26.f4 Qe3 27.Ng4 Nxg4+ 28.Qxg4
+Rc4 29.Qg5 Qe2 30.Rf3 Qxb2 31.Qxd5 Qd4 32.Qxd4+ Rxd4 33.Ra3
+Rxf4 1/2-1/2

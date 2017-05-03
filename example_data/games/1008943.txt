@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Bagyashree Sathe Thipsay"]
+[Black "Jack Rudd"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d3 Nf6 6. O-O O-O
+7. exf5 d6 8. d4 exd4 9. cxd4 Bb6 10. a4 a5 11. Bxc6 bxc6
+12. Qc2 Qe8 13. Nbd2 Qh5 14. Qxc6 Bxf5 15. Ra3 Rae8 16. Re3
+Rxe3 17. fxe3 Bd3 18. Re1 g5 19. Qc3 Bg6 20. Nf1 g4 21. N3d2
+Nd5 22. Qc4 Qf5 23. Qe2 Nb4 24. Nc4 Ba7 25. Rd1 h5 26. Na3 h4
+27. Bd2 Nd3 28. Be1 Nxb2 29. Rc1 Nxa4 30. Bxh4 Rf7 31. Qa6 Bb6
+32. Nc4 Qd3 33. Qc8+ Kh7 34. Nxb6 cxb6 35. Qxg4 Nc3 36. Re1 b5
+37. Bg5 Qf5 38. Qh4+ Kg8 39. Bf4 Qf6 40. Qg4 b4 41. Qc8+ Kg7
+42. Qc4 Qe7 43. Ra1 d5 44. Qa6 b3 45. Be5+ Kh7 46. Nd2 b2
+47. Re1 Qh4 48. g3 Qh3 49. Bf4 b1=Q 50. Nxb1 Be4 0-1

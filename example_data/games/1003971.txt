@@ -1,0 +1,23 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Ernst Gruenfeld"]
+[Black "Ladislav Prokes"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e3 c5
+7. dxc5 Bxc5 8. b4 Be7 9. Bb2 d6 10. Bd3 Nbd7 11. Qc2 b6
+12. O-O Bb7 13. e4 Rc8 14. Qa4 Nh5 15. Rfe1 Bc6 16. Qb3 Bf6
+17. Nd4 Bxd4 18. Bxd4 Ne5 19. Bf1 Qg5 20. Qe3 Qg6 21. h3 f5
+22. Bxe5 dxe5 23. Nf3 Bxe4 24. Nxe5 Qe8 25. f3 Ba8 26. Rac1
+Qe7 27. Nd3 Qh4 28. c5 Bd5 29. cxb6 axb6 30. Qxb6 Rxc1
+31. Rxc1 Qg5 32. Rc7 h6 33. a4 Bxf3 34. Qxe6+ Kh7 35. Qe7 Rf6
+36. Qe1 Be4 37. Rc3 Rg6 38. Qf2 Qf6 39. Qc5 Rg3 40. Ne5 Qg5
+41. Rxg3 Qxg3 42. Nf3 Nf4 43. Qe3 Nxh3+ 44. Kh1 Nf2+ 45. Kg1
+Nh3+ 46. Kh1 Nf2+ 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Daniel John King"]
+[Black "Guenther Beikert"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nxc6
+bxc6 7. Ba4 g6 8. O-O Bg7 9. Nc3 Ne7 10. Bg5 h6 11. Bh4 g5
+12. Bg3 Ng6 13. f3 O-O 14. Rb1 Kh7 15. Ne2 c5 16. c3 f5
+17. exf5 Bxf5 18. Bc2 Qf6 19. b4 Bxc2 20. Qxc2 Qf5 21. Rfc1
+Rab8 22. Qxf5 Rxf5 23. Bf2 c4 24. Nd4 Bxd4 25. Bxd4 Nf4
+26. Re1 Rf7 27. Rbd1 Nd3 28. Re4 c5 29. bxc5 dxc5 30. Be3 Rfb7
+31. h4 Rb1 32. Rxb1 Rxb1+ 33. Kh2 Rb2 34. hxg5 hxg5 35. Rxc4
+Rxa2 36. Kg3 Kg6 37. Rg4 Ne1 38. Bf2 Nd3 39. Be3 Ne1 40. Kh3
+Re2 41. Bxc5 Nd3 42. Bxa7 Nf4+ 43. Kh2 Rc2 44. Be3 Kf5
+45. Bxf4 gxf4 46. Rg8 Rxc3 47. Ra8 Rc2 48. Ra5+ Kf6 49. Kh3
+Rb2 1/2-1/2

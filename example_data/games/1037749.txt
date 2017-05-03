@@ -1,0 +1,17 @@
+[Event "CAN"]
+[Site "CAN"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Tom O'Donnell"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 c5 2.g3 Nc6 3.Bg2 g6 4.c4 Bg7 5.Nc3 e6 6.Nge2 Nge7 7.a3
+O-O 8.Rb1 a5 9.d3 Nd4 10.O-O Nec6 11.b3 d6 12.Nxd4 Nxd4 13.Ne2
+Bd7 14.a4 Bc6 15.Be3 Qd7 16.Nxd4 Bxd4 17.Bxd4 cxd4 18.Qd2 f5
+19.f3 e5 20.Bh3 Qg7 21.Rbd1 1/2-1/2

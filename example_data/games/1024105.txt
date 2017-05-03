@@ -1,0 +1,20 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1969.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Gheorghe Mititelu"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.d5 Bxc3+ 6.bxc3 d6 7.e3
+e5 8.Qc2 Qe7 9.Be2 O-O 10.Nd2 e4 11.g4 Bxg4 12.Bxg4 Nxg4
+13.Qxe4 Ne5 14.Qf5 Qh4 15.Rg1 Nbd7 16.Qg5 Qxg5 17.Rxg5 Nb6
+18.Rb1 f6 19.Rxe5 fxe5 20.a4 Nxa4 21.Ne4 Rad8 22.Rxb7 Rf7
+23.Rxf7 Kxf7 24.Kd2 h6 25.Kd3 Ke7 26.f4 exf4 27.exf4 Rf8
+28.Ng3 Nb6 29.f5 Nd7 30.Bf4 g5 31.Bc1 Ne5+ 32.Ke4 a5 33.Nh5 a4
+0-1

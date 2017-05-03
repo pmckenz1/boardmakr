@@ -1,0 +1,22 @@
+[Event "Hastings cg"]
+[Site "Hastings cg"]
+[Date "1895.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Isidor Gunsberg"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e5 2.f4 d5 3.d4 exd4 4.Qxd4 Nf6 5.exd5 Qxd5 6.Qe3+ Be6
+7.Nc3 Qc5 8.Bd3 Nc6 9.f5 Qxe3+ 10.Bxe3 Bd7 11.O-O-O Ne5 12.Bd4
+Nxd3+ 13.Rxd3 O-O-O 14.Nge2 Bxf5 15.Rf3 Bg6 16.Rxf6 gxf6
+17.Bxf6 Bh6+ 18.Kb1 Rhe8 19.Bxd8 Rxd8 20.Rd1 Rxd1+ 21.Nxd1 Be4
+22.g3 Bf3 23.Ndc3 Be3 24.b3 Kd7 25.Nc1 a6 26.Nd3 Ke6 27.Ne1
+Bc6 28.Nd1 Bg1 29.h3 Bh2 30.g4 Bg3 31.Nd3 Bg2 32.N1f2 Kf6
+33.Kc1 Kg5 34.Kd2 Bxf2 35.Nxf2 Kf4 36.Ke2 Kg3 37.Ke3 Bxh3
+38.Nxh3 Kxh3 39.Kf4 f6 40.c4 c5 41.Kf3 h6 42.a3 a5 43.Kf4 Kg2
+0-1

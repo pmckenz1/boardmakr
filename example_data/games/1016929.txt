@@ -1,0 +1,30 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lev Alburt"]
+[Black "Tamas Georgadze"]
+[ECO "B36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4
+7.Qxd4 d6 8.Be3 Bg7 9.f3 O-O 10.Qd2 Qa5 11.Rc1 Bd7 12.Bd3 a6
+13.O-O Rfc8 14.b3 b5 15.Rc2 Be6 16.cxb5 axb5 17.Rfc1 b4 18.Na4
+Rxc2 19.Rxc2 Rb8 20.Rc6 Nd7 21.Bf1 f5 22.exf5 Qxf5 23.Bd3 Qa5
+24.f4 Bf6 25.h3 Kg7 26.Be4 Rb5 27.Qc2 Bd5 28.Rc8 Bxe4 29.Qxe4
+Rd5 30.Kh2 Rd1 31.Qe6 Nf8 32.Qg4 Re1 33.Bd2 Ra1 34.Rc2 Qa7
+35.Bxb4 h5 36.Qe2 Qg1+ 37.Kg3 h4 38.Kg4 Rf1 39.Bc3 Qh2
+40.Qxe7+ Kh6 41.Qe3 Nh7 42.Rf2 d5 43.Bxf6 Nxf6+ 44.Kxh4 Rxf2
+45.Qxf2 Ne4 46.Qf3 Qg1 47.Kg4 {? A gross error that should
+have lost. Although White has three extra pawns, it is only
+Black who has winning chances. However, White can salvage this
+position with with 47.Qe2!!, leaving Black with no better than
+a draw.} Qe1 48.h4 Nf6+ 49.Kh3 Qh1+ 50.Kg3 Ne4+ 51.Kg4 Nf6+
+{?? Georgadze must have been so delighted realizing that he
+was not going to lose, that he overlooked the win. 51...Qh2!
+would have won the game; as there's no good defense to
+...Nf6#} 1/2-1/2

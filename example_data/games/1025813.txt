@@ -1,0 +1,22 @@
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Zoltan Vancsura"]
+[Black "Gerardo F Barbero"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f4 h6 10.Bh4 g5 11.fxg5 Ng4 12.Nf3 hxg5
+13.Bg3 Be7 14.h3 Nge5 15.Nxe5 Nxe5 16.Be2 Qc7 17.Rhe1 Rh7
+18.Qd4 b5 19.a3 Rb8 20.Rd2 a5 21.Red1 f6 22.Bxe5 fxe5 23.Qf2
+b4 24.axb4 axb4 25.Nb1 Ra8 26.Rf1 Ra1 27.Bg4 Qc4 28.b3 Qa6
+29.Rdd1 Bb5 30.Rfe1 Qa2 31.Kd2 Qxc2+ 32.Kxc2 Ra2+ 33.Kc1 Rxf2
+34.Rd2 Rf6 35.Ra2 Bd8 36.Bf3 Bb6 37.Ra8+ Kd7 38.Nd2 Kc6 39.Nc4
+Bd4 40.Kc2 Rff7 41.Rc1 Ra7 42.Rg8 Bxc4 43.bxc4 Ra2+ 44.Kd1 Bc3
+45.Rc2 Rha7 46.Rxg5 b3 47.Rxc3 Ra1+ 48.Kd2 R7a2+ 49.Ke3 b2 0-1

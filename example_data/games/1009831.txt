@@ -1,0 +1,19 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Aleksandar H Wohl"]
+[Black "Leonid Sandler"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. O-O Nf6 5. d4 cxd4 6. Nxd4
+O-O 7. c4 Nc6 8. Nc2 d6 9. Nc3 Be6 10. Ne3 Qd7 11. Re1 Rfc8
+12. Bd2 Rab8 13. Rc1 Nd4 14. Ncd5 Nf5 15. b3 Nxe3 16. Bxe3
+Nxd5 17. Bxd5 a6 18. Ba7 Ra8 19. Bb6 Bxd5 20. Qxd5 Qc6 21. Qa5
+Qe4 22. f3 Bd4+ 23. Kg2 Qe3 24. Bxd4 Qxd4 25. e3 Qb2+ 26. Kg1
+Rc5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Ch Spain (team)"]
+[Site "Spain"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Visier Segovia"]
+[Black "Gerardo F Barbero"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.b3 e5 2.Bb2 d6 3.g3 g6 4.d4 Bg7 5.Bg2 Nd7 6.e3 f5 7.Nf3 e4
+8.Ng1 Ndf6 9.Nc3 Ne7 10.Qd2 Be6 11.Nh3 h6 12.f4 c6 13.a4 Kf7
+14.a5 Qd7 15.O-O b5 16.axb6 axb6 17.Nf2 b5 18.Rxa8 Rxa8 19.Ra1
+Rxa1+ 20.Bxa1 Qa7 21.Bb2 g5 22.Ncd1 Ned5 23.Bf1 gxf4 24.gxf4
+b4 25.Qc1 Nd7 26.Be2 Bf6 27.c4 bxc3 28.Nxc3 N7b6 29.Bc4 Nxc4
+30.bxc4 Nxc3 31.Bxc3 Bxc4 0-1

@@ -1,0 +1,19 @@
+[Event "05, CAN zt"]
+[Site "05, CAN zt"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Bryon Nickoloff"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nc6 5.d4 cxd4 6.Nxd4 g6 7.Nc3
+Bg7 8.Be3 Nf6 9.f3 O-O 10.Qd2 Nxd4 11.Bxd4 Be6 12.b3 a6 13.Ba4
+Rc8 14.O-O Bxc4 15.bxc4 Rxc4 16.Qd3 Qc7 17.Rac1 Rc8 18.Ne2 Bh6
+19.Be3 Bxe3+ 20.Qxe3 Rc5 21.Bb3 Nd7 22.f4 Qb6 23.Rb1 Rb5
+24.Qxb6 Rxb6 25.Kf2 Kg7 26.Ke3 Nf6 27.Kd3 Rb4 28.Nc3 Nd7
+29.Bd5 Nc5+ 30.Ke3 Rxb1 31.Rxb1 e6 32.Bb3 b5 33.Bd1 1-0

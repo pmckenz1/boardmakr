@@ -1,0 +1,25 @@
+[Event "EUCup Cheliabinsk-Petrosian (Ribli)"]
+[Site "EUCup Cheliabinsk-Petrosian Ribli"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Semen I Dvoirys"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 f5 6.e4 Nf6 7.Nge2
+O-O 8.O-O d6 9.Nd5 Ne7 10.Nxf6+ Bxf6 11.Bh6 Rf7 12.Qd2 Be6
+13.Rac1 Kh8 14.Be3 Qd7 15.exf5 gxf5 16.f4 c6 17.b3 b6 18.fxe5
+dxe5 19.d4 Rd8 20.Rcd1 Ng6 21.dxe5 Qxd2 22.Rxd2 Nxe5 23.Rxd8+
+Bxd8 24.Nd4 Bd7 25.Bh3 Kg7 26.Bxf5 Bxf5 27.Rxf5 Rxf5 28.Nxf5+
+Kf6 29.Nd4 c5 30.Nb5 a6 31.Nc3 Kf5 32.h3 h5 33.Kf2 Nd3+ 34.Kf3
+Ne5+ 35.Ke2 Nc6 36.Bf4 h4 37.Nd5 hxg3 38.Bxg3 Ke4 39.Nc3+ Kd4
+40.Be1 Nb4 41.Bd2 Bh4 42.a4 Nc6 43.Nb1 Ke4 44.Bc3 Nd4+ 45.Bxd4
+Kxd4 46.Kd2 Bg5+ 47.Kc2 Bd8 48.Nc3 Bh4 49.a5 bxa5 50.Na4 Bg5
+51.Kb2 Bd8 52.Ka3 Ke3 53.Nc3 Kd3 54.Nd5 Ke4 55.Ka4 Ke5 56.h4
+Bxh4 57.Kxa5 Kd4 58.Kxa6 Kd3 59.Kb5 Kc2 60.b4 cxb4 61.Nxb4+
+Kc3 62.c5 Kd4 63.c6 Bg3 64.Na6 1/2-1/2

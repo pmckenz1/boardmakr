@@ -1,0 +1,30 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.04"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "James Moore Hanham"]
+[Black "William Henry Krause Pollock"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 {His
+e-pawn becomes weak and subject to inconvenient attack after
+this.} 5.exd5 Nxd5 6.O-O Be7 7.Re1 Bg4 8.Bb5 Qd6 9.Nbd2 f6
+10.Ne4 Qd7 11.c4 Ndb4 12.c5 O-O-O 13.a3 Nxd3 {The two Pawns
+which he obtains for the exchange are separated on the two
+wings and especially so early in the game, they are no
+equivalent.} 14.Bxd3 Qxd3 15.Nd6+ Rxd6 16.cxd6 Qxd1 17.Rxd1
+Bxd6 18.h3 Bh5 19.g4 Bg6 20.Be3 h5 21.g5 h4 22.b4 {An error
+which allows the opponent to recover the exchange with a pawn
+ahead. It was high time to withdraw Nd2.} Bh5 23.Kg2 e4 24.Nd2
+Bxd1 25.Rxd1 Re8 26.Nc4 Rd8 27.gxf6 gxf6 28.Rd5 Be5 29.Rc5
+{Rxd8+ followed by b5, gave better prospects in fighting for a
+draw.} Bd4 30.Rh5 Bxe3 31.Nxe3 Rg8+ 32.Kf1 {Feeble. Kh1 was
+his only salvation.} Ne5 {Beautiful play. He wins the exchange
+by force.} 33.Rxh4 Nf3 34.Rg4 {Mate by Rg1+ and Re1 being
+threatened, he had no other resource. If Rxe4, he loses a
+clear Rook by the answer Nd2+.} Nh2+ 35.Ke2 Nxg4 0-1

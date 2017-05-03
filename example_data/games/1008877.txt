@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Craig A Hanley"]
+[Black "Martin Simons"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7
+7. b4 c5 8. bxc5 dxc5 9. e3 Qc7 10. Na3 a6 11. Rb1 Ne4 12. Bb2
+Rb8 13. d5 Nc3 14. Bxc3 Bxc3 15. Rb3 Bg7 16. e4 Re8 17. Re1
+Ne5 18. Nd2 g5 19. Nf1 Bd7 20. Qe2 Ba4 21. Rbb1 Qa5 22. Rec1
+Bd7 23. Rb3 Ba4 24. Rbb1 Bd7 25. Rb3 Ba4 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jovanka Houska"]
+[Black "Anthony Cornelis Kosten"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 e6 4. Nc3 g6 5. d3 Bg7 6. Be3 d6
+7. Qd2 Bd7 8. Nge2 Nd4 9. O-O Ne7 10. Nc1 O-O 11. Nd1 Ba4
+12. b3 Bb5 13. c3 Ndc6 14. Bh6 Bxh6 15. Qxh6 d5 16. exd5 exd5
+17. c4 Ba6 18. Nc3 dxc4 19. dxc4 Nd4 20. N1e2 Nef5 21. Qc1 Qa5
+22. Nf4 Rad8 23. Re1 Rfe8 24. Nfd5 Rxe1+ 25. Qxe1 Nc2 26. Qe5
+Nxa1 27. Nf6+ Kh8 28. Nh5+ Kg8 29. Nf6+ Kh8 30. Nh5+ 1/2-1/2

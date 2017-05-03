@@ -1,0 +1,23 @@
+[Event "Biel izt"]
+[Site "Biel SUI"]
+[Date "1993.07.22"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Semen I Dvoirys"]
+[Black "Lubomir Ftacnik"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5
+7. Nf3 Nbd7 8. a4 Be7 9. Bc4 O-O 10. O-O Qb6+ 11. Kh1 exf4
+12. Bxf4 Qxb2 13. Qd4 Qb6 14. Rad1 Qxd4 15. Rxd4 Nc5 16. Re1
+Rd8 17. Bxd6 Rxd6 18. Rxd6 Bxd6 19. e5 Bxe5 20. Rxe5 Ne6
+21. Re1 Bd7 22. Ne5 Rc8 23. Nd5 Rc5 24. Nb6 Be8 25. Bb3 Nd4
+26. Ng4 Bc6 27. Rd1 Nxb3 28. cxb3 h5 29. Nxf6+ gxf6 30. Nc4
+Bxa4 31. bxa4 Rxc4 32. Ra1 a5 33. Kg1 Kg7 34. Kf2 Rb4 35. Ra2
+Kg6 36. Ke3 Kf5 37. Kd3 Ke5 38. Re2+ Kd6 39. Ra2 f5 40. Kc3 f4
+41. Kd3 f6 42. Kd2 Kd5 43. Kc2 Ke4 44. Kd2 f3 45. gxf3+ Kxf3
+46. Ke1 Rb1+ 47. Kd2 h4 0-1

@@ -1,0 +1,25 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.06.03"]
+[EventDate "1912.05.20"]
+[Round "11"]
+[Result "1-0"]
+[White "Zsigmond Barasz"]
+[Black "Karel Hromadka"]
+[ECO "C82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 g6 10. Nbd2 Nc5 11. Bc2 Bg7
+12. Re1 O-O 13. Nb3 Nxb3 14. Bxb3 Na5 15. Bf4 c5 16. Qd2 Nxb3
+17. axb3 Qb6 18. Bh6 Rfe8 19. Bxg7 Kxg7 20. Qf4 h6 21. Re3 Ra7
+22. h4 Bc8 23. Rd1 Qe6 24. b4 cxb4 25. cxb4 Rae7 26. Rd2 Bb7
+27. Nd4 Qb6 28. Rde2 Bc8 29. Rg3 Kh7 30. e6 Bxe6 31. Nxe6 fxe6
+32. Qf6 Rg7 33. Rxg6 Rxg6 34. Qf7+ Rg7 35. Qxe8 Qd6 36. Rxe6
+Qf4 37. Qh5 Qc1+ 38. Kh2 Qf4+ 39. Kh3 d4 40. Qe2 Qf5+ 41. g4
+Qd5 42. Qe4+ Qxe4 43. Rxe4 Rd7 44. Re2 d3 45. Rd2 Rd4 46. b3
+Kg6 47. Kg3 Kf6 48. f4 h5 49. gxh5 Kf5 50. h6 Kg6 51. Kg4 Kxh6
+52. Kf5 Rxb4 53. Rxd3 a5 54. Kg4 a4 55. bxa4 bxa4 56. Rd6+ Kg7
+57. Ra6 Rc4 58. Kg5 Rb4 59. Ra7+ Kf8 60. h5 Kg8 61. f5 1-0

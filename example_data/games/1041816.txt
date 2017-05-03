@@ -1,0 +1,22 @@
+[Event "Ch Asia (team)"]
+[Site "Asia"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Alexander (Nenashev) Graf"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 h6 5.O-O d6 6.c3 g6 7.Re1 Bg7
+8.Bb3 O-O 9.Nbd2 a6 10.d4 Re8 11.h3 Bd7 12.Bc2 b5 13.Nf1 Qb8
+14.Ng3 Qb7 15.Be3 a5 16.Qd2 Kh7 17.Rad1 a4 18.Qc1 b4 19.Nd2
+Reb8 20.d5 bxc3 21.bxc3 Na5 22.Bd3 h5 23.Qc2 Bh6 24.Rb1 Qc8
+25.Ngf1 Rxb1 26.Rxb1 Nb7 27.Qb2 Bxe3 28.Qxb7 Bc5 29.Qxc8 Rxc8
+30.Ba6 Ra8 31.Bb5 Bxb5 32.Rxb5 Kg7 33.g3 Ra6 34.Rb7 c6 35.c4
+cxd5 36.cxd5 a3 37.Kg2 Ra4 38.Kf3 Nh7 39.h4 Nf6 40.Ne3 Ng4
+41.Nec4 Ra6 42.Nb3 Bxf2 43.Rd7 Bc5 44.Rc7 Bb4 45.Rb7 Be1
+46.Rd7 Bb4 47.Rb7 Be1 48.Rd7 Bb4 1/2-1/2

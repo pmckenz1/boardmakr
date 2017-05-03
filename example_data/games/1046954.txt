@@ -1,0 +1,24 @@
+[Event "Kstovo URUSO"]
+[Site "Kstovo <RUS>"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andrei Shchekachev"]
+[Black "Alisa Galliamova"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7
+8.O-O O-O 9.Be3 Nd4 10.e5 dxe5 11.Nxe5 Rb8 12.Ne4 b6 13.c3
+Ndc6 14.Qa4 Bb7 15.Rae1 Qc7 16.d4 b5 17.Qc2 cxd4 18.cxd4 Nd5
+19.Bf2 Nxe5 20.Qxc7 Nf3+ 21.Bxf3 Nxc7 22.Rc1 Ne8 23.Kg2 Rd8
+24.Nc5 Bxf3+ 25.Kxf3 Nd6 26.g4 Nc4 27.Nb3 Rd5 28.Rc2 a5 29.Nd2
+Bxd4 30.Nxc4 bxc4 31.Rxc4 Bxb2 32.Rb1 Ba3 33.Rb7 Bb4 34.Bd4
+Rdd8 35.f5 exf5 36.gxf5 Rd5 37.f6 Rf5+ 38.Kg2 Bd6 39.Rd7 Be5
+40.Rc5 Rg5+ 41.Kf3 Bxf6 42.Rxg5 Bxg5 43.Rd5 Bd8 44.Rd7 Bh4
+45.Ra7 Be1 46.Bb6 Rc8 47.Bxa5 Bxa5 48.Rxa5 Rc3+ 49.Kf2 Kg7
+50.a4 Ra3 51.Ra6 h5 52.Kg2 g5 53.Ra7 h4 54.Ra6 g4 55.Ra5 Kg6
+56.Ra8 Kg5 0-1

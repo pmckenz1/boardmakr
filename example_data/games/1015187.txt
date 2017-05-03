@@ -1,0 +1,22 @@
+[Event "New York op (01)"]
+[Site "New York op (01)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Steven Feldman"]
+[ECO "E08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Be7 4.g3 Nf6 5.Bg2 O-O 6.O-O Nbd7 7.Qc2
+c5 8.cxd5 Nxd5 9.Rd1 Nb4 10.Qb3 c4 11.Qxc4 b5 12.Qb3 a5 13.Ne1
+a4 14.Qf3 Rb8 15.Nc3 Bb7 16.e4 f5 17.Qe2 fxe4 18.Bxe4 Bxe4
+19.Qxe4 Qb6 20.Bf4 Nf6 21.Qe2 Rb7 22.Nd3 Nbd5 23.Nxd5 exd5
+24.Rac1 Ne4 25.f3 Ng5 26.Bxg5 Bxg5 27.Rc5 Bf6 28.Rxd5 Bxd4+
+29.Kg2 Bf6 30.Nc5 Re7 31.Ne4 Rc7 32.Rxb5 Qe6 33.Rbd5 Rb7
+34.R1d2 Bxb2 35.Rd6 Qxa2 36.Nc5 Rbb8 37.Nd7 Rfe8 38.Qd3 Rb7
+39.Re2 Rxe2+ 40.Qxe2 Qf7 41.Ne5 Qc7 42.Rd7 Bxe5 43.Rxc7 Rb2
+44.Rc2 a3 45.Rxb2 1-0

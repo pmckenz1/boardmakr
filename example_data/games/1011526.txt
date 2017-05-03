@@ -1,0 +1,22 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Milan Franic"]
+[Black "Radivoje Jakovljevski"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Nf6 5. Nc3 d5 6. Nf3
+O-O 7. e3 Nbd7 8. Bd3 c6 9. O-O a6 10. Rad1 Re8 11. e4 dxe4
+12. Nxe4 Nxe4 13. Bxe4 Nf6 14. Bc2 Qc7 15. Qg5 b6 16. Rfe1 Bb7
+17. Qe5 Rac8 18. c5 Qe7 19. cxb6 c5 20. Ba4 Rf8 21. Nh4 g6
+22. Qg5 Kh8 23. Bd7 Qxd7 24. Qxf6+ Kg8 25. dxc5 Qb5 26. Qe7
+Bc6 27. Rc1 Rfe8 28. Qf6 Bd5 29. Qc3 Rc6 30. b4 Ra8 31. Nf3
+Bxf3 32. gxf3 a5 33. a3 axb4 34. Qxb4 Qa6 35. Qe4 Qb5 36. Qb4
+Qd3 37. Re3 Qd5 38. a4 Qg5+ 39. Kh1 Rac8 40. Rec3 Qd2 41. Qe4
+Qxf2 42. b7 1-0

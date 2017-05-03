@@ -1,0 +1,19 @@
+[Event "Banja-Luka (Bosnia & Herzegovina)"]
+[Site "Banja Luka BIH"]
+[Date "1979.04.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Guillermo Garcia Gonzales"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Nge7
+7.Bf4 Ng6 8.Nxc6 bxc6 9.Bd6 Bxd6 10.Qxd6 Qe7 11.O-O-O Qxd6
+12.Rxd6 Kd8 13.Rhd1 Kc7 14.g3 f6 15.Na4 Ne5 16.Nc5 Kb6 17.b4
+a5 18.Na4+ Kc7 19.b5 cxb5 20.Bxb5 Ra7 21.f4 Nf7 22.R6d4 d6
+23.R1d3 Bb7 24.Rc4+ Kb8 25.Nb6 Rd8 26.Nd7+ Ka8 27.Rb3 d5
+28.exd5 exd5 29.Rc7 Nd6 30.Ba4 d4 31.Nb6+ Kb8 32.Rxg7 1-0

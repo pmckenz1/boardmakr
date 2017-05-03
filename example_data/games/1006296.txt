@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.12"]
+[EventDate "2000.04.05"]
+[Round "8"]
+[Result "0-1"]
+[White "Remi Soupizon"]
+[Black "Bragi Halldorsson"]
+[ECO "B15"]
+[WhiteElo "2066"]
+[BlackElo "2243"]
+[PlyCount "72"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Bc4 Nf6 5. f3 exf3 6. Nxf3
+Nbd7 7. O-O Nb6 8. Bb3 Nbd5 9. Ne5 e6 10. Ne2 Bd6 11. c4 Ne7
+12. Qe1 Ng6 13. Nf4 Bxe5 14. dxe5 Qd4+ 15. Be3 Qxe5 16. Nd3
+Qc7 17. Bd4 Ng4 18. g3 O-O 19. h3 Nh6 20. Ne5 f6 21. Nxg6 hxg6
+22. c5 Nf7 23. Bxf6 gxf6 24. Rxf6 Ne5 25. Qf2 Qg7 26. Rf4 Nd3
+27. Rxf8+ Qxf8 28. Qe2 Qxc5+ 29. Kg2 Ne5 30. Re1 Nf7 31. Rd1
+b6 32. Qe4 Qf5 33. Qxc6 Rb8 34. Qc7 Bb7+ 35. Kg1 Qe5 36. Rc1
+Rc8 0-1

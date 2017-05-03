@@ -1,0 +1,16 @@
+[Event "It (cat.13)"]
+[Site "Hastings (England)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Nigel Short"]
+[ECO "C60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 a6 6.Ba4 d6 7.d4 Bd7
+8.Re1 Nge7 9.dxe5 dxe5 10.Be3 O-O 11.Nbd2 h6 12.Bb3 b6 13.a4
+Kh7 14.Qe2 Qe8 15.Nc4 Be6 16.Ba2 a5 17.Rad1 1/2-1/2

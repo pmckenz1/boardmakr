@@ -1,0 +1,21 @@
+[Event "CSSR 25/176"]
+[Site "CSSR 25/176"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jaroslav Holek"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O a6
+7. Bg5 b5 8. e5 Ne8 9. a4 f6 10. exf6 exf6 11. Bh4 b4 12. Nd5
+a5 13. Re1 Kh8 14. Bd3 c6 15. Nf4 Nc7 16. Bxg6 Bh6 17. Bxh7
+Bxf4 18. Ne5 dxe5 19. Qh5 Bg4 20. Qxg4 Kxh7 21. dxe5 Bg5
+22. exf6 Bxf6 23. Re5 Qd5 24. Bxf6 Rxf6 25. Rae1 Nba6 26. Rh5+
+Qxh5 27. Qxh5+ Kg8 28. Re7 Ne6 29. Qg4+ Kf8 30. Rxe6 Rxe6
+31. Qxe6 Re8 32. Qf6+ Kg8 33. Qg5+ Kf8 34. Qf4+ Kg7 35. Qd4+
+Kf8 36. h4 Re1+ 1-0

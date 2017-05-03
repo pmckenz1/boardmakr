@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Roy Shankar"]
+[Black "Thandalam Shanmugam Ravi"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6
+12. O-O-O e6 13. Ne4 O-O-O 14. g3 Nxe4 15. Qxe4 Bd6 16. c4 c5
+17. Bc3 cxd4 18. Qxd4 Bc5 19. Qxg7 Rhg8 20. Qxh6 Bxf2 21. Qf4
+Rxg3 22. Qxc7+ Kxc7 23. Rd3 f6 24. Rf1 Bc5 25. Rfd1 Be7 26. h6
+Nf8 27. Nd4 Rxd3 28. Rxd3 Kc8 29. Rg3 Bd6 30. Rg4 Be5 31. Nxe6
+Nxe6 32. Bxe5 Rh8 33. Rg6 fxe5 34. Rxe6 Kd7 35. Rg6 a6
+36. Rg7+ Kc6 37. h7 b6 38. Kd2 Kc5 39. Kc3 b5 40. b4+ Kc6
+41. Rg6+ Kb7 42. Rh6 e4 43. c5 e3 44. Kd3 1-0

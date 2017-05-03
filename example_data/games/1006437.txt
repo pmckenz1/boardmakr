@@ -1,0 +1,23 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.02.27"]
+[EventDate "2000.02.26"]
+[Round "2"]
+[Result "1-0"]
+[White "Myo Naing"]
+[Black "Chuin Hoong Ronnie Lim"]
+[ECO "E71"]
+[WhiteElo "2545"]
+[BlackElo "2214"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 Na6
+7. Nf3 Qe8 8. Be2 e5 9. d5 Nc5 10. Nd2 a5 11. g4 Bd7 12. Be3
+Qe7 13. h4 Ne8 14. h5 Bf6 15. Nf1 Bg5 16. Qd2 h6 17. Ng3 Bxe3
+18. Qxe3 g5 19. b3 Kh7 20. O-O Nf6 21. f3 Qd8 22. Qd2 Qb8
+23. Kg2 Qa7 24. Nd1 Qb8 25. Ne3 b5 26. cxb5 Bxb5 27. Rab1 Bxe2
+28. Qxe2 Qa7 29. Rfc1 Nfd7 30. Ngf5 Rfe8 31. Qd2 f6 32. a3 a4
+33. b4 Nb3 34. Qc3 Nxc1 35. Rxc1 Rac8 36. Nc4 Nb8 37. Na5 Qa6
+38. Qd2 Qb5 39. Nc6 Na6 40. Na7 Qd7 41. Nxc8 Rxc8 42. Qd3 Ra8
+43. Rc3 Ra7 44. Qc2 Ra8 45. Rc6 Ra7 46. Qxa4 Nb8 47. Qxa7 Nxc6
+48. dxc6 Qxc6 49. Qf2 Qc4 50. Qb2 Qe6 51. Qc2 1-0

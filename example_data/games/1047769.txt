@@ -1,0 +1,23 @@
+[Event "Minsk (Belarus)"]
+[Site "Minsk (Belarus)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lembit Oll"]
+[Black "Boris Gelfand"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bxf6 Bxf6 7.e3
+O-O 8.Rc1 c6 9.Bd3 Nd7 10.O-O dxc4 11.Bxc4 e5 12.h3 exd4
+13.exd4 Nb6 14.Bb3 Bf5 15.Re1 Qd7 16.Ne5 Bxe5 17.dxe5 Qxd1
+18.Rcxd1 Rfd8 19.f4 h5 20.Ne4 Rxd1 21.Bxd1 Bxe4 22.Rxe4 g6
+23.Rd4 Kf8 24.Kf2 Ke7 25.Bb3 Rc8 26.Ke3 c5 27.Rd6 c4 28.Bc2
+Rc5 29.Kd4 Ra5 30.a4 Nxa4 31.Kxc4 Nb6+ 32.Kd4 Ra2 33.Bb3 Rxb2
+34.Kc3 Rxg2 35.f5 Rg3+ 36.Kc2 gxf5 37.Rf6 Rg7 38.Rxf5 h4
+39.Rh5 Nd7 40.Bd5 b6 41.Kc3 f6 42.e6 Nc5 43.Rxh4 Kd6 44.Bc4
+Nxe6 45.Rh8 Rg3+ 46.Kb4 Nc7 47.h4 a5 48.Ka4 Rg4 49.Kb3 a4
+50.Kc3 b5 51.Be2 Nd5+ 52.Kd2 Rd4+ 53.Kc1 Nc3 54.Bf3 Rf4 0-1

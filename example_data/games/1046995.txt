@@ -1,0 +1,18 @@
+[Event "Lvov UUKRO"]
+[Site "Lvov <UKR>"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Arshak B Petrosian"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.cxd5 exd5 6.Bg5 c6 7.Qc2
+g6 8.e3 Bf5 9.Bd3 Bxd3 10.Qxd3 Nbd7 11.O-O O-O 12.a3 a5
+13.Rab1 Re8 14.Qc2 Ne4 15.Bxe7 Qxe7 16.b4 Nd6 17.bxa5 Rxa5
+18.a4 Ra6 19.Rfe1 Nb6 20.Ra1 Raa8 21.Nd2 f5 22.Ne2 Ra6 23.Ra2
+Rea8 24.Rea1 Nbc4 25.Nxc4 Nxc4 26.Nf4 Qd6 1/2-1/2

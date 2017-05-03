@@ -1,0 +1,18 @@
+[Event "Kolisch Memorial"]
+[Site "Vienna AUT"]
+[Date "1890.03.30"]
+[EventDate "1890.??.??"]
+[Round "18"]
+[Result "0-1"]
+[White "Adolf Albin"]
+[Black "Johann Hermann Bauer"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 e5 2.Nf3 Nf6 3.Bc4 Nxe4 4.Nc3 Nf6 5.Nxe5 d5 6.Bb3 Be7
+7.d4 O-O 8.O-O c6 9.Ne2 Ne4 10.f3 Nd6 11.c3 f6 12.Nd3 Be6
+13.Nc5 Qc8 14.Nf4 Bf7 15.Re1 Re8 16.Ne4 dxe4 17.Bxf7+ Nxf7
+18.fxe4 Nd7 19.Qh5 Nf8 20.Re3 Bd6 21.g3 Re7 22.Bd2 Qc7 23.Rf1
+Rae8 24.Qe2 Ng5 25.Qc4+ Kh8 26.e5 fxe5 27.Nh5 e4 0-1

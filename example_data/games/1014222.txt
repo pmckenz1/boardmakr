@@ -1,0 +1,16 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Matthew N Anderton"]
+[Black "Michael Adams"]
+[ECO "C35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Be2 Nf6 5.e5 Ng4 6.O-O d6 7.exd6
+Bxd6 8.d4 O-O 9.Nc3 Nc6 10.Nd5 Ne7 11.Nxf4 Nf5 12.Qd3 Re8
+13.Nd5 c6 14.Ne5 Nxe5 15.dxe5 Bc5+ 0-1

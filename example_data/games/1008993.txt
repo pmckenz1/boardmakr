@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Daniel Gormally"]
+[ECO "A05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. Nf3 Nf6 2. g3 g6 3. b4 Bg7 4. Bb2 d6 5. Bg2 c5 6. bxc5 dxc5
+7. O-O O-O 8. c4 Nc6 9. Ne5 Nxe5 10. Bxe5 Qb6 11. Qb3 Qe6
+12. f4 Nd7 13. Bxg7 Kxg7 14. Nc3 Nb6 15. d3 Qe3+ 16. Kh1 Bd7
+17. Bxb7 Rab8 18. Bf3 h5 19. Qa3 Bg4 20. Qc1 Qd4 21. Nb5 Qd7
+22. Nc3 h4 23. Qe3 Bxf3+ 24. Rxf3 hxg3 25. Rxg3 Qc6+ 26. Qf3
+Qf6 27. Rc1 Rh8 28. Ne4 Qh4 29. h3 Nd7 30. Rcg1 Rb2 31. Ng5
+Rf8 32. a4 Rb6 33. Qe3 Re8 34. f5 Nf8 35. Qxc5 f6 36. Nf3 Qh5
+37. a5 Rb2 38. Qc6 1-0

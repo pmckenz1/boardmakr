@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.15"]
+[EventDate "1911.08.21"]
+[Round "19"]
+[Result "1/2-1/2"]
+[White "Paul Saladin Leonhardt"]
+[Black "Julius Perlis"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.e3 Nf6 5.Nf3 Nc6 6.Bd3 Bd6 7.O-O
+O-O 8.Qe2 b6 9.Rd1 cxd4 10.exd4 Nb4 11.Bb1 Ba6 12.b3 dxc4
+13.bxc4 Qc7 14.Nb5 Bxb5 15.cxb5 Rac8 16.Bb2 Nc2 17.Bxc2 Qxc2
+18.Qxc2 Rxc2 19.Bc1 Nd5 20.a4 Bb4 21.Bd2 Bxd2 22.Rxd2 Rfc8
+23.Kf1 Rc1+ 24.Rd1 Rxd1+ 25.Rxd1 Rc2 26.Ne5 f6 27.Nc6 a5
+28.Re1 Ra2 29.Rxe6 Ra1+ 30.Re1 Rxa4 31.Ne7+ Nxe7 32.Rxe7 Rb4
+33.Ke2 Rxb5 34.Kd3 a4 35.Kc4 Ra5 36.d5 Rc5+ 37.Kd4 a3 38.d6 a2
+39.Re1 Rc6 40.Kd5 Rc5+ 41.Kd4 Rc6 42.Kd5 Rc5+ 43.Kd4 Rc2
+44.Kd3 Rc6 45.Ra1 Rxd6+ 46.Kc3 Kf7 47.Rxa2 Rd5 48.Ra7+ Kg6
+49.Rb7 b5 50.g4 h5 51.h3 h4 52.f4 Rd1 53.Rxb5 Rh1 54.Rh5 Rxh3+
+55.Kd4 Kf7 56.f5 Rh1 57.Ke3 h3 58.Kf2 h2 59.Rh4 Rg1 60.Rxh2
+Rxg4 61.Kf3 Ra4 62.Rg2 Rh4 63.Rg1 Kg8 64.Rg2 Rh1 65.Kf4 Rf1+
+66.Ke4 Kf7 67.Rg3 Ra1 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Lord John Cup"]
+[Site "London ENG"]
+[Date "1977.09.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Andrew Philip Law"]
+[Black "Eugenio Torre"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bxc6 Nxc6
+7.d4 cxd4 8.Nxd4 d6 9.Nc3 Be7 10.Nxc6 bxc6 11.Qg4 Kf8 12.Bd2
+e5 13.Qg3 Be6 14.Rad1 h5 15.h3 g5 16.Na4 g4 17.hxg4 hxg4
+18.Bb4 Kg7 19.b3 Rh5 20.c4 Bh4 21.Qc3 Qf6 22.Rd2 Bxf2+ 0-1

@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Borisovich Tukmakov"]
+[Black "Yuri Balashov"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.O-O a6
+7.Qxc4 b5 8.Qc2 Bb7 9.b3 c5 10.Bb2 Be7 11.d3 O-O 12.Nbd2 Rc8
+13.Rac1 Qb6 14.Qb1 Rfd8 15.Qa1 Qa7 16.Rc2 Qa8 17.Rfc1 Bf8
+18.a3 h6 19.Ne1 Bxg2 20.Nxg2 Rc6 21.Nh4 Rdc8 22.Nhf3 Qb7
+23.Ne5 Nxe5 24.Bxe5 Nd7 1/2-1/2

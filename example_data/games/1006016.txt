@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Olafur Isberg Hannesson"]
+[Black "Saevar Bjarnason"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "2305"]
+[PlyCount "71"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 c6 5. Qd2 b5 6. a3 Nd7
+7. Be2 Bb7 8. h4 h5 9. Nh3 Ngf6 10. f3 a6 11. Nf2 Nb6 12. Rd1
+Qc7 13. O-O e5 14. dxe5 dxe5 15. Qd6 Qxd6 16. Rxd6 Nfd7
+17. Rfd1 O-O-O 18. Na2 Rhe8 19. Nb4 Kc7 20. b3 Bf8 21. Bxb6+
+Nxb6 22. Rxd8 Rxd8 23. Rxd8 Kxd8 24. c3 f6 25. g4 c5 26. Nc2
+Bc6 27. gxh5 gxh5 28. Ne3 Bh6 29. Nfd1 a5 30. Kf2 Be8 31. c4
+b4 32. a4 Bf7 33. Nd5 Nd7 34. N1e3 Bxe3+ 35. Kxe3 Ke8 36. Bd1
+1/2-1/2

@@ -1,0 +1,24 @@
+[Event "London m ;HCL 34"]
+[Site "London m ;HCL 34"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Hugh Alexander Kennedy"]
+[Black "Edward Lowe"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.d4 c6 2.c4 d6 3.e4 e6 4.Bd3 e5 5.d5 Ne7 6.f4 exf4 7.Bxf4 Ng6
+8.Bg3 Be7 9.Nf3 Bf6 10.Nc3 Na6 11.Qe2 O-O 12.Rd1 Bg4 13.a3 Be5
+14.Qf2 f6 15.Bb1 c5 16.Rd2 Bxc3 17.bxc3 Ne5 18.Qe2 Qa5 19.Rc2
+Qxa3 20.O-O Qa4 21.Bxe5 fxe5 22.Rb2 Qd7 23.Qe3 Bxf3 24.Rxf3
+Rxf3 25.gxf3 Rf8 26.Bd3 b6 27.Rg2 Rf4 28.Rg3 Nb8 29.Bf1 Qa4
+30.Rg4 Rxg4+ 31.fxg4 Nd7 32.g5 Qd1 33.Qh3 Nf8 34.Kf2 Qd2+
+35.Be2 Qxg5 36.Bg4 Qf4+ 37.Kg1 Qxe4 38.Be6+ Kh8 39.Bf5 Qe1+
+40.Kg2 Qd2+ 41.Kh1 Qe1+ 42.Kg2 Qd2+ 43.Kf1 g6 44.Bd3 Kg7
+45.Be2 Qf4+ 46.Ke1 h5 47.Qc8 Qf5 48.Qd8 Qf6 49.Qc8 e4 50.Qc7+
+Kh6 51.Qxa7 Qxc3+ 52.Kf2 Qf6+ 53.Ke3 Qd4+ 54.Kf4 g5 55.Kg3
+Qe3+ 56.Kg2 Qxe2+ 0-1

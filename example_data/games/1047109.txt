@@ -1,0 +1,20 @@
+[Event "Pula UCROO"]
+[Site "Pula CRO"]
+[Date "1997.05.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Dagne Ciuksyte"]
+[ECO "E52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 b6 7.cxd5
+exd5 8.O-O Nbd7 9.Qa4 Bxc3 10.bxc3 c5 11.c4 Bb7 12.cxd5 Bxd5
+13.Ne5 a6 14.Qc2 cxd4 15.exd4 Rc8 16.Qb1 Bb7 17.Rd1 Qc7 18.Ba3
+Rfe8 19.Rc1 Qd8 20.Rxc8 Qxc8 21.Qb2 Nxe5 22.dxe5 Qg4 23.f3
+Bxf3 24.Rf1 Be4 25.Bxe4 Nxe4 26.Qxb6 Nd2 27.Rc1 Nf3+ 28.Kh1
+Nxe5 29.Qxa6 h5 30.Bb2 Qf4 31.Rf1 Qe4 32.Bxe5 Rxe5 33.Qc8+ Re8
+34.Qd7 Re7 35.Qc8+ Kh7 1/2-1/2

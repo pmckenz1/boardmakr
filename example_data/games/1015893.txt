@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1978.10.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Juan Manuel Bellon Lopez"]
+[ECO "B16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5
+7.Ne2 Nd7 8.Ng3 Bg6 9.h4 h5 10.Be2 Qa5 11.b4 Qc7 12.Nxh5 a5
+13.Nf4 axb4 14.Nxg6 fxg6 15.cxb4 e5 16.b5 Bb4+ 17.Bd2 Qd6
+18.bxc6 bxc6 19.dxe5 Nxe5 20.Bxb4 Qxb4+ 21.Qd2 Rxh4 22.Qxb4
+Rxh1+ 23.Kd2 Rxa1 24.Bc4 Nxc4+ 25.Qxc4 R8xa2+ 26.Ke3 Re1+
+27.Kf3 1/2-1/2

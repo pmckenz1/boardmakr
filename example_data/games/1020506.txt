@@ -1,0 +1,15 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Mihail Marin"]
+[Black "Ulf Andersson"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 h6 6.Bh4 c5 7.Rc1
+cxd4 8.Nxd4 Nc6 9.e3 b6 10.Be2 Bb7 11.O-O 1/2-1/2

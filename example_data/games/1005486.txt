@@ -1,0 +1,20 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "2"]
+[Result "1-0"]
+[White "Sergey Sukharev"]
+[Black "Anatoly Borodavkin"]
+[ECO "D73"]
+[WhiteElo "2245"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. Nf3 d5 2. d4 g6 3. g3 Bg7 4. Bg2 Nf6 5. c4 c6 6. cxd5 cxd5
+7. Nc3 O-O 8. Ne5 Nbd7 9. O-O Nxe5 10. dxe5 Ng4 11. Nxd5 e6
+12. Nf6+ Nxf6 13. Qxd8 Rxd8 14. Bg5 h6 15. Bxf6 Bxf6 16. exf6
+Rb8 17. Rfd1 Bd7 18. Rac1 b6 19. e4 Bb5 20. Bf1 Rxd1 21. Rxd1
+Bc6 22. f3 g5 23. Rc1 Be8 24. Ba6 Kh7 25. e5 h5 26. Kf2 b5
+27. Rc7 Kg6 28. Ke3 Kf5 29. f4 gxf4+ 30. gxf4 Kg4 31. Bb7 Kh4
+32. b4 Rd8 33. Bf3 a6 34. Rc1 1-0

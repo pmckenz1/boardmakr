@@ -1,0 +1,18 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Milko Bobotsov"]
+[Black "Andras Adorjan"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd2 c5 7.dxc5
+Na6 8.cxd5 Nxc5 9.Bc4 a6 10.a4 Bf5 11.O-O Rc8 12.Qe2 Nce4
+13.Rfd1 Bg4 14.Ba2 Qd7 15.Bb1 Ng5 16.e4 Bxf3 17.gxf3 Nh3+
+18.Kh1 Nh5 19.Qf1 N3f4 20.Be3 Rc4 21.Bd3 Rb4 22.Rab1 Rc8
+23.Rdc1 Be5 24.Bc2 Rc7 1/2-1/2

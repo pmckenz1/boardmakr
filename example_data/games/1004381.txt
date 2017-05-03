@@ -1,0 +1,19 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Eugene Aleksandrovich Znosko-Borovsky"]
+[Black "Kornel Havasi"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6
+7. Bxc4 Bb4 8. O-O O-O 9. Qe2 c5 10. Rd1 Nc6 11. Ne5 Qe7
+12. Nxc6 bxc6 13. dxc5 Qxc5 14. Na2 Rfd8 15. Rxd8+ Rxd8
+16. Nxb4 Qxb4 17. f3 h5 18. h3 Qc5 19. b3 Nd5 20. Qf2 Bd3
+21. e4 Qxf2+ 22. Kxf2 Nb6 23. Be3 Nxc4 24. bxc4 Bxc4 25. Rc1
+Bb3 26. Rxc6 Bxa4 27. Ra6 1/2-1/2

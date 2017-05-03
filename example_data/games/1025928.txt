@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Brocco (Switzerland)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hermann Schloetter"]
+[Black "Gerardo F Barbero"]
+[ECO "B59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nb3
+Be7 8.Be3 O-O 9.Qd2 a5 10.a4 Nb4 11.Rd1 Be6 12.Bg5 Rc8 13.Bxf6
+Bxf6 14.Bd3 Qb6 15.Bb5 Rfd8 16.O-O g6 17.Kh1 Bg7 18.Nc1 d5
+19.exd5 Nxd5 20.Nxd5 Bxd5 21.Qe2 Qc7 22.c3 Rd6 23.f4 exf4
+24.Rxf4 Rcd8 25.Rff1 h5 26.Qc2 h4 27.h3 Be4 28.Qe2 Rxd1
+29.Rxd1 Rxd1+ 30.Qxd1 Qg3 31.Qe2 Be5 32.Kg1 Qh2+ 0-1

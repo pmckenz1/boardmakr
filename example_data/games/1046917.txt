@@ -1,0 +1,20 @@
+[Event "Naberezhnye Chelny URUSO"]
+[Site "Naberezhnye Chelny <RUS>"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Marat Muhutdinov"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.d5 Nf6 5.Bd3 b5 6.Nc3 Bb4 7.Qf3
+bxc4 8.Bxc4 exd5 9.exd5 Qe7+ 10.Kf1 O-O 11.d6 Qxd6 12.Qxb7
+Bxc3 13.Be2 Ba5 14.Qxa8 Qb4 15.Nf3 Nc6 16.a3 Qb3 17.Qxf8+ Kxf8
+18.g3 Qc2 19.h3 Bb6 20.Ne1 Qf5 21.Rh2 Ne4 22.Bf3 Ne5 23.Bxe4
+Qxe4 24.Bd2 d5 25.Rd1 d4 26.b4 Nc4 27.Bc1 g6 28.Rd3 Nd6 29.f4
+a5 30.Bd2 axb4 31.axb4 h5 32.Re2 Qh1+ 33.Kf2 Ne4+ 34.Rxe4 Qxe4
+35.h4 Ke7 36.Bc1 Ke6 37.Bb2 Kd5 38.Bc1 Kc4 39.Bd2 Qxd3 0-1

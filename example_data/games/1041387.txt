@@ -1,0 +1,21 @@
+[Event "Amsterdam (Netherlands)"]
+[Site "Amsterdam NED"]
+[Date "1979.07.25"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Dragutin Sahovic"]
+[Black "Eugenio Torre"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxg5
+7.Nxg5 e6 8.Qd2 exd5 9.Qe3+ Kf8 10.Qf4 Bf6 11.h4 h6 12.Nf3 Kg7
+13.O-O-O Be6 14.e3 Nd7 15.Bd3 c6 16.g4 Qb8 17.Rdg1 h5 18.Qxb8
+Raxb8 19.gxh5 Rxh5 20.Ng5 Bxg5 21.hxg5 Rbh8 22.Rxh5 Rxh5
+23.Kd2 Nb6 24.Ne2 Rh2 25.Ke1 Nc8 26.Nf4 Bd7 27.b4 a6 28.Ke2
+Nd6 29.a4 Rh8 30.b5 axb5 31.axb5 Ra8 32.bxc6 Ra2+ 33.Kf3 bxc6
+34.Rc1 Kf8 35.Rh1 Kg7 36.Rb1 Kf8 37.Rb8+ Ke7 38.Rh8 Rd2 39.Rh7
+Kf8 40.Rh8+ Ke7 1/2-1/2

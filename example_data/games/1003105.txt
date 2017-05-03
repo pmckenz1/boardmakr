@@ -1,0 +1,20 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.15"]
+[EventDate "1905.08.14"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Francis Joseph Lee"]
+[Black "Wilhelm Schwan"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Bd6 4. Bg3 f5 5. e3 Nf6 6. Nbd2 Qe7
+7. Ne5 O-O 8. Bd3 Nbd7 9. Ndf3 Ne4 10. Qe2 Ndf6 11. c3 Bd7
+12. Nxd7 Nxd7 13. Bxe4 fxe4 14. Nd2 Nf6 15. Bh4 Qf7 16. Bxf6
+Qxf6 17. f4 exf3 18. Nxf3 c6 19. O-O Qh6 20. g3 Qh5 21. e4
+dxe4 22. Qxe4 Qd5 23. Rae1 Rf6 24. Qxd5 exd5 25. Ne5 Bxe5
+26. Rxe5 Rxf1+ 27. Kxf1 Kf7 28. Kf2 Re8 29. Rxe8 Kxe8 30. Kf3
+Kf7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Tilburg UNEDO"]
+[Site "Tilburg NED"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Zhaoqin Peng"]
+[Black "Alisa Galliamova"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Nbd2 Nc6
+7.O-O Be6 8.Bxe6 fxe6 9.Nb3 d3 10.Bd2 Qd6 11.e5 Qd5 12.Rc1
+Bxd2 13.Qxd2 O-O-O 14.Rc5 Qd7 15.Rc3 Nge7 16.Rd1 h6 17.a3 g5
+18.Nc5 Qd5 19.b4 Ng6 20.Rxd3 Qc4 21.Rc1 Qb5 22.Rxd8+ Rxd8
+23.Qa2 Nf4 24.Kh1 g4 25.Ng1 Rd5 26.Rc4 Nd4 27.g3 Ng6 28.Rxd4
+Rxd4 29.Qxe6+ Kd8 30.Qg8+ Ke7 31.Qg7+ Ke8 32.Qxg6+ Ke7 33.Qg7+
+Ke8 34.Qg8+ Ke7 35.Qe6+ Kd8 36.Qf6+ Ke8 37.Qe6+ Kd8 38.Qg8+
+Ke7 39.Qh7+ Ke8 40.Qh8+ Ke7 41.Qg7+ Ke8 42.e6 1-0

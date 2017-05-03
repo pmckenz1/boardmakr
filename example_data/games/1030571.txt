@@ -1,0 +1,23 @@
+[Event "Bled"]
+[Site "Bled SVN"]
+[Date "1931.09.23"]
+[EventDate "1931.08.23"]
+[Round "23"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Milan Vidmar"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.d4 fxe4 6.Nfd2 Bb6 7.d5
+Nf6 8.O-O Ne7 9.Qe2 c6 10.d6 Nf5 11.Nxe4 Nxe4 12.Qxe4 Qf6
+13.Bg5 Nxd6 14.Qh4 Qg6 15.Be2 Nf5 16.Qh5 Qxh5 17.Bxh5+ g6
+18.Bd1 Kf7 19.g4 h6 20.Bd2 Nh4 21.Re1 d6 22.Na3 Be6 23.Nc2 Bd5
+24.Be3 Nf3+ 25.Bxf3 Bxf3 26.Bxb6 axb6 27.h3 g5 28.Kh2 Bd5
+29.a3 h5 30.Kg3 hxg4 31.hxg4 Rh4 32.Ne3 Rah8 33.Nxd5 cxd5
+34.Kf3 Ke6 35.Rg1 Rf8+ 36.Ke3 Rf4 37.Rg3 Rfxg4 38.Rxg4 Rxg4
+39.Rh1 Rh4 40.Rg1 Kf5 41.Rd1 d4 42.Ke2 b5 43.Rd3 Re4+ 44.Kf1
+dxc3 45.Rxc3 b4 46.Rb3 bxa3 47.bxa3 Ra4 48.Rxb7 Rxa3 49.Rf7+
+Ke6 50.Rg7 Kf6 51.Rd7 Rd3 52.Rd8 g4 53.Ke2 Rd4 0-1

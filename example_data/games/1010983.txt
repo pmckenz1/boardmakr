@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Maksim Notkin"]
+[Black "Evgeny E Vorobiov"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 c5 8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2
+Qxa2 12. O-O a5 13. Bg5 a4 14. Re1 Bd7 15. Bd3 Nc6 16. Re2 Qa3
+17. Bc1 Qd6 18. e5 Qc7 19. Be4 Bg4 20. Reb2 Rfb8 21. Rb6 Bxf3
+22. gxf3 a3 23. Bxa3 Rxa3 24. Bxc6 Rd8 25. Qc1 Ra1 26. Rxb7
+Rxb1 27. Rxb1 Rc8 28. d5 Bxe5 29. Qh6 Bd4 30. Qh4 Qe5 31. Qe4
+Qf6 32. Qg4 Rd8 33. Kg2 Kg7 34. Qe4 Qg5+ 35. Kf1 Be5 36. h3 h5
+37. Re1 Bd6 38. Rb1 Bc5 39. Qc2 Bd6 40. Qe4 Kg8 41. Rb5 Qc1+
+42. Kg2 Qc3 43. Qe3 Qa1 44. Qe4 Rc8 45. Rb1 Qf6 46. Rb5 Qg5+
+47. Kf1 Rxc6 0-1

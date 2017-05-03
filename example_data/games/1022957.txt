@@ -1,0 +1,19 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1970.12.23"]
+[EventDate "1970.??.??"]
+[Round "19"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Mark Danilovich Tseitlin"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Bg7 6.e3 c5 7.cxd5
+Nxc3 8.bxc3 Qxd5 9.Qf3 Qd8 10.Bb5+ Nd7 11.Ne2 cxd4 12.exd4 O-O
+13.O-O Nf6 14.Rfe1 Bg4 15.Qxb7 Rb8 16.Qa6 Nd5 17.Bg3 Rc8 18.f3
+Be6 19.Bf2 Nxc3 20.Nxc3 Rxc3 21.Qxa7 Qd5 22.a4 Rfc8 23.Qxe7
+Rc2 24.Rad1 Rxf2 25.Kxf2 Bxd4+ 26.Kf1 Rc3 27.Re4 Rc4 28.Qh4
+Bf6 29.Rxd5 Rc1+ 30.Re1 Bxh4 31.Rxc1 Bxd5 32.a5 1-0

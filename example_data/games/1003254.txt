@@ -1,0 +1,22 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Dirk Bleijkmans"]
+[Black "Erich Cohn"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c5 4. e3 Nf6 5. Nc3 Nc6 6. a3 a6
+7. Bd3 dxc4 8. Bxc4 b5 9. Bd3 Bb7 10. O-O c4 11. Bc2 Be7
+12. Qe2 Qb6 13. Rd1 Rd8 14. b3 Na5 15. bxc4 Nxc4 16. e4 Qc7
+17. Rd3 Rc8 18. e5 Nd5 19. Nxd5 Bxd5 20. Ne1 f5 21. Rg3 g6
+22. Bh6 Qb6 23. Qd1 a5 24. Bg5 Bxg5 25. Rxg5 Nb2 26. Qd2 Rc4
+27. Bb3 Qxd4 28. Qxa5 Rc5 29. Bxd5 Qxd5 30. Nf3 Nc4 31. Qa7
+Nxe5 32. Rg3 Nxf3+ 33. Rxf3 Qd4 34. Re1 O-O 35. h4 e5 36. Qe7
+e4 37. Rxe4 Rc1+ 38. Re1 Rfc8 39. Rxc1 Rxc1+ 40. Kh2 Rc3
+41. Qe8+ 1/2-1/2

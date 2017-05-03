@@ -1,0 +1,21 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Monika Grabics"]
+[Black "Katalin Decsey"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3
+Nd7 7. O-O Ngf6 8. Ned2 Be7 9. Re1 Bxf3 10. Qxf3 c6 11. c3 O-O
+12. Nc4 Re8 13. Ne5 g6 14. Bh6 Nxe5 15. dxe5 Nd7 16. Qf4 Bf8
+17. Rad1 Bxh6 18. Qxh6 Qe7 19. Bc2 Nf8 20. Rd6 Red8 21. Red1
+Rxd6 22. exd6 Qd8 23. h4 Rc8 24. h5 c5 25. Be4 b5 26. Qf4 c4
+27. hxg6 fxg6 28. d7 Rc5 29. Qd6 Rh5 30. Bf3 Rh6 31. Bg4 g5
+32. Qc6 Kf7 33. Qxb5 Rh4 34. Qxc4 h5 35. Qc8 Ke7 36. Qc5+ Kf7
+37. Be2 a5 38. g3 1-0

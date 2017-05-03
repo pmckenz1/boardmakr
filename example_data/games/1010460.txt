@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Viktoria Artamonova"]
+[Black "Leonid Kernazhitsky"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Nf6 6. Bg2 Be7
+7. O-O b6 8. Re1 Bb7 9. c3 O-O 10. e5 Nd7 11. Nf1 b5 12. h4 b4
+13. Bf4 bxc3 14. bxc3 Qa5 15. Rc1 Rfe8 16. N1h2 f6 17. exf6
+Bxf6 18. Ng5 Nf8 19. Qb3 Qb6 20. Qc2 h6 21. Rb1 Qa6 22. Nh3
+Rad8 23. Ng4 Nh7 24. Qd2 Bc8 25. Nxf6+ Nxf6 26. Bxh6 gxh6
+27. Qxh6 Nh7 28. Qg6+ Kh8 29. Ng5 Nxg5 30. hxg5 Re7 31. Bxd5
+exd5 32. Kg2 Rh7 33. Rh1 Rdd7 34. Qe8+ Kg7 35. Rxh7+ Kxh7
+36. Rh1+ Kg7 37. Qh8+ Kf7 38. Qf6+ Kg8 39. Rh8# 1-0

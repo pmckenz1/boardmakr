@@ -1,0 +1,24 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Bela Toth"]
+[ECO "C43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O O-O
+7.Nc3 Nxc3 8.bxc3 Nd7 9.Nxd7 Bxd7 10.Qh5 f5 11.Rb1 Rb8 12.Re1
+Qf6 13.Qf3 c6 14.Bf4 b6 15.Qg3 Bxf4 16.Qxf4 b5 17.Qc7 Qd8
+18.Qxa7 Ra8 19.Qc5 Rf7 20.a3 Qf8 21.Qxf8+ Kxf8 22.Rb3 Re7
+23.Rxe7 Kxe7 24.f3 Kf6 25.Kf2 f4 26.Ke2 Bf5 27.Bxf5 Kxf5
+28.Kd2 g5 29.Rb1 Rxa3 30.Re1 h5 31.Re5+ Kf6 32.h4 gxh4 33.Rxh5
+Ra8 34.Rxh4 Kg5 35.Rg4+ Kf5 36.g3 fxg3 37.Rxg3 Re8 38.Rg7 Kf6
+39.Rc7 Re6 40.Kc1 Kf5 41.Kb2 Kf4 42.Rf7+ Ke3 43.f4+ b4 44.f5
+Re4 45.Rc7 Kd2 46.Rxc6 bxc3 47.Rxc3 Rf4 48.Rc5 Rxd4 49.Kb3 Ke3
+50.f6 Rf4 51.Rxd5 Rxf6 52.c4 Ke4 53.Kb4 Rf8 54.Rd6 Rb8+ 55.Ka5
+Rb1 56.c5 1-0

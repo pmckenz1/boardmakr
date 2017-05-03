@@ -1,0 +1,20 @@
+[Event "Blindfold, England"]
+[Site "Blindfold, England"]
+[Date "1871.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Corlett"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.d4 exd4 7.O-O d3 {This move was frequently played
+about twenty-five years ago.} 8.e5 h6 9.Qxd3 Bb6 10.Qd5 Qe7
+11.Ba3 Qe6 12.Qd3 Qg6 13.Qe2 Nge7 14.Nbd2 O-O 15.Ne4 Kh8
+16.Nh4 Qh7 17.Bd3 Nxe5 {An ingenious attempt to relieve his
+position.} 18.Bxe7 Re8 19.Bc2 Rxe7 20.Nf6 Nf3+ 21.Qxf3 Qxc2
+22.Rac1 Bxf2+ 23.Kh1 Qe2 24.Qf5 g6 25.Nxg6+ fxg6 26.Qxg6 1-0

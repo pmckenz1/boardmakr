@@ -1,0 +1,21 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "2"]
+[Result "1-0"]
+[White "Dmitry Shurkaev"]
+[Black "Sergey Kovalenko"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "2277"]
+[PlyCount "79"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Bg5 Be7 6. e3 O-O
+7. Bd3 h6 8. Bh4 Be6 9. Qc2 Nbd7 10. Nf3 Rc8 11. O-O c5
+12. Rfd1 Qa5 13. a3 c4 14. Bf5 Qb6 15. Ne5 Rfd8 16. Rab1 Kf8
+17. f4 Bxf5 18. Qxf5 Qe6 19. Ng6+ Ke8 20. Nxe7 Kxe7 21. Nxd5+
+Kd6 22. Qxe6+ fxe6 23. Nc3 Kc6 24. e4 Re8 25. b3 Nb6 26. b4 a6
+27. a4 Na8 28. b5+ axb5 29. Rxb5 b6 30. d5+ exd5 31. Bxf6 gxf6
+32. Rbxd5 Re6 33. f5 Re5 34. Rd6+ Kc5 35. Rxf6 Kb4 36. Rc1 Rd8
+37. Rxh6 Rd3 38. Nd5+ Kc5 39. Re6 Rxe6 40. fxe6 1-0

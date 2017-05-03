@@ -1,0 +1,18 @@
+[Event "Minsk URS ch"]
+[Site "Minsk BLR"]
+[Date "1979.12.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Vitaly Tseshkovsky"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 e6 4.Bb5 Nge7 5.O-O a6 6.Bxc6 Nxc6
+7.d4 cxd4 8.Nxd4 d6 9.Nxc6 bxc6 10.Qg4 f6 11.Be3 Qc7 12.Rad1
+Kf7 13.f4 Rb8 14.b3 a5 15.f5 e5 16.Qe2 Ke8 17.Na4 h5 18.c4 g6
+19.c5 d5 20.exd5 cxd5 21.fxg6 Bg4 22.Qa6 Bxd1 23.Rxf6 Qc8
+24.Re6+ Kd7 25.Rd6+ Ke8 26.Qf1 Rb7 27.Nb6 Be2 28.Qf6 Qg4 1-0

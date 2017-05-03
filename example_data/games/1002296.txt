@@ -1,0 +1,27 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.29"]
+[EventDate "?"]
+[Round "28"]
+[Result "1-0"]
+[White "Eugene Delmar"]
+[Black "Dionisio M Martinez"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "151"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.Qe2 d6 6.d3 h6 7.b4 Bb6
+8.a4 a5 9.b5 Ne7 10.Be3 Ng6 11.h3 Bxe3 12.fxe3 Be6 13.Nbd2
+Bxc4 14.Nxc4 b6 15.Rc1 Qe7 16.O-O O-O-O 17.Nfd2 Kb7 18.Nb3 Ra8
+19.Qa2 Rhf8 20.Ncd2 Qe6 21.c4 Nd7 22.d4 Ne7 23.c5 dxc5 24.dxc5
+Kb8 25.Qc2 Rc8 26.Nc4 f6 27.Rfd1 Ra7 28.Qd2 Nf8 29.cxb6 cxb6
+30.Qd6+ Qxd6 31.Rxd6 Nd7 32.Nxb6 Rxc1+ 33.Nxc1 Nxb6 34.Rxb6+
+Kc7 35.Re6 Kd7 36.b6 Rb7 37.Nb3 Kxe6 38.Nc5+ Kd6 39.Nxb7+ Kc6
+40.Nxa5+ Kxb6 41.Nb3 Nc6 42.Kf2 Na5 43.Nd2 Kc5 44.Ke2 Kb4
+45.Nf3 Nc4 46.Nh4 Kxa4 47.Nf5 g5 48.Nxh6 Nd6 49.Kf3 Kb4 50.Ng4
+Nc4 51.Nxf6 Kc5 52.Nh7 g4 53.Kxg4 Nxe3+ 54.Kf3 Nc4 55.Ng5 Kd6
+56.g3 Ke7 57.h4 Kf6 58.Ke2 Nb2 59.Nf3 Nc4 60.g4 Nd6 61.Kd3 Ke6
+62.h5 Nf7 63.g5 Ke7 64.g6 Nh6 65.Nxe5 Ke6 66.Kd4 Kf6 67.Nf3
+Kg7 68.Ke5 Ng8 69.Nh4 Kh6 70.Nf5+ Kxh5 71.g7 Kg6 72.Ke6 Nf6
+73.e5 Ng8 74.Ne7+ Kxg7 75.Nxg8 Kxg8 76.Kd7 1-0

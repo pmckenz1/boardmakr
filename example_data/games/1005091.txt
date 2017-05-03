@@ -1,0 +1,26 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Yuri Zimmerman"]
+[Black "Sandor Farago"]
+[ECO "E76"]
+[WhiteElo "2370"]
+[BlackElo "2310"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5
+7. dxc5 Qa5 8. Bd3 Qxc5 9. Qe2 Nc6 10. Be3 Qa5 11. O-O Ng4
+12. Bd2 Nd4 13. Nxd4 Bxd4+ 14. Kh1 Qh5 15. h3 f5 16. Nd5 e6
+17. exf5 gxf5 18. Bc3 Bxc3 19. Nxc3 Nf6 20. Qxh5 Nxh5 21. Kh2
+Nf6 22. Rad1 Bd7 23. Be2 Ne8 24. Bh5 Rd8 25. Rfe1 Ng7 26. Be2
+Bc6 27. Rd2 Kf7 28. Bd1 Kf6 29. Bc2 Nh5 30. g3 Rg8 31. Re3 Rd7
+32. Bd1 Ng7 33. Red3 Rgd8 34. b4 b6 35. Bc2 Kf7 36. Bb3 Ne8
+37. Re3 Nc7 38. b5 Bb7 39. Ne2 Kf6 40. Nd4 Be4 41. Bc2 d5
+42. Rde2 dxc4 43. Bxe4 Rxd4 44. Bc6 Rd3 45. Kg2 Rxe3 46. Rxe3
+Rd2+ 47. Kf3 Rxa2 48. Rc3 Ra4 49. g4 Nd5 50. Rc2 Ra3+ 51. Kf2
+fxg4 52. hxg4 Ne3 53. g5+ Kf5 54. Rc1 Kxf4 55. Ke2 Ra2+
+56. Ke1 Kxg5 57. Bf3 Rb2 58. Be2 Rxb5 59. Kf2 Kf4 60. Bxc4 Rc5
+0-1

@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Miso Cebalo"]
+[Black "Lubomir Ftacnik"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5
+Nxg5 7. Nxg5 e6 8. Nf3 exd5 9. e3 O-O 10. b4 c6 11. Be2 Be6
+12. O-O Nd7 13. Rc1 f5 14. Qd2 a6 15. a4 Kh8 16. b5 axb5
+17. axb5 c5 18. dxc5 Nxc5 19. Nd4 Bg8 20. Rfd1 f4 21. exf4 Qf6
+22. Rc2 Ne4 23. Qe3 Nxc3 24. Qxc3 Qxf4 25. Bf3 Ra4 26. Rcd2
+Re8 27. g3 Qd6 28. Qc2 Rc4 29. Qb3 Qc5 30. Ne2 Rb4 31. Qa3
+Rxb5 32. Qxc5 Rxc5 33. Rd3 b5 34. Kg2 b4 35. h4 Rc2 36. Nf4 d4
+37. Bd5 Rb8 38. Rb1 Rc3 39. Bxg8 Kxg8 40. Rb3 Be5 41. Rdxc3
+dxc3 42. Nd3 c2 43. Kf3 Bc3 0-1

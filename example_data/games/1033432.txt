@@ -1,0 +1,18 @@
+[Event "1, Clarin GP final Villa Gesell"]
+[Site "Villa Gesell ARG"]
+[Date "1997.03.02"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Fabian Fiorito"]
+[Black "Fernando Braga"]
+[ECO "B66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Nxd4 9. Qxd4 Be7 10. f4 b5 11. Bxf6 gxf6
+12. e5 d5 13. Kb1 Bb7 14. Qe3 Qc7 15. Ne2 O-O-O 16. Nd4 Rhg8
+17. exf6 Bxf6 18. g3 Kb8 19. a4 bxa4 20. Qa3 Rd6 21. Qxa4 Rb6
+1/2-1/2

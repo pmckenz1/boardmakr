@@ -1,0 +1,24 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Eduard Issakovich Gerstenfeld"]
+[Black "Franciszek Sulik"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. c4 e6 2. e4 d5 3. Nc3 d4 4. Nce2 Nc6 5. d3 e5 6. f4 Bg4
+7. h3 Bxe2 8. Bxe2 Qh4+ 9. Kf1 exf4 10. Nf3 Qf6 11. Qa4 Bd6
+12. Bd2 Nge7 13. b4 O-O 14. c5 Be5 15. Rc1 a6 16. Kf2 Ng6
+17. Rhf1 Qe7 18. Kg1 Bf6 19. Qb3 Rfd8 20. Rf2 Nce5 21. Nxe5
+Bxe5 22. Rcf1 Qg5 23. Qc2 Qg3 24. Rf3 Qg5 25. R3f2 Qg3 26. Bf3
+c6 27. Re2 Re8 28. Be1 Qg5 29. Qd1 Nh4 30. Bd2 h5 31. Ref2 Qg3
+32. Be1 Re6 33. Rb2 Qg5 34. Kh1 Nxf3 35. Rxf3 Qe7 36. Rf1 Qg5
+37. Re2 Rf6 38. g3 Qh6 39. Bd2 g5 40. h4 fxg3 41. Bxg5 Rxf1+
+42. Qxf1 Qe6 43. Qf3 Qg4 44. Qxg4 hxg4 45. Bd2 Kg7 46. h5 Rh8
+47. h6+ Kg6 48. Rg2 Re8 49. Rg1 Re6 50. Rf1 Rf6 51. Rxf6+ Kxf6
+52. Kg2 Kg6 53. a3 Bc7 54. a4 Be5 55. Kf1 Bc7 1/2-1/2

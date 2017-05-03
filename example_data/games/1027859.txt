@@ -1,0 +1,25 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jozsef Pinter"]
+[Black "Istvan Bilek"]
+[ECO "E95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 Nbd7 6.Nf3 e5 7.O-O
+O-O 8.Re1 c6 9.Bf1 a6 10.d5 cxd5 11.cxd5 b5 12.b4 Nb6 13.a4
+Qc7 14.Bd2 bxa4 15.Nxa4 Bd7 16.Nxb6 Qxb6 17.h3 Bb5 18.Bxb5
+axb5 19.Ra5 Rac8 20.Be3 Qb7 21.Nd2 Ra8 22.Qb3 Rfc8 23.Rb1 Nh5
+24.Qd3 Nf4 25.Bxf4 exf4 26.Rxb5 Qa6 27.Nf3 Qa2 28.e5 Ra3
+29.Qf1 Bxe5 30.Nxe5 dxe5 31.Rd1 e4 32.d6 Qe6 33.Rb7 Rd8 34.Re7
+Qf6 35.Rxe4 Rxd6 36.Rxd6 Qxd6 37.Qc1 Rb3 38.Qxf4 Rb1+ 39.Kh2
+Qxf4+ 40.Rxf4 Rb3 41.h4 f5 42.f3 Kf7 43.g4 Ke6 44.gxf5+ gxf5
+45.Kg3 Rc3 46.Rd4 Ke5 47.Rd7 f4+ 48.Kf2 Rc2+ 49.Ke1 Rc3 50.Ke2
+Re3+ 51.Kf2 Rb3 52.Re7+ Kf5 53.Rb7 Ke5 54.h5 h6 55.Kg2 Rb1
+56.Rb6 Rb3 57.Rb8 Rb1 58.Rb6 Rb3 59.Rxh6 Rxb4 60.Rc6 Rb8
+61.Kh3 Rg8 62.h6 Kf5 63.h7 Rh8 64.Rh6 Kg5 65.Rh4 1-0

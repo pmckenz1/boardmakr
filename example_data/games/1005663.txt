@@ -1,0 +1,19 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "0-1"]
+[White "Gennadi Matjushin"]
+[Black "Evgenij Miroshnichenko"]
+[ECO "B23"]
+[WhiteElo "2275"]
+[BlackElo "2465"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. O-O Nxb5
+7. Nxb5 d5 8. d3 a6 9. Nc3 d4 10. Nb1 b5 11. a4 Bb7 12. Na3
+Qb6 13. Qe1 Rc8 14. Kh1 Nh6 15. Bd2 O-O 16. c4 b4 17. Nc2 f5
+18. e5 e6 19. Qh4 Nf7 20. Ng5 h6 21. Nxf7 Rxf7 22. Qg3 Bf8
+23. Ne1 Rg7 24. Nf3 Be7 25. h4 Kf7 26. Kg1 Rgg8 27. Kf2 Bc6
+28. Ke2 Qb7 29. Qh3 Ke8 0-1

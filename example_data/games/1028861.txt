@@ -1,0 +1,17 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1870.08.03"]
+[EventDate "1870.07.18"]
+[Round "17"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Johannes Minckwitz"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e5 2.Nc3 Bc5 3.Nf3 Nc6 4.Bb5 a6 5.Ba4 Nf6 6.O-O b5 7.Bb3
+d6 8.h3 Bb7 9.d3 Qd7 10.Ne2 Ne7 11.c3 Bb6 12.a4 h6 13.Be3 Bxe3
+14.fxe3 O-O 15.Ng3 Ng6 16.Nh2 Rad8 17.Rxf6 gxf6 18.Qh5 Ne7
+19.Ng4 Qxg4 20.Qxg4+ Kh7 21.Nh5 1-0

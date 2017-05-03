@@ -1,0 +1,19 @@
+[Event "Tilburg UNEDO"]
+[Site "01"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Dibyendu Barua"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2
+g6 8.Nbc3 Bg7 9.a3 O-O 10.Be3 Be6 11.O-O Nd5 12.Nxd5 Bxd5
+13.Nf4 e6 14.Rc1 Ne7 15.h4 Rc8 16.b4 Nf5 17.Bxf5 exf5 18.h5 c6
+19.b5 Re8 20.bxc6 Bxc6 21.hxg6 hxg6 22.f3 g5 23.Nh5 f4 24.Bf2
+Bd5 25.Qa4 a6 26.Qb4 Qd7 27.Qa5 Rc6 28.Rxc6 Qxc6 29.Rb1 b5
+30.Be1 Rc8 31.Bb4 Qg6 32.Nxg7 Qxb1+ 0-1

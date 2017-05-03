@@ -1,0 +1,16 @@
+[Event "It (cat.11)"]
+[Site "Rishon (Israel)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Ronen Har-Zvi"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.g3 e5 2.c4 g6 3.d4 d6 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Bg2 c6
+7.Nc3 Be6 8.b3 Nd7 9.Nf3 f6 10.O-O Nh6 11.Bb2 Nf7 12.Nd2 h5
+13.Rfd1 h4 14.Rac1 hxg3 15.hxg3 Ke8 16.e3 Rd8 17.Nf3 1/2-1/2

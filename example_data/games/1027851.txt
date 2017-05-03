@@ -1,0 +1,21 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andras Meszaros"]
+[Black "Istvan Bilek"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.Nc3 dxe4
+7.Nxe4 Nh6 8.Bb5+ Nd7 9.h4 Qa5+ 10.Nc3 a6 11.Ba4 b5 12.Bb3 Bb7
+13.h5 Nf5 14.hxg6 hxg6 15.Rxh8+ Bxh8 16.g4 Nd6 17.Bd2 b4
+18.Na4 Ne4 19.Be3 Bd5 20.Rc1 Rd8 21.Qe2 e6 22.Bxd5 exd5 23.Nc5
+Ndxc5 24.dxc5 b3+ 25.Bd2 Qxa2 26.c6 Bxb2 27.c7 Rc8 28.Rc6 Qb1+
+29.Qd1 Qxd1+ 30.Kxd1 Kd7 31.Rxa6 Rxc7 32.Rb6 Nxf2+ 33.Ke2 Nxg4
+34.Rxb3 Be5 35.Kd3 f6 36.Rb5 Kc6 37.Rb4 Nf2+ 38.Ke2 Ne4 39.Be3
+Rb7 40.Ra4 Nc3+ 0-1

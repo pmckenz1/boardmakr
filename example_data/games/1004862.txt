@@ -1,0 +1,21 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Petrov"]
+[Black "Jan Foltys"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Bd3 dxc4
+7. Bxc4 a6 8. Nf3 c5 9. O-O b5 10. Be2 Nbd7 11. Ne5 Bb7
+12. Bf3 Bxf3 13. Qxf3 Nxe5 14. dxe5 Nd5 15. Nxd5 Bxg5 16. Nc3
+Qc7 17. Qe4 Be7 18. f4 Rad8 19. Rad1 Rxd1 20. Rxd1 Rd8 21. Qf3
+g6 22. Kf2 b4 23. Ne4 Kg7 24. Qe2 Rxd1 25. Qxd1 Qc6 26. Qd3 c4
+27. Qd4 a5 28. Ke2 a4 29. Kd2 a3 30. bxa3 b3 31. axb3 cxb3
+32. Nc3 Qxg2+ 33. Kd3 Qc2+ 34. Kc4 b2 35. Qb6 Bxa3 36. e4 Qxh2
+37. Nb1 Qe2+ 38. Kb3 Qxe4 39. Ka2 Bf8 40. Qf2 Qb4 0-1

@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Matthew P Broomfield"]
+[Black "Donald J Mason"]
+[ECO "D82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. Nf3 O-O
+7. Rc1 cxd4 8. Nxd4 Nc6 9. Be2 Nxd4 10. Qxd4 Be6 11. c5 Nh5
+12. Be5 f6 13. Bg3 Nxg3 14. hxg3 Qa5 15. Bf3 Rad8 16. Qh4 h6
+17. O-O g5 18. Qa4 Qxa4 19. Nxa4 g4 20. Bd1 d4 21. exd4 Rxd4
+22. Re1 Bd7 23. Nc3 e5 24. Bb3+ Kh7 25. Bd5 Bc6 26. Rcd1 Bxd5
+27. Rxd4 exd4 28. Nxd5 Rd8 29. Nf4 d3 30. Rd1 d2 31. Kf1 Bh8
+32. Ke2 f5 33. Nd3 Kg6 34. Rxd2 Kg5 35. b4 h5 36. b5 Rc8
+37. Nf4 h4 38. Rd6 Bf6 39. Kd3 h3 40. gxh3 gxh3 41. Nxh3+ Kg4
+42. Rxf6 Rxc5 43. Nf4 Rxb5 44. Ke3 Re5+ 45. Kd4 Ra5 46. Nd5
+Kg5 47. f4+ Kg4 48. Rg6+ Kf3 49. Nc3 b5 50. Kc5 Ra3 51. Kb4
+1-0

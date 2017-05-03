@@ -1,0 +1,19 @@
+[Event "New York (USA)"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "John L Watson"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.c3 c5 6.f4 Nc6 7.Ndf3
+Qa5 8.Be3 b5 9.dxc5 b4 10.Nd4 Qxc5 11.Qa4 bxc3 12.Qxc6 cxb2
+13.Rb1 Qa3 14.Kf2 Rb8 15.f5 Bb7 16.Qc7 Ba6 17.Qxa7 Qxa2
+18.Ngf3 Bc4 19.Qxa2 Bxa2 20.Bb5 Ba3 21.fxe6 fxe6 22.Nxe6 Bxb1
+23.Rxb1 Ke7 24.Ned4 Rhc8 25.Nc6+ Rxc6 26.Bxc6 Rc8 27.Bg5+ Ke6
+28.Nd4+ Kxe5 29.Bxd7 Rc1 30.Nf3+ Kd6 31.Bf5 Bc5+ 1-0

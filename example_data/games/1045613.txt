@@ -1,0 +1,22 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Rainer F A Knaak"]
+[Black "Lubomir Ftacnik"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 c5 8. Ne2 O-O 9. O-O Nc6 10. Be3 b6 11. dxc5 Qc7
+12. Nd4 Ne5 13. Nb5 Qb8 14. Be2 a6 15. Na3 b5 16. Rb1 Bb7
+17. Qc2 Nc6 18. Rfd1 Qe5 19. Nc4 Qxc3 20. Qxc3 Bxc3 21. Nb6
+Rad8 22. Nd5 Be5 23. a4 e6 24. axb5 axb5 25. Bxb5 exd5
+26. exd5 Ne7 27. d6 Nd5 28. Bg5 Nc3 29. Bxd8 Rxd8 30. Re1 Nxb1
+31. Rxe5 Bc8 32. Re3 Be6 33. Rd3 Rb8 34. d7 Bxd7 35. Bxd7 Nc3
+36. f3 Rb1+ 37. Kf2 Rc1 38. Ke3 Kf8 39. Kd2 Na2 40. c6 Rc4
+41. Rb3 Nb4 42. Rxb4 1-0

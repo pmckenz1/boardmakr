@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Simon J B Knott"]
+[Black "Praveen Mahadeo Thipsay"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. g3 a6
+7. Bg2 O-O 8. O-O Bc5 9. h3 h6 10. Be3 Nd4 11. Bxd4 Bxd4
+12. Nxd4 exd4 13. Ne2 c5 14. b4 Rb8 15. bxc5 dxc5 16. Nf4 b5
+17. e5 Nd7 18. e6 Nb6 19. Rb1 bxc4 20. exf7+ Rxf7 21. dxc4 Bb7
+22. Bxb7 Rbxb7 23. Qh5 Qg5 24. Qf3 Qf5 25. Qc6 Rfc7 26. Qe6+
+Qxe6 27. Nxe6 Rc8 28. Rb3 Kf7 29. Nf4 Rbb8 30. Rfb1 Nd7
+31. Nd3 Rxb3 32. Rxb3 Ke6 33. f4 Kd6 34. Kf2 Re8 35. Ra3
+1/2-1/2

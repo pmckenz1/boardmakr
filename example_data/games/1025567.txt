@@ -1,0 +1,21 @@
+[Event "Schwabisch"]
+[Site "02"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Andreas Haefele"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 e5 4.Nf3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Re1
+c6 8.a4 b6 9.Qe2 h6 10.h3 Qc7 11.Ba2 Re8 12.Qc4 Rf8 13.Nh4 Kh8
+14.Nf5 Bd8 15.Qd3 Nh5 16.d5 Nc5 17.Qf3 Bxf5 18.Qxf5 Nf6 19.Bd2
+Ncd7 20.dxc6 Qxc6 21.Qf3 Be7 22.g3 Rae8 23.Kg2 Nc5 24.Bc4 Rb8
+25.b3 Ne6 26.Nd5 Qd7 27.Nxf6 Bxf6 28.Bxh6 Nd4 29.Qh5 Kg8 30.c3
+Nc2 31.Bd2 Nxa1 32.Rxa1 Rbc8 33.Bd5 Rc7 34.c4 Rfc8 35.Rd1 Kf8
+36.Bb4 Rc5 37.Rd3 g6 38.Qh7 Bg7 39.Bxc5 bxc5 40.Rf3 f5 41.Qg8+
+1-0

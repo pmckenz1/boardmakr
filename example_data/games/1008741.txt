@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Charles H Storey"]
+[Black "Oliver Jackson"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. d4 cxd4 6. Nxd4 d5
+7. Nxc6 bxc6 8. Qd4 Qf6 9. Qa4 Bd7 10. Ba6 Qf3 11. O-O Qxe4
+12. c4 Qe5 13. Bb7 c5 14. Qa3 Qb8 15. Bxa8 Qxa8 16. Nc3 Nf6
+17. Bg5 Be7 18. cxd5 c4 19. d6 Qf3 20. Nb5 Qxa3 21. Nxa3 Bd8
+22. Nxc4 O-O 23. Ne5 Bb5 24. Rfc1 Nd5 25. Bh6 Bf6 26. Bxf8
+Bxe5 27. Rc8 h5 28. Be7+ Kg7 29. a4 Bd7 30. Ra8 Bxb2 31. Rxa7
+Bxa1 32. Rxd7 Bc3 33. Rc7 Bb4 34. Rc4 Ba3 35. a5 Nxe7 36. dxe7
+Bxe7 37. a6 1-0

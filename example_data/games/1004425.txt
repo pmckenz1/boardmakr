@@ -1,0 +1,18 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Karoly Sterk"]
+[Black "Erno Gereben"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. e3 Nbd7 6. cxd5 exd5
+7. Bd3 Be7 8. Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Ne5 Ng4
+12. Bxe7 Qxe7 13. Nxg4 Bxg4 14. Be2 Qg5 15. Bxg4 Qxg4 16. Qd1
+Qg5 17. Ne2 Re6 18. Nf4 Rh6 19. Qf3 Re8 20. Rac1 Re4 21. g3
+Qf5 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Dubai Asian Cities"]
+[Site "Dubai Asian Cities"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Lwin Aye"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Qc2
+Nxc3 8.Qxc3 d6 9.O-O Nd7 10.b3 O-O 11.Bb2 Nf6 12.Rfd1 Be4
+13.Rac1 a5 14.a3 Qc8 15.Bh3 Bf5 16.Bxf5 exf5 17.d5 Ne8 18.Nd4
+Bf6 19.Qc2 Qd7 20.Rd3 g6 21.Re3 Bxd4 22.Bxd4 Ng7 23.b4 axb4
+24.axb4 f4 25.Rf3 fxg3 26.hxg3 f5 27.c5 dxc5 28.bxc5 Qxd5
+29.Rd3 Qe6 30.cxb6 cxb6 31.Re3 Qf7 32.Bxb6 Ne6 33.Qc6 Rfe8
+34.Rd3 Rab8 35.Ra1 Qb7 36.Qxb7 Rxb7 37.Be3 Kf7 38.Ra5 Rd8
+39.Rc3 Nd4 40.Ra2 Ne6 41.Kg2 Rd5 42.Ra6 Nc7 43.Rb6 Ra7 44.Rbc6
+Rd7 45.Bxa7 Nb5 46.Be3 1-0

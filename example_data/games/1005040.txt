@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Hoang Thanh Trang"]
+[Black "Daniel Hausrath"]
+[ECO "E73"]
+[WhiteElo "2455"]
+[BlackElo "2400"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6
+7. Be3 Nbd7 8. f3 c5 9. d5 a6 10. a4 Qa5 11. Bd2 Re8 12. Nh3
+Qc7 13. O-O Nf8 14. Nf2 e6 15. Qc2 exd5 16. exd5 Bf5 17. Bd3
+Bxd3 18. Qxd3 N8d7 19. b3 Re7 20. Rae1 Rae8 21. Rxe7 Rxe7
+22. Re1 Rxe1+ 23. Bxe1 Qb6 24. Ne2 Qd8 25. Bd2 Ne5 26. Qc2 b5
+27. axb5 axb5 28. f4 Ned7 29. Nc3 bxc4 30. bxc4 Qb8 31. g3 h5
+32. Kg2 Kf8 33. Qa2 Qb7 34. Qa5 Ke7 35. Nb5 Nb6 36. Qa2 Nbxd5
+37. Kg1 Ng4 38. Ne4 Nb4 39. Qb1 Kf8 40. Nexd6 Qf3 41. Qf1
+Qxf1+ 42. Kxf1 Nxh2+ 43. Ke2 Na6 44. Nb7 Ng4 45. Nxc5 Nxc5
+46. Bb4 Ke7 47. Bxc5+ Kd7 48. Kd3 g5 49. fxg5 Be5 50. Ke4 Bxg3
+51. Kf5 Ne5 52. Bd6 h4 53. Bxe5 Bxe5 54. Kg4 Kc6 55. Kxh4 Kc5
+56. Kg4 Kxc4 57. Kf5 Bg3 58. Na7 Bh4 1/2-1/2

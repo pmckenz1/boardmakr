@@ -1,0 +1,18 @@
+[Event "Prague zt"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Dimitar I Donchev"]
+[Black "Lubomir Ftacnik"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O
+7. O-O Nb6 8. Nc3 Nc6 9. Bf4 Be6 10. Qc1 Nxd4 11. Nxd4 Qxd4
+12. Rd1 Qc4 13. Bxb7 Rad8 14. Bf3 c6 15. Bh6 Rxd1+ 16. Nxd1
+Qxc1 17. Bxc1 Nd5 18. Bd2 Rb8 19. Rc1 Bxb2 20. Nxb2 Rxb2
+21. Bh6 Rb6 22. a4 Ra6 23. Rb1 Rb6 24. Rc1 Ra6 1/2-1/2

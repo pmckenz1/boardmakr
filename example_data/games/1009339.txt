@@ -1,0 +1,31 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Jan Votava"]
+[Black "Stefan E S Kindermann"]
+[ECO "C17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "172"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. dxc5 Nbc6
+7. Qg4 O-O 8. O-O-O f5 9. exf6 Rxf6 10. Bd3 e5 11. Qh4 Nf5
+12. Bxf5 Bxf5 13. Bg5 Bxc3 14. Bxf6 Bxb2+ 15. Kxb2 gxf6 16. f4
+Qa5 17. Qg3+ Kh8 18. fxe5 Nxe5 19. Qb3 Nc4+ 20. Ka1 Re8 21. c3
+Bc2 22. Qxc2 Ne3 23. Qd2 Nxd1 24. Ne2 Ne3 25. Nd4 Nc4 26. Nb3
+Qxc5 27. Nxc5 Nxd2 28. Nd3 Ne4 29. Kb2 Rc8 30. Rc1 Kg8 31. Nf4
+Rc5 32. Re1 Kf7 33. Re3 f5 34. Rh3 Nf6 35. Re3 Rc4 36. g3 Re4
+37. Rf3 b6 38. Kb3 Ke7 39. Nd3 Ke6 40. Nb4 Ng4 41. Rd3 Re3
+42. Rd2 Nf6 43. Kb2 h5 44. Nc2 Ne4 45. Rxd5 Re2 46. Rd8 Rxh2
+47. Re8+ Kd5 48. Rd8+ Kc4 49. Rd4+ Kc5 50. Kb3 Nd2+ 51. Kb2 a5
+52. a4 Nc4+ 53. Kb3 Nd2+ 54. Kb2 Ne4 55. Rd3 Rg2 56. Rf3 Nxg3
+57. Kb3 h4 58. Ne3 h3 59. Nxf5 h2 60. Nxg3 Rxg3 61. Rf5+ Kd6
+62. Rh5 Rg2 63. Kc4 Ke6 64. Rh6+ Kf5 65. Kb5 Rb2+ 66. Ka6 Kg4
+67. c4 Kg3 68. Rg6+ Kf4 69. Rh6 Ke4 70. Rh4+ Ke5 71. Kb7 Kd6
+72. Rh5 Ke6 73. Kc6 Kf6 74. Kb7 Kg6 75. Rh8 Kf5 76. Rh4 Kg5
+77. Rh8 Kf4 78. Ka6 Kg3 79. Rg8+ Kf2 80. Rh8 Kg1 81. Rg8+ Rg2
+82. Rh8 Rg6 83. c5 bxc5+ 84. Kxa5 h1=Q 85. Rxh1+ Kxh1 86. Kb5
+Rg5 0-1

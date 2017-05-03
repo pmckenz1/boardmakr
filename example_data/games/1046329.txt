@@ -1,0 +1,22 @@
+[Event "Tilburg1.29"]
+[Site "Tilburg NED"]
+[Date "1992.10.09"]
+[EventDate "?"]
+[Round "1.2"]
+[Result "1-0"]
+[White "Luc Winants"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. f4 Nc5 9. f5 Be7 10. Qf3 O-O 11. Be3 e5
+12. Nde2 Nxb3 13. axb3 b5 14. g4 b4 15. Na4 Bb7 16. Ng3 d5
+17. O-O-O d4 18. Bd2 Rc8 19. Kb1 Nd7 20. g5 Bxg5 21. Bxb4 Re8
+22. Rhg1 Be3 23. Rg2 Qh4 24. Bd2 Bxd2 25. Rgxd2 Nf6 26. Re2 h5
+27. Qd3 Qg4 28. Rde1 Bc6 29. Nb6 Bb5 30. Nc4 Nd7 31. Nf1 Nc5
+32. Qd1 Bxc4 33. bxc4 Rb8 34. Nd2 Rxb2+ 35. Kxb2 Na4+ 36. Ka1
+Qh3 37. Nb1 Rb8 38. Qd3 Qh4 39. Qa3 Nb6 40. Nd2 Qd8 41. Rb1
+Rc8 42. c5 Nd7 43. Nb3 1-0

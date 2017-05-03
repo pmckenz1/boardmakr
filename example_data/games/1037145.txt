@@ -1,0 +1,23 @@
+[Event "Groningen (Netherlands)"]
+[Site "Groningen NED"]
+[Date "1990.12.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Janis Daudzvardis"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.Nf3 g6 2.e4 c6 3.d4 Bg7 4.c3 d6 5.Bd3 e5 6.O-O Nd7 7.Re1
+Ngf6 8.Bg5 h6 9.Bh4 O-O 10.Nbd2 Qc7 11.Bf1 Re8 12.a4 Nf8
+13.dxe5 dxe5 14.Nc4 Re6 15.a5 Bd7 16.Nfd2 Rb8 17.f3 b5 18.axb6
+axb6 19.Bf2 c5 20.b4 b5 21.Na5 c4 22.Qc2 Ree8 23.Rad1 Ne6
+24.Be2 Nf4 25.Nf1 N6h5 26.Ng3 Nxe2+ 27.Nxe2 Be6 28.Rd2 Rbd8
+29.Red1 Rxd2 30.Qxd2 Bf8 31.Be3 Kh7 32.g4 Nf6 33.Ng3 Ng8
+34.Kg2 Be7 35.Qf2 Kg7 36.Nf1 Qc8 37.h3 Kh7 38.Bb6 f5 39.Ng3 f4
+40.Ne2 h5 41.Rh1 Nh6 42.Bc5 Bf6 43.Bd6 Nf7 44.Qa7 Rd8 45.Bc5
+Rd2 46.Re1 Bh4 47.Bf2 Bxf2 48.Qxf2 Qd7 49.gxh5 Bxh3+ 50.Kh2 g5
+51.Nb7 g4 52.Qh4 Rxe2+ 53.Rxe2 g3 0-1

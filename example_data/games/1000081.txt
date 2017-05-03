@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.07"]
+[EventDate "1900.??.??"]
+[Round "11"]
+[Result "1-0"]
+[White "Georg Marco"]
+[Black "M Didier"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 a6 6.Ba4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Re1 O-O 11.Nd4 Nxd4 12.cxd4 f5
+13.exf6 Rxf6 14.f3 Bb4 15.fxe4 Bg4 16.Qxg4 Bxe1 17.Be3 Kh8
+18.e5 Rg6 19.Qh3 Qf8 20.Nc3 Bxc3 21.bxc3 1-0

@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.19"]
+[EventDate "1923.11.16"]
+[Round "2"]
+[Result "0-1"]
+[White "F Fischer"]
+[Black "Lajos Steiner"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. Qc2 c5 6. e4 cxd4
+7. Nxd4 Bb4 8. Bd3 Nc6 9. Nf3 Na5 10. Bd2 Rc8 11. Nb5 a6
+12. Bxb4 axb5 13. Bxa5 bxc4 14. Bc3 cxd3 15. Qxd3 Bxe4 16. Qe2
+Bxf3 17. Qxf3 O-O 18. O-O d5 19. Rad1 Ne4 20. Bd4 Rc6 21. Qd3
+Qa8 22. f3 Nc5 23. Qb1 f6 24. Rfe1 e5 25. Bxc5 Rxc5 26. Re2
+Rfc8 27. a3 d4 28. Qa2+ Qd5 29. Qxd5+ Rxd5 30. Red2 Kf7
+31. Kf2 Ke6 32. Ke2 Rdc5 33. Rd3 Kd5 34. Rb3 b5 35. Rd2 f5
+36. Rb4 Ra8 37. f4 Ra4 38. Rxa4 bxa4 39. fxe5 Ke4 40. e6 Re5
+41. Rd3 Rxe6 42. b3 Rg6 43. g3 Rh6 44. h4 f4 45. bxa4 g5 0-1

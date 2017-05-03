@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Rainer Kraut"]
+[Black "Stellan Brynell"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Bd2 Nc6
+7. Nb5 Nxd4 8. Nxd4 cxd4 9. Nf3 Ne7 10. Bb5+ Nc6 11. O-O Bxd2
+12. Qxd2 Qb6 13. Nxd4 O-O 14. Bxc6 bxc6 15. b4 f6 16. Rfe1 a5
+17. bxa5 Qc7 18. exf6 Rxf6 19. Nf3 Rxa5 20. Ne5 Ra4 21. c4
+dxc4 22. Qc2 Ra5 23. Nxc4 Rh5 24. h3 c5 25. Rab1 Bb7 26. Qb3
+Bd5 27. Qb8+ Qxb8 28. Rxb8+ Rf8 29. Rxf8+ Kxf8 30. Nb6 Bb3
+31. Re3 c4 32. Rc3 Ra5 33. Nxc4 Bxc4 34. Rxc4 Rxa3 35. Rc7
+1/2-1/2

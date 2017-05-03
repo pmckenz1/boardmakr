@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "0-1"]
+[White "Andreas Arnold Schmitz"]
+[Black "Bragi Thorfinnsson"]
+[ECO "B22"]
+[WhiteElo "2159"]
+[BlackElo "2260"]
+[PlyCount "60"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 d6
+7. Bc4 Nb6 8. Bb3 d5 9. h3 Bf5 10. Nc3 e6 11. Bg5 Qd7 12. Bc2
+Bg6 13. Bxg6 hxg6 14. Rc1 Nc4 15. Qe2 a6 16. O-O b5 17. b3
+N4a5 18. Nb1 Be7 19. Bxe7 Qxe7 20. Rc2 O-O 21. Rfc1 Rfc8
+22. Qd2 Ra7 23. Qg5 Kf8 24. Qxe7+ Kxe7 25. g4 Rac7 26. Nc3 Nb4
+27. Nxd5+ Nxd5 28. Rxc7+ Rxc7 29. Rxc7+ Nxc7 30. Nd2 Nc6 0-1

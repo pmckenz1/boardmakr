@@ -1,0 +1,21 @@
+[Event "Katowice op"]
+[Site "01"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viacheslav Mansurov"]
+[Black "Yuri Balashov"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 Ng4 6.Qe2 Qe7 7.Bf4
+f6 8.exf6 Qxe2+ 9.Kxe2 Nxf6 10.Re1 d6 11.Nbd2 Be7 12.Kf1 a6
+13.Nb3 b5 14.Nbxd4 Nxd4 15.Nxd4 bxc4 16.Nc6 Bd7 17.Rxe7+ Kf8
+18.Rae1 Bxc6 19.Rxc7 Bb5 20.Bxd6+ Kg8 21.Be5 Re8 22.Bc3 h5
+23.Ra1 Re6 24.a4 Bc6 25.f4 Ne8 26.Ra7 Kh7 27.Kf2 Rf8 28.g3 Nf6
+29.Bxf6 Rfxf6 30.Rxa6 g5 31.Re1 Rd6 32.Re5 gxf4 33.gxf4 Rxf4+
+34.Ke3 Rf3+ 35.Ke2 Rh3 36.Re7+ Kg6 37.Raa7 Rxh2+ 38.Ke3 Rh3+
+39.Ke2 Rh2+ 40.Ke3 Rxc2 41.a5 Rd3+ 0-1

@@ -1,0 +1,18 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "1-0"]
+[White "Ihor Nester"]
+[Black "Yurij Semerij"]
+[ECO "A46"]
+[WhiteElo "2266"]
+[BlackElo "2240"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. a4 b4 5. Bg2 Bb7 6. O-O c5
+7. Nbd2 cxd4 8. Nb3 Na6 9. Nbxd4 Nc5 10. Nb5 Nce4 11. Bf4 d6
+12. Nd2 e5 13. Bg5 d5 14. Bxe4 dxe4 15. Nc4 Qb8 16. Nbd6+ Ke7
+17. Nxb7 Qxb7 18. Qd6+ Ke8 19. Qxe5+ Qe7 20. Bxf6 gxf6
+21. Nd6+ Kd7 22. Qd5 1-0

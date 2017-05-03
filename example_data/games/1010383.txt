@@ -1,0 +1,20 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Praveen Mahadeo Thipsay"]
+[Black "Ponnuswamy Konguvel"]
+[ECO "B74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7
+7. O-O Nc6 8. Be3 O-O 9. Nb3 Be6 10. f4 Qc8 11. Kh1 Bg4
+12. Qd2 Bxe2 13. Qxe2 Rb8 14. Rad1 b5 15. Nd4 Re8 16. Nxc6
+Qxc6 17. Bxa7 Ra8 18. Bd4 b4 19. Nd5 Nxd5 20. exd5 Qa6 21. Qe4
+Bxd4 22. Qxd4 Qxa2 23. f5 Rac8 24. fxg6 fxg6 25. Qxb4 Rxc2
+26. Qf4 Rcc8 27. Qf7+ Kh8 28. Rd2 Qc4 29. h3 e5 30. dxe6 Qxe6
+31. Qf6+ Kg8 32. Rxd6 Qc4 33. Rd7 1-0

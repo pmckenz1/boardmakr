@@ -1,0 +1,27 @@
+[Event "Open 1, Vienna AUT"]
+[Site "01"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Zoltan Almasi"]
+[Black "Alisa Galliamova"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "151"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O h6 9.Be3 Be7 10.f3 Nxd4 11.Bxd4 b5 12.Kb1 Rb8
+13.Qf2 Qc7 14.h4 b4 15.Na4 e5 16.Ba7 Rb7 17.Be3 Qc6 18.Nb6 Be6
+19.b3 O-O 20.Bc4 Rxb6 21.Bxb6 Bxc4 22.bxc4 Qxc4 23.g4 Nd7
+24.Be3 Rc8 25.g5 h5 26.Rh2 Qc6 27.Qd2 g6 28.Qd5 Qc7 29.Rd3 Nf8
+30.a3 a5 31.axb4 axb4 32.Rb3 Ne6 33.Rxb4 Qc3 34.Rb3 Qe1+
+35.Kb2 Nd4 36.Bxd4 exd4 37.f4 d3 38.Rxd3 Bf8 39.e5 Qb4+ 40.Rb3
+Qxf4 41.Re2 dxe5 42.Qe4 Qf1 43.Qf3 Qd1 44.Rf2 Qd4+ 45.c3 Qd7
+46.Rb7 Rc7 47.Rxc7 Qxc7 48.Re2 Qa5 49.Qe4 Qa3+ 50.Kc2 Qa2+
+51.Kd3 Qb1+ 52.Kc4 Qa1 53.Re1 Qa6+ 54.Kb3 Qa3+ 55.Kc2 Qa2+
+56.Kd3 Bd6 57.Qc6 Bf8 58.Rf1 Qa7 59.Qc4 Bg7 60.Rb1 Qd7+ 61.Kc2
+Qf5+ 62.Kc1 Bf8 63.Rb8 Kg7 64.Kb2 Qd7 65.Kc2 Qf5+ 66.Kb2 Qd7
+67.Qe2 Bd6 68.Rb6 Bc7 69.Rb7 Qc6 70.Qb5 Qd6 71.Kc2 e4 72.Qc4
+e3 73.Rxc7 Qd2+ 74.Kb3 Qd1+ 75.Kb4 Qb1+ 76.Kc5 1-0

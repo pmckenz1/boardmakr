@@ -1,0 +1,20 @@
+[Event "Warsaw zt pr B"]
+[Site "Warsaw POL"]
+[Date "1979.01.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jan Sikora-Lerch"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 Nf6 6.e5 Ne4 7.Bd3
+d5 8.Nc3 Nxc3 9.bxc3 Nc6 10.O-O O-O 11.h3 Bf5 12.Bxf5 gxf5
+13.Re1 e6 14.Bg5 Qd7 15.Qd2 Kh8 16.Re2 Ne7 17.Bf6 Rg8 18.Bg5
+Qe8 19.a4 Rc8 20.a5 Qf8 21.Qe3 h6 22.Bf4 Ng6 23.Rb2 Nxf4
+24.Qxf4 Qe7 25.Rab1 Rc7 26.Rb3 Kh7 27.Qc1 Rb8 28.Qa3 Qxa3
+29.Rxa3 Bf8 30.Rab3 Be7 31.Kf1 Kg7 32.Ke2 Bd8 33.Ne1 Rc6
+34.Ra3 Be7 35.Rab3 Bd8 36.Ra3 1/2-1/2

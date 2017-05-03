@@ -1,0 +1,17 @@
+[Event "Kaschau"]
+[Site "Kaschau"]
+[Date "1892.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Brosztel"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O Nf6 7.d4
+O-O 8.dxe5 Nxe4 9.Qc2 d5 10.Ba3 Re8 11.Rd1 Be6 12.Bd3 Ng5
+13.Nxg5 Qxg5 14.Bxh7+ Kh8 15.Bd3 Bb6 16.Kh1 Nxe5 17.Bc1 Nxd3
+18.Bxg5 Nxf2+ 19.Kg1 Nxd1 20.Kf1 Bg4 0-1

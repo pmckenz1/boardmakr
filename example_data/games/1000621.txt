@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.22"]
+[EventDate "1911.08.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Erich Cohn"]
+[Black "Georg Rotlewi"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d3 O-O 11.Nbd2 Nc6 12.Nf1 Nh5 13.Ne3
+Nf4 14.d4 Bf6 15.Nd5 cxd4 16.Bxf4 exf4 17.Nxd4 Bxd4 18.cxd4
+Qg5 19.f3 Be6 20.Qd3 g6 21.Nc3 Rac8 22.a3 Na5 23.Qe2 Rc7
+24.Qf2 Rfc8 25.Bd3 Bc4 26.Bxc4 Rxc4 27.Nd5 Nb3 28.Rad1 Rc2
+29.Re2 Rc1 30.Ree1 R1c2 31.Re2 Rxe2 32.Qxe2 Rc4 33.Qf2 Nxd4
+34.h4 Qe5 35.Nb6 Qc5 36.Nxc4 Ne2+ 37.Kf1 Ng3+ 38.Kg1 Ne2+
+39.Kf1 Ng3+ 40.Ke1 Qxc4 41.Kd2 d5 42.exd5 b4 43.axb4 Qxb4+
+44.Kc1 Nf5 45.d6 Ne3 46.Qd2 Qa4 47.Kb1 Nxd1 48.d7 Nc3+ 49.bxc3
+Qb3+ 50.Kc1 Qa3+ 51.Kd1 Qb3+ 52.Ke1 Qe6+ 53.Kf1 1-0

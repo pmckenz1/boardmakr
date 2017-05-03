@@ -1,0 +1,21 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.06.26"]
+[EventDate "1937.06.16"]
+[Round "9"]
+[Result "1-0"]
+[White "Movsa Feigin"]
+[Black "Ludwig Rellstab"]
+[ECO "D81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. Nf3
+O-O 7. g3 c6 8. Bg2 Nd5 9. O-O b6 10. Re1 Bb7 11. e4 Nxc3
+12. bxc3 Na6 13. a4 e6 14. Ba3 Re8 15. Rac1 Rc8 16. Qb3 Qc7
+17. c4 Rcd8 18. Bb2 Nb8 19. Bc3 Nd7 20. Qb2 Ba6 21. Bf1 c5
+22. d5 Bxc3 23. Qxc3 e5 24. Qe3 Nf8 25. Ra1 f6 26. a5 Bc8
+27. Reb1 Rd6 28. axb6 Rxb6 29. Ne1 Bd7 30. Nd3 Reb8 31. Rc1
+Rc8 32. Ra5 Rb3 33. Rxc5 Qb8 34. Rxc8 Bxc8 35. c5 a5 36. c6 a4
+37. Qc5 a3 38. Ra1 Ba6 39. Rxa3 Bxd3 40. c7 1-0

@@ -1,0 +1,26 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "1-0"]
+[White "Timo Lampen"]
+[Black "Hendrik Marks"]
+[ECO "E25"]
+[WhiteElo "2307"]
+[BlackElo "2085"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5
+7. cxd5 exd5 8. e3 Qc7 9. Ra2 Bf5 10. Ne2 cxd4 11. cxd4 Nbd7
+12. g4 Bg6 13. Bg2 Rc8 14. O-O Bc2 15. Qe1 Nb6 16. Rf2 O-O
+17. g5 Nfd7 18. Bd2 Bf5 19. Ng3 Be6 20. Ra1 Nc4 21. f4 Nxd2
+22. Qxd2 f5 23. gxf6 Nxf6 24. f5 Bf7 25. e4 dxe4 26. Nxe4 b6
+27. Nxf6+ gxf6 28. Qh6 Qe7 29. Bb7 Qxb7 30. Rg2+ Qxg2+
+31. Kxg2 Bd5+ 32. Kf1 Rf7 33. Rc1 Rxc1+ 34. Qxc1 Be4 35. Qc8+
+Kg7 36. Qe6 Bd3+ 37. Kf2 Rf8 38. Kg3 Rf7 39. Kf4 Bc2 40. Qe8
+Bb3 41. Qd8 Bc4 42. Ke3 Rf8 43. Qd7+ Rf7 44. Qc6 Re7+ 45. Kf4
+Bf7 46. Qd6 Rb7 47. Qd8 Bb3 48. Qe8 Bf7 49. Qc8 Re7 50. Qd8
+Re1 51. d5 Rf1+ 52. Kg4 h5+ 53. Kg3 Rxf5 54. d6 Rg5+ 55. Kf3
+Kg6 56. Qe7 Rf5+ 57. Ke3 Rf1 58. Qe4+ Kh6 59. d7 Re1+ 60. Kd4
+Rd1+ 61. Qd3 1-0

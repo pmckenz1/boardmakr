@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York (29-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.03"]
+[EventDate "?"]
+[Round "29"]
+[Result "1/2-1/2"]
+[White "Samuel Lipschutz"]
+[Black "Jean Taubenhaus"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nf6 6.Bxc6 dxc6
+7.Nxe5 Be7 8.d4 O-O 9.c3 Be6 10.Nd2 c5 11.Ndf3 Ng4 12.Bf4 Nxe5
+13.Bxe5 c6 14.Qc1 Bd5 15.Qe3 cxd4 16.Nxd4 f6 17.Bc7 Qxc7
+18.Qxe7 Qxe7 19.Rxe7 Rf7 20.Re3 g6 21.b3 Rd8 22.Rae1 Rfd7
+23.f3 c5 24.Ne2 Bf7 25.c4 Rd2 26.Nc3 f5 27.R1e2 Rxe2 28.Rxe2
+Kf8 29.Kf2 Rd3 30.Nb5 a6 31.Na3 Kg7 32.Nc2 f4 33.Ke1 Kf6
+34.Rd2 Rxd2 35.Kxd2 g5 1/2-1/2

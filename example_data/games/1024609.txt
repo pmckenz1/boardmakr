@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.23"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Bojan Kurajica"]
+[Black "Yuri Balashov"]
+[ECO "B51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.d4 cxd4
+7.Nxd4 e6 8.Nxc6 bxc6 9.Bf1 Be7 10.b3 O-O 11.Ba3 c5 12.Nd2 Bc6
+13.Bb2 Qc7 14.Qf3 Rad8 15.Qg3 Nh5 16.Qg4 Nf6 17.Qg3 Nh5 18.Qg4
+Nf6 19.Qg3 Nh5 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Azov UURSO"]
+[Site "06"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Tsagaan Battsetseg"]
+[Black "Alisa Galliamova"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f3 b5 10.Nxc6 Bxc6 11.Bd3 Be7 12.Kb1 O-O
+13.h4 h6 14.Bxh6 gxh6 15.Qxh6 e5 16.Rh3 1-0

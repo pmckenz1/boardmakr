@@ -1,0 +1,21 @@
+[Event "London (England)"]
+[Site "London (England)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Susan Arkell Lalic"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 c5 5.cxd5 exd5 6.Bg2 Nc6 7.O-O
+Be7 8.Be3 O-O 9.dxc5 Ng4 10.Bd4 Nxd4 11.Qxd4 Bf6 12.Qd2 Qe7
+13.Nc3 Qxc5 14.Rac1 Be6 15.h3 Nh6 16.Ne4 Qe7 17.Nxf6+ Qxf6
+18.Rc7 b6 19.g4 Qd8 20.Rfc1 Re8 21.Nd4 Qh4 22.Qf4 Kh8 23.e3
+Ng8 24.Nb5 Ne7 25.Rxa7 Rxa7 26.Nxa7 h5 27.Nb5 Ng6 28.Qh2 Kg8
+29.gxh5 Qxh5 30.Nd4 Ne5 31.b3 Nd3 32.Rf1 Bc8 33.Qg3 Re5 34.Nf3
+Re6 35.Qc7 Ba6 36.Qd8+ Kh7 37.Ng5+ Kh6 38.Nxe6 fxe6 39.Qxb6
+Nc5 40.Qxc5 Bxf1 41.Bxf1 1-0

@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1952.03.30"]
+[EventDate "1952.03.03"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Paul Keres"]
+[Black "Mikhail Botvinnik"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Ne4 4.Bf4 Bg7 5.Nbd2 d5 6.e3 c5 7.c3
+Nc6 8.Nxe4 dxe4 9.Ng5 cxd4 10.exd4 Qd5 11.Qb3 e6 12.Qc2 f5
+13.f3 O-O 14.fxe4 fxe4 15.g3 e5 16.dxe5 Nxe5 17.Qxe4 Qxe4+
+18.Nxe4 Bg4 19.Bxe5 Bxe5 1/2-1/2

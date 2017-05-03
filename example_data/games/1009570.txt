@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Detlef Plump"]
+[Black "Stephan Schmidt"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6
+7. Na3 b5 8. Nd5 Nge7 9. Bg5 h6 10. Bh4 Qa5+ 11. c3 Nxd5
+12. Qxd5 Bb7 13. Nc2 Qc7 14. Qd3 Be7 15. Bg3 f5 16. exf5 Bf6
+17. Ne3 Ne7 18. Be2 O-O 19. O-O d5 20. Rfe1 Qc6 21. Bf1 Rad8
+22. Ng4 e4 23. Qe2 Nxf5 24. Nxf6+ Qxf6 25. Rad1 g5 26. Qd2 h5
+27. Bc7 Rd7 28. Ba5 Rc8 29. Rxe4 d4 30. Ree1 Nh4 31. f4 gxf4
+32. cxd4 Rg7 33. Kh1 f3 34. d5 Qg6 35. g3 Rc2 36. Qe3 Rxh2+
+37. Kxh2 Qxg3+ 38. Kh1 Nf5 39. Qe6+ Kh8 40. Qe8+ 1-0

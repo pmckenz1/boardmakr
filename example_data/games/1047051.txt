@@ -1,0 +1,21 @@
+[Event "Cup Russia"]
+[Site "St. Petersburg (Russia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Sergey V Mozaliov"]
+[Black "Alisa Galliamova"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O h6 9.Be3 Be7 10.f4 Bd7 11.Bd3 Ng4 12.Bg1 Nxd4
+13.Bxd4 e5 14.Bg1 exf4 15.Nd5 Ne3 16.Nxe3 fxe3 17.Bxe3 Be6
+18.Kb1 O-O 19.h3 Bf6 20.Rhf1 Qe7 21.Bf4 Rac8 22.Qb4 Rc5
+23.Bxa6 Bxa2+ 24.Kxa2 Ra8 25.Rxd6 Rxc2 26.e5 Rxa6+ 27.Kb1 Rxd6
+28.Qxd6 Rxb2+ 29.Kc1 Ra2 30.Rd1 Qxd6 31.exd6 Ra1+ 32.Kc2 Rxd1
+33.Kxd1 Kf8 34.Ke2 Ke8 35.Kd3 Kd7 36.Kc4 Kc6 37.Bg3 h5 38.Bf4
+g5 39.Bg3 h4 40.Bh2 Bg7 41.g4 hxg3 42.Bxg3 f5 0-1

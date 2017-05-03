@@ -1,0 +1,17 @@
+[Event "Ch World (team) (under 26)"]
+[Site "Graz (Austria)"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Danilo Polajzer"]
+[Black "Nigel Rodney Davies"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nc6 5.Be3 e5 6.d5 Nce7 7.g4 c5
+8.h4 Nf6 9.g5 Nh5 10.Be2 Nf4 11.Bf3 O-O 12.Nge2 f5 13.Qd2 Qa5
+14.O-O-O Rb8 15.Nxf4 exf4 16.Bxf4 fxe4 17.Bxd6 Rxf3 18.Bxb8
+Rxc3+ 19.Kb1 e3 0-1

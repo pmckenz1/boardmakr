@@ -1,0 +1,23 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Fritz Englund"]
+[Black "Dirk Bleijkmans"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 f5 6. Nge2 c6
+7. d3 Nxc3 8. bxc3 g6 9. Nf4 d4 10. Bd2 Qb6 11. Be2 Bg7
+12. O-O O-O 13. cxd4 Qxd4+ 14. Be3 Qxe5 15. d4 Qd6 16. Bc4+
+Kh8 17. c3 g5 18. Nh5 f4 19. Nxg7 Kxg7 20. Bd2 Bf5 21. a4 Nd7
+22. Bc1 Qg6 23. Ba3 Rfe8 24. Rfe1 Be4 25. Qf2 Nf6 26. Be2 Nd5
+27. Rac1 Ne3 28. Bf1 Ng4 29. Qb2 b6 30. c4 Qf6 31. Qd2 f3
+32. gxf3 Qxf3 33. Bg2 Qxg2+ 34. Qxg2 Bxg2 35. Kxg2 Kg6 36. Be7
+Rac8 37. h3 Rc7 38. Bd6 Rxe1 39. Rxe1 Rd7 40. c5 Nf6 41. Kf3
+Rf7 42. Re6 Kh5 43. Kg3 Nd5 44. Be5 Nb4 45. Bf6 bxc5 46. dxc5
+Nd5 47. Be5 Re7 48. Rxe7 Nxe7 49. Bh8 a6 50. Be5 Kg6 0-1

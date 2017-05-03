@@ -1,0 +1,21 @@
+[Event "Novosibirsk (Russia)"]
+[Site "Novosibirsk (Russia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Alexander (Nenashev) Graf"]
+[ECO "E33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 6.a3 Bxc3+
+7.Qxc3 O-O 8.b4 e5 9.dxe5 dxe5 10.e3 Re8 11.Bb2 Bg4 12.b5 e4
+13.bxc6 exf3 14.h3 Bh5 15.g4 Bg6 16.h4 Qd6 17.Rd1 Qxc6 18.h5
+Rxe3+ 19.fxe3 f2 20.Ke2 Qxh1 21.hxg6 hxg6 22.Rd4 Qh4 23.Rf4
+Re8 24.Qd4 c5 25.Qxc5 Nh5 26.gxh5 Qxf4 27.Qd4 Qxd4 28.Bxd4
+gxh5 29.Bxa7 Ra8 30.Bd4 Rxa3 31.Kxf2 f5 32.Bg2 Rb3 33.Bd5+ Kh7
+34.c5 Rb1 35.e4 Rd1 36.Be3 Rb1 37.exf5 h4 38.Kg2 Rb4 39.Bf2 g6
+40.f6 g5 41.f7 Kg7 42.Be3 Ra4 43.Kh3 Ra3 0-1

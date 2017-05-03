@@ -1,0 +1,16 @@
+[Event "Altensteig (Germany)"]
+[Site "It"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Markus Stangl"]
+[Black "Andras Adorjan"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O d6 7.d4
+cxd4 8.Qxd4 a6 9.Ng5 Bxg2 10.Kxg2 Be7 11.Be3 Nbd7 12.Nge4 Qc7
+13.Rfd1 O-O 14.Rac1 Rfd8 1/2-1/2

@@ -1,0 +1,31 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.18"]
+[EventDate "?"]
+[Round "20"]
+[Result "1-0"]
+[White "Jean Taubenhaus"]
+[Black "Nicholas MacLeod"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nc3 d6 {?} 3.f4 Nc6 4.Nf3 Bg4
+5.Bb5 Nge7 6.fxe5 dxe5 7.O-O a6 8.Ba4 Qd6 9.d3 O-O-O 10.Be3 f5
+11.a3 {?} f4 12.Bf2 g5 13.b4 Nd4 14.Bxd4 Bxf3 15.Bc5 Bxd1
+16.Bxd6 Rxd6 17.Rfxd1 h5 18.Bb3 g4 19.a4 h4 20.b5 a5 21.Nb1 g3
+22.h3 Ng6 {? By steady manouvering which was supported by good
+judgement, Black has obtained much the better position, of
+which, however, he fails to avail himself at the decisive
+point. 22...f3 23.gxf3 Ng6 followed by Nf4 would have secured
+the victory.} 23.Nd2 Rf6 24.Nf3 b6 {?} 25.c3 Bc5+ 26.d4 Bd6
+27.d5 {?} Rh5 28.Ra2 Ne7 29.Bc4 {!} Ng6 30.Be2 {!} Rh8 31.Ng5
+Re8 32.Bg4+ Kb8 33.Nh7 {!} Rf7 34.Bh5 Rg7 35.Ng5 Ree7 36.Re2
+{?} f3 { Beautiful play that ought to have given him great
+advantage.} 37.Nxf3 Nf4 38.Nxh4 Nxe2+ {But he spoils the
+effect of his previous fine play. Rh7 or Nxh5 would have
+ultimately left him with two pieces for the Rook, and a good
+game.} 39.Bxe2 Rh7 40.Nf5 Re8 41.c4 Rg8 42.Bg4 Bc5+ 43.Kf1 Bf2
+44.Rd3 Rxg4 {The onslaught does not succeed, but he had also
+otherwise a lost game.} 45.hxg4 Rh1+ 46.Ke2 Ra1 47.g5 1-0

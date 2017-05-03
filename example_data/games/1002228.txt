@@ -1,0 +1,27 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.15"]
+[EventDate "?"]
+[Round "19"]
+[Result "0-1"]
+[White "George Hatfeild Gossip"]
+[Black "Max Judd"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "144"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 b6 6.Bb5 c6 7.Bd3 c5
+8.dxc5 bxc5 9.b3 Nc6 10.Nf3 Be7 11.O-O Nb4 12.Be2 Ba6 13.a3
+Bxe2 14.Nxe2 Nc6 15.Ng3 g6 16.Qe2 a5 17.Bb2 h5 18.Rad1 Qb6
+19.Qf2 c4 20.Qxb6 Nxb6 21.Nd4 Bc5 22.Kh1 Nxd4 23.Bxd4 Bxd4
+24.Rxd4 cxb3 25.cxb3 Kd7 26.h4 Rhc8 27.Ne4 Ke7 28.Nd6 Rc3
+29.Rb1 Nd7 30.Nb5 Rc5 31.a4 Rac8 32.Rdd1 Rc2 33.b4 axb4
+34.Rxb4 Rc1 35.Rb1 Rxd1+ 36.Rxd1 Rc4 37.Ra1 Rxf4 38.a5 Rxh4+
+39.Kg1 Nxe5 40.a6 Nc6 41.a7 Nxa7 42.Rxa7+ Kf8 43.g3 Rg4 44.Kf2
+h4 45.gxh4 Rxh4 46.Kg3 g5 47.Nd6 Rf4 48.Ra8+ Ke7 49.Nb5 f5
+50.Rg8 Rb4 51.Na7 Rb3+ 52.Kf2 g4 53.Nc6+ Kd6 54.Nd4 Rb6 55.Rg6
+Ke5 56.Ke3 Ra6 57.Nb5 Rc6 58.Kd3 Rc4 59.Rg8 Rb4 60.Nc7 Rb3+
+61.Ke2 Rb7 62.Rg7 f4 63.Rg5+ Kf6 64.Nxe6 Kxe6 65.Rxg4 Kf5
+66.Rg8 Re7+ 67.Kd3 f3 68.Rf8+ Kg4 69.Rg8+ Kf4 70.Kd4 Rf7
+71.Ra8 f2 72.Ra1 Kg3 0-1

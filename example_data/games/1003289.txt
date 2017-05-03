@@ -1,0 +1,19 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Ernst Heilmann"]
+[Black "Fritz Englund"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. Bb5 Nge7 6. exd5
+Qxd5 7. d4 Bd7 8. Be3 e4 9. c4 Qd6 10. Nfd2 f5 11. Nc3 a6
+12. c5 Qg6 13. Qa3 Qf7 14. O-O-O f4 15. Bc4 Qf5 16. Ndxe4 fxe3
+17. fxe3 Qg6 18. Rhf1 O-O-O 19. Bxa6 bxa6 20. Nd6+ cxd6
+21. Qxa6+ Kb8 22. Qb6+ Ka8 23. d5 Rb8 24. Qa6+ Na7 25. c6
+Nexc6 26. dxc6 Bxc6 27. Rf4 Be7 0-1

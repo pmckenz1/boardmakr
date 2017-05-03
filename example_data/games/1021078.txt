@@ -1,0 +1,19 @@
+[Event "Osasco mag"]
+[Site "Osasco mag"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Jefferson Pelikian"]
+[Black "Andres Rodriguez Vila"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.Nc3 d5 2.d4 f5 3.f3 c5 4.e4 Nf6 5.Bg5 fxe4 6.fxe4 dxe4 7.d5
+Bf5 8.Nge2 Qb6 9.Qd2 Nbd7 10.O-O-O h6 11.Bxf6 Nxf6 12.Ng3 Bd7
+13.Ngxe4 g6 14.Nxf6+ Qxf6 15.Bb5 Bxb5 16.Nxb5 Bg7 17.c3 Qb6
+18.Qe2 O-O 19.d6 exd6 20.Rxd6 Qa5 21.Qc4+ Kh7 22.Rd7 Rad8
+23.Rhd1 Rxd7 24.Rxd7 Qa6 25.Rd6 b6 26.Rd7 Qc8 27.Qe6 Rf1+
+28.Kc2 Rf2+ 29.Kb3 c4 0-1

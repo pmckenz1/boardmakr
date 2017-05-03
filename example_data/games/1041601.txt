@@ -1,0 +1,18 @@
+[Event "Biel Interzonal"]
+[Site "Biel SUI"]
+[Date "1985.07.20"]
+[EventDate "1985.07.01"]
+[Round "14"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Margeir Petursson"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Ne2 cxd4 7.exd4
+d5 8.O-O dxc4 9.Bxc4 O-O 10.Bg5 Be7 11.a3 b6 12.Qd3 Bb7
+13.Rad1 Nd5 14.Bxd5 Bxg5 15.Be4 g6 16.d5 exd5 17.Bxd5 Qe7
+18.Ng3 Rae8 19.Nge4 Kg7 20.Nxg5 Qxg5 21.Ne4 Qf4 22.Qc3+ Kh6
+23.Bxc6 Bxc6 24.Nd6 Re6 25.Qxc6 Rd8 26.Nxf7+ 1-0

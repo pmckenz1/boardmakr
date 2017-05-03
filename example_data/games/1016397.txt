@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.15"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Johnny Jose Perez"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.c4 g6 2.Nf3 Bg7 3.d4 Nf6 4.g3 O-O 5.Bg2 d6 6.Nc3 Nc6 7.O-O
+a6 8.b3 Rb8 9.Nd5 Bf5 10.Bb2 e6 11.Ne3 Be4 12.Rc1 Nd7 13.Bh3
+Bxf3 14.exf3 e5 15.dxe5 Ncxe5 16.Rc2 f5 17.f4 Nf7 18.Bxg7 Kxg7
+19.Re1 Re8 20.Rce2 Nf6 21.Qd4 Kf8 22.Bxf5 gxf5 23.Nxf5 Ne5
+24.fxe5 dxe5 25.Qh4 1-0

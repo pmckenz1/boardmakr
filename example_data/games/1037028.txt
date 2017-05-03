@@ -1,0 +1,19 @@
+[Event "Ch Europe (team)"]
+[Site "Haifa ISR"]
+[Date "1989.12.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Turhan Yilmaz"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 g6 2.d4 d6 3.Nc3 Bg7 4.Be3 a6 5.Qd2 Nd7 6.f3 b5 7.a4 b4
+8.Nd1 Rb8 9.a5 c5 10.Ne2 Qc7 11.Nf2 Ngf6 12.c3 bxc3 13.bxc3
+O-O 14.h4 Rb5 15.c4 Rb4 16.Bh6 Bxh6 17.Qxh6 Rxc4 18.e5 dxe5
+19.Ng3 Rxd4 20.h5 Qb8 21.Bd3 Rxd3 22.Nxd3 e4 23.Nf4 Qe5
+24.O-O-O Qc3+ 25.Kb1 c4 26.hxg6 Qb3+ 27.Ka1 c3 28.Rd2 cxd2
+29.Ngh5 Qa3+ 30.Kb1 1/2-1/2

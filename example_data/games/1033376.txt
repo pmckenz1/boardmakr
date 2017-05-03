@@ -1,0 +1,22 @@
+[Event "Buenos Aires FMDA tt Buenos Ai Buenos A"]
+[Site "Buenos Aires FMDA tt Buenos Ai Buenos A Hiarcs"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Damian Justo"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Be7
+7. Bf4 Be6 8. Nf3 g5 9. Be5 Nxe5 10. Nxe5 Nf6 11. O-O Nd7
+12. f4 Nxe5 13. fxe5 Qd7 14. Ne2 O-O-O 15. Ng3 Rdf8 16. Nh5
+Kb8 17. Nf6 Qa4 18. b4 h6 19. Qe2 Qc6 20. Qd2 Qb6 21. c3 c6
+22. Qe2 Qc7 23. Kh1 Ka8 24. Qh5 Qc8 25. h3 g4 26. h4 g3
+27. Bf5 Bxf6 28. Bxe6 fxe6 29. exf6 Rh7 30. Rf3 Rhf7 31. Raf1
+a6 32. Qe5 Qb8 33. Qxe6 Qd8 34. a4 Ka7 35. a5 Qc7 36. Qe3 Rg8
+37. Qe5 Qd8 38. Kg1 Rg6 39. Rf5 Qf8 40. Qf4 Qc8 41. Qd6 Rg4
+42. R5f4 Rg6 43. Re1 Qh8 44. Re6 h5 45. Rf3 Ka8 1-0

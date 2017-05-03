@@ -1,0 +1,20 @@
+[Event "Strbske Pleso"]
+[Site "Strbske Pleso"]
+[Date "1978.11.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Srdjan Cvetkovic"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 Bb4+ 5. Bd2 a5 6. Qc2 O-O
+7. a3 Bd6 8. Bg2 Nc6 9. c5 Be7 10. O-O Ne4 11. Rd1 Bd7 12. Nc3
+f5 13. Rab1 g5 14. e3 Be8 15. b4 axb4 16. axb4 Bh5 17. Rdc1
+Bf6 18. Ne2 f4 19. b5 Ne7 20. exf4 Bg6 21. Ra1 Rxa1 22. Rxa1
+g4 23. Ne5 Bxe5 24. fxe5 Rxf2 25. Qd1 Qf8 26. Bf4 Rf3 27. Ra7
+Nf2 28. Qa1 Bd3 29. Ra8 Nc8 30. c6 bxc6 31. Qa6 Nh3+ 32. Bxh3
+gxh3 33. Rxc8 Bxe2 34. Rxf8+ Kxf8 35. Qc8+ Kf7 36. Qd7+ 1-0

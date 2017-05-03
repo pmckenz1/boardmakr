@@ -1,0 +1,22 @@
+[Event "Quadrangular Masters"]
+[Site "New York, NY USA"]
+[Date "1913.09.03"]
+[EventDate "1913.08.27"]
+[Round "2"]
+[Result "0-1"]
+[White "Charles Jaffe"]
+[Black "Oldrich Duras"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 dxc4 5.Bg5 a6 6.e4 Be7 7.Bxc4
+b5 8.Bd3 Bb7 9.a3 Nbd7 10.b4 h6 11.Bf4 c6 12.O-O Qb6 13.h3 g5
+14.Be3 Qc7 15.e5 Nd5 16.Nxd5 cxd5 17.Rc1 Qd8 18.Nd2 Nb6 19.Qh5
+Nc4 20.Nxc4 dxc4 21.Be2 Be4 22.f4 gxf4 23.Rxf4 Bg6 24.Qf3 Bg5
+25.Qc6+ Kf8 26.Rf3 Bxe3+ 27.Rxe3 Kg7 28.Rd1 Qg5 29.Qf3 Rhd8
+30.Qf2 Qe7 31.h4 h5 32.Rg3 Rh8 33.Bf3 Raf8 34.d5 exd5 35.Qd4
+Rh6 36.Bxd5 Kh7 37.Rf1 Rd8 38.Rf6 Rd7 39.Rg5 c3 40.e6 c2
+41.Qe3 Rxd5 42.Rgxg6 Rd1+ 43.Kh2 Qd6+ 44.Rg3 Rxf6 45.e7 Qxe7
+46.Qg5 Rh1+ 0-1

@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Eugene Aleksandrovich Znosko-Borovsky"]
+[Black "Endre Steiner"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. g3
+Ba6 7. Qc2 c5 8. Bg2 Nc6 9. dxc5 bxc5 10. O-O O-O 11. Re1 Rb8
+12. b3 Nb4 13. Qc1 Qe7 14. Nbd2 Rfe8 15. Ne5 Bb7 16. a3 Na6
+17. Bxb7 Rxb7 18. Qc3 Nb8 1-0

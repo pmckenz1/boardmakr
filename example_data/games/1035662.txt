@@ -1,0 +1,15 @@
+[Event "It (open)"]
+[Site "Philadelphia (USA)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Igor V Glek"]
+[Black "Walter Shawn Browne"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O O-O 9.Kh1 b5 10.a4 Bb7 1/2-1/2

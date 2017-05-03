@@ -1,0 +1,26 @@
+[Event "Vilnius"]
+[Site "Vilnius LTU"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Karen Ashotovich Grigorian"]
+[Black "Yuri Balashov"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 g5 7.Bg3
+Nh5 8.e3 Nxg3 9.hxg3 Bg7 10.g4 d6 11.Bd3 Nd7 12.Be4 c6 13.Nd2
+d5 14.cxd5 cxd5 15.Bd3 a6 16.Nf1 Bf8 17.Ng3 Bd6 18.Rh3 b5
+19.a4 b4 20.Nce2 Nb6 21.b3 Nd7 22.f3 Qb6 23.Rc1 Rc8 24.Rxc8+
+Bxc8 25.Kf2 Nf6 26.Nh5 Nxh5 27.Rxh5 Bf8 28.Rh1 Bb7 29.Qd2 Bd6
+30.Qd1 Kd7 31.g3 Kc8 32.Qd2 Kb8 33.Qd1 Bc8 34.Qd2 Bc7 35.Qc2
+Bd6 36.Kg2 Bb7 37.Qd2 Bc7 38.Kf2 Qd6 39.Bc2 Bb6 40.Kg2 Ka7
+41.Bd3 Qe7 42.Kf2 a5 43.Bb1 Qf6 44.Bc2 Bc8 45.Bd3 Bb7 46.Bb1
+Qe7 47.Bd3 Rd8 48.Rh2 Qf6 49.Rh1 Re8 50.Kg2 e5 51.Bb5 Re7
+52.Kf2 e4 53.f4 gxf4 54.Nxf4 Rc7 55.Rc1 Qd8 56.Rxc7 Qxc7
+57.Be2 Qc8 58.Bd1 Kb8 59.Qc2 Qf8 60.Be2 Bd8 61.Qc1 Qd6 62.Bb5
+Bg5 63.Be8 Bxf4 64.gxf4 Qe7 65.Qc5 Qxe8 66.Qxa5 Qc8 67.Qxb4
+Qxg4 68.Qd6+ Ka8 69.Qd8+ Qc8 70.Qa5+ Kb8 71.Qb6 h5 72.b4 0-1

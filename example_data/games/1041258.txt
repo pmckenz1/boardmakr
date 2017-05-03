@@ -1,0 +1,18 @@
+[Event "Madonna di Campiglio (Italy)"]
+[Site "Madonna di Campiglio (Italy)"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Aleksandar Matanovic"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 exd4 7.e5
+Ne4 8.b4 Nc3 9.Nxc3 dxc3 10.a3 O-O 11.Qd3 b5 12.Bb3 a5 13.bxa5
+Ba6 14.Rd1 b4 15.Qf5 Be2 16.Ng5 Bxg5 17.Bxg5 Qe8 18.Re1 Rxa5
+19.Rxe2 Nd4 20.Qd3 Nxe2+ 21.Qxe2 bxa3 22.Bf4 d6 23.Qd3 dxe5
+24.Qxc3 Qb5 25.Bd2 Rfa8 26.Qf3 R5a7 27.Qxf7+ Kh8 28.Bh6 1-0

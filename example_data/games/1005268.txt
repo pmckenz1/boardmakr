@@ -1,0 +1,26 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.03"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Adel Bokhazi"]
+[Black "Hytham Omar"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "2106"]
+[PlyCount "120"]
+
+1. c4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 e6 5. O-O Be7 6. cxd5 exd5
+7. d3 O-O 8. Nbd2 Na6 9. a3 Nc7 10. b4 a5 11. bxa5 Rxa5
+12. Bb2 c5 13. Qc2 Bd7 14. Rfb1 Ba4 15. Qc1 b5 16. Ne5 Ra6
+17. Ndf3 Nd7 18. Bh3 Nxe5 19. Nxe5 Rh6 20. Qf1 f5 21. f4 d4
+22. Bg2 Nd5 23. Bc1 Re6 24. Bd2 Bf6 25. Rc1 Bxe5 26. Rxc5 Nc3
+27. fxe5 Qb6 28. Rd5 Bb3 29. Rd6 Rxd6 30. exd6 Qxd6 31. Bf4
+Qe7 32. Re1 Qxa3 33. Be5 Qc5 34. Qf4 Re8 35. Bxd4 Qc8 36. e3
+b4 37. Qg5 Qd7 38. Bc6 Qe7 39. Qh5 Rd8 40. Kf2 g6 41. Qh6 Bc2
+42. h4 Nd1+ 43. Rxd1 Bxd1 44. Qf4 Bb3 45. Bf3 Bd5 46. Be2 b3
+47. Bb2 Bf7 48. Qh6 Be8 49. h5 Rd7 50. hxg6 Bxg6 51. Qf4 Rc7
+52. Qd4 Rc2 53. Qh8+ Kf7 54. Qg7+ Ke8 55. Qg8+ Kd7 56. Qxb3
+Qc5 57. Qb7+ Qc7 58. Qd5+ Qd6 59. Qb7+ Qc7 60. Qd5+ Qd6
+1/2-1/2

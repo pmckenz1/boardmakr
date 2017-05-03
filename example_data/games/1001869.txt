@@ -1,0 +1,27 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.09"]
+[EventDate "1883.04.26"]
+[Round "8.1"]
+[Result "1-0"]
+[White "James Mason"]
+[Black "Samuel Rosenthal"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e3 e5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Nxc3 6. bxc3
+Bd6 7. Be2 O-O 8. O-O Nc6 9. d4 Qf6 10. c4 b6 11. Bb2 Bg4
+12. d5 Ne7 13. Nd2 Bxe2 14. Qxe2 Qg6 15. Rac1 Rae8 16. e4 f5
+17. f3 f4 18. Nb3 Qh5 19. c5 bxc5 20. Nxc5 Rf6 21. Nd3 Rh6
+22. h3 Rg6 23. Kh1 Rg3 24. Bc3 Nf5 25. exf5 e4 26. Rce1 Re7
+27. fxe4 Qxe2 28. Rxe2 Rxd3 29. e5 Rxd5 30. Rxf4 Bxe5 31. Rfe4
+Rd1+ 32. Be1 Rd5 33. g4 h6 34. Kg2 Kf7 35. Bh4 Re8 36. Bg3 Kf6
+37. Be1 g6 38. Bh4+ g5 39. Bg3 Re7 40. Bxe5+ Rexe5 41. Rxe5
+Rxe5 42. Rxe5 Kxe5 43. Kf3 h5 44. Ke3 hxg4 45. hxg4 Kd5
+46. Kd3 c5 47. Kc3 c4 48. f6 Ke6 49. Kxc4 Kxf6 50. Kd4 Ke6
+51. Ke4 a6 52. a3 a5 53. a4 Kf6 54. Kd5 Kf7 55. Ke5 Kg6
+56. Ke6 Kg7 57. Kf5 Kf7 58. Kxg5 Kg7 59. Kf5 Kf7 60. Ke5 Kg6
+61. Kd5 Kg5 62. Kc5 Kxg4 63. Kb5 Kf5 64. Kxa5 Ke6 65. Kb6 Kd7
+66. Kb7 1-0

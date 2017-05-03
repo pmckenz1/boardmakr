@@ -1,0 +1,22 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "San Francisco, CA USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Jennifer Shahade"]
+[Black "Dmitry Schneider"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Bb5+ Nbd7 5. Be2 Bxe2
+6. Qxe2 Nxd5 7. Nf3 e6 8. c4 Bb4+ 9. Bd2 Bxd2+ 10. Nbxd2 N5f6
+11. d5 Qe7 12. dxe6 fxe6 13. O-O O-O 14. Rfe1 Rae8 15. Ng5 e5
+16. Nde4 Nc5 17. Qc2 Nfxe4 18. Nxe4 Rf4 19. Nxc5 Qxc5 20. Re4
+Ref8 21. Rxf4 Rxf4 22. b3 a5 23. g3 Qd4 24. Re1 Rf8 25. Re2
+Rd8 26. Qe4 Qxe4 27. Rxe4 Rd2 28. Rxe5 Rxa2 29. Re8+ Kf7
+30. Rc8 c6 31. Rc7+ Kf8 32. Rxb7 a4 33. Rb6 Rb2 34. Rxc6 Rxb3
+35. Ra6 a3 36. Kg2 Rc3 37. Ra7 Rxc4 38. Rxa3 Kf7 39. h4 h5
+40. Ra7+ Kf6 41. Ra6+ Kf7 42. Ra5 g6 43. Ra7+ 1/2-1/2

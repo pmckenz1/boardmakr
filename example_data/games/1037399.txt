@@ -1,0 +1,18 @@
+[Event "Chess Olympiad Qualifying Group 4"]
+[Site "Lugano SUI"]
+[Date "1968.10.22"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Lodewijk Prins"]
+[Black "Lawrence Day"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c5 2.Nf3 e6 3.c4 a6 4.Be2 Nc6 5.O-O Nf6 6.Nc3 Qc7 7.a3 b6
+8.d4 cxd4 9.Nxd4 Bb7 10.Be3 Bd6 11.h3 Be5 12.Qd3 h5 13.Rfc1
+Bh2+ 14.Kf1 Ne5 15.Qd1 Nxe4 16.Na4 Nc5 17.Nxb6 Qxb6 18.Nf3 Qc6
+19.Bxc5 Bf4 20.Be3 Bxe3 21.fxe3 Ng4 22.hxg4 hxg4 23.Ne1 Rh1+
+24.Kf2 g3 25.Kxg3 Rxe1 26.Qxe1 Qxg2+ 27.Kf4 g5 28.Ke5 Qe4+ 0-1

@@ -1,0 +1,28 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.27"]
+[EventDate "2000.01.21"]
+[Round "7"]
+[Result "1-0"]
+[White "Alfonso Romero Holmes"]
+[Black "Zdenko Krnic"]
+[ECO "B46"]
+[WhiteElo "2483"]
+[BlackElo "2401"]
+[PlyCount "141"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Nxc6
+bxc6 7. e5 Qc7 8. Bf4 f5 9. Bd3 Rb8 10. Qe2 Rxb2 11. O-O Ne7
+12. Bg3 a5 13. Nd1 Rb4 14. c3 Rg4 15. Ne3 h5 16. Nc4 Rxc4
+17. Bxc4 g5 18. h4 f4 19. Bh2 Bg7 20. Rfe1 Ng6 21. hxg5 Qxe5
+22. Qxe5 Nxe5 23. Be2 Ng6 24. Rac1 Kf7 25. Red1 Be5 26. Rd3
+Bc7 27. c4 c5 28. Rb1 h4 29. Rb5 d6 30. Rb2 Ke7 31. Rh3 e5
+32. Rhb3 Nf8 33. Bd3 Rg8 34. Rb7 Kd8 35. Ra7 Rxg5 36. Be4 Ne6
+37. Ra8 Kd7 38. Kf1 Nd4 39. Ra7 Nc6 40. Ra8 Nd4 41. Bg1 Nf5
+42. Bd5 Ne7 43. Be4 Nf5 44. Bc2 d5 45. cxd5 f3 46. gxf3 Nd6
+47. Bh2 Nc4 48. Rb5 Nb6 49. Ra7 Kd8 50. Rxc5 Bd6 51. Rc6 Bh3+
+52. Ke2 Nc8 53. Rh7 Bd7 54. Rh8+ Ke7 55. Rcxc8 Bxc8 56. Rxc8
+Rg2 57. Kf1 Rxh2 58. Kg1 e4 59. fxe4 Rh3 60. Rc6 Bf4 61. e5
+Ra3 62. Bf5 Rxa2 63. d6+ Kf7 64. Rc7+ Kf8 65. Rc8+ Kg7 66. d7
+Bg5 67. f4 Be7 68. d8=Q Bxd8 69. Rxd8 Ra4 70. e6 Kf6 71. Rf8+
+1-0

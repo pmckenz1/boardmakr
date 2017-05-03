@@ -1,0 +1,22 @@
+[Event "Bundesliga /97, Germany"]
+[Site "Bundesliga 1996/97, Germany"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Eric Lobron"]
+[ECO "A96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. c4 d6 6. Nc3 a5
+7. O-O O-O 8. Re1 Ne4 9. Nd2 Nxd2 10. Qxd2 e5 11. dxe5 dxe5
+12. Qd5+ Qxd5 13. cxd5 Na6 14. Bd2 Rb8 15. Nb5 Bd7 16. Na3 b6
+17. Nc4 Bd6 18. Rac1 Rbe8 19. Nxd6 cxd6 20. b3 Rc8 21. Rxc8
+Rxc8 22. Rc1 Rxc1+ 23. Bxc1 Kf7 24. Be3 Nc5 25. f3 Bb5 26. Kf2
+a4 27. Ke1 Ba6 28. Bh3 Kf6 29. b4 Nd7 30. g4 g6 31. gxf5 gxf5
+32. a3 Kg6 33. Bf2 Nf6 34. Bxb6 Nxd5 35. Ba5 Nc3 36. Bc7 Nb5
+37. Bb8 Kf6 38. e4 fxe4 39. fxe4 Ke7 40. Bf1 Kd7 41. Bxb5+
+Bxb5 42. Kd2 Ke6 43. Kc3 1/2-1/2

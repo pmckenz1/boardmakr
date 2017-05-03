@@ -1,0 +1,16 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Vladimir Kachar"]
+[Black "Ilia Odesskij"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. d4 b6 2. e4 e6 3. Nf3 Bb7 4. Bd3 c5 5. d5 exd5 6. exd5 Bxd5
+7. O-O Nf6 8. c4 Bb7 9. Nh4 Be7 10. Nf5 O-O 11. Re1 Re8
+12. Bg5 Na6 13. Rxe7 1-0

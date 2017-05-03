@@ -1,0 +1,23 @@
+[Event "Manila (Philippines)"]
+[Site "Manila (Philippines)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "113"]
+[Result "0-1"]
+[White "Angelo Young"]
+[Black "Andras Adorjan"]
+[ECO "D90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.cxd5 Nxd5 6.g3 Nb6 7.Bg2
+Nc6 8.O-O O-O 9.a4 a5 10.Nb5 Nb4 11.Bf4 N6d5 12.Bd2 c6 13.Nc3
+Bg4 14.Nxd5 Nxd5 15.Bc3 Qb6 16.e3 Rfd8 17.Qc1 Qa7 18.h3 Bf5
+19.Nd2 e5 20.Nb3 Nxc3 21.bxc3 Rac8 22.Rd1 b6 23.Qb2 h5 24.Kh2
+Qc7 25.Rd2 h4 26.Rad1 Rd7 27.e4 hxg3 28.fxg3 Be6 29.d5 cxd5
+30.exd5 Bf5 31.d6 Qd8 32.Bd5 Bh6 33.g4 Bxd2 34.Qxd2 Be6
+35.Bxe6 fxe6 36.Qh6 Qf6 37.Kg1 Rf8 38.Nd2 Rxd6 39.Rf1 Qg7
+40.Rxf8+ Kxf8 41.Qe3 Qf6 42.Qh6+ Kg8 43.Kg2 Rd3 44.h4 e4 45.h5
+Qg7 46.Qxg7+ Kxg7 47.Nxe4 Re3 48.Nd6 gxh5 49.gxh5 Rxc3 50.Kf2
+Kh6 51.Ke2 Kxh5 52.Kd2 Rc6 53.Nf7 Rc4 54.Nd6 Rxa4 0-1

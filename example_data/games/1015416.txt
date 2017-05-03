@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Laszlo Sapi"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.e5 dxe5 7.dxe5
+Qxd1+ 8.Kxd1 Rd8+ 9.Ke1 Nd5 10.Nxd5 Rxd5 11.Bc4 Rd8 12.Ng5 e6
+13.Be2 Nc6 14.c3 b6 15.Bf3 Bb7 16.Be3 h6 17.Nh3 Na5 18.Bxb7
+Nxb7 19.Ke2 Na5 20.Rad1 Nc4 21.Bc1 f6 22.exf6 Bxf6 23.Nf2
+1/2-1/2

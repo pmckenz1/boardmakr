@@ -1,0 +1,24 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.02"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ali Majed"]
+[Black "Antoine Al Halabi"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Bg5 cxd4 5. Nxd4 Be7 6. Nc3 a6
+7. e3 Nc6 8. Bd3 h6 9. Bf4 Nxd4 10. exd4 Qb6 11. Na4 Bb4+
+12. Bd2 Bxd2+ 13. Qxd2 Qxd4 14. O-O b5 15. Qc3 Qxc3 16. Nxc3
+bxc4 17. Bxc4 O-O 18. Rfd1 d5 19. Be2 Bd7 20. f4 Rfb8 21. b3
+Rc8 22. Rac1 Ra7 23. Bd3 Rc6 24. Ne2 Rxc1 25. Rxc1 Bb5
+26. Rc8+ Be8 27. Nd4 Kf8 28. Nc6 Rb7 29. Ra8 Rb6 30. Ne5 Ke7
+31. Rxa6 Rxa6 32. Bxa6 Kd6 33. Kf2 Ne4+ 34. Ke3 f6 35. Nd3 Nc5
+36. Nxc5 Kxc5 37. a3 d4+ 38. Kd3 Bg6+ 39. Kd2 e5 40. fxe5 fxe5
+41. b4+ Kd5 42. a4 e4 43. a5 e3+ 44. Ke2 Kd6 45. Bc4 Be4
+46. g3 g5 47. a6 Kc7 48. b5 Kb6 49. Bd3 Bd5 50. Ke1 Bf3
+51. Be2 g4 52. Bd3 Kc5 53. Be2 1/2-1/2

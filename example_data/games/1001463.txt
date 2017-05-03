@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.06.17"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "James Robey"]
+[Black "Thomas Wilson Barnes"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O
+O-O 8.c4 Nf6 9.c5 Be7 10.Bf4 Nc6 11.h3 b6 12.Bb5 Bd7 13.Bxc6
+Bxc6 14.b4 Ne4 15.Ne5 Bb5 16.Re1 Bg5 17.Bh2 f6 18.Nf3 bxc5
+19.bxc5 c6 20.a4 Qa5 21.Ra3 Ba6 22.Bg3 Bh6 23.Nh4 g6 24.Kh2
+Rae8 25.Rg1 Nxg3 26.fxg3 Re2 27.Nf3 Rfe8 28.Nc3 R2e3 29.Re1
+Rxe1 30.Nxe1 Re3 31.Qc1 Kg7 32.Qa1 f5 33.Nf3 Qb4 34.Ne5 f4
+35.g4 f3 36.Nxf3 Bf4+ 37.Kh1 Kg8 38.Kg1 Rxf3 39.gxf3 Qxd4+
+40.Kh1 Qf2 41.Qg1 Qxf3+ 42.Qg2 Qe3 43.Nb1 Bd3 44.Rxd3 Qxd3
+45.Qb2 Qxh3+ 46.Kg1 Be3+ 0-1

@@ -1,0 +1,18 @@
+[Event "It (cat.14), Ischia (Italy)"]
+[Site "It (cat.14), Ischia (Italy)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Michele Godena"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. c4 e6 2. Nf3 d5 3. d4 c6 4. Qc2 Nf6 5. g3 Be7 6. Bg2 O-O
+7. O-O b6 8. b3 Nbd7 9. Rd1 Ba6 10. a4 Rc8 11. a5 c5 12. axb6
+Qxb6 13. Qa2 Bb7 14. Be3 dxc4 15. bxc4 cxd4 16. Nxd4 Bc5
+17. Bxb7 Qxb7 18. Nc2 Ne5 19. Nd2 Ne4 20. Nxe4 Qxe4 21. Bxc5
+Rxc5 22. Qxa7 Rxc4 1/2-1/2

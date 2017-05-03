@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.24"]
+[EventDate "1911.08.21"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Julius Perlis"]
+[Black "Hugo Suechting"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Bc4 Nf6 5.Nc3 Nc6 6.d3 a6 7.f5 h6
+8.a3 Bd7 9.Qe2 Nd4 10.Nxd4 Bxd4 11.Nd1 Qe7 12.c3 Ba7 13.Be3
+Bxe3 14.Nxe3 Bc6 15.O-O-O O-O-O 16.Rhe1 Rhe8 17.Qf3 Rd7 18.Re2
+Red8 19.Qg3 Nh5 20.Qg4 Nf4 21.Ree1 Qg5 22.g3 Qxg4 23.Nxg4 Nh3
+24.f6 h5 25.Ne3 g6 26.Rf1 Rh8 27.Rde1 Bb5 28.Bxb5 axb5 29.Nd5
+Rdd8 30.Kc2 Kd7 31.Ra1 c6 32.Ne3 Ra8 33.Rad1 Kc7 34.Rd2 Rad8
+35.Re2 Rhe8 36.Ree1 Re6 37.Nd1 Ra8 38.Nf2 Nxf2 39.Rxf2 Kd7
+40.Ref1 Ra4 41.Rg2 Re8 42.Kd2 Ke6 43.Re2 c5 44.Kc2 Rc8 45.Rd2
+Ra6 1/2-1/2

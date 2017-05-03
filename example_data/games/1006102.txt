@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "1-0"]
+[White "Sampsa Nyysti"]
+[Black "Gudjon Heidar Valgardsson"]
+[ECO "C00"]
+[WhiteElo "2224"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e6 2. d3 d5 3. Qe2 dxe4 4. dxe4 g6 5. Nf3 Bg7 6. e5 Ne7
+7. Nc3 Nbc6 8. Qe4 O-O 9. Bd3 Nd5 10. Bd2 Ncb4 11. O-O-O Nxc3
+12. bxc3 Nxd3+ 13. cxd3 Qe7 14. Kb2 Bd7 15. Bg5 Qc5 16. Qe3
+Qxe3 17. fxe3 b5 18. Be7 Rfb8 19. Rhf1 h6 20. Rd2 a5 21. a3
+Bf8 22. Bxf8 Kxf8 23. Rdf2 Kg8 24. Nd2 Be8 25. Ne4 Kg7 26. Nf6
+Bc6 27. Nd7 Rf8 28. Nxf8 Rxf8 29. g4 a4 30. Kc2 Bd5 31. Kd2 c6
+32. c4 bxc4 33. e4 c3+ 34. Kxc3 Bb3 35. Kb4 Rb8+ 36. Kc5 Rb7
+37. Kxc6 Ra7 38. Kb6 Rd7 39. Rc1 1-0

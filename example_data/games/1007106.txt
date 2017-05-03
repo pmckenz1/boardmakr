@@ -1,0 +1,29 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.16"]
+[EventDate "1923.04.28"]
+[Round "15"]
+[Result "0-1"]
+[White "Oscar Chajes"]
+[Black "George Alan Thomas"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "156"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5
+12. Nb3 Qd7 13. Nbd4 Nd8 14. Nxe6 Nxe6 15. Nd4 c5 16. Nxe6
+Qxe6 17. f3 Ng5 18. a4 g6 19. Re1 Qc6 20. Be3 Ne6 21. f4 Rfd8
+22. Qf3 c4 23. g4 fxg4 24. Qxg4 Ng7 25. f5 gxf5 26. Bxf5 Kh8
+27. axb5 axb5 28. Rxa8 Rxa8 29. Bd7 Qc7 30. Bd4 Bc5 31. e6
+Bxd4+ 32. Qxd4 Rg8 33. Kh1 Qb7 34. Rg1 b4 35. h4 bxc3 36. bxc3
+h5 37. Qe5 d4+ 38. Kh2 dxc3 39. Rg6 Qb2+ 40. Rg2 Qb8 41. Rg5
+Qxe5+ 42. Rxe5 c2 43. Re1 Nxe6 44. Bxe6 Re8 45. Rc1 Rxe6
+46. Rxc2 Re4 47. Kg3 Kg7 48. Ra2 Kf6 49. Ra5 Re5 50. Ra6+ Kf5
+51. Kf3 Rd5 52. Rc6 Rd3+ 53. Ke2 Rd4 54. Rc5+ Kg6 55. Kf3 Rxh4
+56. Kg3 Rd4 57. Kf3 Rg4 58. Ke3 h4 59. Rc6+ Kf5 60. Rc5+ Ke6
+61. Kf3 Rg3+ 62. Ke2 c3 63. Kf2 Rh3 64. Ke2 Kd6 65. Rh5 c2
+66. Kd2 Rc3 67. Kc1 Rc4 68. Rh8 Ke5 69. Re8+ Kf4 70. Rf8+ Kg3
+71. Rg8+ Kh2 72. Rg7 Rc3 73. Rg8 h3 74. Re8 Kg2 75. Re2+ Kg3
+76. Re8 h2 77. Rg8+ Kf2 78. Rf8+ Kg2 0-1

@@ -1,0 +1,19 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Gyozo Victor Forintos"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 c6 5.Nf3 Qb6 6.Bc4 Nh6 7.Bb3
+Bg4 8.d5 a5 9.a4 Na6 10.h3 Bxf3 11.Qxf3 Nc5 12.Be3 Qb4 13.Bxc5
+dxc5 14.O-O-O c4 15.Ba2 Ra6 16.g4 Rb6 17.g5 Nf5 18.exf5 O-O
+19.Rhe1 cxd5 20.Rxd5 Qxb2+ 21.Kd2 Rc6 22.Ree5 gxf5 23.Rd4 Rd6
+24.Rxd6 exd6 25.Re1 d5 26.Bb1 Qb4 27.Ba2 d4 28.Rb1 dxc3 29.Ke2
+Qxa4 0-1

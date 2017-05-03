@@ -1,0 +1,22 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.27"]
+[EventDate "1927.06.26"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Karl Berndtsson Kullberg"]
+[Black "Arpad Vajda"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 e6 5. Nf3 c5 6. Be2 Nc6
+7. O-O a6 8. d3 b5 9. Qe1 g6 10. Bd2 Be7 11. Qg3 b4 12. Nd1
+Bb7 13. Ne3 Nd4 14. Nxd4 cxd4 15. Ng4 Rc8 16. Bd1 Nb6 17. b3
+Na8 18. Nf6+ Bxf6 19. exf6 Qxf6 20. Bxb4 Kd7 21. Rf2 Nc7
+22. a4 Ne8 23. Bg4 h5 24. Bh3 h4 25. Qf3 Nd6 26. Re1 Rc7
+27. Qd1 Rhc8 28. Ree2 Qh8 29. Qe1 Nf5 30. Bxf5 gxf5 31. Ba3 h3
+32. Qb4 Rg8 33. g3 Rb8 34. Bb2 Qh5 35. Bxd4 Rxc2 36. Rxc2 Qd1+
+37. Rf1 Qxc2 38. Rf2 Qc6 39. Bc5 d4 40. Qxd4+ Ke8 41. Qh8+ Kd7
+42. Qd4+ Ke8 43. Qh8+ Kd7 1/2-1/2

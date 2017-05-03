@@ -1,0 +1,18 @@
+[Event "Chess Olympiad Qualifying Group 4"]
+[Site "Lugano SUI"]
+[Date "1968.10.19"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Kick Langeweg"]
+[Black "Istvan Bilek"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.c4 g6 2.d4 Bg7 3.e4 d6 4.Nc3 f5 5.exf5 Bxf5 6.Nf3 Nh6 7.h3
+O-O 8.Be3 Na6 9.Qd2 Nf7 10.Be2 c5 11.O-O b6 12.Rfe1 Nb4
+13.Rac1 e5 14.d5 Na6 15.a3 Nc7 16.b4 Ne8 17.g4 Bd7 18.Ne4 Nf6
+19.Bd3 h5 20.gxh5 Nxh5 21.Kh2 Nh8 22.Bg5 Qc7 23.Nh4 Nf4 24.Re3
+Rf7 25.Rg1 Raf8 26.Reg3 1/2-1/2

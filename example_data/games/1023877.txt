@@ -1,0 +1,16 @@
+[Event "07, Munster op"]
+[Site "07, Munster op"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander N Panchenko"]
+[Black "Vladimir Bagirov"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nc6 5.Bf4 Nf6 6.Nf3 a6 7.e3
+Bg4 8.Be2 e6 9.O-O Be7 10.Ne5 Bxe2 11.Qxe2 Nxe5 12.Bxe5 O-O
+13.Rfc1 Nd7 14.Bg3 Qa5 1/2-1/2

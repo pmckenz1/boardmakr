@@ -1,0 +1,19 @@
+[Event "Azov URS ch tt"]
+[Site "Azov URS ch tt"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Orazly Annageldyev"]
+[Black "Yuri Balashov"]
+[ECO "E31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 c5 5.d5 h6 6.Bh4 d6 7.e3
+Bxc3+ 8.bxc3 e5 9.f3 Nbd7 10.Bd3 g5 11.Bg3 h5 12.h4 g4 13.Ne2
+gxf3 14.gxf3 Rg8 15.Qc2 Qe7 16.O-O-O e4 17.Bxe4 Nxe4 18.Qxe4
+Qxe4 19.fxe4 Nf6 20.Bxd6 Nxe4 21.Bf4 Bg4 22.Rdg1 O-O-O 23.Ng3
+Rge8 24.Rh2 f5 25.Kc2 Nxg3 26.Rxg3 Re4 27.Rd2 Rxc4 28.Kb3 b5
+29.Rg1 a5 30.Rf1 Re8 31.a3 Kd7 1/2-1/2

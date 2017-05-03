@@ -1,0 +1,19 @@
+[Event "San Francisco"]
+[Site "San Francisco, CA USA"]
+[Date "1987.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Stefan Djuric"]
+[Black "Utut Adianto"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Nf3 d5 5.cxd5 exd5 6.d4 Nc6 7.Bg2
+Be7 8.O-O O-O 9.Bf4 Bg4 10.dxc5 Bxc5 11.Ne5 Be6 12.Nxc6 bxc6
+13.Rc1 Bd6 14.Bxd6 Qxd6 15.a3 Qe5 16.e3 c5 17.Re1 Rab8 18.f4
+Qf5 19.e4 dxe4 20.Nxe4 c4 21.Qd4 Rfd8 22.Qxa7 Rxb2 23.Nf2 h6
+24.Re5 Rb1 25.Rf1 Qc2 26.a4 c3 27.f5 Bc4 28.Qc7 Rd4 29.Qc5
+Bxf1 30.Bxf1 Qc1 0-1

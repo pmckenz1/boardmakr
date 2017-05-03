@@ -1,0 +1,18 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1985.01.29"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Gert Ligterink"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. e3 Bb7 6. Bd3 O-O
+7. O-O d5 8. a3 Bd6 9. cxd5 exd5 10. b4 a6 11. Qb3 Nbd7 12. a4
+Ne4 13. Nxd5 Ng5 14. Nxg5 Qxg5 15. e4 Bxd5 16. Qxd5 Qxd5
+17. exd5 Bxb4 18. Bf4 Nf6 19. Rab1 Nxd5 20. Be4 Nxf4 21. Bxa8
+Ne2+ 22. Kh1 a5 23. Bb7 Nxd4 1/2-1/2

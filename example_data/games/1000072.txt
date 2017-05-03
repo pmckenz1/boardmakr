@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.05"]
+[EventDate "1900.??.??"]
+[Round "10"]
+[Result "0-1"]
+[White "M Didier"]
+[Black "James Mortimer"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 Bb6 7.a4
+exd4 8.O-O dxc3 9.Nxc3 Nge7 10.Nd5 d6 11.Bg5 h6 12.Bh4 a6
+13.Qd2 Be6 14.e5 Bxd5 15.Bxd5 Nxe5 16.Rae1 O-O 17.Nxe5 dxe5
+18.Rxe5 Bc5 19.Rh5 c6 20.Bf6 Qd6 21.Bxg7 Kxg7 22.Qc3+ Qf6
+23.Qg3+ Ng6 24.Be4 Bd4 25.Qh3 Rae8 0-1

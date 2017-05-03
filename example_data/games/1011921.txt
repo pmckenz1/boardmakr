@@ -1,0 +1,30 @@
+[Event "St Petersburg (02)"]
+[Site "St Petersburg RUS"]
+[Date "1914.02.06"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Aron Nimzowitsch"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "170"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 Nxd5 5. Nf3 b6 6. Bb5+ c6
+7. Bd3 Be7 8. O-O Nd7 9. Nxd5 cxd5 10. Qe2 O-O 11. Bf4 Bb7
+12. c3 Bf6 13. Rfe1 Qe7 14. Ba6 Bxa6 15. Qxa6 Nb8 16. Qb5 Qb7
+17. Re3 Nc6 18. Qd3 g6 19. Bh6 Bg7 20. Bxg7 Kxg7 21. Rae1 Qc7
+22. h4 Rac8 23. h5 Qf4 24. Ne5 Nxe5 25. Rxe5 Rc7 26. g3 Qf6
+27. Qe3 Rd8 28. Kg2 Rcc8 29. Rh1 Kf8 30. Rh4 Ke8 31. Qh6 Ke7
+32. Rf4 Qh8 33. Re1 Rd7 34. Rh1 Qg8 35. Qg5+ Kd6 36. Qe5+ Kc6
+37. a4 Kb7 38. Ra1 Qh8 39. Rf6 Qd8 40. Rf3 Qh8 41. Qe2 a6
+42. Qe3 Qg7 43. h6 Qf8 44. Qe5 Qh8 45. Rf6 Qf8 46. Rf3 Qh8
+47. Rf6 Qf8 48. Rh1 Qd8 49. Rf3 Qh8 50. Rf6 Qd8 51. Rf3 Qh8
+52. Rf6 Qd8 53. Rf4 Rc4 54. Ra1 Rc6 55. Rf6 Qf8 56. Qe3 Re7
+57. Qf3 Qe8 58. g4 Qd7 59. Re1 Rc7 60. b3 Ka7 61. g5 Qd6
+62. Qd3 Qa3 63. Qc2 Qb4 64. Rc1 Qa3 65. Re1 Qb4 66. Rc1 Qa3
+67. Re1 Qb4 68. Rc1 Qd6 69. Qd3 Qa3 70. Rb1 Qa2 71. Rf3 e5
+72. Re3 e4 73. Qd1 f5 74. gxf6 Rf7 75. Ra1 Qb2 76. Rb1 Qa3
+77. c4 Rxf6 78. cxd5 Rcf7 79. Re2 Qd6 80. Qc2 Qxd5 81. Kf1 e3
+82. Rxe3 Qh1+ 83. Ke2 Rxf2+ 84. Kd3 Qd5 85. Qc8 Rd7 0-1

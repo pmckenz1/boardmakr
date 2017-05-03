@@ -1,0 +1,25 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.12"]
+[EventDate "1907.??.??"]
+[Round "17"]
+[Result "1-0"]
+[White "Paul F Johner"]
+[Black "Oldrich Duras"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 c5 5. e3 Nc6 6. exd4 cxd4
+7. Bd3 Nxe5 8. Qe2 f6 9. Bf4 Bd6 10. Nbd2 Qe7 11. Bxe5 fxe5
+12. O-O Bg4 13. c5 Bc7 14. Bb5+ Kf8 15. h3 Bh5 16. Rfe1 a6
+17. Ba4 Nf6 18. b4 Rd8 19. Bb3 Nd5 20. Bxd5 Rxd5 21. Nc4 Bxf3
+22. Qxf3+ Qf7 23. Qd3 g6 24. Re4 Kg7 25. Rae1 Rf8 26. f4 Qf5
+27. fxe5 Qf2+ 28. Kh1 Qxa2 29. Rxd4 Qf2 30. Rd1 Rxd4 31. Qxd4
+Qe2 32. Nd6 Bd8 33. e6+ Bf6 34. Qd5 Bh4 35. Qd4+ Bf6 36. Qg4
+Qe5 37. Qe4 Qxe4 38. Nxe4 Re8 39. Rd7+ Re7 40. g3 g5 41. Rxe7+
+Bxe7 42. Kg2 Bd8 43. Kf3 h5 44. Ke3 Kf8 45. Kd4 Ke7 46. Kd5 g4
+47. hxg4 hxg4 48. Nd6 Bc7 49. Nf5+ Kf6 50. e7 Kf7 51. c6 b6
+52. Kd4 Bb8 53. Ke4 Bc7 54. Kd5 b5 55. Kc5 Ke8 56. Kd4 a5
+57. bxa5 b4 58. a6 b3 59. Kc3 Bb6 60. c7 Bxc7 61. a7 1-0

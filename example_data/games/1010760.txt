@@ -1,0 +1,27 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Rushan Bogaudinov"]
+[Black "Alexander Rustemov"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7
+7. Nf3 Bd7 8. Be2 Qc7 9. O-O Nbc6 10. a4 b6 11. Ne1 O-O
+12. Ba3 Na5 13. f4 Nc4 14. Bxc4 dxc4 15. dxc5 bxc5 16. Qd6
+Qxd6 17. exd6 Nd5 18. Bxc5 Nxc3 19. Nf3 f6 20. Nd4 Rfc8
+21. Bb4 Nd5 22. Ba3 Kf7 23. a5 Rab8 24. Rab1 h6 25. g3 g5
+26. fxg5 hxg5 27. Nf3 Ke8 28. Nd2 Kf7 29. Ne4 g4 30. Nc5 Rxb1
+31. Rxb1 Bc6 32. Ne4 Ne3 33. d7 Rd8 34. Nd6+ Kg6 35. Bc5 Rxd7
+36. Nc8 Nxc2 37. Ne7+ Rxe7 38. Bxe7 Nd4 39. Bc5 Nb3 40. Bxa7
+Nxa5 41. Kf2 Bd5 42. Bd4 Nc6 43. Bc3 Kf5 44. Ke3 e5 45. Rb2
+Ke6 46. Rb6 Kd6 47. Rb1 Ke6 48. Rb6 Kf7 49. Rb7+ Kg6 50. Rd7
+Bh1 51. Rd1 Bf3 52. Rd7 Bg2 53. Rd2 Bf3 54. Rd7 Kf5 55. h4 Ke6
+56. Rc7 Ne7 57. Rxc4 Nf5+ 58. Kf2 Nd6 59. Rb4 Ne4+ 60. Rxe4
+Bxe4 61. Ke3 Bg6 62. Ba5 Kd7 63. Bb4 Be8 64. Bf8 Ke6 65. Bb4
+Bc6 66. Bf8 1/2-1/2

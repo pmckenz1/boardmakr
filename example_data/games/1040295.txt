@@ -1,0 +1,21 @@
+[Event "03, Greater Chicago City"]
+[Site "03, Greater Chicago City"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Angelo Sandrin"]
+[Black "Roman Dzindzichashvili"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 c5 2.d5 g6 3.e4 Bg7 4.Nf3 d6 5.c4 Nf6 6.Nc3 O-O 7.Be2 e6
+8.dxe6 Bxe6 9.Bf4 Qb6 10.Qd2 Nc6 11.O-O Nd4 12.Nxd4 cxd4
+13.Nd5 Bxd5 14.exd5 Ne4 15.Qc2 Nc5 16.b4 Qxb4 17.Rab1 Qc3
+18.Qxc3 dxc3 19.Bxd6 Rfe8 20.Rfe1 Ne4 21.Bf4 Bd4 22.Be3 Bxe3
+23.fxe3 Nc5 24.Bf1 Re5 25.Rbc1 Na4 26.Kf2 b5 27.cxb5 Rxd5
+28.Bc4 Rd2+ 29.Kf3 Rb8 30.Bb3 Nc5 31.Rxc3 Rxb5 32.Rec1 Nxb3
+33.axb3 Rf5+ 34.Ke4 Rxg2 35.R1c2 Rff2 36.Rxf2 Rxf2 37.Rc7 Rxh2
+38.Rxa7 h5 39.Kf3 Kg7 40.b4 g5 41.b5 Rb2 0-1

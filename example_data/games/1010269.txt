@@ -1,0 +1,22 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Adrienn Csoke"]
+[Black "Ildiko Madl"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. e5 dxe5 5. dxc5 Qxd1+ 6. Kxd1
+Bg4 7. Be3 e4 8. h3 Bh5 9. g4 Nxg4 10. Bb5+ Nc6 11. Nd4 O-O-O
+12. hxg4 Bxg4+ 13. Be2 Bxe2+ 14. Kxe2 Nxd4+ 15. Bxd4 Rxd4
+16. Rh5 f6 17. c3 Rd7 18. Nd2 g6 19. Rh3 f5 20. Rah1 e6 21. b4
+h5 22. Nc4 Rg7 23. a4 Be7 24. a5 a6 25. Nb6+ Kc7 26. Rd1 Rd8
+27. Rg1 h4 28. Nc4 Rd3 29. Rxd3 exd3+ 30. Kxd3 g5 31. Ne3 g4
+32. Ke2 Bf6 33. c4 Kc6 34. Ng2 Rd7 35. Nf4 Rd4 36. b5+ axb5
+37. cxb5+ Kxb5 38. Rb1+ Kxa5 39. Nd3 Rd7 40. Rh1 h3 41. Nf4 e5
+42. Nh5 Bh4 0-1

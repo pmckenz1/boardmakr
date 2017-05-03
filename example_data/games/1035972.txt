@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1898.07.08"]
+[EventDate "1898.??.??"]
+[Round "26"]
+[Result "1/2-1/2"]
+[White "Horatio Caro"]
+[Black "Amos Burn"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Nc6 7.Bd3
+Nxc5 8.Nf3 Be7 9.O-O O-O 10.Ne2 f5 11.Be3 Ne4 12.Ned4 Bc5
+13.c3 Bd7 14.Re1 Qe7 15.Qe2 Be8 16.Nb3 Bh5 17.Nxc5 Nxc5
+18.Bxc5 Qxc5+ 19.Qe3 Qxe3+ 20.Rxe3 Bxf3 21.Rxf3 Rac8 22.Rd1
+Rc7 23.Be2 Na5 24.Rd4 a6 25.Rf1 b5 26.a4 Nc6 27.Rd2 Rb8
+28.axb5 axb5 29.Ra1 Ra7 30.Rxa7 Nxa7 31.Rd1 Nc6 32.Ra1 Rb6
+33.Kf2 Kf7 34.Ra8 g5 35.g3 gxf4 36.gxf4 d4 37.Bh5+ Kg7 38.Re8
+dxc3 39.bxc3 b4 40.cxb4 Nxb4 41.Kg3 Nd5 42.Bf3 Nb4 43.Bh5 Nd3
+44.Re7+ Kf8 45.Re8+ Kg7 46.Re7+ 1/2-1/2

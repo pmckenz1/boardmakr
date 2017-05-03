@@ -1,0 +1,20 @@
+[Event "Mar del Plata zt ,MCL 03"]
+[Site "04"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Enrique (Heinrich) Reinhardt"]
+[Black "Erich Eliskases"]
+[ECO "D74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5 6.Nf3 O-O 7.O-O
+c5 8.e4 Nf6 9.e5 Nd5 10.dxc5 Na6 11.Qe2 Nxc5 12.Rd1 e6 13.Bg5
+Qb6 14.Nc3 h6 15.Nxd5 exd5 16.Be3 Be6 17.Nd4 Qa6 18.Qb5 Rfc8
+19.f4 Bf8 20.Qxa6 bxa6 21.h3 h5 22.Nxe6 fxe6 23.Rac1 Na4 24.b3
+Nc3 25.Rd2 Ba3 26.Rf1 Nb5 27.g4 hxg4 28.hxg4 Rc3 29.Bf2 Rf8
+30.Bh4 Bc1 31.Rdd1 Bxf4 32.Bf6 Be3+ 33.Kh2 Rf7 34.Bf3 Rh7+
+35.Kg2 Nd4 36.Rh1 Rc2+ 37.Kg3 g5 38.Rxh7 Bf4+ 0-1

@@ -1,0 +1,18 @@
+[Event "Antwerp tandem blind"]
+[Site "Antwerp BEL"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alekhine / Koltanowski Blindfold Team"]
+[Black "Maccabi Chess Club"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. c4 c5 2. e4 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6
+7. Nc3 Nf6 8. Be2 O-O 9. O-O Bd7 10. Rc1 Rc8 11. Kh1 Ne5
+12. b3 Neg4 13. Qd2 Nxe3 14. Qxe3 Qb6 15. Rcd1 Rfe8 16. h3 a6
+17. Rd3 Bc6 18. Nxc6 Qxc6 19. Nd5 Nd7 20. f4 Nc5 21. Rdd1 e6
+22. Nc3 Bxc3 23. Qxc3 Nxe4 24. Qe3 d5 25. Bf3 Ng3+ 0-1

@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "John E Roush"]
+[Black "Arthur Feuerstein"]
+[ECO "B22"]
+[WhiteElo "2055"]
+[BlackElo "2201"]
+[PlyCount "63"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 b6
+7. Nc3 Bb7 8. a3 Be7 9. Bd3 a6 10. O-O f5 11. exf6 Nxf6
+12. Bg5 O-O 13. Rc1 b5 14. Bb1 Qe8 15. Ne5 d6 16. Bxf6 Rxf6
+17. Ng4 Rf4 18. g3 Bf3 19. Qd3 Qh5 20. Qxh7+ Qxh7 21. Bxh7+
+Kxh7 22. gxf4 Bxg4 23. f3 Bh3 24. Rfd1 d5 25. Ne2 Ra7 26. Rc2
+Rb7 27. Rdc1 Bd6 28. Rc8 Be7 29. Re8 Bd6 30. Rd8 Be7 31. Re8
+Bd6 32. Rd8 1/2-1/2

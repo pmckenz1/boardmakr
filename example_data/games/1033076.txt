@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.23"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Lawrence Day"]
+[ECO "C60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 d6
+7. d4 Bd7 8. Re1 Qe7 9. Be3 Nf6 10. d5 Nb8 11. Bc2 Ng4 12. Bd2
+b6 13. c4 f6 14. b4 O-O 15. Nc3 f5 16. exf5 gxf5 17. h3 Nh6
+18. c5 bxc5 19. bxc5 Bc8 20. c6 a5 21. Nb5 Kh8 22. a4 Qf7
+23. Bc3 Na6 24. Bxa5 Bf6 25. Ra3 Rg8 26. Nh2 f4 27. Kh1 Bh4
+28. Re2 Qg7 29. f3 Nf5 30. Bxf5 Bxf5 31. Bc3 Rae8 32. Ra1 h5
+33. Ba5 Bf6 34. Rc1 Bd8 35. Bc3 Nc5 36. Rd2 Nd3 37. Rcc2 Qg6
+38. Ra2 Nc5 39. Ba5 Rg7 40. Bc3 Reg8 41. Ra1 Bh4 42. Ba5 Nd3
+43. Qf1 Bxh3 44. gxh3 Be1 45. Rxe1 Nxe1 46. Ng4 hxg4 47. hxg4
+Rh7+ 48. Rh2 Nxf3 49. Qxf3 Qb1+ 0-1

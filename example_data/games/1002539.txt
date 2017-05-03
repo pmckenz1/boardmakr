@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1896.10.12"]
+[EventDate "1896.10.04"]
+[Round "6"]
+[Result "1-0"]
+[White "Mikhail Chigorin"]
+[Black "Karl August Walbrodt"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Qe2 Qe7 6. Qxe4
+f6 7. d4 fxe5 8. fxe5 c6 9. Bc4 Bc7 10. O-O Be6 11. Bg5 Qxg5
+12. Bxe6 Nh6 13. Bc8 Nd7 14. Bxb7 Ke7 15. Bxc6 Raf8 16. Nc3
+Rxf1+ 17. Rxf1 Rf8 18. Nd5+ Kd8 19. Nf4 Re8 20. Qd5 Qe7
+21. Bb5 g5 22. Qa8+ Bb8 23. Nd5 Qe6 24. Bxd7 Kxd7 25. Qb7+ 1-0

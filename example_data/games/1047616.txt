@@ -1,0 +1,21 @@
+[Event "It (w)"]
+[Site "Belgrade (Yugoslavia)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nona Gaprindashvili"]
+[Black "Ketino Kachiani-Gersinska"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.g3 Bxc3+ 6.bxc3 Bb7
+7.Bg2 O-O 8.O-O Re8 9.Re1 d6 10.a4 Nbd7 11.Qc2 Be4 12.Qa2 e5
+13.Ba3 c5 14.d5 h6 15.Bc1 Nf8 16.Bh3 Bh7 17.Nd2 e4 18.Nf1 a5
+19.Ne3 N8d7 20.Rb1 Qe7 21.Rb5 Qe5 22.Bd2 Qh5 23.Bg2 g5 24.Qb3
+Rab8 25.h3 Qg6 26.Rb1 Nh5 27.g4 Nf4 28.Qd1 Qf6 29.R1b2 Qe5
+30.Bf1 h5 31.Qc1 Kh8 32.Qb1 Rg8 33.Qc1 f5 34.Qe1 Rg6 35.f3 Rg7
+36.Qf2 Rf8 37.gxf5 Bxf5 38.Nxf5 Qxf5 39.Kh2 Qe5 40.Kh1 g4
+41.fxg4 Nxh3 0-1

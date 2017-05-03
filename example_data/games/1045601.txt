@@ -1,0 +1,27 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Konstantin Zaivelevich Lerner"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 c5 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6
+7. O-O Be7 8. d4 O-O 9. e4 Nxc3 10. bxc3 b6 11. d5 Na5 12. Qc2
+exd5 13. exd5 Nc4 14. Bf4 Bd6 15. Ng5 g6 16. Qe4 b5 17. Bxd6
+Nxd6 18. Qh4 h5 19. Qf4 a5 20. Rfe1 Ra7 21. Nf3 f6 22. Nd2 Bf5
+23. Bf1 a4 24. Qe3 Rc7 25. Bd3 Re8 26. Qf3 Rce7 27. Rxe7 Qxe7
+28. Nf1 Bxd3 29. Qxd3 Qe4 30. Qxe4 Nxe4 31. Rc1 Kf7 32. Rc2
+Ke7 33. Ne3 Kd6 34. Kf1 a3 35. Ke2 c4 36. f3 Nc5 37. Rc1 Nd3
+38. Rb1 Nb2 39. Kd2 b4 40. Nc2 bxc3+ 41. Kxc3 Kxd5 42. Nxa3
+Na4+ 43. Kb4 Nb6 44. Rd1+ Kc6 45. Nb5 Re3 46. Rd3 Kb7 47. a4
+Nxa4 48. Kxa4 Rxf3 49. Kb4 c3 50. Nxc3 Rf2 51. h4 g5 52. Ne4
+Rg2 53. Rd2 Rg1 54. Rh2 Kc6 55. hxg5 f5 56. Rc2+ Kb6 57. Nf6
+Rxg3 58. Nd5+ Kb7 59. Rc7+ Kb8 60. Rg7 h4 61. Kc5 h3 62. Kc6
+h2 63. Rb7+ Kc8 64. Rh7 Kb8 65. Nb6 Rc3+ 66. Kd6 Rc2 67. Ke5
+Rf2 68. Nd5 1-0

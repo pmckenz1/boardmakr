@@ -1,0 +1,23 @@
+[Event "Liechtenstein op"]
+[Site "Liechtenstein op"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Harry Gohil"]
+[Black "Alexander Baburin"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.a4
+Nc6 8.Nc3 Be7 9.Ne5 cxd4 10.Nxc6 bxc6 11.exd4 a5 12.Qf3 Nd5
+13.Rd1 Ba6 14.b3 O-O 15.Ne4 Nb6 16.Bxa6 Rxa6 17.Ba3 Bxa3
+18.Rxa3 Nd5 19.Raa1 Rb6 20.Rac1 Ne7 21.Rc4 Qd5 22.Rd3 Rxb3
+23.Nd2 Qxf3 24.Rxf3 Rb2 25.Rd3 Rfb8 26.g3 R8b4 27.Kf1 f6
+28.Rc5 Rxa4 29.Nc4 Rc2 30.Nb6 Ra1+ 31.Kg2 Rxc5 32.dxc5 Nd5
+33.Nc4 a4 34.Na5 Rc1 35.Nxc6 Rxc5 36.Nd4 Kf7 37.Ra3 Nb6 38.Kf3
+e5 39.Ne2 Ke6 40.Nc3 Rc4 41.Ke2 Nd5 42.Nd1 Kd6 43.Kd2 Rd4+
+44.Kc1 Kc5 45.Nb2 Kb5 46.Kc2 h5 47.Ra1 h4 48.Ra3 h3 49.Kc1 g5
+50.Kc2 e4 51.Kc1 Nb4 52.Nd1 Rd3 53.Rxd3 Nxd3+ 54.Kb1 Kc4 0-1

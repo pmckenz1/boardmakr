@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.20"]
+[EventDate "1897.09.13"]
+[Round "7"]
+[Result "1-0"]
+[White "Karl August Walbrodt"]
+[Black "Semion Alapin"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 e5 2. f4 Nf6 3. d3 d5 4. fxe5 Ng4 5. exd5 Qxd5 6. Nf3
+Nc6 7. d4 Bf5 8. Bd3 g6 9. Bxf5 gxf5 10. Nc3 Qa5 11. h3 Nh6
+12. Bg5 Ng8 13. Qd3 Nge7 14. O-O-O O-O-O 15. Qc4 Rg8 16. Qxf7
+h6 17. Bxe7 Nxe7 18. d5 Rxg2 19. d6 cxd6 20. exd6 Nc6 21. Rd5
+Qb6 22. Rb5 Qe3+ 23. Kb1 Rg7 24. Qxf5+ Kb8 25. Re1 Qf2 26. Ne4
+Qg2 27. Rd1 Qg6 28. Rxb7+ Kxb7 29. Qb5+ Ka8 30. Qxc6+ Kb8
+31. Nc5 a5 32. Qb6+ Kc8 33. d7+ Rdxd7 34. Nxd7 Rxd7 35. Qg1
+Rxd1+ 36. Qxd1 Qg3 37. Qf1 Qf4 38. a3 Bd6 39. Qd3 Bc7 40. Nd4
+Qh4 41. Qa6+ Kd8 42. Qa8+ Kd7 43. Qc6+ Kc8 44. Ne6 1-0

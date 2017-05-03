@@ -1,0 +1,21 @@
+[Event "01, World op"]
+[Site "01, World op"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lev Alburt"]
+[Black "Steve Greanias"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxg5
+7.Nxg5 e6 8.Qd2 exd5 9.Qe3+ Kf8 10.Qf4 Bf6 11.h4 Kg7 12.e3 h6
+13.Nf3 Be6 14.g4 c5 15.dxc5 Nd7 16.Nd4 Nxc5 17.O-O-O Rc8
+18.Kb1 a6 19.Bg2 Bxh4 20.Bxd5 Bxd5 21.Nxd5 Bg5 22.Qg3 Qe8
+23.f4 Bd8 24.Nf5+ Kf8 25.Nxh6 Qe4+ 26.Ka1 Nd3 27.g5 Rc2 28.Rh2
+Nxb2 29.Rxc2 Qxc2 30.Rb1 Na4 31.Qe1 b5 32.Qb4+ Qc5 33.Qxc5+
+Nxc5 34.Rc1 Ne4 35.Rd1 f6 36.Nc3 Nxc3 37.Rxd8+ Kg7 38.Rd7+ Kf8
+39.Rf7+ Ke8 40.Rc7 1-0

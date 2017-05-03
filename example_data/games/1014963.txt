@@ -1,0 +1,21 @@
+[Event "Dortmund"]
+[Site "Dortmund FRG"]
+[Date "1980.08.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Utut Adianto"]
+[Black "Hansen"]
+[ECO "B94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7
+7.Bc4 Qa5 8.Qd2 e6 9.O-O-O b5 10.Bb3 Bb7 11.Rhe1 O-O-O 12.f3
+Be7 13.Kb1 Kb8 14.Be3 Rc8 15.Bg1 Nc5 16.Qe3 Nfd7 17.Rc1 Nb6
+18.Qf4 Rhf8 19.Nf5 exf5 20.exf5 b4 21.Rxe7 bxc3 22.Qxd6+ Ka8
+23.Re5 Nxb3 24.axb3 Nd5 25.Qa3 Qxa3 26.bxa3 Rfe8 27.Rce1 Bc6
+28.Bd4 Rxe5 29.Rxe5 f6 30.Re1 Re8 31.Re6 Kb7 32.g3 Rxe6
+33.fxe6 Kc7 34.Bc5 Bb7 35.f4 g6 36.Kc1 Bc8 37.e7 Kd7 38.Kd1
+Nxe7 39.Ke2 Nd5 40.Kd3 Kc6 41.Bd4 Bf5+ 42.Kc4 Bxc2 0-1

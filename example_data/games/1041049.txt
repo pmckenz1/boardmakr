@@ -1,0 +1,25 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1954.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Ruben Shocron"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.c4 Nf6 2.Nc3 c6 3.d4 d5 4.e3 e6 5.Nf3 Nbd7 6.Bd3 Bb4 7.O-O
+O-O 8.a3 Bd6 9.e4 dxc4 10.Bxc4 e5 11.Bg5 Qe7 12.Re1 Rd8 13.Ba2
+Bc7 14.Qe2 exd4 15.Nxd4 Qd6 16.Nf3 Ne5 17.Nxe5 Qxe5 18.f4 Qc5+
+19.Kh1 Ng4 20.Bxd8 Nf2+ 21.Qxf2 Qxf2 22.Bxc7 Bg4 23.Rf1 Qxb2
+24.Be5 Qd2 25.h3 Bh5 26.g4 Bg6 27.f5 Qe3 28.Kg2 Qc5 29.Bg3
+Qxc3 30.fxg6 hxg6 31.Bxf7+ Kh7 32.Rad1 Qc2+ 33.Kg1 Qc3 34.Be1
+Qe3+ 35.Bf2 Qxh3 36.e5 Kh6 37.Rd4 Rh8 38.Re1 Kg5 39.Be3+ Kh4
+40.g5 Kh5 41.Re2 Qg3+ 42.Kf1 Qxe5 43.Bf2 Qxg5 44.Ree4 Rf8
+45.Bc4 Qc1+ 46.Kg2 g5 47.Be2+ Kh6 48.Re3 Rf4 49.Rd6+ Kh7
+50.Bd3+ Kg8 51.Re8+ Rf8 52.Bh7+ Kxh7 53.Rxf8 Qxa3 54.Rdd8 g4
+55.Bg3 Qe3 56.Rh8+ Kg6 57.Rd6+ Kf7 58.Rd7+ Kg6 59.Rd6+ Kf7
+60.Rd7+ Kg6 1/2-1/2

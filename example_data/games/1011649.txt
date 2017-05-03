@@ -1,0 +1,21 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Anet Rezek-Jambrak"]
+[Black "Irena Mihalincic"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3
+Nge7 7. Bc4 Ne5 8. Be2 d6 9. O-O Qg6 10. f3 d5 11. Nd2 dxe4
+12. Nxe4 Bb6 13. c4 c6 14. Nf2 h5 15. Rc1 O-O 16. Nd3 Nxd3
+17. Bxd3 Qf6 18. c5 Nd5 19. Bf2 Bc7 20. Be4 Nf4 21. Qc2 Qg5
+22. Be1 Bh3 23. Rf2 Nxg2 24. Kh1 Qe5 25. Rxg2 Bxg2+ 26. Qxg2
+Qf6 27. Nf5 Be5 28. Bh4 Qe6 29. Rg1 g6 30. Qg5 Bg7 31. Nxg7
+Kxg7 32. Qxh5 Rh8 33. Qg5 Kf8 34. Bg3 Rh5 35. Qe3 f5 36. Bd6+
+Kf7 37. Qf4 Rah8 38. Rg2 Rh4 39. Qg5 fxe4 40. fxe4 0-1

@@ -1,0 +1,15 @@
+[Event "8, Barcelona UGA (10s)"]
+[Site "8, Barcelona UGA Hiarcs 7.32 (10s)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Luis Maria Campos Gambuti"]
+[ECO "A39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "16"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 c5 4. O-O Nc6 5. c4 Nf6 6. Nc3 O-O
+7. d4 cxd4 8. Nxd4 Nxd4 1/2-1/2

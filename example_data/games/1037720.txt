@@ -1,0 +1,16 @@
+[Event "9, Oakham House"]
+[Site "9, Oakham House"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Tom O'Donnell"]
+[Black "Lawrence Day"]
+[ECO "C60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Qf6 4.O-O Bc5 5.d3 h6 6.c3 Nge7 7.Be3
+Bb6 8.Nbd2 d6 9.a4 O-O 10.b4 Bg4 11.a5 Bxe3 12.fxe3 a6 13.Bc4
+Qg6 14.Qe1 Be6 15.Nh4 Qh7 16.Qg3 Bxc4 1/2-1/2

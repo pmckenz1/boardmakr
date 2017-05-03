@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Robert Csolig"]
+[Black "Maria Cleven"]
+[ECO "B12"]
+[WhiteElo "2165"]
+[BlackElo "2040"]
+[PlyCount "110"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 h6
+7. Nf4 Bh7 8. Bd3 Bxd3 9. Qxd3 Nd7 10. Be3 c5 11. Ncxd5 exd5
+12. e6 Ngf6 13. exd7+ Qxd7 14. dxc5 O-O-O 15. O-O-O Nxg4
+16. Nxd5 Nxe3 17. Qxe3 Qc6 18. Ne7+ Bxe7 19. Qxe7 Qc7
+20. Rxd8+ Rxd8 21. Qxc7+ Kxc7 22. Re1 Rd7 23. b4 Kc6 24. c3
+Rd3 25. Kc2 Rf3 26. Re2 g5 27. Rd2 h5 28. Kb3 g4 29. Kc4 Rf4+
+30. Kd3 Rf3+ 31. Kd4 Rh3 32. f4 Rf3 33. Ke5 Rxc3 34. a4 h4
+35. Rd6+ Kc7 36. Rf6 Re3+ 37. Kf5 g3 38. hxg3 hxg3 39. Rxf7+
+Kc6 40. b5+ Kxc5 41. Rxb7 g2 42. Rg7 Re2 43. Kf6 Kd4 44. Rg3
+Ke4 45. Kg5 Rf2 46. Rg4 Kf3 47. f5 Rf1 48. f6 g1=Q 49. Rxg1
+Rxg1+ 50. Kh6 Ke4 51. f7 Rf1 52. Kg7 Kd5 53. a5 Kc5 54. b6
+axb6 55. axb6 Kxb6 1/2-1/2

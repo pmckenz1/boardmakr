@@ -1,0 +1,20 @@
+[Event "San Fernando op"]
+[Site "San Fernando op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Horacio Abramson"]
+[Black "Andres Rodriguez Vila"]
+[ECO "A88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.Nf3 f5 2.c4 Nf6 3.Nc3 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O d6 7.d4 c6
+8.b3 Na6 9.Bb2 Rb8 10.e3 Qe8 11.Ne2 Nc7 12.Nf4 h6 13.h4 b5
+14.c5 Ne4 15.h5 g5 16.Ng6 Rf7 17.cxd6 exd6 18.Nd2 Nd5 19.Nxe4
+fxe4 20.Qc2 Bf5 21.Rac1 Rc8 22.g4 Bxg4 23.Bxe4 Bf3 24.Bf5 Rxf5
+25.Qxf5 Bxh5 26.Qxd5+ Kh7 27.Qxd6 Bxg6 28.Bc3 b4 29.Bd2 Bd3
+30.f4 Qh5 31.Qe6 Re8 32.Qxc6 Be4 33.Qd7 Qh4 34.Rf3 Bxf3
+35.Qf5+ 0-1

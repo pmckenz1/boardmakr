@@ -1,0 +1,18 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Novi Sad YUG"]
+[Date "1990.12.03"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Narcisa Mihevc-Mohr"]
+[Black "Alisa Galliamova"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 e5 7.Nb3
+Be7 8.f3 O-O 9.Qd2 a5 10.Na4 d5 11.Bb6 Qe8 12.exd5 Nxd5 13.Bc5
+Ncb4 14.Bxe7 Nxe7 15.Nc3 Bf5 16.Ne4 Rd8 17.Bd3 Nxd3+ 18.cxd3
+Qb5 19.Rd1 a4 20.Na5 Nd5 21.Nc4 Nf4 22.Ncd6 Qa6 23.Nxf5 Nxd3+
+24.Kf1 Nxb2 0-1

@@ -1,0 +1,17 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Loek van Wely"]
+[Black "Igor Stohl"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+
+7. bxc3 d6 8. Qc2 e5 9. O-O O-O 10. dxc5 dxc5 11. Ng5 h6
+12. Ne4 Nxe4 13. Bxe4 Be6 14. Rd1 Qc7 15. Bd5 Na5 16. Rb1 Rad8
+17. e4 b6 18. Qa4 1/2-1/2

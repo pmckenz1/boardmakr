@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Adam Hunt"]
+[Black "Miroslav Houska"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Bf4 Be6 11. Rfd1
+Bb4 12. Ne2 h6 13. Nfd4 Nxd4 14. Nxd4 Ke7 15. Be3 Rhe8 16. a3
+Bc5 17. Nxc6+ 1-0

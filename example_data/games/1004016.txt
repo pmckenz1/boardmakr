@@ -1,0 +1,20 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "David Przepiorka"]
+[Black "Ladislav Prokes"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. Nc3
+Bb7 7. e3 d6 8. Be2 Nbd7 9. O-O Nf8 10. Rfd1 Ng6 11. Qc2 O-O
+12. b4 Ng4 13. Ne4 Qe7 14. c5 f5 15. c6 Bxc6 16. Qxc6 fxe4
+17. Qxe4 Nf6 18. Qc6 Nd5 19. b5 Nh4 20. Rac1 Qf6 21. Qc2 Rf7
+22. Qe4 Nxf3+ 23. Qxf3 Qxf3 24. Bxf3 a6 25. Bxd5 exd5 26. a4
+axb5 27. axb5 Ra2 28. Rf1 Rb2 29. Rb1 Rfxf2 30. Rxb2 Rxb2
+31. Rc1 Rxb5 32. Rxc7 Rb2 1/2-1/2

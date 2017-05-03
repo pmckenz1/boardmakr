@@ -1,0 +1,21 @@
+[Event "Leningrad training"]
+[Site "Leningrad training"]
+[Date "1933.11.24"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Vladimir Alatortsev"]
+[Black "Mikhail Botvinnik"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.e3 Bb7 6.Bd3 O-O 7.O-O
+d5 8.cxd5 exd5 9.a3 Bd6 10.b4 Nbd7 11.Nb5 Be7 12.Ne5 a6 13.Nc3
+c5 14.bxc5 bxc5 15.Rb1 Qc7 16.Nxd7 Nxd7 17.Qb3 Rab8 18.Nxd5
+Bxd5 19.Qxd5 Rxb1 20.Bxb1 c4 21.Bxh7+ Kxh7 22.Qe4+ Kg8 23.Qxe7
+c3 24.e4 c2 25.d5 Rb8 26.g3 Qc8 27.Qg5 Qc4 28.f3 Rb3 29.Qd2
+Rd3 30.Qe2 Ne5 31.Kg2 Rd1 32.Qxc4 Nxc4 33.d6 Kf8 34.a4 Ke8
+35.Kf2 Nd2 36.Re1 Nxf3 37.Rf1 Nxh2 38.Re1 Nf3 39.Rf1 Nd2
+40.Re1 Nb3 41.Ba3 c1=Q 42.Bxc1 Rxc1 43.Rxc1 Nxc1 0-1

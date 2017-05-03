@@ -1,0 +1,21 @@
+[Event "Marienbad"]
+[Site "Marienbad CZE"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "9"]
+[Result "0-1"]
+[White "August Konrad Haida"]
+[Black "Reginald Pryce Michell"]
+[ECO "A12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.Nf3 d5 2.c4 c6 3.b3 Bf5 4.Bb2 e6 5.g3 Nf6 6.Bg2 Nbd7 7.O-O
+Bd6 8.d3 Qe7 9.Nbd2 O-O 10.Re1 e5 11.Qc2 Bg6 12.Nh4 Ba3 13.e4
+dxe4 14.dxe4 Rfd8 15.Nxg6 hxg6 16.Nf3 a5 17.Rad1 Re8 18.Re2 a4
+19.Qc3 axb3 20.Bxa3 Qxa3 21.axb3 Nc5 22.Nd2 Red8 23.Ree1 Rd3
+24.Qxe5 Rad8 25.Ra1 Qb4 26.Nf1 Rxb3 27.Ne3 Re8 28.Qc7 Nfxe4
+29.Bf1 Ng5 30.Kg2 Nge6 31.Qd6 Rb2 32.Be2 Rd2 33.Rab1 Qc3
+34.Nd5 cxd5 35.cxd5 Qd4 36.Red1 Ne4 37.Qb6 N6c5 38.Rxd2 Nxd2
+39.Re1 Qxd5+ 40.Kh3 Qe6+ 0-1

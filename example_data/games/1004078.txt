@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.21"]
+[EventDate "1928.09.21"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Endre Steiner"]
+[Black "Lajos Merenyi"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Be7
+7. Re1 O-O 8. h3 Bd7 9. d4 Be8 10. a3 Nd7 11. Nbd2 f6 12. Nf1
+Kh8 13. Ng3 Bf7 14. Nf5 Re8 15. Nxe7 Qxe7 16. Nh4 g6 17. d5
+Na5 18. Qg4 b5 19. Bc2 Nb7 20. a4 Nb6 21. axb5 axb5 22. Rxa8
+Rxa8 23. Bd3 Be8 24. b4 Ra2 25. f4 exf4 26. Bxf4 Nxd5 27. Bh6
+Nb6 28. Rf1 c6 29. Qf4 Nd7 30. Nf3 Nd8 31. Nd4 Ne6 32. Nxe6
+Qxe6 33. Bb1 Ra1 34. h4 Bf7 35. Qf2 Ne5 36. Qb6 Ng4 37. Bf4
+Ne5 38. Bh6 Ng4 39. Bf4 Ne5 40. Qd4 Kg7 41. c4 Ra8 42. cxb5
+cxb5 43. Qb6 Qd7 44. Rd1 Qa7 45. Qxa7 Rxa7 46. Rxd6 Ra1
+47. Rd1 Ba2 48. Bc2 Rxd1+ 49. Bxd1 Nd3 1/2-1/2

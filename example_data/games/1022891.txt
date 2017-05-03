@@ -1,0 +1,21 @@
+[Event "USSR Championship 1968/69"]
+[Site "Alma Ata (RUS)"]
+[Date "1968.??.??"]
+[EventDate "1968.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Aleksander S Nikitin"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 Nxc3 4.dxc3 d6 5.Nf3 dxe5 6.Qxd8+ Kxd8
+7.Nxe5 Ke8 8.Bc4 e6 9.O-O Bd6 10.Re1 Nd7 11.Nf3 a6 12.Be3 h6
+13.Bd4 Rg8 14.Rad1 Kf8 15.a3 b6 16.Nd2 Bb7 17.Ba2 Rd8 18.Nc4
+Be7 19.Be5 Nxe5 20.Rxd8+ Bxd8 21.Nxe5 Bc8 22.Rd1 Be7 23.Rd3
+Bd6 24.Nc4 Ke7 25.Nxd6 cxd6 26.Rd4 Bd7 27.Bc4 a5 28.f3 g5
+29.Kf2 Bc6 30.Be2 f5 31.h3 Rc8 32.Rd1 h5 33.h4 g4 34.f4 Be4
+35.Bd3 g3 36.Ke3 d5 37.Bxe4 dxe4 38.Rh1 Rg8 39.c4 a4 40.Rd1
+Rg4 41.Rh1 Kf6 42.b4 0-1

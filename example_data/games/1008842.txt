@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Mark Heidenfeld"]
+[Black "Anthony Cornelis Kosten"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. a4 Nc6
+7. Be2 e5 8. Nb3 Be7 9. O-O O-O 10. f4 exf4 11. Bxf4 Be6
+12. Kh1 Rc8 13. Nd4 Nxd4 14. Qxd4 Rc6 15. Bd3 Nh5 16. Nd5 Nxf4
+17. Rxf4 Bg5 18. Rf3 Bxd5 19. exd5 Rc7 20. Raf1 g6 21. b4 f5
+22. c4 Bf6 23. Qb6 Be5 24. c5 Bd4 25. g4 dxc5 26. gxf5 Rf6
+27. Qa5 b6 28. Qxa6 cxb4 29. Be4 gxf5 30. Rxf5 Rxf5 31. Rxf5
+b3 32. Qd3 Qh4 33. Rf1 Be5 34. Qe2 b2 35. Bxh7+ Kxh7 36. Qxe5
+Rc1 37. Qf5+ Kh6 38. Qf8+ Kh7 39. Qf7+ 1/2-1/2

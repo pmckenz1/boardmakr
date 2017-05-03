@@ -1,0 +1,24 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Nikolai Nasikan"]
+[Black "Georgy Kazarian"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e6 4. cxd4 d5 5. e5 Nc6 6. Nf3 Qb6
+7. a3 a5 8. Be2 Bd7 9. O-O h5 10. h4 Nge7 11. Nc3 Nf5 12. Nb5
+a4 13. Bg5 Nxe5 14. Nxe5 Bxb5 15. Bxh5 g6 16. Nxg6 fxg6
+17. Bxg6+ Kd7 18. Bxf5 exf5 19. Re1 Bc4 20. Qc2 Qg6 21. Re5
+Bd6 22. Rxf5 Raf8 23. Qxa4+ Kc8 24. Rxf8+ Rxf8 25. Re1 Qf7
+26. f3 Kb8 27. b4 Rg8 28. Kf2 Rc8 29. Qd1 Qc7 30. Kg1 Bh2+
+31. Kh1 Bg3 32. Re6 Qd7 33. Re3 Re8 34. Qd2 Rh8 35. Re7 Qf5
+36. Qc1 Bxh4 37. Qf4+ Qxf4 38. Bxf4+ Ka7 39. Re6 Bg5+ 40. Bh2
+Bf4 41. Kg1 Bxh2+ 42. Kf2 Bf4 43. Re1 Bb5 44. Re7 Rh1 45. g4
+Rh2+ 46. Kg1 Re2 47. Rxe2 Bxe2 48. Kf2 Bb5 49. Kg2 Kb6 50. Kh3
+Be2 51. Kh4 Bxf3 52. g5 Kb5 53. g6 Bh6 54. g7 Bxg7 0-1

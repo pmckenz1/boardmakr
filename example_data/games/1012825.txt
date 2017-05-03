@@ -1,0 +1,23 @@
+[Event "Simul, 43b"]
+[Site "Bridgeport, CT USA"]
+[Date "1932.11.05"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Seymour Schamach"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Bxc6 Bxc6 6. Nc3
+Qe7 7. O-O g6 8. Re1 Rd8 9. Qe2 Bg7 10. Bg5 f6 11. Bh4 Nh6
+12. dxe5 dxe5 13. Qc4 g5 14. Bg3 Nf7 15. Nd5 Bxd5 16. exd5 O-O
+17. Nd4 Rc8 18. Ne6 Rfe8 19. h4 h6 20. hxg5 hxg5 21. Qg4 Qd7
+22. Qf5 Qxd5 23. Nxg7 Kxg7 24. Rad1 Qe6 25. Qe4 Nd6 26. Qa4 a6
+27. f4 Qg4 28. Bf2 exf4 29. Rxe8 Qxd1+ 30. Re1 Qg4 31. Re7+
+Kg6 32. Qd4 Qf5 33. Be1 Re8 34. Rxe8 Nxe8 35. Qd8 Qe6 36. Qd3+
+f5 37. Bd2 Qb6+ 38. Kh2 Qd6 39. Kg1 Qxd3 40. cxd3 Kh5 41. Kf2
+Kg4 42. a4 Nf6 43. Bc3 Nd5 44. Be5 c6 45. a5 Nb4 46. Ke2 Kg3
+47. Bf6 g4 48. Be5 Nd5 0-1

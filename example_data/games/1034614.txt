@@ -1,0 +1,22 @@
+[Event "Team ch Moscow"]
+[Site "Moscow"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Mikhailovich Liberzon"]
+[Black "David Bronstein"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5
+Bb4 7. a3 Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 Qe7+ 11. Qe2
+Qxe2+ 12. Nxe2 Ne5 13. Bb5+ Bd7 14. Bxd7+ Kxd7 15. Bg5 Ne4
+16. Bf4 Rhe8 17. f3 Ng6 18. Bg3 Nc5 19. Kf2 Ne6 20. Rhd1 Kc6
+21. c4 dxc4 22. Rd6+ Kb5 23. a4+ Ka5 24. Kf1 b6 25. Be1+ Ka6
+26. a5 Red8 27. axb6+ Kb7 28. Rxd8 Nxd8 29. bxa7 Rxa7
+30. Rxa7+ Kxa7 31. Bc3 f6 32. Kf2 Kb6 33. Ke3 Kc5 34. g4 Ne7
+35. Bd4+ Kc6 36. f4 Nd5+ 37. Ke4 Nf7 38. Bc3 Nd6+ 39. Kd4 Nb5+
+40. Ke4 Nd6+ 41. Kd4 Nb5+ 1/2-1/2

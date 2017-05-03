@@ -1,0 +1,25 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.25"]
+[EventDate "1882.05.10"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Vincenz Hruby"]
+[Black "Adolf Schwarz"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 b6
+7. Bd3 Bb7 8. O-O Nbd7 9. Rc1 dxc4 10. Bxc4 c5 11. Be2 cxd4
+12. Qxd4 Nc5 13. Qh4 h6 14. Bxf6 Bxf6 15. Qg4 Qe7 16. b4 Bxc3
+17. Rxc3 Ne4 18. Rc4 Bd5 19. Rd4 f5 20. Qf4 Nc3 21. Rd2 Rfd8
+22. a3 Rac8 23. Bd3 Be4 24. Ba6 Rxd2 25. Nxd2 e5 26. Qg3 b5
+27. Qh3 Rc6 28. Nxe4 fxe4 29. Bc8 Qd6 30. Bg4 Ra6 31. Qh5 Qe7
+32. Rc1 Rxa3 33. Qf5 Qe8 34. Bh5 Qb8 35. g3 a5 36. Rc2 axb4
+37. Rd2 Ra6 38. Qf7+ Kh8 39. Rd7 Qg8 40. Qe7 Nd5 41. Qxe5 Nf6
+42. Re7 Ra8 43. Bf7 Qd8 44. Bb3 Rc8 45. Kg2 Qf8 46. Rf7 Qc5
+47. Qf4 Qg5 48. Qd6 Qg4 49. Bd1 Qf5 50. Qxb4 Rc5 51. h3 Kh7
+52. g4 Qe5 53. Be2 Nd5 54. Qd4 Nc3 55. Qxe5 Rxe5 56. Bf1 Rc5
+57. Rb7 Kg6 58. Kg3 Kf6 59. h4 1/2-1/2

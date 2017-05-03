@@ -1,0 +1,20 @@
+[Event "Leningrad 1st cat"]
+[Site "Leningrad 1st cat"]
+[Date "1925.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Perfiliev"]
+[Black "Mikhail Botvinnik"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5
+7.Bxd5 Qxd5 8.Nc3 Qd8 9.Rxe4+ Be7 10.Nxd4 f5 11.Bh6 fxe4
+12.Bxg7 Nxd4 13.Qh5+ Kd7 14.Bxd4 Rf8 15.Rd1 Bd6 16.Qg4+ Ke8
+17.Qh5+ Rf7 18.Nd5 Bg4 19.Qxg4 Bxh2+ 20.Kxh2 Qxd5 21.Bf6 Qc6
+22.Bh4 Kf8 23.Qg5 h6 24.Qe5 Kg8 25.Rd5 Re8 26.Qh5 Kg7 27.Bg3
+Qg6 28.Qd1 c6 29.Rd6 Re6 30.Rd8 c5 31.Ra8 e3 32.Qd8 Qh5+
+33.Bh4 Re8 34.Qxe8 Qxh4+ 35.Kg1 exf2 36.Kf1 Qc4+ 0-1

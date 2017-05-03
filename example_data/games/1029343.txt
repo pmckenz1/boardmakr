@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "?"]
+[Date "1898.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Janowski / Jenour"]
+[Black "Joseph Henry Blackburne / Allies"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 Nc6 2.d4 e5 3.d5 Nb8 4.f4 Bc5 5.Nf3 d6 6.c4 Qe7 7.Bd3 f5
+8.Nc3 Nf6 9.Qe2 fxe4 10.Nxe4 Bb4+ 11.Kd1 Nxe4 12.Qxe4 Nd7
+13.fxe5 Nc5 14.Qe2 Nxd3 15.Qxd3 dxe5 16.Bg5 Qf7 17.a3 Bf5
+18.Qe3 Bd6 19.Nxe5 Bxe5 20.Qxe5+ Kd7 21.Bf4 Rac8 22.g4 Bxg4+
+23.Kd2 Rhe8 24.Qd4 Re2+ 25.Kc3 Rce8 26.Rhf1 R8e4 27.Bd2 Qg6
+28.Qxa7 Rxc4+ 29.Kxc4 Qc2+ 30.Bc3 Re4+ 31.Qd4 Be2+ 0-1

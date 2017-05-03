@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.29"]
+[EventDate "1923.11.16"]
+[Round "8"]
+[Result "0-1"]
+[White "Theodor Gruber"]
+[Black "Ernst Gruenfeld"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 Nxc3 6. bxc3 d6
+7. cxd6 exd6 8. Nf3 Be7 9. Bc4 O-O 10. O-O Nc6 11. exd6 Bxd6
+12. d4 Bg4 13. Be2 Re8 14. h3 Bh5 15. Re1 Qd7 16. Be3 Na5
+17. Nd2 Bxe2 18. Qxe2 c5 19. Qf3 cxd4 20. cxd4 Bb4 21. Red1
+Bxd2 22. Rxd2 Nc4 23. Rc2 Rac8 24. Rac1 b5 25. Rc3 f5 26. a4
+a6 27. axb5 axb5 28. Rb1 Ne5 29. Qg3 Rxc3 30. dxe5 Qd5 31. Qg5
+Qxe5 32. Re1 f4 0-1

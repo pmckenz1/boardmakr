@@ -1,0 +1,18 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Vladimir Baklan"]
+[Black "Zbynek Hracek"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Na3 g6 6. Qb3 Nc7
+7. d4 cxd4 8. Bc4 Ne6 9. cxd4 Bg7 10. d5 Ned4 11. Nxd4 Nxd4
+12. Qe3 Qb6 13. O-O d6 14. exd6 Qxd6 15. Re1 a6 16. Bd3 b5
+17. Nc2 Nxc2 18. Bxc2 Bb7 19. Bb3 Rd8 20. Qe2 O-O 21. Bg5 f6
+22. Qxe7 Qxe7 23. Rxe7 Bxd5 24. Be3 Rf7 25. Bb6 Rxe7 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "9"]
+[Result "1-0"]
+[White "Suat Atalik"]
+[Black "Valeriane Gaprindashvili"]
+[ECO "D38"]
+[WhiteElo "2636"]
+[BlackElo "2559"]
+[PlyCount "91"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Nf3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6
+7. Qb3 c5 8. cxd5 exd5 9. e3 O-O 10. dxc5 Nc6 11. Bb5 d4
+12. Bxc6 dxc3 13. Qxb4 cxb2 14. Rb1 Qxc6 15. O-O a5 16. Qc3
+Bh3 17. Qxb2 Qg6 18. Ne1 Be6 19. Rc1 Qe4 20. Nf3 Qb4 21. Rc2
+Rfc8 22. Rfc1 b5 23. Nd4 Qxb2 24. Rxb2 b4 25. c6 Rab8 26. g3
+a4 27. Nxe6 fxe6 28. Rc4 a3 29. Rbxb4 Rxb4 30. Rxb4 Rxc6
+31. Rb3 Ra6 32. h4 h5 33. Rb5 Rc6 34. Ra5 Rc3 35. Kf1 Rc1+
+36. Kg2 Rc3 37. Kf3 Kf7 38. Rxh5 Rc2 39. Ra5 Rxa2 40. h5 Kf6
+41. g4 g5 42. Ra7 Ra1 43. Kg2 a2 44. h6 Rb1 45. Rxa2 Rb4
+46. Kf3 1-0

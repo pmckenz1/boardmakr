@@ -1,0 +1,22 @@
+[Event "Training"]
+[Site "Training"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Semyon Abramovich Furman"]
+[Black "Mikhail Botvinnik"]
+[ECO "E82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 b6 7.Qd2 c5
+8.d5 e6 9.O-O-O exd5 10.exd5 a6 11.g4 b5 12.cxb5 axb5 13.Bxb5
+Ba6 14.Bxa6 Nxa6 15.Bh6 Bxh6 16.Qxh6 c4 17.Nge2 Nb4 18.Kb1 Qa5
+19.Nc1 Nfxd5 20.Nxd5 Nxd5 21.Qd2 Nb4 22.a3 Rfb8 23.Qc3 Nc6
+24.Qxa5 Rxa5 25.Rxd6 Ne5 26.Rhd1 Nxf3 27.Rd8+ Rxd8 28.Rxd8+
+Kg7 29.h3 h5 30.Kc2 hxg4 31.hxg4 Rg5 32.a4 Rxg4 33.a5 Nd4+
+34.Kc3 Nb5+ 35.Kd2 Rg2+ 36.Ne2 c3 37.bxc3 Nxc3 38.Kxc3 Rxe2
+39.Rd2 Re6 40.Kc4 g5 41.Kb5 f5 42.a6 Kf6 43.Rd8 Re7 44.Kb6 g4
+45.Rg8 1/2-1/2

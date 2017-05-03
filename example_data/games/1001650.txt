@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.26"]
+[EventDate "1882.05.10"]
+[Round "14"]
+[Result "0-1"]
+[White "Bernhard Fleissig"]
+[Black "Alexander Wittek"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 g6 5. Bd2 Bg7 6. Nc3 d6
+7. O-O-O Be6 8. f4 Qe7 9. Nf3 Nf6 10. h3 h5 11. Be1 Nd7
+12. Nb5 Nb6 13. Bh4 f6 14. Kb1 O-O-O 15. Qa3 a6 16. Nc3 Nc4
+17. Bxc4 Bxc4 18. Nd5 Qf7 19. Rhe1 Rde8 20. Nc3 Bh6 21. Bg3 f5
+22. exf5 Qxf5 23. Nh4 Qf7 24. b3 Be6 25. Qc1 Bg7 26. Na4 Nd4
+27. Bh2 Qf6 28. c3 Qxh4 29. cxd4 Bf5+ 30. Kb2 Rxe1 31. Rxe1
+Bxd4+ 32. Ka3 Qf6 33. b4 b5 34. Nb2 Kb7 35. Kb3 Qf7+ 36. Ka3
+c5 37. Bg1 a5 38. bxc5 b4+ 0-1

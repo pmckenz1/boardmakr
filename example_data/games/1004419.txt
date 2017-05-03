@@ -1,0 +1,18 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Kornel Havasi"]
+[Black "Hans Mueller"]
+[ECO "E23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4
+7. Bd2 Nxd2 8. Nxd2 Bxc5 9. e3 O-O 10. Nde4 Qe7 11. Be2 Bb4
+12. a3 Bxc3+ 13. Nxc3 b6 14. Rd1 Bb7 15. e4 e5 16. Nd5 Qh4
+17. Qg3 Qxg3 18. hxg3 Nd4 19. Nc3 Rfe8 20. Bd3 h6 21. Rh4
+1/2-1/2

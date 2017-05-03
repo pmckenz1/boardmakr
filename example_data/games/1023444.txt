@@ -1,0 +1,21 @@
+[Event "Tashkent URS sf"]
+[Site "Tashkent URS sf"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Evgeni Ellinovich Sveshnikov"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3
+Nd7 8.Bd3 Qd8 9.O-O Be7 10.e4 dxc4 11.Bxc4 b5 12.Bd3 b4 13.Ne2
+O-O 14.Rc1 Bb7 15.Bb1 Qb6 16.Nd2 Rfd8 17.Nc4 Qc7 18.Qb3 Rac8
+19.Rfd1 Qb8 20.Qe3 c5 21.d5 exd5 22.exd5 Bg5 23.f4 Bf6 24.Bf5
+Re8 25.Qf3 Rcd8 26.Bxd7 Rxd7 27.Rc2 Qd8 28.Rcd2 Qe7 29.Kf2 g6
+30.b3 h5 31.g3 Qd8 32.h3 Rde7 33.Kf1 Qd7 34.g4 hxg4 35.hxg4
+Ba6 36.g5 Bc3 37.Rc2 Qf5 38.Rd3 Bd4 39.Nxd4 cxd4 40.Kg2 Re3
+41.Nxe3 Qxd3 0-1

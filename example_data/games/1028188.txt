@@ -1,0 +1,26 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.07"]
+[EventDate "1895.08.05"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Curt von Bardeleben"]
+[Black "Henry Edward Bird"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 {Notes by R. Teichmann} e6 2.d4 d5 3.Be3 {Alapin's
+idea. The sacrifice of the pawn seems to be correct, for after
+dxe4 4 Nd2 Black would get a very difficult game to defend if
+he tried to keep the pawn with f5, whilst, after Nf6 5 c3
+followed by Qc2 would recover the pawn with a good game.} Nf6
+4.e5 Nfd7 5.Nf3 {f4 appears to be preferable.} c5 6.c3 Nc6
+7.Nbd2 Qb6 8.Rb1 cxd4 9.cxd4 Be7 10.Be2 O-O 11.O-O f5 12.exf6
+Nxf6 13.h3 Bd7 14.Nb3 Nd8 15.Nc1 Bd6 16.Ne5 Be8 17.Ncd3 Ne4
+18.Bh5 Bb5 19.Re1 Qc7 20.Rc1 Qe7 21.Bf3 Ng5 22.Bg4 Bxd3
+23.Qxd3 Ne4 24.Bf3 Ng5 25.Bxg5 Qxg5 26.Rc2 {The play in this
+game was tame, and featureless to a degree, and does not
+require any comment. Apparently both players were satisfied
+with the result.} 1/2-1/2

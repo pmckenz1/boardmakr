@@ -1,0 +1,25 @@
+[Event "USA-06.Congress New York (35-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.11"]
+[EventDate "?"]
+[Round "35"]
+[Result "1/2-1/2"]
+[White "George Hatfeild Gossip"]
+[Black "James Moore Hanham"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 {Notes by Steinitz.} e5 2.f4 Bc5 3.Nc3 d6 4.Nf3 Nd7 5.Bc4
+c6 6.d3 Ngf6 7.Na4 {?} Bb4+ 8.c3 Ba5 9.b4 Bc7 10.fxe5 Nxe5
+11.Nxe5 {? He could well retreat Bb3 and if 11...Bg4 12.d4
+Nxf3+ 13.gxf3 with the better game.} dxe5 12.Bb3 O-O 13.Bg5
+Qd6 14.O-O Bg4 15.Qd2 Nd7 16.Nb2 Rae8 17.Nc4 Qg6 18.Bh4 Be6
+19.Ne3 Bb6 20.Kh1 Qh6 21.Bf2 Nf6 22.Qe1 Rd8 23.Rd1 Bc8 {?}
+24.Nf5 Bxf5 25.Bxb6 Ng4 26.Bg1 Bc8 27.Rf3 b6 28.Rh3 Qg5 29.Qh4
+Qxh4 30.Rxh4 Rd6 31.Rh3 Rfd8 32.Rf3 Nf6 {!} 33.h3 Ba6 34.c4
+Nxe4 35.c5 bxc5 36.Bxf7+ Kh8 37.bxc5 Rxd3 38.Rfxd3 Rxd3 39.Re1
+Ng3+ 40.Kh2 Rc3 41.Rxe5 Nf1+ 42.Kh1 Ng3+ {There was no more
+than a draw in the game and Black rightly decides it that
+way.} 1/2-1/2

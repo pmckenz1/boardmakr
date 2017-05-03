@@ -1,0 +1,23 @@
+[Event "10s, Mitropa Cup Bad Woerishofen"]
+[Site "10s, Mitropa Cup Bad Woerishofen Hiarcs 7.32"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Leon F Gostisa"]
+[Black "Fernando Braga"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. Bg5 Nbd7 6. e3 c5
+7. cxd5 exd5 8. Bd3 Qa5 9. Qc2 c4 10. Bf5 O-O 11. O-O Re8
+12. a3 Bxc3 13. Qxc3 Qxc3 14. bxc3 h6 15. Bh4 Ne4 16. Bxe4
+Rxe4 17. Rfb1 Re6 18. Rb5 Nb6 19. Ra5 Bd7 20. Rb1 a6 21. Rb4
+f6 22. Nd2 Bb5 23. Kf1 Rc8 24. Bg3 Na8 25. a4 b6 26. Raxb5
+axb5 27. Rxb5 Rd8 28. e4 dxe4 29. d5 e3 30. Nxc4 e2+ 31. Ke1
+Re4 32. Ne3 Rc8 33. Kxe2 Rxc3 34. a5 Rc5 35. Rxc5 bxc5 36. Kd3
+Ra4 37. Nc4 Ra1 38. Kc2 Kf7 39. Kb2 Rd1 40. Ne3 Rd4 41. Kc3
+Rb4 42. Nc4 Ke8 43. h4 h5 44. Bf4 Kd7 45. d6 Kc6 46. f3 Rb1
+47. Kc2 Rb4 48. Kc3 Rb1 49. Kc2 Rb4 50. Kc3 Rb1 1/2-1/2

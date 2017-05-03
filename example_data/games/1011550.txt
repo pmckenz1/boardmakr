@@ -1,0 +1,21 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Vladimir Putanec"]
+[Black "Mirjana Medic"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. g3 d5 2. Bg2 c6 3. d3 Bg4 4. h3 Bh5 5. Nf3 Nd7 6. O-O e6
+7. Nc3 Bd6 8. Re1 Ne7 9. e4 d4 10. Ne2 Bxf3 11. Bxf3 e5 12. c3
+dxc3 13. bxc3 c5 14. a4 O-O 15. a5 Nc6 16. Qa4 a6 17. Bg2 Bc7
+18. Ba3 Nxa5 19. d4 b5 20. Qc2 Bb6 21. dxe5 Nxe5 22. Rad1 Qc7
+23. Nf4 Rfd8 24. Nd5 Qa7 25. Bc1 c4 26. Rf1 Bc5 27. Bf4 Nac6
+28. Kh2 Nd3 29. Qe2 Ne7 30. Qg4 Ng6 31. e5 Nxf2 32. Rxf2 Bxf2
+33. Rf1 Bc5 34. e6 fxe6 35. Qxe6+ Kh8 36. Bc7 Rf8 37. Rxf8+
+Rxf8 38. h4 Ne7 39. Be5 Nxd5 40. Bxd5 Qe7 0-1

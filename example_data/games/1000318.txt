@@ -1,0 +1,24 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Ernest Colding"]
+[Black "William B Wright"]
+[ECO "C02"]
+[WhiteElo "2325"]
+[BlackElo "2209"]
+[PlyCount "108"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. dxc5 Bxc5
+7. Bd3 a5 8. O-O Nge7 9. Bf4 Ng6 10. Bg3 O-O 11. h4 Be7 12. h5
+Nh4 13. Nbd2 h6 14. Bxh4 Bxh4 15. Bb1 Be8 16. Qc2 g6 17. Rd1
+Be7 18. Nf1 Qc7 19. Qe2 Kg7 20. Re1 b5 21. Bd3 b4 22. c4 dxc4
+23. Bxc4 g5 24. N1h2 Rd8 25. Rac1 Qb6 26. Bd3 Nd4 27. Qe4 Rh8
+28. Nxd4 Qxd4 29. Red1 Qxe4 30. Bxe4 Bb5 31. Bf3 Rxd1+
+32. Rxd1 Rc8 33. Rd2 Rc1+ 34. Bd1 Be2 35. Rxe2 Rxd1+ 36. Nf1
+a4 37. g4 a3 38. bxa3 bxa3 39. Kg2 Bc5 40. Nd2 Bb4 41. Nb3 Bc3
+42. Re4 Rd5 43. Ra4 Bb2 44. Na5 Rxe5 45. Kf3 Re1 46. Nc6 Rc1
+47. Ra6 Bf6 48. Na7 Be7 49. Nc6 Bc5 50. Ne5 Rc2 51. Rc6 Rxf2+
+52. Kg3 Rc2 53. Kf3 Rc3+ 54. Ke4 Re3# 0-1

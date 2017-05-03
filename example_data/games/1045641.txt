@@ -1,0 +1,23 @@
+[Event "New York 36/443"]
+[Site "New York 36/443"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Laszlo Binet Tapaszto"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. Nf3 d5 2. d4 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3
+e6 7. Nc3 Bb4 8. Bd2 Qh5 9. Bg2 Nge7 10. f4 Qxd1+ 11. Rxd1
+O-O-O 12. Ne4 Bd6 13. Ke2 h6 14. Rc1 Kb8 15. Rc4 Nd5 16. h4 h5
+17. Ng5 Rhf8 18. f5 Nb6 19. Rxc6 bxc6 20. fxe6 f6 21. Nf7 Rde8
+22. Bh3 Nd5 23. Rg1 Rg8 24. f4 g6 25. Nh6 Rh8 26. Rxg6 Ne7
+27. Rxf6 Nd5 28. Rg6 Ne7 29. Rg1 Rxh6 30. e4 Rg6 31. Rg5 Rxg5
+32. hxg5 Ng6 33. e5 Bb4 34. Be3 c5 35. d5 c4 36. Bf5 Ne7
+37. Be4 Rd8 38. g6 c3 39. bxc3 Bxc3 40. Bc5 Ng8 41. g7 h4
+42. Bg6 h3 43. Kf3 Bd2 44. e7 Rc8 45. e8=Q Rxe8 46. Bxe8 Bxf4
+47. e6 1-0

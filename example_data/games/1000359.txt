@@ -1,0 +1,27 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Robert Rowley"]
+[Black "Ilye Figler"]
+[ECO "D02"]
+[WhiteElo "2311"]
+[BlackElo "2277"]
+[PlyCount "132"]
+
+1. d4 d5 2. Nf3 Bg4 3. e3 e6 4. c4 dxc4 5. Bxc4 Nd7 6. O-O
+Ngf6 7. Nc3 Bd6 8. h3 Bh5 9. e4 e5 10. dxe5 Nxe5 11. Qa4+ c6
+12. Nxe5 Bxe5 13. Qc2 Qe7 14. Be3 O-O 15. f3 Bg6 16. Qf2 Nh5
+17. Ne2 Rfe8 18. f4 Bxb2 19. f5 Bxa1 20. fxg6 hxg6 21. Bxf7+
+Kh8 22. Bxg6 Rf8 23. Qe1 Rxf1+ 24. Qxf1 Qe5 25. Bxh5 Qxh5
+26. Nf4 Qh7 27. Qxa1 Qxe4 28. Qd4 Re8 29. Kf2 Qc2+ 30. Kf3
+Qxa2 31. Qd7 Rf8 32. Qxb7 Qd5+ 33. Ke2 Qc4+ 34. Ke1 Qc3+
+35. Ke2 Qc2+ 36. Kf3 Qd1+ 37. Kg3 Qe1+ 38. Bf2 Qe5 39. Qb4 c5
+40. Bxc5 Rxf4 41. Qxf4 Qxc5 42. Kh2 Kg8 43. h4 a5 44. Kh3 Qb4
+45. Qe5 g6 46. Qe6+ Kg7 47. Qe5+ Kf7 48. h5 gxh5 49. Qxh5+ Ke6
+50. Qg6+ Ke5 51. Qg5+ Kd4 52. Qf4+ Kd3 53. Qf5+ Kd2 54. Qd5+
+Ke1 55. g4 a4 56. g5 Qf4 57. Qh1+ Kf2 58. Qg2+ Ke3 59. Qg1+
+Ke4 60. Qb1+ Ke5 61. Qb8+ Kf5 62. Qxf4+ Kxf4 63. g6 a3 64. g7
+a2 65. g8=Q a1=Q 66. Qg4+ Ke3 1/2-1/2

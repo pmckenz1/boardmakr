@@ -1,0 +1,16 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.07.04"]
+[EventDate "1930.??.??"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "George Alan Thomas"]
+[Black "Carl Ahues"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 c6 6. cxd5
+exd5 7. e3 Be7 8. Qc2 O-O 9. Bd3 Re8 10. O-O Nf8 11. Ne5 N6d7
+12. Bf4 Nxe5 13. Bxe5 Bd6 14. Bxd6 Qxd6 15. Bf5 1/2-1/2

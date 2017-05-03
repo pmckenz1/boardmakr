@@ -1,0 +1,19 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Ralf Appel"]
+[Black "Christian Wilhelmi"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. Nf3 c5 2. g3 b6 3. Bg2 Bb7 4. O-O Nf6 5. c4 g6 6. Nc3 Bg7
+7. d4 cxd4 8. Qxd4 d6 9. Bg5 Nbd7 10. Rac1 Rc8 11. b3 a6
+12. Bh3 O-O 13. Qe3 Rc5 14. Na4 Ra5 15. Bxd7 Qxd7 16. Qxb6 Rf5
+17. Bxf6 Bxf6 18. c5 Bxf3 19. exf3 Rh5 20. g4 Rh4 21. Rfe1
+Rxg4+ 22. fxg4 Qxg4+ 23. Kf1 Qh3+ 24. Kg1 Qg4+ 25. Kf1 Qh3+
+26. Kg1 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "0-1"]
+[White "Oleg Yurchenko"]
+[Black "Yuri Dissky"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 a6 6. e4 d6
+7. Be2 Be7 8. O-O Nbd7 9. Be3 O-O 10. Qd2 Qc7 11. Rac1 Ne5
+12. h3 Re8 13. f4 Ng6 14. f5 Ne5 15. fxe6 fxe6 16. Nf3 Bd7
+17. Ng5 Rac8 18. b3 h6 19. Nf3 Nf7 20. Nd4 Qa5 21. Qd1 b5
+22. Bd3 Ne5 23. Qe2 Qb4 24. a3 Qxa3 25. cxb5 Qb4 26. Na2 Qa5
+27. Nc6 Bxc6 28. b4 Bxb5 29. bxa5 Bxd3 30. Qb2 Bxf1 31. Rxf1
+Nc4 32. Qb3 d5 33. exd5 Nxe3 34. Rc1 Nexd5 35. Qb7 Rxc1+
+36. Nxc1 Nb4 37. Nb3 e5 38. Qc7 e4 39. Nd4 Bf8 40. Nc6 Nbd5
+41. Qg3 e3 42. Kf1 e2+ 43. Ke1 Ne3 44. Qg6 Nfd5 45. Qf5 Bd6
+46. Qd3 0-1

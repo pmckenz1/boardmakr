@@ -1,0 +1,24 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.20"]
+[EventDate "1912.05.20"]
+[Round "1"]
+[Result "1-0"]
+[White "Moishe Leopoldowicz Lowcki"]
+[Black "Erich Cohn"]
+[ECO "D93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6 5. Bf4 Bg7 6. e3 O-O
+7. Qb3 Qa5 8. Nd2 Nbd7 9. Be2 Nh5 10. Bxh5 dxc4 11. Qd1 gxh5
+12. Nxc4 Qf5 13. h3 e5 14. dxe5 Nxe5 15. Bxe5 Bxe5 16. Nxe5
+Qxe5 17. Qf3 Be6 18. O-O Rad8 19. Rfd1 h4 20. Rxd8 Rxd8
+21. Rd1 Qg5 22. Kf1 Kg7 23. Rxd8 Qxd8 24. Ke1 Qg5 25. Qe4 a6
+26. Kf1 Qf6 27. Qd4 Qxd4 28. exd4 Kf6 29. Ke2 Kf5 30. Ke3 Bd7
+31. Ne4 b6 32. Nd6+ Ke6 33. Nc4 b5 34. Ne5 Be8 35. b4 Kd5
+36. Kd3 f6 37. Nf3 Bg6+ 38. Kc3 Bb1 39. a3 Be4 40. Nxh4 Ke6
+41. f3 Bd5 42. g4 Bc4 43. Ng2 Bf1 44. Nf4+ Kd6 45. h4 Bc4
+46. Kd2 Ba2 47. Ne2 Bd5 48. Ke3 Be6 49. Nc3 f5 50. Kf4 fxg4
+51. fxg4 h6 52. g5 hxg5+ 53. Kxg5 Bc4 54. Kf6 Bd3 55. h5 1-0

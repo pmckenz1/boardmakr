@@ -1,0 +1,21 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1-0"]
+[White "Katarina Beskow"]
+[Black "R Svanberg"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.a4 Na5 10.Nbd2 Nxb3 11.Nxb3 c5 12.Re1 Be7
+13.axb5 axb5 14.Rxa8 Qxa8 15.Qe2 Qc6 16.Nbd2 Nxd2 17.Bxd2 h6
+18.h3 O-O 19.Nh2 Ra8 20.Ng4 Ra2 21.Bc1 d4 22.f4 Ra8 23.Nf2 Rd8
+24.Rd1 c4 25.Qf1 Bf5 26.Rd2 Qg6 27.Qe2 Bc5 28.g4 d3 29.cxd3
+Bxd3 30.Qf3 Bb6 31.Kh2 Bxf2 32.Qxf2 Qe4 33.Rd1 b4 34.Re1 Qd5
+35.Bd2 Qb5 36.Qe3 c3 37.bxc3 b3 38.e6 b2 39.exf7 Kh7 40.Qe7
+b1=Q 41.Qxd8 Qc2 42.Qg8+ Kg6 43.Re6+ 1-0

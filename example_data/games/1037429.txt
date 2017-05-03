@@ -1,0 +1,21 @@
+[Event "15, Toronto CAN ch"]
+[Site "Toronto CAN"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Elod Macskasy"]
+[ECO "C75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nf6 7.O-O g6
+8.Re1 b5 9.Bb3 Bg7 10.Bg5 h6 11.Bh4 O-O 12.a4 Qe7 13.Nbd2 Rfb8
+14.Bd5 Qe8 15.dxe5 dxe5 16.axb5 axb5 17.Rxa8 Rxa8 18.Qe2 Ra4
+19.Bxf6 Bxf6 20.Qxb5 Nb4 21.Qe2 Bb5 22.Bc4 Bxc4 23.Nxc4 Nc6
+24.b3 Ra7 25.g3 Qa8 26.Rd1 h5 27.h4 Ra2 28.Rd2 Ra1+ 29.Rd1 Ra2
+30.Rd2 Ra1+ 31.Kg2 Bg7 32.b4 Bh6 33.Rc2 Qa4 34.Ncxe5 Nxe5
+35.Nxe5 Bg7 36.Nf3 Qb3 37.Nd4 Qb1 38.Kf3 Bh6 39.Rc1 Qxc1
+40.Qb5 Qh1+ 0-1

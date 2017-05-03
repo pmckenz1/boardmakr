@@ -1,0 +1,23 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.03.30"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "George Hatfeild Gossip"]
+[Black "David Graham Baird"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nc3 Bc5 3.Nf3 Nc6 4.Nxe5 Nxe5
+5.d4 Bd6 6.dxe5 Bxe5 7.Ne2 c6 8.f4 Bc7 9.Ng3 d6 10.Be3 Nf6
+11.Bd3 O-O 12.Qf3 Bg4 13.Qf2 Bd7 14.h3 Re8 15.O-O Bb6 16.Rae1
+Ba5 {?} 17.c3 b5 18.b4 Bc7 19.Kh1 {Of course if 19.Bxa7 Rxa7
+which White dare not retake} Be6 20.f5 Bc4 21.Bxc4 bxc4 22.Bg5
+d5 23.Bxf6 Qxf6 24.exd5 Qd6 {!} 25.Kh2 cxd5 26.h4 {?} h6 {?
+Qf6 would have won.} 27.Kh3 Qxg3+ 28.Qxg3 Bxg3 29.Kxg3 Kf8
+30.Kf4 Rad8 31.a4 f6 {?} 32.g3 a5 {?} 33.b5 Kf7 34.Re3 d4 {?
+Disastrous Re7 was now his best play.} 35.Rxe8 Kxe8 36.Re1+
+Kf7 37.cxd4 Rxd4+ 38.Re4 Rd7 39.Rxc4 1-0

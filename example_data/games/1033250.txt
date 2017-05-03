@@ -1,0 +1,16 @@
+[Event "10s, Cadiz op"]
+[Site "10s, Cadiz op Hiarcs 7.32"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Franco Trabattoni"]
+[Black "Fernando Braga"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. Qa4+ Nc6 6. Ne5 Bd7
+7. Nxd7 Nxd7 8. cxd5 Nb6 9. Qd1 Nxd5 10. Bd2 Nxd4 11. e3 Bxc3
+12. bxc3 Nc6 13. e4 Nf6 14. Qa4 O-O 15. Rd1 Qd6 1/2-1/2

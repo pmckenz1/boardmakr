@@ -1,0 +1,24 @@
+[Event "It (cat.11)"]
+[Site "Rishon (Israel)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Artur Kogan"]
+[ECO "A20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Nf6 4.Nc3 g6 5.e3 Bg7 6.Nge2 O-O 7.O-O
+Re8 8.d3 Ne7 9.e4 c6 10.Qb3 d6 11.h3 Nd7 12.Be3 Nc5 13.Qd1 Be6
+14.b3 Qd7 15.Kh2 f5 16.Qd2 b6 17.Rad1 Rad8 18.Bg5 Rc8 19.Bh6
+Bf6 20.f4 Rcd8 21.b4 Na6 22.a3 Kh8 23.Rfe1 Nc7 24.Ng1 exf4
+25.Bxf4 Bg8 26.Nf3 Ne6 27.e5 dxe5 28.Bxe5 Bxe5 29.Rxe5 Nc8
+30.Qe3 Nd6 31.Re1 f4 32.gxf4 Nf5 33.Rxf5 gxf5 34.Ne5 Qd4
+35.Qxd4 Nxd4 36.Rg1 Re7 37.a4 Rg7 38.b5 c5 39.Ra1 Nc2 40.Ra2
+Ne3 41.Bc6 Nf1+ 42.Kh1 Ng3+ 43.Kh2 Nf1+ 44.Kh1 Rd6 45.Rg2 Ng3+
+46.Kh2 Nh5 47.Rf2 Re6 48.Bd5 Re8 49.Bc6 Ree7 50.Nd5 Bxd5
+51.Bxd5 h6 52.d4 cxd4 53.Nc6 Re1 54.Nxd4 Ng3 55.Bg2 Rc1 56.Rc2
+Rh1+ 0-1

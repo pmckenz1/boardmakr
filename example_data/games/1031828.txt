@@ -1,0 +1,17 @@
+[Event "Botvinnik - Flohr"]
+[Site "Moscow / Leningrad  RUS"]
+[Date "1933.12.03"]
+[EventDate "1933.11.28"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Salomon Flohr"]
+[Black "Mikhail Botvinnik"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.g3 Bb4 5.Bd2 O-O 6.Bg2 d6 7.Nf3
+Nbd7 8.O-O Bxc3 9.Bxc3 Ne4 10.Qc2 Qe7 11.Rfd1 Nxc3 12.Qxc3 Nf6
+13.Ne1 e5 14.dxe5 dxe5 15.Rd2 e4 16.Rad1 Be6 17.Nc2 Rad8
+18.Ne3 Rxd2 19.Rxd2 g6 20.Bf1 Rd8 21.Rxd8+ Qxd8 22.Nc2 1/2-1/2

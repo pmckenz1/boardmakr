@@ -1,0 +1,25 @@
+[Event "Naestved"]
+[Site "Naestved DEN"]
+[Date "1985.09.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Murray Chandler"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5
+7. Bg5 Be7 8. Qa4+ Nbd7 9. Bxf6 Bxf6 10. e3 a6 11. Bd3 O-O
+12. Bf5 Nb8 13. Rd1 Nc6 14. O-O Re8 15. Bb1 Na5 16. Ba2 Rc8
+17. Rfe1 g6 18. e4 dxe4 19. Ne5 Bxe5 20. dxe5 Qg5 21. Nxe4
+Bxe4 22. Qxe4 c5 23. Rd6 c4 24. e6 Qf6 25. Rxb6 Rxe6 26. Rxe6
+Qxe6 27. Qxe6 fxe6 28. Rxe6 Rd8 29. Kf1 Rd2 30. Re2 Rd1+
+31. Re1 Rd2 32. Rc1 Rxb2 33. Bxc4+ Nxc4 34. Rxc4 Rb1+ 35. Ke2
+Rb2+ 36. Ke1 Rb1+ 37. Kd2 Rg1 38. Rg4 Kg7 39. h4 h5 40. Rg5
+Kf7 41. g3 Rb1 42. Ra5 Rb6 43. f3 Rb3 44. Ke2 Kf6 45. Rxa6+
+Kf7 46. a4 Ra3 47. a5 Kg7 48. Ra8 Kf7 49. a6 Kg7 50. Kf2 Kf7
+51. g4 hxg4 52. fxg4 Kg7 53. g5 Kh7 54. Ke2 Kg7 55. Kd2 Ra1
+56. Kc3 Rc1+ 57. Kb4 Re1 58. Ra7+ 1-0

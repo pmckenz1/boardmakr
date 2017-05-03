@@ -1,0 +1,22 @@
+[Event "Margate"]
+[Site "Margate ENG"]
+[Date "1939.04.19"]
+[EventDate "1939.04.12"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "George Alan Thomas"]
+[Black "Philip Stuart Milner-Barry"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. e3 c5 5. Nc3 Nc6 6. a3 cxd4
+7. exd4 Be7 8. Be3 O-O 9. Bd3 dxc4 10. Bxc4 a6 11. Ba2 b5
+12. d5 exd5 13. Nxd5 Be6 14. Nxe7+ Qxe7 15. Bxe6 Qxe6 16. O-O
+Rfd8 17. Qe1 Ne5 18. Nxe5 Qxe5 19. Bb6 Re8 20. Qxe5 Rxe5
+21. Bd4 Re6 22. Rfd1 Rae8 23. Rac1 h6 24. Kf1 Ne4 25. f3 Nd6
+26. Re1 Nc4 27. Rxe6 Rxe6 28. Kf2 Rd6 29. Bc3 Nxb2 30. Bb4
+Nd3+ 31. Ke3 Nxb4 32. axb4 g6 33. h4 Kg7 34. g4 Kf6 35. f4 Ke6
+36. Rc7 f5 37. h5 gxh5 38. gxh5 Kd5 39. Rc5+ Ke6 40. Rc7
+1/2-1/2

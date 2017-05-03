@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1893.11.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Rudolf Rezso Charousek"]
+[Black "Gyula Makovetz"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.b4 Bxb4 5.c3 Ba5 6.Bc4 Bb6 7.d4
+Bg4 8.fxe5 dxe5 9.Bxf7+ Kf8 10.Ba3+ Ne7 11.O-O exd4 12.Qb3 g6
+13.Bxg6 1-0

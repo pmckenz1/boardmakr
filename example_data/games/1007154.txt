@@ -1,0 +1,24 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.04.19"]
+[EventDate "1925.04.16"]
+[Round "3"]
+[Result "0-1"]
+[White "Stefano Rosselli del Turco"]
+[Black "Jacques Mieses"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6
+7.Nc3 d5 8.O-O Be7 9.Qe2 O-O 10.b3 Nd7 11.Bb2 Nc5 12.Rfd1 Nxd3
+13.cxd3 d4 14.Nb1 e5 15.Nd2 Bd6 16.Rac1 Bb7 17.f4 f5 18.Nc4
+exf4 19.Bxd4 f3 20.gxf3 Bxh2+ 21.Qxh2 Qxd4+ 22.Qf2 Qd7 23.e5
+Rae8 24.d4 f4 25.Nd6 Re6 26.Nxb7 Rg6+ 27.Kf1 Qh3+ 28.Ke1 Rg2
+29.Rd2 Rxf2 30.Rxf2 Qd7 31.Nd6 Qc7 32.Kd2 g5 33.Kd3 Qd7 34.Rg1
+h6 35.Rh2 Kg7 36.Rgh1 Rh8 37.Rc2 g4 38.Rhc1 gxf3 39.Ke4 Rf8
+40.Rf2 Kh8 41.Rc3 Qh7+ 42.Kxf3 Qg6 43.Ke2 Qb1 44.Rd3 Qxa2+
+45.Ke1 Qb1+ 46.Ke2 Qc2+ 47.Rd2 Qxb3 48.Rf3 Qd5 49.Rc3 Qg2+
+50.Kd3 f3 51.Ne4 f2 52.Nxf2 Rxf2 53.Rxf2 Qxf2 54.Rc5 Kg7
+55.Kc4 Qf3 56.Ra5 Qf7+ 57.Kb4 h5 0-1

@@ -1,0 +1,17 @@
+[Event "simul Belgrad"]
+[Site "simul Belgrad"]
+[Date "1930.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Goluvsky"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 Qf6 5. Nd5 Qxf2+ 6. Kd1
+Kf8 7. Nh3 Qd4 8. d3 Bb6 9. Rf1 Nd8 10. c3 Qc5 11. Ng5 Nh6
+12. Qh4 d6 13. Ne6+ Nxe6 14. Qe7+ Kg8 15. Qe8+ Nf8 16. Ne7#
+1-0

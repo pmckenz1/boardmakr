@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "1-0"]
+[White "Jury Khodotov"]
+[Black "Nikolai Biriukov"]
+[ECO "D16"]
+[WhiteElo "2364"]
+[BlackElo "2255"]
+[PlyCount "93"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5
+7. g3 e6 8. Bg2 Bb4 9. Nxc4 Nd5 10. Qd3 a5 11. O-O O-O 12. Bd2
+Be7 13. Nxd5 exd5 14. Ne5 f6 15. Nf3 Na6 16. Bh3 Bg6 17. Qb3
+Bb4 18. Bxb4 Nxb4 19. Nh4 Bf7 20. Ng2 Re8 21. Rfe1 Qb6 22. e3
+Be6 23. Bxe6+ Rxe6 24. Nf4 Re4 25. Nd3 Kh8 26. Rec1 h5 27. Nf4
+g5 28. Nxh5 Qd8 29. Qd1 f5 30. Qf3 Qf8 31. h4 gxh4 32. Nf4 Qh6
+33. Kg2 Rg8 34. Rh1 Nc2 35. Rad1 Rg4 36. Rd2 Nb4 37. Qxg4 fxg4
+38. Rxh4 Kg7 39. Rxh6 Kxh6 40. Rd1 Re7 41. Rh1+ Kg5 42. Rh8
+Rf7 43. Kf1 Kf5 44. Ke2 Re7 45. Rf8+ Kg5 46. Rg8+ Kf5 47. Ng6
+1-0

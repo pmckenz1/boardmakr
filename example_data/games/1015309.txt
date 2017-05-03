@@ -1,0 +1,24 @@
+[Event "Genting Highlands (Malaysia)"]
+[Site "Zt"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Barlo A Nadera"]
+[Black "Utut Adianto"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.b3 Bg7 7.Bb2
+O-O 8.d4 cxd4 9.Qxd4 d6 10.Nc3 Nbd7 11.Nd5 Rc8 12.Nxf6+ Nxf6
+13.Rfd1 Rc5 14.Rac1 Qa8 15.h3 Re8 16.Qe3 Rh5 17.Qc3 Qc8 18.Qe1
+Rxh3 19.Bxh3 Qxh3 20.Qf1 Qh5 21.Bxf6 Bxf6 22.Nh2 Qa5 23.a4 h5
+24.Qh3 Rd8 25.Nf3 Kg7 26.Rd3 e5 27.Ne1 Be4 28.Rdc3 Bf5 29.Qf1
+e4 30.Re3 d5 31.cxd5 Rxd5 32.Nc2 Qd2 33.Na3 Bg5 34.Nc4 Qb4
+35.f4 exf3 36.Rxf3 Bxc1 37.Qxc1 Qc5+ 38.Kh2 Be6 39.Rf4 Kg8
+40.Qa1 g5 41.Rf1 Qd4 42.Qe1 Rc5 43.Nd2 Rc2 44.Nf3 Qe3 45.Ng1
+Bg4 46.Qd1 Rd2 47.Qe1 a5 48.Rf6 h4 49.gxh4 Qe5+ 50.Kg2 Rb2
+51.Qf2 Bxe2 52.Qxb6 Bc4 53.Rf2 Bd5+ 54.Nf3 g4 55.Rxb2 Bxf3+
+56.Kg1 Qxb2 57.Qd8+ Kh7 58.Qd3+ Kg7 59.Qb5 Qc1+ 60.Kf2 Qf4 0-1

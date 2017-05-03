@@ -1,0 +1,39 @@
+[Event "USA-06.Congress New York (36-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.13"]
+[EventDate "?"]
+[Round "36"]
+[Result "1/2-1/2"]
+[White "Dionisio M Martinez"]
+[Black "Max Weiss"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6
+5.d3 d6 6.Be3 Bb6 7.Qe2 Be6 8.h3 {More likely to do harm then
+good in the opening. Bb3 was better.} Bxc4 9.dxc4 Ba5 {Ne7
+followed by c6 or Ng6 was more adapted to give Black a good
+gamethan this aim at a mere exchange of another piece.} 10.Bd2
+Bxc3 11.Bxc3 Qe7 12.O-O-O O-O-O 13.Rd2 Nd7 14.Rhd1 Rhf8 15.g4
+g6 16.b4 {RAther bold, considering the position of his King.}
+Qe6 17.Kb2 Nb6 {This was tempting, but it is the source of
+Black's coming troubles. It was absolutely necessary to keep
+his Knight at d7 so as to prevent any eventual advance of the
+adverse c-pawn, which would strike at the root of Black's
+position, while the advance of White's b-pawn would do no
+harm. He should have played f5 at once.} 18.Kb3 f5 19.exf5
+gxf5 20.b5 fxg4 21.Ng5 Qf5 22.Qxg4 Qxg4 23.hxg4 Rg8 24.Nxh7
+Ne7 25.Nf6 {White has excellently taken advantage of the
+opponent's slight error, pointed in our last note, and he has
+come out with a Pawn ahead. However, he hesitates now and
+loses the fruit of his fine play, which ought to have secured
+the victory if he had only played here c5 at once. Obviously,
+if Black allowed his two Rooks to be exchanged, White would
+afterward gain the e-pawn, and the latters two passed Pawns
+would win without much difficulty. And if 25...Nd7 26.cxd6
+cxd6 27.Rxd6, with two Pawns ahead, for Black dare not answer
+by 27...Rxg4 on account of the rejoinder Rxd7, followed
+ultimately by Nf6+.} Rg6 26.c5 Rxf6 27.cxb6 axb6 28.Bxe5 Rf3+
+29.c3 Rg8 30.Bg3 Rxg4 31.Rd3 Rxd3 32.Rxd3 Kd7 1/2-1/2

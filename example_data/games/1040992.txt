@@ -1,0 +1,19 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1952.09.25"]
+[EventDate "1952.09.15"]
+[Round "7"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Paul Vaitonis"]
+[ECO "D60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Bd3
+dxc4 8.Bxc4 c5 9.O-O Nb6 10.Bb3 cxd4 11.exd4 Nfd5 12.Qd2 Bxg5
+13.Nxg5 Nxc3 14.bxc3 Nd5 15.f4 h6 16.Nf3 Bd7 17.Ne5 Nf6
+18.Rae1 Bc6 19.f5 Bd5 20.c4 Be4 21.fxe6 fxe6 22.Rf4 Bh7 23.c5
+Nd5 24.Rxf8+ Qxf8 25.Rf1 Qe8 26.Rf7 Qb5 27.Qf2 Qb4 28.h4 Be4
+29.Kh2 Kh8 30.h5 Rg8 31.Bc2 Nf6 32.Rxf6 Qxd4 33.Qxd4 1-0

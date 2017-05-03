@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.06"]
+[EventDate "1923.04.28"]
+[Round "7"]
+[Result "1-0"]
+[White "Rudolf Spielmann"]
+[Black "Siegbert Tarrasch"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. fxe5 dxe5 6. Qa4+
+Bd7 7. Qc2 Nc6 8. b4 Bd6 9. Bc4 Nf6 10. d3 Ne7 11. O-O Ng6
+12. Be3 b5 13. Bb3 a5 14. a3 axb4 15. cxb4 O-O 16. Nc3 c6
+17. h3 Qe7 18. Ne2 Bb8 19. Kh2 Ba7 20. Bg5 h6 21. Bxf6 Qxf6
+22. Nfd4 Qd6 23. Nf5 Bxf5 24. Rxf5 Nf4 25. Rf1 g6 26. R1xf4
+exf4 27. e5 Qe7 28. Rf6 Kg7 29. d4 Bxd4 30. Bxf7 Bxe5
+31. Qxg6+ 1-0

@@ -1,0 +1,19 @@
+[Event "USSR 17/605"]
+[Site "USSR 17/605"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Yuri Balashov"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.e3 c5 5.Bd3 d5 6.Nf3 O-O 7.O-O
+dxc4 8.Bxc4 Nc6 9.Bd3 cxd4 10.exd4 Be7 11.Re1 b6 12.a3 Bb7
+13.Bc2 Rc8 14.Qd3 Re8 15.d5 exd5 16.Bg5 Ne4 17.Nxe4 dxe4
+18.Qxe4 g6 19.Qh4 Qc7 20.Bb3 h5 21.Qe4 Kg7 22.Bxf7 Kxf7 23.Bh6
+Qd6 24.Qc4+ Kf6 25.Rad1 Nd4 26.Qxd4+ Qxd4 27.Rxd4 Rc5 28.h4
+1-0

@@ -1,0 +1,18 @@
+[Event "Ch USA (team)"]
+[Site "New York (USA)"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Edgar Thomas McCormick"]
+[Black "Arthur Bisguier"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6
+7.Bd3 d5 8.exd5 cxd5 9.O-O O-O 10.Ne2 Re8 11.c3 Bd6 12.Bf4 c5
+13.Bxd6 Qxd6 14.Re1 Rb8 15.Qd2 Ba6 16.Bxa6 Qxa6 17.b4 Ne4
+18.Qxd5 Qf6 19.Rf1 cxb4 20.cxb4 Rbd8 21.Qh5 Re5 22.Qg4 h5
+23.Qf4 Nc3 0-1

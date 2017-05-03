@@ -1,0 +1,21 @@
+[Event "9, Alicante op (10s)"]
+[Site "Alicante ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Carlos Matamoros Franco"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 c5 6. dxc5
+Nc6 7. Nf3 Bxc5 8. O-O Nge7 9. a3 Bg4 10. h3 Bh5 11. Re1 f6
+12. Nxd5 Qxd5 13. Bg6+ Kf8 14. Qxd5 Nxd5 15. Bxh5 g6 16. Bg4
+f5 17. Ng5 fxg4 18. Ne6+ Kf7 19. Nxc5 b6 20. Ne4 gxh3 21. c4
+Nf6 22. Ng5+ Kg7 23. Bd2 h2+ 24. Kxh2 h6 25. Ne4 Nxe4 26. Rxe4
+Rhe8 27. Bc3+ Kg8 28. Rae1 Kf7 29. Rf4+ Kg8 30. Rf6 Rxe1
+31. Bxe1 Ne5 32. Kg3 Nxc4 33. Bc3 g5 34. Rxh6 Kf7 35. Rc6 b5
+36. Ra6 1-0

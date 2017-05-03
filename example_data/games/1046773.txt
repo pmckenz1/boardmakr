@@ -1,0 +1,21 @@
+[Event "Borzhomi UGEOO"]
+[Site "05"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nana Ioseliani"]
+[Black "Alisa Galliamova"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 b6 7.b3
+Bb7 8.Bb2 d6 9.e3 Nbd7 10.Be2 Qe7 11.O-O c5 12.Rfe1 e5 13.d4
+Ne4 14.Qc2 Ng5 15.Qf5 Bxf3 16.gxf3 g6 17.Qg4 f5 18.Qg2 cxd4
+19.f4 Ne6 20.fxe5 dxe5 21.exd4 e4 22.d5 Nf4 23.Qg3 Nxe2+
+24.Rxe2 Rfe8 25.f4 Kf7 26.b4 Rg8 27.Qe3 g5 28.Kh1 g4 29.Rc1
+Rac8 30.Bd4 Qd6 31.Qg3 b5 32.Qh4 h6 33.Qh5+ Qg6 34.Qxg6+ Rxg6
+35.c5 g3 36.c6 Nb6 37.d6 Nc4 38.a4 a6 39.axb5 axb5 40.Ra2 Nxd6
+41.Ra7+ Ke8 42.Ra6 1-0

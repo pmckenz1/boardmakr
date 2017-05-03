@@ -1,0 +1,21 @@
+[Event "Buenos Aires ol-fin"]
+[Site "Buenos Aires ARG"]
+[Date "1939.09.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Roberto Grau"]
+[Black "Erich Eliskases"]
+[ECO "D57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Nf3
+Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3 exd5 11.Qb3 Qd6 12.c4 dxc4
+13.Bxc4 Nc6 14.Qc3 Bg4 15.Nd2 Rad8 16.O-O Ne7 17.Rfc1 c5
+18.Nb3 cxd4 19.Nxd4 Nf5 20.Nxf5 Bxf5 21.Qa5 Be4 22.Qxa7 Qg6
+23.Bf1 Rd2 24.Qa5 Rd5 25.Qb4 Rfd8 26.Rc4 Bxg2 27.Rg4 Qf6
+28.Rb1 Bf3+ 29.Rg3 Rd1 30.Rxd1 Rxd1 31.Qc4 Qc6 32.Qxc6 Bxc6
+33.f4 Ra1 34.f5 Kf8 35.f6 gxf6 36.Rh3 Bb5 37.Rf3 Ke7 38.e4 Ke6
+0-1

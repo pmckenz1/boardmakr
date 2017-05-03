@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Joseph G Gallagher"]
+[Black "Simon Kim Williams"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 e6 2. d3 c5 3. Nf3 Nc6 4. g3 Nge7 5. c3 d5 6. Qe2 b6
+7. Na3 Ba6 8. e5 Qc7 9. h4 Ng6 10. Bf4 b5 11. d4 Nxf4 12. gxf4
+Rb8 13. Nc2 Rb6 14. dxc5 Bxc5 15. b4 Be7 16. Qe3 f6 17. Ncd4
+Nxd4 18. Nxd4 O-O 19. Kd2 Bc8 20. Bd3 Bd7 21. Rhg1 Rf7 22. Rg3
+a5 23. a3 Ra6 24. Rc1 axb4 25. cxb4 Qb6 26. Rcg1 Rxa3
+27. Rxg7+ Rxg7 28. Rxg7+ Kf8 29. Rxe7 Qa7 30. exf6 Ra2+
+31. Nc2 Qa3 32. Qc5 1-0

@@ -1,0 +1,17 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1936.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "M Kretschmar"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Be6 6. Nf3 c6
+7. Qe2 Nf6 8. Bg5 Nbd7 9. O-O O-O 10. Rad1 Bg4 11. h3 Re8
+12. Be3 Bh5 13. g4 Nxg4 14. Ne5 Ndxe5 15. dxe5 Nf6 16. f3 Rxe5
+17. Qf2 Qd7 18. Bf4 Re7 19. Bg5 Qxh3 20. Ne2 Bxf3 0-1

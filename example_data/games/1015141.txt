@@ -1,0 +1,18 @@
+[Event "Gausdal (NOR)"]
+[Site "Gausdal (NOR)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Patrik Lyrberg"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 cxd4 5.Nxd4 Bb4+ 6.Nc3 O-O
+7.Bg2 d5 8.Qb3 Bxc3+ 9.bxc3 e5 10.Nb5 Be6 11.Ba3 dxc4 12.Qa4
+Bd5 13.O-O-O Bxg2 14.Rxd8 Rxd8 15.Rd1 Nc6 16.Rxd8+ Rxd8 17.Nd6
+Bd5 18.Nxb7 Rb8 19.Na5 Nd8 20.Bd6 Rc8 21.Bxe5 Be6 22.Bxf6 gxf6
+23.Qe8+ Kg7 24.Qe7 a6 25.Qd6 1-0

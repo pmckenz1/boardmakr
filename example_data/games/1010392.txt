@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Venkatachalam Saravanan"]
+[Black "Tejas Bakre"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4
+Qb6 7. Nxc6 bxc6 8. O-O g6 9. Be3 Qc7 10. h3 Bg7 11. f4 O-O
+12. Bd4 Rd8 13. Qe1 d5 14. exd5 Nxd5 15. Bxg7 Kxg7 16. Nxd5
+cxd5 17. Bd3 Rb8 18. Rb1 Rb6 19. Kh1 Ba6 20. Qd2 Bxd3 21. Qxd3
+Qc4 22. b3 Qxd3 23. cxd3 Rc8 24. Rf2 Rc3 25. Rd1 Rb4 26. Re2
+Kf6 27. d4 h5 28. Kg1 a5 29. Kf2 a4 30. bxa4 Rxa4 31. Rdd2 h4
+32. Re5 e6 33. Rg5 Rca3 34. Rg4 Rxa2 35. Rxa2 Rxa2+ 36. Kf3
+Ra3+ 37. Kf2 Rd3 38. Rxh4 Rxd4 39. Ke3 Re4+ 40. Kf3 Kg7
+41. Rg4 Ra4 42. Rg5 f6 43. Rg4 Rb4 44. Kg3 e5 0-1

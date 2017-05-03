@@ -1,0 +1,17 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "1-0"]
+[White "Alexander Kalinin"]
+[Black "Ljubisa Andonovski"]
+[ECO "B08"]
+[WhiteElo "2422"]
+[BlackElo "2287"]
+[PlyCount "37"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6
+7. Re1 Nbd7 8. a4 e5 9. dxe5 dxe5 10. Bc4 Qe7 11. b3 Nc5
+12. Ba3 a5 13. Qd2 b6 14. Rad1 Bg4 15. Qd6 Qb7 16. Bxc5 bxc5
+17. Rd3 Nd7 18. h3 Bxf3 19. Qxd7 1-0

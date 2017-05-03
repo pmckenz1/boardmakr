@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.23"]
+[EventDate "?"]
+[Round "24"]
+[Result "0-1"]
+[White "John Washington Baird"]
+[Black "Amos Burn"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bxc6
+bxc6 8.Ne2 Ne8 9.c3 Bc5 10.Be3 Bb6 11.Qa4 c5 12.Nd2 Bd7 13.Qc2
+f5 14.f4 Nf6 15.fxe5 Ng4 16.Nc4 Qh4 17.Bf4 fxe4 18.Bg3 Qh6
+19.dxe4 dxe5 20.h3 Ne3 21.Nxe3 Qxe3+ 22.Kh2 Bc6 23.Bxe5 Bxe4
+24.Qb3+ Kh8 25.Rf7 Rg8 26.Raf1 Qg5 27.Bg3 Bd5 28.R7f5 Qxf5
+29.Rxf5 Bxb3 30.axb3 Rgf8 31.Rg5 Rae8 32.Be5 Rf7 33.Kg3 h6
+34.Rh5 Kh7 0-1

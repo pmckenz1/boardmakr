@@ -1,0 +1,19 @@
+[Event "Rubinstein Memorial 8th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1970.08.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Igor Arkadievich Zaitsev"]
+[Black "Andras Adorjan"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6
+13.Re1 Bf5 14.Bxd5 cxd5 15.Qf3 Re8 16.Bd2 Qd7 17.h3 Bc7 18.Na3
+Qd6 19.g3 Bxh3 20.Nc2 Qd7 21.Nb4 Red8 22.Nxd5 Be6 23.c4 Bxd5
+24.cxd5 a5 25.Rac1 Bd6 26.Rc6 Bf8 27.Re5 f6 28.Rf5 b4 29.Qe4
+g6 30.Rfxf6 Qxd5 31.Rxf8+ Kxf8 32.Bh6+ 1-0

@@ -1,0 +1,17 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Brian Karen"]
+[Black "Michael Ellenbogen"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. Qg3 b6
+7. Bb5 Bxc3+ 8. bxc3 Qxb5 9. Qxg7 Ba6 10. Be3 Nc6 11. Qxh8
+O-O-O 12. Rd1 f4 13. Bxf4 Qf1+ 14. Kd2 Qxf2+ 15. Kc1 Qxf4+
+16. Kb2 Na5 17. Qg7 Nc4+ 18. Ka1 Qe4 19. Rc1 Qe3 0-1

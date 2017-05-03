@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.28"]
+[EventDate "2000.01.21"]
+[Round "8"]
+[Result "0-1"]
+[White "Peter Burlage"]
+[Black "Mariska Bertholee"]
+[ECO "B99"]
+[WhiteElo "2232"]
+[BlackElo "2168"]
+[PlyCount "78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6
+7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Be2 b5 11. Bxf6 Nxf6
+12. e5 Bb7 13. exf6 Bxf3 14. Bxf3 Bxf6 15. Bxa8 Bxd4 16. Rxd4
+d5 17. Bxd5 exd5 18. Re1+ Kf8 19. f5 h5 20. Nxd5 Qc5 21. c3
+Kg8 22. Re5 Qa7 23. Re8+ Kh7 24. Re7 Qa8 25. Rxf7 Rf8 26. Nc7
+Qc8 27. Rxf8 Qxf8 28. Rd5 Qc8 29. Rc5 Qb7 30. Nd5 Qb8 31. Nc7
+Qd8 32. Ne6 Qh4 33. Rc7 Qe1+ 34. Kc2 Qf2+ 35. Kb3 Qxf5
+36. Nxg7 Qd5+ 37. Kc2 Qxg2+ 38. Kb3 Qd5+ 39. Kc2 Qe4+ 0-1

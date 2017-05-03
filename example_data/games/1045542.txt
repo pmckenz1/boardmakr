@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.09"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Mihai Suba"]
+[Black "Lubomir Ftacnik"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7
+7. d4 cxd4 8. Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 11. e4 Qb8 12. Bb2
+O-O 13. Ne1 Rc8 14. Qe3 Re8 15. Qe2 Qc7 16. Kh1 Rad8 17. f4
+Qb8 18. Rd2 b5 19. cxb5 axb5 20. Nc2 Qa8 21. Re1 b4 22. Nxb4
+d5 23. a3 Nxe4 24. Nxe4 dxe4 25. Bxe4 Nc5 26. Bxb7 Qxb7+
+27. Kg1 Nxb3 28. Rxd8 Rxd8 29. Nd3 Nd4 30. Bxd4 Rxd4 31. f5
+Rd6 32. Nf4 Rd4 33. Qg2 Qa7 34. Kh1 Qa5 35. Qf2 Rd2 36. Qe3
+Bc5 37. Qe4 Rd4 38. Qe3 exf5 39. Qe8+ Bf8 40. Re7 Rd1+ 41. Kg2
+Rd8 42. Qxf7+ Kh8 43. Ra7 Qc3 44. Kh3 Qd4 45. a4 Ba3 46. Rc7
+Rf8 47. Qb3 Bd6 48. Rf7 Rxf7 49. Qxf7 Qxa4 50. Qe6 Bf8
+51. Qxf5 Qe8 52. Ne6 Kg8 53. Qd5 Qf7 54. Kg2 h6 55. h4 h5
+56. Qe4 Be7 57. Qa8+ Kh7 58. Qc6 Qg6 59. Qc4 Qf5 1/2-1/2

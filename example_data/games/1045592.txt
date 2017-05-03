@@ -1,0 +1,25 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Milan Vukic"]
+[Black "Lubomir Ftacnik"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6
+7. Nc3 O-O 8. O-O Nc6 9. e3 e5 10. d5 Ne7 11. e4 Bg4 12. Qb3
+c6 13. Nh4 cxd5 14. exd5 Nec8 15. a4 Nd6 16. a5 Nbc4 17. Qb4
+Rc8 18. h3 Bh5 19. Ra2 g5 20. g4 Bxg4 21. hxg4 gxh4 22. b3 h3
+23. Bxh3 Qh4 24. Kh2 e4 25. Bf4 Be5 26. Ne2 Qe7 27. bxc4 Bxf4+
+28. Nxf4 Qe5 29. Kg3 h5 30. c5 f5 31. gxh5 Kh7 32. Qd2 Rxc5
+33. Kg2 Rg8+ 34. Kh1 Rc3 35. Rg1 Rf3 36. Rxg8 Kxg8 37. Rc2
+Qxf4 38. Qxf4 Rxf4 39. Kg2 Rh4 40. a6 Rxh5 41. Rc8+ Kf7
+42. axb7 Nxb7 43. Rc7+ Kf6 44. Rxb7 Ke5 45. Rb5 Rg5+ 46. Kf1
+a6 47. Ra5 Kd6 48. f4 exf3 49. Kf2 Rh5 50. Bf1 Rh4 51. Bxa6
+Rd4 52. Bb7 Rd3 53. Ra6+ Ke5 54. Re6+ Kf4 55. d6 Rd2+ 56. Ke1
+f2+ 57. Kf1 Kg3 58. Rg6+ Kf4 59. Bc6 1-0

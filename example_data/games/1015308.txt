@@ -1,0 +1,20 @@
+[Event "Genting Highlands (Malaysia)"]
+[Site "Zt"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Anh Dung Nguyen"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.f3 axb5 6.e4 Qa5+ 7.Bd2
+b4 8.Na3 d6 9.Nc4 Qc7 10.a3 bxa3 11.Rxa3 Rxa3 12.Nxa3 Bd7
+13.Nb5 Bxb5 14.Bxb5+ Nbd7 15.Qa4 e6 16.Qa8+ Qd8 17.Qa7 exd5
+18.Ba5 Qc8 19.Bc7 Ke7 20.Ba6 Qe8 21.Ne2 g6 22.b4 Bh6 23.bxc5
+dxc5 24.e5 Qa8 25.exf6+ Kxf6 26.Qb7 Re8 27.Qb2+ d4 28.Bb7 Qa7
+29.Kf2 c4 30.Kg3 Be3 31.Qb5 Qa2 32.Qxd7 Qxe2 33.Bd5 Kg5 34.h4+
+Kh6 35.Qxf7 Re7 36.Qf8+ Kh5 37.Kh3 1-0

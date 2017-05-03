@@ -1,0 +1,20 @@
+[Event "It (cat.9)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Ofer Bruk"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.Nf3 d5 2.c4 dxc4 3.Na3 c5 4.Nxc4 Nc6 5.g3 f6 6.Bg2 e5 7.O-O
+Be6 8.b3 Nge7 9.Bb2 Nd5 10.Qb1 Qd7 11.Ne1 Be7 12.f4 exf4
+13.gxf4 O-O 14.Be4 f5 15.Bg2 Bf6 16.Nd3 b6 17.Nde5 Nxe5
+18.Nxe5 Qd6 19.Qd3 Rad8 20.Qg3 Rfe8 21.d3 Nb4 22.Kh1 Bd5
+23.Rg1 Nc2 24.Rad1 Nd4 25.e4 Ba8 26.Bxd4 Qxd4 27.Nf3 Qd7
+28.Bh3 Qb5 29.Bxf5 Rxd3 30.Rde1 Re7 31.Qh3 g6 32.Be6+ Kg7
+33.Rg3 Qb4 34.a3 Qc3 35.Re2 Qc1+ 0-1

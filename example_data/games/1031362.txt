@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Los Angeles, CA USA"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Benjamin S Nethercot"]
+[Black "Julio Bolbochan"]
+[ECO "B97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.Be2 Be7 11.O-O h6 12.Rb3 Qa5
+13.Bxf6 Bxf6 14.Kh1 Nd7 15.Bf3 O-O 16.Rd1 Nc5 17.Rbb1 Bd7
+18.Nd5 Qxd2 19.Nxf6+ gxf6 20.Rxd2 Rfd8 21.Nb3 Bc6 22.Nxc5 dxc5
+23.Rbd1 Rxd2 24.Rxd2 Kf8 25.e5 Bxf3 26.gxf3 fxe5 27.fxe5 Ke7
+28.Kg2 Rd8 29.Re2 Rd4 30.c3 Rc4 31.Rb2 b5 32.Rb3 b4 33.cxb4
+cxb4 34.a3 a5 35.axb4 axb4 36.Rb2 Kd7 37.Kf2 Kc6 38.Ke3 Kd5
+39.f4 Rc3+ 40.Kd2 Kc4 41.Ra2 Rf3 42.Ra7 Rxf4 43.Rc7+ Kd4
+44.Rb7 Kxe5 45.Rb5+ Kf6 46.Ke3 e5 47.Rb6+ Kg5 48.Rb5 f6 49.Rb6
+Kf5 50.Rb8 h5 0-1

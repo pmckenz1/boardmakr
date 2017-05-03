@@ -1,0 +1,18 @@
+[Event "Lvov URS ch"]
+[Site "7"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Konstantin Zaivelevich Lerner"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O h6 9.Be3 Be7 10.f4 Nxd4 11.Bxd4 b5 12.Qe3 Bb7
+13.Bxf6 gxf6 14.f5 Qa5 15.a3 Rc8 16.Rd3 Qc7 17.Kb1 Qc5 18.fxe6
+fxe6 19.Qh3 Qe5 20.Be2 h5 21.Rhd1 Kf7 22.Re3 Rcg8 23.Rf1 Qg5
+24.Rg3 Qe5 25.Re3 Qg5 26.Rg3 Qe5 1/2-1/2

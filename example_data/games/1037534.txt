@@ -1,0 +1,22 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "David Ross"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 c5 2.f4 g6 3.d3 Bg7 4.c3 Nc6 5.Be3 d6 6.Be2 Rb8 7.a4 a6
+8.Nf3 Nf6 9.Nbd2 O-O 10.h3 b5 11.axb5 axb5 12.d4 cxd4 13.cxd4
+d5 14.e5 Ne8 15.g4 Nc7 16.Nb3 f6 17.Rc1 Rb6 18.O-O f5 19.Ne1
+e6 20.Rf2 Rf7 21.Nd3 Bf8 22.Bf1 Na6 23.Rfc2 Na7 24.Bd2 b4
+25.Qe1 Rb8 26.Qg3 Rg7 27.Ne1 Qb6 28.Qd3 Bb7 29.Ra1 Nc7 30.Be3
+Ncb5 31.Bf2 Rc8 32.Ra5 Rc4 33.Ra1 Rgc7 34.Kh2 Rxc2 35.Nxc2 Nc3
+36.Bh4 Rc8 37.gxf5 exf5 38.bxc3 Rxc3 39.Qe2 Rxb3 40.e6 Rb2
+41.e7 Bxe7 42.Bxe7 b3 43.Bc5 Qc6 44.Bg2 Rxc2 45.Qe7 Rxc5
+46.dxc5 Nb5 47.Qd8+ Kf7 48.Re1 1-0

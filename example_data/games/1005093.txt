@@ -1,0 +1,18 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Hannes Ganaus"]
+[Black "Joachim Wallner"]
+[ECO "D11"]
+[WhiteElo "2275"]
+[BlackElo "2290"]
+[PlyCount "41"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 e6 5. Bg5 Nbd7 6. e3 Be7
+7. Nc3 O-O 8. a3 a5 9. cxd5 exd5 10. Bd3 Re8 11. O-O Nf8
+12. h3 Ng6 13. Ne5 Nxe5 14. dxe5 Ne4 15. Bxe7 Qxe7 16. Nxe4
+dxe4 17. Bxe4 g6 18. f4 f6 19. Bxg6 hxg6 20. Qxg6+ Kf8
+21. exf6 1-0

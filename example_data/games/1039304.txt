@@ -1,0 +1,24 @@
+[Event "Orebro"]
+[Site "04"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Thomas Ernst"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.b6 Qxb6 6.Nc3 d6 7.e4 g6
+8.a4 Bg7 9.a5 Qc7 10.Bc4 O-O 11.Bf4 Nbd7 12.Nf3 Ng4 13.O-O
+Nge5 14.Nd2 Rb8 15.Qc2 f5 16.exf5 Rxf5 17.Bg3 Nxc4 18.Nxc4 Ne5
+19.Nb6 Nd7 20.Nca4 Nxb6 21.Nxb6 Bb7 22.Rad1 Rbf8 23.b4 c4
+24.Qxc4 Qxc4 25.Nxc4 Rxd5 26.Rxd5 Bxd5 27.Nb6 Ba2 28.Bh4 Rf4
+29.b5 Rxh4 30.bxa6 Rh5 31.a7 Rxa5 32.a8=Q+ Rxa8 33.Nxa8 d5
+34.Nc7 d4 35.Rd1 Bc4 36.Na8 Be2 37.Rd2 d3 38.Nb6 Bc3 39.Nc4
+Bxd2 40.Nxd2 Kf7 41.f3 Ke6 42.Kf2 Kd5 43.Ke3 Kc5 44.f4 Kd5
+45.h3 h6 46.g4 e6 47.Ne4 Kc4 48.Ng3 Bd1 49.Kd2 Ba4 50.f5 exf5
+51.gxf5 Be8 52.Ne4 Kd5 53.Nf6+ Ke5 54.Nxe8 Kxf5 55.Nd6+
+1/2-1/2

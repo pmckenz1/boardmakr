@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.29"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Mikhail Viseyskiy"]
+[Black "David E Vigorito"]
+[ECO "D30"]
+[WhiteElo "2200"]
+[BlackElo "2363"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. e3 b5 6. a4 c6
+7. Nc3 Bb4 8. Ne5 Bb7 9. Be2 Nbd7 10. Nxd7 Qxd7 11. Bxf6 gxf6
+12. Bf3 a6 13. O-O O-O 14. Qc2 Qc7 15. Qe4 f5 16. Qh4 Be7
+17. Qh3 Kh8 18. e4 c5 19. d5 b4 20. exf5 Rg8 21. Be4 exf5
+22. Qxf5 Rg7 23. Nd1 Bd6 24. g3 Bc8 25. Qh5 Bg4 26. Qh6 Re8
+27. Bg2 Re2 28. Qc1 c3 29. bxc3 b3 30. Rb1 Rc2 31. Qe3 c4
+32. Qe4 f5 33. Qe8+ Rg8 34. Qe6 Rg6 35. Qe8+ Rg8 36. Qe6 f4
+37. Qf6+ Rg7 38. Re1 Be7 39. Qd4 Be2 40. Kh1 f3 41. Bh3 Bc5
+42. Qf6 Qe7 43. Qe6 Rd2 44. Ne3 Bxe3 45. fxe3 Qxe6 0-1

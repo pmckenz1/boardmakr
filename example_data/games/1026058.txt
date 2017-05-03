@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Zurich (Switzerland)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Rene Hirzel"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.Nc3 b6 6.e3 Bb7 7.Bd3
+Bxc3 8.Bxc3 Ne4 9.Bxe4 Bxe4 10.d5 f6 11.Qd4 Bg6 12.h4 h5
+13.Qf4 Na6 14.Qg3 Kf7 15.O-O Nc5 16.Rad1 d6 17.Nd4 e5 18.Ne6
+Qd7 19.f4 exf4 20.exf4 Nxe6 21.dxe6 Qxe6 22.f5 Bxf5 23.Rde1
+Qd7 24.Qf4 g6 25.Qd4 Qd8 26.Qd5+ Kg7 27.Re3 Qd7 28.Rxf5 gxf5
+29.Rg3+ Kh7 30.Qf3 1-0

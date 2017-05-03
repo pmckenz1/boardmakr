@@ -1,0 +1,25 @@
+[Event "It (open)"]
+[Site "Benasque (Spain)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Jose Manuel Gil Gonzales"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.d4 g6 2.c4 Bg7 3.e4 Nc6 4.Be3 e5 5.dxe5 d6 6.Nc3 dxe5
+7.Qxd8+ Nxd8 8.Nf3 Ne6 9.O-O-O f6 10.g3 Nh6 11.h3 Nf7 12.c5
+O-O 13.Bc4 c6 14.Kc2 Re8 15.b4 Nf8 16.Nd2 Be6 17.Bb3 Bxb3+
+18.Nxb3 Re7 19.Rd3 Rd8 20.Rhd1 Red7 21.Na5 Rxd3 22.Rxd3 Rxd3
+23.Kxd3 Nd8 24.b5 Nfe6 25.Kc4 Kf7 26.a4 Ke7 27.Ne2 Kd7 28.f4
+f5 29.exf5 gxf5 30.Nb3 Nf7 31.Nd2 Nc7 32.Nf3 Nd5 33.Bd2 Ke6
+34.Nh4 Bf6 35.Ng2 Ne7 36.g4 fxg4 37.hxg4 exf4 38.Ngxf4+ Kd7
+39.Nd3 Ng6 40.Bc3 Bxc3 41.Kxc3 Nfe5 42.Nf2 Ke6 43.Kd4 Nf3+
+44.Ke4 Ng5+ 45.Kd4 Nf3+ 46.Ke3 Ng5 47.Ne4 Nf7 48.Kd4 Nge5
+49.b6 a6 50.Nf4+ Ke7 51.Nd6 Nxd6 52.Kxe5 Nc4+ 53.Kd4 Nd2
+54.Nd3 Ke6 55.Nf2 Nf3+ 56.Ke4 Ng5+ 57.Kd4 Nf3+ 58.Ke3 Ng5
+59.Kd4 1/2-1/2

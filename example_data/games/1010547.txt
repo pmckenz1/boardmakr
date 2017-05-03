@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Anatolij Chistiakov"]
+[Black "Vasiliy Radchenko"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. a3 Be7 5. Nf3 O-O 6. e3 b6
+7. Bd3 dxc4 8. Bxc4 c5 9. O-O Bb7 10. Qe2 Nbd7 11. Rd1 Qc7
+12. e4 a6 13. Bg5 cxd4 14. Nxd4 e5 15. Nf5 Nc5 16. f3 Bd8
+17. Rac1 Qb8 18. Be3 Ncd7 19. Qf2 Bc8 20. Rd2 b5 21. Bd5 Nxd5
+22. Nxd5 Nf6 23. Rxc8 Qxc8 24. Nde7+ Bxe7 25. Nxe7+ Kh8
+26. Nxc8 Raxc8 27. Bc5 Kg8 28. g4 Rfe8 29. b4 h5 30. h3 hxg4
+31. hxg4 Re6 32. Qh4 Ne8 33. g5 Rg6 34. Rh2 f6 35. Qh8+ Kf7
+36. Qf8+ 1-0

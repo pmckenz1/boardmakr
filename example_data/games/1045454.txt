@@ -1,0 +1,21 @@
+[Event "Vrsac"]
+[Site "Vrsac YUG"]
+[Date "1981.09.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Sasa Velickovic"]
+[Black "Lubomir Ftacnik"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bb5+ Bd7 5. Bxd7+ Nbxd7 6. Qe2
+e6 7. Nf3 Be7 8. O-O O-O 9. e5 dxe5 10. dxe5 Nd5 11. a3 Qc7
+12. c4 N5b6 13. Nc3 Rad8 14. Bf4 Nb8 15. Nb5 Qc6 16. Rad1 a6
+17. Nc3 Na4 18. Nxa4 Qxa4 19. Bg5 Nc6 20. Bxe7 Nxe7 21. Ng5 h6
+22. Ne4 b6 23. Nd6 Nc6 24. Rd3 Nd4 25. Qd2 Qc6 26. Re1 f5
+27. f4 Kh7 28. Ree3 Rd7 29. b4 Rfd8 30. Re1 a5 31. b5 Qa8
+32. a4 Rg8 33. h4 Qd8 34. Rh3 g6 35. Ree3 Kg7 36. Reg3 Kf8
+37. Kf2 Rdg7 38. Rh1 Ke7 39. Rhh3 Kd7 40. Kf1 Kc7 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "RUS-ch Elista"]
+[Site "02"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Andrei Sokolov"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.e3 e6 5.d4 d5 6.a3 a6 7.b3 Ne4
+8.Bb2 cxd4 9.exd4 Be7 10.Be2 O-O 11.O-O Bf6 12.Re1 b6 13.Bf1
+Nxc3 14.Bxc3 1/2-1/2

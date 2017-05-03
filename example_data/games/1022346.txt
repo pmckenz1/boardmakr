@@ -1,0 +1,17 @@
+[Event "Wohlen (Switzerland)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Viktor Gavrikov"]
+[Black "Alexander Baburin"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.g3 d5 2.Bg2 Nf6 3.d3 g6 4.Nf3 Bg7 5.O-O O-O 6.Nbd2 c5 7.e4
+Nc6 8.Re1 h6 9.c3 e5 10.Qb3 dxe4 11.dxe4 Qc7 12.Nc4 Be6 13.Qb5
+b6 14.Nfd2 Rfd8 15.Ne3 Na5 16.Qf1 c4 17.f4 exf4 18.gxf4 Rac8
+19.e5 Nd5 20.Ne4 Nb7 21.Qf3 Nc5 22.Nxc5 1/2-1/2

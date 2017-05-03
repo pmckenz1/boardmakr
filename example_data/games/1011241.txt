@@ -1,0 +1,21 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Klaudiusz Urban"]
+[Black "Bartosz Socko"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Re1 Nbd7
+7. e4 e5 8. Nc3 Re8 9. h3 c6 10. a4 Qc7 11. Be3 b6 12. d5 cxd5
+13. exd5 a6 14. Nd2 Bb7 15. Nb3 Rac8 16. Re2 h5 17. Qd2 Nh7
+18. Bh6 Bh8 19. Ne4 f5 20. Ng5 Nxg5 21. Bxg5 Nf6 22. Rd1 Qc4
+23. Be3 Nd7 24. a5 b5 25. Nc1 e4 26. b3 Qc3 27. Qxc3 Bxc3
+28. Bd2 Be5 29. Bb4 Nf6 30. Red2 Nxd5 31. Rxd5 Bxd5 32. Rxd5
+Rxc2 33. Bd2 Rec8 34. Ne2 R8c5 35. Rxc5 dxc5 36. Bf4 Bxf4
+37. Nxf4 c4 38. bxc4 b4 0-1

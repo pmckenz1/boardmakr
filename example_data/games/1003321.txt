@@ -1,0 +1,19 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Leopold Loewy, Sr."]
+[Black "Wilhelm Kunze"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4
+7. Qb3 Na5 8. Qa4+ c6 9. Bd3 Bxf3 10. gxf3 b5 11. Bxb5 Qd7
+12. Be2 d3 13. Bxd3 Bb6 14. Be3 Rb8 15. b4 Nb7 16. Nd2 Ne7
+17. Kh1 Nd8 18. Rg1 Ng6 19. f4 O-O 20. Nf3 Qe7 21. Rg4 Qf6
+22. Rag1 Qxc3 23. Qd1 Bxe3 24. fxe3 Rxb4 25. f5 Ne6 26. fxe6
+fxe6 27. Nh4 Rf7 28. Nxg6 hxg6 29. Rxg6 Rfb7 30. Qg4 1-0

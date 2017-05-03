@@ -1,0 +1,21 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Vladimir Dobrov"]
+[Black "Fiodor Kuznetsov"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Qd7
+7. Nf3 Nc6 8. Bb5 Rc8 9. Ne5 Qc7 10. Nxd5 Nxd5 11. Qxd5 e6
+12. Qb3 Bd6 13. Nxc6 bxc6 14. Bd3 Bxd3 15. Qxd3 O-O 16. Bd2
+Rb8 17. Bc3 Rfe8 18. h3 c5 19. dxc5 Bxc5 20. O-O Rbd8 21. Qc4
+Rd5 22. Rac1 Qb7 23. Qg4 Bf8 24. e4 Rd3 25. Kh2 Red8 26. Rce1
+Qb5 27. f4 f5 28. Qg5 Qd7 29. exf5 exf5 30. Re5 Rd5 31. Rfe1
+Qf7 32. Re7 h6 33. Rxf7 hxg5 34. Rxa7 gxf4 35. h4 R5d7 36. Ra5
+Rd5 37. Rxd5 Rxd5 38. Re5 1-0

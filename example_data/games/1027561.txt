@@ -1,0 +1,23 @@
+[Event "Ch Europe (team)"]
+[Site "Hamburg FRG"]
+[Date "1965.06.06"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Aleksandar Matanovic"]
+[Black "Istvan Bilek"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be2 Nf6 7.O-O
+Be7 8.Be3 O-O 9.f4 Bd7 10.Qe1 Nxd4 11.Bxd4 Bc6 12.Bd3 g6
+13.Kh1 a6 14.Rd1 Rc8 15.a3 b5 16.e5 dxe5 17.Bxe5 Nd7 18.Be4
+Qe8 19.Bd4 Nf6 20.Bxc6 Rxc6 21.Qe5 Qb8 22.Qg5 Nd5 23.Qh6 Bf6
+24.Nxd5 exd5 25.Bxf6 Rxf6 26.Rxd5 Qc7 27.Rd3 Rf5 28.g4 Rc5
+29.c3 Qb7+ 30.Kg1 Rd5 31.Rxd5 Qxd5 32.f5 Qc5+ 33.Rf2 Qd6
+34.Qf4 Qd1+ 35.Kg2 Qd5+ 36.Qf3 Qc4 37.Qf4 Qd5+ 38.Kg3 Re8
+39.Qf3 Re4 40.fxg6 hxg6 41.h3 Qe6 42.Qf6 Re3+ 43.Kh4 Qd5
+44.Rf4 Kf8 45.Qxg6 Rxh3+ 46.Kxh3 Qh1+ 47.Kg3 Qe1+ 48.Kg2 Qd2+
+49.Rf2 1-0

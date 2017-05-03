@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.04"]
+[EventDate "1911.08.21"]
+[Round "11"]
+[Result "0-1"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Oscar Chajes"]
+[ECO "D33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2
+Be6 8.O-O h6 9.Be3 c4 10.Ne5 Bd6 11.Nxc4 Bc7 12.Rc1 dxc4 13.d5
+Nxd5 14.Nxd5 O-O 15.Rxc4 Be5 16.b3 Re8 17.Bc5 Rc8 18.f4 Bb8
+19.Rc1 Qd7 20.Ba3 Rcd8 21.Ne3 Qc7 22.Qc2 Qa5 23.Qc5 Qa6
+24.Rcd1 Rxd1 25.Nxd1 Qxe2 26.Bb2 Bc7 27.Qc1 Bb6+ 28.Nf2 Nd4
+29.Bxb7 Bh3 30.Bxd4 Bxd4 31.Bg2 Rc8 32.Qe1 Qxe1 33.Rxe1 Bxf2+
+34.Kxf2 Rc2+ 35.Re2 Rxe2+ 36.Kxe2 Bxg2 37.Kd3 Kf8 38.Kd4 Ke7
+39.Ke5 f6 40.Kf5 Kf7 41.Kg4 g6 42.f5 g5 43.h4 Be4 44.b4 Bc2
+45.a3 a6 46.Kh5 Kg7 47.Kg4 Kh7 48.hxg5 hxg5 49.Kf3 Bxf5 50.a4
+Bd7 0-1

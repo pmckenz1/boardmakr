@@ -1,0 +1,36 @@
+[Event "Gothenburg"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.07"]
+[EventDate "1920.08.02"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Aron Nimzowitsch"]
+[Black "Savielly Tartakower"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 {Notes by Nimzowitsch} f5 2.e3 Nf6 3.Nf3 e6 4.Be2 g6 5.c4
+Bg7 6.O-O O-O 7.b4 {In order to transfer the main field of
+battle to the queen side.} d6 8.Nbd2 Nbd7 9.Bb2 Qe7 10.c5
+{White has a clear advantage in position for now 10...e5 would
+fail on account of the sequence of moves 11 cxd6 cxd6 12 dxe5
+dxe5 13 Nc4 with Qb3, Rac1, and Rfd1.} a5 11.cxd6 cxd6 12.b5
+Nb6 13.Nc4 Nxc4 14.Bxc4 d5 15.Bd3 Bd7 16.a4 Rfc8 17.Ne5 Be8
+18.Qd2 {This leads to bishops of opposite colors.} Ne4 19.Bxe4
+Bxe5 20.dxe5 dxe4 21.Rac1 Rd8 {Black must avoid further
+exchanges because of his queen side pawns, which otherwise
+could not be held.} 22.Bd4 g5 {How can the liberating advance
+...f4 be prevented?} 23.Rc4 {Quite simply, because now the
+answer would be exf4 and Qxf4.} Qf7 24.Qe2 {Here ...f4 should
+still have been prevented; a suitable move would be 24 Qc2 for
+after 25 Rc1 White could exploit the open c-file. after the
+text-move, the nimble witted Tartakower escapes his fate.} f4
+25.exf4 Qxf4 26.Qe3 Rac8 {White labours under a temporary
+weakness in his first rank and on this seemingly unimportant
+circumstance Tartakower builds up a plan which saves the
+situation.} 27.Rfc1 Rxc4 28.Rxc4 Qxe5 29.h4 Qf4 30.hxg5 e5
+{Now the game must end in a draw.} 31.Qxf4 exf4 32.Bb6 Rd1+
+33.Kh2 Bg6 34.Bxa5 e3 35.Rc8+ Kf7 36.Rc7+ Ke6 37.fxe3 fxe3
+38.Bb4 Rd4 39.Bc5 Rxa4 40.Re7+ Kd5 41.Bxe3 Re4 1/2-1/2

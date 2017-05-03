@@ -1,0 +1,25 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Narelle Szuveges"]
+[Black "Brett Tindall"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e6 5. d3 Be7 6. e4 d6
+7. Re1 Qc7 8. c3 O-O 9. d4 cxd4 10. cxd4 d5 11. e5 Nd7 12. Nc3
+a6 13. h4 b5 14. Bf4 Nb6 15. Ng5 b4 16. Ne2 Bd7 17. Qd3 Bxg5
+18. hxg5 Ne7 19. Rac1 Qb7 20. g4 Bb5 21. Qh3 Bxe2 22. Rxe2
+Rac8 23. Rd1 Rc4 24. Bf3 Rfc8 25. Kg2 Ng6 26. Be3 Rc2 27. Rh1
+Nf8 28. b3 a5 29. Rd1 R8c3 30. Rxc2 Rxc2 31. Rd2 Qc6 32. Bd1
+Rc3 33. Qf3 Nc8 34. Qe2 Na7 35. Rd3 Nb5 36. Bd2 Rxd3 37. Qxd3
+Qb6 38. Be3 Nc3 39. a4 Qc7 40. Qc2 Qe7 41. Bd2 Ne4 42. Qc1
+Nxd2 43. Qxd2 f6 44. gxf6 gxf6 45. f4 fxe5 46. fxe5 Ng6
+47. Qh6 Qf7 48. Qe3 Qe8 49. Qd2 Qf8 50. Qg5 Qe7 51. Qh6 Qc7
+52. Qe3 Kg7 53. Qf2 Qf7 54. Bc2 Qe7 55. Bxg6 hxg6 56. Qf4 Qh4
+57. Qf3 Qg5 58. Kg3 Kg8 59. Qf4 Qe7 60. Qh6 Qf7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.07"]
+[EventDate "1926.03.07"]
+[Round "1"]
+[Result "1-0"]
+[White "Milan Vidmar"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Bg5 Be7 5. e3 Bb7 6. Bd3 c5
+7. Nc3 Nc6 8. O-O d6 9. Qe2 h6 10. Bxf6 Bxf6 11. d5 Ne7
+12. dxe6 fxe6 13. Nh4 O-O 14. Qg4 Bxh4 15. Qxh4 Rf6 16. Rad1
+Qf8 17. Be4 Nf5 18. Qh5 g6 19. Qh3 Rb8 20. Bxb7 Rxb7 21. g4
+Ne7 22. Rxd6 Nc8 23. Rd3 Nd6 24. Rfd1 e5 25. Qg2 Rbf7 26. R3d2
+Kh7 27. b3 a6 28. Nd5 Re6 29. Nxb6 h5 30. Nd5 e4 31. Nf4 Ref6
+32. g5 Rxf4 33. exf4 Nf5 34. Rd7 Nd4 35. Rxf7+ Qxf7 36. Qxe4
+Qd7 37. Re1 Nf5 38. Qd5 Qc8 39. Qf7+ Ng7 40. f5 1-0

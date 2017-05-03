@@ -1,0 +1,24 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Andrei Sokolov"]
+[Black "Lubomir Ftacnik"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6
+7. h4 Nc6 8. Rg1 h5 9. gxh5 Nxh5 10. Bg5 Nf6 11. Qd2 Qb6
+12. Nb3 a6 13. O-O-O Bd7 14. Qe2 Qc7 15. Kb1 O-O-O 16. f4 Be7
+17. f5 Kb8 18. fxe6 fxe6 19. Bh3 Nh5 20. Rdf1 g6 21. Bxe7 Nxe7
+22. Bg4 d5 23. Bxh5 Rxh5 24. Rxg6 Rh7 25. Rg5 dxe4 26. Qxe4
+Nf5 27. h5 Rdh8 28. Rfg1 Rxh5 29. Rxh5 Rxh5 30. Rg8+ Ka7
+31. a3 Rh2 32. Qb4 Bc8 33. Qf8 Kb8 34. a4 Rh7 35. a5 Rf7
+36. Qb4 Ne7 37. Nc5 Ka7 38. Qd4 Rf1+ 39. Ka2 Qxa5+ 40. N5a4+
+Kb8 41. Re8 Rf7 42. Qd6+ Qc7 43. Qxe6 Rg7 44. Qf6 Qd7 45. Qe5+
+Ka7 46. Qc5+ Kb8 47. Qe5+ Ka7 48. Qe3+ Kb8 49. Rf8 Qd6 50. Nb6
+Rg3 51. Qf2 Rg8 52. Rf6 Qe5 53. Nxc8 Rxc8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Dortmund-A"]
+[Site "Dortmund-A"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Zsuzsa Polgar"]
+[Black "Boris Gelfand"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nb6 8.Nc3 Nc6 9.e3 Re8 10.d5 Na5 11.Nd4 Bd7 12.Qe2 c6 13.dxc6
+Nxc6 14.Nxc6 Bxc6 15.Bxc6 bxc6 16.Rd1 Qc8 17.Bd2 Qe6 18.Be1 a5
+19.Rac1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Gjovik"]
+[Site "Gjovik NOR"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Knut Joran Helmers"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. Nf3 c5 2. e4 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5
+7. Qg4 O-O 8. Bd2 Nxc3 9. bxc3 Be7 10. Bh6 g6 11. Bxf8 Bxf8
+12. Bd3 d6 13. Qg3 Qa5 14. O-O dxe5 15. Nf3 Nd7 16. Rad1 Qxc3
+17. Ng5 Qc7 18. Qh4 Nf6 19. f4 e4 20. Nxe4 Nxe4 21. Bxe4 Bd7
+22. Rf3 Bc6 23. Bxc6 Qxc6 24. Rfd3 Qxc2 25. Rd7 Qxa2 26. Qf6
+Bc5+ 27. Kh1 Rf8 28. h4 h5 29. Rxb7 Qc2 30. Rd8 1/2-1/2

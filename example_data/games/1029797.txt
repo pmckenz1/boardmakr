@@ -1,0 +1,25 @@
+[Event "Ch-UCZEO"]
+[Site "Ch-<CZE>"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Pavel Blatny"]
+[Black "Milos Mozny"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.d3 Be7 7.Bd2
+O-O 8.Rc1 Nc6 9.a3 Nd4 10.Nf3 Be6 11.Be3 Nb3 12.Rb1 Nd5
+13.Nxd5 Bxd5 14.O-O Bf6 15.Nd2 Bxg2 16.Kxg2 Nxd2 17.Qxd2 Qd5+
+18.f3 Be7 19.Qc2 c5 20.Rfc1 b6 21.Qc4 Qxc4 22.dxc4 f5 23.Rd1
+Rfd8 24.b3 Kf7 25.Bf2 e4 26.fxe4 fxe4 27.Be3 Ke6 28.Rf1 g5
+29.g4 h5 30.h3 Rh8 31.Rh1 Rh7 32.Rbd1 Bf6 33.gxh5 Rxh5 34.Bf2
+g4 35.h4 Rah8 36.Bg3 Rd8 37.Rxd8 Bxd8 38.Rf1 Rf5 39.Rd1 Be7
+40.a4 Rh5 41.Rf1 Rh8 42.Rd1 Bxh4 43.Rh1 Bf6 44.Rxh8 Bxh8
+45.Bb8 a6 46.Ba7 Ke5 47.a5 bxa5 48.Bxc5 Kf5 49.Bb6 Bc3 50.Kf2
+Bd2 51.Bc7 Bb4 52.Bb6 Bd2 53.Kf1 Ke6 54.Kg2 a4 55.bxa4 Bf4
+56.Bf2 Kd7 57.Bg3 Bg5 58.Be5 Bh4 59.Bd4 Kc6 60.Be3 Be1 61.Bg1
+Bh4 62.Bd4 Be1 1/2-1/2

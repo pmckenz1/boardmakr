@@ -1,0 +1,26 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Jakob Adolf Seitz"]
+[Black "Ernst Gruenfeld"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 c5 5. Qe2 Nc6 6. c3 e6
+7. Nf3 d5 8. exd6 Bxd6 9. O-O O-O 10. d4 cxd4 11. cxd4 Be7
+12. Rd1 Bf6 13. Be3 Nd5 14. Nc3 Nxc3 15. bxc3 Na5 16. Bc2 b6
+17. Be4 Bb7 18. Bxb7 Nxb7 19. Rac1 Qd7 20. Bf4 Qa4 21. Ne5 Na5
+22. Rd3 Bxe5 23. Bxe5 f6 24. Bd6 Rfe8 25. Rg3 Rac8 26. Qg4 Qd7
+27. Re1 Nc4 28. Bf4 Re7 29. h4 Rce8 30. h5 Kh8 31. Kh2 b5
+32. Qf3 Qd5 33. h6 g6 34. Bc1 Qxf3 35. Rxf3 f5 36. Bf4 Rd7
+37. Rb1 Rd5 38. a4 bxa4 39. Rb4 Rc8 40. Rxa4 a5 41. Ra2 Kg8
+42. Bc1 e5 43. Rd3 Kf7 44. Ba3 g5 45. Bc1 Kg6 46. Rh3 exd4
+47. cxd4 Rxd4 48. Rc3 Rc6 49. Be3 Rd8 50. Bb6 Rdc8 51. Bd4
+Kxh6 52. Rc1 Kg6 53. Rca1 Ra8 54. Ra4 Re8 55. R1a2 Kf7 56. Bc3
+Nb6 57. R4a3 a4 58. Bd4 Nc4 59. Rxa4 Re4 60. Ra7+ Ke6 61. Bg7
+Nd6 62. f3 Rh4+ 63. Kg1 Rc1+ 1/2-1/2

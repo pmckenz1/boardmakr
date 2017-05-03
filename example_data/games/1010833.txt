@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Genadi A Ageichenko"]
+[Black "Vladislav Vorotnikov"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Qxd4 Be7 6. Bg5
+O-O 7. Be2 Nc6 8. Qd2 a6 9. O-O b5 10. a3 Be6 11. Rfe1 Re8
+12. Rad1 h6 13. Bf4 Nd7 14. Nd5 Bf6 15. b4 Bg4 16. Nd4 Bxd4
+17. Bxg4 Nde5 18. Bxe5 Rxe5 19. c3 Ba7 20. Kh1 h5 21. Bf5 Re8
+22. Qe2 g6 23. Bd7 Ne5 24. Bxe8 Ng4 25. Bxf7+ Kxf7 26. Rf1 Qh4
+27. h3 1/2-1/2

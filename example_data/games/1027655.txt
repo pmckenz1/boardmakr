@@ -1,0 +1,22 @@
+[Event "Kecskemet (Hungary)"]
+[Site "Kecskemet HUN"]
+[Date "1968.05.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Istvan Bilek"]
+[Black "Gyozo Victor Forintos"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.g3 c5 2.Bg2 Nc6 3.Nc3 g6 4.f4 Bg7 5.d3 d6 6.e4 e6 7.Nf3 Nge7
+8.O-O Rb8 9.Be3 Nd4 10.e5 Nef5 11.Bf2 Nxf3+ 12.Qxf3 O-O 13.Ne4
+dxe5 14.Bxc5 Nd4 15.Qf2 exf4 16.c3 fxg3 17.Nxg3 Nc6 18.Bxf8
+Qxf8 19.Rae1 f5 20.d4 Qd6 21.Ne4 Qc7 22.Ng5 Nd8 23.d5 Bf8
+24.Kh1 e5 25.Qxa7 h6 26.Nf3 e4 27.Nh4 Bc5 28.Qa4 Bd7 29.Qc2
+Qd6 30.Qd2 Nf7 31.b4 Bb6 32.c4 Bc7 33.Bxe4 fxe4 34.c5 Qe5
+35.Nxg6 Qg5 36.Qxg5 Nxg5 37.h4 Nf3 38.d6 Bd8 39.Rd1 Bf6
+40.Ne7+ Kf7 41.Nd5 Rg8 42.Nxf6 Kxf6 43.Rde1 Bh3 44.Rf2 Rg3
+45.Rd1 Bg2+ 0-1

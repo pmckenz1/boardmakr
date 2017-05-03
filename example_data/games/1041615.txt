@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.12.01"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Mark L Condie"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "144"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3 Bc5 5.e3 Nc6 6.Be2 O-O 7.O-O
+Ngxe5 8.Nc3 Re8 9.b3 a5 10.Nd4 b6 11.Bb2 Bb7 12.Nd5 Ne7 13.Nf3
+Nxd5 14.Nxe5 Nf6 15.Bf3 Bxf3 16.Qxf3 Bd6 17.Nd3 Ne4 18.Qg4 Qg5
+19.Qxg5 Nxg5 20.Rac1 Ne6 21.Rfd1 f6 22.Bc3 Re7 23.g3 Nc5
+24.Kg2 Nxd3 25.Rxd3 Ba3 26.Rcd1 d6 27.g4 Re4 28.Kf3 Rae8
+29.Rd4 Rxd4 30.Rxd4 Bb4 31.Bd2 Bxd2 32.Rxd2 Kf7 33.Rd4 Re5
+34.Ke2 Kg6 35.f4 Re8 36.Rd5 Kf7 37.Kf3 g6 38.h4 Re7 39.e4 Kg7
+40.g5 Kf7 41.a3 Re8 42.Rd1 h6 43.gxf6 Kxf6 44.Rd5 Re7 45.b4
+axb4 46.axb4 Kg7 47.c5 bxc5 48.bxc5 Re6 49.Ke3 Kf7 50.cxd6
+cxd6 51.Ra5 Re7 52.h5 gxh5 53.Rxh5 Re6 54.Kd4 Rg6 55.f5 Rg1
+56.Rxh6 Rd1+ 57.Kc4 Kg7 58.Re6 Kf7 59.Rh6 Ke7 60.Rh7+ Ke8
+61.Rh3 Ke7 62.Rd3 Rc1+ 63.Kd4 Rh1 64.Kd5 Rc1 65.f6+ Kd7 66.Rf3
+Rc5+ 67.Kd4 Ke8 68.Ra3 Kf7 69.Ra6 Ke6 70.f7+ Kxf7 71.Rxd6 Ra5
+72.Rb6 Ke7 1/2-1/2

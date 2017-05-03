@@ -1,0 +1,22 @@
+[Event "USA"]
+[Site "?"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Russel Porter"]
+[Black "Jay R Bonin"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6
+7.Be3 a6 8.Na3 d5 9.Nxd5 Nxe4 10.Bb6 Bc5 11.Bxd8 Bxf2+ 12.Ke2
+Bg4+ 13.Kd3 Nc5+ 14.Kd2 Bxd1 15.Bb6 Bg4 16.Nc7+ Ke7 17.Bxc5+
+Bxc5 18.Nxa8 Rxa8 19.Ke1 Nd4 20.Rc1 Nf3+ 21.Ke2 e4 22.h3 Rd8
+23.Nb1 Nd4+ 24.Kd2 Ne2 25.Ke1 Ng3 26.hxg4 Nxh1 27.Bc4 Be3
+28.Rd1 Bf2+ 29.Ke2 Ng3+ 30.Kxf2 Rxd1 31.Nc3 Nh1+ 32.Ke2 Rg1
+33.Nxe4 Rxg2+ 34.Kf3 Rxc2 35.Bf1 Rxb2 36.Bg2 Rxa2 37.Bxh1 a5
+38.Ke3 b5 39.Kd3 Rh2 40.Bf3 a4 41.Nd2 Kf6 42.Ne4+ Ke5 43.Nc3
+a3 44.Bd5 0-1

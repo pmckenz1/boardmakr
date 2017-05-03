@@ -1,0 +1,23 @@
+[Event "Moscow USSR Team ch"]
+[Site "Moscow USSR Team ch"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Efim Geller"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.c4 g6 2.d4 Bg7 3.Nc3 Nf6 4.e4 d6 5.Be2 O-O 6.d5 Na6 7.Bg5
+Nc5 8.f3 c6 9.Qd2 cxd5 10.cxd5 Bd7 11.h4 Rc8 12.Nh3 b5 13.Nd1
+Nh5 14.g4 Ng3 15.Rg1 Nxe2 16.Kxe2 b4 17.Kf2 Qa5 18.Ne3 Qa6
+19.Kg2 h6 20.Bf4 Nd3 21.Rgb1 h5 22.Bg5 hxg4 23.fxg4 Rc7 24.Nf2
+Bb5 25.Nh3 Rfc8 26.h5 Qb6 27.hxg6 fxg6 28.Kh2 Qd4 29.Qg2 Rf8
+30.b3 Nc5 31.Rd1 Qxe4 32.Rac1 Bd3 33.Rd2 Bc3 34.Rf2 Qxg2+
+35.Kxg2 Be4+ 36.Kg3 Nd3 37.Rxf8+ Kxf8 38.Rf1+ Kg7 39.Nf4 Be5
+40.Nc4 Nxf4 41.Bxf4 Bc3 42.Rd1 Rc5 43.Be3 Rxd5 44.Rxd5 Bxd5
+45.Bxa7 Be4 46.Bb6 d5 47.Na5 Kf6 48.Nc6 e5 49.Bc5 d4 50.Nxb4
+d3 0-1

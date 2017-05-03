@@ -1,0 +1,21 @@
+[Event "Gulf Coast op"]
+[Site "Gulf Coast op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Walter Shawn Browne"]
+[Black "Patrick Wolff"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 O-O 8.Ne2 c5 9.Be3 Nc6 10.Rc1 Qa5 11.Kf1 b5 12.Bd5 Bb7
+13.h4 e6 14.Bb3 Rfd8 15.h5 cxd4 16.cxd4 Qb4 17.hxg6 hxg6
+18.Bd2 Qe7 19.d5 exd5 20.exd5 Ne5 21.Bh6 Bxh6 22.Rxh6 Qg5
+23.Rh3 Rac8 24.Rxc8 Bxc8 25.Rg3 Qh4 26.Qd4 Qh1+ 27.Ng1 b4
+28.f4 Ng4 29.Bc4 Qh4 30.Ne2 Re8 31.Rh3 Nh2+ 32.Rxh2 Qxh2 33.d6
+Bb7 34.Qf6 Qxg2+ 35.Ke1 Qg1+ 36.Kd2 Rxe2+ 37.Bxe2 Qc5 38.f5
+Be4 39.fxg6 Bxg6 40.Bg4 Qd5+ 41.Ke1 Qh1+ 1/2-1/2

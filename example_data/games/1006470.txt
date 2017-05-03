@@ -1,0 +1,15 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.03.05"]
+[EventDate "2000.02.26"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Tze-Meng Mok"]
+[Black "Haji Ardiansyah"]
+[ECO "C68"]
+[WhiteElo "2270"]
+[BlackElo "2396"]
+[PlyCount "20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4
+Bg4 7. dxe5 Bxf3 8. Qxf3 Bxe5 9. Nd2 Qf6 10. Qxf6 Nxf6 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Ch Asian Cities (team)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Farooq Nawaf"]
+[ECO "A12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.Nf3 d5 2.c4 c6 3.b3 Nf6 4.Bb2 e6 5.g3 Bd6 6.Bg2 Nbd7 7.d4
+O-O 8.O-O b6 9.Nbd2 Bb7 10.Qc2 c5 11.Rad1 Qe7 12.cxd5 exd5
+13.Nh4 Qe6 14.Nf5 Rfe8 15.Bh3 Kh8 16.Nf3 Ne4 17.dxc5 Be5
+18.Nxg7 Qxh3 19.Nxe8+ Rxe8 20.c6 Bxc6 21.Nxe5 Nxe5 22.Qxc6 Re6
+23.Qxd5 1-0

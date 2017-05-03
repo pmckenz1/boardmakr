@@ -1,0 +1,24 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Elmar Magerramov"]
+[Black "Yuri Balashov"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 g6 6.d5 Bg7 7.e4 O-O
+8.Bd3 d6 9.O-O Nbd7 10.Bf4 Re8 11.Re1 Nh5 12.Bg5 Bf6 13.Bd2 c6
+14.Rc1 Rc8 15.h3 Ne5 16.Be2 Ng7 17.Nh2 h5 18.b3 cxd5 19.cxd5
+a6 20.Be3 Rxc3 21.Rxc3 Nf3+ 22.Nxf3 Bxc3 23.Bd2 Bf6 24.a4 exd5
+25.exd5 Nf5 26.Bc4 Rxe1+ 27.Bxe1 Qe8 28.Qd3 Nh4 29.Bd2 Nxf3+
+30.Qxf3 Bd4 31.Qd3 Qe5 32.Kf1 b5 33.axb5 axb5 34.Bxb5 Qxd5
+35.f3 Qe5 36.Qe2 Qh2 37.Qe8+ Kg7 38.Be3 Qh1+ 39.Kf2 Bf6 40.Bf4
+Bh4+ 41.Bg3 Bxg3+ 42.Kxg3 Qg1 43.h4 g5 44.Qe7 gxh4 45.Qxh4
+Qe1+ 46.Kh3 Bc8+ 47.g4 Qh1+ 48.Kg3 Qg1+ 49.Kh3 Qe3 50.Qxh5
+Qxf3+ 51.Kh4 Qf2+ 52.Kh3 Qe3+ 53.Kh4 f6 54.Bc4 Qe7 55.Qd5
+1/2-1/2

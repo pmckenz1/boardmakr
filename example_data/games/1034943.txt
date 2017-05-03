@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "It"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ratmir Kholmov"]
+[Black "David Bronstein"]
+[ECO "B16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3
+Bf5 7. Nf3 e6 8. g3 Qd5 9. Bg2 Qc4 10. Nh4 Bd3 11. Qd2 Bg6
+12. Nxg6 hxg6 13. b3 Qb5 14. Bb2 Bh6 15. Qc2 Nd7 16. c4 Qa5+
+17. Bc3 Qh5 18. f4 Bg7 19. Qd3 f5 20. Bf3 Qh6 21. Qe3 a5
+22. a4 Bf6 23. h4 Qg7 24. O-O-O c5 25. Bxb7 Rb8 26. Bc6 Rxb3
+27. Bxd7+ Ke7 28. Bb5 Rd8 29. Qe1 Rxd4 30. Bxa5 Qh8 31. Bb6
+Rxb5 32. axb5 Rxc4+ 33. Kb1 Bc3 34. Bd8+ Kf8 35. Bc7 Rb4+
+36. Kc2 Rb2+ 37. Kc1 Bd2+ 38. Qxd2 Rxd2 39. Be5 1-0

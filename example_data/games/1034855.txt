@@ -1,0 +1,24 @@
+[Event "Erevan"]
+[Site "t"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Samuel Markovich Zhukhovitsky"]
+[ECO "E42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 cxd4
+7. exd4 Be7 8. d5 exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6
+12. Bg2 Rxd6 13. Qc2 Re6 14. O-O Nc6 15. b4 d6 16. Bb2 Re5
+17. Nf4 Bf5 18. Qd2 Qd7 19. Ncd5 Ne4 20. Qd1 Ree8 21. f3 Ng5
+22. Nh5 Re6 23. g4 Rh6 24. gxf5 Qxf5 25. Ng3 Nh3+ 26. Kh1 Qg6
+27. Qe1 Qc2 28. Qc3 Nf2+ 29. Kg1 Nh3+ 30. Bxh3 Qxc3 31. Bxc3
+Rxh3 32. Kg2 Rh6 33. f4 Rc8 34. Rac1 Re6 35. b5 Ne7 36. Nxe7+
+Rxe7 37. Bd4 Ra8 38. a4 f6 39. Kf3 Kf7 40. Rfd1 Rd7 41. Rd3 a6
+42. b6 d5 43. Nf5 Re8 44. Ne3 g6 45. Rc7 Ke6 46. Bb2 Bb4
+47. Ng4 Rxc7 48. bxc7 Rc8 49. Nxf6 Rxc7 50. Re3+ Kf7 51. Nxd5
+Rc2 52. Rb3 Bd6 53. Rxb7+ Ke6 54. Nf6 1-0

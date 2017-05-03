@@ -1,0 +1,33 @@
+[Event "Oberwart (Austria)"]
+[Site "Oberwart AUT"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Dragan M Lukic"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "208"]
+
+1.d4 c6 2.c4 d5 3.Nf3 Nf6 4.Qc2 g6 5.Bf4 Bf5 6.Qb3 Qb6 7.e3
+Bxb1 8.Rxb1 Qxb3 9.axb3 e6 10.h3 Bb4+ 11.Ke2 Nbd7 12.g4 Ke7
+13.Bg2 Bd6 14.Ne5 Ne8 15.e4 dxe4 16.Bxe4 f6 17.Nxd7 Kxd7
+18.Be3 a6 19.Rbg1 f5 20.gxf5 exf5 21.Bf3 Nf6 22.Kd3 Rae8
+23.Rg2 Ke7 24.h4 Kf7 25.h5 Rhg8 26.hxg6+ hxg6 27.Rhg1 Ne4
+28.Bd1 c5 29.Bf3 b6 30.dxc5 bxc5 31.Kc2 Nf6 32.Ra1 f4 33.Bd2
+g5 34.Rxa6 Be5 35.Ra7+ Re7 36.Rxe7+ Kxe7 37.Rg1 g4 38.Bc6 Kd6
+39.Bb7 Rb8 40.Bg2 Ke6 41.Re1 Kf5 42.f3 Bd4 43.fxg4+ Nxg4
+44.Bh3 Rh8 45.Rf1 Be5 46.Rf3 Rg8 47.Kd3 Rh8 48.Ke2 Re8 49.Kf1
+Rd8 50.Ke2 Kg5 51.Rf1 Kh4 52.Rh1 f3 53.Kxf3 Nh2+ 54.Ke4 Bg3
+55.Be3 Kxh3 56.Bxc5 Kg4 57.b4 Nf3 58.Rc1 Bf4 59.Rg1+ Nxg1
+60.Bxg1 Re8+ 61.Kd5 Kf5 62.Bb6 Re2 63.b5 Rxb2 64.Kc6 Ke6 65.c5
+Be5 66.Ba7 Rb3 67.b6 Ra3 68.Kb7 Rc3 69.c6 Bf4 70.Ka8 Rxc6
+71.b7 Be5 72.b8=Q Bxb8 73.Kxb8 Kd7 74.Kb7 Rc1 75.Ka8 Rb1
+76.Bb8 Kc6 77.Ba7 Rb7 78.Bc5 Rh7 79.Ba7 Kb5 80.Bd4 Re7 81.Ba7
+Ka6 82.Bb8 Kb6 83.Bf4 Re4 84.Bg3 Ra4+ 85.Kb8 Ra3 86.Bc7+ Kc6
+87.Be5 Re3 88.Bf4 Rb3+ 89.Ka8 Kb6 90.Be5 Ka6 91.Bf4 Rf3 92.Be5
+Rf5 93.Bc7 Rf7 94.Be5 Kb6 95.Bg3 Rf8+ 96.Bb8 Kc6 97.Ka7 Rf1
+98.Ka8 Rf7 99.Bg3 Rf8+ 100.Bb8 Rg8 101.Ka7 Rg7+ 102.Ka8 Kb6
+103.Bf4 Ra7+ 104.Kb8 Ra3 1/2-1/2

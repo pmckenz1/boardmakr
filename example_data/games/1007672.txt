@@ -1,0 +1,31 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.29"]
+[EventDate "1927.06.26"]
+[Round "4"]
+[Result "1-0"]
+[White "Alfred Brinckmann"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "C73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "173"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+exd4 7. Nxd4 Bd7 8. Nc3 Nf6 9. Qf3 c5 10. Nf5 Bxf5 11. exf5 d5
+12. O-O Be7 13. Bg5 c6 14. Bxf6 Bxf6 15. Rfe1+ Kf8 16. Re2 h6
+17. Rae1 Kg8 18. Na4 Qa5 19. b3 Kh7 20. g4 Rhb8 21. Qg3 c4
+22. Kg2 cxb3 23. axb3 d4 24. h4 Qd5+ 25. Kh3 d3 26. Rd2 Qa5
+27. Red1 dxc2 28. Rxc2 h5 29. Nc5 hxg4+ 30. Qxg4 Rb4 31. Ne4
+Rxb3+ 32. f3 Qe5 33. Rc5 Qb2 34. Rxc6 Be5 35. Rh1 f6 36. Rcc1
+Qe2 37. Rcf1 Rd8 38. Rf2 Qe3 39. Rg1 Qh6 40. Rfg2 Kh8 41. Nc5
+Rd4 42. Ne4 Rdd3 43. Rf1 a5 44. h5 Rb8 45. Nc5 Rd2 46. f4 Rxg2
+47. Kxg2 Bd6 48. Ne6 a4 49. Rd1 Be7 50. Rd7 Bf8 51. Nd8 Kg8
+52. Qf3 a3 53. Nf7 Qh7 54. Qd5 Rb5 55. Nh6+ Kh8 56. Nf7+ Kg8
+57. Qxb5 Qxh5 58. Qc4 Qg4+ 59. Kf2 Qh4+ 60. Ke2 Qh2+ 61. Kd1
+Kh7 62. Rd2 Qh5+ 63. Kc2 Qxf5+ 64. Qd3 Qxd3+ 65. Rxd3 Kg6
+66. Nd6 Kh5 67. Nc4 Kg4 68. Nxa3 Kxf4 69. Kd2 g5 70. Ke2 f5
+71. Nc2 Bc5 72. Rc3 Ba7 73. Ne1 g4 74. Rc7 Bb6 75. Rb7 Bd8
+76. Nd3+ Kg5 77. Rg7+ Kf6 78. Rd7 Ba5 79. Ke3 Kg5 80. Rb7 Bc3
+81. Rb5 Bg7 82. Rd5 Bc3 83. Nf4 Bb2 84. Ne2 Ba3 85. Ng3 Kh4
+86. Nxf5+ Kh3 87. Rd3 1-0

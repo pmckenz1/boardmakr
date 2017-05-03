@@ -1,0 +1,18 @@
+[Event "Ch World FIDE (play-off), Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Vadim Zvjaginsev"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Qa4+ c6 6. Qxc4 b5
+7. Qd3 Bb7 8. Bg2 Nbd7 9. O-O a6 10. Nc3 c5 11. dxc5 Bxc5
+12. Bf4 O-O 13. Rad1 Qb6 14. Ng5 Bxg2 15. Kxg2 Qb7+ 16. Qf3
+Qxf3+ 17. Nxf3 Rac8 18. Bd6 Rfe8 19. Bxc5 Nxc5 20. Rd4 e5
+21. Rdd1 Nce4 22. Nxe4 Nxe4 1/2-1/2

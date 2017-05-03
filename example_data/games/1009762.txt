@@ -1,0 +1,19 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Angelo Tsagarakis"]
+[Black "Manuel William Weeks"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 c5 4. d5 Qb6 5. Qc1 g6 6. Nd2 Nxg5
+7. hxg5 Bg7 8. c3 d6 9. Ngf3 Qc7 10. e3 O-O 11. Qc2 Bf5
+12. Bd3 Bd7 13. a4 e6 14. dxe6 Bxe6 15. Rh4 Nd7 16. O-O-O Rfd8
+17. Rdh1 Nf8 18. Ne4 Qe7 19. c4 d5 20. cxd5 Bxd5 21. Nc3 Bxf3
+22. gxf3 Qxg5 23. Kb1 Rac8 24. f4 Qe7 25. f5 Qd7 26. Rd1 Qe7
+27. Rdh1 Qd7 28. Rd1 Qe7 1/2-1/2

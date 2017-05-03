@@ -1,0 +1,21 @@
+[Event "Lvov zt"]
+[Site "Lviv UKR"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "0-1"]
+[White "Vladimir Savon"]
+[Black "Yuri Balashov"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.d3 Nd7 8.Nbd2 O-O 9.Nc4 f6 10.Nh4 Nc5 11.Nf5 Bxf5 12.exf5
+Qd7 13.Qg4 Rfe8 14.f3 a5 15.Be3 b5 16.Nd2 Nb7 17.Ne4 Nd6
+18.Ng3 Bf8 19.h4 Kh8 20.h5 h6 21.Qg6 Nc8 22.Qg4 Ne7 23.Qe4 Nd5
+24.a3 Red8 25.Bf2 a4 26.Ne2 Re8 27.g4 Nf4 28.Ng3 Qd5 29.Kh2
+Reb8 30.Be3 b4 31.axb4 Rxb4 32.Qxd5 cxd5 33.Ra2 Rab8 34.Bc1
+Bd6 35.Rd1 e4 36.Bxf4 Bxf4 37.dxe4 dxe4 38.fxe4 Rxb2 39.Rxb2
+Rxb2 40.Kh3 Rxc2 41.Rd3 Be5 0-1

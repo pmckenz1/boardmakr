@@ -1,0 +1,25 @@
+[Event "Simul, 34b"]
+[Site "Sombor YUG"]
+[Date "1930.12.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "O Horvath"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Be3 Bb6 6. Bxb6
+axb6 7. a3 d6 8. Nge2 Ne7 9. O-O Ng6 10. f4 exf4 11. Nxf4 Nxf4
+12. Rxf4 c6 13. Bb3 O-O 14. Qf3 Be6 15. Rf1 Bxb3 16. cxb3 Qc7
+17. Ne2 Ne8 18. Nd4 g6 19. h4 Ra5 20. b4 Re5 21. Ne2 d5
+22. Ng3 dxe4 23. dxe4 Ng7 24. Qe3 c5 25. bxc5 Qxc5 26. Qxc5
+bxc5 27. Rf6 Ne6 28. Rd1 Kg7 29. Rf2 Rd8 30. Rfd2 Rxd2
+31. Rxd2 b5 32. Kf2 Nd4 33. b4 Nb3 34. Rd5 cxb4 35. axb4 Rxd5
+36. exd5 Nd4 37. Ne4 Nc2 38. d6 Nxb4 39. Nc3 Kf6 40. Nxb5 Ke6
+41. Ke3 Nc6 42. Kf4 h6 43. g4 Nd8 44. Ke3 Nb7 45. Nd4+ Kxd6
+46. h5 Ke5 47. Nf3+ Kf6 48. hxg6 fxg6 49. Kf4 g5+ 50. Ke4 Nc5+
+51. Kd5 Nd3 52. Kd4 Nf2 53. Nh2 Kg6 54. Ke3 Nxg4+ 55. Nxg4 h5
+56. Kf3 1/2-1/2

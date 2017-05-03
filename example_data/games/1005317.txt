@@ -1,0 +1,30 @@
+[Event "Beirut Lebanese ch+"]
+[Site "LIB"]
+[Date "1999.07.30"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Antoine Tohme"]
+[Black "Antoine Kassis"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "2170"]
+[PlyCount "166"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. Nc3 Bg7 5. e4 cxd4 6. Nxd4 d6
+7. Be2 O-O 8. Be3 Nc6 9. f3 Bd7 10. O-O Qb6 11. Nc2 Qxb2
+12. Qd2 Nb4 13. Nxb4 Qxb4 14. Rab1 Qa5 15. Nd5 Qxd2 16. Nxe7+
+Kh8 17. Bxd2 Rfe8 18. Nd5 Nxd5 19. cxd5 Bd4+ 20. Kh1 b6
+21. Bb4 Bc5 22. Bc3+ Kg8 23. Bf6 Rab8 24. Bb5 Bxb5 25. Rxb5 a6
+26. Rb3 b5 27. Rc3 b4 28. Rc4 Rb6 29. Rfc1 a5 30. e5 dxe5
+31. Rxc5 Rxf6 32. Rxa5 Rf4 33. h3 e4 34. d6 Rd8 35. Rd5 exf3
+36. d7 fxg2+ 37. Kxg2 Kf8 38. Re1 Rf6 39. Re4 Ra6 40. Rd2 Ra7
+41. Red4 Rb7 42. R2d3 f5 43. h4 Ke7 44. Re3+ Kf6 45. Red3 Rb6
+46. Kf3 Ra6 47. Rxb4 Rxa2 48. Rbd4 Ra6 49. Kf4 Re6 50. Rd2 h6
+51. Kf3 g5 52. h5 Ke7 53. Rd5 f4 54. Kg4 Rf6 55. Re5+ Kf7
+56. Rd3 Re6 57. Rf5+ Ke7 58. Rfd5 Re1 59. Kf3 Rg1 60. Ke4 Rg3
+61. Rxg3 fxg3 62. Kf3 Rxd7 63. Ra5 Rd3+ 64. Kg2 Ke6 65. Ra6+
+Kf5 66. Ra4 Re3 67. Kh3 g4+ 68. Kg2 Kg5 69. Ra5+ Kh4 70. Rd5
+Re2+ 71. Kg1 Kh3 72. Rd1 Re5 73. Kh1 Rxh5 74. Rd6 g2+ 75. Kg1
+Re5 76. Rd3+ Kh4 77. Kxg2 Re2+ 78. Kg1 Rb2 79. Kh1 h5 80. Rd5
+Kg3 81. Rd3+ Kf2 82. Rd5 Rb1+ 83. Kh2 g3+ 0-1

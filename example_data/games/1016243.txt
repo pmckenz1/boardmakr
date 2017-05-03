@@ -1,0 +1,16 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Adrian Mikhalchishin"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 e5 5.Bg2 Nxc3 6.bxc3 Bd6
+7.Nf3 O-O 8.d3 c6 9.O-O Nd7 10.Qc2 Qe7 11.Nd2 f5 12.Nc4 Bc5
+13.Rb1 1/2-1/2

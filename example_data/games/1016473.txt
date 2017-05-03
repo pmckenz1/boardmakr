@@ -1,0 +1,20 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Dragoljub Velimirovic"]
+[Black "Andras Adorjan"]
+[ECO "B86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Be7 7.Bb3
+Na6 8.f4 Nc5 9.e5 dxe5 10.fxe5 Nxb3 11.axb3 Bc5 12.Be3 Nd5
+13.Nxe6 Bxe6 14.Bxc5 Qg5 15.O-O Nxc3 16.bxc3 Qxe5 17.Qd4 Qd5
+18.Ra5 Qxd4+ 19.cxd4 Kd7 20.Bxa7 b5 21.Rfa1 Rhc8 22.Bc5 Bd5
+23.Kf2 Rxa5 24.Rxa5 Ra8 25.Rxa8 Bxa8 26.c4 bxc4 27.bxc4 Be4
+28.Ke3 Bxg2 29.d5 f5 30.Bb4 g5 31.Kd4 f4 32.c5 g4 33.c6 Kc8
+34.Be1 1-0

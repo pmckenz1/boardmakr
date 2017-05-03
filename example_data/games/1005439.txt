@@ -1,0 +1,21 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladislav Borovikov"]
+[Black "Sergey Rybakov"]
+[ECO "E66"]
+[WhiteElo "2472"]
+[BlackElo "2205"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 c5 5. Bg2 O-O 6. O-O d6
+7. Nc3 Nc6 8. dxc5 dxc5 9. Be3 Qa5 10. Qb3 Bd7 11. Rad1 Rac8
+12. Nd5 Rfd8 13. Qxb7 Nxd5 14. cxd5 Nd4 15. Nxd4 cxd4 16. Bxd4
+Bxd4 17. Rxd4 Rb8 18. b4 Qxa2 19. Qc7 Rbc8 20. Qe5 Re8 21. h4
+a5 22. bxa5 Qxa5 23. Qg5 Rc2 24. Bf3 Qc5 25. Rfd1 Kg7 26. h5
+f6 27. Qh4 Rc1 28. Kg2 Rxd1 29. Rxd1 Bb5 30. hxg6 hxg6 31. Rh1
+Rg8 32. Qh7+ Kf8 33. Ra1 Be8 34. Ra8 Qb5 35. d6 Rg7 36. Qh8+
+Kf7 37. dxe7 Rg8 38. Qh7+ Rg7 39. Qh6 Qd7 40. Rxe8 1-0

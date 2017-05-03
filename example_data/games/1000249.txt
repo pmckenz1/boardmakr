@@ -1,0 +1,16 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Sunil Weeramantry"]
+[Black "Paul Manning"]
+[ECO "B13"]
+[WhiteElo "2203"]
+[BlackElo "1603"]
+[PlyCount "25"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 e6
+7. Nf3 Bd6 8. Bxd6 Qxd6 9. O-O O-O 10. Qe2 Re8 11. Ne5 Nd7
+12. Bxh7+ Kxh7 13. Qh5+ 1-0

@@ -1,0 +1,18 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Jens Ove Fries Nielsen"]
+[Black "Erling Mortensen"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. Bb5 Nge7 5. O-O Ng6 6. Bxc6
+bxc6 7. e5 f6 8. Re1 Be7 9. d3 O-O 10. exf6 Bxf6 11. Ne4 d6
+12. c3 e5 13. Qa4 Qc7 14. d4 cxd4 15. cxd4 Be6 16. dxe5 Bxe5
+17. Nxe5 Nxe5 18. Qd4 Bd5 19. Nc3 Bf7 20. Bf4 c5 21. Qd1 Rad8
+1/2-1/2

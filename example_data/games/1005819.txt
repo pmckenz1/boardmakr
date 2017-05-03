@@ -1,0 +1,35 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.28"]
+[EventDate "2000.01.18"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Friso Nijboer"]
+[Black "Boris Avrukh"]
+[ECO "B63"]
+[WhiteElo "2540"]
+[BlackElo "2620"]
+[PlyCount "208"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 Qb6 8. Nb3 Be7 9. Bxf6 Bxf6 10. Qxd6 Be5 11. Qc5 Qxc5
+12. Nxc5 Ke7 13. Bb5 Nd4 14. O-O-O Rd8 15. Bf1 b6 16. Nd3 Bd6
+17. Ne2 Nc6 18. g3 Ba6 19. Nc3 Rac8 20. e5 Bb8 21. f4 Nd4
+22. Bg2 Bxd3 23. Rxd3 Ne2+ 24. Kd2 Nxc3 25. Rxd8 Rxd8+
+26. Kxc3 g5 27. Be4 gxf4 28. gxf4 f6 29. exf6+ Kxf6 30. Bxh7
+Rh8 31. Bd3 Rh3 32. Rf1 Rxh2 33. f5 Be5+ 34. Kb3 Rh4 35. fxe6+
+Kxe6 36. Ba6 Rh7 37. a4 Kd6 38. c3 Kc7 39. Rf8 Re7 40. Kc4 Kd6
+41. Ra8 Bg7 42. Kd3 Rf7 43. Bb5 Bf6 44. Ke4 Bg5 45. Rg8 Bc1
+46. Rg2 Re7+ 47. Kd3 Bf4 48. Rg8 Rh7 49. Rc8 Rc7 50. Rd8+ Ke7
+51. Rd4 Be5 52. Rg4 Bf6 53. Ke4 Rc5 54. Rg8 Re5+ 55. Kd3 Rd5+
+56. Kc2 Rd8 57. Rg2 Be5 58. Kb3 Rc8 59. Re2 Rc5 60. Ka2 Ke6
+61. Ba6 Rc7 62. Kb3 Rh7 63. Rd2 Rc7 64. Rd1 Rg7 65. Bc4+ Ke7
+66. Bd5 Kd6 67. Be4+ Kc7 68. Rf1 Re7 69. Ba8 Bg7 70. Kc4 Kb8
+71. Bd5 Rc7+ 72. Kb4 Rd7 73. Rf5 Re7 74. Rf2 Rd7 75. Bc6 Re7
+76. Rg2 Kc7 77. Bd5 Kd6 78. Bf3 Kc7 79. Kc4 Rf7 80. Bd5 Rf4+
+81. Kd3 Bf6 82. Be4 Kd6 83. Rg8 Rf2 84. Rf8 Ke6 85. b4 Rh2
+86. Rc8 Rh3+ 87. Kc2 Rh2+ 88. Kb3 Rh3 89. Rc7 Be5 90. Rc6+ Kd7
+91. Rc4 Re3 92. Bb7 Kd6 93. b5 Kd7 94. Bc8+ Ke7 95. Rc6 Kd8
+96. Bf5 Rf3 97. Bg6 Ke7 98. Be4 Re3 99. Rc4 Bxc3 100. Rxc3
+Rxe4 101. Rc7+ Kd6 102. Rxa7 Re3+ 103. Kc4 Re4+ 104. Kd3 Rh4
+1/2-1/2

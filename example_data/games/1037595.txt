@@ -1,0 +1,16 @@
+[Event "10, Montreal zt"]
+[Site "10, Montreal zt"]
+[Date "1981.05.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Peter Nurmi"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Ne2 d5 7.O-O
+cxd4 8.exd4 dxc4 9.Bxc4 Nbd7 10.Qd3 a6 11.a4 Nb6 12.Bb3 Bd7
+13.Bg5 Bc6 14.Bc2 g6 15.Rfd1 Be7 1/2-1/2

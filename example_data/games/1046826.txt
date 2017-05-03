@@ -1,0 +1,24 @@
+[Event "Lvov UUKRO"]
+[Site "Lvov <UKR>"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Irina Levitina"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.c4 e5 2.Nc3 d6 3.g3 f5 4.Bg2 Nf6 5.d4 Be7 6.dxe5 dxe5 7.Qb3
+c6 8.Nf3 e4 9.Ng5 h6 10.Nh3 O-O 11.Nf4 Qe8 12.h4 Qf7 13.Bd2
+Nbd7 14.Nd1 Ne5 15.Rc1 a5 16.Bc3 Bb4 17.O-O Bxc3 18.Qxc3 Re8
+19.f3 exf3 20.exf3 Bd7 21.Nf2 Re7 22.N2d3 Rae8 23.Rfe1 Nxd3
+24.Nxd3 Rxe1+ 25.Rxe1 Rxe1+ 26.Nxe1 f4 27.gxf4 Nh5 28.Nd3 Nxf4
+29.Nxf4 Qxf4 30.Qxa5 Qd4+ 31.Kh2 Qxh4+ 32.Kg1 Qd4+ 33.Kh2 Kh7
+34.b3 c5 35.Qd8 Qf4+ 36.Kg1 Qe3+ 37.Kh2 Qe5+ 38.Kg1 Bf5 39.Qb6
+Qe1+ 40.Kh2 Qe5+ 41.Kg1 h5 42.Qxb7 h4 43.Qd5 Qe3+ 44.Kh1 Qc1+
+45.Kh2 Qf4+ 46.Kh1 Qc1+ 47.Kh2 Qf4+ 48.Kh1 h3 49.Bf1 Kh6
+50.Qc6+ g6 51.Qa8 Qe5 52.a4 Qe1 53.Qf8+ Kg5 54.Qd8+ Kf4
+55.Qd6+ Kxf3 56.Kg1 Qf2+ 0-1

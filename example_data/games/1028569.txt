@@ -1,0 +1,19 @@
+[Event "USA op"]
+[Site "Chicago, IL USA"]
+[Date "1973.08.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "David C Taylor"]
+[Black "Arthur Bisguier"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 cxb2 6.Bxb2 Bb4+
+7.Nc3 d6 8.Qb3 Nh6 9.O-O-O Bxc3 10.Qxc3 f6 11.Rhe1 Bg4 12.e5
+fxe5 13.Bd5 Bxf3 14.gxf3 Qd7 15.Qb3 Rd8 16.Qxb7 Ne7 17.f4 Nxd5
+18.Qxd5 c6 19.Qb3 d5 20.Rxe5+ Kf7 21.Qc3 Rhg8 22.Rde1 Nf5
+23.Qh3 Nd6 24.Qxh7 Rb8 25.Re7+ Qxe7 26.Rxe7+ Kxe7 27.Bxg7 Nf7
+28.Qg6 Rxg7 29.Qxg7 Rh8 30.Qg3 1-0

@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "New York"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Vladimir Prosviriakov"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 d6 2.g3 Nf6 3.Bg2 Nbd7 4.e4 e5 5.Ne2 Be7 6.O-O O-O 7.h3
+Re8 8.c3 Bf8 9.Qc2 c5 10.d5 a6 11.a4 b6 12.Bg5 h6 13.Be3 Qc7
+14.b3 Rb8 15.Nd2 g6 16.Qd3 Bg7 17.b4 Nh5 18.Ra2 Rf8 19.g4 Nhf6
+20.Ng3 h5 21.gxh5 Nxh5 22.Nxh5 gxh5 23.Qe2 f5 24.exf5 Nf6
+25.a5 bxa5 26.bxc5 dxc5 27.Nc4 Bxf5 28.Rxa5 Ne4 29.Qxh5 Qd7
+30.Rxa6 Nxc3 31.Bxc5 Nxd5 32.Nxe5 Bxe5 33.Qg5+ Bg7 34.Rd6 Qe8
+35.Bxd5+ Kh8 36.Rh6+ Bh7 37.Rxh7+ Kxh7 38.Qh4+ Bh6 39.Be4+ Kg8
+40.Re1 Rf7 41.Qxh6 Qd7 42.Kh1 Rg7 43.Bd6 Qf7 44.Bh7+ 1-0

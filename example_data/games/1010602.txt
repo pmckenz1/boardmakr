@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Leonid Borodin"]
+[Black "Vasily Chichkin"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 d5 2. Nf3 Bg4 3. e3 e6 4. Be2 Nf6 5. O-O c5 6. b3 Nc6
+7. Bb2 Bd6 8. Nbd2 O-O 9. h3 Bf5 10. Nh4 Bg6 11. Nxg6 hxg6
+12. dxc5 Bxc5 13. Nf3 Qb6 14. a3 Ne4 15. Qd3 Be7 16. Rfd1 Rac8
+17. Qb5 Qc7 18. Rac1 a6 19. Qd3 Qb6 20. Ne1 Bf6 21. Bxf6 gxf6
+22. c4 Rfd8 23. Qb1 f5 24. cxd5 exd5 25. Qb2 f4 26. Nc2 Ne7
+27. Nd4 fxe3 28. fxe3 Qf6 29. Rf1 Qg5 30. Rf4 Rxc1+ 31. Qxc1
+Qe5 32. Qf1 Nd6 33. Qf3 Nef5 34. Kf2 Ne4+ 35. Ke1 Rc8 36. g4
+Nxd4 37. exd4 Rc1+ 0-1

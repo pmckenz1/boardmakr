@@ -1,0 +1,17 @@
+[Event "Prague -"]
+[Site "Prague -"]
+[Date "1902.??.??"]
+[EventDate "?"]
+[Round "-28160"]
+[Result "0-1"]
+[White "Boucek"]
+[Black "Oldrich Duras"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d3 d6 6.Bg5 Be6 7.Bb3
+Qd7 8.Bxf6 gxf6 9.Nh4 Bg4 10.Qd2 O-O-O 11.Kh1 Bh5 12.f4 Qg4
+13.g3 Rhg8 14.Qg2 Qxh4 15.gxh4 Rxg2 16.Kxg2 Rg8+ 17.Kh3 Bg4+
+18.Kg2 Be2 19.Kh1 Bf3+ 20.Rxf3 Rg1# 0-1

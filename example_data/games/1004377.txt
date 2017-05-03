@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Antonio C Sacconi"]
+[Black "Gyula Kluger"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. c4 Bf5 5. Nc3 g6 6. Nd2 g5
+7. e4 Bg6 8. Bd3 Nbd7 9. O-O a6 10. b3 Bg7 11. Bb2 Ne5 12. Bc2
+Qc7 13. a3 h5 14. Ra2 h4 15. Qa1 Bh5 16. Nd1 Nfd7 17. Ne3 Bf6
+18. Bd1 g4 19. Kh1 O-O-O 1/2-1/2

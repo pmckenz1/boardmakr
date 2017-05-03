@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "David Alexander Farndon"]
+[Black "Lim Chin Lee"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6
+7. b3 b6 8. Qc2 dxc4 9. bxc4 Bb7 10. Rd1 Qc8 11. Nc3 Rd8
+12. e4 Na6 13. e5 Ne8 14. Bg5 Qc7 15. Rac1 Rac8 16. Qe4 h6
+17. Bxe7 Qxe7 18. Qb1 Qb4 19. Qxb4 Nxb4 20. a3 Na6 21. Ne1 Rc7
+22. Rd3 Rcd7 23. Rcd1 Nb8 24. R3d2 Ba6 25. Bf1 c5 26. d5 Kf8
+27. f4 Nc6 28. Nf3 Ne7 29. d6 Nf5 30. Kf2 Bb7 31. Be2 g6
+32. g4 Nfg7 33. Nb5 Bc6 34. Ke3 f5 35. h3 fxg4 36. hxg4 h5
+37. Ng5 Rc8 38. Nc3 hxg4 39. Bxg4 Nf5+ 40. Bxf5 gxf5 41. Rh2
+Kg8 42. Nxe6 Ng7 43. Rg1 Re8 44. Nc7 Rc8 45. N3d5 Bxd5
+46. cxd5 Rcxc7 47. dxc7 Rxc7 48. d6 Rd7 49. Rhg2 Kf8 50. Rxg7
+Rxg7 51. Rxg7 Kxg7 52. d7 1-0

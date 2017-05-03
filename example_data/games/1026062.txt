@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Bern (Switzerland)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Sheila Jackson"]
+[Black "Gerardo F Barbero"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 c5 2.c3 d6 3.d4 Nf6 4.f3 Nbd7 5.Be3 g6 6.dxc5 dxc5 7.e5
+Nxe5 8.Qxd8+ Kxd8 9.Bxc5 Ned7 10.Bf2 Bh6 11.Na3 a6 12.Rd1 e6
+13.Bh4 g5 14.Bf2 Bg7 15.Nc4 Nd5 16.Ne2 Ke7 17.Nd4 N7f6 18.h4
+h6 19.hxg5 hxg5 20.Rxh8 Bxh8 21.Ne3 Bd7 22.c4 Nf4 23.g3 Ng6
+24.b3 Rc8 25.Ke2 Bg7 26.Bg2 b5 27.cxb5 axb5 28.Be1 Nh5 29.Bb4+
+Ke8 30.Kf2 Be5 31.Ne2 f5 32.g4 Nhf4 33.Bf1 Nxe2 34.Bxe2 Nf4
+35.Bf1 Bb8 36.gxf5 exf5 37.Ke1 Ba7 38.Nd5 Nxd5 39.Rxd5 Rc1+
+40.Rd1 Rxd1+ 41.Kxd1 Kf7 42.Bd3 g4 43.fxg4 fxg4 44.a4 bxa4
+45.bxa4 Bxa4+ 46.Ke2 Bc6 47.Bd6 Ke6 48.Bg3 Bf3+ 49.Kf1 1/2-1/2

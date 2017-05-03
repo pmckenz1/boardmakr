@@ -1,0 +1,24 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee NED"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lars Bo Hansen"]
+[Black "Roberto Cifuentes Parada"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5
+Bxc5 8.Qc2 Nc6 9.a3 Qa5 10.Nd2 Be7 11.Bg3 Bd7 12.Be2 Rac8
+13. O-O Qd8 14.cxd5 exd5 15.Nf3 a6 16.Rfd1 Qb6 17.Rac1 h6
+18.Qb1 Be6 19.b4 Qa7 20.Ne5 Rfd8 21.Bf3 a5 22.Nxc6 bxc6 23.Be5
+axb4 24.axb4 Nd7 25.Bg3 Nb6 26.Ne2 Qa4 27.b5 c5 28.Nf4 Bd7
+29.Bxd5 Qxb5 30.Bxf7+ Kxf7 31.Qg6+ Kg8 32.Nh5 Qb2 33.Rb1 Be8
+34.Rxd8 Rxd8 35.Qxe8+ Rxe8 36.Rxb2 Nc4 37.Rb8 Rxb8 38.Bxb8 Kf7
+39.Kf1 Na3 40.Ke2 c4 41.Be5 g5 42.g4 Nb5 43.h3 Bf8 44.Ng3 Ke6
+45.Bh8 Kd5 46.Nf5 Kc5 47.h4 gxh4 48.Nxh4 Kb4 49.Nf3 c3 50.Kd3
+Kb3 51.Ne1 Bb4 52.Nc2 Ba5 53.Be5 Kb2 54.f4 Nc7 55.f5 Na6
+56.Bd6 Bb6 57.e4 Bc5 58.Be5 Nb4+ 59.Nxb4 Bxb4 60.Kc4 1-0

@@ -1,0 +1,20 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Ivan Farago"]
+[Black "Andras Adorjan"]
+[ECO "D92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nf3 O-O 6.Rc1 dxc4 7.e3
+c5 8.Bxc4 cxd4 9.Nxd4 Nbd7 10.Nf3 a6 11.O-O b5 12.Bd5 Nxd5
+13.Qxd5 Ra7 14.Rfd1 Qb6 15.Qb3 Nf6 16.e4 Be6 17.Nd5 Qa5 18.Nd4
+Qa4 19.Qxa4 bxa4 20.Nxf6+ Bxf6 21.Nxe6 fxe6 22.e5 Bg7 23.g3
+Rb8 24.Rd4 Rxb2 25.Rxa4 Kf7 26.Rc8 Rb1+ 27.Kg2 Rd7 28.Rxa6 h6
+29.h4 Rb5 30.Rcc6 Bxe5 31.Bxh6 Rd6 32.Ra8 Bg7 33.Rxd6 exd6
+34.Ra7+ 1-0

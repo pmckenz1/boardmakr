@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.28"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Michael Mulyar"]
+[Black "Vladimir Grechikhin"]
+[ECO "A29"]
+[WhiteElo "2523"]
+[BlackElo "2202"]
+[PlyCount "78"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3
+Nc6 7. O-O Be7 8. Rb1 g5 9. d3 h5 10. b3 Be6 11. Bb2 Qd7
+12. d4 exd4 13. Nb5 O-O-O 14. Nfxd4 Nxd4 15. Nxd4 Bh3 16. Qc2
+Bxg2 17. Kxg2 Rhe8 18. e4 Bf6 19. Rfd1 Bxd4 20. Rxd4 Qe6
+21. Rc1 c6 22. Rcd1 Rxd4 23. Rxd4 h4 24. Qc5 hxg3 25. hxg3 g4
+26. Bc1 Qe5 27. Qxe5 Rxe5 28. Bf4 Re6 29. Rd6 Nd7 30. f3 gxf3+
+31. Kxf3 Rf6 32. Ke2 Re6 33. Kf3 Rf6 34. Kg4 Re6 35. Rd2 Nc5
+36. Rd4 Nd7 37. Rd6 Nc5 38. Rd4 Nd7 39. Rd1 Nc5 1-0

@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1852.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Adolf Anderssen"]
+[Black "Max Lange"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O
+Nf6 8.e5 d5 9.exf6 dxc4 10.fxg7 Rg8 11.Bg5 Qd5 12.Nbd2 Bf5
+13.Qa4 b5 14.Qa3 Bxc3 15.Rae1+ Kd7 16.Ne5+ Nxe5 17.Qe7+ Kc6
+18.Rxe5 Qd6 19.Qxd6+ cxd6 20.Rxf5 Bxd2 21.Bxd2 Rxg7 22.Rd1 Re8
+23.Kf1 Re5 24.Rf4 Reg5 25.Rxd4 Rxg2 26.Ke2 Rg1 27.Bb4 Rxd1
+28.Kxd1 Rg6 29.Rf4 Kb6 30.Rxf7 a5 31.Bd2 b4 32.Rxh7 Kb5
+33.Rb7+ 1-0

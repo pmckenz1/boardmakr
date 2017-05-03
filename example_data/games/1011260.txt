@@ -1,0 +1,28 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Dinara Khaziyeva"]
+[Black "Alexandra Lavrovsky"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5
+Bb4 7. Nd6+ Ke7 8. Bf4 e5 9. Nf5+ Kf8 10. Bg5 h6 11. Bxf6 Qxf6
+12. Ne3 Bxc3+ 13. bxc3 d6 14. Nd5 Qg5 15. Nc7 Rb8 16. Qxd6+
+Qe7 17. Qxe7+ Kxe7 18. Nd5+ Kf8 19. Bd3 g6 20. c4 Kg7 21. Kd2
+Be6 22. Rab1 f5 23. f3 Rhf8 24. c3 b6 25. Rhe1 f4 26. Kc2 Rfc8
+27. Red1 Na5 28. Rb4 Kf7 29. Be2 Rc6 30. Ra4 Ra8 31. Nb4 Rc5
+32. Nd3 Rc7 33. Nxe5+ Kg7 34. Rd6 Bf7 35. Rd4 Be8 36. Rb4 b5
+37. Rd5 Nxc4 38. Bxc4 bxc4 39. Rd4 Bf7 40. Ng4 h5 41. Nf2 Re8
+42. Nh3 a5 43. Rb5 Ra8 44. Nxf4 a4 45. Rd6 a3 46. Rxg6+ Bxg6
+47. Ne6+ Kg8 48. Nxc7 Ra7 49. Nd5 Bf7 50. Nb4 Be8 51. Rb6 Rg7
+52. g3 h4 53. Rb8 hxg3 54. hxg3 Kf8 55. Kd2 Rxg3 56. Ke3 Rg2
+57. Ra8 Ke7 58. Rxa3 Rg3 59. Ra7+ Kd6 60. Ra6+ Kc5 61. Ra5+
+Kb6 62. Rf5 Bg6 63. Kf4 Rg1 64. Rg5 Rxg5 65. Kxg5 Be8 66. e5
+Kc5 67. f4 Bd7 68. f5 Be8 69. f6 Bf7 70. Kf5 Kb6 71. e6 Be8
+72. f7 Bxf7 73. exf7 1-0

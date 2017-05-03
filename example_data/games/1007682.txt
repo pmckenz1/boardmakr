@@ -1,0 +1,22 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.01"]
+[EventDate "1927.06.26"]
+[Round "6"]
+[Result "0-1"]
+[White "Alfred Brinckmann"]
+[Black "Hans Mueller"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. f4 e6 2. e3 d5 3. Nf3 c5 4. b3 a6 5. Bb2 Nf6 6. a4 b6
+7. Be2 Nbd7 8. O-O Be7 9. d3 O-O 10. Nbd2 Ng4 11. Qe1 Nxe3
+12. Qg3 Bf6 13. Ne5 Nxf1 14. Rxf1 Nxe5 15. fxe5 Bg5 16. Nf3
+Be3+ 17. Kh1 d4 18. h4 f5 19. Bc1 Bxc1 20. Rxc1 Bb7 21. Ng5
+Bd5 22. Bf3 Ra7 23. Nh3 Bb7 24. Nf4 Bc8 25. Ra1 Qc7 26. Qe1
+Qe7 27. Qg3 Qc7 28. Qe1 Kh8 29. Qg3 g6 30. Kg1 Rg8 31. Kf2 b5
+32. Rh1 Qg7 33. Qh2 Qh6 34. a5 Rc7 35. g3 c4 36. bxc4 bxc4
+37. Qg2 cxd3 38. cxd3 Rc2+ 39. Be2 g5 40. hxg5 Qxg5 41. Rh5
+Qxf4+ 42. gxf4 Rxe2+ 43. Kf3 Bb7+ 0-1

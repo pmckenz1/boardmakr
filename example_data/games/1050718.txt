@@ -1,0 +1,23 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Aivars Gipslis"]
+[Black "Isakas Vistaneckis"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.d3 Nd7 8.Nbd2 O-O 9.Nc4 f6 10.Nh4 Nc5 11.f4 exf4 12.Rxf4 g5
+13.Nf5 Bxf5 14.Rxf5 Nxe4 15.Qf3 Nd6 16.Nxd6 Bxd6 17.Bd2 Be5
+18.c3 c5 19.Rf1 Kg7 20.h4 gxh4 21.Rh5 Kh8 22.Rxh7+ Kxh7
+23.Qh5+ Kg7 24.Bh6+ Kh8 25.Bxf8 Kg8 26.Bh6+ Qd7 27.Qg6+ Kh8
+28.Bg5 fxg5 29.Rf7 Qxf7 30.Qxf7 Bf4 31.Kf2 Rg8 32.Kf3 b6
+33.Kg4 Rg7 34.Qf8+ Kh7 35.Kh5 Bd6 36.Qf5+ Kg8 37.Qc8+ Kf7
+38.Qxa6 Kf6 39.Qa8 Rh7+ 40.Kg4 h3 41.Qf3+ Bf4 42.Qc6+ Bd6
+43.gxh3 Rh4+ 44.Kf3 Rxh3+ 45.Ke4 Rh4+ 46.Kd5 Rh2 47.Qd7 Rxb2
+48.Qe6+ Kg7 49.Qg4 Kf6 50.Qf3+ Bf4 1/2-1/2

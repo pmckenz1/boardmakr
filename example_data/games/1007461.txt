@@ -1,0 +1,24 @@
+[Event "Dresden"]
+[Site "Dresden GER"]
+[Date "1926.04.04"]
+[EventDate "1926.04.04"]
+[Round "1"]
+[Result "0-1"]
+[White "Lajos Steiner"]
+[Black "Paul F Johner"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Nc6 12. Be3
+O-O 13. Nbd2 Nd8 14. Nf1 Kh8 15. Ng3 g6 16. Qd2 Ne6 17. Rad1
+Bb7 18. d5 Ng7 19. Nxe5 dxe5 20. d6 Bxd6 21. Qxd6 Qxd6
+22. Rxd6 Ne6 23. Bxc5 Nxc5 24. Rxf6 Rad8 25. Rd1 Rxd1+
+26. Bxd1 Rd8 27. Bb3 Nxb3 28. axb3 Rd1+ 29. Kh2 Kg7 30. Rb6
+Bc8 31. Rc6 Be6 32. Rxa6 Rd2 33. Rb6 Rxf2 34. Rxb5 h5 35. h4
+Kf6 36. Kg1 Rf4 37. Rb4 Rxh4 38. Nf1 Rf4 39. Nd2 h4 40. c4 g5
+41. c5 g4 42. c6 Ke7 43. Rb6 g3 44. c7 Kd7 45. Nf3 Kxc7
+46. Rb5 f6 47. Ra5 Rxe4 48. Ra4 Re2 49. Rxh4 e4 50. Rh7+ Kd6
+51. Rg7 exf3 0-1

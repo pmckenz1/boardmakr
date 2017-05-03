@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.28"]
+[EventDate "1927.06.26"]
+[Round "3"]
+[Result "0-1"]
+[White "Hans Mueller"]
+[Black "Sandor Takacs"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Qc2 c5 6. e4 cxd4
+7. Nxd4 Nc6 8. Nb3 Ne5 9. Bf4 Ng6 10. Bg3 Bb4 11. f3 O-O
+12. a3 Bxc3+ 13. Qxc3 d5 14. Rd1 Qe7 15. c5 bxc5 16. Qxc5 dxe4
+17. Bd6 Qe8 18. Bb5 Qc8 19. f4 Rd8 20. O-O Bd5 21. Bc7 Rd7
+22. Bxd7 Nxd7 23. Qd6 Nf6 24. Rxd5 Nxd5 25. Rc1 Ngxf4 26. Nd4
+Qb7 27. b4 Rc8 28. Qc6 Qxc6 29. Nxc6 Ne2+ 0-1

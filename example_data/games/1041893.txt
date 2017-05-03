@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1920.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hendrik van Hartingsvelt"]
+[Black "Max Euwe"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4
+7. Nxd4 Bc5 8. Be3 Bd7 9. Bxc6 bxc6 10. c3 Rb8 11. Qc2 Qe7
+12. O-O Qxe5 13. Nd2 O-O 14. Rae1 Rfe8 15. N4f3 Qh5 16. Bxc5
+Nxc5 17. b4 Bf5 18. Rxe8+ Rxe8 19. Qd1 Nd3 20. Qa4 Re6
+21. Qxa7 h6 22. Qxc7 Be4 23. Qd8+ Kh7 24. Qh4 Bxf3 25. Nxf3
+Qxh4 26. Nxh4 Re2 27. a4 Rc2 28. a5 Rxc3 29. Ra1 Nxb4 30. a6
+Nxa6 31. Rxa6 Rc1# 0-1

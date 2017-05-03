@@ -1,0 +1,16 @@
+[Event "It (cat.8), New York (USA)"]
+[Site "It (cat.8), New York (USA)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Joshua Waitzkin"]
+[Black "Maurice Ashley"]
+[ECO "A74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6
+7. Nf3 Bg7 8. Be2 O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7
+12. Nc4 Nb6 13. Nd2 Nbd7 14. Nc4 Nb6 1/2-1/2

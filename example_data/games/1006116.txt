@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.08"]
+[EventDate "2000.04.05"]
+[Round "4"]
+[Result "0-1"]
+[White "Stefan Arnalds"]
+[Black "Halldor B Halldorsson"]
+[ECO "D89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 Bg4
+12. f3 cxd4 13. cxd4 Be6 14. d5 Bxa1 15. Qxa1 f6 16. Rb1 b6
+17. Qd4 Bf7 18. Bh6 Re8 19. Bb5 e5 20. Qf2 Re7 21. f4 Qd6
+22. Rc1 Rc7 23. fxe5 Rxc1+ 24. Bxc1 Qxe5 25. Ng3 f5 26. Bb2
+Qd6 27. exf5 Bxd5 28. fxg6 hxg6 29. Bd3 Rf8 30. Qd2 Qc5+
+31. Kh1 Qf2 32. Qxf2 Rxf2 0-1

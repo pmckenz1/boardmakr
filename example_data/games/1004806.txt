@@ -1,0 +1,18 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Isaak Appel"]
+[Black "Vasja Pirc"]
+[ECO "E48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Qc2 c5
+7. a3 dxc4 8. Bxc4 cxd4 9. axb4 dxc3 10. bxc3 Qc7 11. Bb3 b6
+12. Ne2 Bb7 13. f3 Nc6 14. O-O Rac8 15. Qb1 a5 16. Kh1 Ba6
+17. Re1 Ne5 18. bxa5 Nd3 19. Ba3 Nxe1 20. Bxf8 Nxf3 21. gxf3
+Bxe2 22. Bb4 Bxf3+ 23. Kg1 Ng4 24. Qb2 bxa5 25. Rxa5 Rd8 0-1

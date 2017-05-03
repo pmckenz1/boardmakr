@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "Biel SUI"]
+[Date "1994.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexander Chernin"]
+[Black "Utut Adianto"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 O-O 7.Qc2
+d5 8.cxd5 exd5 9.O-O Na6 10.Rd1 Re8 11.Ne5 c5 12.Be3 Qc8
+13.Rac1 Qe6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.07"]
+[EventDate "1907.??.??"]
+[Round "14"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Jacques Mieses"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 Nc6 6. Nge2
+Bg4 7. f3 Bh5 8. g4 O-O-O 9. gxh5 Ne5 10. Bd3 Nxf3+ 11. Kf2
+Nxd4 12. Nxd4 Rxd4 13. Nb5 Rd7 14. Bd2 Ne4+ 15. Ke1 Qb6
+16. Bxe4 Qxb5 17. Qf3 e6 18. Qb3 Qa6 19. Bc3 Bc5 20. Bxg7 Rhd8
+21. Bf6 Rg8 22. Rd1 Rxd1+ 23. Kxd1 Qd6+ 24. Qd3 Qf4 25. Qf3
+Rg4 26. Bxb7+ Kb8 27. Rf1 Qb4 28. Ba6 Re4 29. Qd3 Bd6 30. a3
+1-0

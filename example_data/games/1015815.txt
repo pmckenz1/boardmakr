@@ -1,0 +1,18 @@
+[Event "Amsterdam IBM"]
+[Site "Amsterdam NED"]
+[Date "1977.07.06"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Lubomir Kavalek"]
+[Black "Andras Adorjan"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+a6 8.b3 Rb8 9.Bb2 b5 10.cxb5 axb5 11.d5 Na5 12.Qd2 b4 13.Nd1
+c5 14.dxc6 Nxc6 15.Ne1 Bb7 16.Ne3 e6 17.Nd3 Ba8 18.Nc4 d5
+19.Nce5 Ne4 20.Bxe4 dxe4 21.Nxc6 Bxc6 22.Bxg7 Kxg7 23.Rac1
+exd3 24.Rxc6 dxe2 25.Qxe2 1/2-1/2

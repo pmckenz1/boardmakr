@@ -1,0 +1,20 @@
+[Event "Szekes Fehervar"]
+[Site "Szekes Fehervar"]
+[Date "1898.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gyozo Victor Regoczi Exner"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Bd3 Bd6 7.O-O
+O-O 8.e4 dxe4 9.Nxe4 Nxe4 10.Bxe4 c5 11.d5 Nf6 12.Qc2 exd5
+13.cxd5 Bg4 14.h3 Bh5 15.Ng5 Nxe4 16.Nxe4 Bg6 17.f3 Qc7 18.Be3
+b6 19.a4 Bh2+ 20.Kh1 f5 21.Ng5 f4 22.Qc4 Qe5 23.Bf2 Qxg5
+24.Kxh2 Bf7 25.Rfd1 Rad8 26.Qa6 Rd6 27.a5 Rg6 28.Rg1 Qxd5
+29.Qxa7 Qd2 30.Be1 Qxb2 31.axb6 Be6 32.b7 Bxh3 33.Kxh3 Rh6+
+34.Bh4 Rxh4+ 35.Kxh4 Qf6+ 0-1

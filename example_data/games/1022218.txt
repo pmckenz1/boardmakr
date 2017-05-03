@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Hartberg AUT"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Michael Gerhold"]
+[Black "Alexander Baburin"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O
+b5 8.Bb3 Bb7 9.Bxe6 fxe6 10.Nxe6 Qd7 11.Nd5 Bxd5 12.exd5 Kf7
+13.b3 Be7 14.Ng5+ Kg8 15.Re1 h6 16.Ne6 Kf7 17.Bb2 a5 18.Qd3
+Na6 19.Nf4 Nc5 20.Qg6+ Kg8 21.Re3 Rf8 22.Rae1 Bd8 23.Qg3 Qf5
+24.Ng6 Nh5 25.Ne7+ Bxe7 26.Rxe7 Rh7 27.Qh4 Nf4 28.Qg3 Nh5
+29.Qh4 Nf6 30.Qg3 Ncd7 31.c4 bxc4 32.bxc4 Nh5 33.Qh4 Ndf6
+34.h3 Nf4 35.Bd4 Ng6 36.Qg3 Nxe7 37.Rxe7 Rf7 38.Qxd6 Rxe7
+39.Qxe7 Qd7 40.Qe5 Kf7 41.a3 h5 42.f4 Rh8 43.f5 Re8 44.Qe6+
+Qxe6 45.fxe6 Kg6 46.Kf2 Rc8 47.Ke3 Rxc4 48.d6 Rc6 49.Be5 Rc5
+50.Kf4 a4 51.d7 Nxd7 52.exd7 Rd5 53.Ke4 Rxd7 54.h4 Kf7 55.Bd4
+Ke6 56.g3 g6 57.Bc5 Rc7 58.Kd4 Kf5 59.Kc4 Kg4 60.Kb4 Rxc5 0-1

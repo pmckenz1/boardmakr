@@ -1,0 +1,17 @@
+[Event "06, Tbilisi"]
+[Site "Tbilisi GEO"]
+[Date "1978.12.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Vitaly Tseshkovsky"]
+[Black "Vladimir Bagirov"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 Ngf6 12.O-O-O e6
+13.Ne4 O-O-O 14.g3 Nc5 15.Nxc5 Bxc5 16.Kb1 Rhe8 17.c4 Bd6
+18.Qc2 c5 19.a3 Qc6 20.Qb3 Bc7 21.Rh4 Re7 22.Qe3 Red7 1/2-1/2

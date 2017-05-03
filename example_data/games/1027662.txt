@@ -1,0 +1,21 @@
+[Event "Chess Olympiad Final-A"]
+[Site "Lugano SUI"]
+[Date "1968.10.29"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Miroslav Filip"]
+[Black "Istvan Bilek"]
+[ECO "E66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nc3 O-O 5.Nf3 c5 6.O-O Nc6 7.d4
+d6 8.d5 Na5 9.Nd2 e6 10.Qc2 exd5 11.cxd5 a6 12.b3 b5 13.Bb2
+Re8 14.e4 Ra7 15.Nd1 Nh5 16.Ne3 Rae7 17.a4 Bd4 18.axb5 axb5
+19.b4 Nb7 20.Bxd4 cxd4 21.Nd1 f5 22.Qd3 fxe4 23.Qxd4 Bf5
+24.Ne3 Qd7 25.Ra7 Qc8 26.Rfa1 Nd8 27.Rxe7 Rxe7 28.Bxe4 Nf7
+29.Bxf5 gxf5 30.Nxf5 Qxf5 31.Ra8+ Nd8 32.Rxd8+ Kf7 33.Rxd6 Nf6
+34.Kg2 h5 35.Nf3 Re2 36.h4 Ke7 37.Rc6 Nxd5 38.Rc5 Ke6 39.Ng5+
+Kd6 40.Rxb5 1-0

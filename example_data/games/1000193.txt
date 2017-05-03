@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.28"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Rusudan Goletiani"]
+[Black "Robert Olsen"]
+[ECO "A04"]
+[WhiteElo "2425"]
+[BlackElo "2130"]
+[PlyCount "65"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. e3 O-O 5. Be2 c5 6. c4 d5
+7. cxd5 Nxd5 8. Bxg7 Kxg7 9. Qc1 b6 10. O-O Bb7 11. Qb2+ Kg8
+12. d4 cxd4 13. Nxd4 Nd7 14. Bf3 Ne5 15. Be4 Qb8 16. Nd2 f5
+17. Bf3 Nxf3+ 18. N4xf3 Nf6 19. Rac1 Qd8 20. Rfd1 Rc8 21. Nc4
+Qe8 22. Nce5 Bxf3 23. Nxf3 Rxc1 24. Rxc1 Qd7 25. Ne5 Qd6
+26. h3 Rd8 27. Qc3 Ne8 28. f4 Qd5 29. Kh2 e6 30. Qb4 Qd6
+31. Qa4 Qd2 32. Qxa7 Nd6 33. Rc7 1-0

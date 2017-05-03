@@ -1,0 +1,22 @@
+[Event "Mar del Plata"]
+[Site "06"]
+[Date "1947.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marcos Luckis"]
+[Black "Erich Eliskases"]
+[ECO "A62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Bg2 g6 7.Nc3
+Bg7 8.Nf3 O-O 9.O-O Bd7 10.a4 Na6 11.Nd2 Nb4 12.Nc4 Ne8 13.Bf4
+Qe7 14.Qd2 Rd8 15.Rfe1 Bc8 16.e4 f6 17.Na2 Nxa2 18.Rxa2 Nc7
+19.h4 Na6 20.Ra3 Rfe8 21.Raa1 Bf8 22.Na3 Nb4 23.Bf1 Qg7 24.Nc2
+Nxc2 25.Qxc2 g5 26.hxg5 fxg5 27.Bd2 Be7 28.Ba5 b6 29.Bc3 Bf6
+30.a5 Rf8 31.axb6 axb6 32.Ra3 Rf7 33.Bxf6 Rxf6 34.Rd1 Rdf8
+35.Rd2 h5 36.Qb3 g4 37.e5 Rf3 38.Qxb6 Qxe5 39.Rxf3 gxf3 40.Qb3
+h4 41.Qd3 Qg5 42.Kh2 hxg3 43.fxg3 Bf5 44.Qc3 Rf7 45.Rf2 Rh7+
+46.Kg1 Qxg3+ 47.Rg2 f2 0-1

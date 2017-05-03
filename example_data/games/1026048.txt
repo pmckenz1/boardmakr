@@ -1,0 +1,19 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Alfonso Romero Holmes"]
+[Black "Gerardo F Barbero"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f3 e5 7.Nde2
+Be7 8.Be3 Be6 9.Nd5 Bxd5 10.exd5 Qa5+ 11.Nc3 Nb8 12.Bc4 O-O
+13.O-O Nbd7 14.a3 Rac8 15.Ba2 a6 16.Kh1 Qc7 17.a4 Ne8 18.Bb3
+f5 19.a5 Nef6 20.Na4 Kh8 21.c4 e4 22.Nb6 Nxb6 23.Bxb6 Qb8
+24.Ba2 Bd8 25.b4 Bxb6 26.axb6 e3 27.Qd4 f4 28.c5 Nd7 29.Rac1
+a5 30.c6 bxc6 31.dxc6 Nxb6 32.bxa5 Na8 33.Rb1 1-0

@@ -1,0 +1,23 @@
+[Event "Mar del Plata (Argentina)"]
+[Site "Mar del Plata (Argentina)"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Julio Bolbochan"]
+[Black "Erich Eliskases"]
+[ECO "D67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.Ne4 N5f6 12.Ng3 e5
+13.O-O exd4 14.Qxd4 Nb6 15.Bb3 Be6 16.e4 Rad8 17.Qe3 Rfe8
+18.h3 Qb4 19.Rfe1 Bxb3 20.axb3 Nbd5 21.Qg5 h6 22.Qh4 Ne7 23.e5
+Qxh4 24.Nxh4 Nfd5 25.Re4 a5 26.f4 Nb4 27.f5 Nd3 28.Rc2 Nd5
+29.Rce2 N5f4 30.R2e3 g5 31.Nf3 Rd5 32.Ne2 Nxe2+ 33.Rxe2 Nc5
+34.R4e3 Kf8 35.Kh2 Red8 36.Kg3 Rd3 37.h4 Nxb3 38.hxg5 hxg5
+39.Kg4 Rxe3 40.Rxe3 Nd2 41.Nxg5 Rd4+ 42.Kh5 Nc4 43.Re1 Nxb2
+44.e6 Nd3 45.Nh7+ Ke8 46.Nf6+ Ke7 47.Ng8+ Ke8 48.Nf6+ Ke7
+1/2-1/2

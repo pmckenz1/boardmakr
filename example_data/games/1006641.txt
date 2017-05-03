@@ -1,0 +1,16 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.06"]
+[EventDate "1920.08.02"]
+[Round "4"]
+[Result "1-0"]
+[White "Ernst Jacobson"]
+[Black "Adolf Georg Olland"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5 5.fxe5 dxe5 6.d4 exd4 7.Bc4
+fxe4 8.Ne5 Qh4+ 9.g3 Qh3 10.cxd4 Bd6 11.Qb3 Bxe5 12.dxe5 Ne7
+13.Bf7+ Kd8 14.e6 Qf5 15.Nc3 Nbc6 16.Qd1+ 1-0

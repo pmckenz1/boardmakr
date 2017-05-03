@@ -1,0 +1,16 @@
+[Event "Rubinstein Memorial 8th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1970.08.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Petar Smederevac"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Ng8 5.Ndf3 b6 6.Bg5 Qd7 7.h4 c5
+8.c3 cxd4 9.cxd4 Bb4+ 10.Bd2 Bxd2+ 11.Qxd2 Ne7 12.Nh3 Ba6
+13.Bxa6 Nxa6 14.O-O Rc8 1/2-1/2

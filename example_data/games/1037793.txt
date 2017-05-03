@@ -1,0 +1,21 @@
+[Event "08, Moscow olm CAN-CUB"]
+[Site "08, Moscow olm CAN-CUB"]
+[Date "1994.12.09"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Walter Arencibia"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e6 2.Qe2 Nc6 3.Qe3 e5 4.Bc4 Nd4 5.Kd1 Nf6 6.d3 b5 7.Bb3
+a5 8.c3 Nxb3 9.axb3 d5 10.Kc2 Bd6 11.Ne2 O-O 12.Ng3 c5 13.c4
+d4 14.Qe2 bxc4 15.bxc4 Re8 16.h4 Qb6 17.h5 a4 18.Ra3 Re7
+19.Rh4 Rb7 20.Kd1 Qd8 21.Rh1 Bd7 22.Nf5 Bxf5 23.exf5 Qb8 24.f3
+h6 25.Qc2 e4 26.dxe4 Bf4 27.Nd2 Rb4 28.Nf1 Nd7 29.Rh4 Bxc1
+30.Kxc1 Qd8 31.g3 Qa5 32.Nd2 Rab8 33.b3 Qc7 34.f4 axb3 35.Rxb3
+Qa5 36.Rxb4 Rxb4 37.Kd1 Qa3 38.Rh3 Qe3 39.Kc1 d3 40.Qd1 Qd4
+0-1

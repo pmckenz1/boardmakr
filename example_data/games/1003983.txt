@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "Paul F Johner"]
+[Black "Geza Nagy"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 e6 5. Nbd2 Nbd7 6. Bd3 Be7
+7. O-O O-O 8. e4 dxe4 9. Nxe4 Nxe4 10. Bxe4 Bf6 11. Qc2 h6
+12. Bf4 Re8 13. Ne5 a5 14. Rad1 Bg5 15. Bxg5 Qxg5 16. f4 Qe7
+17. Rfe1 Nf8 18. c5 Rd8 19. Nc4 Bd7 20. Nd6 Be8 21. f5 Rxd6
+22. cxd6 Qxd6 23. fxe6 Nxe6 24. d5 cxd5 25. Bxd5 Bd7 26. Qf2
+1-0

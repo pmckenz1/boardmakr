@@ -1,0 +1,19 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.07.01"]
+[EventDate "1930.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Reginald Pryce Michell"]
+[Black "Ernst Gruenfeld"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. exd6 exd6 6. Bd3
+Be7 7. O-O O-O 8. Nbd2 N8d7 9. Ne4 Nf6 10. Ng3 Re8 11. c4 c6
+12. Qc2 g6 13. h3 Bf8 14. Bg5 Bg7 15. Ne4 d5 16. Nxf6+ Bxf6
+17. Bxf6 Qxf6 18. c5 Nd7 19. Rfe1 Rd8 20. b4 Nf8 21. Ne5 Ne6
+22. Qc3 Qf4 23. Nf3 Bd7 24. a4 f6 25. Bf1 Re8 26. b5 Ng7
+27. bxc6 bxc6 28. Rab1 Rxe1 29. Rxe1 Qc7 30. Rb1 Rb8 1/2-1/2

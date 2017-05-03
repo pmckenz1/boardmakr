@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Pawel Stempin"]
+[Black "Andras Adorjan"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e3 Be7 5.Nbd2 b6 6.c3 Bb7 7.Bd3
+Nc6 8.O-O O-O 9.Re1 cxd4 10.cxd4 Rc8 11.a3 Nd5 12.Bxe7 Ncxe7
+13.Nc4 Qc7 14.Rc1 Nf6 15.Ncd2 Qb8 1/2-1/2

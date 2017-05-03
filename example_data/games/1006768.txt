@@ -1,0 +1,25 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.09"]
+[EventDate "1920.08.02"]
+[Round "6"]
+[Result "1-0"]
+[White "Axel Martinius Erichsen"]
+[Black "Jacob Antoni Brekke"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Be7 4.Bg2 Nc6 5.d3 d6 6.f4 exf4 7.Bxf4
+O-O 8.Nf3 Ne5 9.Qd2 Ng6 10.e4 c6 11.O-O-O a6 12.h4 Nxf4
+13.gxf4 Nh5 14.Rdg1 f5 15.e5 b5 16.Nd4 Bd7 17.Nxc6 Bxc6
+18.Bxc6 Rb8 19.Bf3 Nxf4 20.Qxf4 dxe5 21.Qxe5 Bf6 22.Qd5+ Kh8
+23.Qxd8 Rfxd8 24.Bd5 Rbc8 25.Kd2 bxc4 26.Be6 Rb8 27.Rb1 Rxd3+
+28.Kc2 Rf3 29.Rbf1 Re3 30.Bxc4 g6 31.h5 Kg7 32.hxg6 hxg6
+33.Rd1 Be5 34.Rd7+ Kf8 35.Rhh7 f4 36.Rhf7+ Ke8 37.Rde7+ Kd8
+38.Rxe5 Rxe5 39.Rxf4 Rb6 40.Nd5 Rd6 41.Rd4 g5 42.Nb4 Rxd4
+43.Nc6+ Kc7 44.Nxd4 a5 45.Be2 Kb6 46.Kd3 Kc5 47.Bf3 Re8 48.Ne2
+Rb8 49.Nc3 Kd6 50.b3 Ke5 51.Ke3 Rc8 52.Ne4 Rc2 53.a4 Rb2
+54.Nd2 Kf5 55.Kd3 Kf4 56.Bb7 g4 57.Kc3 Ra2 58.Nc4 Rf2 59.Nxa5
+Rf3+ 60.Bxf3 Kxf3 61.Nc6 g3 62.Nd4+ Kf2 63.Kd2 g2 64.Ne2 1-0

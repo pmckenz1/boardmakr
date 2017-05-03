@@ -1,0 +1,19 @@
+[Event "German Championship"]
+[Site "Bad Oeynhausen GER"]
+[Date "1939.07.10"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Wilfried Lange"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.d5
+Na5 8.Qd3 b6 9.b4 Nb7 10.Rb1 Bf5 11.e4 Bd7 12.O-O Qc8 13.Bb2
+e5 14.dxe6 Bxe6 15.Nd5 Qd8 16.Nd4 Nxd5 17.cxd5 Bd7 18.Rfc1 a5
+19.a3 axb4 20.axb4 Ra4 21.Nc6 Qe8 22.Bxg7 Kxg7 23.Qc3+ f6
+24.Nd4 Rf7 25.Qxc7 Nc5 26.Qxd6 Nxe4 27.Ne6+ Bxe6 28.dxe6 Re7
+29.Rc7 1-0

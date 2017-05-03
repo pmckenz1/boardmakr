@@ -1,0 +1,23 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.12"]
+[EventDate "2000.04.05"]
+[Round "8"]
+[Result "0-1"]
+[White "Juergen Kleinert"]
+[Black "Arnar Gunnarsson"]
+[ECO "C25"]
+[WhiteElo "2188"]
+[BlackElo "2227"]
+[PlyCount "92"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 d6 4. d3 Be6 5. Bxe6 fxe6 6. Qh5+
+g6 7. Qh3 Qf6 8. Nf3 h6 9. Be3 Bb6 10. Bxb6 axb6 11. Nb5 Na6
+12. d4 exd4 13. Nfxd4 e5 14. Ne2 c6 15. Na3 b5 16. O-O Nc5
+17. Qe3 Qg5 18. f4 exf4 19. Nxf4 Ne7 20. Rae1 Qe5 21. b4 Ne6
+22. Nxe6 Qxe6 23. c4 bxc4 24. Qc3 Rf8 25. Rxf8+ Kxf8 26. Rf1+
+Kg8 27. Qxc4 d5 28. exd5 Nxd5 29. Nc2 Rf8 30. Rxf8+ Kxf8
+31. Qc5+ Kf7 32. Qf2+ Ke7 33. h3 Qe5 34. Qh4+ Kd7 35. Qxh6 Nf4
+36. Qh4 Qe4 37. Qf2 Kc7 38. Nd4 Qxd4 39. Qxd4 Ne2+ 40. Kf2
+Nxd4 41. g4 Kd6 42. h4 Ke6 43. Ke3 Nc2+ 44. Kf4 Nxb4 45. h5
+gxh5 46. gxh5 Kf6 0-1

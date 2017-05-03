@@ -1,0 +1,16 @@
+[Event "09, New York op"]
+[Site "09, New York op"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Patrick Wolff"]
+[Black "Joel Benjamin"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 Nc6 2.Nf3 d6 3.d4 Nf6 4.Nc3 Bg4 5.d5 Nb8 6.Be2 g6 7.O-O
+Bg7 8.a4 O-O 9.a5 c6 10.Be3 Qc7 11.h3 Bxf3 12.Bxf3 Rc8 13.Be2
+Qd8 14.f4 cxd5 1/2-1/2

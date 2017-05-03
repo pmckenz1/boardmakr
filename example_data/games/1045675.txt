@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "1984.07.28"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Ian Rogers"]
+[Black "Lubomir Ftacnik"]
+[ECO "D92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4
+7. e3 Be6 8. Ng5 Bd5 9. e4 h6 10. exd5 hxg5 11. Bxg5 Nxd5
+12. Bxc4 Nb6 13. Bb3 Nc6 14. d5 Nd4 15. O-O Qd7 16. a3 Rfe8
+17. Ba2 Rad8 18. Re1 Nb5 19. Nxb5 Qxb5 20. Rxc7 Nxd5 21. Qf3
+Qa5 22. Rec1 Bxb2 23. R7c5 Qxa3 24. Bxd5 Qxf3 25. Bxf3 Bxc1
+26. Rxc1 Rd7 27. h4 Ra8 28. Bg4 e6 29. Bf6 a5 30. Bd1 Rd2
+31. g4 b5 32. Bf3 Rb8 33. Rc5 a4 34. Be5 Rdd8 35. Bxb8 1/2-1/2

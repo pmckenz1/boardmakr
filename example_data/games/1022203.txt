@@ -1,0 +1,16 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Zoltan Almasi"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 b6 6.e4 d5 7.e5 Ne4
+8.Bd3 Bb7 9.O-O Bxc3 10.bxc3 c5 11.cxd5 exd5 12.dxc5 Nd7 13.c6
+Bxc6 14.Nd4 Nxe5 15.Nxc6 1/2-1/2

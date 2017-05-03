@@ -1,0 +1,24 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.26"]
+[EventDate "1911.08.21"]
+[Round "5"]
+[Result "1-0"]
+[White "Borislav Kostic"]
+[Black "Hugo Suechting"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2
+Bb4 8.Qc2 O-O 9.Bxf6 Nxf6 10.Bd3 Re8 11.O-O e5 12.cxd5 Bxc3
+13.Nc4 Qd8 14.bxc3 e4 15.Be2 cxd5 16.Ne5 Nd7 17.Nxd7 Bxd7
+18.c4 Bc6 19.Qb3 Qd7 20.a4 Rec8 21.a5 Rab8 22.h3 h6 23.Bg4 f5
+24.Be2 Kh8 25.Rfc1 Rf8 26.g3 g5 27.cxd5 Bxd5 28.Qb5 Qxb5
+29.Bxb5 Rbc8 30.Bd7 Rcd8 31.Bb5 a6 32.Be2 Rc8 33.Kf1 Kg7
+34.Ke1 Kf7 35.Kd2 Ke7 36.Rxc8 Rxc8 37.Rb1 Rd8 38.Rc1 Be6
+39.Rc5 Rd5 40.Kc3 Kd6 41.Bc4 Rxc5 42.dxc5 Kd7 43.c6 bxc6
+44.Bxa6 Kd6 45.Bc4 Bd7 46.a6 c5 47.a7 Bc6 48.Bb5 Bd5 49.Be8
+Ke7 50.Bg6 Kf6 51.Bh7 Ke5 52.Bg8 Bc6 53.Kc4 Kd6 54.Bf7 Bb7
+55.Kb5 Bc6+ 56.Kb6 Ba8 57.Bc4 1-0

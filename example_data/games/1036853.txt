@@ -1,0 +1,17 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.13"]
+[EventDate "1904.04.25"]
+[Round "12.5"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Albert Hodges"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.Bb5 a6 5.Bxc6 bxc6 6.d3 d5 7.O-O
+Qc7 8.Qe2 Be7 9.e5 a5 10.Na4 Ba6 11.c4 h5 12.b3 Nh6 13.Ba3 Qa7
+14.cxd5 cxd5 15.Qc2 O-O 16.Rac1 Rfc8 17.Bxc5 Bb5 18.Bxa7 Rxc2
+19.Rxc2 Bxd3 20.Rc7 Bd8 21.Rb7 Bxf1 22.Kxf1 1-0

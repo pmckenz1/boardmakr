@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1903.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Allies"]
+[Black "Mikhail Chigorin"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5
+7. Bb3 d6 8. d3 O-O 9. Be3 Na5 10. Ne2 c5 11. c3 Qc7 12. Ng3
+Nxb3 13. Qxb3 Be6 14. Qc2 d5 15. Ng5 Bd7 16. h3 Bd6 17. Rac1
+Rac8 18. Qe2 h6 19. Nf3 Qb7 20. Bd2 Be6 21. b3 c4 22. Nh4 Rfd8
+23. Rfe1 cxd3 24. Qxd3 dxe4 25. Nxe4 Be7 0-1

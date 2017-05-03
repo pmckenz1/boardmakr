@@ -1,0 +1,17 @@
+[Event "Helsinki"]
+[Site "Tampere FIN"]
+[Date "1984.06.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Yuri Razuvaev"]
+[Black "Yuri Balashov"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O
+c6 8.Qc2 Nbd7 9.b3 b6 10.Rd1 Ba6 11.a4 Rc8 12.a5 c5 13.axb6
+Qxb6 14.Qa2 Bb7 15.Ba5 Qd6 16.Nbd2 cxd4 17.Nxd4 Qb8 18.cxd5
+1/2-1/2

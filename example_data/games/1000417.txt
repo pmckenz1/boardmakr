@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.28"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Kamil Miton"]
+[Black "Andrew Read"]
+[ECO "E80"]
+[WhiteElo "2491"]
+[BlackElo "1814"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 e5
+7. dxe5 dxe5 8. Qxd8 Rxd8 9. Nd5 Nbd7 10. Nxc7 Rb8 11. Nd5 h6
+12. Be3 b6 13. Ne7+ Kf8 14. Nc6 Bb7 15. Nxd8 Rxd8 16. Ne2 Nc5
+17. Nc3 Ne8 18. Rd1 Rxd1+ 19. Kxd1 Nc7 20. b4 N5e6 21. Nd5
+Bxd5 22. cxd5 Nd4 23. Bd3 Ncb5 24. Bxb5 Nxb5 25. Kc2 Ke7
+26. a4 Nd6 27. Kd3 Kd7 28. Rc1 Bf8 29. a5 Nc8 30. axb6 axb6
+31. b5 g5 32. Rc6 Bd6 33. Bxb6 Nxb6 34. Rxb6 1-0

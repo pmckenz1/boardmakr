@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Eugene Levin"]
+[Black "Boris Privman"]
+[ECO "C02"]
+[WhiteElo "2200"]
+[BlackElo "2287"]
+[PlyCount "63"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Bd7 5. Nf3 Qb6 6. Bd3 cxd4
+7. cxd4 Nc6 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Bc6
+12. Qc2 g6 13. Bd2 Nh6 14. Rad1 Qh4 15. g3 Qd8 16. Ne2 d4
+17. Be4 Rc8 18. Nxd4 Qb6 19. Nxc6 19... bxc6 20. Ba5 Qc5
+21. Qd3 Be7 22. Qd7+ Kf8 23. Qxc8+ Kg7 24. Qxa6 Ng4 25. Bb6
+Qb4 26. Bf3 h5 27. b3 Nh6 28. Bd4 Nf5 29. Qb6 Qa3 30. Bxc6
+Qxa2 31. Qb5 Rd8 32. Bb6 1-0

@@ -1,0 +1,18 @@
+[Event "It (cat.11)"]
+[Site "Rishon (Israel)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Emil Sutovsky"]
+[Black "Nigel Rodney Davies"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6
+7.Bd3 d5 8.exd5 cxd5 9.O-O O-O 10.Bg5 c6 11.Qf3 h6 12.Bf4 Bd6
+13.Rfe1 Rb8 14.Na4 c5 15.b3 Be6 16.h3 Rb4 17.Bxd6 Qxd6 18.Rad1
+Rc8 19.c3 Rbb8 20.Bf5 Re8 21.Bxe6 Rxe6 22.Rxe6 fxe6 23.Qe3 Nd7
+24.Nb2 1/2-1/2

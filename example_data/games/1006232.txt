@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "0-1"]
+[White "Sigurbjorn Bjornsson"]
+[Black "Sigurdur Pall Steindorsson"]
+[ECO "B93"]
+[WhiteElo "2282"]
+[BlackElo "2056"]
+[PlyCount "84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5
+7. Nf3 Nbd7 8. a4 Be7 9. Bd3 O-O 10. O-O Qc7 11. Kh1 exf4
+12. Bxf4 Ne5 13. Nxe5 dxe5 14. Bg5 Be6 15. Qd2 Ng4 16. h3 Bxg5
+17. Qxg5 f6 18. Qd2 Nh6 19. Nd5 Bxd5 20. exd5 f5 21. b4 e4
+22. Be2 Qe5 23. Rad1 f4 24. Bg4 Nxg4 25. hxg4 e3 26. Qe2 Rf6
+27. Rf3 b5 28. c4 bxa4 29. c5 Rd8 30. d6 a5 31. Qc4+ Kh8
+32. b5 a3 33. c6 Rfxd6 34. Rxd6 Qxd6 35. c7 Rc8 36. Rxf4 e2
+37. Qxe2 Qxf4 38. b6 Qc4 39. Kh2 Qc6 40. Qa6 Rxc7 41. Qxa5
+Qd6+ 42. Kh3 Rb7 0-1

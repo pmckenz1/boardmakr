@@ -1,0 +1,16 @@
+[Event "Warsaw"]
+[Site "01"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Ognjen Cvitan"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7
+8.O-O O-O 9.Be3 Nd4 10.e5 dxe5 11.Nxe5 Rb8 12.Ne4 b6 13.c3
+Ndc6 14.Nc4 Qc7 15.Qe2 Ba6 16.Rad1 1/2-1/2

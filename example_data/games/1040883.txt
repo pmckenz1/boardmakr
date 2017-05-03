@@ -1,0 +1,22 @@
+[Event "ARG"]
+[Site "Mar del Plata"]
+[Date "1941.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Franciszek Sulik"]
+[Black "Erich Eliskases"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3
+Qc8 8.Nd2 e6 9.h3 Bh5 10.Ngf3 Be7 11.O-O Bg6 12.Bxg6 hxg6
+13.Ne5 Nd7 14.Ndf3 Ncxe5 15.Nxe5 Nxe5 16.Bxe5 O-O 17.Rac1 Qc6
+18.c4 Rfc8 19.cxd5 Qxd5 20.Qxd5 exd5 21.Bf4 Rc4 22.Rfd1 g5
+23.Be3 Rac8 24.g3 f5 25.b3 Rc2 26.Rxc2 Rxc2 27.Rc1 Rxa2 28.Rc7
+Bf6 29.Rxb7 f4 30.gxf4 gxf4 31.Bxf4 Bxd4 32.Be3 Bxe3 33.fxe3
+Re2 34.Rxa7 Rxe3 35.Rd7 Rxb3 36.Rxd5 Rxh3 37.Kg2 Ra3 38.Rd6
+Kh7 39.Rb6 g6 40.Rb5 Kh6 41.Rc5 g5 42.Rc4 Kh5 43.Rb4 Re3
+44.Ra4 Rd3 45.Rb4 g4 46.Rb8 1/2-1/2

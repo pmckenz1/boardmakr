@@ -1,0 +1,17 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Bogdan Bozinovic"]
+[Black "Toni Kranjec"]
+[ECO "D16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Nd5 6. g3 Nd7
+7. Bg2 N7f6 8. Ne5 Be6 9. e4 Nxc3 10. bxc3 Nd7 11. f4 Nxe5
+12. fxe5 Qc7 13. O-O Bd7 14. Qf3 f6 15. Bf4 g5 16. Bxg5 fxg5
+17. Qf7+ Kd8 18. Qxc4 c5 19. e6 Be8 20. Rf5 cxd4 21. Qxd4+ 1-0

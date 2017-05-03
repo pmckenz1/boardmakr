@@ -1,0 +1,22 @@
+[Event "Graz Stu tt"]
+[Site "5"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Steen Fedder"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 Nf6 2.c4 c5 3.d5 a6 4.Nf3 d6 5.a4 e5 6.Nc3 Be7 7.e4 O-O
+8.h3 Ne8 9.g4 g6 10.Bd3 Nd7 11.Qe2 Ndf6 12.Nd1 Bd7 13.Ne3 Ng7
+14.Rg1 Kh8 15.Bd2 Qc7 16.a5 Rae8 17.Qf1 Bd8 18.Bc3 Bc8
+19.O-O-O Ng8 20.h4 f5 21.gxf5 gxf5 22.exf5 Nxf5 23.Nxf5 Bxf5
+24.Bxf5 Rxf5 25.Rg3 Qf7 26.Qg2 Bf6 27.Rg1 Ne7 28.Qh3 Rf8
+29.Nd2 Rf4 30.Qd7 Ng6 31.Qxd6 Rd8 32.Qxc5 Nxh4 33.Qb6 Rc8
+34.Rg4 Ng6 35.Ne4 Rxg4 36.Rxg4 Bd8 37.Qd6 Qf5 38.f3 Be7 39.Qb6
+Rf8 40.d6 Bd8 41.Qxb7 Qxf3 42.Bxe5+ Bf6 43.Bxf6+ Rxf6 44.d7
+Rf8 45.Qd5 1-0

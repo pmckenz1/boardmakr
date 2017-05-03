@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Peter Schmidt"]
+[Black "Jesse Kraai"]
+[ECO "A70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6
+7. e4 a6 8. h3 b5 9. Bd3 Bg7 10. O-O O-O 11. Bf4 Re8 12. Re1
+Ra7 13. a3 Rae7 14. Qc2 Nh5 15. Bh2 Qb6 16. Rad1 Nd7 17. g4
+Nhf6 18. e5 dxe5 19. d6 Re6 20. g5 Nh5 21. Nd5 Qxd6 22. Bf5
+gxf5 23. Nf6+ Rxf6 24. Rxd6 Rxd6 25. Qxf5 Nf8 26. Qc2 c4
+27. Nxe5 Ng6 28. Nf3 Rxe1+ 29. Nxe1 Re6 30. Ng2 Bb7 31. Ne3
+Nhf4 32. Qf5 Nd5 33. Nxd5 Re1+ 0-1

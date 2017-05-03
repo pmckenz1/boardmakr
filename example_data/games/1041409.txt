@@ -1,0 +1,21 @@
+[Event "Hastings 1980/81"]
+[Site "Hastings ENG"]
+[Date "1980.12.31"]
+[EventDate "1980.01.05"]
+[Round "3"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Jozsef Pinter"]
+[ECO "E42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.a3
+Be7 8.c5 b6 9.b4 O-O 10.Bf4 a5 11.Na4 bxc5 12.bxc5 Nfd7
+13.Nec3 Nc6 14.Bb5 Bb7 15.O-O Bf6 16.Bd6 Re8 17.Rb1 Ra7 18.Nb6
+Be7 19.Bxe7 Rxe7 20.Ba4 Nf6 21.Nb5 Ra6 22.Nd6 Nb8 23.Qd3 Ne4
+24.Nd7 Rxd6 25.Nxb8 Qxb8 26.cxd6 Qxd6 27.f3 Nf6 28.Qc3 Rc7
+29.Qxa5 g6 30.Rfd1 Kg7 31.Qb4 Qf4 32.Qd2 Qd6 33.Rdc1 Rxc1+
+34.Qxc1 Ba6 35.Bb5 Bxb5 36.Rxb5 e5 37.Qc5 Qe6 38.dxe5 Qxe5
+39.Rb1 Qf4 40.Rd1 Qa4 41.Rd3 1-0

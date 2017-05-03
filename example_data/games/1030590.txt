@@ -1,0 +1,18 @@
+[Event "Bled"]
+[Site "Bled SVN"]
+[Date "1931.09.28"]
+[EventDate "1931.08.23"]
+[Round "26"]
+[Result "1/2-1/2"]
+[White "Isaac Kashdan"]
+[Black "Gosta Stoltz"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Nbd7 5.cxd5 exd5 6.Bg5 Be7
+7.e3 O-O 8.Qc2 c6 9.Bd3 Re8 10.O-O Nf8 11.Ne5 Ng4 12.Bxe7 Qxe7
+13.Nxg4 Bxg4 14.Bf5 Bxf5 15.Qxf5 Rad8 16.Rfe1 Rd6 17.e4 dxe4
+18.Rxe4 Re6 19.Rae1 Qd7 20.Rxe6 Rxe6 21.Rxe6 Qxe6 22.Qxe6 Nxe6
+23.d5 cxd5 24.Nxd5 1/2-1/2

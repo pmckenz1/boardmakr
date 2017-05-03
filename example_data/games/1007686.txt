@@ -1,0 +1,24 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.01"]
+[EventDate "1927.06.26"]
+[Round "6"]
+[Result "0-1"]
+[White "Frederick Dewhirst Yates"]
+[Black "Lajos Asztalos"]
+[ECO "C91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. d4 Bg4 10. Be3 Re8 11. Nbd2 d5 12. exd5
+Nxd5 13. Qc2 Nxe3 14. Rxe3 exd4 15. cxd4 Nxd4 16. Nxd4 Qxd4
+17. Rae1 Qd7 18. Qe4 Bf8 19. Qf4 Rxe3 20. Rxe3 Rd8 21. h3 Bf5
+22. Nf3 Bd6 23. Qg5 h6 24. Qh5 c5 25. Nh4 Bh7 26. Bd5 Bf8
+27. Re5 Re8 28. Nf3 Rxe5 29. Qxe5 Bd6 30. Qe3 Bf5 31. Ne5 Bxe5
+32. Qxe5 Be6 33. Bxe6 Qxe6 34. Qxc5 Qxa2 35. Qc8+ Kh7 36. Qf5+
+g6 37. Qf6 a5 38. g4 a4 39. h4 Qc4 40. Kh2 Qd5 41. Qe7 Qf3
+42. Qa7 b4 43. g5 hxg5 44. hxg5 Qh5+ 45. Kg2 Qxg5+ 46. Kh3
+Qf5+ 47. Kg2 Qd5+ 48. Kf1 Qb5+ 49. Kg2 Qg5+ 50. Kh3 Qf4
+51. Kg2 Qe4+ 52. Kh3 Kg7 53. Qb6 Qe6+ 0-1

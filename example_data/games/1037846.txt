@@ -1,0 +1,25 @@
+[Event "03, Ontario Closed Toronto CAN"]
+[Site "03, Ontario Closed Toronto CAN"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul H Beckwith"]
+[Black "Lawrence Day"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1.e4 d6 2.d4 g6 3.f4 c6 4.Nf3 d5 5.Nbd2 Bg4 6.c3 e6 7.Qb3 Bxf3
+8.Nxf3 Qc7 9.exd5 cxd5 10.Bb5+ Nc6 11.Ne5 Bg7 12.O-O Ne7
+13.Be3 O-O 14.Rae1 Na5 15.Qa4 Rac8 16.Bd3 Nc4 17.Bc1 a6
+18.Nxc4 dxc4 19.Bb1 Qd6 20.Qc2 Rfe8 21.Kh1 h5 22.Qe4 b5 23.Qf3
+f5 24.Re2 Nd5 25.Rfe1 Kf7 26.g3 a5 27.h3 Re7 28.g4 hxg4
+29.hxg4 Rh8+ 30.Rh2 Rxh2+ 31.Kxh2 Bh6 32.gxf5 exf5 33.Rxe7+
+Kxe7 34.Kg3 Kf6 35.Bd2 a4 36.Bc2 Ke6 37.Qe2+ Kd7 38.Qe5 Qxe5
+39.dxe5 Ke6 40.Kf3 Bf8 41.Kg3 Ne7 42.Bd1 Nd5 43.Bc2 Kd7 44.Kh4
+Bh6 45.Kg3 Ne7 46.Be3 Nc6 47.Kf3 Nd8 48.Bc1 Nf7 49.Be3 Ke6
+50.b3 cxb3 51.axb3 a3 52.b4 g5 53.Bb3+ Ke7 54.Bc5+ Ke8 55.e6
+g4 56.Kg3 Nh8 57.c4 Ng6 58.Bd6 bxc4 59.Bxc4 Bf8 60.Bxf8 Nxf8
+61.b5 Ng6 62.b6 Kd8 63.b7 Kc7 0-1

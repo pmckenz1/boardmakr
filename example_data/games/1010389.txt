@@ -1,0 +1,20 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Neelotpal Das"]
+[Black "Saha Suvrajit"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4
+Bg4 7. h3 Bh5 8. Bd2 e6 9. Qe2 Bb4 10. g4 Bg6 11. Ne5 Nbd7
+12. Nxg6 hxg6 13. a3 Nd5 14. Qf3 Nxc3 15. Rc1 Bd6 16. bxc3 Nb6
+17. Bd3 Qxa3 18. Rb1 Bc7 19. c4 Nxc4 20. Rxb7 O-O 21. Rxc7
+Nxd2 22. Qxc6 Nf3+ 23. Kf1 Qc1+ 24. Kg2 Qf4 25. Rd7 Nh4+
+26. Kf1 Rab8 27. Qe4 Qd2 28. Kg1 Rb1+ 29. Bf1 Rxf1+ 30. Kxf1
+Rb8 31. Qe1 Qxc2 0-1

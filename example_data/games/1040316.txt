@@ -1,0 +1,28 @@
+[Event "Illinois Class M/X"]
+[Site "Illinois Class M/X"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Roman Dzindzichashvili"]
+[Black "Sergey Kudrin"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "162"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2
+O-O 8.O-O d5 9.Ne5 c6 10.Bc3 Nfd7 11.Nxd7 Nxd7 12.Nd2 f5
+13.Qc2 Bd6 14.e3 Rc8 15.Rfd1 Qe7 16.a4 Nf6 17.a5 b5 18.c5 Bb8
+19.f4 Rcd8 20.Nf3 Bc8 21.h3 Bd7 22.Ne5 Be8 23.b4 Kh8 24.Be1
+Rg8 25.Qe2 g5 26.fxg5 Rxg5 27.g4 fxg4 28.Bh4 Rxe5 29.dxe5 Bxe5
+30.Qf2 Bg6 31.Ra2 Rf8 32.hxg4 Qg7 33.Bg3 Nxg4 34.Bxe5 Nxe5
+35.Qg3 Nd3 36.Rf1 Bf5 37.Qxg7+ Kxg7 38.e4 Bg6 39.Rxf8 Kxf8
+40.exd5 exd5 41.Re2 Nxb4 42.Re6 Be8 43.Kf1 Nd3 44.Bxd5 cxd5
+45.c6 Nb4 46.c7 Bd7 47.Rh6 Ke7 48.Ke2 Bc8 49.Ke3 Na6 50.Rxh7+
+Kd6 51.Rh6+ Kxc7 52.Rh7+ Bd7 53.Kd4 Nb8 54.Kxd5 a6 55.Kc5 Nc6
+56.Rh6 Nxa5 57.Rxa6 Nb7+ 58.Kd5 Be8 59.Rf6 Bh5 60.Kd4 Kb8
+61.Kc3 Ka7 62.Kb4 Be8 63.Kc3 Nc5 64.Kb4 Na6+ 65.Ka5 Nc7 66.Rh6
+Kb7 67.Rd6 Kc8 68.Kb6 Na8+ 69.Ka7 Kc7 70.Rh6 Bc6 71.Ka6 Nb6
+72.Rh7+ Nd7 73.Rh5 b4 74.Ka5 b3 75.Rh2 Nc5 76.Kb4 Kd6 77.Rh6+
+Kd5 78.Ka3 Be8 79.Rb6 Kc4 80.Rb4+ Kc3 81.Rb5 Bxb5 1/2-1/2

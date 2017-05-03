@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Anatoly M Kremenietsky"]
+[Black "Alexey Korotylev"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e3 e5
+7. Nge2 Nbd7 8. O-O Re8 9. b3 Nf8 10. Bb2 e4 11. Qc2 Qe7
+12. d5 h5 13. b4 N8h7 14. Rac1 Ng5 15. Kh1 Bh3 16. Nf4 Bxg2+
+17. Kxg2 h4 18. Nb5 Qd7 19. Nc3 Nh5 20. Nce2 Nxf4+ 21. Nxf4
+Be5 22. Kh1 Qg4 23. Bxe5 Qf3+ 24. Kg1 dxe5 25. Ng2 Nh3+
+26. Kh1 Kg7 27. Rcd1 Rh8 28. c5 Ng5 29. Kg1 h3 30. Ne1 Qg2+
+31. Nxg2 Nf3+ 0-1

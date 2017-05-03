@@ -1,0 +1,17 @@
+[Event "cr"]
+[Site "cr"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Unto E Venalainen"]
+[Black "Lawrence Day"]
+[ECO "E26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3 Qa5 7.Bd2
+d6 8.Bd3 Bd7 9.a4 Bc6 10.f3 Nbd7 11.Nh3 Nb6 12.O-O O-O-O 13.e4
+h6 14.Qe2 a6 15.Rfb1 Na8 16.Be1 e5 17.Qb2 b6 18.Nf2 Kc7 19.Bc2
+1-0

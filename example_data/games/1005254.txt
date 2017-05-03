@@ -1,0 +1,25 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.07.30"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Abdo Somev"]
+[Black "Amine Haidar"]
+[ECO "A07"]
+[WhiteElo "2140"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 f5 5. Ng3 Bb4+ 6. Bd2
+Bxd2+ 7. Qxd2 f4 8. N3e2 g5 9. g3 Qf6 10. Bg2 Ne7 11. O-O-O
+Ng6 12. f3 c5 13. c3 Nc6 14. cxd4 cxd4 15. Kb1 Be6 16. gxf4
+gxf4 17. Bh3 Nh4 18. Bxe6 Qxe6 19. Nc1 Rg8 20. Rf1 O-O-O
+21. Qe1 Ng2 22. Qf2 Ne3 23. Re1 Qe7 24. Re2 Rg2 25. Qe1 Rdg8
+26. h4 Qc5 27. Nh3 Rxe2 28. Qxe2 Rg2 29. Nf2 Nb4 30. Nb3 Qb5
+31. Rc1+ Kd8 32. Rc5 Qxc5 33. Nxc5 Rg1+ 34. Nd1 Rxd1+ 35. Qxd1
+Nxd1 36. a3 Nc6 37. Nxb7+ Kc7 38. Nc5 Kd6 39. b4 Ne3 40. Kc1
+Ng2 41. Kd2 Nxh4 42. Ke2 Nd8 43. Nb3 Ne6 44. Nd2 Ng5 45. Nc4+
+Ke6 46. Nd2 h5 47. Kf2 Ng6 48. Nb3 h4 49. Kg2 h3+ 50. Kh2 Nh4
+51. Nc5+ Kd6 52. Nb7+ Kc7 53. Nc5 Nhxf3+ 54. Kh1 Ne1 55. Na6+
+Kd6 56. Nc5 f3 57. Nb3 Nxd3 58. Nd2 f2 59. Kh2 Nf3+ 0-1

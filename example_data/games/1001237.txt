@@ -1,0 +1,19 @@
+[Event "New Orleans m ;HCL 34"]
+[Site "New Orleans, LA USA"]
+[Date "1845.12.23"]
+[EventDate "?"]
+[Round "27"]
+[Result "0-1"]
+[White "Charles Henry Stanley"]
+[Black "Eugene Rousseau"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 e6 2.f4 d5 3.exd5 exd5 4.Nf3 c5 5.d4 Nf6 6.Bd3 Nc6 7.c3
+Be7 8.h3 O-O 9.O-O Qb6 10.Kh2 Re8 11.a3 Bd7 12.b4 cxd4 13.cxd4
+Rac8 14.Be3 Bxb4 15.Ne5 Bd6 16.Nc3 Nxe5 17.fxe5 Bxe5+ 18.dxe5
+Qxe3 19.exf6 Rxc3 20.Rf3 Qe5+ 21.Kh1 Re6 22.fxg7 Rf6 23.Rb1
+Rxf3 24.Qxf3 Rxd3 25.Qxd3 Bf5 26.Qb3 Bxb1 27.Qxb1 b6 28.Qc2 d4
+0-1

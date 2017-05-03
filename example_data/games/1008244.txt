@@ -1,0 +1,50 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.22"]
+[EventDate "1936.08.10"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Savielly Tartakower"]
+[Black "Reuben Fine"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. Nf3 {Notes by Alekhine} Nf6 2. d4 d5 3. Bg5 e6 4. e3 {By
+renouncing the attack on the center through c4 White can only
+hope to get an even game. In fact Black has not the slightest
+trouble in developing his pieces efficiently.} c5 5. Nbd2 Nbd7
+{In harmony with the subsequent development of queen and
+rook.} 6. c3 Qb6 7. Qc2 Bd6 8. Bd3 h6 9. Bh4 O-O 10. O-O Qc7
+11. Bg3 a6 {Black intended to continue the development of his
+queen bishop with a pawn advance on the queen side. Otherwise
+he could as well play here 11...Bxg3 12 hxg3 b6 and if 13 e4
+dxe4 followed by Bb7.} 12. Rad1 b5 13. dxc5 {Slightly better
+was 13 Bxd6 Qxd6 14 dxc5 Nxc5 15 e4. But the text move was
+good enough for equality.} Bxg3 14. hxg3 Nxc5 15. Nb3 { ? It
+is difficult to explain why the "routinier" (as Dr. Tartakover
+calls himself) yields to his opponent full control of the
+center, with no compensation. The course indicated was 15 e4
+Nxd3 16 Qxd3 dxe4 17 Nxe4 Nxe4 18 Qxe4 Bb7 19 Qe3 with an even
+game.} Nxd3 16. Qxd3 e5 17. Nh2 Rd8 {? Black's advantage was
+overwhelming, and the most natural way to exploit it was a
+"minority attack" starting with ...a5. It is surprising that
+Fine, here as well as in the next few moves, appears not to
+think of this. His play in the following part of the game is
+not exactly weak, but lacks a definite plan. Tartakover, on
+the contrary makes the outmost of his inferior position, and
+finally succeeds to saving half a point.} 18. Rfe1 Be6 19. Qe2
+Ne4 {The knight manoeuver cannot be commended. He could still
+play Rab8 followed by a5.} 20. Rc1 Rac8 21. Red1 Qc4 22. Qe1
+Qc7 {Admitting by this that his last move was useless.}
+23. Qe2 Nd6 24. Nd2 Qb6 25. a3 Nc4 26. Nxc4 bxc4 27. Rd2 Bf5
+{Black is still slightly superior and might try to get up an
+attack on the b-pawn with Rb8, etc. The text move allows his
+alert opponent to obtain further simplification.} 28. Qh5 {!}
+Qg6 {If ...Qf6 then 29 Nf3 and eventually g4.} 29. Qxg6 Bxg6
+30. f4 {! Just at the right moment as 30...f6 would now be
+inferior because of 31 fxe5 fxe5 32 Ng4.} exf4 31. gxf4 Rb8
+32. Rcd1 Be4 33. Ng4 {Practically forcing the exchange of the
+remaining minor pieces, with an unavoidable draw.} Rb6 34. Nf2
+Rdb8 35. Nxe4 dxe4 36. Rd8+ Rxd8 1/2-1/2

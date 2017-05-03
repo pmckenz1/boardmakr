@@ -1,0 +1,21 @@
+[Event "Banja-Luka (Bosnia & Herzegovina)"]
+[Site "Banja-Luka (Bosnia & Herzegovina)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Aleksander Sznapik"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.c4 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.f3 O-O 6.Bg5 c5 7.d5 Qa5
+8.a4 a6 9.Ne2 e6 10.Ng3 exd5 11.cxd5 Re8 12.Be2 h5 13.O-O Nh7
+14.Be3 Bxc3 15.bxc3 Qxc3 16.Qc1 Qxc1 17.Rfxc1 Nd7 18.Bf4 Ne5
+19.Rcb1 f6 20.Rb6 Rd8 21.Bxe5 fxe5 22.Nf1 Kf8 23.Ne3 Ke7
+24.Nc4 Nf6 25.h4 Ra7 26.Rab1 Ne8 27.Bd3 Nc7 28.Na5 Na8 29.R6b2
+Rd7 30.f4 exf4 31.Rf1 Rd8 32.Rxf4 Bd7 33.Rbf2 Be8 34.Rf8 Kd7
+35.Nc4 Kc7 36.e5 dxe5 37.d6+ Kc8 38.Nxe5 b5 39.axb5 axb5
+40.Bxb5 Bxb5 41.Rxd8+ Kxd8 42.Rf8+ Be8 43.Nc6+ Kd7 44.Nxa7 1-0

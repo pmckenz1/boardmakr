@@ -1,0 +1,23 @@
+[Event "Ch World FIDE (play-off), Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Zoltan Almasi"]
+[Black "Xiaomin Peng"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. h3 d6
+7. c3 Na5 8. Bb5 a6 9. Ba4 b5 10. Bc2 c5 11. Re1 Nc6 12. Nbd2
+Nd7 13. a4 Nb6 14. axb5 axb5 15. Rxa8 Nxa8 16. Nf1 Bf6 17. Ne3
+Nb6 18. Bb3 Na5 19. Bc2 g6 20. Bd2 Nc6 21. Bb3 Bg7 22. Nd5
+Nxd5 23. Bxd5 Ne7 24. Bg5 Kh8 25. Bxe7 Qxe7 26. Qb3 Bd7
+27. Ra1 Be8 28. Ra8 f5 29. Qa2 fxe4 30. dxe4 g5 31. Nh2 h5
+32. b3 Qf6 33. Qe2 Qg6 34. g4 hxg4 35. hxg4 Qf6 36. Nf1 Qf4
+37. Ne3 Bg6 38. Rxf8+ Bxf8 39. Qxb5 Bxe4 40. Bxe4 Qxe4 41. Qe8
+Kg8 42. Qe6+ Kh7 43. Qf5+ Qxf5 44. gxf5 Kg7 45. Nd5 g4 46. b4
+1-0

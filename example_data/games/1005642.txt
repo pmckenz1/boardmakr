@@ -1,0 +1,19 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "1-0"]
+[White "Evgenij Miroshnichenko"]
+[Black "Anastazia Karlovich"]
+[ECO "C23"]
+[WhiteElo "2465"]
+[BlackElo "2242"]
+[PlyCount "51"]
+
+1. e4 e5 2. Bc4 Bc5 3. f4 d6 4. Nf3 Nc6 5. Nc3 Nf6 6. d3 a6
+7. f5 Na5 8. Bg5 c6 9. a3 Nxc4 10. dxc4 b5 11. Qd3 Qb6 12. b4
+Bf2+ 13. Kf1 Bd4 14. Rd1 bxc4 15. Qxc4 Bxc3 16. Bxf6 gxf6
+17. Qxc3 Ke7 18. g4 a5 19. g5 Ba6+ 20. Kg2 Rhg8 21. bxa5 Qb5
+22. Rd2 fxg5 23. Rhd1 Rad8 24. a4 Qxa4 25. f6+ Kf8 26. Qxe5
+1-0

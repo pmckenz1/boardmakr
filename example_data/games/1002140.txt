@@ -1,0 +1,19 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.04"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Constant Ferdinand Burille"]
+[Black "Nicholas MacLeod"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 {Notes by Steinitz} c6 2.d4 e5 {?} 3.dxe5 Qa5+ 4.Nc3 Qxe5
+5.Nf3 Qc7 6.Bc4 Be7 7.O-O d6 8.Re1 Be6 9.Bxe6 fxe6 10.Nd4 Qd7
+11.e5 c5 {?} 12.Nxe6 {! Beautiful play, after which White has
+an easy task to win.} Qxe6 13.exd6 Qf5 14.dxe7 Nc6 15.Ne4 Qg6
+16.Nd6+ Kd7 17.e8=Q+ Rxe8 18.Nxe8 Kc8 19.Bf4 Nd4 20.Nd6+ Kd7
+21.c3 1-0

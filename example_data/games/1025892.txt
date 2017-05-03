@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Lugano (Switzerland)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Soenke Maus"]
+[Black "Gerardo F Barbero"]
+[ECO "C60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.d4 exd4 5.Bg5 Be7 6.Bxe7 Ngxe7
+7.Nxd4 d5 8.e5 Bd7 9.Bxc6 Nxc6 10.Nxc6 Bxc6 11.Qd4 Qg5 12.O-O
+O-O 13.Nc3 Rad8 14.Rfe1 b6 15.b4 Bb7 16.b5 Rfe8 17.Rad1 c5
+18.bxc6 Bxc6 19.Re3 Rc8 20.h4 Qf5 21.Rd2 Bb7 22.Nxd5 Bxd5
+23.Qxd5 1/2-1/2

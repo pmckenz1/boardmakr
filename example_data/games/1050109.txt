@@ -1,0 +1,17 @@
+[Event "Phillips & Drew Kings"]
+[Site "London ENG"]
+[Date "1982.04.28"]
+[EventDate "1982.04.15"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Larry Mark Christiansen"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.Ne4 Ngf6
+13.O-O-O Be7 14.Kb1 c5 15.Nxf6+ Nxf6 16.dxc5 O-O 17.g4 Rfd8
+18.Qe2 Qxc5 19.Ne5 Rac8 20.Bc1 Qb4 21.a3 1/2-1/2

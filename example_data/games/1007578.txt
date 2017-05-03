@@ -1,0 +1,20 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.18"]
+[EventDate "1926.03.07"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Hans Kmoch"]
+[Black "Arpad Vajda"]
+[ECO "A38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. c4 c5 2. Nc3 g6 3. Nf3 Nc6 4. g3 Bg7 5. Bg2 Nf6 6. d4 cxd4
+7. Nxd4 O-O 8. Nc2 d6 9. O-O Be6 10. b3 Qd7 11. Bb2 Bh3
+12. Ne3 Bxg2 13. Kxg2 Ng4 14. Nxg4 Qxg4 15. e4 Qxd1 16. Nxd1
+Bxb2 17. Nxb2 Rfd8 18. Rad1 Kf8 19. Rd2 Nb4 20. Nd3 Nxd3
+21. Rxd3 e6 22. f4 Ke7 23. Kf3 Rac8 24. Rfd1 f6 25. R1d2 Rd7
+26. Ke3 Rcd8 27. Kf3 b6 28. Rd4 f5 29. h3 h5 30. R4d3 fxe4+
+31. Kxe4 1/2-1/2

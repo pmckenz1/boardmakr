@@ -1,0 +1,23 @@
+[Event "10, La Habana-B (10s)"]
+[Site "Havana CUB"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "A Rodriguez"]
+[Black "Fernando Braga"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7
+12. exf5 Bxf5 13. Nc2 O-O 14. Nce3 Be6 15. g4 Ne7 16. Bg2 Rc8
+17. Qd3 Nxd5 18. Bxd5 Bxd5 19. Nxd5 e4 20. Qe3 a5 21. O-O Qh4
+22. f3 Rce8 23. Rad1 f5 24. gxf5 Rxf5 25. f4 Qh5 26. Qd2 Qf7
+27. Kh1 Re6 28. Rfe1 e3 29. Qg2 Qh5 30. Rd3 Kh8 31. Rdxe3 Rxe3
+32. Nxe3 Rxf4 33. Rf1 Rxf1+ 34. Qxf1 Qe5 35. Qf3 h6 36. Nf5 d5
+37. Kg2 b4 38. Nxg7 Kxg7 39. Qg3+ Qxg3+ 40. Kxg3 bxc3 41. bxc3
+Kf6 42. Kf4 Ke6 43. a4 Kd6 44. Ke3 Kc5 45. Kd3 Kd6 46. Kd4 Kc6
+47. c4 dxc4 48. Kxc4 h5 49. h4 Kd6 50. Kb5 Kd5 1/2-1/2

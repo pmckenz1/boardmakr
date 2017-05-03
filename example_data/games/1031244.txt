@@ -1,0 +1,27 @@
+[Event "Olympiad"]
+[Site "Moscow URS"]
+[Date "1956.09.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Nikolay N Minev"]
+[Black "Julio Bolbochan"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 Nc6 7.O-O
+a6 8.b3 Rb8 9.a4 Na5 10.Bd2 c6 11.e4 Bg4 12.Qc2 Nd7 13.Qa2
+Bxf3 14.Bxf3 Qb6 15.Rab1 Qxd4 16.Rfd1 b6 17.Bg2 Nb7 18.h4 Qf6
+19.Ne2 e5 20.b4 Qe6 21.Nc3 Ra8 22.Rb2 Rfc8 23.Kh2 Nd8 24.Bg5
+Bf8 25.Rbd2 Qe8 26.Bxd8 Rxd8 27.Bh3 Nf6 28.Qb1 h5 29.f3 Qe7
+30.Rd3 Qc7 31.b5 axb5 32.axb5 Ra5 33.bxc6 Qxc6 34.Nd5 Nxd5
+35.cxd5 Qc5 36.R3d2 Rda8 37.Rc2 Ra1 38.Rxc5 Rxb1 39.Rxb1 bxc5
+40.Rb7 Ra2+ 41.Bg2 Rc2 42.g4 hxg4 43.fxg4 c4 44.g5 c3 45.Rc7
+Kg7 46.Rc8 Be7 47.Re8 Bf8 48.Rc8 Rc1 49.Bf3 Be7 50.Kg2 c2
+51.Be2 f6 52.gxf6+ Bxf6 53.Bd3 Bxh4 54.Rxc2 Re1 55.Rc7+ Kf8
+56.Kf3 Be7 57.Rb7 Rh1 58.Kg2 Rh4 59.Ra7 Rg4+ 60.Kf3 Rf4+
+61.Kg2 Kf7 62.Rb7 Kf6 63.Ra7 g5 64.Kg3 g4 65.Be2 Rxe4 66.Bxg4
+Re3+ 67.Kf2 Rb3 68.Rd7 Kg5 69.Rxe7 Kxg4 70.Re6 Rb6 71.Ke3 Kf5
+72.Rh6 Ra6 73.Re6 e4 74.Kd4 Ra4+ 75.Ke3 1/2-1/2

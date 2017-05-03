@@ -1,0 +1,23 @@
+[Event "Kalev Pugi mem"]
+[Site "Toronto CAN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Igor Shtern"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 g6 4.Bb5 Bg7 5.Bxc6 bxc6 6.d3 d6 7.O-O
+Nh6 8.Nc3 Rb8 9.Qe1 O-O 10.f5 f6 11.Qg3 Qe8 12.Ne2 e5 13.b3
+Kh8 14.Qh3 Ng8 15.g4 Ne7 16.Ng3 Kg8 17.Be3 Qd7 18.Rf2 Qc7
+19.Raf1 Bd7 20.Qh4 Qc8 21.Rg2 Rb7 22.Ne2 Qe8 23.Nd2 Bc8 24.Rf3
+g5 25.Qe1 h6 26.h4 Kf7 27.Rh3 Ng8 28.Nf3 Qe7 29.Ng3 Ke8 30.Nh5
+Bh8 31.Rgh2 Bg7 32.Kh1 Bh8 33.Qd2 Qf7 34.Ng3 Bg7 35.hxg5 fxg5
+36.Bxg5 hxg5 37.Nxg5 Qe7 38.Nh7 Rf7 39.g5 Qc7 40.g6 Rd7 41.Qg5
+Qd8 42.Nh5 Qxg5 43.Nxg5 Bh6 44.Nf6+ Nxf6 45.Rxh6 Rg7 46.Rh8+
+Ng8 47.R2h7 Kf8 48.Kh2 a5 49.Kg3 a4 50.Kh4 axb3 51.axb3 d5
+52.Kh5 c4 53.f6 Rxg6 54.Kxg6 cxb3 55.Rxb7 bxc2 56.Rf7+ 1-0

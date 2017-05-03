@@ -1,0 +1,22 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "Ch USA (juniors), San Francisco (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Harutyun Akopyan"]
+[Black "Dmitry Schneider"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 cxd4
+7. cxd4 Bd7 8. b4 Rc8 9. Be3 Nh6 10. Be2 Nf5 11. O-O Nxe3
+12. fxe3 g6 13. Qd3 Bg7 14. Nc3 Ne7 15. b5 Qa5 16. Rfc1 O-O
+17. Nd2 Qd8 18. e4 f6 19. exf6 Bxf6 20. Nb3 e5 21. Nxd5 Nxd5
+22. Rxc8 Bxc8 23. exd5 exd4 24. Bf3 Bf5 25. Qc4 Qd6 26. Rd1
+Rc8 27. Qa4 Bc2 28. Re1 Be5 29. Bg4 Rf8 30. Be6+ Kg7 31. Qc4
+d3 32. Nd2 Rf4 33. Re4 Qb6+ 34. Kh1 Qf2 35. g3 Rxe4 36. Qxe4
+Bd4 37. Qg2 Qe1+ 38. Qf1 Qxd2 39. d6 Qe3 40. Qf7+ Kh6 41. Kg2
+d2 42. d7 d1=Q 43. d8=Q Qeg1+ 44. Kh3 Qh5+ 0-1

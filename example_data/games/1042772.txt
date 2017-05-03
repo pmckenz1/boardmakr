@@ -1,0 +1,25 @@
+[Event "Hoogoven"]
+[Site "Beverwijk NED"]
+[Date "1950.01.09"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Theo Daniel van Scheltinga"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. e3 c5 6. Nc3 cxd4
+7. Nxd4 Bb4 8. Qb3 Qa5 9. Bxf6 Nxf6 10. cxd5 Bxc3+ 11. bxc3
+Qxd5 12. Qa3 Bd7 13. Rd1 Qe5 14. Qb4 a5 15. Qxb7 O-O 16. Bd3
+Qc5 17. Qb2 Rab8 18. Qc1 Rfc8 19. Ne2 Ba4 20. Rd2 Nd5 21. c4
+Nb4 22. O-O Nxd3 23. Rxd3 Rb4 24. Qd2 g6 25. Rc1 Rxc4 26. Rxc4
+Qxc4 27. Rc3 Qa6 28. Rxc8+ Qxc8 29. Qxa5 Qc2 30. h3 Qxe2
+31. Qxa4 Qe1+ 32. Kh2 Qxf2 33. Qb3 h5 34. a4 h4 35. Qb8+ Kg7
+36. Qe5+ Kg8 37. a5 Qa2 38. Qb5 Qa3 39. a6 Qd6+ 40. Kg1 Qd1+
+41. Kf2 Qc2+ 42. Kf3 Qc7 43. Qb7 Qe5 44. Ke2 Qh5+ 45. Kd3 Qd1+
+46. Kc4 Qe2+ 47. Kc5 Qxe3+ 48. Kd6 Qa3+ 49. Kd7 Qa4+ 50. Kd8
+Qa5+ 51. Kc8 Kg7 52. a7 Qc5+ 53. Kd7 Qd4+ 54. Ke7 Qc5+ 55. Ke8
+1-0

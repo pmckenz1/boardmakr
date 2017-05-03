@@ -1,0 +1,23 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Ivan Radulov"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Bd2 Bxd2+
+7.Nbxd2 Nf6 8.e5 Nd5 9.Qb3 c6 10.Bxd5 cxd5 11.Nxd4 O-O 12.O-O
+Nc6 13.Nxc6 bxc6 14.Rac1 Bd7 15.Qc3 Qb6 16.Nb3 Rab8 17.Nc5 Bf5
+18.b3 Qb4 19.Qf3 Bc8 20.Rfe1 Re8 21.h3 Qd4 22.Qe3 Rb4 23.Nd3
+Qxe3 24.Rxe3 Rb6 25.g4 h5 26.f3 hxg4 27.hxg4 d4 28.Re4 Ba6
+29.Nc5 Rd8 30.Rd1 Rd5 31.b4 Bc4 32.a3 a5 33.Rdxd4 axb4 34.axb4
+Rxd4 35.Rxd4 Bd5 36.Kf2 Rb8 37.Nd3 g5 38.Nc5 Ra8 39.Nd7 Ra2+
+40.Kg3 Rb2 41.Nf6+ Kg7 42.f4 Rg2+ 43.Kh3 Re2 44.fxg5 Rxe5
+45.b5 Be6 46.Kh4 Kg6 47.bxc6 Rxg5 48.Nd7 Ra5 49.Nf8+ Kf6
+50.Nxe6 Kxe6 51.Rc4 1-0

@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Sergei Konotop"]
+[Black "Vladimir Kozlov"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. Be3 Nc5 9. f3 Be7 10. Qd2 O-O 11. O-O-O Bd7
+12. g4 b5 13. g5 Ne8 14. h4 b4 15. Nce2 a5 16. Kb1 Qc8 17. c3
+e5 18. Nc2 Nxb3 19. axb3 bxc3 20. Nxc3 Nc7 21. Na3 Qb7 22. Nc4
+Ra6 23. Nxe5 Be6 24. Ng4 Rb8 25. Bd4 Qxb3 26. Nf6+ Kh8
+27. Nfd5 Nxd5 28. Nxd5 Bf8 29. Qc3 Qb7 30. Rh2 Kg8 31. Rc2
+Bxd5 32. exd5 Qxd5 33. Qc4 Qb7 34. h5 d5 35. Qc7 Qxc7 36. Rxc7
+h6 37. gxh6 Rxh6 38. Be5 Rxh5 39. f4 f6 40. Rxg7+ Kxg7
+41. Bxb8 Kf7 42. Re1 Bb4 43. Re3 Rh8 44. Ba7 Kg6 45. Re6 Rf8
+46. Bd4 Kf5 47. Ra6 Kxf4 48. Bxf6 Ke4 49. Kc2 d4 50. Re6+ 0-1

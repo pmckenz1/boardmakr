@@ -1,0 +1,19 @@
+[Event "* North Bay International"]
+[Site "* North Bay International"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Deen Hergott"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 c6 5.Qd2 b5 6.f3 Nd7 7.h4 h5
+8.Nh3 Nb6 9.Nf2 Nf6 10.b3 a5 11.a4 b4 12.Ncd1 Nfd7 13.Rb1 c5
+14.d5 c4 15.Bd4 Be5 16.f4 Bxd4 17.Qxd4 Nf6 18.bxc4 Nxa4 19.e5
+Nd7 20.exd6 O-O 21.dxe7 Qxe7+ 22.Kd2 Qc5 23.Kd3 Qc7 24.g4
+Ndc5+ 25.Kd2 Qa7 26.Qa1 Bxg4 27.Nxg4 hxg4 28.Bg2 Rfe8 29.Kc1
+Re2 30.h5 Rxg2 31.Qf6 Nd7 32.Qc6 Qd4 33.Qxa4 Nc5 0-1

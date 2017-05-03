@@ -1,0 +1,28 @@
+[Event "07, Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1970.01.20"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Karoly Honfi"]
+[ECO "B05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 e6 6.c4 Nb6 7.exd6
+cxd6 8.O-O Be7 9.h3 Bh5 10.Nc3 O-O 11.Be3 d5 12.c5 Bxf3
+13.Bxf3 Nc4 14.Bc1 Nc6 15.b3 N4a5 16.Be3 b6 17.cxb6 axb6
+18.Nb5 Na7 19.Be2 Nxb5 20.Bxb5 Ba3 21.Bc1 Qd6 22.Bxa3 Qxa3
+23.Qd2 Rfc8 24.Rfc1 h6 25.Rc3 Rxc3 26.Qxc3 Nb7 27.Qc7 Nd6
+28.Bd3 Qb2 29.Rd1 Ne4 30.Bxe4 dxe4 31.Qxb6 Rxa2 32.Qb8+ Kh7
+33.Qf4 f5 34.Qe3 Ra3 35.d5 Rxb3 36.Qe1 exd5 37.Rxd5 Rb5
+38.Rxb5 Qxb5 39.Qe3 Qe5 40.g3 g5 41.Qa7+ Kg6 42.Qb6+ Qf6
+43.Qb7 Qe6 44.Qc7 h5 45.Kg2 h4 46.gxh4 gxh4 47.Qf4 Qf6 48.Kh2
+Qe7 49.Kh1 Qg5 50.Qd6+ Qf6 51.Qf4 Kf7 52.Qc7+ Qe7 53.Qf4 Ke6
+54.Kg2 Qf6 55.Kh1 Kd5 56.Qd2+ Kc4 57.Qe2+ Kb4 58.Qd2+ Qc3
+59.Qd6+ Kb3 60.Qd1+ Kb2 61.Kg2 f4 62.Qg4 f3 63.Kh2 Qe5+ 64.Kh1
+Qe7 65.Qf4 Kc2 66.Qg4 Kd1 67.Qg1+ Ke2 68.Qc1 Qb4 69.Qe3+ Kf1
+70.Qa7 Qe1 71.Qa2 Qc1 72.Kh2 Ke1 73.Qf7 Qd2 74.Kh1 Qxf2 75.Qg6
+Qg2+ 0-1

@@ -1,0 +1,21 @@
+[Event "FRG-ch International"]
+[Site "Hannover FRG"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Tamas Georgadze"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nge2 Nd4 7.O-O
+e6 8.Nxd4 cxd4 9.Ne2 Ne7 10.c3 dxc3 11.Nxc3 O-O 12.Be3 Bd7
+13.Qd2 Bc6 14.Bg5 Re8 15.d4 Qa5 16.h4 d5 17.e5 Nc8 18.h5 Qc7
+19.Rac1 Qd7 20.h6 Bf8 21.Nd1 Be7 22.Re1 Nb6 23.b3 Rec8 24.Qf4
+Ba3 25.Qf6 Bf8 26.Ne3 Qe8 27.Qf4 Ba3 28.Rcd1 Nd7 29.Ng4 Bb5
+30.Bf1 Bxf1 31.Kxf1 Rc7 32.Re2 Rac8 33.Kg2 Qf8 34.Qf3 a5
+35.Bd2 b6 36.Qd3 Rc6 37.Bg5 Qb4 38.Bd2 Qe7 39.Qb5 Kf8 40.Qd3
+1/2-1/2

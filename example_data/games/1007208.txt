@@ -1,0 +1,28 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.04.25"]
+[EventDate "1925.04.16"]
+[Round "8"]
+[Result "1-0"]
+[White "George Alan Thomas"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "D65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1
+c6 8.Qc2 a6 9.cxd5 exd5 10.Bd3 Re8 11.O-O Nf8 12.Ne5 Ng4
+13.Bxe7 Qxe7 14.Nxg4 Bxg4 15.h3 Be6 16.Na4 Rad8 17.Nc5 Bc8
+18.Bf5 Bxf5 19.Qxf5 Ne6 20.b4 Rd6 21.Rb1 Nd8 22.a4 g6 23.Qd3
+Ne6 24.Rfc1 f5 25.b5 axb5 26.axb5 Nxc5 27.Rxc5 Re6 28.g3 Qg5
+29.h4 Qf6 30.Kg2 Re4 31.bxc6 bxc6 32.Qc3 f4 33.exf4 Qf5 34.Rf1
+Re2 35.Rxc6 R8e4 36.Qb4 R4e3 37.Qb7 Qe4+ 38.Kh2 Qf3 39.Rc8+
+Re8 40.Rxe8+ Rxe8 41.Kg1 Re2 42.Qd7 h5 43.Qh3 Kf7 44.Qg2 Qxg2+
+45.Kxg2 Rd2 46.Kf3 Rxd4 47.Re1 Kf6 48.Re5 Rd2 49.Ke3 Rd1
+50.Ke2 Rd4 51.f3 Kf7 52.f5 Kf6 53.fxg6 Kxg6 54.Rg5+ Kf6
+55.Rxh5 Ke6 56.Rg5 Ra4 57.Rg6+ Kf5 58.Rg8 Ra2+ 59.Kd3 Ra3+
+60.Kd4 Ke6 61.Rg6+ Kf7 62.Rg4 Ke6 63.Rf4 Ra4+ 64.Kc5 Ra5+
+65.Kb4 Ra1 66.h5 Rg1 67.Rg4 Rb1+ 68.Kc5 Rc1+ 69.Kd4 Rc4+
+70.Kd3 Rc8 71.h6 Rh8 72.Rh4 Rh7 73.Kd4 Kd6 74.Rh5 Ke6 75.g4
+1-0

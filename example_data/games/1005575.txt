@@ -1,0 +1,25 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "6"]
+[Result "0-1"]
+[White "Dmitry Grin"]
+[Black "Vladislav Borovikov"]
+[ECO "C05"]
+[WhiteElo "2282"]
+[BlackElo "2472"]
+[PlyCount "116"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6
+7. Ndf3 Qb6 8. h4 h5 9. Ne2 Ndb8 10. g3 Bd7 11. Bh3 cxd4
+12. cxd4 Ne7 13. Nc3 g6 14. O-O Nf5 15. Bxf5 gxf5 16. Rf2 Qa6
+17. Be3 Nc6 18. a3 Na5 19. Nd2 Rg8 20. Kh2 Rg4 21. Qf1 Qxf1
+22. Rfxf1 Rc8 23. Rfc1 Nc4 24. Nxc4 Rxc4 25. Nd1 Bc6 26. Rxc4
+dxc4 27. d5 Bxd5 28. Bxa7 Kd7 29. Ne3 Rg8 30. Rc1 b5 31. a4
+Kc6 32. axb5+ Kxb5 33. Rd1 Kc6 34. Rc1 Kb7 35. Bd4 Bb4
+36. Nxc4 Bxc4 37. Rxc4 Be1 38. Bc3 Bxg3+ 39. Kh3 Rg4 40. Bd2
+Bxh4 41. Rc3 Bf2 42. Rf3 Bb6 43. Rg3 Kc6 44. Rd3 Rg8 45. b3
+Rd8 46. Rxd8 Bxd8 47. Kg3 Be7 48. Kf3 Kd5 49. Be3 Bb4 50. Bf2
+Bd2 51. Bg1 h4 52. Bf2 h3 53. Bg3 Kd4 54. Ke2 Bb4 55. Kf3 Kd3
+56. Bh2 Be1 57. Bg1 Kc3 58. Ke2 Bg3 0-1

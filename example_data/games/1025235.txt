@@ -1,0 +1,22 @@
+[Event "Palma GMA-op"]
+[Site "Palma de Mallorca ESP"]
+[Date "1989.12.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Rainer F A Knaak"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 e6 2.c4 d5 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Be2 Be7 7.O-O
+O-O 8.Qc2 b6 9.b3 Bb7 10.Bb2 Rc8 11.Rfd1 Qc7 12.Rac1 Qb8
+13.Bd3 Rfd8 14.Qe2 Nf8 15.cxd5 Nxd5 16.Ba6 Bxa6 17.Qxa6 Nb4
+18.Qe2 c5 19.dxc5 Rxc5 20.a3 Nd5 21.Nxd5 Rcxd5 22.Rxd5 Rxd5
+23.e4 Rc5 24.Rxc5 Bxc5 25.g3 a5 26.a4 Qd6 27.Nd2 Qd8 28.Nc4
+Qg5 29.Kg2 Ng6 30.Kf1 h5 31.h4 Qd8 32.Qxh5 Qd3+ 33.Qe2 Qxb3
+34.Kg2 Bf8 35.h5 Ne7 36.Ne5 Qxa4 37.h6 Qe8 38.Ng4 Ng6 39.Qe3
+f5 40.exf5 Qc6+ 41.Kh2 Ne7 42.hxg7 Bxg7 43.Qg5 Nxf5 44.Nh6+
+1-0

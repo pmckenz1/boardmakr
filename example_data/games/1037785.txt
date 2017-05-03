@@ -1,0 +1,19 @@
+[Event "London CAN op"]
+[Site "10"]
+[Date "1993.07.17"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Roger Patterson"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.g3 Nc6 5.Bg2 g6 6.h3 Bg7 7.O-O
+O-O 8.d3 e5 9.Be3 Nd4 10.Ne1 Rb8 11.Qd2 Nh5 12.Nd5 f5 13.c3
+Ne6 14.exf5 gxf5 15.Qe2 Qe8 16.Bf3 Nf6 17.Nxf6+ Rxf6 18.Bh5
+Qf8 19.f4 exf4 20.gxf4 Bd7 21.Kh2 Kh8 22.Ng2 Bh6 23.Rae1 d5
+24.Bc1 Bc6 25.Qf2 Ng7 26.Bf3 Re6 27.d4 b6 28.dxc5 bxc5 29.Rd1
+Rd8 30.b3 Ree8 31.c4 Qd6 32.Bxd5 Bxd5 33.Rxd5 Qg6 34.Qxc5 1-0

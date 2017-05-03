@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Yelena Dembo"]
+[Black "Frank Jansen"]
+[ECO "B28"]
+[WhiteElo "2180"]
+[BlackElo "2140"]
+[PlyCount "31"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Qc7 6. Bd3 Nc6
+7. O-O b5 8. a3 Bb7 9. Nc3 Na5 10. f4 Nc4 11. Bxc4 Qxc4 12. f5
+e5 13. Nb3 Bxe4 14. Nd2 Qc6 15. Ndxe4 Rd8 16. Nd5 1-0

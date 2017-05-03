@@ -1,0 +1,20 @@
+[Event "Ch World FIDE, Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Sergey Dolmatov"]
+[Black "Pavel Kotsur"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. c4 Bg7
+7. Nb3 Ne7 8. Nc3 O-O 9. O-O Nbc6 10. Bf4 d5 11. cxd5 exd5
+12. Qe2 d4 13. Nb1 Nb4 14. N1d2 Nxd3 15. Qxd3 Nc6 16. Nf3 Re8
+17. Rfd1 Bg4 18. a3 Qe7 19. Nbd2 Bxf3 20. Qxf3 d3 21. Qxd3
+Bxb2 22. Ra2 Rad8 23. Qg3 Qxe4 24. Rf1 Qc2 25. Qg5 Re2 26. h4
+Rdxd2 27. Bxd2 Rxd2 28. Re1 Rd1 29. Qe3 Qb1 30. Rxd1 Qxd1+
+31. Kh2 Qb1 0-1

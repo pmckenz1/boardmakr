@@ -1,0 +1,16 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN "]
+[Date "1976.12.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Jozsef Pinter"]
+[Black "Andras Adorjan"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Nc6 7.O-O
+Bg4 8.e5 Bxf3 9.Rxf3 dxe5 10.dxe5 Nd5 11.Bd2 Nxc3 12.Bxc3 Qd5
+1/2-1/2

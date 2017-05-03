@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Dmitry Kamenetz"]
+[Black "K Ivanov"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 b6 4. e3 Bb7 5. Bb5+ c6 6. Bd3 Nbd7
+7. O-O Qc7 8. Re1 e6 9. Nd4 Bd6 10. f4 Rg8 11. Nf3 h6 12. c4
+g5 13. cxd5 Nxd5 14. Nc3 Nxc3 15. Bxc3 gxf4 16. Bh7 O-O-O
+17. Bxg8 Rxg8 18. e4 Kb8 19. Rc1 f5 20. d4 c5 21. exf5 exf5
+22. d5 b5 23. Re6 Kc8 24. Rxh6 Nb6 25. Qd3 Nxd5 26. Qxf5+ Kb8
+27. Qe6 Ne7 28. Rh8 Rxh8 29. Bxh8 Bd5 30. Qxd6 Qxd6 31. Be5
+Qxe5 32. Nxe5 c4 33. bxc4 bxc4 34. Nxc4 Nf5 35. Kf2 Kb7 36. a4
+Bc6 37. Na5+ 0-1

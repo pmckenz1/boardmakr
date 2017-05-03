@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "7"]
+[Result "0-1"]
+[White "Andrei Yeremenko"]
+[Black "Sergey Rybakov"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "2205"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c3 Bf5
+7. Re1 d5 8. Nh4 Be6 9. Nd2 Nbd7 10. Nf1 c5 11. dxc5 Nxc5
+12. Be3 Rc8 13. Bd4 b6 14. Nf3 Bd7 15. Be5 Bc6 16. Bh3 Ncd7
+17. Bf4 Nh5 18. Bg5 h6 19. Be3 e5 20. Qd2 Kh7 21. Red1 f5
+22. Bg2 f4 23. gxf4 Nxf4 24. Bxf4 Rxf4 25. Ne3 d4 26. cxd4
+exd4 27. Nf1 Qf6 28. Rac1 Nc5 29. Ng3 Rd8 30. b4 Ne4 31. Rxc6
+Nxd2 32. Rxf6 Nxf3+ 33. Bxf3 Bxf6 34. Kg2 d3 35. exd3 Rxb4
+36. Be4 Rb2 37. Rc1 Rd7 38. a4 Bd4 39. Rc6 Rxf2+ 40. Kh3 Rf6
+41. Rc8 Kg7 42. Bc6 Re7 43. Bb5 Rf3 44. Bc4 h5 45. Rd8 Be3
+46. Kg2 Rf2+ 47. Kh3 Bf4 48. Rd5 Ree2 0-1

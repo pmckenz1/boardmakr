@@ -1,0 +1,20 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1969.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vadim Z Faibisovich"]
+[Black "Vladimir Bagirov"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 Bf5 6.Nc3 e6 7.Be3
+dxe5 8.fxe5 Nc6 9.Nf3 Bb4 10.a3 Bxc3+ 11.bxc3 Qd7 12.Be2 Na5
+13.Nd2 Qc6 14.Bf3 Qa4 15.c5 Qxd1+ 16.Rxd1 Nd5 17.Bxd5 exd5
+18.O-O Bg6 19.Rde1 Kd7 20.c4 Nxc4 21.Nxc4 dxc4 22.d5 Rhe8
+23.Bd4 c6 24.d6 b5 25.cxb6 axb6 26.Bxb6 c3 27.Bd4 c2 28.Bb2
+Reb8 29.Bc1 Rb1 30.Rf3 Ra5 31.Rff1 Rd5 32.h3 h5 33.h4 Ke6
+34.Kh2 Rd4 35.g3 Bf5 36.a4 Rxa4 37.d7 Rd4 38.Bg5 Rxd7 0-1

@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Daniel L Bisby"]
+[Black "Heather S Richards"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 e6 2. d3 c5 3. g3 g6 4. Bg2 Bg7 5. Nc3 Nc6 6. Be3 Nd4
+7. Nce2 Qb6 8. c3 Nxe2 9. Qxe2 Ne7 10. f4 d6 11. Nf3 O-O
+12. O-O f5 13. e5 Qc7 14. Qf2 b6 15. d4 cxd4 16. Nxd4 d5
+17. Rfc1 Qd7 18. Bf1 Rb8 19. a4 Rd8 20. Bb5 Qb7 21. b4 Bf8
+22. Be2 a6 23. h3 Bd7 24. Qf1 Ra8 25. Kh2 Kh8 26. Qf2 Rab8
+27. g4 Rdc8 28. Qh4 Nc6 29. gxf5 gxf5 30. Rg1 Be7 31. Qh6 Rg8
+32. Nxe6 Rbe8 33. Rg7 1-0

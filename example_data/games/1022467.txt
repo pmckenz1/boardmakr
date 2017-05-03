@@ -1,0 +1,27 @@
+[Event "32nd ol Yerevan Armenia"]
+[Site "Yerevan ARM"]
+[Date "1996.09.20"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Vigen Mirumian"]
+[Black "Alexander Baburin"]
+[ECO "A05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "146"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 d5 6.Nbd2 c5 7.c3
+Nc6 8.e4 e5 9.exd5 Nxd5 10.Re1 h6 11.Nc4 Re8 12.Qb3 Nb6 13.Be3
+Be6 14.Qb5 Qxd3 15.Na3 Rad8 16.Bxc5 Bg4 17.Bxb6 Qxb5 18.Nxb5
+axb6 19.h3 Bf5 20.Rad1 Bc2 21.Rd2 Bd3 22.Bf1 Bxb5 23.Bxb5 Rxd2
+24.Nxd2 Rd8 25.Nc4 Na7 26.a4 Nxb5 27.axb5 Rd5 28.Nxb6 Rxb5
+29.Nc4 Rc5 30.Ne3 Rb5 31.Nc4 Rc5 32.Ne3 Rb5 33.Re2 h5 34.Rd2
+Kf8 35.Kf1 f5 36.b4 Rb6 37.Rd7 e4 38.Nd5 Rc6 39.Rxb7 Bxc3
+40.b5 Rc4 41.b6 Be5 42.Re7 Bb8 43.Rh7 Be5 44.Re7 Bb8 45.Rb7
+Be5 46.Ne7 Ke8 47.Nxg6 Bd6 48.Rh7 Rc1+ 49.Kg2 Rc2 50.b7 Rb2
+51.Kf1 Kd8 52.Rxh5 e3 53.fxe3 Bxg3 54.Rxf5 Bc7 55.Rf8+ Kd7
+56.Rf7+ Kd6 57.h4 Rxb7 58.Nf4 Rb2 59.h5 Bb6 60.Rf6+ Ke5 61.Rf8
+Ke4 62.Ng2 Rb5 63.h6 Rh5 64.Rf4+ Kd3 65.Rf6 Bxe3 66.Nxe3 Kxe3
+67.Kg2 Ke4 68.Kg3 Ke5 69.Ra6 Rh1 70.Kg2 Rh4 71.Kg3 Rh1 72.Kg4
+Rg1+ 73.Kh5 Kf5 1/2-1/2

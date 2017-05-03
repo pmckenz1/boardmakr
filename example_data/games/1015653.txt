@@ -1,0 +1,19 @@
+[Event "Bath (England)"]
+[Site "Bath (England)"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Guenter Capelan"]
+[ECO "B41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Bd3
+Nc6 8.Nxc6 dxc6 9.e5 Qa5 10.exf6 Bxc3+ 11.bxc3 Qxc3+ 12.Bd2
+Qxd3 13.fxg7 Rg8 14.Bg5 Qc3+ 15.Kf1 Qxc4+ 16.Kg1 Qd5 17.Bf6
+Qxd1+ 18.Rxd1 Bd7 19.f4 c5 20.Kf2 Bc6 21.Rhe1 Rc8 22.f5 Ba4
+23.Rd6 Bd7 24.Red1 Rc7 25.Bc3 f6 26.fxe6 Bxe6 27.Rxe6+ Re7
+28.Red6 Rexg7 29.g3 Rg5 30.Re1+ 1-0

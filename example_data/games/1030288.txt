@@ -1,0 +1,18 @@
+[Event "Vienna open"]
+[Site "Vienna open"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Aloyzas Kveinys"]
+[Black "Pavel Blatny"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3
+O-O 8.c3 d6 9.Rd1 Nd7 10.d4 Bf6 11.Bd5 Bb7 12.dxe5 dxe5 13.a4
+bxa4 14.Qc4 Qe7 15.Qxa4 Nb6 16.Qb3 Rab8 17.Be3 Nxd5 18.exd5 e4
+19.Nfd2 Ne5 20.Ba7 Nd3 21.Nf1 Bxd5 22.Qxd5 c6 23.Qxc6 Qxa7
+24.Ne3 Nxf2 25.Re1 Rb6 26.Qd5 Nd3 27.Nd2 Rd8 28.Qa5 Nxe1 0-1

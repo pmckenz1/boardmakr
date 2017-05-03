@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Jon Arni Halldorsson"]
+[Black "Benedikt Jonasson"]
+[ECO "A43"]
+[WhiteElo "2173"]
+[BlackElo "2285"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Bb5+ Nfd7
+7. a4 a6 8. Be2 Nf6 9. O-O Nbd7 10. Re1 O-O 11. h3 Rb8 12. Bf4
+Ne8 13. Bf1 b6 14. Qd2 Bb7 15. Rad1 Qc7 16. Qe3 Ne5 17. Nxe5
+dxe5 18. Bh6 Nd6 19. Bxg7 Kxg7 20. f4 f6 21. fxe5 fxe5 22. Be2
+Rf4 23. Rf1 Rbf8 24. g3 R4f6 25. Qg5 Nf7 26. Qe3 Bc8 27. Kg2
+Nd6 28. Qg5 Qd8 29. h4 h6 30. Qe3 Qd7 31. Rxf6 Rxf6 32. Rf1
+Rxf1 33. Bxf1 b5 34. axb5 axb5 35. Kg1 b4 36. Nd1 c4 37. Nf2
+Qa4 38. Qd2 Qa7 39. Kg2 Qc5 40. Kf3 c3 41. bxc3 bxc3 42. Qe3
+Qa3 43. Nd1 Qa1 44. Be2 Nb5 1/2-1/2

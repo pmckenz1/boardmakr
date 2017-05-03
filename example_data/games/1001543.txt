@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.11"]
+[EventDate "1882.05.10"]
+[Round "2"]
+[Result "1-0"]
+[White "Vincenz Hruby"]
+[Black "Max Weiss"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. O-O Be7 6. e5 Ne4
+7. Nxd4 Nc5 8. Nf5 Ne6 9. Re1 O-O 10. Qg4 Kh8 11. Bc4 g6
+12. Bxe6 fxe6 13. Nxe7 Qxe7 14. Bg5 Qf7 15. Bf6+ Kg8 16. Nc3
+d5 17. Ne2 Ne7 18. Nf4 Nf5 19. h4 h5 20. Nxh5 Qh7 21. Nf4 Kf7
+22. Nh3 Ke8 23. g3 c5 24. Nf4 Rg8 25. Rad1 Qf7 26. Nh3 b6
+27. b4 Bb7 28. bxc5 bxc5 29. Rb1 d4 30. Ng5 Qd7 31. Ne4 Bxe4
+32. Qxe4 Qd5 33. Qxd5 exd5 34. Rb7 c4 35. Reb1 d3 36. e6 Rd8
+37. cxd3 1-0

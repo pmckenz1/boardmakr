@@ -1,0 +1,24 @@
+[Event "GER Ch 6th"]
+[Site "Bad Oeynhausen GER"]
+[Date "1939.07.15"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Anton Kohler"]
+[Black "Erich Eliskases"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nc3 c5 6.Nf3 cxd4
+7.Nxd4 a6 8.Bd3 Bg4 9.Nf3 Nc6 10.h3 Bd7 11.O-O g6 12.Be3 Bg7
+13.Re1 O-O 14.Qd2 Re8 15.Rad1 Qc7 16.Bh6 Rad8 17.Bxg7 Kxg7
+18.Ne4 Ne5 19.Nxe5 Qxe5 20.c3 Bc6 21.Nxf6 Qxf6 22.Qe3 Rd7
+23.Be4 Red8 24.Rxd7 Rxd7 25.Bxc6 Qxc6 26.Qe5+ Qf6 27.Qxf6+
+Kxf6 28.Re2 Rd1+ 29.Kh2 h5 30.g3 e5 31.Kg2 Kf5 32.c4 f6 33.Re3
+Rc1 34.Rb3 Rxc4 35.Rxb7 h4 36.b3 Rc2 37.a4 hxg3 38.Kxg3 Rc3+
+39.Kg2 a5 40.Rb6 g5 41.f3 Kg6 42.Kf2 Rc2+ 43.Kg3 Re2 44.h4
+gxh4 45.Kxh4 Re3 46.Kg4 Rd3 47.Kg3 e4 48.Kf4 exf3 49.Kg3 Kg5
+50.b4 axb4 51.Rxb4 f5 52.Kf2 Ra3 53.a5 Rxa5 54.Kxf3 Ra3+
+55.Kf2 f4 56.Rb8 1/2-1/2

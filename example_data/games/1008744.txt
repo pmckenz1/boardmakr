@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Bagyashree Sathe Thipsay"]
+[Black "Neil Berry"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. O-O O-O 9. Kh1 Qc7 10. a4 Be6 11. f4 Nbd7
+12. Be3 Rfc8 13. a5 Bc4 14. Bxc4 Qxc4 15. Ra4 Qc7 16. Qe2 Bf8
+17. Nd2 Re8 18. f5 Rac8 19. g4 d5 20. exd5 Qd8 21. g5 Rxc3
+22. bxc3 Nxd5 23. Rh4 Nxe3 24. Qxe3 Bc5 25. Qh3 Nf8 26. Ne4
+Qd5 27. Qg2 Kh8 28. g6 fxg6 29. fxg6 Nxg6 30. Qxg6 1-0

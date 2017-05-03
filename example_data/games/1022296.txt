@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Evgeny Solozhenkin"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Nf3 Nc6
+7.d4 e6 8.Bd3 Be7 9.O-O O-O 10.Re1 Bd7 11.a3 Nxc3 12.bxc3 Rc8
+13.Qc2 h6 14.Rb1 Qc7 15.Qe2 a6 16.c4 Rfe8 17.c5 Rcd8 18.Qe4 f5
+19.Qe3 Bf6 20.Bc4 Kh8 21.Bd2 e5 22.d5 e4 23.dxc6 Bxc6 24.Qf4
+Qxf4 25.Bxf4 exf3 26.Rxe8+ Rxe8 27.gxf3 Bxf3 28.Bd3 g5 29.Bd6
+f4 30.Bf1 Bc6 31.Bg2 f3 32.Bf1 Kg7 33.Bd3 Bc3 34.h3 Kf6 35.Rb6
+Ba5 36.Rb3 Bd5 37.Rb2 Re1+ 38.Kh2 Rd1 39.Bh7 h5 40.h4 gxh4
+41.Bf4 Rd4 42.Bd6 Rd2 43.Rxd2 Bxd2 44.Bc2 Bc3 45.Kh3 Bd4
+46.Kxh4 Bxf2+ 47.Kxh5 Bd4 0-1

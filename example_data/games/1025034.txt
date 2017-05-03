@@ -1,0 +1,22 @@
+[Event "URS-FL Irkutsk"]
+[Site "URS-FL Irkutsk"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Dokhoian"]
+[Black "Yuri Balashov"]
+[ECO "D29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.Qe2
+b5 8.Bb3 Bb7 9.a4 Nbd7 10.Rd1 Qb6 11.axb5 axb5 12.Rxa8+ Bxa8
+13.Nc3 b4 14.dxc5 Bxc5 15.Na4 Qb8 16.Nxc5 Nxc5 17.Bc4 O-O
+18.Nd4 Rc8 19.f3 Bd5 20.Bxd5 Nxd5 21.e4 Ne7 22.Be3 h6 23.Rc1
+Na4 24.Ra1 Nc5 25.Ra5 Qd6 26.Ra7 Ng6 27.Qd2 Ne5 28.Nf5 Qxd2
+29.Ne7+ Kh7 30.Bxd2 Rd8 31.Bxb4 Rd1+ 32.Kf2 Ncd3+ 33.Ke2 Rg1
+34.Bc3 Rxg2+ 35.Ke3 Rxh2 36.f4 Rh3+ 37.Kd4 Ng4 38.f5 e5 39.Kc4
+Ngf2 40.Nc8 Nxe4 41.Rxf7 Rf3 42.Kd5 Nf6+ 43.Ke6 e4 44.Nd6 e3
+45.Ke7 Kg8 46.Rf8+ Kh7 47.Rf7 Kg8 48.Rf8+ Kh7 49.Rf7 1/2-1/2

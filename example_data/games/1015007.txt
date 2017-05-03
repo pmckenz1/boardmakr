@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.22"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Aleksander Sznapik"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 g6 4.c4 Bg7 5.Nc3 O-O 6.Be2 cxd4 7.exd4
+d5 8.cxd5 Nxd5 9.Qb3 Nb6 10.O-O Be6 11.Qa3 Nc6 12.Rd1 Bd5
+13.Bf4 e6 14.Rac1 Rc8 15.Nxd5 Nxd5 16.Bd6 Re8 17.Bb5 Qb6
+18.Qa4 a6 19.Bxc6 Rxc6 20.Rxc6 bxc6 21.Qc2 Rd8 22.Bc5 Qb5
+23.g3 a5 24.Kg2 Rb8 25.b3 Ra8 26.h4 h6 27.Rc1 a4 28.Bd6 axb3
+29.axb3 Ra6 30.h5 gxh5 31.Be5 Nb4 32.Qe4 Ra2 33.Bxg7 Kxg7
+34.Rc4 Qd5 35.Qb1 h4 36.gxh4 c5 37.Rxb4 Re2 38.Qd3 Re4 39.Rc4
+Rg4+ 40.Kf1 Rf4 41.Ke2 Re4+ 42.Kd1 Rf4 43.Nd2 Qh5+ 44.Kc2 cxd4
+45.Rxd4 Qc5+ 46.Rc4 Qxf2 47.Rxf4 Qxf4 48.Qe4 Qd6 49.Qg4+ Kf8
+50.b4 f5 51.Qc4 Ke8 52.b5 Ke7 53.Nb3 Qh2+ 54.Kc3 f4 55.Qc7+
+Kf6 56.b6 Qg3+ 57.Kb4 1-0

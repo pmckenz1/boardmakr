@@ -1,0 +1,17 @@
+[Event "Beverwijk"]
+[Site "Beverwijk NED"]
+[Date "1959.01.18"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Theo Daniel van Scheltinga"]
+[Black "Erich Eliskases"]
+[ECO "E40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Nc6 5.Nf3 O-O 6.Bd2 d6 7.a3
+Bxc3 8.Bxc3 Ne4 9.Qc2 Nxc3 10.Qxc3 Qf6 11.Bd3 e5 12.dxe5 Nxe5
+13.Nxe5 Qxe5 14.Qxe5 dxe5 15.O-O-O Be6 16.Rd2 Rfd8 17.Rhd1 Kf8
+18.Be4 Rxd2 19.Rxd2 c6 1/2-1/2

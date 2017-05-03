@@ -1,0 +1,19 @@
+[Event "Genting Highlands (Malaysia)"]
+[Site "Zt"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Leonid Sandler"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O
+Be7 8.Nc3 O-O 9.Bg5 cxd4 10.Nxd4 h6 11.Bf4 Be6 12.Rc1 Rc8
+13.Nxe6 fxe6 14.Bh3 Qd7 15.e4 Rcd8 16.exd5 Nxd5 17.Nxd5 Qxd5
+18.Qxd5 exd5 19.Bc7 Ra8 20.Be6+ Kh8 21.Bxd5 Rac8 22.Bf4 Bf6
+23.b3 Nd4 24.Rxc8 Ne2+ 25.Kh1 Rxc8 26.Bxb7 Rc2 27.Be3 Rxa2
+28.Rd1 a5 29.Rd6 Nc1 30.Be4 Ra1 31.Kg2 Ne2 32.Ra6 1-0

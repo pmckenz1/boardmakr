@@ -1,0 +1,32 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.24"]
+[EventDate "1895.08.05"]
+[Round "15"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "Georg Marco"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 {Notes by Schiffers} e5 2.f4 d5 3.Nf3 dxe4 4.Nxe5 Bd6
+{Here the attack Nc6 is possible, as first pointed out by
+Beaune ; it is apparently irregular. The best continuation to
+4...Nc6 is 5 Bb5 Nf6 6 d4 {6 Nxc6, bxc6 7 Bxc6+ Bd7 8 Bxd7+ (8
+Bxa8(?) Bg4) Qxd7 with a good game in exchange for the
+sacrifice of the Pawn.)} 5.d4 { A probable continuation might
+be 5 Bc4, and if Bxe5, then Qh5.} exd3 6.Nxd3 {After 6 Bxd3
+Bxe5 7 fxe5 White has a weak isolated Pawn on e5 without any
+compensating attack.} Nf6 7.Be2 O-O 8.O-O Nc6 9.Nc3 Nd4 10.Bf3
+{10 Be3 would have been better; after 10...Nf5might follow for
+instance, 11 Bf2, and after 10...Nxe2+; 11 Qxe2 Re8 12 h3; or
+11...Ng4 12 h3, etc.} Re8 {!} 11.Bd2 c6 {Black deliberately
+prepares an attack upon the f-pawn} 12.Kh1 Bf5 13.Be1 Qc7
+14.Bf2 {Bg3 was no better; White now loses the Pawn.} Nxf3
+15.Qxf3 Bxd3 16.cxd3 Bxf4 17.Bh4 Be5 {!} 18.Rac1 Bxc3 19.Rxc3
+Re6 20.Rc5 Rd8 21.Rg5 Qd6 22.Rg3 Kh8 {!} 23.Bg5 Qe5 24.h4 {?
+This move, in conjunction with 28 g3, effects the shutting up
+of the Rook on g4.} h6 25.Bc1 Nh5 26.Rg4 Rf6 27.Bf4 Qxb2 28.g3
+{?} Qxa2 29.Qe3 Qd5+ 30.Rf3 Re6 31.Qf2 Nf6 0-1

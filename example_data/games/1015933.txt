@@ -1,0 +1,27 @@
+[Event "Riga Interzonal"]
+[Site "Riga LAT"]
+[Date "1979.09.14"]
+[EventDate "1979.09.05"]
+[Round "7"]
+[Result "0-1"]
+[White "Edmar J Mednis"]
+[Black "Andras Adorjan"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.a3 b6 6.Nf3 Bb7 7.O-O
+Nf6 8.Rb1 O-O 9.b4 cxb4 10.axb4 d5 11.b5 Na5 12.cxd5 Nxd5
+13.Nxd5 Qxd5 14.Qa4 Qc4 15.Qxc4 Nxc4 16.d3 Nd6 17.Ba3 Rfc8
+18.Bxd6 exd6 19.Ne1 Bxg2 20.Nxg2 Rc2 21.e3 Bh6 22.d4 Rac8
+23.Rfd1 Ra2 24.Ne1 Ra5 25.Nd3 Kf8 26.Kg2 Ke8 27.Kf3 Kd7 28.h4
+Rc3 29.Rb2 f6 30.Ke2 d5 31.Rc1 Rxc1 32.Nxc1 Bf8 33.Ra2 Bd6
+34.Kd1 Ke6 35.Rxa5 bxa5 36.Kc2 h5 37.Ne2 g5 38.f3 a4 39.e4 Bb4
+40.Nc3 dxe4 41.fxe4 a3 42.Ne2 Bd6 43.Kb3 g4 44.Ka2 Ke7 45.Kb3
+Kd7 46.Ka2 Kc7 47.Nc3 Bxg3 48.Nd5+ Kb7 49.Nxf6 Bxh4 50.Nxh5
+Kb6 51.Kxa3 Kxb5 52.Kb3 g3 53.Nf4 Bg5 54.Ng2 a5 55.e5 Be7
+56.d5 a4 57.Ka2 Bc5 58.d6 Kc6 59.Ne1 Kd7 60.Kb2 Bb4 61.Nf3 g2
+62.Kc2 Ke6 63.Kd3 Kd5 64.d7 Be7 65.Kc3 Ke4 66.Ng1 Kxe5 67.Ne2
+Ke4 68.Kc4 Ke3 69.Ng1 Kd2 70.Nf3+ Kc1 71.Kc3 Kb1 72.Nd2+ Ka2
+73.Nf3 Bf6+ 74.Kc2 Ka3 75.Ng1 Kb4 76.Nf3 a3 77.Kb1 g1=Q+ 0-1

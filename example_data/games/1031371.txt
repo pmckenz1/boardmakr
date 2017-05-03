@@ -1,0 +1,18 @@
+[Event "Marshall Int"]
+[Site "New York, NY USA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Alan Williams"]
+[Black "Jay R Bonin"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.Ne5 Nd7 8.Nf3 e6 9.Bf4 Be7 10.Qd2 b6 11.Bd3 Bb7 12.O-O-O O-O
+13.Ng5 Nf6 14.h4 Rc8 15.Qe2 b5 16.Be5 g6 17.h5 c5 18.Nxh7 c4
+19.Nxf6+ Bxf6 20.hxg6 cxd3 21.Qh5 Bg5+ 22.Rd2 Bxd2+ 23.Kxd2
+Rxc2+ 24.Kd1 Rc1+ 25.Kxc1 Qc8+ 26.Kb1 1-0

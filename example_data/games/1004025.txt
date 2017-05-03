@@ -1,0 +1,22 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "11"]
+[Result "1-0"]
+[White "Lajos Steiner"]
+[Black "Lajos Asztalos"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Nc6 12. d5 Nd8
+13. Nbd2 g5 14. Nxg5 Rg8 15. f4 h6 16. fxe5 dxe5 17. Ngf3 Bxh3
+18. Re2 Bg4 19. Kf2 Nh5 20. Nf1 Bxf3 21. Kxf3 Bh4 22. g4 Qd6
+23. Ne3 Nf4 24. Rh2 Qf6 25. Nf5 Bg5 26. Be3 Nfe6 27. dxe6 fxe6
+28. Bxc5 exf5 29. gxf5 Bf4 30. Qd5 Rg3+ 31. Kf2 Qg5 32. Rf1
+Rc8 33. Ke1 Rg4 34. Re2 Rc7 35. Bd6 Rd7 36. Rxf4 Rg1+ 37. Rf1
+Qg3+ 38. Ref2 Qe3+ 39. Kd1 Rxf1+ 40. Rxf1 Nf7 41. Qa8+ Rd8
+42. Qc6+ Rd7 43. Re1 Qg5 44. Bb3 Nd8 45. Qxa6 Nb7 46. Qc6 1-0

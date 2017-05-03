@@ -1,0 +1,15 @@
+[Event "Ch USA"]
+[Site "Durango, CO USA"]
+[Date "1992.12.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Alexander Ivanov"]
+[Black "Roman Dzindzichashvili"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 exd4 6.Nxd4 g6 7.Be3
+Bg7 8.Qd2 Nf6 9.Bxc6 bxc6 10.Bh6 O-O 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Jakarta (Indonesia)"]
+[Site "It"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Syarif Mahmud"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c6 7.Qd2 a6
+8.a4 a5 9.Nge2 Re8 10.Rd1 Na6 11.g4 Nb4 12.Ng3 Qb6 13.Be3 e5
+14.Kf2 Qc7 15.d5 cxd5 16.cxd5 Bxg4 17.fxg4 Nxg4+ 18.Kg2 Nxe3+
+19.Qxe3 Nc2 20.Qf2 Nd4 21.Nb5 Qe7 22.Rc1 Rac8 23.Bd3 h5
+24.Rxc8 Rxc8 25.Nxd4 exd4 26.Rf1 Rc7 27.Kh1 Qd7 28.Rg1 Qxa4
+29.Qf4 Qd7 30.Nxh5 Qh3 31.Nxg7 Kxg7 32.Rg3 Qh5 33.Kg2 a4
+34.Rf3 Qe5 35.Qxe5+ dxe5 36.Bb5 f5 37.d6 1-0

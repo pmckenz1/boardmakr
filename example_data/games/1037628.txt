@@ -1,0 +1,20 @@
+[Event "Toronto zt"]
+[Site "04"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Michael K Rohland"]
+[Black "Lawrence Day"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.c4 e5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.Rb1 Bg7 6.b4 a6 7.Qa4 Bd7
+8.b5 axb5 9.Qxb5 Na5 10.Qb2 Ne7 11.e3 O-O 12.Nge2 Bc6 13.Bxc6
+bxc6 14.d3 e4 15.dxe4 Nxc4 16.Qb3 Ne5 17.O-O Rb8 18.Qc2 c5
+19.f4 N5c6 20.Rxb8 Qxb8 21.Bd2 Nb4 22.Qa4 Qa8 23.Qd7 Qd8
+24.Qb5 c6 25.Qb7 d5 26.Rd1 Qd6 27.Be1 Rb8 28.Qa7 c4 29.e5 Qd8
+30.Ne4 Nd3 31.Nf6+ Bxf6 32.exf6 Nf5 33.Bf2 Rb2 34.Nd4 Qxf6
+35.Nxf5 Qxf5 36.e4 Qxe4 37.Qa8+ Kg7 0-1

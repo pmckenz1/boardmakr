@@ -1,0 +1,31 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.03"]
+[EventDate "1922.07.31"]
+[Round "3"]
+[Result "0-1"]
+[White "Charles Gilbert Marriott Watson"]
+[Black "Max Euwe"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 {Notes by Geza Maroczy} Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2
+d6 5. e4 O-O 6. Bd3 Nbd7 7. Qe2 {Castling is better} Nh5
+8. Be3 e5 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. c3 Nf4 12. Bxf4 Bxf4
+13. g3 Bh6 14. h4 d5 15. O-O-O dxe4 16. Bxe4 Re8 17. f4 c6 {To
+prepare f5 which cannot be played directly because of Bd5+.}
+18. Qf3 Qa5 19. Bb1 Be6 20. Nb3 {White spends too much time on
+the defence of his queen-side. He should have vigorously
+attacked the Black king by 20 h5, e.g., Bg7 21 hxg6 hxg6 22 g4
+Bd5 23 Ne4 f5? (better is Qa4) 24 gxf5 gxf5 25 Qh5. Of course,
+the variations arising from h5 are dangerous to both parties,
+for instance, if on the 23rd move White plays 23 Be4 instead
+of Ne4 he loses by Rxe4 24 Nxe4 Qxa2.} Qb6 21. h5 Bg7 22. hxg6
+hxg6 23. f5 {White cannot save the exchange; if 23 Rh4 then
+Bd5 24 Qf1 Qe3+ 25 Nd2 Bxc3 26 bxc3 Qxc3+ 27 Bc2 Qa3+ 28 Kb1
+Bxa2+, etc.} Bd5 24. Rxd5 cxd5 25. Nd4 Bxd4 26. fxg6 Be3+
+27. Kd1 fxg6 28. a4 Kg7 {! Qxb2 would give White a draw by
+means of 29 Rh8+ Kxh8 30 Qf6+ Kg8! 31 Qxg6+, etc.} 29. g4 Bg5
+0-1

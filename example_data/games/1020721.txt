@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.25"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Ljubomir Ljubojevic"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 e6 5.O-O Be7 6.c4 O-O 7.Nc3
+Ne4 8.Bd2 Bf6 9.Rc1 c5 10.Nxe4 Bxe4 11.Bc3 d6 12.dxc5 dxc5
+13.Ne5 Bxg2 14.Kxg2 Qc7 15.Nf3 Rd8 16.Qc2 Bxc3 17.Qxc3 Nc6
+18.Rfd1 h6 19.Qe3 Rxd1 20.Rxd1 Rd8 21.Rxd8+ Qxd8 1/2-1/2

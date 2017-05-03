@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.17"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Gilles Miralles"]
+[Black "Andras Adorjan"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb4 6.Qc2 Bb7 7.Bg2
+c5 8.dxc5 Bxc5 9.O-O Be7 10.b3 d6 11.Bb2 Nbd7 12.Rad1 Qc7
+13.Qb1 O-O 14.Qa1 Rac8 15.Ne1 Rfd8 16.Bxb7 Qxb7 17.Ng2 b5
+18.Ne3 Qa6 19.Rfe1 h6 20.cxb5 Qxb5 21.Ba3 Nc5 22.Ndc4 Qa6
+23.Bb2 d5 24.Ne5 Nce4 25.Nd3 Ba3 26.Bd4 Ne8 27.b4 Qc6 28.Rb1
+Nd2 29.Rb3 Qa4 30.Rd1 Nxb3 31.axb3 Qxb3 32.Rb1 Qa4 33.Bb2 d4
+34.Bxd4 a5 35.Nc5 Qc6 36.b5 Qd6 37.Nb7 Qxd4 38.Nxd8 Qxa1
+39.Rxa1 Rxd8 40.Rxa3 Rb8 41.Rxa5 Nd6 1/2-1/2

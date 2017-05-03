@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1950.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nicolas Rossolimo"]
+[Black "Erich Eliskases"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4
+h6 8.Bd3 Bxd3 9.Qxd3 e6 10.Bd2 Ngf6 11.O-O-O Qc7 12.Qe2 O-O-O
+13.Ne5 Nxe5 14.dxe5 Nd7 15.f4 Be7 16.h5 Nc5 17.Ne4 Nxe4
+18.Qxe4 Qb6 19.Qe2 Rd5 20.Be3 Bc5 21.Bxc5 Qxc5 22.Rxd5 Qxd5
+23.Kb1 Rd8 24.a3 Qd4 25.g3 Rd5 26.Rc1 a5 27.Qg4 1/2-1/2

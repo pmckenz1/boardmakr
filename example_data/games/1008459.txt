@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Thomas Leonard"]
+[Black "Mark Ritter"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d3 g6 5. Ng5 Nh6 6. a3 Bg7
+7. Nc3 O-O 8. h3 Nd4 9. Be3 c6 10. Qd2 b5 11. Ba2 Kh8
+12. O-O-O a5 13. Ne2 Qe7 14. Nf3 Nxe2+ 15. Qxe2 f6 16. Qd2 Nf7
+17. Bxf7 Qxf7 18. Qc3 c5 19. Qb3 Qe8 20. c3 Be6 21. Qc2 Qf7
+22. Rdf1 Bb3 23. Qb1 b4 24. c4 bxa3 25. bxa3 Rab8 26. Qa1 f5
+27. Nd2 f4 28. Nxb3 Rxb3 29. Kc2 Rfb8 30. Bc1 d5 31. cxd5 c4
+32. dxc4 Qc7 33. f3 Qxc4+ 34. Kd2 Qd3+ 35. Ke1 Rb1 36. Kf2
+Rxa1 37. Kg1 Qxf1+ 38. Kxf1 Rxc1+ 0-1

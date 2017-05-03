@@ -1,0 +1,22 @@
+[Event "GER"]
+[Site "GER"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Zoltan Almasi"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. g3 Bb7 8. Nf3 d6 9. Bg2 Nbd7 10. O-O Qe7 11. b3 c5
+12. Bb2 Rac8 13. Rad1 d5 14. cxd5 Bxd5 15. Nd2 Rfd8 16. e4
+cxd4 17. Qxd4 e5 18. Qb4 Qxb4 19. axb4 Be6 20. Nc4 Ne8 21. Rd2
+f6 22. Rfd1 Kf8 23. f4 Ke7 24. Bf1 exf4 25. gxf4 h6 26. h4 g5
+27. hxg5 hxg5 28. fxg5 fxg5 29. Ra1 Rc7 30. Rh2 Nf8 31. Be5
+Rcd7 32. Rha2 Ng6 33. Bg3 Nf6 34. Rxa7 Nxe4 35. Bc7 Re8
+36. Bxb6 Nh4 37. Be2 g4 38. Rxd7+ Bxd7 39. Ra7 Nf3+ 40. Kg2
+1-0

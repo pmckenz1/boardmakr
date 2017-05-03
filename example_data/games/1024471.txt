@@ -1,0 +1,21 @@
+[Event "URS-ch"]
+[Site "URS"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Gennadi Kuzmin"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 c5 6.e3 d6 7.Bd3
+cxd4 8.exd4 h6 9.Bxf6 Qxf6 10.O-O Bxc3 11.bxc3 Nc6 12.Nd2 d5
+13.Re1 Bd7 14.Re3 b6 15.Nf3 dxc4 16.Bxc4 Rac8 17.Qe2 Rc7
+18.Re1 Bc8 19.Bd3 Bb7 20.Be4 Rd8 21.h3 Qf4 22.Nd2 Ne7 23.Rf3
+Qg5 24.Rg3 Qa5 25.Qg4 Qg5 26.Qe2 Qa5 27.Nb3 Qa3 28.Qg4 g6
+29.Bb1 Qd6 30.Nd2 Rdc8 31.Be4 f5 32.Qh4 fxe4 33.Qxh6 Rxc3
+34.Nf3 exf3 35.Rxg6+ Nxg6 36.Qxg6+ Kf8 37.Qf6+ Kg8 38.Qg6+ Kf8
+39.Qf6+ 1/2-1/2

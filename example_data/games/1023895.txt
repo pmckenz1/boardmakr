@@ -1,0 +1,20 @@
+[Event "Berliner Sommer"]
+[Site "Berliner Sommer"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Bernard Bannink"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.b3 d5 2.Bb2 Nf6 3.e3 g6 4.c4 c6 5.Nf3 Bg7 6.Be2 O-O 7.O-O
+Re8 8.d4 Bg4 9.Nbd2 Nbd7 10.h3 Bxf3 11.Nxf3 Ne4 12.b4 a6
+13.Qb3 e6 14.a4 b6 15.Rfc1 Qb8 16.cxd5 cxd5 17.b5 a5 18.Rc6
+Bf8 19.Rac1 Qb7 20.Rc7 Ndc5 21.Rxb7 Nxb3 22.Rc6 Rac8 23.Rbxb6
+Nbd2 24.Nxd2 Nxd2 25.Rxc8 Rxc8 26.Rc6 Ra8 27.f3 Bb4 28.Bc3 Kf8
+29.Bxb4+ axb4 30.b6 Ke7 31.a5 b3 32.b7 Rb8 33.a6 Kd7 34.Bb5
+1-0

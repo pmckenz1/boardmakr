@@ -1,0 +1,20 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.21"]
+[EventDate "1926.03.07"]
+[Round "11"]
+[Result "0-1"]
+[White "Jacques Davidson"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 Nc6 6. h3 O-O
+7. Be3 Nd7 8. Qd2 e5 9. d5 Ncb8 10. O-O-O a5 11. Bd3 Na6
+12. g4 Ndc5 13. Bb1 Bd7 14. Bh6 Nb4 15. Bxg7 Kxg7 16. Qe3 Rb8
+17. Nxe5 Ba4 18. Nxa4 Nxa4 19. Nd3 b5 20. Nxb4 axb4 21. Bd3
+Qf6 22. Rd2 b3 23. axb3 Nc5 24. g5 Qe7 25. Bc2 Ra8 26. Re1
+Ra1+ 27. Bb1 bxc4 28. bxc4 Rb8 29. Rdd1 Qe5 30. Re2 Rb4 31. f3
+Rxc4+ 0-1

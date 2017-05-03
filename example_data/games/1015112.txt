@@ -1,0 +1,19 @@
+[Event "Sydney (AUS)"]
+[Site "Sydney (AUS)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Guy West"]
+[Black "Utut Adianto"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c6 2.c4 e5 3.d4 d6 4.Nc3 Be7 5.Nge2 Nf6 6.g3 O-O 7.Bg2 a6
+8.O-O Qc7 9.d5 Nbd7 10.h3 b5 11.dxc6 Qxc6 12.Nd5 Bd8 13.cxb5
+axb5 14.Nb4 Qc4 15.a3 Bb7 16.Nc3 Ba5 17.Nbd5 Bxc3 18.Nxc3 b4
+19.Nd5 Nxe4 20.Nxb4 Ndc5 21.Re1 f5 22.Rb1 Rad8 23.b3 Qf7
+24.Qc2 Rc8 25.Nd3 Na4 26.Qxc8 Rxc8 27.bxa4 Rc3 28.Rd1 h6 29.a5
+Rb3 30.Rb2 Qd5 31.Rxb3 Qxb3 32.Nb2 Qc2 0-1

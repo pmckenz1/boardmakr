@@ -1,0 +1,18 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rune Djurhuus"]
+[Black "Yuri Balashov"]
+[ECO "C32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Be2 Nf6 5.Nf3 Bd6 6.c4 c6 7.d4
+cxd5 8.c5 Bc7 9.O-O Nc6 10.a3 O-O 11.b4 a6 12.Nc3 Re8 13.Bd3
+Bg4 14.Ne2 Ne4 15.h3 Bxf3 16.Rxf3 Ng5 17.Rxf4 Bxf4 18.Bxf4 Qf6
+19.Qd2 Nxd4 20.Rf1 Ne4 21.Qe3 Nxe2+ 22.Qxe2 Nxc5 23.Bxh7+ Kxh7
+24.Qh5+ Kg8 25.bxc5 Re4 26.Bd6 Qe6 0-1

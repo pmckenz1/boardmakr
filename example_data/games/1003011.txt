@@ -1,0 +1,18 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.18"]
+[EventDate "1905.08.14"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Hugo Suechting"]
+[Black "Heinrich Wolf"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qe2 Nd4 9. Nxd4 Qxd4 10. Rd1 Bg4 11. Rxd4
+Bxe2 12. Nc3 Bh5 13. Bg5 h6 14. Bh4 g5 15. Bg3 Rd8 16. Ra4 a6
+17. Ne4 Be7 18. Nf6+ Bxf6 19. exf6 Kd7 20. Re4 Rhe8 21. Rae1
+Rxe4 22. Rxe4 Re8 23. Rxe8 Kxe8 24. Bxc7 Kd7 25. Bb6 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Hastings 1936/37"]
+[Site "Hastings (ENG)"]
+[Date "1936.12.29"]
+[EventDate "1936.12.28"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Movsa Feigin"]
+[Black "George Alan Thomas"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 Ne4 6.Bxe7 Qxe7
+7.cxd5 Nxc3 8.bxc3 exd5 9.Qb3 c6 10.e3 Bf5 11.c4 O-O 12.Be2
+Be4 13.O-O b6 14.Ne5 dxc4 15.Bxc4 b5 16.Bd3 Bxd3 17.Qxd3 f6
+18.Qb3+ Kh8 19.Nd3 Nd7 20.Rfc1 Rfc8 21.a4 bxa4 22.Qxa4 Nb6
+23.Qa6 h6 24.Ra5 Rc7 25.Rac5 Rac8 26.Nf4 Qf7 27.e4 Qd7 28.Qd3
+Qd6 29.Qf3 Kg8 30.Qb3+ Kh7 31.Qf3 Nd7 32.R5c3 Nf8 33.Qe3 Ng6
+34.Nd3 Ne7 35.Rc5 Rd7 36.d5 Rdd8 37.e5 fxe5 38.Nxe5 Nxd5
+39.Qd3+ Kg8 40.Nxc6 Rc7 41.g3 Rdd7 42.Qc4 Qe6 43.Rd1 Kh8
+44.Nd4 Qb6 45.Rxc7 Qxc7 46.Qb3 Nb6 47.Qb1 Qd8 48.Qe4 Nc4
+49.Kg2 Qe7 50.Qc2 Qf7 51.Nf3 Rxd1 52.Qxd1 1/2-1/2

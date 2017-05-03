@@ -1,0 +1,23 @@
+[Event "Bundesliga 1997/98, Germany"]
+[Site "Bundesliga 1997/98, Germany"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Vladimir Epishin"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rb1 b6 10. Bb5+ Bd7 11. Be2 Bc6
+12. Bd3 Nd7 13. h4 Rd8 14. Ne2 cxd4 15. cxd4 Nc5 16. Qxa5 bxa5
+17. Bb5 Bxb5 18. Rxb5 Nxe4 19. O-O O-O 20. Rfb1 Nd6 21. Rxa5
+Rd7 22. d5 Ra8 23. Bf4 Bf6 24. g3 Kg7 25. Rc1 Rb8 26. Be3 Rb2
+27. Nd4 Nb7 28. Rxa7 Rxd5 29. Nc6 Nd6 30. Rd7 Rxa2 31. Nb4
+Rda5 32. Nxa2 Rxa2 33. Ra7 Rb2 34. Bc5 Ne4 35. Rd7 Nxc5
+36. Rxc5 h5 37. Rd8 Ra2 38. Kg2 Rb2 39. Rcc8 Be5 40. Rg8+ Kh7
+41. Rgd8 Kg7 42. Rc4 f5 43. Rdc8 Bf6 44. Rc2 Rb3 45. R8c7
+1/2-1/2

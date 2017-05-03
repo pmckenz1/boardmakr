@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Donald J Mason"]
+[Black "Stephen Ledger"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6
+7. Nf3 Nge7 8. O-O O-O 9. Be3 Nd4 10. Bf2 Nec6 11. Nxd4 Nxd4
+12. e5 dxe5 13. fxe5 Bxe5 14. Ne4 f5 15. Nxc5 Qc7 16. b4 Nc6
+17. d4 Bg7 18. c3 b6 19. Qf3 bxc5 20. Qxc6 Qxc6 21. Bxc6 Rb8
+22. bxc5 Ba6 23. Rfb1 Kf7 24. Rb4 Rxb4 25. cxb4 Bc4 26. Rc1
+Be2 27. Rc2 Bd3 28. Rd2 Bc4 29. Be3 Rd8 30. Kf2 Bf6 31. Rc2
+Bd3 32. Rc3 Bb1 33. Ra3 Bxd4 34. Rxa7+ Kf6 35. Bd7 e5 36. Bxd4
+exd4 37. c6 Kg5 38. c7 Rxd7 39. c8=Q Rxa7 40. Qc1+ 1-0

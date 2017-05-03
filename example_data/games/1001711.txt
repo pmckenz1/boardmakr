@@ -1,0 +1,24 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.06.05"]
+[EventDate "1882.05.10"]
+[Round "21"]
+[Result "1/2-1/2"]
+[White "Max Weiss"]
+[Black "Philipp Meitner"]
+[ECO "C70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. d4 exd4 6. Nxd4
+Nxd4 7. Qxd4 b5 8. Bb3 d6 9. c3 c5 10. Qd1 Bb7 11. O-O c4
+12. Bc2 Ng6 13. Nd2 Be7 14. Nf3 O-O 15. Be3 Re8 16. Re1 Bf8
+17. Bd4 f6 18. a4 Bc6 19. b3 Kh8 20. bxc4 bxc4 21. a5 Qc8
+22. Bb6 Qb7 23. Qd4 Rac8 24. Nd2 d5 25. exd5 Bxd5 26. f3 Qf7
+27. Ne4 Ne5 28. Rad1 Nd3 29. Bxd3 cxd3 30. Qxd3 Bb3 31. Rc1
+Bc4 32. Qd2 Re6 33. Ng3 Rd6 34. Qf4 Rdc6 35. Bd4 Bd6 36. Qf5
+Bc5 37. Rb1 Bb3 38. Rb2 Be6 39. Qe4 Bd5 40. Qe3 Re6 41. Qf2
+Rec6 42. Ne4 Bxe4 43. Rxe4 Bxd4 44. Qxd4 h6 45. Re3 Qc7
+46. Rbe2 Qxa5 47. Re8+ Kh7 48. Qd3+ f5 49. R8e5 Qb6+ 50. Kf1
+Rf8 51. Rxf5 Rxc3 52. Rb5+ Rxd3 53. Rxb6 1/2-1/2

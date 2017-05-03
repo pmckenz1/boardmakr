@@ -1,0 +1,20 @@
+[Event "New York op (02)"]
+[Site "New York op (02)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Erez Klein"]
+[Black "Utut Adianto"]
+[ECO "D25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 a6 5.Bxc4 b5 6.Bb3 Bb7 7.O-O
+e6 8.Qe2 Nbd7 9.Nc3 c5 10.Rd1 Qc7 11.d5 c4 12.dxe6 fxe6 13.Bc2
+Bc5 14.Nd4 O-O-O 15.e4 Qb6 16.Be3 Ne5 17.Nxe6 Rxd1+ 18.Rxd1
+Bxe3 19.Qxe3 Qxe6 20.f4 Ned7 21.e5 Nd5 22.Nxd5 Bxd5 23.Be4
+Bxe4 24.Qxe4 Qb6+ 25.Kf1 Re8 26.Qd5 Nb8 27.f5 Rd8 28.Qf3 Rxd1+
+29.Qxd1 Qe3 30.e6 Qf4+ 31.Kg1 Qxf5 32.Qd6 Qb1+ 33.Kf2 Qxb2+
+34.Kg3 Qf6 35.Qc5+ Kb7 36.e7 Qg6+ 37.Kf2 Nc6 0-1

@@ -1,0 +1,22 @@
+[Event "BL 8990 ;BL"]
+[Site "BL 8990 ;BL"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Juergen Fleck"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. Be2 Be7 8. O-O O-O 9. f4 Qc7 10. a4 Nc6 11. Kh1 Re8 12. Bf3
+Rb8 13. Qd2 Bd7 14. Nb3 b6 15. g4 Bc8 16. g5 Nd7 17. Bg2 Na5
+18. Qf2 Nxb3 19. cxb3 Nc5 20. b4 Nd3 21. Qh4 Qc4 22. Rf3 d5
+23. Rh3 h6 24. Qg3 d4 25. gxh6 g6 26. Bd2 Bxb4 27. Qxd3 Qxd3
+28. Rxd3 dxc3 29. Bxc3 Bxc3 30. Rxc3 Bb7 31. Rd1 Red8
+32. Rxd8+ Rxd8 33. Kg1 Rc8 34. Rxc8+ Bxc8 35. Bf1 Kh7 36. Kf2
+Kxh6 37. Be2 f6 38. Kg3 e5 39. fxe5 fxe5 40. Bc4 Bd7 41. Bxa6
+Bxa4 42. Bb7 1/2-1/2

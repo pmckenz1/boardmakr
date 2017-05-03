@@ -1,0 +1,25 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1970.07.22"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Dragoljub M Ciric"]
+[Black "Efim Geller"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.a4 Bb7 9.d3 d6 10.Bd2 b4 11.c3 d5 12.exd5 Nxd5 13.Nxe5
+Nxe5 14.Rxe5 Bf6 15.Re1 Qd6 16.d4 Rae8 17.Qf3 c5 18.c4 Rxe1+
+19.Bxe1 Qe7 20.Nd2 Nc3 21.d5 Ne2+ 22.Kf1 Bxb2 23.Rb1 Re8
+24.Ne4 Nd4 25.Qd3 Nxb3 26.Rxb2 Qxe4 27.Qxe4 Rxe4 28.Rxb3 a5
+29.Re3 Rxe3 30.fxe3 Ba6 31.e4 Bxc4+ 32.Kf2 Bb3 33.Ke3 Bxa4
+34.Kd3 Bb5+ 35.Kc2 c4 36.Bf2 Ba4+ 37.Kb1 Bb5 38.Bb6 a4 39.Bc5
+b3 40.Kb2 f6 41.Kc3 Kf7 42.Ba3 Ke8 43.Bc5 Kd8 44.Ba3 Kd7
+45.Kd2 Kc7 46.Kc3 Ba6 47.Bf8 g6 48.Ba3 Kd7 49.Kd4 Kc8 50.Kc3
+Kc7 51.Kd4 Kb6 52.Kc3 Kb5 53.Kd4 b2 54.Bxb2 Kb4 55.d6 Bc8
+56.Bc3+ Kb3 57.Ba1 a3 58.Bc3 a2 59.Ba1 Be6 60.h3 h5 61.h4 Bc8
+62.Bc3 Bd7 63.Ba1 Be6 64.Bc3 Kc2 65.d7 Bxd7 66.Kxc4 Bc6 0-1

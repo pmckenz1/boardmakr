@@ -1,0 +1,24 @@
+[Event "Wrexham (England)"]
+[Site "It"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Keith Arkell"]
+[Black "Nigel Rodney Davies"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2
+Be7 8.Nc3 O-O 9.O-O Na6 10.Bf4 d5 11.cxd5 exd5 12.Ne5 Qc8
+13.a3 c6 14.b4 Nc7 15.Rc1 Rd8 16.Rc2 Bd6 17.Nb1 Ne6 18.Bh3 Qc7
+19.Bxe6 fxe6 20.Nxc6 Bxc6 21.Qc1 Bxf4 22.gxf4 Rac8 23.b5 Rd6
+24.bxc6 Rxc6 25.Rxc6 Qxc6 26.Qe3 Kf7 27.Nd2 Qc3 28.Qxc3 Rxc3
+29.Nf3 Ke7 30.Ra1 Nh5 31.e3 Nxf4 32.Ne5 Nd3 33.Nxd3 Rxd3
+34.Kg2 Kd6 35.a4 Rc3 36.Kg3 e5 37.dxe5+ Kxe5 38.Kg2 Rc5 39.Rb1
+Kd6 40.Kf3 Kc6 41.h4 g6 42.h5 gxh5 43.Rh1 Rc4 44.a5 b5 45.Rxh5
+b4 46.Rh6+ Kb5 47.Rxh7 a6 48.Rd7 b3 49.Rxd5+ Ka4 50.Rd1 b2
+51.Rb1 Kb3 52.Ke2 Ka2 53.Rd1 Rc1 54.Rd2 Kb3 55.Rxb2+ Kxb2
+56.Kd3 Kb3 57.Kd4 Kb4 58.Kd5 Kxa5 59.f4 Kb6 0-1

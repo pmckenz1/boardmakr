@@ -1,0 +1,28 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ashot Anastasian"]
+[Black "Yuri Balashov"]
+[ECO "A20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "156"]
+
+1.c4 e5 2.g3 c6 3.Bg2 d5 4.cxd5 cxd5 5.d4 exd4 6.Nf3 Nc6
+7.Nxd4 Qb6 8.Nb3 Bb4+ 9.Bd2 Nf6 10.O-O Bxd2 11.Qxd2 O-O 12.Nc3
+Rd8 13.Rfd1 Be6 14.Na4 Qb5 15.Nac5 Bg4 16.Nd3 Re8 17.Re1 Rad8
+18.Rac1 Qb6 19.Rc2 Bf5 20.Rc5 Be4 21.Rcc1 Bg6 22.Qc3 Ne4
+23.Bxe4 Bxe4 24.Nbc5 d4 25.Qd2 Bd5 26.b4 f6 27.h4 Ne5 28.Nxe5
+fxe5 29.e4 Bf7 30.Nd3 Qd6 31.Rc2 h6 32.Kg2 Rf8 33.Qe2 b5
+34.Rc5 Bc4 35.Qd2 Rc8 36.Rxc8 Rxc8 37.Rc1 Rf8 38.Nb2 Qc6
+39.Qe1 a6 40.a3 Qe6 41.Qd2 Qf7 42.Kg1 Kh8 43.Rc2 Kh7 44.Rc1
+Kg8 45.Rc2 Kh8 46.Rc1 Kh7 47.Qe1 g5 48.hxg5 hxg5 49.Rc2 Kg6
+50.Qd1 Qe6 51.Qc1 Rc8 52.a4 Rc7 53.f3 Qh3 54.Rg2 Rh7 55.Kf2
+Qh1 56.Qxh1 Rxh1 57.Rg1 Rh2+ 58.Rg2 Rh1 59.Rg1 Rh2+ 60.Rg2 Rh7
+61.g4 Bb3 62.a5 Bc2 63.Ke2 Rc7 64.Ke1 Bb1 65.Rd2 Rc3 66.Rd1
+Bc2 67.Rc1 Bxe4 68.Rxc3 dxc3 69.Nc4 Bd5 70.Nxe5+ Kf6 71.Nd7+
+Ke7 72.Nc5 Bxf3 73.Nxa6 Kd6 74.Nc5 Kd5 75.a6 Kc4 76.a7 Kxb4
+77.Ne6 Ka3 78.Nd4 Bh1 0-1

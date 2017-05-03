@@ -1,0 +1,21 @@
+[Event "Berlin 55/609"]
+[Site "Berlin 55/609"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Dirk Rosenthal"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 Na6
+8.Bg5 Qe8 9.g4 Kh8 10.Nd2 Ng8 11.h4 f6 12.Be3 f5 13.f3 fxg4
+14.fxg4 Nf6 15.Be2 h5 16.gxh5 gxh5 17.Nf3 Nc5 18.Ng5 Ng4
+19.Bxc5 dxc5 20.Qd2 a6 21.Rg1 Bd7 22.O-O-O Qg6 23.d6 Nf2
+24.dxc7 Nxd1 25.Qxd1 Bc6 26.Bxh5 Qf6 27.Bg4 Bh6 28.Bf5 Qg7
+29.Kb1 Qxc7 30.Ne6 Qf7 31.Rg6 Qh7 32.Nxf8 Rxf8 33.Qh5 Bg7
+34.Qxh7+ Kxh7 35.Rxc6 Rxf5 36.exf5 bxc6 37.Ne4 Bf8 38.Kc2 Kh6
+39.Nf6 1-0

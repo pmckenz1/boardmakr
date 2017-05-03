@@ -1,0 +1,19 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Tullio Marinelli"]
+[Black "Yuri Balashov"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 Nbd7 6.a3 Bxc3+
+7.bxc3 O-O 8.e4 e5 9.Bd3 Re8 10.O-O Nf8 11.c5 Ng6 12.cxd6 cxd6
+13.Re1 Bg4 14.Nd2 Rc8 15.f3 Bd7 16.Qb3 d5 17.Nf1 exd4 18.cxd4
+dxe4 19.fxe4 Bc6 20.Ng3 Nxe4 21.Nxe4 Bxe4 22.Bxe4 Qxd4+ 23.Be3
+Qxe4 24.Bf2 Qc6 25.Bxa7 h6 26.Rf1 Re7 27.Bd4 Qe4 28.Rad1 Nf4
+29.Qb2 Rc2 0-1

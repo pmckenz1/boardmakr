@@ -1,0 +1,19 @@
+[Event "World"]
+[Site "07"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Zurab Azmaiparashvili"]
+[Black "Gennadi Zaichik"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 Nc6 5.O-O cxd4 6.Nxd4 Bc5
+7.Nb3 Be7 8.c4 d5 9.cxd5 Nxd5 10.Bd2 O-O 11.Nc3 Nb6 12.Ne4 Nd5
+13.Rc1 Qb6 14.Qc2 h6 15.Nec5 Rd8 16.Qc4 Bxc5 17.Qxc5 Qa6 18.e4
+Nf6 19.Bc3 e5 20.Na5 Bd7 21.Qa3 Nxa5 22.Qxa5 Qxa5 23.Bxa5 Re8
+24.Rfd1 Bc6 25.f3 Nh7 26.Bc3 Nf8 27.Kf2 Rad8 28.Rxd8 Rxd8
+29.Bxe5 Rd2+ 30.Kg1 Ne6 31.Bc3 1-0

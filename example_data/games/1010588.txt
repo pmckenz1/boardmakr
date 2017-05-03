@@ -1,0 +1,23 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Anatolij Chistiakov"]
+[Black "Alexander Suglobov"]
+[ECO "D60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O
+7. Bd3 b6 8. O-O Bb7 9. Qe2 Ne4 10. Bf4 f5 11. h3 g5 12. Bh2
+a6 13. Ne5 Ndf6 14. f3 Nd6 15. c5 bxc5 16. dxc5 Nf7 17. b4
+Nxe5 18. Bxe5 Nd7 19. Bh2 Bf6 20. Rac1 Ne5 21. Bb1 Nc6 22. a3
+Qe7 23. Nd1 Qg7 24. Nf2 Ne5 25. a4 c6 26. f4 Nc4 27. Kh1 Kh8
+28. Rxc4 dxc4 29. Qxc4 Rfe8 30. Nd3 Rad8 31. Ne5 g4 32. hxg4
+fxg4 33. Bg3 h5 34. Qe4 Bxe5 35. fxe5 Rf8 36. Bf4 Rf7 37. Bc2
+Rd2 38. Rd1 Rfd7 39. Rxd2 Rxd2 40. Bg3 Qf7 41. Kh2 Kg8 42. Bh4
+Bc8 43. Be1 Rd5 44. Bh4 Rd2 45. Bf6 Bd7 46. Bd3 Be8 47. Bxa6
+h4 48. Qf4 Qg6 1-0

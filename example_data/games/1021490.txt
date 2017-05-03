@@ -1,0 +1,21 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Gennadi Zaichik"]
+[Black "Zurab Azmaiparashvili"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d4 cxd4 6.Nxd4 Bg7 7.Nc3
+e6 8.e4 e5 9.Nb3 d4 10.Nd5 Nxd5 11.exd5 f5 12.c3 O-O 13.cxd4
+e4 14.f3 Re8 15.fxe4 fxe4 16.Be3 Qxd5 17.Rc1 b6 18.Nd2 Bb7
+19.Nb1 Nc6 20.Nc3 Qd7 21.d5 Nb4 22.Nxe4 Bxd5 23.Rc4 a5 24.Rxb4
+axb4 25.Nf6+ Bxf6 26.Bxd5+ Kh8 27.Rxf6 Re5 28.Qd4 Qxd5 29.Rd6
+Qe4 30.Qxe5+ Qxe5 31.Bd4 Qxd4+ 32.Rxd4 Rxa2 33.Rxb4 Ra6 34.Kf2
+Kg7 35.Ke3 Kf6 36.Kd4 Kf5 37.Kd5 Ra1 38.Rf4+ Kg5 39.b4 Ra2
+40.Rh4 h5 41.Kc6 Kh6 1/2-1/2

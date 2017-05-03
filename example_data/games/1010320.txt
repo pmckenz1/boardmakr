@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Saha Suvrajit"]
+[Black "Roy Shankar"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6
+7. g3 g6 8. Bg2 Bg7 9. Nf3 O-O 10. O-O a5 11. Re1 Ba6 12. e4
+Nbd7 13. h3 h6 14. Qc2 Ne8 15. Bf4 g5 16. Bd2 Nc7 17. Na4 Qb7
+18. Bc3 f6 19. e5 fxe5 20. Nxe5 Nxe5 21. Bxe5 dxe5 22. d6 Qa7
+23. dxc7 Rac8 24. Qxc5 Rxc7 25. Qxa7 Rxa7 26. Rac1 e6 27. Rc5
+Bd3 28. Re3 Bg6 29. Be4 Bf5 30. Kg2 Raf7 31. Nc3 Rd8 32. Re2
+Rfd7 33. Rxa5 Rd2 34. Rxd2 Rxd2 35. Rb5 Rd4 36. Bxf5 exf5
+37. a4 f4 38. gxf4 exf4 39. a5 Rd2 40. a6 Bd4 41. Ne4 Rd3
+42. Rd5 f3+ 43. Kg3 1-0

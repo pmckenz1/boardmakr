@@ -1,0 +1,25 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.09"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "James Moore Hanham"]
+[Black "Constant Ferdinand Burille"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6
+5.Nc3 d6 6.a3 Ne7 7.Ne2 Ng6 8.c3 O-O 9.Ng3 Bg4 10.O-O {?} Nh4
+11.Bg5 Nxf3+ 12.gxf3 Bh3 13.Re1 h6 14.Be3 Bb6 {Bxe3 followed
+by c6, was preferable.} 15.d4 Nd7 16.f4 {?} exf4 17.Bxf4 Qh4
+18.Be3 Nf6 19.f3 Rae8 20.Bf2 Nh5 21.Kh1 Kh8 22.Qd2 Qf6 23.Be2
+Nf4 24.Rg1 Rg8 25.Bd1 g5 26.Be3 c5 {?} 27.Ne2 {Bb3 was
+superior.} Nh5 28.Nc1 Rg7 29.Qf2 Qe7 30.dxc5 {Nd3 first gave
+him better attacking prospects.} Bxc5 31.Nd3 Bxe3 32.Qxe3 d5
+{!} 33.Nf2 Bf5 34.Qd4 dxe4 {The sacrifice of a pawn by
+withdrawing Bg6 followed by Nf4, would have been preferable
+here.} 35.fxe4 Bg6 36.Bf3 b6 37.Rae1 Rd8 38.Qe3 Nf4 39.Rg3
+1/2-1/2

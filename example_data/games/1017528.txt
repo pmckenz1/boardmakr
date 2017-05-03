@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Igor Vasilievich Ivanov"]
+[Black "Lev Alburt"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 a6 4.Bg2 b5 5.d3 Be7 6.O-O Bb7 7.b3 d5
+8.Nbd2 c5 9.e3 O-O 10.Bb2 Nbd7 11.Qe2 Qb6 12.Rab1 Qc7 13.Rfc1
+Bc6 14.cxd5 Bxd5 15.e4 Bb7 16.b4 Qd8 17.bxc5 Nxc5 18.Bxf6 gxf6
+19.d4 Na4 20.d5 Rc8 21.Nd4 Nc3 22.Qg4+ Kh8 23.Nc6 Nxb1 24.Nxb1
+Bxc6 25.dxc6 Qd4 26.Rd1 Qe5 27.Rd7 Rxc6 28.Rxe7 Rc1+ 29.Bf1
+Rxb1 30.Kg2 Rb2 31.Rd7 Rxa2 32.Bd3 Rb2 33.Qd1 a5 34.Qc1 Kg7
+35.Kg1 b4 36.Rc7 Rd8 37.Bf1 Qd4 38.Qf4 Qe5 39.Qg4+ Kf8 40.Rb7
+Qg5 41.Qh3 h5 0-1

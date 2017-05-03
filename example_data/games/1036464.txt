@@ -1,0 +1,18 @@
+[Event "Petersburg"]
+[Site "Petersburg"]
+[Date "1897.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Chigorin"]
+[Black "Karl Wilhelm Rosenkrantz"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6
+7. d4 O-O 8. dxe5 Nxe4 9. Bd5 Bxc3 10. Bxe4 Bxa1 11. Bxh7+
+Kxh7 12. Ng5+ Kg6 13. Qg4 f5 14. exf6 Ne5 15. Qg3 Kxf6 16. f4
+Ke7 17. Re1 d6 18. Nc3 Bxc3 19. Qxc3 Bf5 20. fxe5 Kd7 21. e6+
+1-0

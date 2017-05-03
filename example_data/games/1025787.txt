@@ -1,0 +1,20 @@
+[Event "Lugano (Switzerland)"]
+[Site "Lugano (Switzerland)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jesus Nogueiras"]
+[Black "Gerardo F Barbero"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.f3 d5 5.fxe4 dxe4 6.Bf4 Bf5
+7.Bb5+ c6 8.Bc4 e6 9.Nge2 Nbd7 10.O-O Nb6 11.Bb3 Nbd5 12.Ng3
+Nxf4 13.Rxf4 Qc7 14.Nce2 g6 15.Bxe6 Bd6 16.Rxf5 gxf5 17.Nxf5
+Bxh2+ 18.Kh1 Ng4 19.Qe1 e3 20.g3 h5 21.Qc3 Qh7 22.d5 Rf8
+23.Ned4 Rd8 24.dxc6 Qc7 25.Nb5 Qb6 26.Bd7+ Rxd7 27.cxd7 Kxd7
+28.Qg7+ Kc6 29.Nbd4+ Kd5 30.Qxf8 Qc7 31.Qg8+ Ke4 32.Qe6+ Ne5
+33.Re1 1-0

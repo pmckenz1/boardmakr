@@ -1,0 +1,19 @@
+[Event "Russia"]
+[Site "Match, Leningrad"]
+[Date "1927.05.01"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Nikolay Dmitrievich Grigoriev"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+
+7.Qxd2 O-O 8.O-O d6 9.Qc2 Nbd7 10.Nc3 Qe7 11.e4 e5 12.Rad1 g6
+13.Rfe1 c6 14.b3 Ne8 15.Qd2 Rd8 16.Bh3 f6 17.Qh6 Nc7 18.Nh4
+Rf7 19.d5 cxd5 20.Nxd5 Bxd5 21.cxd5 Rdf8 22.Rd2 f5 23.exf5
+gxf5 24.Qh5 f4 25.Nf5 Rxf5 26.Bxf5 Nf6 27.Qh6 Kh8 28.Rxe5 dxe5
+29.d6 Qd8 30.dxc7 Qxd2 31.Qxf8+ Ng8 32.c8=Q 1-0

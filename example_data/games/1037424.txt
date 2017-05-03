@@ -1,0 +1,25 @@
+[Event "CAN cr"]
+[Site "CAN cr"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "George Kuprejanov"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.Be2 Nf6 5.O-O O-O 6.d4 Bg4 7.Nbd2
+Nbd7 8.b3 c5 9.Bb2 Rc8 10.c3 Qb6 11.Ne5 Bxe2 12.Qxe2 c4 13.Kh1
+cxb3 14.axb3 a6 15.Nxd7 Nxd7 16.e4 dxe4 17.Qxe4 Nf6 18.Qf3 Qc6
+19.Rae1 Qxf3 20.Nxf3 e6 21.Ne5 Rfd8 22.Rf3 h5 23.g3 Nd5 24.h3
+Bxe5 25.Rxe5 b5 26.g4 hxg4 27.hxg4 Nf6 28.Rg3 Rd5 29.Re1 a5
+30.Kg2 g5 31.f5 exf5 32.gxf5 Rxf5 33.Rf1 Rxf1 34.Rxg5+ Kh7
+35.Kxf1 Ne4 36.Rxb5 a4 37.c4 axb3 38.c5 Kg6 39.Ke2 f5 40.Kd3
+Kg5 41.Ba3 Nf6 42.Rxb3 f4 43.Bc1 Nd5 44.Kc4 Rd8 45.Rb2 Kf5
+46.Re2 f3 47.Re5+ Kg4 48.Rg5+ Kh3 49.Rf5 Kg2 50.Bg5 Rd7 51.c6
+Nb6+ 52.Kb5 Rd5+ 53.Rxd5 Nxd5 54.Bh4 Ne7 55.c7 Nf5 56.Kc5 Nxh4
+57.c8=Q Kg3 58.Qg8+ Kf4 59.Qg1 Nf5 60.d5 Ng3 61.d6 Ne4+ 62.Kc6
+f2 63.Qc1+ 1-0

@@ -1,0 +1,16 @@
+[Event "Ch USA"]
+[Site "Berkeley, CA USA"]
+[Date "1984.07.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.c4 g6 2.d4 Bg7 3.Nf3 d6 4.g3 Nf6 5.Bg2 O-O 6.O-O Nbd7 7.Nc3
+e5 8.h3 c6 9.e4 Qb6 10.b3 exd4 11.Na4 Qa5 12.Nxd4 Re8 13.Re1
+1/2-1/2

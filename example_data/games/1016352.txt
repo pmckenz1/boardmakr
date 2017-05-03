@@ -1,0 +1,21 @@
+[Event "Prague (Czech Republic)"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Eduard Prandstetter"]
+[Black "Andras Adorjan"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.O-O
+Be7 8.f4 O-O 9.Be3 Qc7 10.g4 b5 11.g5 Nfd7 12.f5 Ne5 13.f6 Bd8
+14.a3 Nbd7 15.fxg7 Kxg7 16.Bd3 Nb6 17.Qh5 Nbc4 18.Bxc4 Nxc4
+19.Nf5+ Kh8 20.Bd4+ Ne5 21.Nh6 f6 22.gxf6 Bxf6 23.Bxe5 dxe5
+24.Ng4 Qg7 25.Kh1 Bb7 26.Nxf6 Rxf6 27.Rg1 Qc7 28.Rg5 Qc4
+29.Rg4 Rf1+ 30.Kg2 Rf5 31.Qh6 Rg8 32.Rxg8+ Kxg8 33.Rg1 Kh8
+34.Kh3 Rf3+ 35.Rg3 Qf1+ 36.Kh4 Rxg3 37.Kxg3 Qg1+ 38.Kf3 Qf1+
+39.Ke3 Qc1+ 0-1

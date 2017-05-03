@@ -1,0 +1,15 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.03"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Ron W Henley"]
+[Black "Ulf Andersson"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.h3
+c5 8.cxd5 Nxd5 9.Nxd5 exd5 10.dxc5 Nxc5 11.Be2 1/2-1/2

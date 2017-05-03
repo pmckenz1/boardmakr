@@ -1,0 +1,17 @@
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Jonathan Speelman"]
+[Black "Efim Geller"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.cxd5 exd5 5.Bf4 c6 6.e3 Bf5 7.Nge2
+Nd7 8.Ng3 Bg6 9.Rc1 h5 10.Bd3 h4 11.Bxg6 hxg3 12.Bd3 gxf2
+13.Kxf2 Bg5 14.Qg4 Bxf4 15.Qxf4 Ngf6 16.Ke2 Nf8 17.Bf5 Qe7
+18.Kd2 g6 19.Bd3 Ne6 20.Qg3 Nh5 21.Qe5 Qf6 22.a3 1/2-1/2

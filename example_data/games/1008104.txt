@@ -1,0 +1,20 @@
+[Event "Hastings 1936/37"]
+[Site "Hastings (ENG)"]
+[Date "1936.12.28"]
+[EventDate "1936.12.28"]
+[Round "1"]
+[Result "0-1"]
+[White "Vera Menchik"]
+[Black "George Alan Thomas"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Bd3 Nbd7 6.O-O Bd6 7.Nc3
+O-O 8.e4 dxe4 9.Nxe4 Nxe4 10.Bxe4 Nf6 11.Bc2 Qc7 12.Bg5 Ne8
+13.Qd3 g6 14.Rad1 Ng7 15.Rfe1 f6 16.Bd2 b6 17.Bc3 a5 18.a3 Ba6
+19.g3 Rad8 20.Qf1 c5 21.dxc5 Qxc5 22.Bd3 Bb7 23.Be4 Bxe4
+24.Rxe4 Qc6 25.Qe2 e5 26.Nd2 Ne6 27.Re3 Bc5 28.Rd3 Ng5 29.g4
+e4 30.Rg3 Bd6 31.Re3 Bf4 32.h4 Bxe3 33.Qxe3 Nf3+ 34.Kg2 Nxh4+
+0-1

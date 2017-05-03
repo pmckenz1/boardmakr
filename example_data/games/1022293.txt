@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Gabor Kallai"]
+[Black "Alexander Baburin"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.O-O Nf6 7.a4
+Nc6 8.Qe2 cxd4 9.Rd1 Be7 10.exd4 O-O 11.Nc3 Nd5 12.Qe4 Nf6
+13.Qh4 Nd5 14.Qe4 Nf6 15.Qh4 Nd5 1/2-1/2

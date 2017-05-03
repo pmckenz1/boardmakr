@@ -1,0 +1,18 @@
+[Event "Wurzburg"]
+[Site "Wurzburg"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marek Hawelko"]
+[Black "Pavel Blatny"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5 7.d3
+Bd6 8.hxg4 hxg4 9.Ng5 Nh6 10.d4 Qe7 11.d5 g6 12.g3 f5 13.exf5
+gxf5 14.dxc6 bxc6 15.Qd3 O-O-O 16.Qxa6+ Kd7 17.Qc4 Rdg8 18.Nc3
+Rg7 19.Kg2 f4 20.gxf4 Nf7 21.Nxf7 Rxf7 22.Re1 Rfh7 23.f5 Qh4
+24.Qd3 g3 25.Qxg3 Rg8 26.Ne4 Qh3+ 0-1

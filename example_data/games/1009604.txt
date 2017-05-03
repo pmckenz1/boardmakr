@@ -1,0 +1,19 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Jana Jackova"]
+[Black "Brigitte Burchardt-Hofmann"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Be7 8. Be3 Qc7 9. Qe2 Bd7 10. g4 h6 11. O-O-O Nc6
+12. f4 Nxd4 13. Rxd4 Bc6 14. g5 hxg5 15. fxg5 Nd7 16. g6 Bf6
+17. gxf7+ Kxf7 18. Bxe6+ Kf8 19. Rf1 Re8 20. Nd5 Bxd5 21. exd5
+Nc5 22. Bg5 Nxe6 23. Bxf6 Nf4 24. Rdxf4 Rxe2 25. Bd8+ Kg8
+26. Rf8+ 1-0

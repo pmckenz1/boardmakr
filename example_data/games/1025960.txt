@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "San Bernadino Brocco (Switzerland)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Eduard Meduna"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O
+Be6 8.b3 c5 9.Ba3 dxc4 10.Bxc5 Na6 11.Ba3 Qa5 12.Bb2 b5 13.a3
+Nc7 14.Nd2 Rab8 15.e4 cxb3 16.d5 Bc8 17.Nxb3 Qb6 18.Nd4 Bb7
+19.Rb1 a6 20.Nf3 Rfd8 21.Qb3 e6 22.Na4 Qa5 23.Nc5 exd5 24.Nd4
+Qb6 25.Nxb7 Rxb7 26.e5 Ne4 27.Qe3 Bxe5 28.f3 Ne6 29.Rbd1 Nxd4
+30.Rxd4 Rc7 31.Ba1 Rc3 32.Bxc3 Nxc3 0-1

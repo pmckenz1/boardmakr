@@ -1,0 +1,22 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.24"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Haji Ardiansyah"]
+[Black "Eugenio Torre"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 h6 5.Bxf6 Qxf6 6.Nc3 c6 7.e3
+Nd7 8.a3 Qd8 9.Qd2 Be7 10.Bd3 O-O 11.cxd5 exd5 12.O-O Bd6
+13.Rad1 Re8 14.Rfe1 Nf6 15.Qc2 Bg4 16.h3 Bxf3 17.gxf3 Nh5
+18.f4 Qh4 19.Bf1 Re6 20.Bg2 Rae8 21.Kf1 g5 22.f5 R6e7 23.e4
+dxe4 24.Rxe4 Rxe4 25.Nxe4 Qf4 26.Qd3 Kg7 27.d5 cxd5 28.Qxd5
+Rxe4 29.Bxe4 Ng3+ 30.Ke1 Nxe4 31.Rd4 Qc1+ 32.Rd1 Qc2 33.f6
+Kxf6 34.Rd4 Qc1+ 35.Rd1 Qc2 36.Rd4 Qxf2+ 37.Kd1 Qf1+ 38.Kc2
+Qe2+ 39.Kb1 Be5 40.Qxe4 Qf1+ 41.Ka2 Bxd4 42.Qxd4+ Kg6 43.Qxa7
+Qc4+ 44.Ka1 Qe4 45.Qb6+ Kh5 46.Qf2 f5 0-1

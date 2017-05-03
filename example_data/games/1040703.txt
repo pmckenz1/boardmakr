@@ -1,0 +1,23 @@
+[Event "ICS"]
+[Site "ICS"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Broncept"]
+[Black "Roman Dzindzichashvili"]
+[ECO "A54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Qc2
+c6 8.O-O-O h6 9.Bh4 Nh5 10.Bxe7 Qxe7 11.Be2 Nhf6 12.Nh4 Re8
+13.Nf5 Qf8 14.g4 exd4 15.exd4 Nb6 16.h4 Bxf5 17.Qxf5 Nh7
+18.Bd3 g6 19.Qf3 Qg7 20.Kb1 Qf6 21.Qg3 Qe7 22.h5 g5 23.Ne4 d5
+24.cxd5 Nxd5 25.Nd6 Red8 26.Nf5 Qf6 27.Bc4 Nf4 28.Qb3 Nf8
+29.Bxf7+ Kh8 30.Rhe1 Rd7 31.Bc4 Rad8 32.Bf1 N8e6 33.Qe3 Nxd4
+34.Nxd4 Rxd4 35.Rxd4 Qxd4 36.Qe7 Qd6 37.Qe3 Qf6 38.Qxa7 c5
+39.Qa3 c4 40.Qe3 c3 41.Qxc3 Qxc3 42.bxc3 Rd2 43.Bc4 Rxf2
+44.Re7 Rg2 45.Rxb7 Rxg4 46.a4 Rg2 47.a5 g4 48.a6 Rg1+ 49.Kb2
+Rg2+ 50.Kb3 Rg1 51.a7 Ra1 0-1

@@ -1,0 +1,18 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Halldor B Halldorsson"]
+[Black "Johann Ragnarsson"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "2129"]
+[PlyCount "47"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Nf3 Bg4
+7. h3 Bh5 8. Nbd2 Nf6 9. b3 e6 10. Bb2 Bd6 11. Qc2 Bg6
+12. Bxg6 hxg6 13. a3 g5 14. O-O-O b5 15. Kb1 a5 16. Nxg5 Qe7
+17. Rhe1 O-O 18. Ndf3 Bxa3 19. Ne5 Nxe5 20. dxe5 Ne4 21. Nxe4
+dxe4 22. Rxe4 Bxb2 23. Kxb2 b4 24. Rdd4 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Lugano"]
+[Site "Lugano SUI"]
+[Date "1988.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Lubomir Ftacnik"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. b4 Nbd7
+7. Be2 Re8 8. O-O e5 9. c3 c6 10. Qb3 a5 11. a3 h6 12. Bh4 e4
+13. Ne1 a4 14. Qd1 g5 15. Bg3 b5 16. Nc2 Nf8 17. Be5 N8d7
+18. Bg3 Nb6 19. Be5 Nh7 20. Bxg7 Kxg7 21. f3 f5 22. f4 Nf6
+23. g3 Be6 24. Ne1 Nc8 25. Ng2 Ne7 26. Rf2 Rg8 27. Nf1 g4
+1/2-1/2

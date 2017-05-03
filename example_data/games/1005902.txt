@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Yge Visser"]
+[Black "Alexey Yuneev"]
+[ECO "A07"]
+[WhiteElo "2406"]
+[BlackElo "2430"]
+[PlyCount "71"]
+
+1. e4 c5 2. d3 Nc6 3. g3 d5 4. Nd2 Nf6 5. Bg2 g6 6. Ngf3 Bg7
+7. O-O O-O 8. a3 b6 9. Rb1 a5 10. a4 e6 11. Re1 Ba6 12. exd5
+Nxd5 13. Nc4 Qc7 14. c3 Rfd8 15. Qb3 Rab8 16. Bg5 Rd7 17. Rbd1
+h6 18. Bc1 Rbd8 19. Nfd2 Ndb4 20. cxb4 Nxb4 21. Ne4 Nxd3
+22. Rxd3 Rxd3 23. Nc3 Bb7 24. Bf4 Qe7 25. Qxb6 Bxc3 26. bxc3
+Rd1 27. Rxd1 Rxd1+ 28. Bf1 Kh7 29. Bd6 Qd7 30. Qc7 Qxc7
+31. Bxc7 Rxf1+ 32. Kxf1 Ba6 33. Bxa5 Bxc4+ 34. Ke1 Bb3 35. Bb6
+Bxa4 36. Bxc5 1/2-1/2

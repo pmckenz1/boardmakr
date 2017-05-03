@@ -1,0 +1,20 @@
+[Event "Philadelphia op"]
+[Site "Philadelphia op"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David A Arnett"]
+[Black "Lubomir Ftacnik"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. Qc1 c5
+7. Bh6 Bxd4 8. e3 Bxc3+ 9. bxc3 Be6 10. Bd3 Nd6 11. cxd5 Bxd5
+12. O-O Nc6 13. e4 Bxe4 14. Bxe4 Nxe4 15. Qf4 Nd6 16. Ne5 f6
+17. Nxc6 bxc6 18. Bg7 g5 19. Qf3 Rg8 20. Bxf6 exf6 21. Qxc6+
+Kf7 22. Rad1 Rc8 23. Qa6 Qb6 24. Qxb6 axb6 25. Rxd6 Ra8 26. f4
+Rxa2 27. fxg5 Rxg5 28. Rdxf6+ Kg7 29. g3 Rd5 30. c4 Rd4
+31. Rf7+ Kg6 32. R7f6+ Kg5 33. h3 Ra1 34. h4+ 1-0

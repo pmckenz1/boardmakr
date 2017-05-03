@@ -1,0 +1,22 @@
+[Event "Zandvoort"]
+[Site "Zandvoort NED"]
+[Date "1936.07.29"]
+[EventDate "1936.07.18"]
+[Round "9"]
+[Result "1-0"]
+[White "Salo Landau"]
+[Black "Albert Becker"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 f5 5. Bd3 Bd6 6. Ne5 Bxe5
+7. dxe5 Nd7 8. f4 Ne7 9. O-O O-O 10. b3 Nc5 11. Be2 b6 12. Nd2
+Ba6 13. Ba3 Qd7 14. Bxc5 bxc5 15. Qc1 Qb7 16. Nf3 Qb4 17. Rd1
+h6 18. Rd2 Rfc8 19. Rc2 Ng6 20. Kf2 Nf8 21. h3 Bb7 22. g4 g6
+23. Qg1 Kh7 24. gxf5 exf5 25. Qg3 Qb6 26. Rg1 Qc7 27. Qh4 Qd8
+28. Qg3 Qe7 29. Bd3 Qf7 30. Qh4 Ne6 31. Ke1 Ba6 32. cxd5 Bxd3
+33. dxe6 Qg7 34. Rcg2 Rg8 35. Ng5+ Kh8 36. Nf7+ Kh7 37. Rd2 c4
+38. bxc4 Bxc4 39. Rd7 Rab8 40. Nxh6 Rb1+ 41. Kd2 g5 42. Rxg5
+1-0

@@ -1,0 +1,26 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Alexander Oglobilia"]
+[Black "Vladimir Iljenchenko"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Nbd7 5. Qc2 c6 6. e4 Nxe4
+7. Nxe4 dxe4 8. Qxe4 Bb4+ 9. Bd2 Qa5 10. Qe3 O-O 11. Be2 e5
+12. dxe5 Re8 13. O-O Bxd2 14. Qxd2 Qxd2 15. Nxd2 Nxe5 16. Rfe1
+Bf5 17. Nf3 Rad8 18. Nxe5 Rxe5 19. Bf3 Rxe1+ 20. Rxe1 Kf8
+21. g4 Be6 22. b3 Ke7 23. g5 Rd4 24. Kg2 Kd6 25. Be4 g6 26. h4
+b5 27. cxb5 cxb5 28. Kf3 Rd2 29. Bb1 a5 30. Ke3 Rb2 31. f4 Rh2
+32. Re2 Rh3+ 33. Kd4 a4 34. bxa4 bxa4 35. Rd2 Rxh4 36. Ke4+
+Ke7 37. Ke5 h6 38. Rb2 hxg5 39. Rb7+ Kf8 40. f5 gxf5 41. Kf6
+Rh6+ 42. Kxg5 Rg6+ 43. Kf4 Rg2 44. Ke5 Kg7 45. a3 Rg3 46. Bc2
+Rxa3 47. Ra7 Ra2 48. Bxa4 Bb3 49. Bxb3 Rxa7 50. Kxf5 Ra5+
+51. Kf4 Kg6 52. Bc2+ f5 53. Bd3 Kf6 54. Be2 Ra4+ 55. Ke3 Ke5
+56. Bb5 Ra3+ 57. Kf2 Kf4 58. Bc6 Ra2+ 59. Kf1 Ke3 60. Bd5 Rb2
+61. Kg1 f4 62. Kf1 f3 0-1

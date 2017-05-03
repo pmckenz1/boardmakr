@@ -1,0 +1,24 @@
+[Event "Beirut Lebanese ch+"]
+[Site "LIB"]
+[Date "1999.08.06"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Antoine Tohme"]
+[Black "Suzan Mouradian"]
+[ECO "E66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. c4 c5
+7. Nc3 Nc6 8. d5 Na5 9. Nd2 e6 10. e4 a6 11. a4 Rb8 12. Qc2
+Re8 13. Qd3 exd5 14. cxd5 Bd7 15. f4 b5 16. axb5 axb5 17. Re1
+Ng4 18. Nf3 Nb3 19. Rb1 Nd4 20. h3 b4 21. hxg4 bxc3 22. bxc3
+Nxf3+ 23. Bxf3 Rxb1 24. Qxb1 Bxc3 25. Re2 Qc8 26. f5 Qa6
+27. Be3 Ra8 28. Kg2 Bb5 29. Rf2 Bd3 30. Qh1 Qa4 31. Bf4 Bxe4
+32. Bxd6 Bxf3+ 33. Rxf3 Qc2+ 34. Kh3 Qd2 35. Bxc5 Qxd5 36. Be3
+Ra3 37. fxg6 hxg6 38. Rf1 Qd3 39. Qf3 Qc4 40. Bh6 Bg7 41. Qf4
+Qd5 42. Qb8+ Kh7 43. Bxg7 Ra8 44. Qe5 Qc4 45. Qf6 Rg8 46. Qxf7
+Qxf7 47. Rxf7 Rxg7 48. Rxg7+ Kxg7 49. g5 Kf7 50. Kg4 Ke6
+51. Kf4 Kd5 52. Ke3 Ke5 53. g4 Kd5 54. Kf4 Kd4 1/2-1/2

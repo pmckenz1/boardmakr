@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Velimir Ponos"]
+[Black "Zeljko Matic"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nf6 5. Qe2 Nc6 6. h3 g6
+7. O-O Bg7 8. c3 a6 9. Bc4 Ne5 10. Bb3 Bc6 11. Bc2 O-O 12. d4
+Nxf3+ 13. Qxf3 cxd4 14. cxd4 Qb6 15. Rd1 a5 16. d5 Bd7 17. Na3
+Rfc8 18. Be3 Qb4 19. b3 Rc3 20. Ra2 Rac8 21. Rd2 Be8 22. Nc4
+Nd7 23. Qg4 R8xc4 24. bxc4 Rxe3 25. Qd1 Ra3 26. Rxa3 Qxa3
+27. Rd3 Qc5 28. Rb3 b6 29. Bd3 h5 30. Qb1 Bd4 31. Rb5 Qc7
+32. Bf1 Ne5 33. Rb3 Bxa4 34. Rg3 Be8 0-1

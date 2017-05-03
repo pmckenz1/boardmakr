@@ -1,0 +1,18 @@
+[Event "Sochi"]
+[Site "Sochi URS"]
+[Date "1980.09.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Vlastimil Jansa"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.Be2 Nge7 7.f4
+b5 8.O-O Bb7 9.Kh1 Nxd4 10.Qxd4 Nc6 11.Qf2 Be7 12.Be3 O-O
+13.Rad1 Rc8 14.Bf3 Qe8 15.e5 Na5 16.Bxb7 Nxb7 17.f5 f6 18.exf6
+Rxf6 19.Qd2 Nd6 20.fxe6 Rxf1+ 21.Rxf1 dxe6 22.Bd4 Qg6 23.Qd3
+Qxd3 24.cxd3 Nf5 25.Be5 b4 26.Nd1 Rd8 1/2-1/2

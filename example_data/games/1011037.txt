@@ -1,0 +1,28 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Atle Groenn"]
+[Black "Andreas Moen"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 e6 5. e3 Bd6 6. Bd3 Nbd7
+7. e4 dxe4 8. Nxe4 Nxe4 9. Bxe4 Nf6 10. Bc2 Bb4+ 11. Bd2 Qa5
+12. a3 Bxd2+ 13. Qxd2 Qxd2+ 14. Kxd2 O-O 15. Ne5 Rd8 16. Kc3
+Ne8 17. Rad1 f6 18. Nd3 Nc7 19. Rhe1 b6 20. Nb4 Bb7 21. Be4
+Rd6 22. c5 bxc5 23. dxc5 Rxd1 24. Rxd1 Nd5+ 25. Bxd5 cxd5
+26. f4 Rc8 27. Kd4 g5 28. g3 Kf7 29. Rc1 a5 30. Nd3 gxf4
+31. gxf4 Ba6 32. Rc3 Ke7 33. Nf2 Rb8 34. b3 Rg8 35. Rg3 Rxg3
+36. hxg3 h5 37. Nd1 Kd7 38. f5 exf5 39. Ne3 f4 40. gxf4 Bb7
+41. Nf5 Kc7 42. Ke3 Bc8 43. Nd4 Bg4 44. f5 h4 45. Kf4 h3
+46. Kg3 Kb7 47. b4 axb4 48. axb4 Ka6 49. Kh2 Ka7 50. b5 Kb7
+51. Kg3 Ka7 52. Nc6+ Kb7 53. Nd4 Ka7 54. b6+ Ka6 55. Kh2 Kb7
+56. Nb5 Kc6 57. Kg3 Kb7 58. Nd6+ Kc6 59. b7 Kc7 60. c6 Kb8
+61. Kh2 d4 62. Ne4 Bf3 63. Nxf6 Bxc6 64. Ng4 Kxb7 65. f6 Bd5
+66. Kxh3 d3 67. Ne3 d2 68. Kg3 Kc6 69. Kf2 Kd6 70. Ke2 Bf3+
+71. Kxd2 Ke6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.23"]
+[EventDate "2000.01.21"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Dirk Daniel van Geet"]
+[Black "Gert-Jan Ludden"]
+[ECO "A00"]
+[WhiteElo "2346"]
+[BlackElo "2263"]
+[PlyCount "58"]
+
+1. Nc3 d5 2. e4 c6 3. Qe2 d4 4. Nd1 e5 5. g3 c5 6. d3 Nc6
+7. f4 Bd6 8. Nf2 h5 9. Bh3 Nf6 10. Bxc8 Qxc8 11. Nf3 Qc7
+12. f5 O-O-O 13. Bg5 Be7 14. Bxf6 Bxf6 15. O-O g5 16. h3 Be7
+17. g4 f6 18. gxh5 Rdg8 19. Nh2 Bf8 20. Nh1 g4 21. Nxg4 Rxh5
+22. Kh2 Qh7 23. Nhf2 Bh6 24. Nxh6 Qxh6 25. Qf3 Qe3 26. Nd1 Qh6
+27. Nf2 Qe3 28. Nd1 Qg5 29. Nf2 Qe3 1/2-1/2

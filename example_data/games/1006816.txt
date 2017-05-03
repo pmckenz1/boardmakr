@@ -1,0 +1,17 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.19"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Trygve Aalheim"]
+[Black "Jacob Antoni Brekke"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 d6 6.Nxc6 bxc6
+7.Bd3 Be7 8.O-O O-O 9.Ne2 d5 10.exd5 cxd5 11.Ng3 c6 12.Nf5
+Bxf5 13.Bxf5 Qc7 14.Re1 g6 15.Bd3 Bd6 16.h3 Rfe8 17.Bg5 Rxe1+
+18.Qxe1 Re8 19.Qd2 Ne4 20.Bxe4 Rxe4 21.Re1 f5 1/2-1/2

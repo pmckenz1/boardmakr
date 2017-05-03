@@ -1,0 +1,17 @@
+[Event "Leningrad URS ch"]
+[Site "6"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Efim Geller"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6
+7.Bg5 a6 8.Bxf6 gxf6 9.Na3 b5 10.Nd5 f5 11.Bd3 Be6 12.c4 Qa5+
+13.Kf1 fxe4 14.Bxe4 Bg7 15.cxb5 axb5 16.Rc1 Ra6 17.Qd3 Bxd5
+18.Qxd5 Ne7 19.Qxb5+ Qxb5+ 20.Nxb5 O-O 21.Rc7 Rxa2 1/2-1/2

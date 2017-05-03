@@ -1,0 +1,25 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.08"]
+[EventDate "2000.03.03"]
+[Round "6"]
+[Result "1-0"]
+[White "Evgeny Pigusov"]
+[Black "Wang Lei"]
+[ECO "D11"]
+[WhiteElo "2610"]
+[BlackElo "2495"]
+[PlyCount "115"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. Qc2 dxc4 5. Qxc4 b5 6. Qc2 Bb7
+7. Nbd2 Nd7 8. Nb3 Ngf6 9. Bg5 Qb6 10. Rc1 Rc8 11. Nc5 Bxc5
+12. dxc5 Qa5+ 13. Nd2 Qxa2 14. e4 Qa5 15. f4 e5 16. f5 h6
+17. Be3 Ng4 18. Bg1 Rd8 19. h3 Ngf6 20. Be2 g6 21. fxg6 fxg6
+22. Be3 Qc7 23. O-O Kf7 24. b4 Kg7 25. Ra1 a6 26. Nb3 Rhf8
+27. Qc1 Ng8 28. Bf3 Ndf6 29. Bd2 g5 30. Bc3 Ne7 31. Qe3 Ng6
+32. g3 Qd7 33. Bg2 Qd3 34. Rf3 Qxe3+ 35. Rxe3 Rf7 36. Rf1 Ne8
+37. Rfe1 Rfd7 38. Nc1 Rd1 39. Bf1 Rxe1 40. Rxe1 Kf6 41. Nd3
+Ke6 42. Kf2 Nf6 43. Ke3 Bc8 44. Be2 Re8 45. Rf1 Rf8 46. Rf2
+Nd7 47. Bg4+ Ke7 48. Bf5 Rf6 49. Ne1 Ngf8 50. Nf3 Rf7 51. Bxe5
+Bb7 52. Bd6+ Ke8 53. Nd4 Nf6 54. g4 h5 55. Ne6 N6h7 56. Nxf8
+Nxf8 57. gxh5 Kd8 58. h6 1-0

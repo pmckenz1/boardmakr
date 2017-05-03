@@ -1,0 +1,17 @@
+[Event "8, Clarin GP f Villa Gesell (10s)"]
+[Site "8, Clarin GP f Villa Gesell Hiarcs 7.32 (10s)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Andres Rodriguez Vila"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 Nc6 6. Nf3 Bg4
+7. cxd5 Nxd5 8. Qb3 Bxf3 9. gxf3 Nb6 10. Be3 e6 11. d5 exd5
+12. O-O-O Be7 13. Bxb6 Qxb6 14. Qxb6 axb6 15. Nxd5 O-O
+16. Nxe7+ 1/2-1/2

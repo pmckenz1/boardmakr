@@ -1,0 +1,18 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Peter Jovanovic"]
+[Black "Neil Wright"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nc6 6. Be2 Bd6
+7. O-O Nge7 8. Be3 c4 9. Nbd2 Bf5 10. Nh4 Bg6 11. b3 b5
+12. Nxg6 hxg6 13. Nf3 Qc7 14. g3 Nf5 15. Ne1 Nxe3 16. fxe3
+O-O-O 17. bxc4 f5 18. cxb5 Bxg3 19. hxg3 Qxg3+ 20. Ng2 Rh2
+21. Rf2 Qh3 0-1

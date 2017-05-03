@@ -1,0 +1,29 @@
+[Event "USA-06.Congress New York (21-1)"]
+[Site "New York, NY USA"]
+[Date "1889.04.19"]
+[EventDate "?"]
+[Round "21"]
+[Result "1/2-1/2"]
+[White "George Hatfeild Gossip"]
+[Black "Constant Ferdinand Burille"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nc3 Nf6 3.f4 d5 4.d3 d4 5.Nce2
+Bd6 6.fxe5 Bxe5 7.Nf3 Nc6 8.Nxe5 {? c3 would have given White
+the better game.} Nxe5 9.Ng3 Nfg4 10.Bf4 {10.c3 with the
+likely continuation ...Qh4 11.Qa4+ Bd7 (or ...Nc6 12.Bf4)
+12.Qxd4 Nxh2 13.Qf2 Neg4 14.Qf4, was much stronger.} Ng6
+11.Qd2 Nxf4 12.Qxf4 Ne3 13.Qe5+ Kf8 14.Qc5+ Kg8 15.Kd2 b6
+16.Qe5 f6 17.Qf4 Qe7 18.a3 Kf7 19.Rg1 Qc5 20.Rc1 Re8 21.Be2
+Re7 22.Nf1 Qa5+ 23.c3 Nxf1+ 24.Rgxf1 Bb7 25.Qf5 dxc3 26.Rxc3
+Qxf5 27.Rxf5 Rd8 28.Rf4 {?} Bxe4 29.g3 c5 30.Bf3 Bg6 31.g4
+Red7 32.Be2 Rd4 {? Premature ...Ke7 was much superior.}
+33.Rxd4 Rxd4 34.b4 {!} cxb4 35.Rc7+ Kf8 36.axb4 Rxb4 37.Rxa7
+Rd4 38.Ra8+ Be8 39.Kc3 Rd6 40.d4 Ke7 41.Ra7+ Rd7 42.Ra6 Rc7+
+43.Kd2 Rb7 44.Bf3 Rd7 45.Ke3 Rd6 46.Ra7+ Bd7 47.d5 {A fair
+draw, though Black is a pawn ahead. He cannot make use of his
+passed b-pawn or the f-pawn after advancing ...g6, as White's
+King would come in accordingly at e5 or c5.} 1/2-1/2

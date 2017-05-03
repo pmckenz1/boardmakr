@@ -1,0 +1,15 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Ramachandran Ramesh"]
+[Black "Abhijit Kunte"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. cxd5 exd5 6. e3 O-O
+7. Bd3 c6 8. Nge2 Nbd7 9. Qc2 Re8 10. O-O Nf8 11. Rae1 1/2-1/2

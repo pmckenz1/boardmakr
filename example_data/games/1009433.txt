@@ -1,0 +1,25 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Rainer F A Knaak"]
+[Black "Jesper Hall"]
+[ECO "E42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 d5
+7. c5 Ne4 8. Bd2 Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4
+12. Bd3 Bd7 13. O-O Nc6 14. Bc2 Ne7 15. Rae1 O-O 16. Qd1 Qa5
+17. Qd3 g6 18. h4 b6 19. c6 Bxc6 20. h5 Bd7 21. Qg3 Qa7
+22. Qh4 f6 23. hxg6 hxg6 24. Qh6 f5 25. Re3 Rf7 26. Rh3 Rg7
+27. Re1 Rc8 28. Bd3 Kf7 29. Qe3 Qa5 30. Qe5 Rd8 31. Bb5 Bc8
+32. Bxa4 Qa7 33. Bb5 g5 34. Rh5 Ng6 35. Qg3 g4 36. Bc6 Ba6
+37. Rh6 Qb8 38. Qxb8 Rxb8 39. Nxd5 exd5 40. Bxd5+ Kf6 41. f4
+gxf3 42. Re6+ Kg5 43. Rh3 Bb7 44. Bxb7 Rbxb7 45. Rxf3 Nh4
+46. Rc3 Rge7 47. Rec6 Re4 48. d5 Rg4 49. g3 f4 50. Kh2 Ng6
+51. d6 Rh7+ 52. Kg1 Rxg3+ 53. Rxg3+ fxg3 54. Rxb6 Nf4 55. Rb8
+Kg4 0-1

@@ -1,0 +1,19 @@
+[Event "01, Thessaloniki olm ;BIG"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.19"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Neil Fairclough"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 c5 2.f4 d5 3.exd5 Nf6 4.b3 Qxd5 5.Nc3 Qd8 6.Nf3 Nc6 7.Bb2
+a6 8.g3 Bf5 9.d3 Qc7 10.Bg2 h5 11.Qd2 O-O-O 12.O-O-O e6 13.Kb1
+Bd6 14.Rhe1 Rd7 15.Qf2 Rhd8 16.h3 Qa5 17.Ne5 Bxe5 18.fxe5 Ne8
+19.Bxc6 bxc6 20.Qf3 Kb7 21.Qxh5 Nc7 22.Na4 Nd5 23.Qf3 Nb4
+24.Bc3 c4 25.Kb2 cxb3 26.axb3 Qb5 27.Bxb4 Qxb4 28.g4 Bg6 29.h4
+Kc7 30.h5 Bxd3 31.Qe3 Rb8 32.Nc5 Rd5 33.Nxd3 Qxg4 1-0

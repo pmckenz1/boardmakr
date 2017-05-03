@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Aaron Pixton"]
+[Black "Sergey A Shchukin"]
+[ECO "A45"]
+[WhiteElo "2272"]
+[BlackElo "2164"]
+[PlyCount "98"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. c4 Bg7 5. Nc3 O-O 6. g3 d6
+7. Bg2 f5 8. e3 Nd7 9. Nge2 Rb8 10. O-O a6 11. a4 Nf6 12. b4
+h5 13. Nf4 h4 14. a5 hxg3 15. hxg3 Ng4 16. Qd2 Re8 17. b5 Qg5
+18. Rfb1 Qh6 19. Re1 g5 20. Nfd5 Be6 21. f3 Qh2+ 22. Kf1 Nf6
+23. Nxf6+ Bxf6 24. Kf2 Qh6 25. Rh1 Qg7 26. f4 Bxc4 27. Ra4
+axb5 28. Rxc4 bxc4 29. Bd5 c5 30. Nb5 cxd4 31. Nxd4 Bxd4
+32. exd4 Re7 33. fxg5 Rbe8 34. Bxc4 Re3 35. Qxe3 Rxe3 36. Kxe3
+Qxg5+ 37. Kf2 Qd2+ 38. Be2 Qxd4+ 39. Kf1 Qa1+ 40. Kg2 Qxa5
+41. Bf3 b5 42. Rd1 Qc7 43. Rd5 Qc2+ 44. Kh3 b4 45. Rxd6 b3
+46. Bd1 Qc3 47. Bxb3 Qxb3 48. Rd4 Qf3 49. Rh4 f6 0-1

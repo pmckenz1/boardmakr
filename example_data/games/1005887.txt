@@ -1,0 +1,17 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Rob Bertholee"]
+[Black "Natalia Straub"]
+[ECO "B40"]
+[WhiteElo "2343"]
+[BlackElo "2285"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. Bb5 Nge7 5. O-O Nd4 6. Nxd4
+cxd4 7. Ne2 a6 8. Bd3 d5 9. exd5 Nxd5 10. c3 dxc3 11. dxc3 Bd6
+12. Qc2 Qh4 13. g3 Qh5 14. Nf4 Bxf4 15. Bxf4 O-O 16. Be2 Qh3
+17. Bd2 e5 1/2-1/2

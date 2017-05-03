@@ -1,0 +1,17 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hannes Stefansson"]
+[Black "Alexander Baburin"]
+[ECO "D22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.a4 Nf6 5.e3 Bg4 6.Bxc4 e6 7.h3
+Bh5 8.Nc3 Nc6 9.O-O Bb4 10.g4 Bg6 11.Nh4 Bxc3 12.bxc3 Ne4
+13.Nxg6 hxg6 14.Kg2 Qh4 15.Qf3 O-O-O 16.Rh1 f5 17.Bxe6+ Kb8
+18.gxf5 Rh5 19.Qf4 Rg5+ 20.Kf3 Qxf2+ 21.Kxe4 Qc2+ 0-1

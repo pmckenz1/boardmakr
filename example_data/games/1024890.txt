@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Milorad Knezevic"]
+[Black "Yuri Balashov"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 d5 6.b3 Bd6 7.O-O O-O
+8.Bb2 c5 9.Nc3 Nc6 10.cxd5 exd5 11.Rc1 cxd4 12.Nxd4 Nxd4
+13.exd4 Ne4 14.Nb5 Bf4 15.Rc2 a6 16.Nc3 f5 17.g3 Bd6 18.f3 Ng5
+19.Ne2 Qf6 20.Bc1 Rae8 21.Kg2 Ne6 22.Be3 f4 23.Nxf4 Nxf4+
+24.Bxf4 Bxf4 25.gxf4 Qxf4 26.Re2 Rxe2+ 27.Qxe2 Qxd4 28.Qe6+
+Kh8 29.Qe7 Qf4 30.Qxb7 Qd2+ 31.Rf2 Qxd3 32.Qxb6 h6 33.Qc6 Rf6
+34.Qc8+ Kh7 35.Qc2 Rg6+ 36.Kh1 Qd4 37.Rf1 Qf4 38.Qd3 Qg5
+39.Qc2 d4 40.Qf2 d3 41.Rd1 Rd6 42.Qe1 Rd4 43.Qg3 Qc5 44.Rg1
+Qe7 45.Qg6+ Kh8 46.Qxa6 d2 47.Rd1 Qe1+ 48.Kg2 Rd8 49.Qb5 Qe2+
+50.Kg3 Rf8 0-1

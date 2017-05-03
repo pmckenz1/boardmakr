@@ -1,0 +1,18 @@
+[Event "Sumperk"]
+[Site "Sumperk"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Vitezslav Priehoda"]
+[Black "Lubomir Ftacnik"]
+[ECO "A65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6
+7. f3 Bg7 8. Bg5 O-O 9. Qd2 a6 10. a4 Re8 11. Be2 Qa5 12. Ra3
+Nbd7 13. Nh3 c4 14. Nf2 Qc7 15. O-O Rb8 16. Rc1 b5 17. axb5
+axb5 18. b4 Nf8 19. Ra5 Bd7 20. Rca1 Rb7 21. R1a3 Reb8 22. Be3
+Ne8 23. Nfd1 Qd8 24. Bf2 g5 25. Ne3 Qf6 1/2-1/2

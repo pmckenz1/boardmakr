@@ -1,0 +1,20 @@
+[Event "USSR Championship 1968/69"]
+[Site "Alma Ata (RUS)"]
+[Date "1968.??.??"]
+[EventDate "1968.??.??"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Zaitsev"]
+[Black "Vladimir Bagirov"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 4.g3 O-O 5.Bg2 d5 6.Qb3 c5 7.O-O
+Nc6 8.d3 h6 9.a3 Ba5 10.Qc2 Bd7 11.Rb1 Qe7 12.Bd2 Rac8 13.e4
+Bxc3 14.Bxc3 dxe4 15.dxe4 e5 16.Ne1 Nd4 17.Bxd4 cxd4 18.Nd3 a5
+19.b4 axb4 20.axb4 Bb5 21.Nc5 Bc6 22.Qe2 Ra8 23.Ra1 Rfc8
+24.Bh3 Rd8 25.f3 Ne8 26.Nd3 b6 27.b5 Bb7 28.Qb2 Nd6 29.Qb4 Qg5
+30.Rxa8 Bxa8 31.Re1 Nb7 32.Bf1 h5 33.Qa3 h4 34.g4 Kh7 35.Qa7
+Qf6 36.Be2 Nd6 37.Qxb6 Nxc4 1/2-1/2

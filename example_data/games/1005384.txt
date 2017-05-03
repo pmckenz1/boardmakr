@@ -1,0 +1,15 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Vladimir L Stoockalov"]
+[Black "Nikolai Kushch"]
+[ECO "B22"]
+[WhiteElo "2445"]
+[BlackElo "2375"]
+[PlyCount "20"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Bb5 Bd6
+7. O-O Nge7 8. dxc5 Bxc5 9. Nbd2 O-O 10. Nb3 Bb6 1/2-1/2

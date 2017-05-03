@@ -1,0 +1,19 @@
+[Event "Caracas"]
+[Site "Caracas VEN"]
+[Date "1939.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "R Kausz"]
+[Black "Alexander Alekhine"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 f5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. Bd2 O-O 6. Qc2 b6
+7. g3 Bb7 8. Bg2 Ne4 9. O-O Nxd2 10. Nxd2 Bxg2 11. Kxg2 Nc6
+12. e3 e5 13. Nd5 exd4 14. e4 f4 15. Nf3 Bd6 16. Qd2 Qe8
+17. Rae1 Qh5 18. Nh4 f3+ 19. Kh1 Rae8 20. Nf5 Qg4 21. b4 Rxe4
+22. Rxe4 Qxe4 23. Nxd6 Qe2 24. Qc1 cxd6 25. Nf4 Rxf4 26. gxf4
+Nxb4 27. Kg1 Nd3 28. Qd1 Nxf4 0-1

@@ -1,0 +1,21 @@
+[Event "Dortmund (Germany)"]
+[Site "Dortmund (Germany)"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eckhard Schmittdiel"]
+[Black "Andras Adorjan"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h4
+Nc6 8.Rg1 h5 9.g5 Ng4 10.Be2 d5 11.Nxc6 bxc6 12.Bxg4 hxg4
+13.Qxg4 d4 14.Ne2 Rb8 15.h5 Ba6 16.Bd2 Rxb2 17.g6 f5 18.exf5
+exf5 19.Qxf5 Qe7 20.Qf7+ Qxf7 21.gxf7+ Kxf7 22.Nxd4 Rxh5
+23.Bc3 Rb8 24.Rg3 Re8+ 25.Re3 Rxe3+ 26.fxe3 Bb4 27.Bxb4 Rh1+
+28.Kd2 Rxa1 29.Nxc6 g5 30.Nxa7 g4 31.Bd6 Ke6 32.Bf4 Kd5 33.c4
+Bxc4 34.Nc8 Rxa2+ 35.Ke1 Re2+ 36.Kd1 Ba6 37.Nb6+ Ke4 38.Nd7
+Bb5 39.Nc5+ Kf3 40.Ne6 Ba4+ 41.Kc1 Re1+ 42.Kd2 Rd1+ 43.Kc3 0-1

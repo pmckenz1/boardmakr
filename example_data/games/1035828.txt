@@ -1,0 +1,24 @@
+[Event "London m"]
+[Site "London ENG"]
+[Date "1886.08.23"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Amos Burn"]
+[Black "George Henry Mackenzie"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.Nf3 f5 2.d4 e6 3.e3 Nf6 4.c4 Bb4+ 5.Nbd2 b6 6.Be2 Bb7 7.O-O
+O-O 8.Qc2 Nc6 9.Rd1 Qe8 10.Nf1 Be7 11.Bd2 Nd8 12.Rac1 Nf7
+13.d5 Ne4 14.Be1 Bd6 15.Nd4 a6 16.f3 Nf6 17.b4 Be5 18.Nb3 exd5
+19.Qxf5 Nd6 20.Qh3 dxc4 21.Bxc4+ Nxc4 22.Rxc4 d5 23.Rc2 Bc8
+24.Qh4 Bf5 25.Rf2 Rc8 26.g4 Be6 27.Nd4 c5 28.Nxe6 Qxe6 29.g5
+Ne8 30.f4 Bd6 31.a3 cxb4 32.axb4 Rc4 33.Rb1 Nc7 34.Qg3 Qf5
+35.Rbb2 Ne6 36.Qg2 Rc1 37.Bd2 Ra1 38.h3 Qd3 39.Qg4 Rf5 40.Kg2
+Qe4+ 41.Kg1 Nxg5 42.Kh2 h5 43.Qxh5 Nf7 44.Qe2 Rg5 45.Bc3 Rg6
+46.Ng3 Rxg3 47.Kxg3 Rg1+ 48.Rg2 Rxg2+ 49.Qxg2 Qxe3+ 50.Qf3
+Bxf4+ 51.Kg2 d4 52.Qxe3 Bxe3 53.Bd2 Ne5 54.Bxe3 dxe3 55.Ra2
+Nd3 56.b5 axb5 57.Kf3 Nc5 58.Rb2 Nd7 1/2-1/2

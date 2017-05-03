@@ -1,0 +1,21 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "S K Rathore"]
+[Black "Krishnan Sasikiran"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Be7 5. Nf3 O-O 6. Bb3 d5
+7. O-O Bg4 8. h3 Bxf3 9. Qxf3 Na6 10. exd5 Nxd5 11. Re1 Bf6
+12. Nd2 Nc5 13. Ne4 Nxb3 14. axb3 Be7 15. Ng3 f6 16. Ra4 g6
+17. h4 f5 18. Bh6 Rf7 19. Rxe5 Bf6 20. Re2 b5 21. Ra1 Bxb2
+22. Rae1 Bc3 23. Bg5 Qf8 24. Rd1 a5 25. Re6 Qc8 26. Qe2 f4
+27. Nf1 Ne3 28. Rxe3 fxe3 29. Qxe3 Qg4 30. f3 Qd4 31. Ng3 a4
+32. Ne2 Qxe3+ 33. Bxe3 Bb2 34. Nc1 Bf6 35. g3 a3 36. Na2 Re7
+37. Kf2 Rae8 38. Bh6 Re2+ 39. Kf1 Rxc2 40. Rd2 Rb2 0-1

@@ -1,0 +1,20 @@
+[Event "Adelaide"]
+[Site "Adelaide AUS"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Adam Grzeslak"]
+[Black "Naum Kagan"]
+[ECO "C73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.Nc3
+Ne7 8.Be3 Rb8 9.b3 Ng6 10.g3 Bh3 11.Qe2 Be7 12.O-O-O O-O
+13.Nd2 d5 14.f4 Bb4 15.Ndb1 exf4 16.gxf4 f5 17.Rdg1 fxe4
+18.Rg3 Qd7 19.Rhg1 Bd6 20.Qh5 Bf5 21.Ne2 Rf7 22.Nbc3 a5 23.Na4
+Qe7 24.Nc5 Nh4 25.Qxf7+ Qxf7 26.Rxg7+ Qxg7 27.Rxg7+ Kxg7
+28.Ng3 Kg6 29.a4 Ng2 30.Kd2 Nxf4 31.Kc1 Bxc5 32.dxc5 Ne6 33.c3
+Rxb3 0-1

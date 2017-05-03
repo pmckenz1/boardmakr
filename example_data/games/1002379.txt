@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York (30-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.04"]
+[EventDate "?"]
+[Round "30"]
+[Result "1/2-1/2"]
+[White "Eugene Delmar"]
+[Black "James Mason"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 Qh4+
+7.g3 Qe4+ 8.Qxe4 dxe4 9.Bg2 Nc6 10.d4 exd3 11.Bxc6+ bxc6
+12.cxd3 Ba6 13.d4 c5 14.Ne2 cxd4 15.cxd4 Rd8 16.Be3 Bb4+
+17.Kf2 Bxe2 18.Kxe2 Ba5 19.Rhd1 Rd5 20.Rac1 Bb6 21.g4 O-O
+22.g5 Re8 23.Rc6 Re6 24.Rxe6 fxe6 25.Rd2 Kf7 26.Kf3 c5 27.dxc5
+Rxd2 28.Bxd2 Bxc5 29.h4 g6 30.Be3 Bxe3 31.Kxe3 Ke7 32.Kd4 Kd7
+33.Kc5 Kc7 34.a4 Kd7 35.Kb5 Kc7 1/2-1/2

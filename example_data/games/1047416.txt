@@ -1,0 +1,20 @@
+[Event "Reggio Emilia (Italy)"]
+[Site "Reggio Emilia (Italy)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ivano Ceschia"]
+[Black "Nona Gaprindashvili"]
+[ECO "B87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3
+b5 8.O-O Be7 9.f4 Bb7 10.Be3 Nc6 11.Nxc6 Bxc6 12.f5 b4 13.Na4
+exf5 14.Nb6 Bxe4 15.Ba4+ Kf8 16.Nxa8 Qxa8 17.Qe2 h5 18.Rae1 h4
+19.Bd4 Qb7 20.Qc4 Bd5 21.Rxe7 Kxe7 22.Qe2+ Be6 23.Rxf5 h3
+24.Rg5 Rh4 25.Qf2 Ng4 26.Qd2 Qxg2+ 27.Qxg2 hxg2 28.Kxg2 Rxh2+
+29.Kg3 Rd2 30.Bxg7 f6 31.Rh5 Ne3 32.Bh6 Rg2+ 33.Kf4 Nxc2
+34.Ke4 Rg4+ 35.Bf4 d5 0-1

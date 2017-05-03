@@ -1,0 +1,19 @@
+[Event "Munich op9293"]
+[Site "Munich op9293"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Jan Smejkal"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6
+7. e3 c5 8. cxd5 exd5 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. O-O Bxc3
+12. bxc3 Qc6 13. dxc5 Nxc5 14. Nd4 Qd7 15. Qh5 O-O 16. c4 Ne4
+17. Qxd5 Qxd5 18. cxd5 Nc3 19. d6 Rfd8 20. Rfc1 Ne4 21. Rc7
+Nxd6 22. g4 Rac8 23. Rac1 Rxc7 24. Rxc7 Kf8 25. Kg2 Ke8 26. f4
+Rd7 27. Rc2 1/2-1/2

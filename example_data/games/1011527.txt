@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Zoran Jovanovic"]
+[Black "Danijel Kruselj"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6
+7. Be3 Bd7 8. Qe2 a6 9. O-O-O b5 10. Bb3 Na5 11. Bg5 Nxb3+
+12. axb3 Qc7 13. f4 Rc8 14. e5 Ng8 15. Rhe1 d5 16. f5 Ne7
+17. fxe6 Bxe6 18. Kb1 Nc6 19. Nxe6 fxe6 20. Qg4 Qd7 21. Rxd5
+exd5 22. e6 Qb7 23. e7 Nxe7 24. Bxe7 Bxe7 25. Qxg7 Rf8
+26. Nxd5 Rc7 27. Nxc7+ Qxc7 28. Qxh7 Kd8 29. Qe4 Rf6 30. h4
+Rd6 31. h5 Qd7 32. Qa8+ Kc7 33. Qa7+ Kc8 34. Rxe7 1-0

@@ -1,0 +1,22 @@
+[Event "San Mateo CA USA"]
+[Site "San Mateo, CA USA"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Javier Torres"]
+[Black "Thomas Brownscombe"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 d5 5.Nc3 Nc6 6.a3 a6 7.cxd5
+exd5 8.Be2 Bd6 9.O-O O-O 10.dxc5 Bxc5 11.b4 Ba7 12.b5 axb5
+13.Nxb5 Ne4 14.Bb2 Be6 15.Nxa7 Rxa7 16.Nd4 Ra8 17.Bd3 Nxd4
+18.Bxd4 Qe7 19.f3 Nc5 20.Bc2 Rfc8 21.f4 f5 22.Rf3 Ne4 23.Bxe4
+dxe4 24.Rg3 g6 25.Bb2 Rd8 26.Qe1 Rac8 27.h4 Bf7 28.h5 Rd3
+29.hxg6 Bxg6 30.Rc1 Rxc1 31.Qxc1 Qd7 32.Qc5 Kf7 33.Qe5 Qe7
+34.Qb5 Qd7 35.Qc4+ Qd5 36.Qc7+ Qd7 37.Qb8 Qb5 38.Bd4 Rd1+
+39.Kh2 Qb1 40.Qc7+ Ke6 41.Qe5+ Kd7 42.Qd5+ Kc7 43.Qc5+ Kd7
+44.Qd5+ Kc7 45.Be5+ Kb6 46.Bd4+ 1/2-1/2

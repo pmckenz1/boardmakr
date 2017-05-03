@@ -1,0 +1,16 @@
+[Event "Ch Europe (team)"]
+[Site "Debrecen HUN"]
+[Date "1992.11.29"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Khvicha Supatashvili"]
+[Black "Alexey Dreev"]
+[ECO "D12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Qc7 7.Bd2
+e6 8.Nc3 Nc6 9.Be2 a6 10.O-O Bd6 11.Rfc1 O-O 12.Na4 Ne4 13.Be1
+b5 14.Nc5 Bxc5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Helge Andreas Nordahl"]
+[Black "Bjarte Leer-Salvesen"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5
+7. Bd2 a5 8. axb5 Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4
+12. Bb2 Nf6 13. Bd3 Nbd7 14. Qc2 O-O 15. e4 e5 16. O-O Qc7
+17. c5 exd4 18. Bxd4 h6 19. e5 Nd5 20. e6 fxe6 21. c6 Bxc6
+22. Rac1 Ne7 23. Nh4 Rac8 24. Qe2 e5 25. Bc5 Nxc5 26. Rxc5 Qd6
+27. Rxe5 Qf6 28. Rxe7 Rce8 29. Ng6 Qd6 30. Re1 Qd5 31. Bc4 1-0

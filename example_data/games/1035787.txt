@@ -1,0 +1,23 @@
+[Event "San Mateo CA USA"]
+[Site "San Mateo, CA USA"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Larry Remlinger"]
+[Black "Thomas Brownscombe"]
+[ECO "A67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7
+8.Bb5+ Nbd7 9.e5 dxe5 10.fxe5 Nh5 11.e6 Qh4+ 12.g3 Nxg3
+13.hxg3 Qxh1 14.Be3 Bxc3+ 15.bxc3 a6 16.exd7 Bxd7 17.Bxd7+
+Kxd7 18.Qa4+ b5 19.Qg4+ f5 20.Qf3 Qxf3 21.Nxf3 Rhe8 22.Kf2 Re4
+23.Ng5 Rc4 24.Nxh7 Rh8 25.Rh1 Kc8 26.d6 Rxc3 27.d7+ Kxd7
+28.Nf6+ Ke6 29.Rxh8 Kxf6 30.Rc8 Rc2+ 31.Kf3 Rxa2 32.Rxc5 Ra4
+33.Rc6+ Kf7 34.Bf4 Ra3+ 35.Kg2 a5 36.Rb6 b4 37.Kh3 Ra2 38.Bg5
+Rc2 39.Rb5 Rc6 40.Bd8 a4 41.Rxb4 Ra6 42.Rb2 Ke6 43.Kh4 Kd5
+44.Kg5 Ke4 45.Ra2 a3 46.Be7 Kf3 47.Kh4 f4 48.g4+ Ra7 49.Rxa3+
+Rxa3 50.Bxa3 Ke2 51.Bc5 1-0

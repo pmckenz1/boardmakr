@@ -1,0 +1,23 @@
+[Event "Wijk Sonnevanck"]
+[Site "Wijk aan Zee NED"]
+[Date "1995.02.21"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Jeroen Bosch"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. O-O b5 8. Bb3 Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Nc6
+12. Nxc6 Qxc6 13. Rfe1 Bb7 14. Rad1 Nxe4 15. Nxe4 Qxe4 16. Bf4
+Qg6 17. Bxd6 Bxd6 18. Rxd6 Qxg3 19. hxg3 Ke7 20. Rb6 Rhb8
+21. c4 Bc8 22. Rxb8 Rxb8 23. cxb5 axb5 24. f3 Bd7 25. Rc1 Rb6
+26. Kf2 h5 27. Ke3 Rc6 28. Rh1 Rc5 29. Rh4 g6 30. g4 hxg4
+31. Rxg4 Rc1 32. Rd4 Rb1 33. Rd2 Bc6 34. Kd4 Kd6 35. Rd1 Rxd1+
+36. Bxd1 g5 37. g4 f6 38. a3 Bd5 39. Be2 Bc6 40. Bd1 Bd7
+41. Be2 f5 42. gxf5 exf5 43. Bd3 Bc6 44. Bxf5 Bxf3 45. Be4
+1/2-1/2

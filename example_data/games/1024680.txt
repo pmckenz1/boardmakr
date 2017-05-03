@@ -1,0 +1,18 @@
+[Event "Moscow INT"]
+[Site "Moscow URS"]
+[Date "1981.04.14"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Vasily Smyslov"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.Nf3 Nf6 2.c4 c6 3.Nc3 d5 4.e3 g6 5.d4 Bg7 6.Be2 O-O 7.O-O
+Be6 8.b3 c5 9.Bb2 Nc6 10.dxc5 dxc4 11.bxc4 Nd7 12.Qc1 Nxc5
+13.Rd1 Bd7 14.Nd5 e6 15.Bxg7 Kxg7 16.Qb2+ f6 17.Nf4 Qe7 18.Nd3
+b6 19.Nxc5 bxc5 20.Nd2 Rfd8 21.Ne4 Rab8 22.Qc3 Be8 23.Rxd8
+Nxd8 24.Qa5 Rc8 25.Rd1 Nf7 26.h3 f5 27.Qc3+ e5 28.Nd2 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "0-1"]
+[White "Jon Charles Baker"]
+[Black "Mark Knecht"]
+[ECO "D30"]
+[WhiteElo "1918"]
+[BlackElo "2112"]
+[PlyCount "42"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Bg5 Nf6 5. e3 dxc4 6. Bxc4 Qa5+
+7. Nbd2 Ne4 8. Bf4 g5 9. Be5 f6 10. Bxb8 Rxb8 11. O-O Nxd2
+12. Nxd2 h5 13. e4 Bd6 14. d5 Qc7 15. g3 h4 16. Qf3 hxg3
+17. fxg3 Bc5+ 18. Kh1 exd5 19. Qxf6 Rxh2+ 20. Kxh2 Qh7+
+21. Kg2 Qh3+ 0-1

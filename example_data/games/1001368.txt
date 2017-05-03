@@ -1,0 +1,26 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1851.05.27"]
+[EventDate "1851.??.??"]
+[Round "1.1"]
+[Result "1-0"]
+[White "Jozsef Szen"]
+[Black "Samuel Newham"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. c3 Nge7 6. Be3 d5
+7. exd5 Nxd5 8. Nxc6 bxc6 9. Bd4 Qc7 10. c4 Ne7 11. Bd3 Bb7
+12. Be3 Ng6 13. O-O Bd6 14. Qh5 O-O-O 15. Be2 Nf4 16. Bxf4
+Bxf4 17. Nc3 g6 18. Qh3 f5 19. g3 Be5 20. Qh6 Bxc3 21. bxc3
+Qe5 22. Bf3 Qxc3 23. Bg2 Rd7 24. Rfc1 Qd2 25. Qh4 Qd4 26. Qg5
+Rhd8 27. h4 Qg7 28. Qe3 a6 29. Qxe6 Qe7 30. Re1 Re8 31. Qxe7
+Rdxe7 32. Rxe7 Rxe7 33. Kf1 c5 34. Bxb7+ Kxb7 35. Rd1 Kc6
+36. Rd8 Re4 37. Rc8+ Kb6 38. Rh8 Rxc4 39. Rxh7 Re4 40. Rh6 c4
+41. Rxg6+ Kb5 42. Rg8 c3 43. Rc8 Kb4 44. h5 Re6 45. f3 a5
+46. g4 fxg4 47. fxg4 Rh6 48. Ke2 Ka3 49. Rxc3+ Kxa2 50. Rc5 a4
+51. Rb5 a3 52. Kf3 Ka1 53. Ra5 a2 54. Kg3 Kb2 55. Kh4 a1=Q
+56. Rxa1 Kxa1 57. g5 Ra6 58. h6 Ra7 59. g6 Ra4+ 60. Kg5 Ra5+
+61. Kf4 Ra4+ 62. Ke5 Ra5+ 63. Kd4 Ra4+ 64. Kc5 1-0

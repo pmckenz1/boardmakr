@@ -1,0 +1,20 @@
+[Event "POR"]
+[Site "POR"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Pereira Santos"]
+[Black "Vladimir Bagirov"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6
+7.Bg2 b5 8.Qd3 Bb7 9.O-O c5 10.dxc5 Bxc5 11.Nbd2 O-O 12.Nb3
+Be4 13.Qd1 Bb6 14.Bf4 Rc8 15.Rc1 Rxc1 16.Qxc1 Qa8 17.Ne1 Rc8
+18.Qd2 Qa7 19.Nd3 h6 20.Bf3 Qa8 21.Ne1 Rd8 22.Bxe4 Nxe4 23.Qc2
+e5 24.Bc1 Ndf6 25.Nd3 Qd5 26.Nb4 Qc4 27.Qxc4 bxc4 28.Na1 Nxf2
+29.Kg2 N2e4 30.Nxa6 c3 31.Nb3 Nd5 32.Kf3 f5 33.bxc3 Nexc3
+34.Bb2 e4 35.Kg2 Ne3+ 0-1

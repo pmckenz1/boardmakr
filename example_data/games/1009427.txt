@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Tobias Jugelt"]
+[Black "Klaus Bischoff"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 d6 2. Bg5 Nd7 3. Nd2 Ngf6 4. e3 h6 5. Bh4 e6 6. Bd3 Be7
+7. Ne2 b6 8. c4 c5 9. Nc3 Bb7 10. O-O O-O 11. Bg3 cxd4
+12. exd4 d5 13. Qb3 a6 14. a4 Ra7 15. Rfd1 Ba8 16. Nf1 Nb8
+17. Ne3 dxc4 18. Nxc4 Nfd7 19. Bf1 Nc6 20. d5 exd5 21. Nxd5
+Bc5 22. Qc3 a5 23. Nce3 Re8 24. Bb5 Re6 25. Nc4 Nd4 26. Nce3
+Nxb5 27. axb5 Qg5 28. h4 Qg6 29. Nf4 Qe4 30. Nxe6 fxe6 31. Qc4
+Nf6 32. Rd8+ Kh7 33. Qxe4+ Nxe4 34. Be5 Be7 35. Rb8 Bxh4
+36. g3 Be7 37. Rxb6 Ng5 38. Bd6 Bf6 39. Ra6 Rd7 40. Rxa8 Rxd6
+41. Rd1 1-0

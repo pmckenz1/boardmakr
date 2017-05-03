@@ -1,0 +1,16 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Bartosz Socko"]
+[Black "Jacek Gdanski"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 d6
+7. Be2 Nxd4 8. Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. O-O Qa5
+12. Rfc1 Rfc8 13. f3 Qb6+ 1/2-1/2

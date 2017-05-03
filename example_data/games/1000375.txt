@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Suat Atalik"]
+[Black "Jay R Bonin"]
+[ECO "D55"]
+[WhiteElo "2636"]
+[BlackElo "2358"]
+[PlyCount "63"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6
+7. cxd5 exd5 8. Bd3 Be6 9. O-O Nbd7 10. Qe2 c5 11. Rad1 c4
+12. Bc2 Bg4 13. h3 Bh5 14. g4 Bg6 15. Ne5 Rc8 16. f4 Bxc2
+17. Qxc2 a6 18. Qg2 Nb8 19. Bxf6 gxf6 20. Nf3 Bb4 21. Nh4 Bxc3
+22. bxc3 Nc6 23. e4 dxe4 24. d5 Ne7 25. d6 Ng6 26. Nf5 Qd7
+27. Qxe4 Rfe8 28. Qd4 Re6 29. Ng3 Nh4 30. Nh5 Qc6 31. Qf2 Qc5
+32. Rd4 1-0

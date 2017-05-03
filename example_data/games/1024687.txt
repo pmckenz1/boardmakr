@@ -1,0 +1,25 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vlastimil Hort"]
+[Black "Yuri Balashov"]
+[ECO "D62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.Qc2 Nbd7 7.e3
+c5 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Bd3 g6 12.dxc5 Nxc5
+13.O-O Bg4 14.Nd4 Rac8 15.Rac1 Qg5 16.Be2 Ne6 17.Qxc8 Rxc8
+18.Rxc8+ Kg7 19.f4 Qh4 20.Nxe6+ Bxe6 21.Rc3 Bg4 22.Bd1 h5
+23.Bb3 Qd8 24.Rf2 Bf5 25.h3 Be4 26.Bc2 d4 27.exd4 Bxc2
+28.Rcxc2 Qxd4 29.Rd2 Qc5 30.a3 a5 31.Rd3 b5 32.Rf3 b4 33.axb4
+axb4 34.b3 Qd4 35.Kh2 h4 36.Rc2 Qd1 37.Rc4 Qe1 38.Rd4 Kf6
+39.Rd5 Qe4 40.Rg5 Kg7 41.Re5 Qd4 42.Re2+ Kf6 43.Rc2 Qe4 44.Rc8
+Kg7 45.Rb8 Qd4 46.Rb5 Qd6 47.Ra5 Qd8 48.Ra2 Qd1 49.Raf2 Qe1
+50.g3 hxg3 51.Kxg3 Qg1+ 52.Rg2 Qe1+ 53.Kh2 Qe4 54.Rgf2 Kf6
+55.Kg2 Kg7 56.Kg3 Kf6 57.Rf1 Kg7 58.Rd1 Kh6 59.Rfd3 Kg7
+60.R1d2 Kh6 61.Rf3 Qe1+ 62.Rdf2 1/2-1/2

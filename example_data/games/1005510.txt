@@ -1,0 +1,17 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "3"]
+[Result "1-0"]
+[White "Valery Shalimov"]
+[Black "Konstantin Karanda"]
+[ECO "B90"]
+[WhiteElo "2400"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. g4 e5 8. Nf5 g6 9. g5 gxf5 10. exf5 d5 11. gxf6 d4 12. Bc4
+Qc7 13. Qd3 dxc3 14. O-O-O cxb2+ 15. Kb1 Nc6 16. Rhg1 b5
+17. Bb3 Bb7 18. Bb6 Nb4 19. Qe2 1-0

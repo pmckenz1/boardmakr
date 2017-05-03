@@ -1,0 +1,28 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1958.??.??"]
+[EventDate "1958.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Aivars Gipslis"]
+[Black "Bukhuti Gurgenidze"]
+[ECO "B94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "152"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7
+7.Bc4 Qa5 8.Qd2 e6 9.O-O-O b5 10.Bb3 Bb7 11.Rhe1 Rc8 12.f3 Be7
+13.Kb1 Nc5 14.h4 Nxb3 15.cxb3 h6 16.Be3 b4 17.Na4 d5 18.e5 Nd7
+19.f4 O-O 20.f5 Nxe5 21.fxe6 Bf6 22.e7 Rfe8 23.Nf5 Nc4 24.Qf2
+Nxe3 25.Rxe3 d4 26.Ree1 Rc6 27.g4 Bc8 28.Nxd4 Rd6 29.Qf4 Qd5
+30.Nc6 Qxd1+ 31.Rxd1 Rxd1+ 32.Kc2 Rg1 33.Nb6 Rxg4 34.Qd6 Bf5+
+35.Kd1 Bxh4 36.Nd5 Rg1+ 37.Kd2 Rg3 38.Qc7 Rg2+ 39.Ke3 Bg5+
+40.Kf3 Rd2 41.Qe5 Bh3 42.Nc7 Bg2+ 43.Kg3 Bxc6 44.Nxe8 Bxe8
+45.Qb8 Bxe7 46.Qxe8+ Bf8 47.Qa8 Rxb2 48.Qxa6 g6 49.Qf6 Rxa2
+50.Qd8 Rc2 51.Qd5 Rc3+ 52.Kg2 Rc5 53.Qd4 Rc3 54.Qd5 h5 55.Kh2
+h4 56.Kg2 h3 57.Kh1 Be7 58.Qe5 Bf8 59.Qd5 Be7 60.Qe5 Bh4
+61.Qb8+ Kg7 62.Qxb4 Bf6 63.Qb8 Rc5 64.Qb6 Rh5 65.b4 Be5 66.Qe3
+Rf5 67.Qc1 Rf3 68.Qe1 f6 69.Qc1 h2 70.Qd1 Ra3 71.Kg2 Ra1
+72.Qd7+ Kh6 73.Qh3+ Kg5 74.Qe3+ Bf4 75.Qc5+ Kh6 76.Qf8+ Kh5
+0-1

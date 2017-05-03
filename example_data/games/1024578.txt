@@ -1,0 +1,20 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Milan Matulovic"]
+[Black "Yuri Balashov"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qc7 8.Bxf6 gxf6 9.Qd2 Nc6 10.O-O-O Qb6 11.Nf3 Bd7 12.Kb1 O-O-O
+13.g3 Kb8 14.Bh3 h5 15.Rhf1 Bc8 16.Qf2 Qxf2 17.Rxf2 Be7 18.Bf1
+Rd7 19.a3 Rc7 20.Ne2 Rd8 21.Bh3 Bf8 22.f5 e5 23.Nc3 Ne7
+24.Rfd2 Rcd7 25.Na4 Kc7 26.c4 b6 27.Nc3 Bh6 28.Rc2 Bb7 29.Nd5+
+Nxd5 30.cxd5 Kb8 31.Bf1 Rh8 32.Be2 Rdd8 33.Rd3 Rc8 34.Rdc3
+Rxc3 35.Rxc3 Bg5 36.Kc2 h4 37.Nxg5 fxg5 38.g4 Rc8 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Haifa"]
+[Site "Haifa ISR"]
+[Date "1989.11.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Carlo D'Amore"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. h3 Nd7 5. Nc3 e5 6. dxe5 dxe5
+7. Bg5 Ne7 8. Qd2 h6 9. Be3 Nb6 10. Qxd8+ Kxd8 11. O-O-O+ Bd7
+12. a4 Nbc8 13. Nd2 a6 14. Nb3 Nd6 15. Be2 h5 16. Bc5 Nec8
+17. a5 Be6 18. Nd2 Bh6 19. Kb1 Ke8 20. Nf1 f6 21. Ne3 Bxe3
+22. Bxe3 Nc4 23. Bxc4 Bxc4 24. f4 Ne7 25. fxe5 fxe5 26. b3 Be6
+27. Na4 Rf8 28. Nc5 Bc8 29. Bh6 Rg8 30. Bg5 Nc6 31. Rhf1 Rf8
+32. Rxf8+ Kxf8 33. Rf1+ Kg7 34. Bf6+ Kg8 35. Nd3 b6 36. Bxe5
+Nxe5 37. Nxe5 Bb7 38. axb6 cxb6 39. g4 Bxe4 40. Rf4 Bg2
+41. Rf6 Be4 42. Rxb6 a5 43. Nxg6 hxg4 44. hxg4 Rd8 45. Kc1 a4
+46. bxa4 Rd4 47. Ne7+ Kf8 48. Nf5 Rxa4 49. Ne3 Ke7 50. Kb2 Bf3
+51. Rg6 Be2 52. Rg5 Re4 53. Nd5+ Ke6 54. Nc3 1/2-1/2

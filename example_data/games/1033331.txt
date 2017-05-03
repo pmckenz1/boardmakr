@@ -1,0 +1,23 @@
+[Event "4, it op Olot ESP (10s)"]
+[Site "Olot ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Jose Maria Sorroche Martin"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Nc3 e5
+7. Qe2 Qxd4 8. Bd2 Bg4 9. f3 Be6 10. O-O-O Qb6 11. Qxe5 Nf6
+12. a3 Nbd7 13. Qe2 Be7 14. Nh3 Qb3 15. Nf4 Bf5 16. Be1 Ne5
+17. g4 Nxc4 18. gxf5 Nxb2 19. Rd4 O-O 20. Qc2 Qb6 21. Ra4 Nxa4
+22. Qxa4 Rad8 23. Nfe2 Nd5 24. Rg1 Bf6 25. Qc4 Rfe8 26. Rh1
+Be7 27. Qa4 Ne3 28. Bf2 Bc5 29. Rg1 Nxf5 30. Bxc5 Qxc5 31. Qb4
+Qe3+ 32. Kb1 Qxf3 33. Nc1 Rd4 34. Qb2 Red8 35. Be2 Qf2 36. Rf1
+Qg2 37. Rxf5 Rd2 38. Qb3 Qg6 39. Bg4 h5 40. Bh3 Rxh2 41. Ne4
+Rd5 42. Qxb7 Rb5+ 43. Rxb5 Qxe4+ 44. Ka1 Rxh3 45. Qc8+ Kh7
+46. Qxh3 cxb5 47. Qxh5+ Kg8 48. Qxb5 Qd4+ 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.09"]
+[EventDate "1900.??.??"]
+[Round "11.2"]
+[Result "1-0"]
+[White "Leon Rosen"]
+[Black "Manuel Sterling"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O d6 5.Ng5 d5 6.exd5 Na5
+7.Bb5+ c6 8.dxc6 bxc6 9.Be2 Bc5 10.c3 Nb7 11.Bf3 O-O 12.Bxc6
+h6 13.Ne4 Nxe4 14.Bxe4 Kh8 15.d4 exd4 16.Qh5 Qb6 17.Nd2 dxc3
+18.bxc3 Qc7 19.Nb3 f5 20.Bxh6 gxh6 21.Qxh6+ Qh7 22.Qxh7+ Kxh7
+23.Bxb7 Bxf2+ 24.Rxf2 Bxb7 25.Nd4 Be4 26.Re1 Rac8 27.Re3 Rb8
+28.Nb3 Rbc8 29.Rf4 Kg6 30.Nd4 Rf6 31.Rg3+ Kf7 32.Nf3 Bxf3
+33.Rgxf3 Kg6 34.g4 Rc5 35.Kg2 Kg5 36.Rxf5+ 1-0

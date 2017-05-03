@@ -1,0 +1,15 @@
+[Event "Farum (Denmark)"]
+[Site "Farum DEN"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Andrei Maksimenko"]
+[Black "Alexander Baburin"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.O-O Nf6 7.dxc5
+Bxc5 1/2-1/2

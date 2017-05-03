@@ -1,0 +1,20 @@
+[Event "XII"]
+[Site "C07,I"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Stanimir Nikolic"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.Nf3 c5 2.c4 g6 3.g3 Bg7 4.Bg2 Nc6 5.O-O a6 6.Nc3 Rb8 7.b3 b5
+8.cxb5 axb5 9.Bb2 d6 10.e3 b4 11.Na4 Bxb2 12.Nxb2 Ba6 13.Re1
+Nf6 14.d4 cxd4 15.exd4 d5 16.Qc1 Qd6 17.Qh6 Ng8 18.Qh4 e6
+19.Bh3 Kf8 20.Na4 Kg7 21.Nc5 Bc8 22.Ng5 Nd8 23.f4 Nf6 24.Rac1
+Re8 25.Rc2 Nc6 26.Nf3 Ra8 27.Rec1 Na7 28.Qg5 Ne4 29.Nxe4 dxe4
+30.Qe5+ Qxe5 31.Nxe5 Nb5 32.Rc4 Nc3 33.R1xc3 bxc3 34.a4 Ba6
+35.Rxc3 Rac8 36.Rxc8 Rxc8 37.Kf2 0-1

@@ -1,0 +1,23 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.07"]
+[EventDate "1927.06.26"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Alfred Brinckmann"]
+[Black "Ernst Gruenfeld"]
+[ECO "B05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 Nc6 6. O-O e6
+7. c4 Nde7 8. exd6 Qxd6 9. Be3 Nf5 10. Nc3 O-O-O 11. c5 Qe7
+12. Qa4 Bxf3 13. Bxf3 Nfxd4 14. Bxc6 Nxc6 15. b4 Qh4 16. Rab1
+Be7 17. Qa3 Rd3 18. b5 Nb8 19. Qxa7 Rxc3 20. c6 bxc6 21. bxc6
+Nxc6 22. Qa8+ Kd7 23. Qxh8 Bd6 24. h3 Qf6 25. Rb5 h6 26. Rd1
+Rd3 27. Rc1 Rc3 28. Rcb1 Ra3 29. Qh7 Rxa2 30. Qe4 Ra1 31. g3
+Rxb1+ 32. Qxb1 Qf3 33. Bc5 Bxc5 34. Rxc5 Nd4 35. Qe1 f6
+36. Qd2 e5 37. Kh2 Kd6 38. Ra5 Qb7 39. Qd3 Ke7 40. Qa3+ Kf7
+41. Qa2+ Kg6 42. Rd5 Qb3 43. Qxb3 Nxb3 44. Rd7 c6 45. Kg2 Nd4
+46. f3 h5 47. h4 Kh6 48. f4 g6 49. Kf2 Nf5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "0-1"]
+[White "Hans-Joachim Schubert"]
+[Black "Robert Hardarson"]
+[ECO "C58"]
+[WhiteElo "?"]
+[BlackElo "2356"]
+[PlyCount "56"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+
+c6 7. dxc6 bxc6 8. Qf3 Rb8 9. Be2 Bd6 10. Nc3 O-O 11. d3 h6
+12. Nge4 Nxe4 13. Nxe4 Bc7 14. b4 f5 15. Ng3 Rxb4 16. Ba3 Rf4
+17. Qh5 Bd6 18. Bxd6 Qxd6 19. O-O Kh7 20. Bd1 c5 21. Rb1 Nc6
+22. Qe2 Rh4 23. c3 Ba6 24. Bc2 e4 25. Rfd1 Rd8 26. h3 Qg6
+27. Kh1 Re8 28. Qf1 f4 0-1

@@ -1,0 +1,27 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Milan Zurek"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bg4 5. f3 Bf5 6. Qb3 Bc8
+7. Bd3 e6 8. Nge2 Nbd7 9. Bd2 dxc4 10. Bxc4 Be7 11. a4 a5
+12. Rd1 Qb6 13. Qxb6 Nxb6 14. Bb3 Nbd5 15. e4 Nb4 16. Be3 O-O
+17. Nf4 Re8 18. Kf2 Bf8 19. Rd2 Bd7 20. g4 Rec8 21. g5 Ne8
+22. h4 b5 23. h5 Nd6 24. g6 Nc4 25. gxf7+ Kxf7 26. Bxc4 bxc4
+27. Rc1 Rc7 28. e5 Rb8 29. Ne4 Nd5 30. Rxc4 Nb6 31. Rc1 Be7
+32. b3 Nd5 33. Nxd5 exd5 34. Nc5 Bxc5 35. Rxc5 Rxb3 36. Rxa5
+Rcb7 37. Ra2 Rc3 38. Rc5 Rxc5 39. dxc5 Ra7 40. Bg5 d4 41. Bd8
+Bc8 42. a5 Ba6 43. Rb2 Bb5 44. Bb6 Ra8 45. Rb4 d3 46. Rd4 Ke6
+47. f4 Kf5 48. Bd8 Rb8 49. Ke3 Ba6 50. Bb6 g5 51. hxg6 hxg6
+52. Rd6 g5 53. Rf6+ Kg4 54. Rg6 Kf5 55. Rxg5+ Ke6 56. Rg6+ Kf5
+57. Rg5+ Ke6 58. Ke4 Kf7 59. Rf5+ Ke7 60. Rf6 Rh8 61. Rd6 Rh1
+62. Bd8+ Ke8 63. Bg5 Re1+ 64. Kf5 Kf7 65. Rd7+ Ke8 66. e6 Rxe6
+67. Kxe6 Bc4+ 68. Kd6 d2 69. Rd8+ 1-0

@@ -1,0 +1,39 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.21"]
+[EventDate "1936.08.10"]
+[Round "10"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Efim Bogoljubov"]
+[ECO "A97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 {Notes by Alekhine} f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7
+5. O-O O-O 6. c4 d6 {I believe that Ne4 - introduced by me
+against F. Samisch. Dresden, 1936, and played also in the
+present tournament against J. R. Capablanca - offers Black
+comparatively better fighting chances. It is generally in the
+interest of the second player to delay as long as logically
+possible the advance of the d-pawn in this opening, so as to
+keep the choice between the two points, d6 and d5.} 7. Nc3 Qe8
+8. Qc2 Nc6 {An obvious positional error, which enables White
+to get control of that important square, d5. The logical move
+was 8...Qh5 for Black had no reason to fear 9 e4 fxe4 10 Nxe4
+Nc6.} 9. d5 Nb4 10. Qb3 Na6 11. dxe6 Nc5 12. Qc2 Bxe6 13. b3
+{Intending to play 14 Nd4; a threat which should be met by
+13...Nfe4 followed by Bf6. The passive line adopted by Black
+in the next moves leads to an almost hopeless situation for
+him.} Qh5 {?} 14. Nd4 Bc8 15. b4 Na6 16. Rb1 Kh8 {He could not
+play 16...Nxb4 17 Rxb4 c5 on account of 18 Nd5, etc.} 17. Nd5
+Qf7 {? An oversight which loses a pawn without
+compensation. After 17...Nxd5 18 cxd5 it would have taken
+White some time to transform his positional into material
+advantage.} 18. b5 Nc5 19. Nxc7 Rb8 20. Nd5 Ne6 21. Nxf5 Nxd5
+22. cxd5 Ng5 {? Losing two more pawns. He might as well
+resign.} 23. Nxd6 Bxd6 24. Bxg5 Bd7 25. e4 Qh5 26. Be3 Rf3
+27. Rb3 Rbf8 28. Bc5 Rxb3 29. Bxd6 Rf6 30. axb3 Rxd6 31. Qc7
+Rh6 32. Qb8+ Be8 33. g4 Qf7 34. Rc1 Kg8 35. Rc7 Qf8 36. Rc8
+1-0

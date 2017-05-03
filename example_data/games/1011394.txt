@@ -1,0 +1,19 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "John B Henderson"]
+[Black "Alan J Norris"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. d4 c5 2. d5 f5 3. e4 fxe4 4. Nc3 g6 5. f3 e3 6. d6 Bh6
+7. Ne4 Nf6 8. Nxf6+ exf6 9. Bc4 Qa5+ 10. c3 Nc6 11. Qd5 Nd8
+12. b4 Qa4 13. Qxc5 Ne6 14. Bxe6 dxe6 15. Bxe3 Bf8 16. Ne2 Bd7
+17. O-O b6 18. Qd4 Bg7 19. Qd2 Kf7 20. c4 Rhd8 21. Rab1 Rac8
+22. Rfc1 Qc6 23. c5 Qb7 24. a3 e5 25. f4 Bc6 26. fxe5 fxe5
+27. Rd1 Bxg2 28. Qa2+ Ke8 29. Qe6+ Kf8 30. Rf1+ 1-0

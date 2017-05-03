@@ -1,0 +1,23 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Manila PHI"]
+[Date "1992.06.09"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Tatjana Lematschko"]
+[Black "Alisa Galliamova"]
+[ECO "B26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 Rb8 7.a4 a6
+8.Nge2 Nd4 9.O-O b5 10.axb5 axb5 11.Bxd4 cxd4 12.Nd5 e6 13.Nb4
+Ne7 14.Ra7 O-O 15.Qa1 Bb7 16.Qa5 Qc8 17.Rc1 Qc5 18.Qa3 f5
+19.Nf4 Bh6 20.Nxe6 Qc8 21.Nxf8 Bxc1 22.Rxb7 Rxb7 23.exf5 Kxf8
+24.Bxb7 Qxb7 25.Na2 Bg5 26.Qxd6 Qd5 27.Qxd5 Nxd5 28.fxg6 hxg6
+29.Kf1 Ke7 30.c4 bxc4 31.dxc4 Nb6 32.b3 Nd7 33.Ke2 Nc5 34.f4
+Bf6 35.b4 Na4 36.Nc1 Nb2 37.c5 Ke6 38.Nd3 Na4 39.Ne1 Kd5
+40.Kf3 Kc4 41.c6 d3 42.c7 Nb6 43.Nxd3 Kxd3 44.b5 Kc4 45.Ke4
+Kxb5 46.c8=Q Nxc8 47.Kd5 Bd8 48.Ke6 Kc6 49.Kf7 Ne7 50.g4 Nd5
+51.Kxg6 Nxf4+ 52.Kf5 Nh3 53.g5 Nxg5 54.h4 Nf3 55.h5 0-1

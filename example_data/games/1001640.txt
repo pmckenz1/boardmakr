@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.25"]
+[EventDate "1882.05.10"]
+[Round "13"]
+[Result "1-0"]
+[White "Berthold Englisch"]
+[Black "Preston Ware"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. Nf3 f5 5. cxd5 exd5 6. Bf4 Nf6
+7. e3 Be7 8. Bd3 O-O 9. Qb3 Qb6 10. Bxb8 Rxb8 11. Qxb6 axb6
+12. Na4 Bd8 13. Nc3 Ne4 14. Ne2 b5 15. O-O Bc7 16. Ne5 Nd2
+17. Rfd1 Nc4 18. Bxc4 bxc4 19. b3 cxb3 20. axb3 Re8 21. f4 Be6
+22. Nc3 Bxe5 23. fxe5 b6 24. Ra7 Kf8 25. Rda1 Re7 26. b4 Kf7
+27. Rxe7+ Kxe7 28. Ra7+ Bd7 29. b5 cxb5 30. Nxd5+ Kd8 31. Nb4
+Rc8 32. d5 Rc4 33. d6 Rxb4 34. Ra8+ Bc8 35. e6 Rc4 36. d7 b4
+37. dxc8=Q+ Rxc8 38. e7+ 1-0

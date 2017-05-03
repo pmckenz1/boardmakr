@@ -1,0 +1,19 @@
+[Event "Sarajevo (Bosnia & Herzegovina)"]
+[Site "Sarajevo (Bosnia & Herzegovina)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Faruk Bistric"]
+[Black "Andras Adorjan"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 Qb6 5.Qc1 Nh5 6.Bg5 h6 7.Bh4
+g5 8.Bg3 Nxg3 9.hxg3 cxd4 10.Nxd4 Bg7 11.c3 Nc6 12.Nd2 d5
+13.Bd3 Bd7 14.Rb1 Rc8 15.Qd1 O-O 16.Qh5 f5 17.Nxc6 bxc6 18.g4
+Qd8 19.gxf5 exf5 20.O-O Qf6 21.Nb3 Rce8 22.Rfe1 Re5 23.c4 Be6
+24.Rbc1 f4 25.e4 g4 26.Qxe5 Qxe5 27.exd5 Qh5 28.dxe6 g3 29.Be4
+Qh2+ 30.Kf1 f3 31.Bxf3 Rxf3 32.gxf3 g2 0-1

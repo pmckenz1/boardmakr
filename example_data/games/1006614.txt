@@ -1,0 +1,20 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Walter John"]
+[Black "Ernst Jacobson"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4
+7.Nxd4 Bd6 8.Be3 Ne7 9.Nc3 Ng6 10.O-O-O f6 11.f3 Bd7 12.Nb3
+O-O-O 13.Nc5 Rhe8 14.Nd3 Be6 15.g3 b6 16.Nf4 Bf7 17.Nxg6 Bxg6
+18.g4 Be5 19.Rxd8+ Rxd8 20.Ne2 Bd6 21.Bf4 Bf7 22.b3 Ba3+
+23.Kb1 Bd6 24.h4 c5 25.Rd1 Bxf4 26.Rxd8+ Kxd8 27.Nxf4 c4 28.b4
+Kd7 29.c3 Kd6 30.h5 c5 31.bxc5 Kxc5 32.Kc2 b5 33.a3 a5 34.Ne2
+Be8 35.Kd2 Bf7 1/2-1/2

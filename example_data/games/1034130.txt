@@ -1,0 +1,21 @@
+[Event "Soviet"]
+[Site "Soviet"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexey Suetin"]
+[Black "David Bronstein"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nge7
+7. b4 cxd4 8. cxd4 Nf5 9. Be3 Bd7 10. Nc3 Rc8 11. Na4 Qd8
+12. Bd3 Nxe3 13. fxe3 b6 14. O-O Be7 15. Qb3 O-O 16. Rac1 Qe8
+17. Nc3 f5 18. Nxd5 Kh8 19. Nxe7 Qxe7 20. Ba6 Rcd8 21. Bb7 Nb8
+22. Rc7 g5 23. Nd2 Rde8 24. Rfc1 Qd8 25. b5 g4 26. g3 h5
+27. Bg2 Qg5 28. Rxa7 Rc8 29. Rac7 Rxc7 30. Rxc7 Bxb5 31. d5
+exd5 32. e6 d4 33. e7 Re8 34. Qxb5 Qxe3+ 35. Kf1 Rxe7 36. Rxe7
+Qxe7 37. Qxb6 Kh7 38. Qxb8 d3 39. Qb7 1-0

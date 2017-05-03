@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Angus Dunnington"]
+[Black "Richard J Palliser"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. d3 Nc6 5. c3 g6 6. Bb3 Bg7
+7. O-O O-O 8. Re1 e5 9. Nbd2 Kh8 10. Nf1 d5 11. Bg5 d4 12. Qd2
+Qd6 13. cxd4 cxd4 14. Bh6 Nd7 15. Ng3 Nc5 16. Bc4 Be6 17. Nh5
+gxh5 1/2-1/2

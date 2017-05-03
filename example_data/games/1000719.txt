@@ -1,0 +1,21 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.01"]
+[EventDate "1911.08.21"]
+[Round "9"]
+[Result "1-0"]
+[White "Julius Perlis"]
+[Black "Charles Jaffe"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 d5 7.e5
+Ne4 8.Bxe4 dxe4 9.O-O Bxc3 10.bxc3 Qd5 11.Qh5 Nd7 12.f4 Qc5
+13.Qh3 Nb6 14.Be3 Nd5 15.Nf5 Nxe3 16.Qxe3 Qxe3+ 17.Nxe3 b5
+18.a4 Bd7 19.axb5 Bxb5 20.Rfb1 Bc6 21.Ra6 Kd7 22.Rba1 Bb7
+23.Rxa7 Kc6 24.Nc4 Rxa7 25.Rxa7 Ra8 26.Rxa8 Bxa8 27.Nd6 f6
+28.exf6 gxf6 29.Nxe4 f5 30.Ng5 Kd5 31.Nxh7 e5 32.fxe5 Kxe5
+33.Ng5 Kf4 34.Nf3 Ke3 35.h4 Be4 36.h5 Bxc2 37.h6 f4 38.c4 Bf5
+39.c5 Ke4 40.c6 1-0

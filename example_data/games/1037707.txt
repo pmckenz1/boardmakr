@@ -1,0 +1,21 @@
+[Event "10, Oakham House"]
+[Site "10, Oakham House"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Sam Haziprodromu"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nc3 g6 3.d3 Bg7 4.h4 h5 5.Be3 d6 6.d4 cxd4 7.Bxd4
+Nf6 8.Nd5 Nbd7 9.Nxf6+ Nxf6 10.f3 a6 11.a4 b6 12.Bc4 Qc7
+13.Qd3 O-O 14.Ra3 e6 15.Rc3 Qd8 16.Rb3 Qe8 17.Rxb6 d5 18.Bb3
+dxe4 19.fxe4 Bd7 20.e5 Ng4 21.Nf3 Bxa4 22.O-O Bb5 23.c4 Bc6
+24.Qc3 Qc8 25.c5 Rd8 26.Ng5 Nh6 27.Rxf7 Rd5 28.Bxd5 Bxd5
+29.Rf6 Bxf6 30.exf6 e5 31.f7 Kf8 32.Bxe5 Nxf7 33.Bg7+ Kg8
+34.Rxg6 Qf5 35.Rf6 Qg4 36.Qd2 Qc4 37.Nxf7 Bxf7 38.Rf4 Qxc5+
+39.Bd4 Rd8 40.Qf2 Qf8 1-0

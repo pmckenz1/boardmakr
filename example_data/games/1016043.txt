@@ -1,0 +1,22 @@
+[Event "It (cat.10)"]
+[Site "Riga (Latvia)"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Oleg Romanishin"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 Nf6 6.b4 O-O 7.d3
+Re8 8.e4 a6 9.Nge2 b5 10.O-O d6 11.Nd5 Ne7 12.Bg5 Nfxd5
+13.cxd5 Bg4 14.h3 Bd7 15.Qd2 Qc8 16.Kh2 c6 17.dxc6 Nxc6 18.Nc3
+Be6 19.Rbc1 Qd7 20.Nd5 Bxd5 21.exd5 Nd4 22.Be3 Nf5 23.Rc2 Nxe3
+24.Qxe3 a5 25.bxa5 Rxa5 26.Rfc1 Qa7 27.Qxa7 Rxa7 28.Rb1 Rb8
+29.g4 Bf6 30.Kg1 Rba8 31.Rxb5 Rxa2 32.Rxa2 Rxa2 33.Rb6 Be7
+34.Be4 Kf8 35.g5 Kg7 36.h4 Ra7 37.Kg2 h6 38.Kh3 hxg5 39.hxg5
+Ra2 40.Kg3 Ra1 41.Kg2 Ra2 42.Kg3 Bxg5 43.Rxd6 f5 44.Bg2 Bf4+
+45.Kf3 g5 0-1

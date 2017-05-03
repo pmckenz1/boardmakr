@@ -1,0 +1,24 @@
+[Event "Mar del Plata (Argentina)"]
+[Site "Mar del Plata (Argentina)"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Julio Bolbochan"]
+[Black "Carlos Hugo Maderna"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 c5 5.cxd5 cxd4 6.Qxd4 exd5
+7.e4 dxe4 8.Qxd8+ Kxd8 9.Ng5 Be6 10.Nxe6+ fxe6 11.Bc4 Nbd7
+12.Bxe6 Bb4 13.Ke2 Re8 14.Bxd7 Kxd7 15.Rd1+ Ke6 16.Nb5 Rac8
+17.Be3 a6 18.Nd4+ Kf7 19.Rac1 g6 20.Nb3 Rxc1 21.Rxc1 Bd6 22.h3
+Be5 23.Nc5 Re7 24.b3 Bd6 25.Na4 Nd5 26.Nb6 Nxb6 27.Bxb6 Bf4
+28.Rc4 h5 29.Be3 Bb8 30.Bc5 Re5 31.b4 Ke6 32.Ke3 Kf5 33.Rd4
+Re8 34.Rd5+ Kf6 35.Bd4+ Kf7 36.Rd7+ Re7 37.Rxe7+ Kxe7 38.Kxe4
+Ke6 39.g4 hxg4 40.hxg4 Bd6 41.Bc5 Be5 42.Bd4 Bd6 43.Bc3 Be7
+44.f4 Bf8 45.f5+ gxf5 46.gxf5+ Kd6 47.b5 Kc5 48.bxa6 bxa6
+49.f6 Kc6 50.Kf5 Kd7 51.Kg6 Be7 52.f7 Ke6 53.Kg7 Bd6 54.a4 Ba3
+55.Kg8 Bd6 56.Bg7 Bc5 57.Bf8 Be3 58.Bb4 Bh6 59.Bc3 1-0

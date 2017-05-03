@@ -1,0 +1,24 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Ticia Gara"]
+[Black "Adrienn Csoke"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7
+7. O-O O-O 8. Re1 Nc6 9. Nb3 a6 10. Bf1 Nd7 11. Nd5 b5 12. c3
+Nb6 13. Bg5 f6 14. Be3 Na4 15. Qd2 Ne5 16. Nd4 e6 17. Nb4 Bd7
+18. Rad1 a5 19. Nd3 Nc4 20. Qc2 Rc8 21. Bc1 Qb6 22. b3 Na3
+23. Bxa3 Nxc3 24. Nf3 Nxe4 25. Qe2 f5 26. Bb2 Bc3 27. Bxc3
+Rxc3 28. Qe3 Qb7 29. Rc1 Rfc8 30. Rxc3 Rxc3 31. Rc1 b4 32. Nd4
+e5 33. Ne2 f4 34. Qf3 Rxc1 35. Nexc1 Bc6 36. Qg4 Bd5 37. h3
+Kg7 38. Qe2 Nc3 39. Qb2 g5 40. Ne2 Nb5 41. Qc2 h5 42. Nb2 Kf6
+43. Nc4 g4 44. Nxa5 Qa7 45. Nc6 Qc5 46. Qxc5 dxc5 47. Na5 Nd6
+48. Nc1 e4 49. Nc4 Nf7 50. Nb6 Bc6 51. Na4 Bxa4 52. bxa4 Nd6
+53. a5 c4 54. a6 c3 55. a7 1-0

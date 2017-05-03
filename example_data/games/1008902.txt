@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Odion Aikhoje"]
+[Black "Charles H Storey"]
+[ECO "A37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. Nf3 c5 2. c4 g6 3. g3 Bg7 4. Nc3 Nc6 5. Bg2 d6 6. d3 e5
+7. Rb1 f5 8. a3 h6 9. Nd5 Nge7 10. Nd2 O-O 11. b4 cxb4
+12. axb4 g5 13. b5 Nd4 14. Nb3 Nxd5 15. Bxd5+ Kh8 16. h4 Nxb3
+17. Rxb3 g4 18. Bg5 Qc7 19. b6 axb6 20. Be3 Ra6 21. Qb1 f4
+22. Bxb6 Rxb6 23. Rxb6 e4 24. gxf4 Bc3+ 25. Kf1 Bd4 26. Rb2 g3
+27. Bxe4 Qg7 28. Rxb7 Bxb7 29. Qxb7 Qxb7 30. Bxb7 Rxf4 31. f3
+Bf2 32. Kg2 Kg7 33. e3 Rf7 34. Bd5 Ra7 35. f4 Ra2 36. Kf3 Rb2
+37. h5 Kf6 38. Ra1 Kg7 39. Ra7+ Kh8 40. Be4 g2 41. Rh7+ Kg8
+42. Kxg2 Bxe3+ 43. Kf3 Bc5 44. Rxh6 Rf2+ 45. Kg3 Rf1 46. Rg6+
+Kf7 47. Bd5+ Ke7 48. Rg7+ Kf8 49. Rf7+ Ke8 50. h6 Rg1+ 51. Kf3
+Rh1 52. h7 Bd4 53. Ke4 Bc3 54. d4 Ba1 55. Ra7 Re1+ 56. Kd3 1-0

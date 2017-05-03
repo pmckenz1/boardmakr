@@ -1,0 +1,17 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.07.07"]
+[EventDate "1937.06.16"]
+[Round "16"]
+[Result "0-1"]
+[White "Movsa Feigin"]
+[Black "Vladimir Petrov"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Nf3 Bg4
+7. h3 Bh5 8. O-O Nge7 9. Re1 Qd7 10. Be3 O-O-O 11. Nbd2 f6
+12. a4 g5 13. Be2 Nf5 14. b4 Nxe3 15. fxe3 Bg3 16. e4 g4
+17. hxg4 Qxg4 18. exd5 Rhg8 19. Bf1 Bxe1 20. Qxe1 Rxd5 0-1

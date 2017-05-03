@@ -1,0 +1,17 @@
+[Event "Simferopol"]
+[Site "Simferopol"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Andreev"]
+[Black "Vladimir Kozlov"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Qc7 7.O-O
+Nf6 8.Be3 Bb4 9.Qd3 Ne5 10.Qd1 Bxc3 11.bxc3 Nxe4 12.Bd3 Nxc3
+13.Qh5 Nd5 14.Rae1 d6 15.Bc1 Nxd3 16.cxd3 O-O 17.Bb2 e5 18.Nb3
+Nf4 19.Qd1 Bf5 0-1

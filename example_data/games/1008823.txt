@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Charles E Tippleston"]
+[Black "Martin Simons"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Bb5+ Nbd7 5. Be2 Bxe2
+6. Qxe2 Nxd5 7. Nf3 g6 8. O-O Bg7 9. Re1 h6 10. c4 N5f6
+11. Nc3 O-O 12. Qxe7 Qxe7 13. Rxe7 Rfe8 14. Rxe8+ Rxe8 15. Bf4
+c5 16. Rd1 cxd4 17. Nxd4 Ne4 18. Nce2 Nb6 19. f3 Nc5 20. b3
+Nbd7 21. Kf2 Ne5 22. Bxe5 Bxe5 23. Nc3 Kg7 24. Nd5 h5 25. g3
+h4 26. f4 hxg3+ 27. hxg3 Bxd4+ 28. Rxd4 Rh8 29. Kg2 Re8 30. b4
+Na4 31. Rd2 Re4 32. Rc2 Nb6 33. Nxb6 axb6 34. Kf3 f5 35. a3
+Kf6 36. g4 g5 37. fxg5+ Kxg5 38. gxf5 Kxf5 39. c5 Rh4 40. Kg3
+Rd4 41. cxb6 Rd3+ 42. Kf2 Rxa3 43. Ke2 Rb3 44. Rc7 Rxb4
+45. Rxb7 Ke5 46. Kd3 Kd6 47. Kc3 Kc6 1/2-1/2

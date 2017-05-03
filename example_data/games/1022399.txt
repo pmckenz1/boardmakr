@@ -1,0 +1,20 @@
+[Event "M3 Dublin"]
+[Site "M3 Dublin"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Colm Daly"]
+[Black "Alexander Baburin"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bc5 5.Nxe5 Nxe5 6.d4 Bb4
+7.dxe5 Nxe4 8.Qd4 Nxc3 9.bxc3 Be7 10.Qg4 g6 11.Bh6 d6 12.Qf3
+Bf8 13.Bxf8 Kxf8 14.exd6 Qxd6 15.Be2 Kg7 16.O-O Re8 17.Rfd1
+Qf6 18.Rab1 Rb8 19.Rb2 Qxf3 20.Bxf3 b6 21.Bc6 Re5 22.Rb5 Re2
+23.a4 Ba6 24.Rbb1 Bxc4 25.Rd7 Rbe8 26.h3 R8e7 27.Rd8 Re1+
+28.Rxe1 Rxe1+ 29.Kh2 Rc1 30.a5 bxa5 31.Ra8 a6 32.Bb7 a4
+33.Bxa6 Bd5 34.Ra7 a3 35.c4 a2 0-1

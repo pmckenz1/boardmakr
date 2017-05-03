@@ -1,0 +1,21 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.07.07"]
+[EventDate "1905.06.12"]
+[Round "18"]
+[Result "0-1"]
+[White "Heinrich Wolf"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 f5
+7.dxe5 O-O 8.Nbd2 d5 9.c4 a6 10.Ba4 Nc5 11.cxd5 Qxd5 12.Bb3
+Nxb3 13.Nxb3 f4 14.Rd1 Qf7 15.Nfd4 Nxd4 16.Rxd4 g5 17.Bd2 c5
+18.e6 Qg6 19.Re4 b5 20.Na5 Re8 21.Re1 Rb8 22.b3 Rb6 23.h4 h6
+24.h5 Qg7 25.Qd3 Rd6 26.Qe2 Bf6 27.e7 Bf5 28.Nb7 Rd5 29.Re6
+Bxe6 30.Qxe6+ Qf7 31.Nd6 Qxe6 32.Rxe6 Rxe7 33.Rxf6 Rxd2 34.Nf5
+Re1+ 35.Kh2 Rxf2 36.Nxh6+ Kh7 37.Nf5 f3 38.Rf7+ Kg8 39.Nh6+
+Kh8 40.Rxf3 Rxf3 41.gxf3 c4 42.Nf5 c3 43.Nd4 Rd1 0-1

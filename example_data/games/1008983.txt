@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Clive L Waters"]
+[Black "James E Cobb"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. d4 Nf6 2. Nf3 e6 3. c3 c5 4. Bg5 Be7 5. Nbd2 b6 6. e3 Bb7
+7. Bd3 cxd4 8. cxd4 O-O 9. O-O d6 10. Qe2 Nbd7 11. Rfd1 Nd5
+12. Bxe7 Qxe7 13. a3 f5 14. Ba6 Bxa6 15. Qxa6 N7f6 16. Rac1
+Ne4 17. Rc2 Qf7 18. Rdc1 Rae8 19. Qe2 Qh5 20. Qa6 Qf7 21. Qe2
+Nxd2 22. Qxd2 Qd7 23. Qd3 Rc8 24. h3 h6 25. Nd2 Rxc2 26. Qxc2
+Rd8 27. Qc4 Ne7 28. Qc7 Kf7 29. Qxd7 Rxd7 30. Nb1 e5 31. a4
+Ke6 32. Nc3 Rc7 33. Rd1 e4 34. d5+ Ke5 35. f4+ exf3 36. gxf3
+g5 37. f4+ gxf4 38. exf4+ Kxf4 39. Re1 a6 40. Re6 Rd7 41. Rxh6
+Ke5 42. Re6+ Kd4 43. Re1 Kc4 44. Rd1 b5 45. axb5 axb5 46. Ne2
+Nxd5 47. b3+ Kc5 48. Nd4 Ne7 49. Ne6+ Kb4 50. Rd3 Nc6 51. Kf2
+d5 52. Nf4 d4 53. Ne2 Kc5 54. Rf3 d3 55. Rxf5+ Kb4 56. Nf4 d2
+57. Nd5+ Kxb3 58. Ne3 b4 59. Rf4 d1=Q 0-1

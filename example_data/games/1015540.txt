@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial 8th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1970.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Predrag Ostojic"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 a6 7.g5
+Nfd7 8.Be3 b5 9.a3 Bb7 10.Qd2 Nc5 11.f3 Nc6 12.Nxc6 Bxc6
+13.O-O-O Qc7 14.Bf4 Rd8 15.b4 Nb7 16.h4 Rc8 17.Be3 Be7 18.h5
+O-O 19.Bh3 Bd7 20.Bd4 a5 21.g6 h6 22.Rhg1 f6 23.Qd3 axb4
+24.axb4 d5 25.exd5 e5 26.d6 Qxd6 27.Ne4 Qd5 28.Bxd7 Qxd7
+29.Qb3+ Kh8 30.Be3 Qc6 31.Bxh6 Bxb4 32.Bxg7+ Kxg7 33.h6+ Kxh6
+34.g7 Rg8 35.Rg2 1-0

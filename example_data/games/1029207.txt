@@ -1,0 +1,17 @@
+[Event "Newcastle blind sim"]
+[Site "Newcastle blind sim"]
+[Date "1891.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Bell"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 Be7
+7.d4 O-O 8.Bd3 f5 9.Nh3 c6 10.O-O g5 11.Qh5 Rf7 12.Bxg5 Bxg5
+13.Nxg5 Rg7 14.Bxf5 Bxf5 15.Rxf5 Qe7 16.Raf1 Nd7 17.e6 Nf8
+18.h4 Nxe6 19.Rf7 Rxf7 20.Rxf7 1-0

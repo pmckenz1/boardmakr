@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lajos Dekany"]
+[Black "Michael Johansson"]
+[ECO "A46"]
+[WhiteElo "2185"]
+[BlackElo "2105"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Nbd2 Nbd7 6. Bd3 h6
+7. Bh4 O-O 8. c3 b6 9. h3 Ne8 10. Bg3 Bb7 11. O-O Bd6 12. Ne5
+Nef6 13. f4 g6 14. Bh4 Be7 15. Qc2 Nxe5 16. fxe5 Nh7 17. Bg3
+c5 18. b3 Bg5 19. Rae1 Rc8 20. Qb1 cxd4 21. cxd4 Rc3 22. Nf3
+Be7 23. h4 Qc8 24. Rc1 h5 25. Bf4 Kg7 26. Rxc3 Qxc3 27. Rc1
+Qb4 28. Rc7 Ba8 29. Qc2 Bd8 30. Rxa7 Bxh4 31. a3 1-0

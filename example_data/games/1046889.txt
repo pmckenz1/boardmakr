@@ -1,0 +1,22 @@
+[Event "x ,IV"]
+[Site "05"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Christopher Lutz"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 d5 5.Bg2 O-O 6.cxd5 exd5 7.Nf3
+c6 8.O-O Re8 9.Ne5 Nbd7 10.Nd3 Bxc3 11.bxc3 Ne4 12.Qc2 Qa5
+13.Nb4 Ndf6 14.f3 Nd6 15.Bg5 Bf5 16.Nd3 Nd7 17.Bf4 Nb5 18.Rfc1
+Qa3 19.e4 dxe4 20.fxe4 Bxe4 21.Bxe4 Rxe4 22.Ne5 Nf6 23.Bg5
+Rxe5 24.dxe5 Qc5+ 25.Kh1 Qxe5 26.Bxf6 Qxf6 27.c4 Nd4 28.Qe4
+Rd8 29.Rf1 Qd6 30.Rae1 Ne6 31.Qf5 Qc7 32.Rf2 c5 33.Ref1 Rd7
+34.Qe4 h6 35.Kg2 Rd4 36.Qf5 Qc6+ 37.Kg1 Ng5 38.h4 g6 39.Qe5
+Nh3+ 40.Kh2 Nxf2 41.Rxf2 Re4 42.Qc3 h5 43.Qd3 Qe6 44.Qd8+ Kg7
+45.Qc7 Qe7 0-1

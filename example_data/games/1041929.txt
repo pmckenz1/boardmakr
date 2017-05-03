@@ -1,0 +1,17 @@
+[Event "Broadstairs"]
+[Site "Broadstairs ENG"]
+[Date "1921.03.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "John O'Hanlon"]
+[Black "Max Euwe"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 f6 6. exf6
+Qxf6 7. g3 Bf5 8. Bg2 O-O-O 9. O-O g5 10. Qa4 Kb8 11. Nb3 h6
+12. Bd2 Nge7 13. e3 Bd3 14. Rfe1 Nc8 15. Nbxd4 Nxd4 16. Nxd4
+Nb6 17. Qd1 Bc5 18. Bc3 Bxc4 19. Nc6+ 1-0

@@ -1,0 +1,23 @@
+[Event "USA-op Los Angeles"]
+[Site "Los Angeles, CA USA"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "James Maki"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Nf3 c5 8. Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5
+12. Bd2 Qd6 13. Qb3 f5 14. Bh6 Rf7 15. exf5 Bxf5 16. Rd1 Qf6
+17. Be3 Bxc3+ 18. Kf1 Bd4 19. Bxd4 cxd4 20. f3 Rc8 21. Bc4 Bc2
+22. Qxc2 b5 23. Qe4 Rxc4 24. Kf2 Qb6 25. Rd2 Qd6 26. Rhd1 Rf4
+27. Qe2 Qxd5 28. Qxe7 Rf7 29. Qe2 Qc5 30. Re1 d3+ 31. Qe3 Rd7
+32. Red1 b4 33. Qxc5 Rxc5 34. Ke3 Re5+ 35. Kf4 Re2 36. g4 Rf7+
+37. Kg3 Re3 38. Rf1 a5 39. Kg2 Rc7 40. Rff2 Rc3 41. Kg3 Kf7
+42. Kf4 Re1 43. h4 Kf6 44. Rb2 h6 45. Rfd2 g5+ 46. Kg3 Ke5
+47. Rf2 Kd4 48. hxg5 hxg5 49. Kg2 Ke3 50. f4 0-1

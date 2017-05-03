@@ -1,0 +1,20 @@
+[Event "11, Tallinn"]
+[Site "11, Tallinn"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Adrian Mikhalchishin"]
+[Black "Vladimir Bagirov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.f4 Nf6 6.Nf3 Be7 7.Be2 O-O
+8.O-O Bd7 9.Bd2 Be8 10.Ne5 Nbd7 11.Be1 Nxe5 12.fxe5 Nd7 13.g4
+Bg6 14.Bg3 Bg5 15.Qd2 Qe7 16.cxd5 cxd5 17.Nb5 Nb6 18.b3 fxg4
+19.Bxg4 h5 20.Bh3 h4 21.Bf4 Bf5 22.Bxf5 Rxf5 23.Nd6 Rff8
+24.Bxg5 Qxg5+ 25.Kh1 h3 26.Nxb7 Qg4 27.Nc5 Rf3 28.Rg1 Qf5
+29.e4 dxe4 30.Qh6 Qh7 31.Qxh7+ Kxh7 32.Nxe6 Kh6 33.Ng5 Rf5
+34.Nxe4 Raf8 35.e6 Nd5 36.Nd6 R5f6 37.Nf7+ 1-0

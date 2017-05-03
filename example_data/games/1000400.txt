@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Gary C De Fotis"]
+[Black "Enkhbat Tegshsuren"]
+[ECO "E44"]
+[WhiteElo "2210"]
+[BlackElo "2461"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 c5 6. a3 Ba5
+7. Rb1 Na6 8. Bd2 O-O 9. Ng3 Bb7 10. f3 h5 11. h4 d5 12. cxd5
+cxd4 13. exd4 b5 14. Bxb5 Nc7 15. dxe6 Nxe6 16. Nce2 Bc7
+17. Be3 Bxg3+ 18. Nxg3 Qa5+ 19. Qd2 Qxb5 20. Kf2 Qd5 21. Rbc1
+Ng4+ 22. fxg4 Qxg2+ 23. Ke1 Qxg3+ 24. Bf2 Qxg4 25. Rg1 Qe4+
+0-1

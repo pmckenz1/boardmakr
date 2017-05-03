@@ -1,0 +1,21 @@
+[Event "USSR Championship"]
+[Site "Kharkov URS"]
+[Date "1967.??.??"]
+[EventDate "1967.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Georgy Konstantinovich Borisenko"]
+[Black "Vladimir Bagirov"]
+[ECO "E55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.e3 O-O 6.Bd3 d5 7.O-O
+dxc4 8.Bxc4 Nbd7 9.a3 cxd4 10.Nb5 Be7 11.Nbxd4 e5 12.Nb5 e4
+13.Nfd4 Ne5 14.Be2 a6 15.Nc3 Bc5 16.b4 Ba7 17.Bb2 Qe7 18.Qc2
+Ng6 19.Rae1 Nh4 20.Kh1 Re8 21.Qd1 Qc7 22.f3 exf3 23.Bxf3 Bb8
+24.g3 Nxf3 25.Qxf3 Bh3 26.Rf2 Qd7 27.Rd2 Ba7 28.Nb3 Qe7 29.Nd5
+Nxd5 30.Rxd5 Be6 31.Rd3 Rad8 32.Rxd8 Rxd8 33.e4 Re8 34.Nd2 Qg5
+35.Bc3 Bg4 36.Qf4 Qxf4 37.gxf4 Rc8 38.Rc1 Bd4 39.Bxd4 Rxc1+
+40.Kg2 Rc2 41.Be3 Ra2 42.h3 Rxa3 0-1

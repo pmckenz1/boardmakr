@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Oleg Romanishin"]
+[Black "Yuri Balashov"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nh3 e6 7.O-O
+Nge7 8.Be3 O-O 9.Qd2 Nd4 10.Bh6 Bxh6 11.Qxh6 f6 12.Qd2 e5
+13.Kh1 Be6 14.f4 Qd7 15.Ng1 Rae8 16.Rf2 Kg7 17.Raf1 b6 18.Nd1
+exf4 19.Rxf4 d5 20.Nc3 dxe4 21.Nxe4 Nd5 22.R4f2 f5 23.Ng5 Bg8
+24.c3 Nc6 25.Re1 Rxe1 26.Qxe1 Re8 27.Re2 Rxe2 28.Qxe2 Qe7
+29.N5h3 Qxe2 30.Nxe2 Ne5 31.Nf2 Ne3 32.b3 Nxg2 33.Kxg2 Bd5+
+34.Kf1 g5 35.h3 Nf3 36.Nd1 Kf6 37.Kf2 Bb7 38.Ke3 h5 39.d4 h4
+40.gxh4 cxd4 41.Nxd4 Nxh4 42.Nf2 Ng2+ 43.Kd2 Nf4 44.c4 Bg2
+45.Nb5 Nxh3 46.Nd3 Be4 47.Nxa7 g4 48.Nb5 g3 49.Ne1 g2 0-1

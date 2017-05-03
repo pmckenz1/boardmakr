@@ -1,0 +1,16 @@
+[Event "Netherlands - Rhineland-Westphalia"]
+[Site "Amsterdam NED"]
+[Date "1927.09.03"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Ripke"]
+[Black "Max Euwe"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. Nf3 c5 2. b3 d5 3. Bb2 Nf6 4. e3 g6 5. Bb5+ Nc6 6. Ne5 Qc7
+7. O-O Bg7 8. d4 O-O 9. Bxc6 bxc6 10. dxc5 Ng4 11. f4 Nxe3
+12. Qe2 Nxf1 13.Qxf1 0-1

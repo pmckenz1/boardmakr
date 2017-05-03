@@ -1,0 +1,21 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Luis Chiong Zacarias Romero"]
+[Black "Buenaventura Bong Villamayor"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6
+7. e3 Nd7 8. Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. e4 e5
+12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Kh1 g5 15. Qd2 O-O 16. f4 gxf4
+17. Rxf4 Be6 18. Bxe6 fxe6 19. Rf3 Rad8 20. Qf2 b5 21. Rf1 b4
+22. Na4 Qxe4 23. Nc5 Rxf3 24. gxf3 Qf5 25. Ne4 a5 26. Qb6 Rd1
+27. Qg1 Rxf1 28. Qxf1 Bxb2 29. Kg2 Bg7 30. Qa6 Qd5 31. Kh3
+Qxa2 32. Qxc6 Qd5 33. Qe8+ Kh7 34. Qe7 Qf5+ 35. Kg2 b3 36. Ng3
+Qg6 0-1

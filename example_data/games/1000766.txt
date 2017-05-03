@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.07"]
+[EventDate "1911.08.21"]
+[Round "13"]
+[Result "0-1"]
+[White "Hans Fahrni"]
+[Black "Charles Jaffe"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 e5 7.Nf5
+O-O 8.Bg5 d5 9.exd5 Bxc3+ 10.bxc3 e4 11.Bxe4 Re8 12.Ng3 Nxe4
+13.Bxd8 Nxc3 14.Kd2 Nxd1 15.Ba5 Nb2 16.Rhe1 Rxe1 17.Rxe1 Bd7
+18.Bc3 Nc4+ 19.Kd3 Nb6 20.Nh5 Nxd5 21.Bxg7 Nc6 22.Bh6 Bg4
+23.Ng3 Rd8 24.Kc4 Be6 25.Kb3 Nd4+ 26.Kb2 Rc8 27.Rc1 Nc3 28.Be3
+Ndb5 29.f4 Na4+ 30.Ka1 Rc3 31.Bd2 Ra3 32.c4 Nd4 33.Kb1 Nb6
+34.Bc3 Nc6 35.f5 Bxc4 36.Nh5 Bxa2+ 37.Kc2 Bb3+ 38.Kd2 Ra2+
+39.Ke3 Nd5+ 40.Ke4 Re2+ 41.Kd3 Re3+ 42.Kd2 Rxc3 43.Rxc3 Nxc3
+44.Kxc3 Bd1 45.g4 Kf8 0-1

@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Tim Redman"]
+[Black "Mikhail Viseyskiy"]
+[ECO "E11"]
+[WhiteElo "2012"]
+[BlackElo "2200"]
+[PlyCount "41"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. g3 d5 6. Bg2 dxc4
+7. Qc2 Nc6 8. Nc3 Bd6 9. Nb5 O-O 10. Nxd6 cxd6 11. Qxc4 Ne4
+12. O-O Nxd2 13. Nxd2 d5 14. Qd3 b6 15. a3 Bb7 16. b4 Rac8
+17. Rfc1 Qd7 18. Nb3 Ne7 19. Qd2 Rxc1+ 20. Rxc1 Rc8 21. Bf3
+1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Ch USA"]
+[Site "Jacksonville (USA)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lev Alburt"]
+[Black "Maxim Dlugy"]
+[ECO "D22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.dxc5 Qxd1+
+7.Kxd1 Bxc5 8.a3 Nf6 9.b4 Bd6 10.Ke2 b5 11.Bd3 Nbd7 12.Nbd2
+1/2-1/2

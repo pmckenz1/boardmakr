@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Kstovo (Russia)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Sergey Ivanov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 Bb4 5.e5 c5 6.a3 Bxc3+ 7.bxc3
+Ne7 8.Nf3 Nbc6 9.Be2 cxd4 10.cxd4 b6 11.O-O Ba6 12.cxd5 Bxe2
+13.Qxe2 Qxd5 14.Rd1 O-O 15.Rb1 Rac8 16.Rb5 Qd7 17.Rb3 Na5
+18.Rbd3 h6 19.Nd2 Rc2 20.Qe3 Nd5 21.Qe1 Nf4 22.Rf3 Qxd4 23.Nb3
+Qc4 24.Bxf4 Nxb3 25.Qe3 Nd2 26.Rg3 Rc1 27.Qxd2 Rxd1+ 28.Qxd1
+Qxf4 29.Re3 Rc8 30.g3 Qc4 31.Re1 Kh7 32.Qf3 Rc7 33.h4 Rd7
+34.Re3 Qd5 35.Qf4 b5 36.Rc3 a5 37.Rc8 0-1

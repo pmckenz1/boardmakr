@@ -1,0 +1,46 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.12"]
+[EventDate "1936.08.10"]
+[Round "3"]
+[Result "0-1"]
+[White "Efim Bogoljubov"]
+[Black "Mikhail Botvinnik"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 {Notes by Alekhine} Nf6 2. Nf3 b6 3. e3 {More usual and
+strategically safer is 3.c4 Bb7 4.g3, etc.} c5 4. c4 Bb7
+5. Nc3 {The complications which could arise after 5.d5 b5,
+etc. would be rather in Black's favor.} cxd4 6. exd4 e6 7. Bd3
+Be7 8. O-O O-O 9. b3 {With this move, which weakens the Q-side
+without any necessity, and the next one, White completely
+spoils his position, which would be promising enough after
+9.Bf4 followed, in case of 9...d5 by 10.Qe2,Rad1, etc.} d5
+10. Be3 {? And now he should prevent ...Ne4 by playing, for
+instance 10.Qe2 as 10...dxc4 would not be dangerous because of
+11.Bxc4 Bxf3 12.Qxf3 Qxd4 13.Rd1. From now on Black has the
+better game.} Ne4 11. Rc1 Nd7 12. Qe2 {? The aim of this move
+is difficult to understand. Because of his already inferior
+position he should try to simplify matters by 12.Ne5 as
+12...Nxc3 13.Rxc3 Nxe5 14.dxe5 d4? would be answered by
+15.Bxd4. After the Queen's move this will, of course, be
+impossible.} Rc8 {Black does not hurry with ...f5 as the
+opponent already has no really useful moves at his disposal.}
+13. Rfd1 f5 14. Bf4 {? Directly provoking the unavoidable
+K-side attack. White plays the whole game with the resignation
+of a lamb under the threat of the butcher's knife.} g5 15. Be5
+g4 16. Ne1 Nxe5 17. Bxe4 {17.dxe5 Qc7 etc, would not alter the
+situation.} dxe4 18. dxe5 Qc7 19. Nb5 {The only way to prevent
+material disadvantage.} Qxe5 20. Rd7 {The last of a series of
+mistakes which loses in a few moves. After 20.Nxa7 Ra8 21.Nb5
+etc. White in spite of the obvious advantage of Black's
+position (the two powerful Bishops) could still put up a
+stubborn resistance.} Bg5 21. Rcd1 {He may at his previous
+move, have overlooked, that 21.Rxb7 Bxc1 22.Nd3 would be fatal
+because of 22...Qa1.} Bc6 22. Rxa7 Rcd8 {The occupation of the
+open file is absolutely decisive.} 23. h4 Rxd1 24. Qxd1 Rd8
+25. Qc2 Bd2 {If now 26.Qb1 e3 27.fxe3 Qxe3+ 28.Kf1 Be4 etc.}
+0-1

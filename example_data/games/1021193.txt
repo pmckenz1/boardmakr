@@ -1,0 +1,15 @@
+[Event "It, New York (USA)"]
+[Site "It, New York (USA)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Eric Moskow"]
+[Black "Maurice Ashley"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7
+7. Bg2 c6 8. Nc3 d5 9. cxd5 cxd5 10. O-O O-O 1/2-1/2

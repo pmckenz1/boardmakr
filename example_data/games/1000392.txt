@@ -1,0 +1,26 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "9"]
+[Result "1-0"]
+[White "Elvin Wilson"]
+[Black "Daniel E Shapiro"]
+[ECO "E15"]
+[WhiteElo "2223"]
+[BlackElo "2330"]
+[PlyCount "131"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 Be7
+7. e4 d6 8. d5 e5 9. O-O O-O 10. Ne1 c6 11. Nc2 Nbd7 12. Ne3
+cxd5 13. exd5 g6 14. f4 exf4 15. gxf4 b5 16. cxb5 Qb6 17. Ndc4
+Qxb5 18. a4 Qb4 19. b3 Qc5 20. Ba3 Qc7 21. Rc1 Rac8 22. Kh1
+Qb8 23. Na5 Rxc1 24. Bxc1 Re8 25. Nc6 Qc8 26. Nxa7 Qc5 27. Nc6
+Bf8 28. b4 Qc3 29. Qd4 Qxd4 30. Nxd4 Nb6 31. a5 Nbxd5 32. Nxd5
+Bxd5 33. Nc6 Bxg2+ 34. Kxg2 Nd5 35. Kf3 Nc7 36. Be3 d5 37. Rb1
+Nb5 38. Nd4 Na3 39. Rb3 Nc4 40. Nc6 Ra8 41. Rd3 Bxb4 42. Nxb4
+Nxe3 43. Kxe3 Rxa5 44. Nxd5 Ra2 45. Rd2 Ra4 46. Nc3 Rb4
+47. Ne2 Ra4 48. Nd4 Kg7 49. Ke4 Kh6 50. Rb2 Ra1 51. Rb6 Kg7
+52. Rb7 Ra6 53. Nf3 Ra4+ 54. Ke3 Ra3+ 55. Ke2 Ra4 56. Ng5 Ra2+
+57. Ke3 Rxh2 58. Rxf7+ Kg8 59. Ra7 Rh1 60. Ne4 h6 61. Nf6+ Kf8
+62. Ng4 g5 63. f5 h5 64. Ne5 Re1+ 65. Kd4 Rf1 66. f6 1-0

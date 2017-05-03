@@ -1,0 +1,16 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Brian McCarthy"]
+[Black "Ronald L Dennis"]
+[ECO "B06"]
+[WhiteElo "2288"]
+[BlackElo "1936"]
+[PlyCount "29"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d6 4. f4 Nf6 5. Nf3 c6 6. Be2 Qc7
+7. O-O O-O 8. Kh1 Bg4 9. e5 Nfd7 10. Ng5 Bxe2 11. Qxe2 h6
+12. Nxf7 Rxf7 13. e6 Rf8 14. exd7 Bxd4 15. Qe6+ 1-0

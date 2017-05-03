@@ -1,0 +1,15 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Michael Feinstein"]
+[Black "Jayson Gonzales"]
+[ECO "D02"]
+[WhiteElo "2291"]
+[BlackElo "2366"]
+[PlyCount "14"]
+
+1. d4 Nc6 2. Nf3 d5 3. Bf4 Bf5 4. c3 f6 5. Qb3 Rb8 6. Nbd2 e6
+7. e3 a6 1/2-1/2

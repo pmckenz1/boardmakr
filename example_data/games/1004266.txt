@@ -1,0 +1,21 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.06.28"]
+[EventDate "1930.??.??"]
+[Round "6"]
+[Result "1-0"]
+[White "Reginald Pryce Michell"]
+[Black "William Winter"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4
+7. Bd2 a5 8. Ne5 Nf6 9. Be2 Bb7 10. Bf3 Bxc3 11. bxc3 Nd5
+12. Qb1 Ba6 13. e4 Ne7 14. Qa2 Nd7 15. axb5 cxb5 16. Ng4 a4
+17. O-O O-O 18. Rfe1 Nb6 19. Bc1 Nc6 20. e5 Nd5 21. Bxd5 Qxd5
+22. Bh6 Ne7 23. Bxg7 Kxg7 24. Qd2 f5 25. Qh6+ Kh8 26. Nf6 Rxf6
+27. Qxf6+ Kg8 28. Qxe7 Bb7 29. f3 Rd8 30. Red1 Rd7 31. Qc5
+Qxc5 32. dxc5 Rd5 33. Rxd5 exd5 34. Kf2 d4 35. cxd4 Kf7
+36. Ke3 Ke6 37. Kd2 f4 38. Kc3 h5 39. Kb4 Bc6 40. g3 1-0

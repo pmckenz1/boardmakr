@@ -1,0 +1,21 @@
+[Event "Vinkovci"]
+[Site "Vinkovci CRO"]
+[Date "1995.04.13"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Hrvoje Stevic"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. b4
+Kh8 13. Qc2 Ng8 14. exf5 gxf5 15. f4 exf4 16. Nf3 Ne5 17. Bxf4
+axb4 18. axb4 Nh6 19. Rbd1 Nxf3+ 20. Bxf3 Ng4 21. Ne2 Bd7
+22. b5 Qb8 23. Bxg4 fxg4 24. Be3 Rxf1+ 25. Rxf1 Qe8 26. Qd3
+Ra2 27. Nc3 Ra3 28. Bd4 Be5 29. Qd2 Qh5 30. Bxe5+ Qxe5 31. Qh6
+Qd4+ 32. Kh1 Qf2 33. Qc1 Qa7 34. Qb2 Kg8 35. Ne4 Ra2 36. Nf6+
+Kh8 37. Ne8+ 1-0

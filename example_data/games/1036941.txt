@@ -1,0 +1,22 @@
+[Event "Bundesliga /88"]
+[Site "Germany"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Thomas Raupp"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 c5 2.d3 Nc6 3.g3 e6 4.Bg2 d5 5.Nd2 Nge7 6.Ngf3 g6 7.O-O
+Bg7 8.Re1 b6 9.c3 Bb7 10.Qe2 Qc7 11.h4 h6 12.Nf1 d4 13.c4 e5
+14.h5 Bc8 15.N1h2 O-O 16.Nh4 Bd7 17.f4 Rae8 18.Rf1 exf4
+19.gxf4 Nf5 20.Qf2 Ne3 21.hxg6 Nxf1 22.Nxf1 Ne7 23.gxf7 Rxf7
+24.Ng3 Bg4 25.Bd2 Bf6 26.Nf3 Kh8 27.e5 Bg7 28.Ne4 Rg8 29.Kh1
+Ng6 30.Qg3 Bxf3 31.Bxf3 Nxe5 32.fxe5 Bxe5 33.Qh3 Bf4 34.Be1
+Be3 35.Bh4 Qe5 36.Rf1 Rgf8 37.Bg3 Bf4 38.Bh5 Rg7 39.Qh4 Rf5
+40.Rxf4 Rxh5 41.Rf8+ Kh7 42.Nf6+ Kg6 43.Qxh5+ Qxh5+ 44.Nxh5
+0-1

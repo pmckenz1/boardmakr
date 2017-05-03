@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Cappelle la Grande (France)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Francis Rayner"]
+[Black "Alexander Baburin"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 c6 6.h3 Bg7 7.O-O O-O
+8.Qe2 Bf5 9.c3 dxe5 10.dxe5 Nd7 11.Re1 Qc7 12.Bg5 e6 13.g4
+Bxb1 14.Raxb1 h6 15.Bd2 Nc5 16.b4 Na4 17.Rbc1 a5 18.Bd3 Rfd8
+19.Qe4 Rd7 20.Nd4 Ne7 21.Bb1 Rad8 22.a3 axb4 23.axb4 Nb6
+24.Ba2 Nbd5 25.Nf3 b5 26.Re2 Ra8 27.Bb1 Nb6 28.Bf4 Ned5 29.Bg3
+Ra3 30.Rec2 Na4 31.c4 Nxb4 32.cxb5 Nxc2 33.bxc6 Nc3 34.Qxc2
+Qxc6 35.Kg2 Qd5 36.Qb2 Nxb1 0-1

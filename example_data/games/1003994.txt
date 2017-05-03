@@ -1,0 +1,25 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Hermanis Karlovich Mattison"]
+[Black "Jakob Adolf Seitz"]
+[ECO "B41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 Nf6 6. Bg2 Be7
+7. O-O d6 8. c4 Nbd7 9. Nc3 O-O 10. b3 Ne5 11. Bb2 Bd7 12. Qe2
+Rc8 13. Rad1 Qa5 14. Qd2 Rfd8 15. Nd5 Qxd2 16. Nxe7+ Kf8
+17. Rxd2 Kxe7 18. Ba3 Ne8 19. f4 Ng4 20. Bf3 Nh6 21. e5 Bc6
+22. Rfd1 Bxf3 23. Nxf3 f6 24. exd6+ Kd7 25. c5 g6 26. Re2 Ng7
+27. Nd2 b5 28. Nf3 Ngf5 29. Rde1 Re8 30. Kg2 Nf7 31. g4 Ng7
+32. b4 Nd8 33. Bb2 e5 34. fxe5 Nge6 35. Bc1 f5 36. gxf5 gxf5
+37. Kh1 Nc6 38. a3 a5 39. Bd2 axb4 40. axb4 Ra8 41. Rg2 Ra2
+42. Rb1 Rea8 43. Rg3 R8a3 44. Be1 Re2 45. Ng1 Rxg3 46. Nxe2
+Re3 47. Nc3 Nxb4 48. Bd2 Rd3 49. Rxb4 Rxd2 50. Rxb5 Kc6
+51. Rb8 Nxc5 52. Rc8+ Kb6 53. Rf8 Rd3 54. Na4+ Kb5 55. Nxc5
+Kxc5 56. e6 1-0

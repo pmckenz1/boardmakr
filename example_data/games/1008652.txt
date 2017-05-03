@@ -1,0 +1,27 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Bogdan Lalic"]
+[Black "Odion Aikhoje"]
+[ECO "A59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6
+7. e4 Bxf1 8. Kxf1 g6 9. Nf3 Nbd7 10. g3 Bg7 11. Kg2 O-O
+12. Re1 Ng4 13. Qe2 Qa5 14. Bg5 Rfe8 15. Nd2 Ngf6 16. Nc4 Qb4
+17. Rac1 h6 18. Bd2 Qb7 19. b3 Ra6 20. Qf3 Nh7 21. Na4 Qa8
+22. Bf4 g5 23. Bd2 Nhf6 24. Bc3 g4 25. Qd3 e6 26. Ne3 h5
+27. h3 Bh6 28. Rcd1 Kf8 29. Kh2 Bxe3 30. Qxe3 e5 31. h4 c4
+32. Bb4 Rb8 33. a3 cxb3 34. Nb2 Ke7 35. Nc4 Rxb4 36. axb4 Ra2
+37. Rd2 Qa4 38. Qc3 Nb8 39. Nb6 Qa6 40. Nc4 Qa4 41. Rxa2 Qxa2
+42. Kg2 Nbd7 43. Qd2 b2 44. Nxb2 Qb3 45. Kg1 Nb6 46. Re3 Qa2
+47. Qc1 Nfd7 48. Re1 Qb3 49. Qd2 Nf6 50. Nd1 Nc4 51. Qc3 Qa2
+52. Kg2 Nd7 53. Ne3 Nxe3+ 54. Rxe3 f5 55. Qb3 Qxb3 56. Rxb3
+fxe4 57. b5 Nb6 58. Re3 Nxd5 59. Rxe4 Kd7 60. Ra4 Kc7 61. Ra7+
+Kb6 62. Rh7 Kxb5 63. Rxh5 Nf6 64. Rh6 Ne4 65. h5 Kc4 66. Rg6
+1-0

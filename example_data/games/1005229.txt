@@ -1,0 +1,24 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Yelena Dembo"]
+[Black "Robert Csolig"]
+[ECO "B45"]
+[WhiteElo "2180"]
+[BlackElo "2165"]
+[PlyCount "107"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6
+bxc6 7. e5 Nd5 8. Ne4 Qc7 9. f4 Qb6 10. Bd3 Be7 11. Qe2 Nb4
+12. Bc4 Ba6 13. Bxa6 Qxa6 14. Qxa6 Nxa6 15. c3 f5 16. Nf2
+O-O-O 17. Be3 Bc5 18. Bxc5 Nxc5 19. O-O-O Kc7 20. b4 Na4
+21. Kc2 Nb6 22. Rhe1 Rhe8 23. g3 Nd5 24. Nd3 Ra8 25. c4 Nb6
+26. Kb3 a5 27. a3 axb4 28. axb4 Ra7 29. Ra1 Rea8 30. Rxa7+
+Rxa7 31. Nc5 Ra8 32. Rd1 Ra7 33. h3 Ra8 34. Rg1 g6 35. Rh1 Rf8
+36. Na6+ Kb7 37. Nc5+ Kc7 38. Ra1 Ra8 39. Rc1 Ra7 40. Rh1 Ra8
+41. g4 Rf8 42. g5 Ra8 43. h4 Rg8 44. h5 Rg7 45. hxg6 hxg6
+46. Rh8 Nc8 47. b5 cxb5 48. cxb5 Nb6 49. Kb4 Re7 50. Ka5 Nc4+
+51. Ka6 d6 52. b6+ Nxb6 53. exd6+ Kxd6 54. Kxb6 1-0

@@ -1,0 +1,22 @@
+[Event "Bundesliga 1997/98, Germany"]
+[Site "Bundesliga 1997/98, Germany"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Igor Stohl"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 c5 6. Bg2 Nc6
+7. dxc5 Bxc5 8. a3 Bb7 9. b4 Be7 10. Bb2 O-O 11. O-O Rc8
+12. Qb1 d5 13. Rd1 Qc7 14. cxd5 Nxd5 15. e4 Nf6 16. e5 Nd5
+17. Qe4 Ncxb4 18. axb4 Nc3 19. Bxc3 Bxe4 20. Nxe4 Rfd8 21. Nd4
+a6 22. Rd2 Rd5 23. Rxa6 Rxe5 24. Nc6 Qxc6 25. Nf6+ Bxf6
+26. Bxc6 Re1+ 27. Kg2 Bxc3 28. Rd3 Bxb4 29. Rxb6 Bc5 30. Rb5
+Rc1 31. Bb7 Rb8 32. Rd2 g6 33. Bc6 Rc8 34. Be4 f5 35. Bb1 Rc7
+36. Ba2 Kf7 37. Re2 Re7 38. Rbb2 Kf6 39. Rbc2 Rxc2 40. Rxc2
+Bd4 41. Rc6 g5 42. f4 g4 43. h3 h5 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Ralf Schoene"]
+[Black "Lothar Vogt"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6
+7. O-O Bf5 8. Nh4 Be6 9. b3 d5 10. Qd3 Na6 11. c5 Ne4 12. Bb2
+Nb4 13. Qd1 b6 14. a3 Na6 15. Qd3 Nxc3 16. Bxc3 Nc7 17. b4 Nb5
+18. e3 bxc5 19. bxc5 Nxc3 20. Qxc3 Rb8 21. Rfb1 Qc7 22. Rb4 a5
+23. Rxb8 Rxb8 24. Bf1 Bf6 25. Nf3 Bg4 26. Ne5 Bxe5 27. dxe5
+Bf5 28. Be2 h5 29. Bd1 Qb7 30. Ba4 Bh3 31. Re1 Qa6 32. Qd4 Qc8
+33. Bc2 Bf5 34. e4 Be6 35. Rb1 Rxb1+ 36. Bxb1 Qb7 37. Bc2 Qa6
+38. Bd3 Qb7 39. Qc3 a4 40. Bc2 Qb5 41. Kg2 g5 42. Bd3 Qb3
+43. Qd2 Kf8 44. h4 Qxa3 45. hxg5 Qxc5 46. g6 fxg6 47. Qh6+ Ke8
+48. Qxg6+ Kd7 49. f4 dxe4 50. Bxe4 a3 51. Bf5 Qd5+ 52. Kh2 a2
+53. Bxe6+ Qxe6 54. Qd3+ Qd5 55. Qa6 Qb3 56. Qa7+ Ke8 57. Qa8+
+Kf7 58. Qh8 Qb2+ 59. Kh3 a1=Q 60. Qxh5+ Ke6 61. Qg4+ Kd5 0-1

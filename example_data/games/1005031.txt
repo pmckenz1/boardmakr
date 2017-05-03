@@ -1,0 +1,15 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Istvan Csom"]
+[Black "Ilija Balinov"]
+[ECO "A36"]
+[WhiteElo "2455"]
+[BlackElo "2430"]
+[PlyCount "21"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. e3 e5 6. Nge2 Nge7
+7. d3 d6 8. a3 O-O 9. O-O a6 10. Rb1 Rb8 11. b4 1/2-1/2

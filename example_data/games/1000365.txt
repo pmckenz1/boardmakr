@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Diego Garces"]
+[Black "Alex Dunne"]
+[ECO "A13"]
+[WhiteElo "2206"]
+[BlackElo "2296"]
+[PlyCount "58"]
+
+1. c4 e6 2. Nc3 d5 3. cxd5 exd5 4. d4 Nf6 5. Nf3 Be7 6. Bf4
+O-O 7. e3 c6 8. Bd3 Nbd7 9. O-O Re8 10. a3 Nf8 11. b4 Ng6
+12. Bg3 Bd6 13. Qb3 Ne4 14. Bxd6 Nxd6 15. b5 Bg4 16. Be2 Ne4
+17. Rfc1 Qe7 18. bxc6 bxc6 19. Qb4 Qf6 20. Nd1 Nh4 21. Nxh4
+Bxe2 22. Nf3 Bxf3 23. gxf3 Qxf3 24. Rxc6 Qh3 25. f4 Qg4+
+26. Kf1 Qf3+ 27. Kg1 Qe2 28. Qb2 Nd2 29. h3 Nf3+ 0-1

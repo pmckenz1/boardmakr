@@ -1,0 +1,26 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Juergen Kleinert"]
+[Black "Dagur Arngrimsson"]
+[ECO "B22"]
+[WhiteElo "2188"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6
+7. c4 Qd7 8. d5 Bxf3 9. Bxf3 Nd4 10. O-O Nxf3+ 11. Qxf3 exd5
+12. Re1+ Be7 13. cxd5 O-O-O 14. Nc3 Nf6 15. Be3 Qg4 16. Bf4
+Qxf3 17. gxf3 Bd6 18. Bxd6 Rxd6 19. Re7 Nxd5 20. Nxd5 Rxd5
+21. Rxf7 Rd7 22. Rf5 b6 23. Re1 Rhd8 24. Re2 Rd2 25. Rfe5 Rxe2
+26. Rxe2 Kc7 27. Kg2 Rd7 28. f4 Kc6 29. Kf3 Rf7 30. h4 Kd5
+31. Re4 b5 32. Ke3 a5 33. Re5+ Kd6 34. Ke4 Rb7 35. f5 a4
+36. Re6+ Kd7 37. Kd5 c4 38. Rd6+ Ke7 39. Re6+ Kf7 40. Kc6 Rb8
+41. Kc5 Kf8 42. Kb4 Rd8 43. Kxb5 Rd2 44. Kxc4 Rxb2 45. a3 Rxf2
+46. Re4 Rxf5 47. Kb4 g5 48. hxg5 Rxg5 49. Kxa4 h5 50. Kb3 Rg3+
+51. Kb2 Rg4 52. Re5 h4 53. Rh5 Kg7 54. Kb3 Rg3+ 55. Kb4 h3
+56. a4 Kf6 57. a5 Rg4+ 58. Kb3 Rg3+ 59. Kb4 Rg4+ 60. Kb3 Rg5
+61. Rh6+ Kg7 62. Rxh3 Rxa5 1/2-1/2

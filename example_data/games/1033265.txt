@@ -1,0 +1,27 @@
+[Event "2, Reggio Emilia /91 C (10s)"]
+[Site "2, Reggio Emilia /91 C Hiarcs 7.32 (10s)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ognjen Cvitan"]
+[Black "Fernando Braga"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Nbd7 5. Bg5 Bb4 6. cxd5
+exd5 7. Rc1 c5 8. dxc5 Nxc5 9. Qd4 Bxc3+ 10. Qxc3 Nce4
+11. Bxf6 Qxf6 12. Qxf6 Nxf6 13. Nd4 Bd7 14. f3 Ke7 15. Kd2
+Rhc8 16. Rxc8 Rxc8 17. e3 Ne8 18. Bd3 Nd6 19. b3 h5 20. h4 Kf6
+21. Rc1 Rxc1 22. Kxc1 Ke5 23. Kd2 Ne8 24. Kc3 Nc7 25. Be2 g6
+26. a3 Kd6 27. Bd1 Ke5 28. Be2 Kd6 29. Bd3 Ke5 30. Bc2 Be8
+31. b4 Bd7 32. Bd3 Kd6 33. Kb3 Ke5 34. Kc3 Kd6 35. Be2 Ke5
+36. Kd2 Kf6 37. Bd3 Ke5 38. f4+ Kd6 39. f5 Be8 40. Ne2 Ke5
+41. Nf4 gxf5 42. Nxh5 Ne6 43. g3 d4 44. Nf4 dxe3+ 45. Kxe3 Kf6
+46. Ne2 Ke5 47. Ng1 Kf6 48. Nf3 Ng7 49. Nd4 Bd7 50. Bb5 Bc8
+51. Be2 a6 52. a4 b6 53. a5 bxa5 54. bxa5 Ne6 55. Nxe6 fxe6
+56. Kd4 e5+ 57. Kc5 f4 58. gxf4 exf4 59. Kb6 Bh3 60. Bf3 Bf1
+61. Kc5 Ke5 62. h5 Kf6 63. Kd4 Kg5 64. Ke5 Bb5 65. h6 Kxh6
+66. Kxf4 1/2-1/2

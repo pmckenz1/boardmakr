@@ -1,0 +1,27 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.06"]
+[EventDate "2000.04.05"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andreas Schmied"]
+[Black "Bragi Halldorsson"]
+[ECO "B13"]
+[WhiteElo "2158"]
+[BlackElo "2243"]
+[PlyCount "137"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nf3 Nf6 6. Nc3 Be7
+7. Bd3 O-O 8. Bg5 dxc4 9. Bxc4 Nc6 10. O-O b6 11. Qd2 Bb7
+12. Rfd1 Rc8 13. Qe2 Nb4 14. Ne5 Nbd5 15. Rac1 h6 16. Bd2 Qd6
+17. Bd3 Rfd8 18. Bb1 a6 19. Kh1 b5 20. a3 Nxc3 21. Bxc3 Nd5
+22. Qf3 f5 23. Qh5 Rf8 24. Ng6 Bg5 25. Bb4 Nxb4 26. Rxc8 Rxc8
+27. axb4 Qxb4 28. Ba2 Qd6 29. h4 Bf6 30. Qxf5 Bd5 31. Bxd5
+Qxd5 32. Qxf6 gxf6 33. Ne7+ Kf7 34. Nxd5 exd5 35. Ra1 Rc4
+36. Rxa6 Rxd4 37. g3 Rd2 38. Kg2 b4 39. Kf3 Ke7 40. Rb6 Rxb2
+41. Ke3 b3 42. Kd4 Rb1 43. Kc3 Rc1+ 44. Kd3 Rd1+ 45. Kc3 Rf1
+46. Rxb3 Rxf2 47. Kd4 Ke6 48. Rb8 Rf3 49. Rh8 Rxg3 50. Rxh6
+Rg4+ 51. Kd3 Ke5 52. Rh8 d4 53. Re8+ Kf5 54. Rh8 Rf4 55. h5
+Rh4 56. Rg8 Rxh5 57. Kxd4 Rh3 58. Rf8 Ra3 59. Rf7 Rb3 60. Rf8
+Kg5 61. Ke4 Rb4+ 62. Kf3 Kf5 63. Ra8 Rb3+ 64. Kf2 Kg5 65. Ra4
+f5 66. Rc4 Rh3 67. Ra4 Rb3 68. Rc4 f4 69. Rc8 1/2-1/2

@@ -1,0 +1,40 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.27"]
+[EventDate "1927.06.26"]
+[Round "2"]
+[Result "0-1"]
+[White "David Przepiorka"]
+[Black "Aron Nimzowitsch"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 {Notes by Nimzowitsch} Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7
+5. Qc2 Bb4 6. a3 {This move looks very much like the loss of a
+tempo. Why not 6 g3.} Bxc3+ 7. Qxc3 d6 {Better than 7...Ne4 at
+once, e.g. : 8 Qc2 d6 9 g3 Nd7 10 Bg2 and in view of the
+threatened Ng5 Black would be forced to play the defensive and
+uninviting 10...Rb8; the transition to the second phase of the
+opening must not be too sudden.} 8. g3 Nbd7 9. Bg2 Qe7 10. O-O
+O-O 11. b4 {Only now ids the proper time!} Ne4 12. Qc2 f5
+13. Ng5 Ndf6 14. Nxe4 {Preferable would be 14 f3 Nxg5 15 Bxg5
+e5 16 e3 with drawing chances.} Bxe4 15. Bxe4 Nxe4 16. f3 Nf6
+17. Bb2 Rf7 {But not 17...a5 18 Bc3 and Black would only have
+committed himself needlessly.} 18. Rac1 {Correct was Rf2.}
+Raf8 19. Qd3 h5 20. e4 {If this were feasible, Black's
+preventive scheme (Rf7 and Raf8 would have been useless. But
+the move is not playable, and the f-file which he opens so
+lightheartedly makes short work of his chances. A little
+better would be 20 e3 though White would still be at a
+disadvantage after 20...h4 21 Kg2 Nh5.} fxe4 21. fxe4 Ng4 {The
+execution so kindly predicted in the preceding note now
+begins.} 22. h3 Nf2 23. Qe2 Nxh3+ 24. Kh1 Qg5 25. Rxf7 Rxf7
+26. Qg2 Nf2+ 27. Kg1 Qe3 {In order to understand this game as
+a whole, it is necessary to grasp the connection between
+Black's waiting moves (7, 17, and 18) were made, so to speak,
+only so that the powerful 19...h4 should gain in
+effect. Viewed in this light, the enormous power of this move
+becomes clear. A victory of alternating strategy applied to
+the opening.} 0-1

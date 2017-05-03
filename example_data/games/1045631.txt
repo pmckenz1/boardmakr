@@ -1,0 +1,25 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Istvan Csom"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. Bg5 Be7 6. e3 O-O
+7. Qc2 h6 8. h4 c5 9. O-O-O cxd4 10. Nxd4 Nb6 11. f3 Bd7
+12. g4 Rc8 13. Bxf6 Bxf6 14. g5 Bxd4 15. Rxd4 h5 16. f4 Qe7
+17. Qd1 Nxc4 18. Bxc4 Rxc4 19. Qxh5 Rfc8 20. Qd1 Rxc3+
+21. bxc3 Qa3+ 22. Kd2 Rxc3 23. Qb1 Rxe3 24. Qb4 Bb5 25. Qxa3
+Rxa3 26. Rb4 Rxa2+ 27. Kc3 Bc6 28. Kd4 a5 29. Rb3 Ra4+ 30. Ke5
+Re4+ 31. Kd6 Rxf4 32. h5 Rg4 33. g6 d4 34. Rd1 fxg6 35. hxg6
+Rxg6 36. Rxd4 Kf7 37. Rf4+ Rf6 38. Rg4 Rf5 39. Rbg3 Rd5+
+40. Kc7 g5 41. Rxg5 Rxg5 42. Rxg5 a4 43. Kd6 Bd5 44. Rg3 b5
+45. Kc5 Bc4 46. Rf3+ Kg6 47. Kd4 Kg5 48. Rh3 Kf4 49. Re3 Bd5
+50. Rh3 b4 51. Kc5 b3 52. Rh4+ Ke3 53. Rxa4 Kd2 54. Rf4 b2
+55. Rf2+ Kc3 56. Rf1 Kc2 57. Rf2+ Kb3 58. Rf1 Ka2 0-1

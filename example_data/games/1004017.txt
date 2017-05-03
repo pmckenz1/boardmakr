@@ -1,0 +1,20 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "David Przepiorka"]
+[Black "Lajos Steiner"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 e5 4. e4 Ne7 5. O-O O-O 6. d4 exd4
+7. Nxd4 Nbc6 8. Nxc6 bxc6 9. Nc3 Rb8 10. Qd3 c5 11. Rb1 Nc6
+12. Nd5 d6 13. Qa3 Be6 14. Qa6 Nd4 15. c3 Nb5 16. Bd2 Bxd5
+17. exd5 Rb6 18. Qa4 a6 19. Rfe1 Na7 20. h4 Qb8 21. Qc2 Re8
+22. Rxe8+ Qxe8 23. Re1 Qd7 24. Bh3 f5 25. Bg5 Qb5 26. Bxf5
+gxf5 27. Qxf5 Rb8 28. Re7 Rf8 29. Rxg7+ Kxg7 30. Bh6+ Kxh6
+31. Qg5# 1-0

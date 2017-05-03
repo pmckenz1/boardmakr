@@ -1,0 +1,20 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.22"]
+[EventDate "2000.01.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Alexander Kalinin"]
+[Black "Hendrik A Happel"]
+[ECO "A17"]
+[WhiteElo "2422"]
+[BlackElo "2215"]
+[PlyCount "69"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. a3 Bxc3 6. Qxc3
+a5 7. b3 Qe7 8. g3 O-O 9. Bg2 d6 10. O-O e5 11. Bb2 Bg4 12. b4
+Ne4 13. Qe3 f5 14. h3 Bxf3 15. exf3 Nf6 16. b5 Nd8 17. f4 e4
+18. f3 Re8 19. fxe4 Nxe4 20. Rae1 Qd7 21. d3 Nf6 22. Qf2 Rf8
+23. Re2 c6 24. Rfe1 Qf7 25. Re7 Qg6 26. Kh2 Rc8 27. Qb6 Nh5
+28. R1e3 cxb5 29. Qxb5 Nc6 30. R7e6 Nf6 31. Bxf6 gxf6 32. Rxd6
+Rce8 33. Rxe8 Rxe8 34. Qxb7 Re3 35. Bd5+ 1-0

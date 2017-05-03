@@ -1,0 +1,22 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Elizbar Ubilava"]
+[Black "Vladimir Bagirov"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bh4
+g5 8.Bg3 Ne4 9.Rc1 h5 10.Qa4+ Nc6 11.Ne5 Bd7 12.Nxd7 Qxd7
+13.f3 Nxg3 14.hxg3 O-O-O 15.Kf2 Qe7 16.e3 Rhe8 17.Re1 Nxd4
+18.Ba6 Qc5 19.a3 Bxc3 20.bxc3 Nf5 21.Bd3 Nxe3 22.Qd4 Qxd4
+23.cxd4 Nc4 24.Rxe8 Rxe8 25.Rxh5 Nxa3 26.Rxg5 c6 27.Rg7 Re7
+28.g4 Nb5 29.g5 Kd7 30.f4 Nxd4 31.f5 Kd6 32.f6 Rd7 33.Rg8 Ne6
+34.g6 fxg6 35.Bxg6 Ke5 36.Be8 Rh7 37.f7 a5 38.g4 a4 39.f8=Q
+Nxf8 40.Rxf8 a3 41.Bh5 b5 42.Ra8 b4 43.Ke3 c5 44.Ra4 Rh8
+45.Kd3 Rf8 46.Bg6 Rf3+ 47.Ke2 Rg3 0-1

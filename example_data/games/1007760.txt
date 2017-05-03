@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.09"]
+[EventDate "1927.06.26"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Karl Gilg"]
+[Black "Lajos Asztalos"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. c3 Nxe4
+7. Re1 Nc5 8. Bxc6 dxc6 9. Nxe5 O-O 10. d4 Ne6 11. Qf3 Qd5
+12. Nd2 f6 13. Nd3 Qxf3 14. Nxf3 Bd6 15. Bd2 Bd7 16. Re2 Rfe8
+17. Rae1 Kf7 18. Bc1 b6 19. Nd2 Nf4 20. Nxf4 Bxf4 21. Rxe8
+Rxe8 22. Rxe8 Bxe8 1/2-1/2

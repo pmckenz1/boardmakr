@@ -1,0 +1,18 @@
+[Event "New York (USA)"]
+[Site "It"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Arthur Bisguier"]
+[Black "Larry Melvyn Evans"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.e4 Nc6 6.Be3 d6 7.Nc3
+Nh6 8.f3 f5 9.Qd2 Nxd4 10.Bxd4 Bxd4 11.Qxd4 O-O 12.Bd3 f4
+13.c5 Be6 14.Bc4 Qc8 15.Bxe6+ Qxe6 16.cxd6 Rfd8 17.Qd5 Rxd6
+18.Qxb7 Rad8 19.O-O Rb6 20.Qxa7 Rxb2 21.Nd5 Nf5 22.Rfd1 Rxd5
+23.Qa8+ Kg7 24.Qxd5 Rxg2+ 25.Kh1 1-0

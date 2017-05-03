@@ -1,0 +1,23 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Andrey Bliznyuk"]
+[Black "David Smerdon"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 e6 2. d3 c5 3. g3 d5 4. Nd2 Nc6 5. Bg2 g6 6. Ngf3 Bg7
+7. O-O Nge7 8. Re1 b6 9. e5 Qc7 10. Qe2 h6 11. Nf1 g5 12. c3
+Ba6 13. Qd1 g4 14. Nh4 Bxe5 15. Qxg4 Bxd3 16. f4 Bf6 17. f5 h5
+18. Qd1 Bxf1 19. Kxf1 Bxh4 20. gxh4 Qxh2 21. f6 Qxh4 22. fxe7
+Nxe7 23. Be3 Qc4+ 24. Kg1 h4 25. Qf3 Kd7 26. Bh3 Rag8+ 27. Kh2
+f5 28. Rg1 Qe4 29. Qxe4 fxe4 30. Raf1 Rxg1 31. Rxg1 Rg8
+32. Rxg8 Nxg8 33. Bg5 Ne7 34. Bxh4 Nc6 35. Bg3 b5 36. Kg2 b4
+37. Kf2 bxc3 38. bxc3 d4 39. cxd4 cxd4 40. Bf1 d3 41. Bg2 Nb4
+42. a3 Nd5 43. Bxe4 d2 44. Bc2 Nc3 45. Be5 d1=Q 46. Bxd1 Nxd1+
+47. Ke2 1/2-1/2

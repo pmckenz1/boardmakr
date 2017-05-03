@@ -1,0 +1,20 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Bela Perenyi"]
+[ECO "A65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Bd3
+Bg7 8.h3 O-O 9.Nf3 Na6 10.O-O Nc7 11.Re1 Rb8 12.Bg5 h6 13.Bf4
+b5 14.Qd2 b4 15.Na4 g5 16.Bh2 Bd7 17.Bc2 Nfe8 18.e5 Bxa4
+19.Bxa4 dxe5 20.Nxe5 Bxe5 21.Bxe5 Nd6 22.Rac1 c4 23.Bc6 a5
+24.a4 Nce8 25.Qd4 f6 26.Bh2 Rc8 27.Re6 Nf5 28.Qxc4 Neg7
+29.Ree1 Kh8 30.Qd3 Qb6 31.Bd7 Rxc1 32.Rxc1 Nh4 33.g3 Qb7
+34.Bc6 Rc8 35.gxh4 1-0

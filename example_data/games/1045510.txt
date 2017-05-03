@@ -1,0 +1,22 @@
+[Event "Frenstat CZE ch"]
+[Site "Frenstat CZE ch"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "0-1"]
+[White "Frantisek Vykydal"]
+[Black "Lubomir Ftacnik"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6
+7. O-O Nge7 8. Be3 Nd4 9. Qd2 O-O 10. Rae1 Rb8 11. Nd1 b5
+12. c3 Nxe2+ 13. Rxe2 b4 14. Bh6 Qa5 15. Bxg7 Kxg7 16. e5 dxe5
+17. Rxe5 f6 18. Qe3 Qb6 19. Rxc5 Nf5 20. Qf4 Qxc5 21. Qxb8
+bxc3 22. Nxc3 Ba6 23. Ne4 Qxf2+ 24. Rxf2 Rxb8 25. Rc2 Rc8
+26. Rxc8 Bxc8 27. Kf2 Nd4 28. Ke3 e5 29. Nc5 f5 30. Bd5 g5
+31. a3 Kf6 32. Nb3 f4+ 33. Kf2 Be6 34. Bxe6 Nxe6 35. Kf3 h5
+36. gxf4 exf4 37. Ke4 g4 38. a4 h4 39. Nd2 g3 40. hxg3 fxg3
+41. Kf3 Ng5+ 42. Kg2 Kf5 43. Nc4 Kf4 0-1

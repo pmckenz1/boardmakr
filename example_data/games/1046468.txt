@@ -1,0 +1,18 @@
+[Event "Pardubice"]
+[Site "Pardubice"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alon Greenfeld"]
+[Black "Lubomir Ftacnik"]
+[ECO "A38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nc6 6. d4 cxd4
+7. Nxd4 O-O 8. O-O Nxd4 9. Qxd4 d6 10. Qd3 a6 11. Be3 Ng4
+12. Bd4 Ne5 13. Qd1 Rb8 14. Rc1 Be6 15. Nd5 Bxd5 16. Bxd5 Qd7
+17. Qd2 Rfc8 18. b3 b5 19. cxb5 axb5 20. Bg2 Rxc1 21. Rxc1 Rc8
+22. Rc3 Bf6 23. h3 Rxc3 24. Qxc3 Qf5 25. Kh2 1/2-1/2

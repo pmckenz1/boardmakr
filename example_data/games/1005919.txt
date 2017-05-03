@@ -1,0 +1,18 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.25"]
+[EventDate "2000.01.21"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexey Yuneev"]
+[Black "Vladimir Georgiev"]
+[ECO "D10"]
+[WhiteElo "2430"]
+[BlackElo "2538"]
+[PlyCount "47"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 a6 5. Bd3 b5 6. b3 Bg4
+7. Nge2 Bh5 8. O-O Nbd7 9. Qc2 Bg6 10. Nf4 Bxd3 11. Nxd3 e6
+12. Ne2 Bd6 13. a4 O-O 14. Ba3 Bxa3 15. Rxa3 bxc4 16. bxc4 Nb6
+17. Ne5 Rc8 18. c5 Nbd7 19. Nxd7 Nxd7 20. Rb3 Rb8 21. Rxb8
+Qxb8 22. Rb1 Qc7 23. Rb4 e5 24. h3 1/2-1/2

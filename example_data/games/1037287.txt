@@ -1,0 +1,29 @@
+[Event "It (open)"]
+[Site "Leeuwarden (Netherlands)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Yge Visser"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "172"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O a6 6.b3 c5 7.Bb2
+Nc6 8.Nc3 e5 9.e3 d6 10.d3 Rb8 11.Qd2 Bd7 12.h3 Qc8 13.Kh2 b5
+14.Ng1 Ne7 15.f4 exf4 16.gxf4 Nf5 17.e4 Nd4 18.Nge2 b4 19.Nd1
+Nh5 20.Ne3 f5 21.Nxd4 cxd4 22.Nd5 Qd8 23.Rae1 fxe4 24.Rxe4 Qh4
+25.Bxd4 Bxd4 26.Rxd4 Qg3+ 27.Kg1 Bxh3 28.Rf3 Qxg2+ 29.Qxg2
+Bxg2 30.Kxg2 Ng7 31.Re4 a5 32.Ne7+ Kh8 33.Rh3 Rf6 34.Nd5 Rf7
+35.Re7 Rxe7 36.Nxe7 Nh5 37.Nd5 Re8 38.Kf2 Kg7 39.Rh1 Rf8
+40.Rh4 Nf6 41.Nc7 Kf7 42.Ke3 Ke7 43.Kd4 Kd7 44.Nd5 Nxd5
+45.Kxd5 h5 46.d4 Rf7 47.Ke4 Ke6 48.Rh2 Rh7 49.Kf3 Kf5 50.Rg2
+h4 51.Rg5+ Kf6 52.Kg2 h3 53.Kh2 Rh4 54.Rxa5 Rxf4 55.Rd5 Rf3
+56.Rxd6+ Kf5 57.c5 g5 58.c6 Kg4 59.Re6 Rf2+ 60.Kg1 Rc2 61.d5
+Kf3 62.d6 g4 63.Re1 h2 64.Kh1 Rxc6 65.Kxh2 g3 66.Kg1 Rxd6
+67.Rf1+ Kg4 68.Rf8 Rd1+ 69.Kg2 Rd2+ 70.Kg1 Rxa2 71.Rg8+ Kf3
+72.Rf8+ Ke3 73.Rg8 g2 74.Kh2 Kd3 75.Rg3+ Kc2 76.Kxg2 Rb2
+77.Kf2 Rxb3 78.Rg4 Rb1 79.Ke2 b3 80.Rc4+ Kb2 81.Kd2 Rh1 82.Ra4
+Rh8 83.Rd4 Rc8 84.Rd7 Kb1 85.Rd6 b2 86.Rd7 Ra8 0-1

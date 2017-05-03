@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Andrey Zontakh"]
+[Black "Olli Salmensuu"]
+[ECO "C11"]
+[WhiteElo "2530"]
+[BlackElo "2445"]
+[PlyCount "113"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 Qb6 8. Na4 Qa5+ 9. c3 b6 10. Bd2 c4 11. b4 Nxb4
+12. cxb4 Bxb4 13. Kf2 Bxd2 14. Nxd2 b5 15. Nc5 Nxc5 16. dxc5
+b4 17. Nf3 Bd7 18. Qd4 Rc8 19. Be2 Qxc5 20. Rab1 a5 21. Qxc5
+Rxc5 22. a3 b3 23. Rhc1 Rc8 24. Ke3 Ke7 25. h4 f6 26. Nd4 h5
+27. Rc3 a4 28. Kd2 fxe5 29. fxe5 g5 30. hxg5 Be8 31. Rf1 Bg6
+32. Kc1 Bf5 33. Nxf5+ exf5 34. Rxf5 d4 35. Rxc4 Rxc4+ 36. Bxc4
+Rc8 37. Rf7+ Ke8 38. Rf4 Rxc4+ 39. Kb1 Ke7 40. g6 Rc6 41. Rxd4
+Rxg6 42. Rxa4 Rxg2 43. Rh4 Rg5 44. Kb2 Rxe5 45. Kxb3 Kf6
+46. a4 Kg5 47. Rh1 h4 48. Kb4 Kg4 49. a5 h3 50. a6 Re8 51. Kb5
+Kg3 52. a7 h2 53. Kb6 Kg2 54. Rxh2+ Kxh2 55. Kb7 Kg3 56. a8=Q
+Rxa8 57. Kxa8 1/2-1/2

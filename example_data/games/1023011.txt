@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Baku AZE"]
+[Date "1972.12.12"]
+[EventDate "1972.11.17"]
+[Round "17"]
+[Result "1-0"]
+[White "Evgeni Vasiukov"]
+[Black "Vladimir Bagirov"]
+[ECO "B05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 c6 6.Ng5 Bf5 7.Bd3
+Bxd3 8.Qxd3 dxe5 9.Qf5 f6 10.Nxh7 exd4 11.O-O e5 12.c4 Nc7
+13.f4 Nd7 14.Ng5 Rh6 15.fxe5 g6 16.Qf2 Nxe5 17.Ne4 f5 18.Bg5
+Ng4 19.Qg3 Qd7 20.Qxg4 fxg4 21.Nf6+ Kd8 22.Nxd7 Kxd7 23.Rf7+
+Ke6 24.Rxf8 Rh5 25.Rxa8 Nxa8 26.Bf4 Kf5 27.Bg3 Ke4 28.Na3 c5
+29.Kf2 Nb6 30.Re1+ Kd3 31.Rd1+ Ke4 32.b3 a6 33.Ke2 Nd7 34.Kd2
+Kf5 35.Re1 1-0

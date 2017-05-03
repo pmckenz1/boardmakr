@@ -1,0 +1,22 @@
+[Event "Beverwijk"]
+[Site "Beverwijk NED"]
+[Date "1959.01.11"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Johan Teunis Barendregt"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.c4 d6 2.d4 g6 3.Nc3 Bg7 4.e4 c5 5.Nge2 Nc6 6.d5 Na5 7.Bd2 a6
+8.Nc1 Bd7 9.Nb3 Nxb3 10.Qxb3 Rb8 11.a4 Nf6 12.Be2 O-O 13.O-O
+Ne8 14.Qc2 Nc7 15.a5 b5 16.axb6 Rxb6 17.Nd1 Qa8 18.Ba5 Rb7
+19.Bc3 Rfb8 20.Bxg7 Kxg7 21.Qc3+ Kg8 22.Ra3 Rb4 23.Bd3 Ba4
+24.Bc2 Bxc2 25.Qxc2 Qb7 26.Re1 Rb3 27.Re3 Rxa3 28.Rxa3 Qb4
+29.Rc3 e5 30.g3 Kg7 31.Kg2 f6 32.b3 Qa5 33.Qb2 Ne8 34.Ne3 Rb7
+35.h4 Rf7 36.Rc1 Rb7 37.Ra1 Qb6 38.Ra3 Nc7 39.h5 Qb4 40.Qc1
+Rb8 41.Ng4 g5 42.Ne3 Rb6 43.Kf1 Ne8 44.Ke2 a5 45.Qa1 Ra6 46.g4
+Kf8 47.f3 Nc7 48.Nc2 Qb6 1/2-1/2

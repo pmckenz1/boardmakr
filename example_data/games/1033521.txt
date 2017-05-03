@@ -1,0 +1,21 @@
+[Event "Ch City, Mar del Plata (Argentina)"]
+[Site "Ch City, Mar del Plata (Argentina)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Jorge Fernandez"]
+[Black "Fernando Braga"]
+[ECO "E46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 b6 6. Nf4 Bb7
+7. Bd3 d6 8. O-O c5 9. Nh5 Nxh5 10. Qxh5 g6 11. Qh3 Nc6 12. d5
+Ne5 13. e4 Bxc3 14. bxc3 f5 15. Bh6 Re8 16. exf5 exf5 17. Rfe1
+Qf6 18. Bf4 Nf7 19. Bd2 Ba6 20. f4 Rad8 21. Qg3 Bc8 22. Rxe8+
+Rxe8 23. Re1 Re7 24. Re3 Nd8 25. Qe1 Kf7 26. Rxe7+ Qxe7
+27. Qd1 Nb7 28. Qf1 Na5 29. g3 Ba6 30. g4 fxg4 31. f5 g5
+32. Qd1 h5 33. Qc1 Bxc4 34. Bxg5 Qe5 35. Qf1 Qxc3 36. Bxc4
+Nxc4 37. Qe2 Ne5 38. Bh4 Nf3+ 39. Kh1 Qc1+ 40. Kg2 Qg1# 0-1

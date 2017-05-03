@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nona Gaprindashvili"]
+[Black "Weissenfels"]
+[ECO "C76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 g6 6.d4 Bd7 7.Be3 Bg7
+8.O-O Nge7 9.d5 Nb8 10.c4 O-O 11.Nc3 Bg4 12.h3 Bc8 13.c5 h6
+14.Nd2 f5 15.f3 f4 16.Bf2 Rf6 17.b4 g5 18.Nc4 Nd7 19.Rc1 h5
+20.c6 bxc6 21.dxc6 Nf8 22.Nxe5 Bxh3 23.gxh3 dxe5 24.Qxd8 Rxd8
+25.Rfd1 Ne6 26.Rd7 Bf8 27.Bb3 Nxc6 28.Nd5 Rh6 29.Rxc6 Rxd7
+30.Rxe6 Rxe6 31.Nf6+ Kg7 32.Nxd7 Re8 33.Bc5 Bd6 34.Bxd6 cxd6
+35.Nb6 Kh6 36.Kf2 Rb8 37.Nd5 Rc8 38.a4 Rc1 39.b5 axb5 40.axb5
+Rb1 41.Bc4 Rb2+ 42.Be2 Rb3 43.Nb6 g4 44.fxg4 Rxh3 45.g5 1-0

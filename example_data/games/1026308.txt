@@ -1,0 +1,21 @@
+[Event "Southampton ch-GB (09)"]
+[Site "Southampton ENG"]
+[Date "1986.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Craig William Pritchett"]
+[Black "Michael John Basman"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 g5 2. d4 Bg7 3. Nc3 c5 4. d5 h6 5. h4 gxh4 6. Nf3 d6
+7. Nxh4 Nd7 8. Nf5 Bxc3+ 9. bxc3 Ne5 10. Bb5+ Kf8 11. Be2 Qa5
+12. Kf1 Bxf5 13. exf5 Nf6 14. Rxh6 Kg7 15. Rxh8 Rxh8 16. Kg1
+Qxc3 17. Rb1 Ne4 18. Bh5 Qd4 19. Be3 Qxd1+ 20. Bxd1 Nc3
+21. Ra1 Nxd5 22. Bc1 b5 23. Bb2 f6 24. Rb1 b4 25. Be2 Nf4
+26. Bf1 Rh5 27. Bxe5 fxe5 28. g4 Rg5 29. f3 Kf6 30. a3 a5
+31. axb4 axb4 32. Bc4 d5 33. Bf1 Rg8 34. Ra1 Rb8 35. Ra6+ Kg5
+36. Ra7 c4 37. Rxe7 b3 38. cxb3 cxb3 0-1

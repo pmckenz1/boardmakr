@@ -1,0 +1,18 @@
+[Event "juniors"]
+[Site "Ch Leningrad , Leningrad (Russia)"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Veniamin Miliutin"]
+[Black "Mikhail Botvinnik"]
+[ECO "D72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5 6.e4 Nb6 7.Ne2
+e5 8.Be3 exd4 9.Nxd4 c5 10.Nb3 Qxd1+ 11.Kxd1 Bxb2 12.Bxc5 Bxa1
+13.Nxa1 Na4 14.Ba3 Be6 15.Nb3 Nc6 16.Nc1 O-O-O 17.Ke1 Rd7
+18.f4 Bg4 19.Kf2 Nd4 20.Nd3 f6 21.Nd2 Nb5 22.Rc1+ Kb8 23.Nc4
+Nxa3 0-1

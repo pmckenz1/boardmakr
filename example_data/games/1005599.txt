@@ -1,0 +1,24 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "7"]
+[Result "0-1"]
+[White "Anatoly Borodavkin"]
+[Black "Sergey Stepanenko"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Nf6 4. b3 Bg7 5. Bb2 O-O 6. O-O c5
+7. d3 Nc6 8. Nbd2 b6 9. c4 Bb7 10. cxd5 Nxd5 11. Bxg7 Kxg7
+12. Qc2 Kg8 13. a3 Rc8 14. Nc4 Qc7 15. Ng5 Ne5 16. Rac1 Nxc4
+17. Qxc4 Nf6 18. Ne4 Nxe4 19. Bxe4 Bxe4 20. Qxe4 Rfd8 21. e3
+Qd6 22. Rfd1 e5 23. d4 exd4 24. exd4 cxd4 25. Rxc8 Rxc8
+26. Qb7 Rc3 27. Qxa7 d3 28. Qa4 Qd5 29. b4 d2 30. Qe8+ Kg7
+31. Qe2 Rc1 32. h4 b5 33. Kh2 Kf6 34. f3 Rxd1 35. Qxd1 Qd3
+36. Kg2 Ke5 37. Kf2 Kd4 38. Qa1+ Qc3 39. Qd1 h5 40. a4 Qc1
+41. Ke2 Qxd1+ 42. Kxd1 bxa4 43. Kxd2 Kc4 44. b5 Kxb5 45. Kc3
+Kc5 46. g4 f5 47. g5 a3 48. Kb3 Kd4 49. Kxa3 Ke3 50. Kb3 Kxf3
+0-1

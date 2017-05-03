@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Marko Filipovic"]
+[Black "Zoran Prskalo"]
+[ECO "A69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5
+7. d5 e6 8. Be2 exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4
+12. Bg5 Qa5 13. O-O Nxe5 14. Nxe5 Bxe5 15. Bc4 Nd7 16. Nb5 Nb6
+17. Bd2 Qa6 18. Qf3 Bf5 19. Be2 c4 20. a4 Rac8 21. g4 Be4
+22. Qxf7+ Kh8 23. Ra3 Nxd5 24. Rh3 Bg7 25. Bh6 Rg8 26. g5 Qb6+
+27. Rf2 Qd8 28. Nd4 Qe8 29. Ne6 Qxf7 30. Rxf7 Bxb2 31. Rxh7+
+1-0

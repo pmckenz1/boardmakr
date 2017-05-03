@@ -1,0 +1,25 @@
+[Event "10s, Zaragoza op"]
+[Site "10s, Zaragoza op Hiarcs 7.32"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Cristina-Adela Foisor"]
+[ECO "E76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5
+7. dxc5 Qa5 8. Bd3 Qxc5 9. Qe2 Nc6 10. Be3 Qa5 11. Rc1 Bg4
+12. O-O Nd7 13. Qf2 Bxf3 14. gxf3 Nc5 15. Bb1 Qb4 16. Rfd1
+Qxc4 17. Nd5 Qa4 18. e5 Na6 19. Qh4 Rae8 20. b3 Qa5 21. Rxc6
+bxc6 22. Nxe7+ Rxe7 23. Qxe7 dxe5 24. f5 Qc3 25. Qxa7 Nb4
+26. Be4 Nd5 27. Bd2 Qb2 28. fxg6 hxg6 29. Qc5 Qxa2 30. Qxc6
+Ne7 31. Qa4 Qxa4 32. bxa4 Rd8 33. Kf2 Nf5 34. a5 Bf8 35. a6
+Bc5+ 36. Ke1 Nd4 37. Ba5 Rd6 38. Rc1 Ba7 39. Bb7 Nxf3+
+40. Bxf3 Rxa6 41. Rc8+ Kg7 42. Bc3 Bd4 43. Bxd4 exd4 44. Rd8
+Rf6 45. Kf2 Rf4 46. Rd5 Kh6 47. Kg3 Rf6 48. Rxd4 Kg7 49. Rd7
+Rf5 50. Bd5 Rf6 51. Be4 Kg8 52. h3 Kg7 53. Kg4 Kf8 54. Kg5 Kg7
+55. Rd3 Ra6 56. Rc3 Ra4 57. Bxg6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Pula (Croatia)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Marjan Crepan"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Nf3 b5 6.b3 Bf5 7.Ne5 e6
+8.g4 Bg6 9.h4 Bb4 10.Bd2 Bxc3 11.Bxc3 Ne4 12.Bb4 f6 13.h5 fxe5
+14.hxg6 Qf6 15.f3 Ng5 16.Be2 exd4 17.Qxd4 e5 18.Qd1 d4 19.exd4
+exd4 20.Qd3 Nd7 21.f4 Qxf4 22.Rf1 Qe3 23.gxh7 Ne4 24.Qxe3 dxe3
+25.Bd3 Nf2 26.Bg6+ Kd8 27.Ke2 Ne5 28.Bc2 Kd7 29.Kxe3 Nfxg4+
+30.Kf4 Rae8 31.cxb5 axb5 32.a4 bxa4 33.Rxa4 g6 34.Kg3 Ne3
+35.Rf2 Ke6 36.Bd6 Nd5 37.Re2 Kf7 1-0

@@ -1,0 +1,27 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jon Loftur Arnason"]
+[Black "Jay R Bonin"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Nc5 e5 6.Nxb7 Qb6
+7.Nc5 exd4 8.Nb3 Bb4+ 9.Bd2 Nf6 10.Bd3 Bxd3 11.cxd3 O-O 12.Ne2
+c5 13.O-O Bxd2 14.Qxd2 Nbd7 15.Rac1 Rab8 16.Rc4 Ng4 17.Rd1
+Rfe8 18.Ng3 Nge5 19.Rc2 Qa6 20.Qa5 Qxa5 21.Nxa5 Rb5 22.Nb3
+Reb8 23.Ne4 a5 24.Rdd2 f5 25.Nexc5 Nxc5 26.Nxc5 Rc8 27.Ne6
+Rxc2 28.Rxc2 Nxd3 29.Nxd4 Rxb2 30.Rxb2 Nxb2 31.Nxf5 Na4 32.Nd6
+Nc3 33.a3 Kf8 34.Kf1 Ke7 35.Nc4 a4 36.Ke1 Ke6 37.Kd2 Nb5
+38.Kd3 Kd5 39.f4 h5 40.g3 g6 41.h3 Kc5 42.g4 hxg4 43.hxg4 Kd5
+44.g5 Ke6 45.Ke4 Nc3+ 46.Kd4 Nb5+ 47.Ke4 Nc3+ 48.Kf3 Kf7
+49.Ne5+ Kg7 50.Ke3 Nb5 51.Nc4 Kf7 52.Ke4 Ke6 53.Nb6 Nxa3
+54.Nxa4 Nc4 55.Nc5+ Kf7 56.Nd3 Nd6+ 57.Kd5 Nf5 58.Ne5+ Kg7
+59.Ke6 Nd4+ 60.Ke7 Ne2 61.Nd3 Nd4 62.Nc5 Nf5+ 63.Ke8 Nd6+
+64.Kd7 Nf5 65.Nb7 Nd4 66.Ke7 Nf5+ 67.Ke8 Nd4 68.Nd8 Nf5 69.Kd7
+Ne3 70.Ke6 Ng2 71.Ke7 Ne3 72.Ne6+ Kh7 73.Kf7 1-0

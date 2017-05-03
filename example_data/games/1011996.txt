@@ -1,0 +1,24 @@
+[Event "Moscow blindfold-5"]
+[Site "Moscow"]
+[Date "1918.08.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Nikolay Dmitrievich Grigoriev"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5
+dxc3 7. exf6 Qxf6 8. dxc3 Qe5+ 9. Be2 Bd6 10. Be3 b6 11. Bf3
+Rb8 12. Qd3 Bc5 13. O-O Bxe3 14. Rae1 O-O 15. Rxe3 Qf6
+16. Rfe1 d6 17. Re7 Bf5 18. Qc4 c5 19. Bd5 Be6 20. Rxa7 b5
+21. Qe4 Rbe8 22. Qe3 g6 23. Bxe6 Rxe6 24. Qd2 Qf4 25. Qd1 Rfe8
+26. Rxe6 Rxe6 27. g3 Qc4 28. Kg2 Re2 29. Qxd6 Qe4+ 30. Kh3
+Qf5+ 31. g4 Qf3+ 32. Qg3 Qd5 33. c4 bxc4 34. Ra3 Rxc2 35. Qb8+
+Kg7 36. Rg3 Rxf2 37. a4 Qd2 38. Qe5+ Kh6 39. Rc3 f6 40. Qb8
+Qd5 41. Rg3 Re2 42. a5 Qd4 43. Qf8+ Kg5 44. Qa8 Qd2 45. Qh1
+Qxa5 46. Qd5+ Re5 47. Qxc4 Qd2 48. b3 Qf2 49. Qc1+ Qf4 50. Qd1
+Kh6 51. Rf3 Re3 52. Rxe3 Qxe3+ 53. Kg2 Kg5 0-1

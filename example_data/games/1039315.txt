@@ -1,0 +1,15 @@
+[Event "It (open)"]
+[Site "Reykjavik ISL"]
+[Date "1990.03.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Lev Polugaevsky"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.e3
+g6 8.Bb5+ c6 9.Bc4 Nxc3 10.bxc3 Bg7 11.a4 1/2-1/2

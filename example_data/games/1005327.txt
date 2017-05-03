@@ -1,0 +1,18 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Vladislav Borovikov"]
+[Black "Alexander Moroz"]
+[ECO "D31"]
+[WhiteElo "2470"]
+[BlackElo "2493"]
+[PlyCount "48"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4
+7. Nd2 Qb6 8. Qg4 Kf8 9. axb5 cxb5 10. Nd5 exd5 11. Qxc8+ Ke7
+12. g3 Qc6 13. Bh3 a5 14. Qg4 Nf6 15. Qxg7 Rg8 16. Qh6 c3
+17. bxc3 Qxc3 18. Rb1 Qd3 19. Rb2 Ra6 20. Qf4 Rc6 21. Kd1 Ne4
+22. Qe5+ Kf8 23. Qxb8+ Kg7 24. Qe5+ f6 0-1

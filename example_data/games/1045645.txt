@@ -1,0 +1,17 @@
+[Event "Trnava"]
+[Site "Trnava CSR"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ladislav Dobrovolsky"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6
+7. Bb3 Be7 8. f4 b5 9. O-O Bb7 10. e5 dxe5 11. fxe5 Bc5
+12. Be3 Nc6 13. exf6 Bxd4 14. Bxd4 Qxd4+ 15. Rf2 gxf6 16. Qh5
+Qe5 17. Qxe5 Nxe5 18. Rxf6 Rg8 19. Bd5 Bxd5 20. Nxd5 exd5 0-1

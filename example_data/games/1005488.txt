@@ -1,0 +1,26 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andrei Yeremenko"]
+[Black "Valery Katuzian"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "2283"]
+[PlyCount "126"]
+
+1. Nf3 Nf6 2. b3 b6 3. e3 e6 4. Bb2 Bb7 5. Be2 Be7 6. O-O O-O
+7. d3 c5 8. Nbd2 Nc6 9. Ne5 Nxe5 10. Bxe5 d6 11. Bb2 Qc7
+12. f4 b5 13. Bf3 Nd7 14. Bxb7 Qxb7 15. Ne4 g6 16. Qf3 d5
+17. Ng5 Bf6 18. Bxf6 Nxf6 19. Qh3 Kg7 20. Rf2 c4 21. Nf3 cxd3
+22. cxd3 Rac8 23. Ne5 h5 24. Raf1 Rc3 25. Qg3 Rh8 26. h4 Qc7
+27. f5 Ng4 28. fxg6 Qxe5 29. Rxf7+ Kh6 30. g7 Rg8 31. R1f6+
+Kh7 32. Qxe5 Nxe5 33. Re7 Rxg7 34. Rfxe6 Rc1+ 35. Kf2 Ng4+
+36. Ke2 Rc2+ 37. Kd1 Rxa2 38. e4 Ne3+ 39. Kc1 dxe4 40. dxe4
+Nxg2 41. Kb1 Re2 42. Rxg7+ Kxg7 43. Re5 b4 44. Rxh5 Rxe4
+45. Rg5+ Kf6 46. Rxg2 Rxh4 47. Re2 Rh5 48. Re4 a5 49. Re8 Re5
+50. Ra8 Kf5 51. Kc2 Ke4 52. Rd8 Ke3 53. Rh8 Rc5+ 54. Kb2 Re5
+55. Rh4 Kd3 56. Rh3+ Re3 57. Rh5 Re2+ 58. Kb1 Kc3 59. Rh3+ Kd4
+60. Rh4+ Re4 61. Rh5 Re5 62. Rh4+ Kc3 63. Rh3+ Kd2 1/2-1/2

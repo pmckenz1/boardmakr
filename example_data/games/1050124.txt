@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Efim Geller"]
+[Black "Lev Polugaevsky"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Na3 Be7 9.Be2 b6 10.Be3 O-O 11.O-O Re8 12.Qe1 Bb7 13.Rd1
+Qc7 14.f3 Ne5 15.Qf2 Ned7 16.g4 h6 17.h4 Nh7 18.Qg3 Rac8
+19.Bf2 g5 20.hxg5 hxg5 21.Nab5 axb5 22.Nxb5 Qb8 23.Nxd6 Bxd6
+24.Rxd6 Bc6 25.b4 Ba4 26.e5 Nhf8 27.f4 gxf4 28.Qxf4 Ng6 29.Qg5
+Nxe5 30.Rxb6 Qc7 31.c5 Bc6 32.Bg3 Qd8 33.Qxd8 Rexd8 34.b5 Be4
+35.c6 Rd2 36.Re1 Rxa2 37.g5 Rb2 38.Rb7 Nf3+ 39.Bxf3 Bxf3
+40.Bf2 Nf4 41.Re3 Nh3+ 42.Kh2 Nxg5 43.Kg3 Bd5+ 44.Be1 Ne4+
+45.Kf4 Rb1 46.Bh4 Rf1+ 47.Ke5 Rf5+ 48.Kd4 Nd6 49.Rg3+ Kh7
+50.Rb6 Bxc6 51.bxc6 Rd5+ 52.Kc3 Ne4+ 53.Kb4 Nxg3 54.Bxg3 Rg8
+55.Bf2 Rf5 56.Be3 Rg4+ 57.Kc3 Rf3 58.Kd2 Rg2+ 59.Kd3 Rgg3
+60.c7 Rxe3+ 61.Kd2 Rd3+ 62.Ke2 Rc3 63.Rb7 Rg2+ 0-1

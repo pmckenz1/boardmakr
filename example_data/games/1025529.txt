@@ -1,0 +1,18 @@
+[Event "Eupen"]
+[Site "01"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Heinrich Karl Schmitz"]
+[Black "Yuri Balashov"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.Bg5 e6 3.e4 h6 4.Bxf6 Qxf6 5.c3 d6 6.Qf3 Nd7 7.Bd3
+g6 8.Qxf6 Nxf6 9.f4 g5 10.g3 Bd7 11.Ne2 gxf4 12.gxf4 Rg8
+13.Rg1 Rxg1+ 14.Nxg1 h5 15.Nd2 Bh6 16.Ne2 Ke7 17.h3 Rg8 18.Nf3
+Bc6 19.Nd2 Rg2 20.e5 Nd5 21.Be4 Nxf4 22.Bxg2 Nxg2+ 23.Kf2 Bxd2
+24.c4 Ne3 25.exd6 cxd6 26.b3 Nf5 0-1

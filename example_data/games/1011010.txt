@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Ilya Frog"]
+[Black "Maksim Notkin"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. Nf3 Nf6 2. b3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O c5 6. c4 Be7
+7. Bb2 O-O 8. e3 d6 9. Nc3 a6 10. d4 cxd4 11. Nxd4 Bxg2
+12. Kxg2 Qc7 13. Qf3 Ra7 14. Rac1 Rc8 15. Rfd1 Qd8 16. Ne4 Ne8
+17. a4 Rac7 18. Ne2 Nd7 19. Nf4 Nc5 20. Nxc5 bxc5 21. e4 Qd7
+22. e5 Qc6 23. Rd3 Qxf3+ 24. Kxf3 Rb7 25. exd6 Bxd6 26. Rcd1
+Rcb8 27. Rxd6 Rxb3+ 28. R6d3 Rxb2 29. Rd8 Kf8 30. Rxb8 Rxb8
+31. Nd3 Rb3 32. Kg2 Rc3 33. Ne5 f6 34. Nd7+ Kg8 35. Nxc5 Rxc4
+36. Nxa6 Rxa4 37. Nc5 Ra7 38. Nxe6 Re7 39. Nf4 Kf7 40. h4 Nc7
+41. Rd6 Ne8 42. Ra6 Nc7 43. Rb6 Ne6 44. Nd5 Rd7 45. Ne3 Nd4
+46. h5 Ne6 47. Nf5 Nd4 48. Nd6+ Ke7 49. Ne4 Ne6 50. Kh3 f5
+51. Rxe6+ Kxe6 52. Nc5+ Kd6 53. Nxd7 Kxd7 54. Kh4 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J H Goud"]
+[Black "Max Euwe"]
+[ECO "A37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 c5 4. Bg2 Nc6 5. Nf3 Nh6 6. a3 O-O
+7. O-O Nf5 8. Rb1 Nfd4 9. Nxd4 cxd4 10. Na2 a5 11. Qa4 Ra7
+12. d3 Qc7 13. Qc2 a4 14. Bd2 d6 15. b4 axb3 16. Rxb3 Na5
+17. Rb5 Nc6 18. Rb3 Bg4 19. Bb4 Rfa8 20. Rfb1 Bc8 21. Nc1 Bh6
+22. h3 Nxb4 23. axb4 Ra1 24. Rxa1 Rxa1 25. Rb1 Rxb1 26. Qxb1
+b5 27. Qc2 bxc4 28. dxc4 Bxc1 29. Qxc1 Ba6 30. c5 dxc5
+31. Qxc5 Qxc5 32. bxc5 Bxe2 33. c6 Ba6 34. c7 Kf8 35. Bc6 Bc8
+36. Kg2 e5 37. f4 f6 38. Kf3 Ke7 39. fxe5 fxe5 40. Bd5 Kd6
+41. Bg8 h6 42. Bh7 Kxc7 43. Bxg6 Bxh3 44. Bd3 Bd7 45. g4 Bc6+
+46. Kg3 Kd6 47. Kh4 e4 48. Bf1 Be8 49. g5 hxg5+ 50. Kxg5 d3
+51. Kf4 Bg6 52. Ke3 Kc5 53. Bh3 Kc4 54. Bg4 Kc3 55. Bd1 d2
+56. Ba4 Bf7 57. Bd1 Bd5 58. Ke2 Bc4+ 59. Ke3 Bd3 0-1

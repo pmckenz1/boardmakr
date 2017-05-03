@@ -1,0 +1,15 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1970.02.16"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Borislav Ivkov"]
+[Black "Andras Adorjan"]
+[ECO "D83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Rc1 c5 7.dxc5
+Be6 8.Nf3 Nc6 9.Be2 Ne4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Sergey A Shchukin"]
+[Black "David Filipovich"]
+[ECO "B14"]
+[WhiteElo "2164"]
+[BlackElo "2347"]
+[PlyCount "80"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4
+7. Be3 e6 8. Bd3 dxc4 9. Bxc4 Be7 10. O-O O-O 11. Qe2 Rc8
+12. Rfd1 Nb4 13. Bb3 Nbd5 14. Rac1 Nxc3 15. bxc3 Ba3 16. Rc2
+Bf5 17. Rcd2 Ne4 18. d5 Nxd2 19. Rxd2 Qa5 20. Bd4 Rfe8 21. Qe5
+f6 22. Qf4 Bc1 23. g4 Bxd2 24. Nxd2 Bd3 25. dxe6 Qg5 26. Qxg5
+fxg5 27. f3 Rc6 28. Bd5 Rcxe6 29. Ne4 Bxe4 30. fxe4 Kh8
+31. Bxb7 Rxe4 32. h3 Re1+ 33. Kf2 R1e2+ 34. Kf3 Rxa2 35. Bd5
+Ra3 36. Be4 Rc8 37. Bf5 Raxc3+ 38. Ke4 R8c4 39. Kd5 Rxd4+
+40. Kxd4 Rxh3 0-1

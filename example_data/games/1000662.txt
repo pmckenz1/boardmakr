@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.26"]
+[EventDate "1911.08.21"]
+[Round "5"]
+[Result "1-0"]
+[White "Hans Fahrni"]
+[Black "Amos Burn"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4
+7.Nxd4 Nf6 8.O-O Be7 9.Re1 O-O 10.Bf4 c5 11.Nf3 c6 12.Nc3 h6
+13.Na4 Be6 14.Nb6 Rae8 15.Ne5 Rd8 16.f3 Bd6 17.Nd3 Bxf4
+18.Nxf4 Rd2 19.Rac1 Rfd8 20.b3 Kf8 21.Nxe6+ fxe6 22.Na4 Nd7
+23.Red1 Rxd1+ 24.Rxd1 Ke7 25.Nc3 Re8 26.Kf2 Kd8 27.Ke3 Kc7
+28.Ne2 c4 29.f4 cxb3 30.cxb3 Nf6 31.h3 Rd8 32.Nd4 Re8 33.Nf3
+Rd8 34.Rg1 c5 35.g4 b6 36.g5 hxg5 37.Nxg5 Re8 38.Nf3 Re7
+39.Ne5 Nd7 40.Ng6 Re8 41.Kf3 b5 42.Ke3 a5 43.Rd1 Ra8 44.Rc1
+Kd8 45.Rd1 Kc7 46.Rc1 Kd8 47.Ne5 Nxe5 48.fxe5 Rc8 49.a4 bxa4
+50.bxa4 Ke7 51.Rb1 c4 52.Kd4 c3 53.Rc1 c2 54.Kd3 Rh8 55.Rxc2
+Rxh3+ 56.Kc4 Re3 57.Kb5 Rxe4 58.Kxa5 Rxe5+ 59.Kb6 Re1 60.Rc5
+Kd6 61.Rb5 e5 62.a5 Ra1 63.a6 g5 64.a7 g4 65.Ra5 Rb1+ 66.Ka6
+1-0

@@ -1,0 +1,18 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "0-1"]
+[White "Michael Schulz"]
+[Black "Stuart C Conquest"]
+[ECO "B06"]
+[WhiteElo "2224"]
+[BlackElo "2563"]
+[PlyCount "50"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5
+7. f5 b5 8. Bd2 b4 9. Nce2 Qb6 10. Ng3 Bc5 11. Nh3 Nbd7
+12. Qe2 a5 13. Nf1 Ba6 14. g4 h5 15. g5 Ng4 16. g6 fxg6
+17. fxg6 Bxd3 18. cxd3 Rf8 19. O-O-O b3 20. a4 Bd4 21. Kb1 c5
+22. Bg5 Qb4 23. Nd2 Nb6 24. Rhf1 Qxa4 25. Kc1 Bxb2+ 0-1

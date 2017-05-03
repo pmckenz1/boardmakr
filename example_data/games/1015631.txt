@@ -1,0 +1,20 @@
+[Event "Varna (Bulgaria)"]
+[Site "Varna (Bulgaria)"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Liuben D Spassov"]
+[ECO "B31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 Nf6 6.h3 O-O 7.c3
+Qb6 8.Ba4 d6 9.d4 cxd4 10.cxd4 Nd7 11.Nc3 Nxd4 12.Nxd4 Qxd4
+13.Nd5 e6 14.Ne7+ Kh8 15.Qxd4 Bxd4 16.Nxc8 Nc5 17.Nxd6 Nxa4
+18.Bh6 Bg7 19.Bxg7+ Kxg7 20.b3 Nc5 21.e5 b6 22.Re3 a5 23.Rc1
+Ra7 24.a3 Rd7 25.b4 axb4 26.axb4 Nb7 27.Ne4 Rb8 28.Nf6 Re7
+29.Rd3 Rd8 30.Rxd8 Nxd8 31.Rc8 Nb7 32.g4 g5 33.f4 gxf4 34.Rg8+
+1-0

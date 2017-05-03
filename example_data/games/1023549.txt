@@ -1,0 +1,23 @@
+[Event "Ch club URS (team)"]
+[Site "Naberezhnye Chelny (Russia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Viacheslav Ikonnikov"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.b3 d5 2.Bb2 Bf5 3.g3 e6 4.Bg2 Nf6 5.d3 h6 6.Nd2 Be7 7.e4 Bh7
+8.e5 Nfd7 9.Nh3 c5 10.O-O Nc6 11.f4 Qc7 12.Nf2 O-O-O 13.a3 f6
+14.exf6 Bxf6 15.Bxf6 Nxf6 16.b4 e5 17.fxe5 Nxe5 18.bxc5 Qxc5
+19.Nb3 Qc3 20.Qc1 Rhf8 21.Qe3 Nc6 22.Qf4 Nd7 23.Qd6 Bg8 24.Bh3
+Rf6 25.Qc5 Qxc5 26.Nxc5 Nb8 27.Rae1 Kc7 28.Nxd7 Nxd7 29.Re7
+Rf7 30.Rfe1 Kd6 31.R1e6+ Kc5 32.Rxf7 Bxf7 33.Re7 Be8 34.Rxg7
+Ne5 35.Re7 Nf3+ 36.Kg2 Nd4 37.Rxb7 Nxc2 38.Rxa7 Bc6 39.Be6 Re8
+40.Bf7 Re2 41.Bg6 d4 42.Be4 Bxe4+ 43.dxe4 d3 44.Rd7 Kc4
+45.Rxd3 Rxf2+ 46.Kxf2 Kxd3 47.e5 Nxa3 48.Kf3 Kd4 49.e6 Nc4
+50.Kg4 Ke5 51.e7 Nd6 52.Kh5 Kf6 53.Kxh6 Kf5 1/2-1/2

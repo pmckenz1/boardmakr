@@ -1,0 +1,19 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.10"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Ghassan Houmsi"]
+[Black "Ali Majed"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O d6 6. Nxd4
+Be7 7. Nc3 Ne5 8. Bb3 O-O 9. h3 Re8 10. Bf4 a6 11. a4 Bf8
+12. Nf3 Bd7 13. Bxe5 dxe5 14. Qe2 c6 15. Rad1 Qc7 16. Ng5 Re7
+17. Rd3 h6 18. Nxf7 Rxf7 19. Rfd1 Be8 20. Qf3 Kh8 21. Bxf7
+Bxf7 22. b3 Be6 23. Ne2 Be7 24. Ng3 g6 25. Rd6 Qc8 26. R6d3
+Kg7 27. Qe3 Qc7 1/2-1/2

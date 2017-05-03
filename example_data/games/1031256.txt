@@ -1,0 +1,20 @@
+[Event "Sao Paulo (Brazil)"]
+[Site "Zt"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Rodrigo Flores Alvarez"]
+[Black "Julio Bolbochan"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3
+Be7 8.f4 O-O 9.Qf3 d5 10.Rd1 e5 11.Nxc6 bxc6 12.h3 exf4 13.Bd4
+Re8 14.Be2 Nxe4 15.Nxe4 dxe4 16.Qxf4 Bd6 17.Qf2 Qg5 18.O-O Be6
+19.Bg4 Bc4 20.Rfe1 h5 21.Qf5 Qxf5 22.Bxf5 Rad8 23.Bxa7 Bg3
+24.Bf2 Rxd1 25.Rxd1 h4 26.b3 Ba6 27.c4 e3 28.Bxg3 hxg3 29.Bg4
+g5 30.Kf1 Bc8 31.Ke2 Bb7 32.Rd7 Bc8 33.Rd3 f5 34.Bh5 Rf8
+35.Rxe3 f4 36.Re8 c5 37.Rxf8+ Kxf8 38.a4 Bxh3 39.gxh3 1-0

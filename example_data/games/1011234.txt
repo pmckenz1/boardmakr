@@ -1,0 +1,16 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Michal Sosnicki"]
+[Black "Piotr Staniszewski"]
+[ECO "E19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 Be7
+7. O-O O-O 8. Nc3 Ne4 9. Qc2 Nxc3 10. Qxc3 c5 11. Rd1 d6
+12. b3 Nc6 13. Bb2 Bf6 14. Qd2 Re8 15. Rab1 Qe7 16. e3 1/2-1/2

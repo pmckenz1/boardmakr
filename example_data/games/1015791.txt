@@ -1,0 +1,19 @@
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.03.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Bojan Kurajica"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 5.Nc3 e6 6.Be2 a6 7.O-O
+Nf6 8.Kh1 Be7 9.f4 d6 10.Be3 O-O 11.Qe1 Bd7 12.Qg3 b5 13.a3
+Rab8 14.e5 Ne8 15.Ne4 g6 16.c3 dxe5 17.fxe5 f5 18.Ng5 Nxd4
+19.Bxd4 h6 20.Nxe6 Bxe6 21.Qxg6+ Ng7 22.Qxh6 Bc5 23.Rf3 Bxd4
+24.cxd4 Bc4 25.Bxc4+ bxc4 26.Rh3 Kf7 27.Rg3 Kg8 28.Re1 Rb3
+29.Qxa6 Rxg3 30.hxg3 Rd8 1/2-1/2

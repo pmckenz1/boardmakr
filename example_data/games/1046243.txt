@@ -1,0 +1,23 @@
+[Event "Sydney"]
+[Site "Sydney"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Rogelio Antonio Jr"]
+[Black "Lubomir Ftacnik"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 c5
+7. dxc5 Qa5 8. Bd3 dxc5 9. e5 Nd5 10. Bd2 Nxc3 11. Bxc3 Qa4
+12. Qd2 Bh6 13. Ng5 Bxg5 14. fxg5 Qh4+ 15. g3 Qh5 16. O-O Nc6
+17. Qe3 Nd4 18. h4 h6 19. gxh6 Bh3 20. Rf2 Rad8 21. Kh2 Be6
+22. Re1 Kh7 23. Bd2 Qg4 24. Ref1 Qh3+ 25. Kg1 Bd5 26. Rh2 Qg4
+27. Rhf2 Qh3 28. Rh2 Qg4 29. Rhf2 c4 30. Be2 Qh3 31. Rh2 Nxe2+
+32. Rxe2 Qh1+ 33. Kf2 Qh3 34. Bc3 Bc6 35. Qf4 Qf5 36. Ke3 Qe6
+37. Rd2 f6 38. Ke2 fxe5 39. Qxf8 Qg4+ 40. Ke1 Rxf8 41. Rxf8
+Qxg3+ 42. Rdf2 Kxh6 43. Kd2 Kh5 44. Re2 e4 45. Re3 Qg1 46. Be5
+1/2-1/2

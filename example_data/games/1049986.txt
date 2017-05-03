@@ -1,0 +1,16 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Semon Palatnik"]
+[Black "Efim Geller"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.d4 Nf6 2.Bg5 d5 3.Bxf6 exf6 4.e3 Be6 5.Nd2 Nd7 6.c4 Bb4
+7.cxd5 Bxd5 8.Ne2 O-O 9.Nc3 Nb6 10.a3 Bxc3 11.bxc3 c5 12.Bd3
+cxd4 13.cxd4 Bxg2 14.Rg1 Bc6 15.Rxg7+ 1-0

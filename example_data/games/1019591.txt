@@ -1,0 +1,16 @@
+[Event "Dortmund"]
+[Site "Dortmund FRG"]
+[Date "1973.05.18"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Luben S Popov"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.g3 b5 5.Bg2 Bb7 6.d3 d6 7.O-O Nf6
+8.e5 dxe5 9.Nxe5 Bxg2 10.Kxg2 Nbd7 11.Bf4 Nxe5 12.Bxe5 Be7
+13.Qf3 O-O 14.Rfe1 Nd7 15.Bf4 Bf6 16.Rab1 Bxc3 1/2-1/2

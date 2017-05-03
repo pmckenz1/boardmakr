@@ -1,0 +1,23 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1891.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Allies"]
+[Black "Mikhail Chigorin"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 d5 2. Nf3 Bg4 3. c4 e6 4. Ne5 Bf5 5. Nc3 c6 6. Qb3 Qb6
+7. c5 Qxb3 8. axb3 f6 9. Nf3 Na6 10. Na4 Nb4 11. Kd1 Nc2
+12. Ra2 e5 13. Nb6 Rd8 14. Rxa7 exd4 15. Na4 g5 16. Rxb7 Nh6
+17. h3 Be4 18. Bd2 Nf5 19. Ne1 Na1 20. Rg1 Ra8 21. g4 Ng7
+22. Nb6 Ra2 23. Nd7 Be7 24. Rg3 Rxb2 25. Bg2 Ne6 26. Bxe4 dxe4
+27. b4 Nd8 28. Ra7 Rb1+ 29. Bc1 Nb3 30. Rxb3 Rxb3 31. Nc2 d3
+32. Nd4 Rxb4 33. Nf5 Rb7 34. Nxf6+ Kf7 35. Rxb7 Nxb7 36. Nxe7
+Kxf6 37. Bb2+ Kxe7 38. Bxh8 Nxc5 39. e3 Nb3 40. Bc3 c5 41. Ke1
+Ke6 42. Kd1 c4 43. Ke1 Nc1 44. Kd2 Ne2 45. Bb4 Ng1 46. Kc3 Kd5
+0-1

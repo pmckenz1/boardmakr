@@ -1,0 +1,15 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "1995.08.03"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Jan Timman"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.cxd5 exd5 5.Nf3 c6 6.Bg5 Be7
+7.Bxe7 Qxe7 8.e3 Bf5 9.Qb3 Nf6 10.Nh4 Be6 11.Bd3 1/2-1/2

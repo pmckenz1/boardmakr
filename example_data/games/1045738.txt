@@ -1,0 +1,21 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Wlodzimierz Schmidt"]
+[ECO "D88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O cxd4 11. cxd4 Bg4
+12. f3 Na5 13. Bb5 Bd7 14. Rb1 Bxb5 15. Rxb5 Rc8 16. d5 b6
+17. Bd4 Qd7 18. Rb1 Bxd4+ 19. Nxd4 Rc4 20. Rf2 Rfc8 21. Rd2
+Qd6 22. g3 a6 23. Kg2 Qc5 24. Nb3 Nxb3 25. axb3 Rc2 26. b4 Qc3
+27. Rxc2 Qxc2+ 28. Qxc2 Rxc2+ 29. Kg1 g5 30. Ra1 Rb2 31. Rxa6
+Rxb4 32. e5 Rd4 33. Ra8+ Kg7 34. Rd8 Rd2 35. d6 exd6 36. exd6
+b5 37. Rb8 1/2-1/2

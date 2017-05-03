@@ -1,0 +1,20 @@
+[Event "Berlin Thaelmann"]
+[Site "East Berlin GDR"]
+[Date "1989.04.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Gennadi Zaichik"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.b3 a5 5.Bg2 a4 6.Na3 Be7 7.Bb2 O-O
+8.O-O Nbd7 9.d3 c6 10.Nc2 a3 11.Bc3 Bd6 12.Re1 Qe7 13.e4 dxe4
+14.dxe4 e5 15.Nh4 g6 16.Qd2 Rd8 17.Qg5 Nc5 18.Nf5 Bxf5 19.exf5
+Nd3 20.Re2 Bc5 21.Qh4 Nxf2 22.Rxf2 Rd3 23.Be1 e4 24.Qf4 Rad8
+25.fxg6 hxg6 26.b4 Bxf2+ 27.Bxf2 Qe6 28.Rf1 Qf5 29.Qc1 Qe5
+30.Bb6 Re8 31.Ne3 Nd7 32.Ng4 Qh5 33.Nh6+ Kh8 34.Nxf7+ Kg7
+35.Be3 Qe2 36.Bd4+ Nf6 37.Qh6+ Kxf7 38.Rxf6+ 1-0

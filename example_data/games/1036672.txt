@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "02"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Stefano Rosselli del Turco"]
+[Black "Edgar Colle"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.h3 Bg7 5.Bf4 c6 6.e3 O-O 7.Bd3
+Nbd7 8.O-O Re8 9.Bh2 Nh5 10.g4 Nhf6 11.Re1 h5 12.Ne5 hxg4
+13.Nxg4 Nxg4 14.hxg4 e5 15.dxe5 Nxe5 16.f3 Bh6 17.Bf4 Qf6
+18.g5 Bxg5 19.Bxe5 Qxe5 20.f4 Qd6 21.Qf3 Bf6 22.Kg2 Kg7 23.Rh1
+Qe6 24.Rae1 Qg4+ 25.Qxg4 Bxg4 26.Kg3 Bd7 27.Nd1 Rh8 28.c3 Rae8
+29.Kf3 c5 30.Nf2 Bh4 31.Reg1 c4 32.Bc2 Bc6 33.Rh2 d4+ 0-1

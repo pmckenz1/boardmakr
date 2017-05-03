@@ -1,0 +1,27 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.06.28"]
+[EventDate "1937.06.16"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vladimir Petrov"]
+[Black "Endre Steiner"]
+[ECO "E49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+
+7. bxc3 b6 8. Ne2 Ba6 9. cxd5 exd5 10. Bxa6 Nxa6 11. Qd3 Qc8
+12. O-O c5 13. a4 Re8 14. Ba3 c4 15. Qc2 Qd8 16. Rfb1 Nb8
+17. a5 b5 18. Bc1 a6 19. f3 Nc6 20. Ng3 Qc7 21. e4 Nxa5 22. e5
+Nd7 23. Ba3 Nb3 24. Ra2 Qb6 25. f4 a5 26. Bd6 b4 27. Qf5 bxc3
+28. Qxd7 Qxd4+ 29. Kh1 Qd3 30. Rg1 c2 31. Ba3 d4 32. Qg4 Kh8
+33. Nf5 Rg8 34. Nd6 Ra7 35. f5 c1=Q 36. Bxc1 Nxc1 37. Rxc1 Qe3
+38. Rca1 c3 39. Rxa5 c2 40. h3 c1=Q+ 41. Rxc1 Qxc1+ 42. Kh2
+Qc7 43. Rd5 f6 44. Qxd4 fxe5 45. Qxe5 Rf8 46. Ne4 Qxe5+
+47. Rxe5 Ra4 48. Kg3 Ra7 49. Kf3 Rb8 50. g4 Ra3+ 51. Kf4 Rxh3
+52. Kg5 Re3 53. Kf4 Re1 54. g5 Rh1 55. Kg3 Rg1+ 56. Kf4 Rf1+
+57. Kg4 Kg8 58. Re7 Re1 59. Re6 Rf8 60. Kh4 Rh1+ 61. Kg4 Rg1+
+62. Ng3 Ra8 63. f6 gxf6 64. Rxf6 Ra3 65. Rf3 Rxf3 66. Kxf3 Kg7
+1/2-1/2

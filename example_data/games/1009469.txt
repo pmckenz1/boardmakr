@@ -1,0 +1,18 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Matthias Wahls"]
+[Black "Boris Alterman"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7
+7. O-O Nc6 8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3
+12. bxc3 Nc6 13. cxd5 Qxd5 14. Bf4 Na5 15. Bxc7 Rac8 16. Bxa5
+Qxa5 17. c4 Bf6 18. Qb3 Qb6 19. Qxb6 axb6 20. Rfd1 Rfd8
+1/2-1/2

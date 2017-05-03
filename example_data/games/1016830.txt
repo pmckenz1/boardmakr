@@ -1,0 +1,18 @@
+[Event "Ch Hungary (team) /94"]
+[Site "Hungary"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Istvan Almasi"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.Ne5 b5 6.g3 e6 7.Bg2
+Nd5 8.O-O Be7 9.a4 b4 10.Ne4 Ba6 11.Nc5 Bxc5 12.dxc5 O-O
+13.Qd4 c3 14.bxc3 Nxc3 15.Qxb4 Nxe2+ 16.Kh1 Nxg3+ 17.hxg3 Bxf1
+18.Bxf1 Qd5+ 19.Kg1 Qxe5 20.Bb2 Qc7 21.Rd1 Nd7 22.Qg4 Ne5
+23.Qf4 f6 24.Bh3 Rad8 25.Bxe6+ Kh8 0-1

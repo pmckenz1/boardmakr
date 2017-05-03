@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Mark Hebden"]
+[Black "Harriet Hunt"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. d4 Nf6 2. Nf3 e6 3. c3 c5 4. Bg5 cxd4 5. cxd4 Qa5+ 6. Nc3
+Ne4 7. Bd2 Nxd2 8. Qxd2 d5 9. e3 Nc6 10. Bd3 Be7 11. O-O O-O
+12. a3 f5 13. b4 Qd8 14. Na4 b6 15. Rfc1 Bd7 16. Ba6 Qe8
+17. Nb2 Rd8 18. Ne5 Nxe5 19. dxe5 Bc8 20. Be2 Qd7 21. Nd1 Bg5
+22. f4 Be7 23. Nc3 d4 24. exd4 Qxd4+ 25. Qxd4 Rxd4 26. Nb5 Rd7
+27. Nc7 Rd2 28. Bf3 g5 29. Nb5 a5 30. Rc7 Bd7 31. Rd1 Rxd1+
+32. Bxd1 Rd8 33. Bb3 Kf8 34. Nd4 axb4 35. axb4 Bxb4 36. Nxe6+
+Bxe6 37. Bxe6 gxf4 38. Rf7+ Ke8 39. Rxh7 Rd2 40. Kf1 Bc5
+41. Bxf5 Rf2+ 42. Ke1 Rxg2 43. Bd7+ Kd8 44. Bc6 1/2-1/2

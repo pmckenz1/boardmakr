@@ -1,0 +1,23 @@
+[Event "Training"]
+[Site "Training"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viacheslav Ragozin"]
+[Black "Mikhail Botvinnik"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+h6 8.Bxf6 gxf6 9.Nb3 a6 10.Be2 h5 11.O-O Bd7 12.Rad1 Be7
+13.Qe3 Na5 14.Qg3 Kf8 15.f4 Nxb3 16.axb3 Qa5 17.Kh1 Rd8 18.Rd4
+Bc6 19.b4 Qb6 20.Rfd1 f5 21.Bf3 h4 22.Qh3 Bf6 23.e5 dxe5
+24.Rxd8+ Bxd8 25.Bxc6 bxc6 26.fxe5 Bc7 27.Qd3 Bxe5 28.Na4 Qc7
+29.Nc5 Kg7 30.Nxa6 Qb6 31.c3 Qf2 32.Nc5 h3 33.Qf3 hxg2
+34.Qxg2+ Qxg2+ 35.Kxg2 Rxh2+ 36.Kf3 Rh3+ 37.Kf2 Rh2+ 38.Kf3
+Rxb2 39.Rg1+ Kh6 40.Nd3 Bxc3 41.Nxb2 Bxb2 42.Ke3 Bc3 43.Rb1
+Kg5 44.Kd3 Be5 45.Rg1+ Kf6 46.Kc4 f4 47.Rg8 f3 48.Kd3 Bf4
+49.Rc8 e5 50.Rxc6+ Kg5 51.Rc4 f5 52.Rxf4 Kxf4 53.b5 e4 0-1

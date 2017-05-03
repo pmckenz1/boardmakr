@@ -1,0 +1,18 @@
+[Event "11th DSB Kongress, Cologne"]
+[Site "Cologne GER"]
+[Date "1898.08.06"]
+[EventDate "1898.08.01"]
+[Round "6"]
+[Result "0-1"]
+[White "Johann Nepomuk Berger"]
+[Black "Emmanuel Schiffers"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. d4 d5 2. e3 Bf5 3. c4 e6 4. Qb3 b6 5. Nc3 Nf6 6. Nf3 Be7
+7. Be2 O-O 8. Nh4 Be4 9. cxd5 Bxd5 10. Nxd5 Nxd5 11. Nf3 Nd7
+12. O-O c5 13. Bd3 N7f6 14. Rd1 cxd4 15. Nxd4 Bd6 16. Be2 Ne4
+17. Bf3 Bxh2+ 18. Kxh2 Qh4+ 19. Kg1 Qxf2+ 20. Kh2 f5 21. Qc2
+Qh4+ 22. Kg1 Rf6 23. Nxf5 exf5 24. Rxd5 0-1

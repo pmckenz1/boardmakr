@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1927.04.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "J Willems"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6
+7. Be3 Bf5 8. Nf3 e6 9. Be2 Be7 10. O-O Qd7 11. Nc3 O-O-O
+12. Na4 Nb4 13. Nxb6+ axb6 14. Rc1 c5 15. Qb3 Qc7 16. Kh1 f6
+17. Bf4 Qc6 18. a3 Qe4 19. axb4 Qxf4 20. bxc5 bxc5 21. Qb6 Qe3
+22. Rfe1 fxe5 23. Bf1 Qf4 24. Ra1 Bd6 25. dxc5 Bb8 26. c6 1-0

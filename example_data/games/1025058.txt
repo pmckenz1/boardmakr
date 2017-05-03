@@ -1,0 +1,16 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Lars Karlsson"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7 5.a3 Bf8 6.Nf3 b6 7.Bb5 Nc6
+8.O-O a6 9.Bd3 Bb7 10.Qe2 Nge7 11.Re1 h6 12.Nd1 Nxd4 13.Nxd4
+c5 14.Be3 c4 15.Nc3 cxd3 1/2-1/2

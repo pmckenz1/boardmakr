@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.30"]
+[EventDate "1928.09.21"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Kornel Havasi"]
+[Black "Arpad Vajda"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. h3 d6 6. Bf4 Nbd7
+7. Qd2 Re8 8. Bh6 e5 9. Bxg7 Kxg7 10. dxe5 Nxe5 11. Nxe5 dxe5
+12. O-O-O Qxd2+ 13. Rxd2 Be6 14. e3 Rad8 15. Rxd8 Rxd8 16. Be2
+Kf8 17. b3 Ke7 1/2-1/2

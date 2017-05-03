@@ -1,0 +1,16 @@
+[Event "6, Alicante op (10s)"]
+[Site "Alicante ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Mauricio Vassallo Barroche"]
+[Black "Fernando Braga"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O
+7. c3 c5 8. Nbd2 Nbc6 9. Qb3 d4 10. Nc4 h6 11. cxd4 cxd4
+12. a4 Be6 13. Bd2 Qd7 14. Rac1 g5 1/2-1/2

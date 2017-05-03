@@ -1,0 +1,30 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.23"]
+[EventDate "1928.09.21"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Zoltan von Balla"]
+[Black "Endre Steiner"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "168"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e6 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3
+Nc6 7. Nxc6 dxc6 8. O-O e5 9. Ne2 O-O 10. Ng3 Bg4 11. f3 Be6
+12. Be3 Qe7 13. Qe2 Bc5 14. Kh1 Bxe3 15. Qxe3 Qb4 16. b3 Rfd8
+17. Qg5 Qc5 18. f4 h6 19. Qh4 exf4 20. Qxf4 Qg5 21. Qxg5 hxg5
+22. Kg1 Ng4 23. Rfe1 Ne5 24. Rad1 a5 25. Be2 a4 26. Rxd8+ Rxd8
+27. Rd1 Ra8 28. Kf2 g6 29. Ke3 Kf8 30. Kd4 Nd7 31. Nf1 Ke7
+32. Ne3 Rh8 33. Rh1 Rh4 34. Bd3 c5+ 35. Kc3 Nf6 36. g3 Nxe4+
+37. Bxe4 Rxe4 38. Kd3 Rd4+ 39. Kc3 a3 40. Rd1 Rxd1 41. Nxd1
+Kd6 42. Nf2 Bf5 43. g4 Be6 44. Ne4+ Ke5 45. Nxc5 Kf4 46. Nxb7
+Kxg4 47. Nc5 Bc8 48. b4 f5 49. b5 Kh3 50. Kd4 Kxh2 51. Ke5 g4
+52. c4 g3 53. Nd3 Bb7 54. Ne1 g2 55. Nxg2 Bxg2 56. c5 Bh3
+57. c6 Kg3 58. Kd6 f4 59. c7 f3 60. b6 Bc8 61. Kc6 f2 62. b7
+Bxb7+ 63. Kxb7 f1=Q 64. c8=Q Qb1+ 65. Ka6 Qd3+ 66. Kb6 Kf2
+67. Qh8 Ke2 68. Ka5 Kd2 69. Qh2+ Kc1 70. Qg1+ Kb2 71. Qg2+ Kc1
+72. Qb7 Qc2 73. Ka6 Qd3+ 74. Ka7 Qd4+ 75. Ka8 Qa4+ 76. Kb8
+Qe8+ 77. Ka7 Qa4+ 78. Kb8 Qf4+ 79. Ka8 Qa4+ 80. Kb8 Qe8+
+81. Ka7 Qe3+ 82. Ka8 Qd3 83. Ka7 Qd4+ 84. Ka8 Qa4+ 1/2-1/2

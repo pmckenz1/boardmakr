@@ -1,0 +1,18 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Adrian Keatinge-Clay"]
+[Black "Hendrik A Happel"]
+[ECO "E33"]
+[WhiteElo "2287"]
+[BlackElo "2215"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 O-O 6. a3
+Bxc3+ 7. Qxc3 a5 8. b3 Qe7 9. e3 d6 10. Bb2 Re8 11. Be2 e5
+12. d5 Nb8 13. Nd2 c6 14. e4 Bd7 15. O-O cxd5 16. exd5 b5
+17. Rae1 bxc4 18. Bxc4 Bc8 19. f4 Nfd7 20. Nf3 f6 21. Nh4 Nf8
+22. fxe5 fxe5 23. Qf3 Qd8 24. Qf7+ Kh8 25. Rxe5 1-0

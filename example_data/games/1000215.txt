@@ -1,0 +1,24 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "0-1"]
+[White "Leonid Filatov"]
+[Black "Vasilios Kotronias"]
+[ECO "A48"]
+[WhiteElo "2301"]
+[BlackElo "2639"]
+[PlyCount "112"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 Nbd7
+7. O-O Ne4 8. Nbd2 Nxd2 9. Qxd2 e5 10. dxe5 dxe5 11. Bh2 Qe7
+12. e4 Nc5 13. Qe3 a5 14. Bc4 Bd7 15. a3 b5 16. Bd5 c6 17. Ba2
+Rfd8 18. Rfd1 Be8 19. Bg3 Bf6 20. Rxd8 Rxd8 21. Re1 Rb8 22. b4
+axb4 23. axb4 Na4 24. Rd1 Rc8 25. c3 c5 26. Kh2 c4 27. Bb1 Bc6
+28. Bc2 h5 29. h4 Bg7 30. Bxa4 bxa4 31. b5 Bxb5 32. Qb6 Bc6
+33. Qa6 Qb7 34. Qxc4 Bxe4 35. Qxa4 Bxf3 36. gxf3 Qxf3 37. c4
+Qg4 38. Rc1 g5 39. Qd1 Qxd1 40. Rxd1 Rxc4 41. Re1 f6 42. f3 g4
+43. fxg4 Rxg4 44. Kh3 Kf7 45. Rb1 Kg6 46. Rb7 Bh6 47. Rb6 Be3
+48. Re6 Kf5 49. Re8 Ke4 50. Rh8 Kf3 51. Bh2 Bf4 52. Bxf4 Rxf4
+53. Rxh5 e4 54. Ra5 e3 55. h5 e2 56. Ra1 Re4 0-1

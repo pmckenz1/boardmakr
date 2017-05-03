@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.18"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Jonathan D Sarfati"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.Nbd2 bxc4 6.e4 d6 7.Bxc4
+Bg7 8.O-O O-O 9.Rb1 Ba6 10.b3 Qa5 11.a3 Bxc4 12.Nxc4 Qa6
+13.Re1 Nbd7 14.Bg5 Nb6 15.Nfd2 Rfe8 16.Qc2 Nfd7 17.a4 Nxc4
+18.Nxc4 Rab8 19.Bd2 Ne5 20.f4 Nxc4 21.Qxc4 Bd4+ 22.Kf1 Qc8
+23.h3 Qd7 24.g4 h5 25.f5 hxg4 26.hxg4 e6 27.Qd3 Kg7 28.Bc3
+Bxc3 29.Qxc3+ e5 30.Kg2 Rh8 31.Rh1 Qe7 32.Qe3 Rh4 33.Kg3 Rxh1
+34.Rxh1 g5 35.Rh5 f6 36.Kf2 Rh8 37.Rxh8 Kxh8 38.Qh3+ Kg7
+39.Qh5 Qf7 40.Qh3 Qb7 41.Qh5 Qf7 42.Qh3 Qb7 43.Qc3 Kf8 44.Ke1
+Qh7 45.Qa5 Qh4+ 46.Kd2 Qf2+ 47.Kc1 Qe3+ 48.Kb2 Qd4+ 49.Ka2 Kg7
+50.Qxa7+ Kh6 51.Qa5 Qxe4 52.Qd8 Qc2+ 1/2-1/2

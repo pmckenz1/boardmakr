@@ -1,0 +1,28 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Mark Heidenfeld"]
+[Black "Alexander Baburin"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d5 5. d4 c5 6. Nf3 Nc6
+7. Be2 Bg4 8. O-O e6 9. Be3 Be7 10. h3 Bh5 11. Nh2 Bg6 12. Nf3
+O-O 13. Bd3 Qa5 14. a3 c4 15. Bxg6 fxg6 16. a4 h6 17. Bd2 g5
+18. Nh2 Qd8 19. Qg4 Rf5 20. h4 Qe8 21. hxg5 Bxg5 22. f4 Be7
+23. Rf3 h5 24. Qh3 Qg6 25. Nf1 Raf8 26. Ng3 R5f7 27. f5 Qg4
+28. Qxh5 Qxh5 29. Nxh5 Rxf5 30. Rxf5 Rxf5 31. g4 Rf7 32. Rd1
+g5 33. Kg2 Kh7 34. Rb1 b6 35. Ra1 Kg6 36. Bc1 Nb8 37. Ba3 Bxa3
+38. Rxa3 a5 39. Ra1 Nd7 40. Rb1 Rf8 41. Rh1 b5 42. axb5 a4
+43. Rb1 Nb6 44. Ra1 Ra8 45. Ng3 Ra5 46. Rb1 Kf7 47. Ne2 Ke7
+48. Ng1 Kd7 49. Kf2 a3 50. Ra1 Na8 51. Ke3 Nc7 52. b6 Nb5
+53. b7 Kc7 54. Nf3 Kxb7 55. Nxg5 Nxc3 56. Kd2 Ne4+ 57. Nxe4
+dxe4 58. g5 Kc6 59. g6 Ra7 60. Ke3 Kb5 61. Kxe4 Kb4 62. d5
+exd5+ 63. Kxd5 Rg7 64. e6 Rxg6 65. e7 Rg8 66. Ra2 Rb8 67. Kd6
+Kc3 68. Kd7 Kd2 69. e8=Q Rxe8 70. Kxe8 c3 71. Kd7 Kc1 72. Kc6
+Kb1 73. Rxa3 Kxc2 74. Kb5 Kb2 75. Rxc3 Kxc3 1/2-1/2

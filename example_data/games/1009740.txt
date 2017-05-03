@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Tim Reilly"]
+[Black "Kerry Corker"]
+[ECO "E44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Be7
+7. d5 e5 8. Ng3 g6 9. Bd3 a5 10. O-O Na6 11. f4 exf4 12. exf4
+Nc5 13. Bc2 d6 14. Be3 O-O 15. f5 Nfd7 16. Nge4 Nf6 17. Nxc5
+dxc5 18. Bh6 Bd6 19. Bxf8 Qxf8 20. fxg6 Qh6 21. Rxf6 Bxh2+
+22. Kf1 hxg6 23. Rf3 Bc8 24. Ne4 Be5 25. Nf2 Bd7 26. Ba4 Bf5
+27. Qe2 Bd4 28. Rxf5 gxf5 29. Nh3 Qh4 30. Bd7 f4 31. Qg4+ Qxg4
+32. Bxg4 Bxb2 33. Ra2 Be5 34. Rf2 f5 35. Bxf5 Rf8 36. Be6+ Kg7
+37. a4 Rf6 38. Ke2 c6 39. Kf3 cxd5 40. Bxd5 Kg6 41. Ke4 1-0

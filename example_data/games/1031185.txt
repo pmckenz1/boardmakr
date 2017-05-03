@@ -1,0 +1,23 @@
+[Event "Trencianske Teplice (Slovakia)"]
+[Site "Trencianske Teplice (Slovakia)"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Julio Bolbochan"]
+[Black "Maximilian Ujtelky"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O
+Qc7 8.f4 b5 9.Bf3 Bb7 10.e5 dxe5 11.fxe5 Nfd7 12.Bxb7 Qxb7
+13.Qh5 g6 14.Qh4 Bc5 15.Kh1 Bxd4 16.Qxd4 Nc6 17.Qh4 O-O 18.Bh6
+Ncxe5 19.Rad1 f5 20.Bxf8 Nxf8 21.Rfe1 Nf7 22.Qf6 Re8 23.a4
+bxa4 24.Nxa4 Rc8 25.c3 Qb3 26.Rd4 Qb5 27.Rb4 Qc6 28.b3 Rd8
+29.Rd4 Rb8 30.Rc4 Qd6 31.Nc5 Rb6 32.Qd4 e5 33.Qxd6 Rxd6 34.Ra4
+Ne6 35.Nxe6 Rxe6 36.Rea1 Rb6 37.Rb4 Rc6 38.c4 e4 39.Rba4 Rb6
+40.b4 e3 41.c5 Rb8 42.c6 Kg7 43.Kg1 Ne5 44.Rxa6 Rxb4 45.Rc1 e2
+46.c7 Rc4 47.Raa1 e1=Q+ 48.Rxe1 Nd3 49.Red1 Nf4 50.Ra4 Nh3+
+51.gxh3 Rxc7 52.Rd2 Kh6 53.Rda2 Rb7 54.Kg2 Rb1 55.Rh4+ 1-0

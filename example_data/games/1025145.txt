@@ -1,0 +1,22 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Eduard Meduna"]
+[Black "Yuri Balashov"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.Bg5 d5 3.Bxf6 gxf6 4.c4 c5 5.Nc3 cxd4 6.Qxd4 dxc4
+7.Qxd8+ Kxd8 8.e4 e6 9.Bxc4 Bb4 10.Ne2 Bd7 11.a3 Ba5 12.O-O-O
+Ke7 13.f4 Rc8 14.Bb3 b5 15.Kb1 a6 16.Rd3 Nc6 17.Rhd1 Ra7
+18.Rh3 Rh8 19.Rh6 Bd8 20.g4 Rb7 21.h4 Na5 22.Ba2 b4 23.axb4
+Rxb4 24.g5 fxg5 25.hxg5 Bc7 26.g6 fxg6 27.Rdh1 Nc4 28.Rxh7+
+Rxh7 29.Rxh7+ Kd8 30.Bxc4 Rxc4 31.Kc2 Bb6 32.Rh6 Be8 33.f5
+exf5 34.exf5 Rc6 35.fxg6 Bxg6+ 36.Kd2 Rd6+ 37.Ke1 Be3 38.Rh3
+Bd2+ 39.Kf2 Rb6 40.Rg3 Ke8 41.Nd5 Rd6 42.Nec3 Bh6 43.Rg4 Bg7
+44.Rb4 Be5 45.Kf3 Bf5 1/2-1/2

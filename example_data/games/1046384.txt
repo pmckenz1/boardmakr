@@ -1,0 +1,24 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Wolfgang Labahn"]
+[Black "Lubomir Ftacnik"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. b4 d5 2. Bb2 Bg4 3. Nf3 Nd7 4. c4 e6 5. e3 Ngf6 6. b5 Bd6
+7. d4 c6 8. Be2 cxb5 9. cxb5 Bb4+ 10. Nbd2 Bxf3 11. gxf3 O-O
+12. O-O Ne8 13. a4 f5 14. f4 h6 15. Ba3 Bxa3 16. Rxa3 g5
+17. fxg5 hxg5 18. f4 g4 19. Rc3 Kf7 20. Rf2 Ndf6 21. Qc2 Rh8
+22. Rg2 Rh3 23. Rg3 Rh7 24. Bd3 Kf8 25. Nb3 Nd6 26. Nc5 Kf7
+27. Rg2 Qa5 28. Nb3 Qb4 29. Rc7+ Kg6 30. Qc3 Qxc3 31. Rxc3
+Nfe4 32. Rcc2 Rh3 33. Rge2 b6 34. Rc6 Kf6 35. Nd2 Nxd2
+36. Rxd2 Nf7 37. Re2 Rah8 38. Rc7 g3 39. Rxa7 gxh2+ 40. Kh1
+R8h4 41. a5 bxa5 42. b6 Rh8 43. Rxa5 Rg8 44. Ra1 Nh6 45. b7
+Ng4 46. Rb1 Rb8 47. Ba6 Rg3 48. Rg2 Rxe3 49. Be2 Rc3 50. Bxg4
+fxg4 51. Kxh2 Kf5 52. Re2 Kxf4 53. Rxe6 Rh8+ 0-1

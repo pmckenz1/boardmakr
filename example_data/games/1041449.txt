@@ -1,0 +1,28 @@
+[Event "Hastings 1980/81"]
+[Site "Hastings ENG"]
+[Date "1980.12.30"]
+[EventDate "1980.01.05"]
+[Round "2"]
+[Result "0-1"]
+[White "Petar Popovic"]
+[Black "Eugenio Torre"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "162"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4
+Nc6 14.Nb3 a5 15.Be3 a4 16.Nbd2 Nb4 17.Bb1 Bd7 18.a3 Nc6
+19.Bd3 Qb8 20.Qe2 Na5 21.Reb1 Rc8 22.b4 axb3 23.Nxb3 Nc4
+24.Bc1 Ra4 25.Nbd2 Qa8 26.Nxc4 bxc4 27.Bc2 Ra5 28.d5 Ba4
+29.Ne1 Nd7 30.Rb4 Bb5 31.Rab1 Ba6 32.Ba4 Nc5 33.Bc6 Qa7 34.Nc2
+Bd8 35.Qg4 Nb3 36.Ne3 Nxc1 37.Rxc1 h5 38.Qxh5 Rxa3 39.Nf5 Ra2
+40.Qf3 Qc5 41.Be8 Bf6 42.Bxf7+ Kxf7 43.Rbxc4 Bxc4 44.Rxc4 Qxc4
+45.Nxd6+ Kf8 46.Nxc4 Rxc4 47.d6 Rd2 48.Qa3 Rcd4 49.Qc5 Rxd6
+50.g3 Kg8 51.h4 Kh7 52.Qc8 Rb6 53.Qg4 Kg8 54.Qc8+ Rd8 55.Qc4+
+Kh8 56.Kg2 Rb7 57.Kh3 Rf8 58.Kg4 Rbf7 59.Qe6 Re7 60.Qd6 Ree8
+61.h5 Rf7 62.Qc6 Rff8 63.Qd6 Kh7 64.Qd7 Bd8 65.Qc6 Re7 66.Qd6
+Kg8 67.Qd5+ Kh8 68.Qd6 Rfe8 69.Qc6 Re6 70.Qd7 Bb6 71.f3 Be3
+72.Kh3 Bh6 73.Kg4 R6e7+ 74.Qd6 Rf7 75.Qc5 Ref8 76.Qxe5 Rxf3
+77.Qc5 Bd2 78.h6 Bxh6 79.e5 R3f5 80.Qd6 Rg5+ 81.Kh3 Re8 0-1

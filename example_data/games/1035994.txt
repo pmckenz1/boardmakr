@@ -1,0 +1,23 @@
+[Event "Munich"]
+[Site "Munich GER"]
+[Date "1900.08.09"]
+[EventDate "1900.07.23"]
+[Round "14"]
+[Result "0-1"]
+[White "Johann Nepomuk Berger"]
+[Black "Amos Burn"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 d5 2.e3 c5 3.c4 e6 4.Nc3 Nf6 5.Nf3 Nc6 6.Bd3 Bd6 7.O-O
+O-O 8.dxc5 Bxc5 9.Qe2 dxc4 10.Bxc4 e5 11.Rd1 Qe7 12.e4 Bg4
+13.Be3 Nd4 14.Bxd4 Bxd4 15.Nd5 Nxd5 16.Bxd5 Rac8 17.Rac1 Rc7
+18.h3 Bxf3 19.Qxf3 Rfc8 20.Rxc7 Rxc7 21.Qe2 Qg5 22.Qd2 Qf6
+23.Rf1 g5 24.Qe2 Kg7 25.g3 Qb6 26.Rb1 h6 27.Kg2 Rc5 28.Bc4 Rc6
+29.b3 Rf6 30.Rf1 Qc5 31.Qd2 b5 32.Bd3 a6 33.Qe2 Qc3 34.Qc2
+Qxc2 35.Bxc2 Rc6 36.Bd3 Rc3 37.Rd1 Kf6 38.Kf3 Ke7 39.Rd2 Kd6
+40.Kg4 Kc5 41.Kh5 Bxf2 42.Rxf2 Rxd3 43.Rg2 Kd4 44.Kxh6 Kxe4
+45.Kxg5 Kf3 46.Rc2 e4 47.g4+ e3 48.Rc7 f6 49.Kxf6 e2 50.Re7
+Re3 0-1

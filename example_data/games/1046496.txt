@@ -1,0 +1,22 @@
+[Event "Extra League 1994/95, Czech Republic"]
+[Site "Extra League 1994/95, Czech Republic"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Milos Jirovsky"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6
+7. Qc2 Nbd7 8. b3 b6 9. Rd1 Bb7 10. Nc3 Rc8 11. e4 a5 12. Bf4
+Ba6 13. Bf1 Bb7 14. e5 Nh5 15. Be3 g6 16. cxd5 cxd5 17. Qd3
+Nb8 18. Ne2 Ba6 19. Qd2 Rc7 20. Bg5 Bxg5 21. Nxg5 Qe7 22. Rac1
+Rfc8 23. Rxc7 Rxc7 24. Nf3 Ng7 25. g4 Ne8 26. Rc1 Kg7 27. Nc3
+Bxf1 28. Kxf1 Qb4 29. Qb2 Rc6 30. Kg2 Nc7 31. h4 h6 32. Kg3
+Nb5 33. Nxb5 Qxb5 34. Qd2 Qb4 35. Qf4 Qe7 36. g5 h5 37. Ng1
+Kg8 38. Ne2 Qa3 39. Qf6 Rxc1 40. Qd8+ Kh7 41. Qxb8 Rc2 42. Nf4
+Qc1 43. Nh3 Qh1 0-1

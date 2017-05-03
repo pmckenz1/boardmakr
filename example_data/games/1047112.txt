@@ -1,0 +1,30 @@
+[Event "Pula UCROO"]
+[Site "Pula CRO"]
+[Date "1997.05.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Corina-Isabela Peptan"]
+[Black "Alisa Galliamova"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "174"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f3 Qc7 10.g4 Ne5 11.Bd3 h6 12.Bxf6 gxf6 13.f4
+h5 14.gxh5 Nxd3+ 15.Qxd3 Rxh5 16.Kb1 O-O-O 17.f5 Be7 18.Rdg1
+Rdh8 19.h3 d5 20.fxe6 fxe6 21.Rg7 dxe4 22.Nxe4 Re8 23.Qf3 Rh4
+24.Rd1 Qe5 25.Qc3+ Kb8 26.Nf3 Qxc3 27.Nxc3 Rxh3 28.Rxd7 Rxf3
+29.a4 Bc5 30.Rxb7+ Ka8 31.Ne4 Be3 32.Nd6 Rb8 33.Rbc7 Bd4
+34.Nc4 Rc3 35.Rgd7 e5 36.a5 Rxc4 37.Rxc4 Rxb2+ 38.Kc1 Rb8
+39.Rc6 Rf8 40.Rxa6+ Kb8 41.Rdd6 Rh8 42.Rxf6 e4 43.Rf1 Re8
+44.Kd2 Kb7 45.Rg6 Re7 46.c3 Be5 47.Rb1+ Ka7 48.Rbb6 e3 49.Kxe3
+Bxc3 50.Kd3 Be5 51.Ra6+ Kb8 52.Kc4 Bc7 53.Rg5 Re5 54.Rxe5 Bxe5
+55.Kb5 Kb7 56.Re6 Bg3 57.Re7+ Kb8 58.Ka6 Bf2 59.Rb7+ Kc8
+60.Rf7 Be3 61.Rf3 Bd4 62.Rb3 Bf2 63.Rb6 Kc7 64.Rb2 Be3 65.Re2
+Bg1 66.Re8 Bf2 67.Re2 Bg1 68.Rb2 Be3 69.Rb7+ Kc8 70.Re7 Bf2
+71.Kb5 Kb8 72.Kc6 Bg1 73.Rf7 Be3 74.Kb5 Bg1 75.Ka6 Be3 76.Rb7+
+Kc8 77.Rb1 Bf2 78.Kb5 Kb7 79.Rf1 Be3 80.Rf8 Bg1 81.Rf7+ Kb8
+82.Ka6 Be3 83.Rb7+ Kc8 84.Rb6 Kc7 85.Rb3 Bg1 86.Rb2 Be3 87.Re2
+Bg1 1/2-1/2

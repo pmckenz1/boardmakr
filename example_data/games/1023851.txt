@@ -1,0 +1,18 @@
+[Event "Riga Tal-mem"]
+[Site "Riga Tal-mem"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andrei Sokolov"]
+[Black "Vladimir Bagirov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 dxe4 5.Nxe4 Bb4+ 6.Bd2 Qxd4
+7.Bxb4 Qxe4+ 8.Be2 Nd7 9.Qd6 c5 10.Bc3 Ne7 11.Qd2 O-O 12.O-O-O
+Ng6 13.Nh3 Qxg2 14.Qe3 e5 15.Rhg1 Qc6 16.f4 exf4 17.Nxf4 Nf6
+18.Bf3 Qa6 19.Nd5 Nxd5 20.Bxd5 Bd7 21.h4 Rae8 22.Qxc5 Qxa2
+23.Rxg6 1-0

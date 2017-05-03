@@ -1,0 +1,25 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Vladimir Prudnikov"]
+[Black "Alexander Suglobov"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Be7 6. Bf4 d6
+7. Nxd4 O-O 8. Nxc6 bxc6 9. Nxe7+ Qxe7 10. f3 d5 11. e5 Nh5
+12. Qd2 Nxf4 13. Qxf4 f6 14. O-O-O fxe5 15. Qd2 a5 16. a3 Rf4
+17. Bd3 c5 18. Be4 Be6 19. Bxd5 Rd4 20. Bxe6+ Qxe6 21. Qc3 Qd6
+22. Rd3 Rxd3 23. cxd3 Rd8 24. Re1 Qh6+ 25. Kc2 Qxh2 26. Qxe5
+Qxg2+ 27. Kc3 Qxf3 28. Re3 Qf6 29. Kc4 Rd4+ 30. Kc3 Rd5
+31. Qxf6 gxf6 32. Kc4 Re5 33. Rh3 c6 34. d4 cxd4 35. Kxd4 Kg7
+36. Rc3 Rd5+ 37. Ke4 Re5+ 38. Kf4 Rb5 39. Rxc6 Rxb2 40. Rc5 a4
+41. Ra5 Kg6 42. Rxa4 h5 43. Kg3 Kg5 44. Ra8 h4+ 45. Kh3 Rb3+
+46. Kh2 f5 47. a4 Ra3 48. a5 Kg4 49. Rg8+ Kf3 50. Ra8 Kf2
+51. a6 f4 52. a7 f3 53. Kh3 Ra4 54. Kh2 Kf1 55. Kh1 Ra3
+56. Rh8 Rxa7 57. Rxh4 Re7 58. Ra4 0-1

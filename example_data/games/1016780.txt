@@ -1,0 +1,23 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Attila Groszpeter"]
+[Black "Andras Adorjan"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Bg7 5.Bxf6 Bxf6 6.cxd5 c6 7.e3
+cxd5 8.Bb5+ Bd7 9.Bxd7+ Qxd7 10.Qf3 O-O 11.Qxd5 Rd8 12.Qxd7
+Nxd7 13.f4 Rac8 14.Nf3 b5 15.Kd2 a6 16.Rac1 Nb6 17.b3 e6
+18.Ne2 Nd5 19.Rxc8 Rxc8 20.Rc1 Rxc1 21.Nxc1 Bd8 22.Ne5 Ba5+
+23.Kd3 Be1 24.g3 f5 25.Nc6 Bf2 26.e4 fxe4 27.Kxe4 Kf7 28.Nd3
+Bg1 29.Kf3 Nc3 30.a3 Nb1 31.a4 bxa4 32.bxa4 Nc3 33.Nc5 a5
+34.h3 h6 35.Nxa5 Bxd4 36.Nab3 Bg1 37.a5 Nb5 38.Nd3 Kf6 39.Ne5
+g5 40.Ng4+ Kg6 41.Ne3 h5 42.fxg5 Kxg5 43.h4+ Kf6 44.a6 e5
+45.Nc1 Na7 46.Ne2 Bxe3 47.Kxe3 Kf5 48.Kf3 Nb5 49.Nc3 Na7
+50.Ne4 Ke6 51.g4 1-0

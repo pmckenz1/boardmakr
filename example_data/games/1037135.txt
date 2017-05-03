@@ -1,0 +1,22 @@
+[Event "Graested (Denmark)"]
+[Site "Graested DEN"]
+[Date "1990.02.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Jonny Hector"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.e4 d6 2.Nc3 g6 3.d4 Bg7 4.f4 Nc6 5.Be3 Nf6 6.h3 O-O 7.g4 e5
+8.dxe5 dxe5 9.f5 Re8 10.Bb5 Bd7 11.g5 Nh5 12.Qg4 Nd4 13.O-O-O
+c6 14.Be2 Qb6 15.Kb1 Rad8 16.Nf3 Bc8 17.Rhf1 Nf4 18.Bc4 gxf5
+19.Qg3 Ng6 20.exf5 Nxf5 21.Bxb6 Rxd1+ 22.Rxd1 Nxg3 23.Bxa7
+Bxh3 24.Rg1 e4 25.Ne1 Nf5 26.Bc5 Ne5 27.Be2 Nd7 28.Rh1 Nxc5
+29.Rxh3 Ne6 30.Bg4 Nfd4 31.Rh5 e3 32.Ng2 Nc5 33.Kc1 Ne4
+34.Nxe3 Ng3 35.Rh3 Rxe3 36.Nd1 Nge2+ 37.Bxe2 Rxh3 38.Bc4 Rh1
+39.Kd2 Rh2+ 40.Kd3 Ne6 41.Ne3 Rh3 42.Ke4 Bxb2 43.Nf5 Kf8
+44.Nd6 b5 45.Bb3 0-1

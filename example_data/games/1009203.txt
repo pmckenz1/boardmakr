@@ -1,0 +1,26 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Matthias Wahls"]
+[Black "Konstantin Zaivelevich Lerner"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O h6 9. Be3 Be7 10. f4 Bd7 11. h3 b5 12. Bd3
+Nxd4 13. Bxd4 Bc6 14. Qe3 O-O 15. Ne2 Qc7 16. Ng3 e5 17. fxe5
+dxe5 18. Bb6 Qb7 19. Nf5 Nd5 20. Nxe7+ Nxe7 21. Ba5 Ng6
+22. Rhe1 Nf4 23. Bf1 Rfe8 24. h4 Bd7 25. g3 Ng6 26. Qb6 Qxb6
+27. Bxb6 Bg4 28. Rd6 Re6 29. Rxe6 Bxe6 30. b3 Nf8 31. Rd1 Nd7
+32. Rd6 Nxb6 33. Rxb6 Kf8 34. Kb2 Ke7 35. Ka3 f5 36. Bh3 g6
+37. h5 gxh5 38. exf5 Bd5 39. Rxh6 Rg8 40. f6+ Kf7 41. Rxh5
+Kxf6 42. Rf5+ Ke6 43. Rf8+ Kd6 44. Rxg8 Bxg8 45. Kb4 e4
+46. Kc3 Ke5 47. a3 a5 48. b4 axb4+ 49. axb4 Bf7 50. Bf1 Be8
+51. Kd2 Bc6 52. Ke3 Bd7 53. Bg2 Bf5 54. c3 Bg6 55. g4 Kd5
+56. Bf1 Be8 57. Kf4 Bd7 58. g5 Be8 59. Be2 Bc6 60. Kf5 Bd7+
+61. Kf6 e3 62. g6 1-0

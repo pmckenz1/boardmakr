@@ -1,0 +1,19 @@
+[Event "London GLC"]
+[Site "London ENG"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "De La Mothe"]
+[Black "Michael John Basman"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 g5 2. d4 h6 3. Bd3 d6 4. Ne2 c5 5. c3 Nc6 6. Be3 b6
+7. Nd2 Nf6 8. b4 Qc7 9. Qb3 Bg7 10. a4 Bd7 11. Rc1 Rd8 12. Bb1
+Ng4 13. Nf1 Qb8 14. Nfg3 h5 15. Ba2 e6 16. Bxg5 cxd4 17. Bxd8
+Qxd8 18. Nf5 d3 19. Nxg7+ Kf8 20. Nf5 dxe2 21. h3 Nge5
+22. Nxd6 Qg5 23. Kxe2 Qxg2 24. Qc2 Qf3+ 25. Kd2 Qxf2+ 26. Kd1
+Qf3+ 27. Kd2 Rg8 0-1

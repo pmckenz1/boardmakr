@@ -1,0 +1,21 @@
+[Event "Thessaloniki olm ;BIG"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.21"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Ian Rogers"]
+[ECO "A73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 c5
+7. d5 e6 8. O-O exd5 9. cxd5 Na6 10. Nd2 Nc7 11. a4 Nfe8
+12. Nc4 f5 13. exf5 Bxf5 14. Be3 Na6 15. Qd2 Nb4 16. g4 Bc8
+17. f3 b6 18. Bg5 Qd7 19. a5 b5 20. Nxb5 Qxb5 21. Nb6 Qxe2
+22. Qxe2 axb6 23. axb6 Rb8 24. Ra7 Rxb6 25. Be7 Nxd5 26. Qc4
+Be6 27. Bxf8 Ndc7 28. Qf4 Bxf8 29. Re1 Rb4 30. Qg5 Rxb2
+31. Qd8 Bd5 32. Qd7 Rb8 33. Rxe8 Rxe8 34. Rxc7 Re7 35. Qxe7
+Bxe7 36. Rxe7 1/2-1/2

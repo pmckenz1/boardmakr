@@ -1,0 +1,15 @@
+[Event "1/2 final"]
+[Site "Leningrad URS"]
+[Date "1938.05.28"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Isaak Mazel"]
+[Black "Mikhail Botvinnik"]
+[ECO "A19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.f4 Nc6 5.Nf3 d5 6.e5 Ng4 7.cxd5
+exd5 8.Qb3 Nb4 9.a3 c4 10.Qa4+ Bd7 11.Qd1 Qb6 0-1

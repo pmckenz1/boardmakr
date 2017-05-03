@@ -1,0 +1,22 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Petrus Franciscus van Hoorn"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. cxd5 Nxg5 6. h4 Ne4
+7. Nxe4 Qxd5 8. Nc3 Qa5 9. h5 Bg7 10. h6 Bf6 11. e4 c5 12. e5
+cxd4 13. Bb5+ Nc6 14. Qxd4 O-O 15. Bxc6 Bxe5 16. Qe3 bxc6
+17. Nf3 Bxc3+ 18. bxc3 Ba6 19. Ne5 Qd5 20. f3 f6 21. Ng4 Rad8
+22. Nf2 Rd6 23. Rh4 Rfd8 24. Rd1 Qb5 25. Rxd6 Rxd6 26. Rd4
+Qb1+ 27. Nd1 Rxd4 28. cxd4 Qb4+ 29. Kf2 Bc4 30. Nc3 Kf7 31. g4
+Qb2+ 32. Kg3 Bxa2 33. g5 Qb8+ 34. Kg2 Bd5 35. gxf6 exf6
+36. Ne4 Qc7 37. Qa3 Qe7 38. Qe3 g5 39. Qd3 Bxe4 40. fxe4 Kg6
+41. d5 cxd5 42. exd5+ Kxh6 43. d6 Qd7 44. Qh3+ 1-0

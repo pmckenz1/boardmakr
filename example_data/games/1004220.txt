@@ -1,0 +1,23 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Isaac Kashdan"]
+[Black "Erno Gereben"]
+[ECO "D64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 O-O
+7. Rc1 c6 8. Qc2 Re8 9. a3 a6 10. cxd5 exd5 11. Bd3 Nf8
+12. O-O Ne4 13. Bf4 Nxc3 14. Qxc3 Bd6 15. Bg3 Bxg3 16. hxg3
+Re6 17. Rfe1 Rh6 18. e4 dxe4 19. Bxe4 Rd6 20. Rcd1 Ne6 21. Rd2
+g6 22. Qe3 Nc7 23. Qh6 Qf8 24. Qh4 Be6 25. Bc2 h6 26. Re3 Rad8
+27. Bb3 c5 28. Qe4 cxd4 29. Rxd4 Bxb3 30. Rxb3 Ne6 31. Rxd6
+Qxd6 32. Qe3 Qd1+ 33. Kh2 b5 34. Rc3 Qb1 35. Rc6 Rd1 36. g4 h5
+37. Rc8+ Kh7 38. Qe5 Rh1+ 39. Kg3 h4+ 40. Nxh4 Ng7 41. Nf3 Qd3
+42. Qb8 Nh5+ 43. gxh5 Qf5 44. Rh8+ Kg7 45. Qf8+ Kf6 46. Qd8+
+Kg7 47. h6+ 1-0

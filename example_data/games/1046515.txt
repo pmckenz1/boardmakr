@@ -1,0 +1,19 @@
+[Event "It (open), Hamburg (Germany)"]
+[Site "It (open), Hamburg (Germany)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Vladimir Chuchelov"]
+[Black "Lubomir Ftacnik"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7
+7. Re1 d5 8. cxd5 exd5 9. d4 O-O 10. b3 Ne4 11. Bb2 Bf6
+12. Rc1 Na6 13. e3 Qe7 14. Re2 Rfd8 15. dxc5 bxc5 16. Na4 Rac8
+17. Ne1 Bxb2 18. Rxb2 d4 19. exd4 Rxd4 20. Qe2 Nb4 21. Nc3 Re8
+22. Nxe4 Bxe4 23. a3 Qd7 24. Bxe4 Rdxe4 25. Qf1 Qd4 26. Rbb1
+Na2 27. Rc4 Qd5 28. Ng2 Rxc4 29. bxc4 Qd4 30. Qe2 1-0

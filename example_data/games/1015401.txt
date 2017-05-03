@@ -1,0 +1,23 @@
+[Event "Najdorf Buenos Aires (ARG)"]
+[Site "Najdorf Buenos Aires (ARG)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Pablo Ricardi"]
+[Black "Utut Adianto"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Nd7 7.O-O a6
+8.c4 dxc4 9.d5 Ne7 10.Nc3 b5 11.Nh4 Nxe5 12.d6 N7g6 13.Nxf5
+exf5 14.f4 Nd3 15.Bf3 Bxd6 16.Bc6+ Kf8 17.Bxa8 Qxa8 18.b3 Nh4
+19.Qe2 g5 20.fxg5 f4 21.Bd2 Be5 22.bxc4 bxc4 23.Rab1 Kg7
+24.Qg4 Ng6 25.Qf3 Bd4+ 26.Kh1 Qxf3 27.gxf3 Nf2+ 28.Rxf2 Bxf2
+29.Ne4 Bd4 30.Nd6 Rd8 31.Nxc4 Rd5 32.h4 Nxh4 33.Bxf4 Rf5
+34.Bg3 Rxf3 35.Bxh4 Rh3+ 36.Kg2 Rxh4 37.Rb6 Rg4+ 38.Kf3 Rxg5
+39.Rxa6 h5 40.Kf4 f6 41.Ra3 Kg6 42.Rh3 Rg4+ 43.Kf3 Be5 44.Nb6
+c4 45.Nd5 c3 46.Rh1 Rd4 47.Ne3 Rf4+ 48.Ke2 Ra4 49.Ra1 h4 50.a3
+h3 0-1

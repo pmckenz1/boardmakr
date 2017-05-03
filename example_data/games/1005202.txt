@@ -1,0 +1,20 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Gyula Lakat"]
+[Black "Wolfgang Langer"]
+[ECO "A30"]
+[WhiteElo "2060"]
+[BlackElo "2125"]
+[PlyCount "67"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 e5 4. e3 Nge7 5. Nc3 d6 6. a3 g6
+7. Nge2 Bg7 8. d3 O-O 9. O-O a6 10. Rb1 Rb8 11. b4 b6 12. Qc2
+Kh8 13. Bd2 Be6 14. Nd5 Qd7 15. Nec3 h5 16. h4 Bh3 17. b5 axb5
+18. Rxb5 Bxg2 19. Kxg2 Nxd5 20. Nxd5 Ne7 21. Nxe7 Qxe7 22. e4
+f5 23. Bg5 Bf6 24. f4 Bxg5 25. hxg5 Ra8 26. Qb2 fxe4 27. dxe4
+Qf7 28. Rxb6 Qxc4 29. Rxd6 Qxe4+ 30. Kh2 Rab8 31. Qc3 h4
+32. Kg1 Rb1 33. Rdd1 h3 34. Qf3 0-1

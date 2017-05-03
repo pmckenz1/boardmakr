@@ -1,0 +1,21 @@
+[Event "Bs As GP"]
+[Site "Bs As GP"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Andres Rodriguez Vila"]
+[Black "Sergio Arenas"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Bd6
+7.O-O Ne7 8.dxc5 Bxc5 9.Nb3 Bd6 10.Bg5 O-O 11.Bh4 Bg4 12.Be2
+Qc7 13.Bg3 Rad8 14.Nfd4 Bxe2 15.Qxe2 a6 16.Rfe1 Bxg3 17.hxg3
+Nxd4 18.Nxd4 Nc6 19.Rad1 Qd7 20.Qd3 Nxd4 21.Qxd4 Rfe8 22.Rxe8+
+Qxe8 23.c4 Qe4 24.cxd5 Qxd4 25.Rxd4 Kf8 26.a4 a5 27.d6 f6
+28.f4 f5 29.Rd5 g6 30.Rxa5 Rxd6 31.Rb5 b6 32.Kh2 Kg7 33.b4 h6
+34.a5 bxa5 35.bxa5 Rd1 36.Rb7+ Kf6 37.a6 Ra1 38.Ra7 h5 39.Ra8
+Kg7 40.a7 Kh7 41.g4 fxg4 42.Kg3 Ra2 43.Kh4 Ra5 44.Kg3 1/2-1/2

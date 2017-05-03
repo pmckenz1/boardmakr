@@ -1,0 +1,23 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Petronio Roca"]
+[Black "Ben Flores"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. Nf3 c5 2. e4 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. g3 O-O
+12. Bg2 Rb8 13. c3 Bg5 14. Nc2 a5 15. h4 Bh6 16. Nce3 Ne7
+17. Qd3 Nxd5 18. Nxd5 Be6 19. Rd1 Kh8 20. O-O g6 21. Rfe1 f5
+22. exf5 gxf5 23. Bh3 e4 24. Qd4+ Bg7 25. Qe3 Be5 26. Nf4 Bg8
+27. Rd2 Rb7 28. f3 Rg7 29. Kh2 Bxa2 30. fxe4 fxe4 31. Nh5 Rxg3
+32. Nxg3 Qxh4 33. Rg2 Be6 34. Qxe4 Qxh3+ 35. Kg1 Bxg3 36. Qd4+
+Kg8 37. Re3 Rf1+ 38. Kxf1 Qh1+ 39. Rg1 Bh3+ 40. Ke2 Qh2+
+41. Kd3 Bf5+ 42. Re4 Bxe4+ 43. Kxe4 h5 44. Kf5 Kh7 45. Qa7+
+Kg8 46. Kg6 Qc2+ 47. Kf6 Qf2+ 1-0

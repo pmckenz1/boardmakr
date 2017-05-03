@@ -1,0 +1,25 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.05.14"]
+[EventDate "?"]
+[Round "37"]
+[Result "0-1"]
+[White "George Hatfeild Gossip"]
+[Black "Dionisio M Martinez"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Re1 Nd6
+7.dxe5 Nxb5 8.a4 Nbd4 9.Nxd4 O-O 10.Nf5 d5 11.Nxe7+ Qxe7
+12.Nc3 Be6 13.Bf4 Qb4 14.Qd2 Rfe8 15.Nb5 Qxd2 16.Bxd2 Rac8
+17.c3 a6 18.Nd4 Na5 19.Rad1 Bd7 20.Bf4 c5 21.Nf3 Be6 22.Ng5
+Nb3 23.Nxe6 fxe6 24.Rd3 c4 25.Rg3 b5 26.axb5 axb5 27.Bh6 Re7
+28.Bg5 Rf7 29.Be3 b4 30.f4 bxc3 31.bxc3 g6 32.Rf3 Rd7 33.Rd1
+Ra8 34.Rf2 Rad8 35.g3 Kf7 36.Ra2 Rb8 37.Kf2 Rb5 38.Ke2 Rdb7
+39.Bd4 Ra5 40.Rxa5 Nxa5 41.Ke3 Rb2 42.Rd2 Rxd2 43.Kxd2 Kg7
+44.Bb6 Nc6 45.h4 h6 46.Bc5 h5 47.Ke3 Kf7 48.Kd2 Ke8 49.Kc2 Kd7
+50.Kb2 Nb8 51.Ba7 Na6 52.Be3 Kc6 53.Kc2 Nc5 54.Bf2 Ne4 55.Be1
+Kc5 56.Kc1 d4 57.cxd4+ Kxd4 58.g4 hxg4 59.h5 gxh5 60.f5 Kxe5
+61.fxe6 Kxe6 0-1

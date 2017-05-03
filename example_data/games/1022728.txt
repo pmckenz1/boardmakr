@@ -1,0 +1,21 @@
+[Event "10, Moscow"]
+[Site "10, Moscow"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Simagin"]
+[Black "Vladimir Bagirov"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d5 2.c4 c6 3.e3 Nf6 4.Nc3 g6 5.Nf3 Bg7 6.Bd3 O-O 7.O-O
+Bf5 8.Bxf5 gxf5 9.Qb3 Qb6 10.Qc2 e6 11.b3 Nbd7 12.Bb2 Rac8
+13.a4 a5 14.Ba3 Rfe8 15.Rab1 Ne4 16.Ne2 c5 17.Rfd1 cxd4
+18.Nexd4 Qa6 19.Nb5 Nb6 20.Nd2 Nxd2 21.Qxd2 dxc4 22.Bb2 Bxb2
+23.Qxb2 Nd5 24.Qe5 c3 25.Rbc1 Red8 26.g4 f6 27.Qg3 Kh8 28.Rd4
+c2 29.Rd2 e5 30.Rdxc2 Rxc2 31.Rxc2 fxg4 32.Rc4 Qe6 33.Qh4 Nxe3
+34.fxe3 Rd1+ 35.Kg2 Qd5+ 36.e4 Rd2+ 37.Kg1 Rd1+ 38.Kg2 Rd2+
+39.Kg1 Rd1+ 1/2-1/2

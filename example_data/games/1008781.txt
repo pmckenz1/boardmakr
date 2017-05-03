@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Peter K Wells"]
+[Black "Bogdan Lalic"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5
+Be7 7. e3 Nb6 8. Ne5 Nfd7 9. Bf4 Nxe5 10. Bxe5 O-O 11. Bd3 Bd6
+12. Bxd6 Qxd6 13. Qc2 g6 14. Nb5 Qb4+ 15. Qd2 Qxd2+ 16. Kxd2
+c6 17. Nd6 a5 18. Rhc1 1/2-1/2

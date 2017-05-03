@@ -1,0 +1,24 @@
+[Event "Copenhagen (Denmark)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Sergey Kishnev"]
+[Black "Gerardo F Barbero"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nbd7 8.Qc2 c6 9.Rd1 Qe7 10.d5 c5 11.Rb1 Ne8 12.Bd3 Ndf6 13.Re1
+Nh5 14.g3 f5 15.exf5 gxf5 16.Nh4 Qf6 17.Ng2 Kh8 18.f4 e4
+19.Be2 Qg6 20.Qd1 Bd4+ 21.Be3 Bxe3+ 22.Nxe3 Nxf4 23.Bf1 Nh5
+24.Ng2 Nef6 25.Be2 Bd7 26.Qd2 Rae8 27.Bxh5 Qxh5 28.Nf4 Qh6
+29.h3 Rg8 30.Qf2 Re7 31.Re3 Reg7 32.Nce2 Bc8 33.Kg2 Rf7 34.b4
+b6 35.bxc5 bxc5 36.Ne6 Nh5 37.N2f4 Nxf4+ 38.Nxf4 Qf6 39.Rb8
+Qe5 40.Reb3 Re7 41.Qe3 Qd4 42.Qe2 e3 43.Kh2 Re4 44.Rd3 Qe5
+45.Rd1 Rd4 46.Rxd4 cxd4 47.Qh5 d3 48.Rxc8 Qb2+ 49.Kh1 Qc1+
+50.Kh2 Qb2+ 51.Kh1 Rxc8 52.Qxf5 Rb8 53.Nxd3 Qb1+ 54.Kg2 Rb2+
+55.Kf3 Rf2+ 0-1

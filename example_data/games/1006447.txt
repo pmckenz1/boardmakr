@@ -1,0 +1,16 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.02.29"]
+[EventDate "2000.02.26"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Myo Naing"]
+[Black "Tze-Meng Mok"]
+[ECO "B06"]
+[WhiteElo "2545"]
+[BlackElo "2270"]
+[PlyCount "25"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d5 4. exd5 Qxd5 5. Nf3 c5 6. Na3 cxd4
+7. Nb5 Na6 8. cxd4 Nf6 9. Be2 O-O 10. O-O Bd7 11. Nc3 Qa5
+12. Ne5 Be6 13. Bf3 1/2-1/2

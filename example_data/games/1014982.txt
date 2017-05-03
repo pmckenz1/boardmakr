@@ -1,0 +1,19 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.30"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Ruben Gunawan"]
+[Black "Utut Adianto"]
+[ECO "B99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 a6 6.Bg5 e6 7.f4
+Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.Bd3 b5 11.Rhe1 Bb7 12.Qg3 O-O-O
+13.Bxb5 axb5 14.Ndxb5 Qb6 15.e5 dxe5 16.fxe5 Nd5 17.Bxe7 Nxe7
+18.Nd6+ Kb8 19.Nxf7 Rhf8 20.Nxd8 Rxd8 21.Qxg7 Nd5 22.Ne4 Nc5
+23.Nxc5 Qxc5 24.Qxh7 Rc8 25.Kb1 Qb6 26.Ka1 Rc7 27.Qg8+ Bc8
+28.Rd3 Nb4 29.Rb3 Nxc2+ 30.Kb1 Nb4 31.a3 1-0

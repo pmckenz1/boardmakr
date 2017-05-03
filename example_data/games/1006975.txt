@@ -1,0 +1,20 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.26"]
+[EventDate "1922.??.??"]
+[Round "17"]
+[Result "1-0"]
+[White "Heinrich Wolf"]
+[Black "David Przepiorka"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5
+7. Bb3 d6 8. d3 Na5 9. Ne2 Nxb3 10. axb3 c5 11. Bd2 O-O
+12. Ng3 Qc7 13. Qe2 Re8 14. h3 Bf8 15. Nh4 d5 16. Bg5 Qc6
+17. Qf3 dxe4 18. dxe4 Re6 19. Rad1 Bb7 20. Rfe1 c4 21. Nhf5
+Rc8 22. bxc4 bxc4 23. Re2 a5 24. c3 Nd7 25. Red2 Nc5 26. Rd8
+Re8 27. R8d6 Bxd6 28. Rxd6 Qc7 29. Bf6 Re6 30. Qg4 g6 31. Qg5
+Rxf6 32. Qxf6 Ne6 33. Nh6+ Kf8 34. Rxe6 1-0

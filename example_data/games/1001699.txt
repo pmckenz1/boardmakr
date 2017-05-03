@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.06.02"]
+[EventDate "1882.05.10"]
+[Round "19"]
+[Result "1/2-1/2"]
+[White "Alexander Wittek"]
+[Black "Adolf Schwarz"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. d4 e6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. c3 Nf6 6. Bd3 a6
+7. O-O c4 8. Bc2 b5 9. Nbd2 Bd6 10. Bxd6 Qxd6 11. e4 Qc7
+12. e5 Nd7 13. a3 Bb7 14. Ng5 Nf8 15. f4 h6 16. Nh3 g6 17. Nf3
+Nd7 18. Qe1 Nb6 19. Nf2 h5 20. Ng5 Ne7 21. Nd1 Nbc8 22. Ne3
+Nf5 23. Bxf5 gxf5 24. Qh4 Ne7 1/2-1/2

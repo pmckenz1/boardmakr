@@ -1,0 +1,22 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.16"]
+[EventDate "1905.08.14"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Wilhelm Schwan"]
+[Black "David Przepiorka"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. f4 c5 2. e3 d5 3. d4 e6 4. Nf3 Bd6 5. c3 Nc6 6. Bd3 Nf6
+7. O-O Qc7 8. Ne5 b6 9. Nd2 Bb7 10. Qe2 O-O 11. g4 Ne7 12. Qg2
+Bxe5 13. fxe5 Nd7 14. Nf3 f6 15. Qh3 h6 16. g5 Nf5 17. gxf6
+gxf6 18. Bxf5 exf5 19. e6 Nb8 20. Nh4 Ba6 21. Rf2 Bd3 22. Nxf5
+Qh7 23. Rg2+ Kh8 24. Nxh6 Nc6 25. Bd2 Ne7 26. Rg3 Ng6 27. Nf7+
+Kg7 28. Qxh7+ Kxh7 29. e4 Bxe4 30. Rh3+ Kg8 31. Rf1 f5 32. Rg3
+Rxf7 33. exf7+ Kxf7 34. dxc5 bxc5 35. Be3 c4 36. Rh3 Rg8
+37. Kf2 Ne5 38. Rh7+ Kg6 39. Rh6+ Kf7 40. Rh7+ Kg6 41. Rh6+
+1/2-1/2

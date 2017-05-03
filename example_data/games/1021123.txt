@@ -1,0 +1,21 @@
+[Event "Sao Paulo op"]
+[Site "Sao Paulo op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andres Rodriguez Vila"]
+[Black "Rafael Duailibe Leitao"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 d6 5.e4 O-O 6.Bd3 Qe8 7.O-O
+h6 8.Be3 Nbd7 9.h3 e5 10.c3 Nh5 11.Re1 Nf4 12.Bf1 g5 13.dxe5
+dxe5 14.a4 Kh8 15.a5 a6 16.g3 Ng6 17.Nh2 Nf6 18.Qb3 Qc6 19.Ra4
+Be6 20.Bc4 Bxh3 21.Rb4 Nxe4 22.Nxe4 Qxe4 23.Bd5 Qf5 24.Bxb7
+Rad8 25.Bxa6 Qd7 26.Bb5 c6 27.Bc4 f5 28.Rb7 Qd6 29.Qb4 Qf6
+30.Bc5 f4 31.Bxf8 Bxf8 32.Rf7 Qxf7 33.Bxf7 Bxb4 34.cxb4 Kg7
+35.Bxg6 Kxg6 36.Nf3 Kf5 37.Nxe5 Re8 38.a6 Ra8 39.Nxc6 Rxa6
+40.b5 Rb6 41.Kh2 Bg4 42.Ne7+ 1-0

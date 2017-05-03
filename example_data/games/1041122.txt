@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "05"]
+[Date "1958.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ludwig Rellstab"]
+[Black "Erich Eliskases"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bb5+ Nbd7 5.d3 a6 6.Ba4 e5 7.O-O
+Be7 8.Re1 O-O 9.d4 b5 10.Bc2 Bb7 11.Nbd2 Qc7 12.Nf1 cxd4
+13.cxd4 Rac8 14.Bd3 exd4 15.Nxd4 Rfe8 16.Bf4 Bf8 17.Rc1 Qb6
+18.Rxc8 Rxc8 19.Nb3 Ne5 20.Be3 Qc7 21.Bd4 d5 22.exd5 Nxd3
+23.Qxd3 Nxd5 24.Qg3 Qxg3 25.hxg3 Nb4 26.Ne3 Nxa2 27.Nf5 Bd5
+28.Nc5 Nb4 29.Ne7+ Bxe7 30.Rxe7 Nc6 31.Rd7 Nxd4 32.Rxd5 Ne6
+1/2-1/2

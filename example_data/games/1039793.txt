@@ -1,0 +1,18 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.06.14"]
+[EventDate "?"]
+[Round "22"]
+[Result "0-1"]
+[White "James Mortimer"]
+[Black "Oldrich Duras"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e5 7.dxe5
+Nxe5 8.Qa4+ Bd7 9.Bb5 Nd3+ 10.Kf1 Nxc1+ 11.Bxd7+ Qxd7 12.Qc2
+Qb5+ 13.Ke1 Nd3+ 14.Kd1 Ne4 15.a4 Ndxf2+ 16.Ke1 Nd3+ 17.Kd1
+Nxb2+ 18.Kc1 Nd3+ 19.Kd1 Qb6 20.Qe2 Qb3+ 21.Qc2 Ndf2+ 22.Kc1
+Qxc2+ 23.Kxc2 Nxh1 24.Nd2 Nxd2 25.Kxd2 Nf2 26.Re1+ Ne4+ 0-1

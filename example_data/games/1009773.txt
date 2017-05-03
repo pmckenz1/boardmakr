@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Peter Jovanovic"]
+[Black "Ian Clive Rout"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7
+7. Re1 Bc5 8. c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 Qd7 12. a4 g5
+13. Bg3 O-O-O 14. axb5 axb5 15. dxe5 Nh5 16. exd6 Nxg3
+17. hxg3 Qg4 18. Nd4 Qxd1 19. Rxd1 Nxd4 20. cxd4 Bxe4 21. Nc3
+Bc6 22. d5 Be8 23. Ra8+ Kd7 24. Rxd8+ Kxd8 25. dxc7+ Bxc7
+26. Ne4 f5 27. Nc5 Be5 28. Rd2 Rh7 29. d6 Bd7 30. Be6 Bxe6
+31. Nxe6+ Ke8 32. Nc5 Bf6 33. d7+ Kf8 34. d8=Q+ Bxd8 35. Rxd8+
+1-0

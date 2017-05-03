@@ -1,0 +1,18 @@
+[Event "Balassagyarmat (Hungary)"]
+[Site "Balassagyarmat HUN"]
+[Date "1990.09.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Vitaly Tseshkovsky"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 c6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.b3 Qa5
+8.Bb2 Qh5 9.Nbd2 Bg4 10.Re1 Nbd7 11.Nh4 g5 12.Nhf3 h6 13.Qc2
+Bh3 14.e4 Ng4 15.Nf1 Rac8 16.Rad1 Rfd8 17.Qe2 c5 18.Rd2 Nf8
+19.e5 cxd4 20.Nxd4 e6 21.exd6 Rxd6 22.Red1 Bxg2 23.Kxg2 Nf6
+24.Qxh5 Nxh5 25.Nb5 1/2-1/2

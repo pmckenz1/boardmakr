@@ -1,0 +1,22 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "L Reich"]
+[Black "Herman Steiner"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. a3 Be7
+7. Nf3 O-O 8. Rc1 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3
+12. Rxc3 e5 13. dxe5 Nxe5 14. Nxe5 Qxe5 15. f4 Qe4 16. Ba2 Bf5
+17. g4 Rad8 18. Qe2 Bc8 19. h3 Rfe8 20. Bb1 Qe7 21. Kg2 b6
+22. Kg3 c5 23. Qc2 g6 24. e4 Rd4 25. Rd1 Red8 26. Rxd4 Rxd4
+27. b4 Bb7 28. bxc5 Bxe4 29. Qe2 bxc5 30. Re3 f5 31. Qb5 Kg7
+32. g5 h6 33. h4 Kh7 34. Qa6 h5 35. Ba2 c4 36. Bxc4 Qc7
+37. Rxe4 Rxe4 38. Bg8+ Kxg8 39. Qxg6+ Kf8 40. Qh6+ Ke7
+41. Qg7+ Kd8 0-1

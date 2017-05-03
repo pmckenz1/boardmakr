@@ -1,0 +1,18 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "E E Middleton"]
+[Black "Wilhelm Kunze"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5
+7. exd5 Bd6 8. d4 Nh5 9. O-O Qxh4 10. Qe1 Qxe1 11. Rxe1 O-O
+12. Nc3 Bf5 13. Ne4 f6 14. Nxd6 cxd6 15. Nd3 Bxd3 16. Bxd3 f5
+17. Re7 b6 18. Bd2 a5 19. Rae1 Na6 20. c3 Nb8 21. Rb7 Nf6
+22. Bxf5 Rf7 23. Rxf7 Kxf7 24. Bxf4 Nbd7 25. Bxd6 1-0

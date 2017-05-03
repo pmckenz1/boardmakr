@@ -1,0 +1,20 @@
+[Event "Bs As GP II"]
+[Site "Bs As GP II"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Andres Rodriguez Vila"]
+[Black "Sergio Slipak"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.c3 Nf6 5.d3 g6 6.O-O Bg7 7.Nbd2
+O-O 8.Re1 a6 9.Ba4 Nd7 10.b4 a5 11.b5 Ne7 12.Ba3 h6 13.Nc4 Kh7
+14.Rb1 b6 15.d4 exd4 16.cxd4 Re8 17.e5 dxe5 18.dxe5 Nf5 19.Qd5
+Nxe5 20.Qxa8 Nxc4 21.Rxe8 Qxe8 22.Re1 Qd7 23.Rd1 Nfd6 24.Bxd6
+Nxd6 25.Bb3 Qxb5 26.Rxd6 cxd6 27.Qxc8 a4 28.Bd1 Qd5 29.Qc2 b5
+30.h4 Bf6 31.Be2 Kg7 32.g3 h5 33.Kg2 Kg8 34.Qb1 b4 35.Qxb4
+Qxa2 36.Bc4 Qc2 37.Qb5 Kg7 38.Qd5 1-0

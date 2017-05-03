@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Roger Mahach"]
+[Black "Tim Mirabile"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 a6 6. a3 Be7
+7. e4 d6 8. Be2 O-O 9. Be3 Qc7 10. Rc1 Bd7 11. O-O Nc6
+12. Nxc6 Bxc6 13. f3 Qa5 14. Qe1 Rfc8 15. Nd5 Qxe1 16. Nxe7+
+Kf8 17. Rfxe1 Kxe7 18. Red1 b5 19. Bg5 bxc4 20. Bxc4 Bb5
+21. Bxb5 axb5 22. Bxf6+ Kxf6 23. Rxc8 Rxc8 24. Rxd6 Rc1+
+25. Kf2 Rc2+ 26. Kf1 Rxb2 27. Rd3 g5 28. Kg1 h5 29. h3 h4
+30. Rd7 Rb3 31. Rb7 Ke5 32. Rxf7 Rxa3 33. Rg7 Kf4 34. Kh2 b4
+35. Rb7 b3 36. Rb5 e5 0-1

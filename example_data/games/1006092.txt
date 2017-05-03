@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "0-1"]
+[White "Adrian Jackson"]
+[Black "Jon Viktor Gunnarsson"]
+[ECO "A45"]
+[WhiteElo "2207"]
+[BlackElo "2400"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 d6 6. Qd2 g5
+7. O-O-O Bg7 8. g3 Nc6 9. d5 Nb4 10. Kb1 exd5 11. a3 Nc6
+12. exd5 Ne7 13. f4 gxf4 14. Nge2 f3 15. Nf4 h5 16. Bb5+ Kd8
+17. Rdf1 a6 18. Bd3 Qh6 19. Rxf3 h4 20. Re1 Bg4 21. Rff1 Be5
+22. Ne4 Qg7 23. c4 b6 24. Ng5 Kc8 25. Nxf7 Qxf7 26. Ng6 Qg7
+27. Nxh8 Bh5 28. g4 Be8 29. c5 bxc5 30. Qe2 Rb8 31. Bxa6+ Kd8
+32. Nf7+ Bxf7 33. Bb5 Bxd5 0-1

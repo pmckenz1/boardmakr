@@ -1,0 +1,18 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Vladimir Dobrov"]
+[Black "Alexander Cherniaev"]
+[ECO "E44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 c5 6. a3 Ba5
+7. Rb1 Qe7 8. Bd2 Na6 9. d5 O-O 10. g3 exd5 11. cxd5 Nxd5
+12. Bg2 Bxc3 13. bxc3 Bb7 14. O-O d6 15. e4 Ndc7 16. Nf4 f5
+17. Nd5 Qf7 18. c4 fxe4 19. f3 Nxd5 20. cxd5 Qxd5 21. Bf4 Qxd1
+22. Rbxd1 exf3 0-1

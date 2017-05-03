@@ -1,0 +1,21 @@
+[Event "ch-Moscow"]
+[Site "ch-Moscow"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Anatoly Volovich"]
+[Black "David Bronstein"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Bf4 c6 5. Nc3 Qa5 6. Qc2 g6
+7. e3 Nh5 8. Bg5 Ndf6 9. h3 h6 10. Bxf6 Nxf6 11. Bd3 Bg7
+12. O-O-O O-O 13. g4 b5 14. Nd2 b4 15. Qa4 Qb6 16. Nce4 Nd7
+17. Nb3 d5 18. cxd5 cxd5 19. Nec5 Nxc5 20. dxc5 Qf6 21. Rd2
+Qf3 22. Rg1 Qxh3 23. Qxb4 Qh2 24. Rgd1 a5 25. Qa4 Qc7 26. Bb5
+d4 27. exd4 Bxg4 28. Re1 h5 29. Bc6 Rac8 30. Bh1 Bh6 31. Qxa5
+Bxd2+ 32. Qxd2 Bf5 33. Na5 Qd7 34. b4 Rfd8 35. d5 Qa4 36. Re3
+e6 37. Nb7 Rd7 38. d6 Qb5 39. Na5 Rxc5+ 0-1

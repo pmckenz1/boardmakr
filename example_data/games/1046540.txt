@@ -1,0 +1,26 @@
+[Event "Vinkovci"]
+[Site "Vinkovci CRO"]
+[Date "1995.04.18"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Robert Zelcic"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 d6 5. Nc3 Ne7 6. g3 Ng6
+7. Bg2 Be7 8. Nf3 O-O 9. O-O Bg4 10. h3 Bxf3 11. Bxf3 Qd7
+12. Bg2 Na6 13. f4 f5 14. a4 Bf6 15. Re1 Rae8 16. Bd2 c4
+17. b3 cxb3 18. Qxb3 Nc5 19. Qb4 a5 20. Qa3 b6 21. Rab1 Bxc3
+22. Qxc3 Rf7 23. Rxb6 Nxa4 24. Qxa5 Nxb6 25. Qxb6 Qa7 26. Qxa7
+Rxa7 27. Kf2 Ra4 28. Rb1 Ra2 29. Be3 Ra6 30. Bf3 Re7 31. Rb8+
+Kf7 32. Bd2 Nf8 33. Bb4 Rc7 34. g4 Nd7 35. Rd8 g6 36. gxf5
+gxf5 37. Kg3 Ke7 38. Rg8 Nf6 39. Rg7+ Kd8 40. Rg5 Rc4 41. Rxf5
+Ne4+ 42. Bxe4 Rxe4 43. Rf8+ Kd7 44. Rf7+ Kd8 45. Rf8+ Ke7
+46. Rb8 Rxe2 47. Rb7+ Kd8 48. Rxh7 Re7 49. Rh6 Rg7+ 50. Kh4
+Kd7 51. Bc3 Rg2 52. Rh7+ Ke8 53. Rh8+ Kf7 54. Rh7+ Kf8 55. Bf6
+Ra5 56. Bg5 Rxd5 57. Kh5 Re2 58. Kg6 Ke8 59. h4 Re6+ 60. Bf6
+Re4 61. f5 Rd3 62. Bg5 Rf3 63. f6 Re6 64. Kg7 1-0

@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.08.30"]
+[EventDate "1907.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "Adolf Georg Olland"]
+[Black "Johann Nepomuk Berger"]
+[ECO "C87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6
+7. c3 b5 8. Bc2 O-O 9. h3 d5 10. d4 Nxe4 11. dxe5 Bb7 12. Nbd2
+Nc5 13. Nb3 Ne6 14. Qd3 g6 15. Bh6 Re8 16. Rad1 Qc8 17. Nh2
+Bf8 18. Ng4 Bxh6 19. Nxh6+ Kg7 20. Ng4 Ne7 21. Qe3 Ng8 22. f4
+Nf8 23. Nc5 Ne6 24. f5 Nxc5 25. f6+ Kh8 26. Qxc5 h5 27. Qf2
+Qe6 28. Qh4 Bc8 29. Qg5 Qb6+ 30. Kh1 Bxg4 31. hxg4 Qf2 32. Bf5
+Rad8 33. Re3 Rd6 34. Rde1 Rb6 35. Kh2 b4 36. R3e2 Qc5 37. gxh5
+Qf8 38. hxg6 fxg6 39. Qxg6 Qh6+ 40. Kg3 Re7 41. Qxh6+ Nxh6
+42. Kf4 Re8 43. e6 Rf8 44. Kg5 Nxf5 45. Rh1+ Kg8 46. Kxf5 bxc3
+47. Re3 1-0

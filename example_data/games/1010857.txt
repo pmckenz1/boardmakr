@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Roman Popov"]
+[Black "Anatolij J Sakov"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 g6 5. cxd5 cxd5 6. Bf4 Nc6
+7. h3 Bg7 8. e3 O-O 9. Be2 h6 10. O-O Be6 11. Ne5 Nxe5
+12. Bxe5 Nd7 13. Bg3 Nb6 14. b3 Bd7 15. Qd2 Bc6 16. Rfc1 Qd7
+17. a4 Nc8 18. b4 b6 19. Ba6 Nd6 20. b5 Bb7 21. Bxd6 Bxa6
+22. Bxe7 Rfe8 23. bxa6 Rxe7 24. Nb5 Rc8 25. Rc3 h5 26. Rac1
+Rxc3 27. Qxc3 1-0

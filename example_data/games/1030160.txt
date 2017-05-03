@@ -1,0 +1,15 @@
+[Event "Gausdal UNORO"]
+[Site "09"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nukhim N Rashkovsky"]
+[Black "Pavel Blatny"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.e3 c6 5.Bd3 Nbd7 6.O-O dxc4 7.Bxc4
+b5 8.Bd3 Bb7 9.a4 1/2-1/2

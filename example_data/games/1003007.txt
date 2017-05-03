@@ -1,0 +1,20 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.18"]
+[EventDate "1905.08.14"]
+[Round "5"]
+[Result "0-1"]
+[White "Hermann von Gottschall"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Be3 Bxe3 6. fxe3
+Nh6 7. Nc3 Na5 8. Bb3 Nxb3 9. axb3 O-O 10. O-O f5 11. exf5
+Bxf5 12. e4 Bg4 13. Qe1 Bxf3 14. Rxf3 Rxf3 15. gxf3 Qf6
+16. Qg3 c6 17. Ne2 Nf7 18. Kg2 Nh8 19. Qg4 Ng6 20. Kh3 a6
+21. Rf1 Rf8 22. Kg3 Nf4 23. Nxf4 exf4+ 24. Kg2 h6 25. Rf2 Kh7
+26. Qd7 Qxb2 27. Qxd6 Rf6 28. Qe7 Rg6+ 29. Kh3 Qc1 30. Qb4 Qg1
+0-1

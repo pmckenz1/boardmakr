@@ -1,0 +1,21 @@
+[Event "Moscow olm 62/276"]
+[Site "Moscow RUS"]
+[Date "1994.12.02"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Aldo Zadrima"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. f4 Nc5 9. e5 dxe5 10. fxe5 Nfd7 11. Bf4 b5
+12. Qe2 Bb7 13. O-O-O Qa5 14. Rhf1 Be7 15. Qg4 g6 16. Bg3 Qb6
+17. h4 h5 18. Qe2 Rh7 19. Nf3 O-O-O 20. Kb1 Qc6 21. Rd4 Nb6
+22. Rf4 b4 23. Rxb4 a5 24. Rb5 a4 25. Rxb6 Qxb6 26. Nxa4 Qa6
+27. Qxa6 Bxa6 28. Rc1 Ne4 29. Bf4 Be2 30. Nb6+ Kc7 31. Nc4
+Rhh8 32. a4 Rd7 33. Re1 Rd1+ 34. Rxd1 Bxd1 35. Ne3 Bxf3
+36. gxf3 Nd2+ 37. Ka2 Nxf3 38. Bc4 Bxh4 39. Ng2 Bg5 0-1

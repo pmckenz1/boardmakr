@@ -1,0 +1,19 @@
+[Event "Haninge"]
+[Site "Haninge SWE"]
+[Date "1989.05.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Ferdinand Hellers"]
+[Black "Lubomir Ftacnik"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6
+7. O-O Bg4 8. e5 dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5
+12. Be3 Qd7 13. Qe2 Rfd8 14. Rad1 Bxd3 15. cxd3 b5 16. Bc5 e6
+17. Ng5 b4 18. c4 Nd4 19. Qf2 a5 20. Ne4 Rab8 21. Rd2 a4
+22. Rb1 b3 23. Bxd4 Qxd4 24. axb3 Rxb3 25. Rxb3 Qa1+ 26. Qf1
+Qd4+ 27. Qf2 Qa1+ 28. Qf1 1/2-1/2

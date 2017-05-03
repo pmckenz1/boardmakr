@@ -1,0 +1,18 @@
+[Event "11th DSB Kongress, Cologne"]
+[Site "Cologne GER"]
+[Date "1898.08.09"]
+[EventDate "1898.08.01"]
+[Round "8"]
+[Result "1-0"]
+[White "Hermann von Gottschall"]
+[Black "Arved Heinrichsen"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. O-O Nf6 5. d3 d6 6. h3 h6
+7. Nc3 g5 8. Kh2 g4 9. Ng1 gxh3 10. gxh3 Be6 11. Bxe6 fxe6
+12. Na4 Qe7 13. Nxc5 dxc5 14. Be3 O-O-O 15. Qe2 Rdg8 16. Nf3
+h5 17. Rg1 Ng4+ 18. Kh1 c4 19. Rg3 Rf8 20. Kg2 Qg7 21. hxg4 h4
+22. Rh3 Qxg4+ 23. Kh2 Nd4 24. Nxd4 1-0

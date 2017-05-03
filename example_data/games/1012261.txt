@@ -1,0 +1,30 @@
+[Event "Torino,Caffe Nazion"]
+[Site "Turin ITA"]
+[Date "1923.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Esteban Canal"]
+[Black "Alexander Alekhine"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "168"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. O-O Nf6 6. d4 Bb6
+7. Qd3 d6 8. Be3 O-O 9. Nbd2 Kh8 10. Rae1 Ng4 11. Bg5 f6
+12. Bh4 Nd8 13. h3 Nh6 14. Nh2 Ne6 15. Bxe6 Bxe6 16. Nc4 Qf7
+17. Nxb6 axb6 18. d5 Bd7 19. a3 Qh5 20. Bg3 f5 21. f3 Rf6
+22. Bf2 Nf7 23. Qc4 fxe4 24. Rxe4 Ng5 25. Rh4 Qg6 26. Kh1 c5
+27. Qe2 Re8 28. Be3 h6 29. Qd2 Kg8 30. Bxg5 hxg5 31. Re4 Rf4
+32. Rfe1 Ref8 33. Nf1 g4 34. Rxf4 Rxf4 35. hxg4 Bxg4 36. Nh2
+Bd7 37. Kg1 Rh4 38. Nf1 Bb5 39. Kf2 e4 40. fxe4 Rxe4 41. Rxe4
+Qxe4 42. Ne3 Bd3 43. Qd1 Qh4+ 44. Kg1 Be4 45. Qe2 Qg5 46. Qf2
+Bxd5 47. Nxd5 Qxd5 48. Qe2 Qe5 49. Qg4 Qe3+ 50. Kh1 Kh7
+51. Qf5+ Kh6 52. Qd7 Qe1+ 53. Kh2 Qe5+ 54. Kh1 g5 55. Qc8 Qe1+
+56. Kh2 Qe7 57. Qg8 b5 58. Qh8+ Kg6 59. Qg8+ Kf5 60. Qc8+ Kf4
+61. Qh3 Qe3 62. g3+ Ke5 63. Qh8+ Ke4 64. Qh7+ Kf3 65. Qxb7+
+Kf2 66. Qg2+ Ke1 67. Qh1+ Ke2 68. Qc6 Qf3 69. Qxf3+ Kxf3
+70. c4 bxc4 71. a4 Ke4 72. Kh3 Ke5 73. a5 Kd5 74. Kg4 Kc6
+75. Kxg5 Kb5 76. Kf4 Kxa5 77. Ke4 Kb4 78. g4 c3 79. bxc3+ Kxc3
+80. g5 d5+ 81. Ke5 d4 82. g6 d3 83. g7 d2 84. g8=Q d1=Q 0-1

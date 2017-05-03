@@ -1,0 +1,19 @@
+[Event "Riga URS ch"]
+[Site "19"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Yuri Razuvaev"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.a4 Bb7 9.d3 d6 10.Nc3 Na5 11.Ba2 b4 12.Ne2 c5 13.Ng3 Rb8
+14.Nf5 Bc8 15.N3h4 b3 16.cxb3 Be6 17.b4 cxb4 18.d4 b3 19.Bb1
+Ne8 20.Nxe7+ Qxe7 21.Nf5 Bxf5 22.exf5 Nf6 23.Bg5 h6 24.Bh4 Rb4
+25.Qd2 Rfb8 26.dxe5 dxe5 27.Bg3 Nc6 28.Bd3 Qd6 29.Qc3 Rd4
+1/2-1/2

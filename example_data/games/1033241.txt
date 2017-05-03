@@ -1,0 +1,20 @@
+[Event "10s, AND op"]
+[Site "10s, AND op Hiarcs 7.32"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Svetlana Matveeva"]
+[ECO "E76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5
+7. dxc5 Qa5 8. Bd3 Qxc5 9. Qe2 Bg4 10. Be3 Qc8 11. O-O Nc6
+12. Rac1 Nd7 13. Bb1 Nd4 14. Qf2 Nxf3+ 15. gxf3 Bh3 16. Rfd1
+Nb6 17. Nb5 Nxc4 18. Nxa7 Qe6 19. Bd4 Bxd4 20. Rxd4 Na5
+21. Rcd1 Qf6 22. b4 Qxf4 23. bxa5 Qg5+ 24. Kh1 Rxa7 25. f4
+Qxa5 26. f5 Bg4 27. Rd5 Qa3 28. Rf1 Ra5 29. Rd2 Rc5 30. Bc2
+Qb4 31. Rd4 Rc4 32. Rxc4 Qxc4 33. Re1 Qxa2 34. Rf1 Rc8 0-1

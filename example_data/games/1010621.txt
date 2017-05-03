@@ -1,0 +1,16 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Alexey Mazurok"]
+[Black "Vasily Chichkin"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. e4 e5 2. f4 Nf6 3. fxe5 Nxe4 4. Nf3 Ng5 5. d4 Nxf3+ 6. Qxf3
+Qh4+ 7. Qf2 Qxf2+ 8. Kxf2 Nc6 9. c3 d6 10. exd6 Bxd6 11. Nd2
+Be7 12. Bb5 1/2-1/2

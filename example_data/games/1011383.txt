@@ -1,0 +1,18 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Graham Morrison"]
+[Black "John B Henderson"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 g6 5. d4 Bg7 6. Be2 O-O
+7. O-O Bg4 8. cxd5 cxd5 9. h3 Bxf3 10. Bxf3 e6 11. Qb3 Qd7
+12. a4 Rc8 13. Bd2 Bf8 14. a5 Na6 15. Rfc1 Rab8 16. Be2 Bb4
+17. f3 Qe7 18. Be1 Nh5 19. g4 Qg5 20. Bf2 Bd6 21. h4 Qf6
+22. gxh5 gxh5 23. f4 Qf5 24. Nb5 Bb4 25. Kh2 1-0

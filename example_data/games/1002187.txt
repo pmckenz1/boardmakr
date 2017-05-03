@@ -1,0 +1,22 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.10"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Max Judd"]
+[Black "Jean Taubenhaus"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.Nxe5 Nxe5 9.dxe5 Be6 10.Be3 Be7 11.c3 O-O 12.Nd2 Nxd2
+13.Qxd2 Qd7 14.Rfd1 Rad8 15.a4 f6 16.exf6 Rxf6 17.Qe2 c6
+18.axb5 axb5 19.Ra7 Qd6 20.Re1 Bf7 21.Bc2 Bf8 22.Qd2 Re8 23.b4
+Qe5 24.Rea1 Bd6 25.g3 Qh5 26.Ra8 Rfe6 27.R1a7 Be5 28.Rxe8+
+Rxe8 29.Bd3 Bg6 30.Bxg6 Qxg6 31.Ra1 h5 32.Re1 h4 33.Bd4 hxg3
+34.hxg3 Bxd4 35.Rxe8+ Qxe8 36.Qxd4 Qe1+ 37.Kg2 Qe6 38.Qd3 Kf7
+39.f4 g6 40.Kf3 Qh3 41.Qe3 Qf1+ 42.Kg4 Qh1 43.Qa7+ Kg8 44.Qb8+
+Kh7 45.Qe5 Kg8 46.Kg5 Qe4 47.Qf6 Qd3 48.Kh6 1-0

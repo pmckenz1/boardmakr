@@ -1,0 +1,25 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Christopher Lutz"]
+[Black "Alexander Baburin"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 c6 5.e3 Nbd7 6.Nf3 Qa5 7.Nd2
+dxc4 8.Bxf6 Nxf6 9.Nxc4 Qc7 10.Be2 Bd7 11.O-O Be7 12.Re1 O-O
+13.e4 Rfd8 14.Qc2 Be8 15.Red1 b5 16.Ne3 Qb6 17.e5 Nd5 18.Bf3
+a5 19.a3 Nxc3 20.Qxc3 Rac8 21.b4 axb4 22.axb4 Ra8 23.Be4 Ra4
+24.Rab1 Rda8 25.Bc2 Ra3 26.Bb3 R3a7 27.Nc2 Rd8 28.Ne1 g6
+29.Nf3 Ra3 30.h4 Qa7 31.h5 Kg7 32.Rd3 Ra8 33.Rdd1 Rd8 34.Rbc1
+Bf8 35.hxg6 hxg6 36.Ng5 Qe7 37.f4 Kg8 38.Rb1 Bh6 39.g3 Bxg5
+40.fxg5 Qxg5 41.Qf3 c5 42.bxc5 Bc6 43.Qf4 Qh5 44.Qh4 Qxh4
+45.gxh4 Kg7 46.Kf2 Rh8 47.d5 exd5 48.Bxd5 Bxd5 49.Rxd5 Rxh4
+50.Rxb5 Rh2+ 51.Kg1 Rc2 52.Rb1 Re3 53.Rd7 Rg3+ 54.Kh1 Rc4
+55.Rb2 Rxc5 56.Rf2 Rxe5 57.Rdxf7+ Kh6 58.Rh2+ Kg5 59.Rg2 Kg4
+60.Rxg3+ Kxg3 61.Rf1 1/2-1/2

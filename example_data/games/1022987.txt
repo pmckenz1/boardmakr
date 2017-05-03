@@ -1,0 +1,21 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Mark Taimanov"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5
+h6 8.Bh4 a6 9.a4 Bg7 10.Nd2 g5 11.Bg3 Nh5 12.Nc4 Nxg3 13.hxg3
+f5 14.Qb3 O-O 15.Qb6 Nd7 16.Qxd8 Rxd8 17.e3 Ne5 18.Nxe5 dxe5
+19.e4 fxe4 20.Bc4 b6 21.Ke2 e3 22.f3 g4 23.Ra3 Rb8 24.Kxe3
+gxf3 25.gxf3 Kf8 26.Rb3 Ke7 27.Rh5 Kd6 28.Ne4+ Kc7 29.g4 b5
+30.axb5 axb5 31.Rxb5 Rxb5 32.Bxb5 Rxd5 33.g5 c4 34.Bxc4 Rd4
+35.b3 hxg5 36.Rh7 Rd7 37.Be6 Re7 38.Bxc8 Kxc8 39.Nd6+ Kb8
+40.Nf5 Rb7 41.Rxg7 Rxb3+ 42.Ke4 Rb4+ 43.Kxe5 Rf4 44.Nd4 1-0

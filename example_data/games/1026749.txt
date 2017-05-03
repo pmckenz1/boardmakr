@@ -1,0 +1,16 @@
+[Event "New York op ,CBM 02"]
+[Site "New York op ,CBM 02"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Michael Rohde"]
+[Black "Joel Benjamin"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.b3 Nd4 6.Nxd4 cxd4
+7.Bb2 Nc6 8.c3 Bc5 9.Qh5 Bb6 10.Ba3 d6 11.e5 dxe5 12.Qxe5 f6
+13.Qe4 Kf7 14.Bxc6 bxc6 15.Qxc6 Qd5 1/2-1/2

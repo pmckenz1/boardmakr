@@ -1,0 +1,16 @@
+[Event "Ch Europe (team)"]
+[Site "Debrecen HUN"]
+[Date "1992.11.22"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Miso Cebalo"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.Nf3 d6 2.c4 e5 3.Nc3 f5 4.g3 g6 5.d4 e4 6.Ng5 Bg7 7.Bg2 Nf6
+8.O-O O-O 9.f3 exf3 10.exf3 h6 11.Nh3 Be6 12.Qb3 Qc8 13.Rd1
+Bf7 14.Be3 Re8 15.Bf2 Nbd7 16.Rac1 1/2-1/2

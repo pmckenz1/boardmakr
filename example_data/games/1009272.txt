@@ -1,0 +1,16 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Igor Stohl"]
+[Black "Daniel John King"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4
+7. Qc2 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bg5 Be4 11. Qc1 Nbd7
+12. Nbd2 Bd5 13. Bxf6 Bxf6 14. b4 a5 15. a3 e5 1/2-1/2

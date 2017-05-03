@@ -1,0 +1,15 @@
+[Event "Suisse (Switzerland)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Ognjen Cvitan"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.Nc3
+Nc6 8.e3 O-O 9.O-O Re8 10.d5 Na5 11.Nd4 Bd7 12.e4 c5 1/2-1/2

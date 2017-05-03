@@ -1,0 +1,22 @@
+[Event "Manila"]
+[Site "Manila"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Viswanathan Anand"]
+[Black "Eugenio Torre"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.c3 O-O 6.d4 Bb6 7.a4
+a5 8.Bg5 d6 9.Re1 h6 10.Bh4 Bg4 11.Bxc6 bxc6 12.dxe5 dxe5
+13.Qxd8 Raxd8 14.Nxe5 g5 15.Bg3 Nxe4 16.Nxg4 f5 17.Na3 Nxg3
+18.Nxh6+ Kg7 19.hxg3 Rd2 20.Nc4 Bxf2+ 21.Kf1 Bxe1 22.Rxe1 Rd3
+23.Re6 Rd1+ 24.Kf2 Rh1 25.Rxc6 Rf6 26.Rxc7+ Kxh6 27.Rc5 Rb1
+28.Rb5 Kg6 29.Rxa5 Re6 30.Rd5 Re4 31.Rd4 Rxd4 32.cxd4 Rc1
+33.Ne5+ Kf6 34.b4 Ke6 35.b5 Ra1 36.b6 Kd6 37.a5 Ra4 38.g4 Ra2+
+39.Kg1 Ra1+ 40.Kh2 f4 41.Nf7+ Kd7 42.Ne5+ Kc8 43.Nc6 Rb1 44.d5
+Kb7 45.Nd8+ Ka6 46.d6 Rd1 47.Ne6 1-0

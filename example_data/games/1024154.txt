@@ -1,0 +1,21 @@
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1971.10.11"]
+[EventDate "1971.09.15"]
+[Round "18"]
+[Result "0-1"]
+[White "Karen Ashotovich Grigorian"]
+[Black "Yuri Balashov"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 g5 7.Bg3
+Nh5 8.e3 Nxg3 9.hxg3 Bg7 10.Bd3 g4 11.Nd2 h5 12.Rh2 Nc6 13.a3
+Rh6 14.Qc2 Qe7 15.O-O-O O-O-O 16.d5 Ne5 17.Be2 d6 18.Nb3 c5
+19.dxc6 Nxc6 20.Kb1 Kb8 21.e4 Qf6 22.f3 h4 23.Rxh4 Rxh4
+24.gxh4 gxf3 25.gxf3 Qxh4 26.Qd2 Qf2 27.Nc1 Qh2 28.Rf1 Bf6
+29.Qe1 Rc8 30.Nb5 Rd8 31.Nc3 Na5 32.Nd1 Rc8 33.Qb4 Bg5 34.Rf2
+Qg3 35.b3 d5 36.exd5 exd5 37.Rf1 Qe5 38.Re1 Qd4 39.Nb2 Bf6
+40.Qd6+ Ka8 0-1

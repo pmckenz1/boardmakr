@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Endre Salanki"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.cxd5 exd5 7.e3
+h6 8.Bf4 Bf5 9.Bd3 Bxd3 10.Qxd3 c6 11.h3 Bb4 12.O-O Re8 13.a3
+Bxc3 14.bxc3 Nbd7 15.Rfb1 b5 16.Nd2 Nb6 17.f3 Nc4 18.Nxc4 dxc4
+19.Qd2 Nd5 20.e4 Nb6 21.Kh2 a6 22.g4 Na4 23.Rg1 g5 24.Be3 Re6
+25.Kg2 Qa5 26.Rac1 Rd8 27.Qf2 Nxc3 28.Qd2 c5 29.d5 b4 30.Qf2
+Rf6 31.Qb2 Qc7 32.axb4 cxb4 33.Bd4 Rg6 34.Bxc3 bxc3 35.Qxc3
+Rb6 36.Qd4 Rb4 37.Rc2 Qf4 38.Rgc1 Rdb8 39.Rxc4 Qxc1 40.Rxb4
+Rc8 41.Rb2 a5 42.d6 a4 43.d7 Rd8 44.Qf6 Qc7 45.Rb7 Qa5 46.h4
+a3 47.Ra7 Qd2+ 48.Kh3 Qd1 49.Qxd8+ Kg7 50.Qb6 Qxf3+ 51.Kh2
+Qf4+ 52.Kg2 Qxg4+ 53.Kf2 Qf4+ 54.Ke2 Qxe4+ 55.Kd2 Qd5+ 56.Kc3
+Qf3+ 57.Kb4 1-0

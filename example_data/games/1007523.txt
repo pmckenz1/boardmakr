@@ -1,0 +1,22 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.10"]
+[EventDate "1926.03.07"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ernst Gruenfeld"]
+[Black "Arpad Vajda"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 f5 2. g3 e6 3. Bg2 Nf6 4. Nh3 d5 5. O-O Be7 6. c4 O-O
+7. Qc2 Nc6 8. Rd1 Nb4 9. Qb3 c6 10. Nc3 b6 11. cxd5 exd5
+12. a3 Na6 13. Nf4 Nc7 14. Nd3 Ne6 15. Ne5 Bb7 16. Qc2 Nd7
+17. Nxd7 Qxd7 18. e3 h5 19. h4 g5 20. hxg5 Nxg5 21. Ne2 Rf7
+22. Bd2 Rh7 23. Bb4 h4 24. Bxe7 Qxe7 25. Qxf5 h3 26. Bh1 h2+
+27. Kf1 Rf8 28. Qe5 Qd8 29. Rac1 Rhf7 30. g4 Rxf2+ 31. Ke1
+Nf3+ 32. Bxf3 R8xf3 33. Kd2 Qd7 34. Rh1 Rh3 35. Qg5+ Qg7
+36. Qd8+ Kh7 37. g5 Rg2 38. Rce1 c5 39. g6+ Kh6 40. Kc1 cxd4
+41. Nf4 d3 42. Nxg2 d2+ 43. Kxd2 Qxb2+ 44. Kd1 Qb1+ 1/2-1/2

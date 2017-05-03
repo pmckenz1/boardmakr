@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Adam Hunt"]
+[Black "Andrew Greet"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. Bd3 d6
+7. Nxd4 cxd4 8. Ne2 Nf6 9. c3 dxc3 10. bxc3 b6 11. Bc2 Bb7
+12. d3 O-O 13. O-O Qc7 14. Qe1 Nd7 15. Bd2 Rac8 16. Rc1 e6
+17. d4 f5 18. e5 Ba6 19. Bb3 d5 20. Rf3 Rf7 21. Rc2 Bf8
+22. Nc1 Be7 23. Be3 Bc4 24. Qd2 a5 25. h3 h5 26. g4 hxg4
+27. hxg4 Rh7 28. Qg2 Kf7 29. Rh3 Rch8 30. Rxh7+ Rxh7 31. Bf2
+b5 32. Qf3 a4 33. Bxc4 Qxc4 34. gxf5 gxf5 35. Be1 Ba3 36. Rh2
+Rxh2 37. Kxh2 Bxc1 38. Qh5+ Kg7 39. Qg5+ Kf7 40. Qh5+ Kg8
+41. Qg5+ 1/2-1/2

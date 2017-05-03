@@ -1,0 +1,24 @@
+[Event "Petersburg (Match)"]
+[Site "Petersburg (Match)"]
+[Date "1895.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Chigorin"]
+[Black "Emmanuel Schiffers"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Qe2 Be7 5. g3 d5 6. Bg2 Nf6
+7. d3 O-O 8. O-O d4 9. Nd1 e5 10. Ne1 Qb6 11. Kh1 Bg4 12. f3
+Bd7 13. f4 Rac8 14. b3 Kh8 15. f5 Qd8 16. g4 Ng8 17. Nf3 g5
+18. Nf2 f6 19. h4 h6 20. Kh2 Kg7 21. Rh1 b5 22. Kg3 a5 23. Bd2
+Be8 24. Rh2 Bf7 25. Rah1 Nb4 26. Nh3 gxh4+ 27. Nxh4 c4 28. Nf2
+c3 29. Bxh6+ Nxh6 30. Ng6 Rh8 31. Nxh8 Qxh8 32. g5 fxg5
+33. Rxh6 Qxh6 34. Rxh6 Kxh6 35. a3 Nc6 36. f6 Bxf6 37. Ng4+
+Kg7 38. Nxf6 Kxf6 39. Bh3 Rc7 40. Qf3+ Ke7 41. Qf5 Kd6 42. b4
+axb4 43. axb4 Re7 44. Qc8 Bb3 45. Qa6 g4 46. Bxg4 Rg7 47. Qxb5
+Be6 48. Qc5+ Kd7 49. b5 Rxg4+ 50. Kf2 Rf4+ 51. Ke1 Bh3
+52. Qxc6+ Kd8 53. b6 1-0

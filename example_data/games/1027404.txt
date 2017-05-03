@@ -1,0 +1,16 @@
+[Event "02, CITS New York USA"]
+[Site "02, CITS New York USA"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Bc4 Nf6 5.Qe2 c6 6.e5 dxe5 7.dxe5
+Nd5 8.Bd2 O-O 9.O-O-O b5 10.Bb3 a5 11.Bxd5 cxd5 12.Bg5 Be6
+13.Nxb5 Nc6 14.Nf3 Bg4 15.h3 Bxf3 16.Qxf3 Qb6 1/2-1/2

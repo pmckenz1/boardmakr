@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Joachim Wallner"]
+[Black "Martin Klicnar"]
+[ECO "C84"]
+[WhiteElo "2290"]
+[BlackElo "2250"]
+[PlyCount "83"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. a4 Bb7 9. d3 d6 10. Bd2 Nb8 11. Na3 c6 12. c4
+Qb6 13. Be3 Qa5 14. axb5 axb5 15. h3 Nbd7 16. Ra2 bxc4
+17. Nxc4 Qc7 18. Rxa8 Rxa8 19. Qc2 Ne8 20. d4 c5 21. dxe5 dxe5
+22. Bd2 Kh8 23. Bc3 f6 24. Rd1 Nf8 25. Ncxe5 fxe5 26. Bxe5 Nd6
+27. Bxd6 Bxd6 28. Ng5 Bh2+ 29. Kh1 Ng6 30. Nf7+ Kg8 31. Nd8+
+Kh8 32. Nxb7 Be5 33. Nxc5 h6 34. Nd3 Qe7 35. Nxe5 Qxe5 36. Bd5
+Rf8 37. b4 Nf4 38. Qc5 Rf6 39. b5 Qg5 40. Qc8+ Kh7 41. Bg8+
+Kg6 42. Qe8+ 1-0

@@ -1,0 +1,19 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Vitaly Tseshkovsky"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6
+13.Re2 Qh4 14.g3 Qh5 15.Nd2 Bg4 16.f3 Bxf3 17.Nxf3 Qxf3 18.Qf1
+Qg4 19.Bd2 Rfe8 20.Rae1 Rxe2 21.Rxe2 Qd7 22.Qf3 Bf8 23.Re5 Rd8
+24.Kg2 Re8 25.Rxe8 Qxe8 26.Bc1 g6 27.Qe4 Qd7 28.Bd1 h5 29.Bf3
+Kh7 30.Bg5 1/2-1/2

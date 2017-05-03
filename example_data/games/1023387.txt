@@ -1,0 +1,20 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Sergey Dolmatov"]
+[Black "Vladimir Bagirov"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.d4 g6 5.e4 Nxc3 6.bxc3 Bg7
+7.Ba3 Nd7 8.Nf3 c5 9.Qb3 O-O 10.Bd3 b6 11.Rd1 e6 12.O-O Qc7
+13.e5 Bb7 14.Ng5 Rfc8 15.Qb1 Rab8 16.h4 b5 17.h5 b4 18.hxg6
+bxa3 19.gxf7 Kh8 20.Bxh7 Nf8 21.Qd3 Bh6 22.Qh3 Bxg5 23.Bg8 Kg7
+24.Rd3 Be4 25.Rg3 Qd8 26.f4 Bf5 27.Qh2 Ng6 28.fxg5 Kf8 29.Qh6+
+Ke7 30.Rxf5 exf5 31.Qxg6 Rb1+ 32.Kh2 Rb6 33.e6 Kd6 34.Qxf5
+cxd4 35.cxd4 Kc7 1-0

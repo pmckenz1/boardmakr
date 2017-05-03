@@ -1,0 +1,25 @@
+[Event "Extra League 1997/98, Czech Republic"]
+[Site "Extra League 1997/98, Czech Republic"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Petr Velicka"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. a4 e6 6. g3 dxc4
+7. Bg2 c5 8. dxc5 Qxd1+ 9. Nxd1 Nc6 10. Ne3 c3 11. bxc3 Bxc5
+12. O-O Bd7 13. Nc4 Nd5 14. Ba3 Bxa3 15. Rxa3 Ke7 16. Nfe5 b5
+17. axb5 Nxe5 18. Nxe5 axb5 19. Rb3 Rac8 20. Nxd7 Kxd7 21. Rd1
+Kc6 22. e4 Nc7 23. e5+ Nd5 24. Bf1 Rb8 25. Rdb1 Rb6 26. Bxb5+
+Kc5 27. Bd3 Rhb8 28. Rxb6 Nxb6 29. Rb5+ Kc6 30. c4 h6 31. Be4+
+Kc7 32. Ra5 Nc8 33. Kg2 Rb3 34. h4 Rc3 35. c5 g5 36. hxg5 hxg5
+37. Rb5 Ne7 38. Kh3 Rc4 39. f3 Nc6 40. Kg4 Nxe5+ 41. Kxg5 f5
+42. Ba8 Ra4 43. f4 Nd7 44. Rb7+ Kc8 45. c6 Nc5 46. Rg7 Ne4+
+47. Kh6 Ra3 48. Rg6 Kc7 49. Bb7 Rxg3 50. Rxe6 Rg4 51. Re7+ Kb6
+52. Ba8 Rxf4 53. c7 Nd6 54. Rd7 Nc8 55. Bd5 Rd4 56. Kg5 Kc5
+57. Rd8 Rxd5 58. Rxc8 Rd7 1/2-1/2

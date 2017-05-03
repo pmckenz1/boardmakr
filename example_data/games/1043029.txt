@@ -1,0 +1,15 @@
+[Event "New York (USA)"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Gert Iskov"]
+[Black "John Fedorowicz"]
+[ECO "A62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "16"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Bg2
+Bg7 8.Nf3 O-O 1/2-1/2

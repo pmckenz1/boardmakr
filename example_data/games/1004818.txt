@@ -1,0 +1,22 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jan Foltys"]
+[Black "Eduard Issakovich Gerstenfeld"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. e3 Nf6 5. Bd3 Nbd7 6. Nbd2 Be7
+7. O-O O-O 8. b3 c5 9. Bb2 b6 10. Ne5 Bb7 11. Qe2 Ne4 12. Rad1
+cxd4 13. exd4 Nxd2 14. Nxd7 Nxf1 15. Nxf8 Qxf8 16. Rxf1 Bf6
+17. h3 Rd8 18. Rd1 g6 19. cxd5 Bxd5 20. Be4 Bxe4 21. Qxe4 Rd5
+22. Rc1 Qd8 23. Rc6 Bxd4 24. Bxd4 Rxd4 25. Qe5 Rd5 26. Qf4
+Rd1+ 27. Kh2 Qd4 28. Qh6 Qd7 29. Rc1 Rd4 30. g3 Re4 31. Rc2
+Re1 32. Rd2 Qc8 33. Rd4 Qa8 34. g4 Rh1+ 35. Kg3 Rg1+ 36. Kh4
+f6 37. f4 Rxg4+ 38. Kxg4 Qg2+ 39. Kh4 Qf2+ 40. Kg4 f5+ 41. Kg5
+Qxd4 0-1

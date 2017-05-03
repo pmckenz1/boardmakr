@@ -1,0 +1,24 @@
+[Event "Consultation game"]
+[Site "Hull ENG"]
+[Date "1923.10.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Conde/R Bainbridge/H Williams"]
+[Black "A Alekhine/G Barron/E Hanger"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. d4 Nf6 2. Nf3 b6 3. b3 Bb7 4. e3 g6 5. Bb2 Bg7 6. Nbd2 c5
+7. Be2 O-O 8. O-O Nc6 9. c4 cxd4 10. Nxd4 Qc7 11. Bf3 Rad8
+12. g3 Nxd4 13. Bxd4 e5 14. Bxe5 Qxe5 15. Bxb7 d5 16. Qf3 Qc7
+17. Ba6 dxc4 18. Nxc4 Nd5 19. Rac1 Nc3 20. a4 Qe7 21. Rc2 Qb4
+22. Nd2 Nxa4 23. Rc4 Qxd2 24. bxa4 Qa5 25. Bb7 b5 26. axb5
+Qxb5 27. Qc6 Qb3 28. Qa6 Rfe8 29. Rfc1 Bb2 30. Rf1 Re6 31. Rc6
+Rxe3 32. Rc8 Rxc8 33. Bxc8 Rc3 34. Bb7 Rc7 35. Be4 Qb4 36. Bd3
+Kg7 37. Qb5 Qd2 38. Be4 a5 39. Bc6 Bd4 40. Qa4 Re7 41. Qa3 Re6
+42. Qc1 Bxf2+ 43. Kg2 Qd6 44. Bf3 Bd4 45. Rd1 Qe5 46. Qc4 Rd6
+47. Rd2 Qe3 48. Re2 Qg1+ 49. Kh3 Qf1+ 50. Bg2 Qf5+ 51. g4 Qg5
+52. Re4 Be5 53. Bf3 Rd2 0-1

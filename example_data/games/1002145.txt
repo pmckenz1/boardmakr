@@ -1,0 +1,25 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.05"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Dionisio M Martinez"]
+[Black "James Moore Hanham"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 {Notes by Steinitz} e5 2.Nf3 d6 3.d4 Nd7 4.Nc3 c6 5.Be3
+Be7 6.Be2 Ngf6 7.h3 {?} h6 {?} 8.Qd2 b5 9.a3 a5 10.d5 {!} Bb7
+11.dxc6 Bxc6 12.Bxb5 Bxb5 13.Nxb5 Nxe4 14.Qd5 Ndf6 15.Qxa8 {!}
+Qxa8 16.Nc7+ Kd7 17.Nxa8 Rxa8 18.Ke2 Rc8 19.Rac1 Ke6 20.Rhd1
+{c4 was vastly superior.} d5 21.c3 a4 22.g3 Ne8 23.Rd3 {?} f5
+24.Rcd1 N8f6 25.Rc1 g5 26.Rg1 Rb8 27.Bc1 Bc5 28.Rg2 g4 29.Ng1
+h5 30.h4 f4 {After a remarkably clever and patient defense
+against large odds Black incautiosly allows an inroad into his
+game to be broken, which enables White to make good use of his
+being the exchange ahead.} 31.gxf4 exf4 32.f3 Ke5 33.Ke1 {!}
+Bxg1 34.Rxg1 Rg8 35.fxe4 dxe4 36.Rd4 g3 37.Rxa4 f3 38.Ra5+ Ke6
+39.Ra6+ {!} Kf5 40.Rxf6+ {!} Kxf6 41.Bg5+ Ke5 42.Rxg3 1-0

@@ -1,0 +1,21 @@
+[Event "ENG"]
+[Site "Prestwich  (02)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Alex Sherzer"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bg4 5.b3 Nbd7 6.Bb2 e6 7.c4
+Bd6 8.d4 Qb8 9.Nbd2 O-O 10.a3 a5 11.Qc2 Bf5 12.Qc3 b5 13.Nh4
+b4 14.Qc1 bxa3 15.Bxa3 Bxa3 16.Rxa3 Bg6 17.Nxg6 hxg6 18.e4
+dxe4 19.Nxe4 Nxe4 20.Bxe4 Qd6 21.Qa1 e5 22.dxe5 Qc5 23.Ra4 Nb6
+24.Ra2 Rfe8 25.Rd1 a4 26.bxa4 Ra5 27.Qd4 Qxd4 28.Rxd4 c5
+29.Rd1 Rxe5 30.Bc6 Nxc4 31.Rc2 Nb6 32.Rb2 Nc4 33.Rb8+ Kh7
+34.f4 Rf5 35.Rdd8 g5 36.Be4 g6 37.Bxf5 gxf5 38.fxg5 Kg6 39.Ra8
+Rxa8 40.Rxa8 Kxg5 41.a5 Kf6 42.a6 Nd6 43.Rb8 1-0

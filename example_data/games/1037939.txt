@@ -1,0 +1,16 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1981.04.08"]
+[EventDate "1981.??.??"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Nick DeFirmian"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 b5 6.Bd3 Bb7 7.O-O
+d6 8.Qe2 Nf6 9.f4 Nbd7 10.g4 b4 11.Nd1 e5 12.Nf5 g6 13.Ng3
+exf4 14.Bxf4 Ne5 15.Ne3 Bg7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Manila PHI"]
+[Site "It"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Renato Naranja"]
+[Black "Eugenio Torre"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.c4 g6 2.d4 Bg7 3.Nc3 Nf6 4.e4 d6 5.Be2 O-O 6.Be3 e5 7.d5
+Nbd7 8.g4 Ne8 9.h4 f5 10.gxf5 gxf5 11.exf5 Nc5 12.Nf3 Bxf5
+13.Rg1 Kh8 14.Qd2 Nf6 15.Ng5 Qd7 16.O-O-O Na4 17.Bd3 Nxc3
+18.Qxc3 e4 19.Be2 Nxd5 20.cxd5 Bxc3 21.bxc3 Rae8 22.Ne6 c5
+23.dxc6 Qxe6 24.Bd4+ Rf6 25.Bc4 Qe7 26.cxb7 h6 27.Rg8+ Rxg8
+28.Bxg8 Qxb7 29.Rg1 Qe7 30.h5 a5 31.c4 Qf8 32.Kd2 Qd8 33.Rg3
+a4 34.a3 Bh7 35.Bd5+ Qa5+ 36.Ke2 Qd8 37.Kd2 Qe7 38.Ke1 Bf5 0-1

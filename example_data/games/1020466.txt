@@ -1,0 +1,16 @@
+[Event "It, Tilburg (Netherlands)"]
+[Site "Tilburg NED"]
+[Date "1987.09.24"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Robert Huebner"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.dxc5
+Bxc5 8.Qxd8+ Kxd8 9.a3 b5 10.Be2 Bb7 11.b4 Bd6 12.Nbd2 Nbd7
+1/2-1/2

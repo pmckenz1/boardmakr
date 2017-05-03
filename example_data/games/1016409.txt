@@ -1,0 +1,23 @@
+[Event "Hastings (England)"]
+[Site "Hastings (England)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Stuart C Conquest"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Bf4 Bb7 5.e3 Be7 6.h3 O-O 7.Nc3 d5
+8.cxd5 Nxd5 9.Nxd5 Qxd5 10.Bd3 c5 11.e4 Qd7 12.O-O cxd4 13.Rc1
+Na6 14.Ne5 Qd8 15.Bb5 Nc5 16.Rc4 f6 17.Nc6 Bxc6 18.Bxc6 e5
+19.b4 Rc8 20.Bd5+ Kh8 21.Bd2 Nd3 22.Qb3 Nf4 23.Bxf4 Rxc4
+24.Qxc4 exf4 25.Rc1 Qd6 26.Qxd4 Qxb4 27.Qxb4 Bxb4 28.Rc7 a5
+29.Kf1 Bc5 30.Ke2 g6 31.h4 Rd8 32.h5 gxh5 33.Kf3 f5 34.Rf7
+fxe4 35.Kxe4 Bxf2 36.Rxf4 Bc5 37.Rf7 h4 38.Ke5 h6 39.a4 Rg8
+40.Be4 Rg5+ 41.Ke6 Rg4 42.Kf5 h5 43.Ke5 Kg8 44.Bd5 Bd4+ 45.Kf5
+Kh8 46.Rd7 Bc5 47.Bc6 Kg8 48.Kf6 Bd4+ 49.Kf5 Bc5 50.Kf6 Bd4+
+51.Kf5 Bc5 1/2-1/2

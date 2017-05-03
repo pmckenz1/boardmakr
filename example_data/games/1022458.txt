@@ -1,0 +1,18 @@
+[Event "20th Kilkenny Congress Kilkenny Masters"]
+[Site "20th Kilkenny Congress Kilkenny Masters"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Colm Daly"]
+[Black "Alexander Baburin"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.g3 dxc4 5.Qa4+ Nbd7 6.Bg2 c5
+7.dxc5 Bxc5 8.O-O a6 9.Qxc4 b5 10.Qd3 Bb7 11.Bg5 O-O 12.Nc3
+Qb6 13.a4 b4 14.a5 Qc7 15.Na4 Be4 16.Qd2 Be7 17.Rfc1 Qb7
+18.Bxf6 Nxf6 19.Nc5 Bxc5 20.Rxc5 Rfd8 21.Qe3 Rac8 22.Rac1 Rxc5
+23.Qxc5 h6 24.h3 Rd5 25.Qc8+ Qxc8 26.Rxc8+ Kh7 27.Rb8 1/2-1/2

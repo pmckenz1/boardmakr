@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1979.07.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kotelnikov"]
+[Black "Efim Geller"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nf4 11.Qe4 Nxe5 12.Qxa8 Ne2+
+13.Kh1 Qd3 14.Re1 Ng4 15.Qf3 Qd6 16.g3 Nxf2+ 17.Kg2 Bg4 0-1

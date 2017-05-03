@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1920.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bernard Beffie"]
+[Black "Max Euwe"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5
+7. a4 Rb8 8. axb5 axb5 9. Nc3 O-O 10. O-O d6 11. Nd5 Bg4
+12. c3 b4 13. Bc2 Kh8 14. d3 Nxd5 15. exd5 Ne7 16. h3 Bh5
+17. g4 Bg6 18. d4 exd4 19. cxd4 Bb6 20. Bb3 h6 21. Re1 Ng8
+22. Bd2 f5 23. g5 f4 24. Kh2 hxg5 25. Rg1 Bh5 26. Qd3 Bxf3
+27. Qxf3 Nh6 28. Qh5 Bxd4 29. Bc2 Qf6 30. Raf1 Rbe8 31. Rxg5
+Re5 32. Rfg1 Bxf2 33. R1g4 Bg3+ 34. Kg1 Rxg5 35. Rxg5 Qd4+ 0-1

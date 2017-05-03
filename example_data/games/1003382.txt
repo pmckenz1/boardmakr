@@ -1,0 +1,23 @@
+[Event "Barmen Main B, GER"]
+[Site "Barmen GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Savielly Tartakower"]
+[Black "Otto Wegemund"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 g6 6. Ndb5 a6
+7. Nd6+ Bxd6 8. Qxd6 Qe7 9. Bf4 e5 10. Qxe7+ Ngxe7 11. Bg5 f5
+12. O-O-O b5 13. Nd5 Nxd5 14. exd5 Nd8 15. Bf6 O-O 16. Bxe5
+Nf7 17. Bc3 d6 18. h4 h5 19. f3 Bd7 20. Bd3 Kh7 21. Rdg1 Ne5
+22. Bxe5 dxe5 23. Re1 Rfe8 24. Re2 Kg7 25. Rhe1 Kf6 26. b3 b4
+27. Kb2 a5 28. a3 Rac8 29. axb4 axb4 30. Ra1 Ra8 31. Rxa8 Rxa8
+32. Re1 Ra5 33. Bc4 Bb5 34. c3 bxc3+ 35. Kxc3 Bd7 36. Kb4 Ra2
+37. Kc5 Rxg2 38. Kd6 Bc8 39. Rxe5 Rf2 40. Re8 Bb7 41. Re6+ Kg7
+42. Re7+ Kh6 43. Rxb7 Rxf3 44. Ke7 Rf4 45. Kf6 Rxh4 46. Rb8
+Kh7 47. d6 Rd4 48. Bg8+ Kh6 49. Be6 1-0

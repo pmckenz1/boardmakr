@@ -1,0 +1,59 @@
+[Event "Dresden"]
+[Site "Dresden GER"]
+[Date "1926.04.14"]
+[EventDate "1926.04.04"]
+[Round "9"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Friedrich Saemisch"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. c4 {Notes by Nimzowitsch In this game Black does not
+succeed in getting the adverse double complex to advance
+(White stays "put") and therefore the symptons of the malady
+are not clearly distinguishable. there is compensation,
+however, in the observation of atypical secondary sympton, the
+helplessness of the White pieces. These pieces would, in the
+ordinary way, be quite ready to attack, but the enthusiasm for
+an attack is damped by the consciousness that the cO-Operation
+of the "pawn-party" cannot altogether be depended upon. As the
+incriminated body of pawns is unreliable also in a defensive
+sense, (for there always is a danger of its being rolled up by
+...c6 and ...d5) the undecided attitude of the pieces (10 Qc2
+11 Qd2) is sufficiently explained. And so the hidden weakness
+of the pawns is projected to a plane where it is clearly
+noticeable by the learner, and the study of the game is made
+highly valuable.} e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6
+6. g3 Bg4 7. Be2 {This is not as inconsistent as it may
+appear, for g3 was primarily intended to cover a knight move
+to h4 and on the other hand Bg2 would permit ...Nd4.} h6
+8. Be3 Bxc3+ 9. bxc3 Qd7 10. Qc2 {White realizes that the
+mobility of his center pawns is small as d4 and still more so
+d5, would paralyse him on account of the weakness of
+c5. Therefore he seeks to adapt the movement of his pieces to
+his modest circumstances in space. In this sense he could also
+have played 10 Nd2 (to effect a strategic retreat with f3)
+e.g., 10 Nd2 Bxe2 11 Qxe2 Ng4 12 f3 Nxe3 13 Qxe3 O-O 14 O-O
+with an approximately even position. But 10 Qd2 must be looked
+upon as a misuse of the modest space available, for that
+square should remain open and the queen, in any event, would
+be better placed at c2 with an eye on a4 and the eventual
+threat of ...d5 in view. After 10 Qd2 we recommend 10...Na5 11
+Qc2 O-O followed by ...Rfe8, ...c6, and ...d5, and Black has
+the better position.} O-O {Here too we should prefer ...Na5
+(d4? ...Nxc4)} 11. Qd2 {Now in order as Black's castled
+positionis in jeopardy.} Nh7 {In order to play ...f5, but this
+proves impractical, and the only result is a decentralised
+knight on h7.}12. h3 {Nh4 would also have been sufficient.}
+Bxh3 {This loses a piece. black had only reckoned with 13 Bxh6
+which by the way would also have been strong, e.g., 13 Bxh6
+Bg2 14 Rh2 Bxf3 15 Bxf3 gxh6 16 Qxh6 f6 17 Bg4.} 13. Ng1 Bg4
+14. f3 Be6 15. d4 {Black cannot save the piece.} exd4 16. cxd4
+d5 17. cxd5 Bxd5 18. exd5 Qxd5 19. Rd1 Rfe8 20. Kf2 Nf6 {The
+decentralised knight returns in sackcloth and ashes.} 21. Rh4
+Ne7 22. Bd3 Nf5 23. Bxf5 Qxf5 24. Kg2 Re7 25. Bf2 Rae8 26. Rf4
+Qg6 27. d5 Re5 {If 27...Rd7 28 Qa5.} 28. Rd4 Rd8 29. Qa5 Nh5
+30. Qxc7 Rde8 31. d6 1-0

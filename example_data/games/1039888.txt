@@ -1,0 +1,24 @@
+[Event "Rice CC Summer Tournament"]
+[Site "New York, NY USA"]
+[Date "1913.07.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Oscar Chajes"]
+[Black "Oldrich Duras"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.d4 d5 2.Nf3 e6 3.c4 a6 4.cxd5 exd5 5.Nc3 Bb4 6.e3 Nc6 7.Bd3
+Nf6 8.O-O O-O 9.h3 Re8 10.a3 Bxc3 11.bxc3 Ne4 12.c4 Be6 13.Qc2
+f5 14.Rb1 Rb8 15.Nd2 Na5 16.cxd5 Bxd5 17.Nxe4 fxe4 18.Be2 b5
+19.f3 Nc4 20.fxe4 Rxe4 21.Bxc4 bxc4 22.Rxb8 Qxb8 23.Bd2 Qb3
+24.Qc1 Re6 25.Rf2 h6 26.Bc3 Kh7 27.Kh2 Qb7 28.Qc2+ Be4 29.Qe2
+Qd5 30.Bb4 a5 31.Bd2 Rc6 32.Bc3 Rb6 33.Qg4 Rg6 34.Qf4 Bxg2
+35.Qf5 Qxf5 36.Rxf5 Be4 37.Rf2 Rb6 38.Bxa5 Rb3 39.Bd2 Rxa3
+40.Kg3 g5 41.h4 Kg6 42.hxg5 hxg5 43.Bc1 Rc3 44.Bd2 Rd3 45.Bc1
+Rc3 46.Bd2 Rd3 47.Bc1 c3 48.Rf1 c2 49.Kf2 Rd1 50.Rg1 Kf5
+51.Ba3 g4 52.Bb2 Rxg1 53.Kxg1 g3 54.Bc1 Ke6 55.Kf1 Kd5 56.Ke2
+Kc4 57.Ba3 Kb3 58.Bc1 Ka2 59.Ke1 Kb1 60.Bd2 c1=Q+ 0-1

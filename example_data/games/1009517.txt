@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Hubert Schuh"]
+[Black "Detlef Plump"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O c5 6. c4 cxd4
+7. Qxd4 d6 8. Nc3 a6 9. Rd1 Nbd7 10. Ng5 Bxg2 11. Kxg2 Rc8
+12. Nge4 Rc6 13. b3 Be7 14. Bg5 O-O 15. Nxf6+ Bxf6 16. Bxf6
+Nxf6 17. Rd3 Qe7 18. f3 Rfc8 19. Rad1 Qc7 20. Ne4 Nxe4
+21. Qxe4 h6 22. Qf4 Rd8 23. R1d2 b5 24. cxb5 axb5 25. Qb4 Rc5
+26. e4 Qc6 27. a4 bxa4 28. bxa4 Rc4 29. Qb5 Qxb5 30. axb5 Rb4
+31. h4 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Sao Paulo CLA ITAU"]
+[Site "Sao Paulo CLA ITAU"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Andres Rodriguez Vila"]
+[Black "Ariel Sorin"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.Re1
+b5 8.e5 Nxe5 9.Rxe5 d6 10.Re1 bxa4 11.Bg5 O-O 12.Qe2 h6 13.Bh4
+g5 14.Nxd4 Qd7 15.Bg3 Re8 16.Nc3 Bb7 17.Qd3 Bf8 18.Nf5 Rxe1+
+19.Rxe1 Re8 20.Rxe8 Qxe8 21.h4 Qe1+ 22.Qf1 Qxf1+ 23.Kxf1 Ne4
+24.Nxa4 Bc6 25.b3 Bxa4 26.bxa4 Nc3 27.Ke1 Nxa4 28.Kd2 f6 29.h5
+Kf7 30.Bh2 Ke6 31.g4 Nb6 32.Kd3 c5 33.c3 d5 34.f3 Nc4 35.Bg3
+Kd7 36.Ke2 Kc6 37.Bb8 a5 38.Bg3 Kb5 39.Bc7 Ka4 40.Bd8 Ka3
+41.Ne3 Nxe3 42.Kxe3 a4 43.Kd2 Kxa2 44.Kc2 d4 45.cxd4 cxd4
+46.Bxf6 d3 47.Kxd3 Kb1 48.Kc4 a3 49.Kb3 Kc1 50.Kc3 Kd1 51.Kd3
+a2 52.Bb2 Ba3 0-1

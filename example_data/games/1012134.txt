@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1922.02.05"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Ossip Bernstein"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Ne2 d5 6. exd5
+Nxd5 7. Bxd5 Qxd5 8. O-O Qd8 9. f4 exf4 10. Bxf4 Bxc3 11. Nxc3
+O-O 12. Nb5 a6 13. Nxc7 Ra7 14. c4 b6 15. Nd5 Be6 16. Qf3 Rd7
+17. Qg3 Nd4 18. Rae1 Nf5 19. Qf3 Nh4 20. Qe4 Ng6 21. Nb4 Qa8
+22. Qxa8 Rxa8 23. Re3 a5 24. Nc6 Rc8 25. Ne5 Rd4 26. Bg3 Nxe5
+27. Bxe5 Rd7 28. b3 a4 29. Rg3 g6 30. d4 f5 31. d5 Bf7
+32. Rxf5 Bxd5 33. cxd5 Rxd5 34. Rfg5 Rc1+ 35. Kf2 Rc2+ 36. Ke3
+a3 37. Bd4 Rd6 38. Re5 Rxa2 39. Rf3 Rd8 40. Re7 1-0

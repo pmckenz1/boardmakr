@@ -1,0 +1,16 @@
+[Event "13, Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Iivo Nei"]
+[Black "Vladimir Bagirov"]
+[ECO "D14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.c4 c6 2.Nf3 d5 3.cxd5 cxd5 4.d4 Nc6 5.Nc3 Nf6 6.Bf4 Bf5 7.e3
+e6 8.Bd3 Bxd3 9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.h3 Rfc8
+13.Rfc1 Ne7 14.Ne2 a6 15.Rxc8+ Rxc8 16.Rc1 Rxc1+ 1/2-1/2

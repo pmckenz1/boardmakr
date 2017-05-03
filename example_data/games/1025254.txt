@@ -1,0 +1,16 @@
+[Event "Reykjavik"]
+[Site "07"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vereslav Eingorn"]
+[Black "Yuri Balashov"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2
+a5 8.O-O O-O 9.Qc2 c5 10.dxc5 Bxc5 11.Nc3 Na6 12.Rad1 d5
+13.cxd5 Nb4 14.Qb2 Nbxd5 15.Ne5 1/2-1/2

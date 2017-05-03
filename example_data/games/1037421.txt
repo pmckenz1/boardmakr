@@ -1,0 +1,20 @@
+[Event "6, Toronto CAN ch"]
+[Site "Toronto CAN"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Jonathan Berry"]
+[Black "Lawrence Day"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.e4 Nc6 6.Nge2 Bc5 7.O-O
+d6 8.Nd5 Ne8 9.a3 a5 10.Rb1 Bg4 11.b4 axb4 12.axb4 Nd4 13.Ndc3
+Ba7 14.h3 Nxe2+ 15.Nxe2 Be6 16.d3 Qd7 17.Kh2 b5 18.cxb5 Qxb5
+19.f4 f6 20.Nc3 Qb7 21.Bd2 c6 22.b5 Nc7 23.bxc6 Qxc6 24.Qe2
+Rfb8 25.f5 Bf7 26.g4 Bd4 27.Rbc1 Na6 28.g5 Qd7 29.gxf6 gxf6
+30.Bh6 Kh8 31.Qg4 Rg8 32.Qh4 Qe7 33.Nb5 Nc5 34.Rc2 Rac8
+35.Nxd4 1/2-1/2

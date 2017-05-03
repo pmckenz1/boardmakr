@@ -1,0 +1,25 @@
+[Event "Manila (Philippines)"]
+[Site "Manila PHI"]
+[Date "1968.01.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Renato Naranja"]
+[Black "Eugenio Torre"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Nc6 7.Nc3
+e5 8.d5 Ne7 9.e4 Ne8 10.Ne1 f5 11.Nd3 Rf7 12.f4 fxe4 13.Nxe4
+exf4 14.Bxf4 h6 15.Qd2 Kh7 16.Bxh6 Rxf1+ 17.Rxf1 Bxh6 18.Rf7+
+Bg7 19.Qg5 Kg8 20.Rxe7 Bf5 21.Nf4 Kf8 22.Ne6+ Bxe6 23.Rxe6
+Qxg5 24.Nxg5 Nf6 25.b3 a5 26.Re1 Re8 27.Rxe8+ Nxe8 28.Be4 Bf6
+29.Ne6+ Kf7 30.h4 c5 31.Nf4 g5 32.hxg5 Bd4+ 33.Kg2 Ng7 34.Bg6+
+Ke7 35.Kf3 b6 36.g4 Be5 37.Nh5 Kf8 38.Ng3 Ke7 39.Nf5+ Kd7
+40.Ke4 Kd8 41.Bf7 Kd7 42.Bg6 Kd8 43.a4 Kd7 44.Bf7 Kd8 45.Kf3
+Kd7 46.Be6+ Ke8 47.Ng3 Ke7 48.Nh5 Bb2 49.Nf6 Kd8 50.Nd7 Kc7
+51.Bf5 Bc3 52.Nf8 Kd8 53.Ne6+ Ke7 54.Nc7 Bd2 55.g6 Bc3 56.Na8
+Kd8 57.Ke4 Be5 58.Nxb6 Kc7 59.Nc8 Kd8 60.Na7 Bc3 61.Kd3 Be1
+62.Be6 Ke8 63.Nc6 Kf8 64.Bf7 1-0

@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.29"]
+[EventDate "1928.09.21"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Zoltan von Balla"]
+[Black "Arpad Vajda"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 e6 3. a3 Be7 4. Nc3 O-O 5. e4 d6 6. f4 c5
+7. Nf3 cxd4 8. Nxd4 Nc6 9. Nxc6 bxc6 10. Be2 Qb6 11. b4 a5
+12. Rb1 axb4 13. axb4 Ba6 14. Qd2 d5 15. c5 Qb7 16. e5 Ne4
+17. Nxe4 dxe4 18. Bxa6 Qxa6 19. Qe2 Rfb8 20. Qxa6 Rxa6 21. Be3
+Ra4 22. O-O Raxb4 23. Rxb4 Rxb4 24. Ra1 f5 25. Ra8+ 1/2-1/2

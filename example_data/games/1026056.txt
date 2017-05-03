@@ -1,0 +1,25 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Rini Kuijf"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.d3 Nd7 5.h3 Bh5 6.Nbd2 e6 7.b3
+Bd6 8.Bb2 e5 9.O-O Ne7 10.e4 O-O 11.Qe1 Qc7 12.Nh4 Rae8 13.a3
+f6 14.Kh1 Bf7 15.Qe3 Bc5 16.Qe2 Bd4 17.c3 Bb6 18.Rad1 Nc5
+19.b4 Ne6 20.Rfe1 Ng5 21.Rf1 Ne6 22.Bf3 Qd8 23.Bg4 Ng6 24.Nf5
+Kh8 25.h4 Ne7 26.Nf3 Nxf5 27.exf5 Nc7 28.h5 e4 29.Nh4 exd3
+30.Qxd3 Re4 31.Bf3 Rc4 32.h6 Nb5 33.hxg7 Kxg7 34.a4 Nd6 35.a5
+Bc7 36.Ng2 Re8 37.Ne3 Rxe3 38.Qxe3 Nxf5 39.Qd2 Qd6 40.Rg1 Bg6
+41.Rg2 Qe6 42.Re1 Qf7 43.Rh2 Nd6 44.Qh6+ Kg8 45.Bh5 Re4
+46.Rxe4 Nxe4 47.Bxg6 Qxg6 48.Qe3 b6 49.Kg2 Qg5 50.Qxg5+ Nxg5
+51.axb6 Bxb6 52.Rh4 Kg7 53.c4 Ne6 54.cxd5 cxd5 55.Rh5 d4
+56.Rd5 Kg6 57.Kf3 h5 58.Ke4 Ng5+ 59.Kd3 Ne6 60.Rd6 Kf5 61.Kc4
+Ke5 62.Rd5+ 1-0

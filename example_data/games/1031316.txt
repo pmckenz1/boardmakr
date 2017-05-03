@@ -1,0 +1,17 @@
+[Event "Buenos Aires (Argentina)"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Carlos Enrique Guimard"]
+[Black "Julio Bolbochan"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c5 5.d5 d6 6.Bg2 O-O 7.O-O Na6
+8.Nc3 Nc7 9.Re1 Rb8 10.a4 a6 11.a5 b5 12.axb6 Rxb6 13.Ra3 e6
+14.e4 exd5 15.exd5 Re8 16.b3 Rxe1+ 17.Qxe1 Qe8 18.Qxe8+ Ncxe8
+19.Na4 Rb7 1/2-1/2

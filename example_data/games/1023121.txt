@@ -1,0 +1,26 @@
+[Event "8, Leningrad URS ch"]
+[Site "8, Leningrad URS ch"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Evgeni Ellinovich Sveshnikov"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bd3 b4 9.Ne4 c5 10.Qa4 Bb7 11.Ne5 a6 12.Ng5 Qc7 13.Ngxf7
+Bxg2 14.Rg1 Bc6 15.Qxc6 Qxc6 16.Nxc6 Kxf7 17.f4 g6 18.Ne5+
+Nxe5 19.fxe5 Nd5 20.Rf1+ Ke8 21.Bd2 Bh6 22.Ke2 cxd4 23.exd4
+Bxd2 24.Kxd2 Ke7 25.Rac1 Rhf8 26.Bc4 Rxf1 27.Rxf1 a5 28.Bxd5
+exd5 29.Rc1 Rf8 30.Ke3 g5 31.Rc5 Ke6 32.Rxa5 g4 33.Ra6+ Ke7
+34.Ra7+ Ke6 35.Ra6+ Ke7 36.Rf6 Ra8 37.Rb6 Rf8 38.Rf6 Ra8
+39.Rh6 Rxa2 40.Rxh7+ Ke6 41.Rh6+ Ke7 42.b3 Rb2 43.Kf4 Rxb3
+44.Rd6 Rb1 45.Rxd5 b3 46.Rb5 b2 47.Kg5 Kd7 48.Kg6 Ke6 49.Rb6+
+Kd5+ 50.Rb4 Ke4 51.e6 Kd5 52.e7 Re1 53.Kf6 Rf1+ 54.Kg5 Re1
+55.Rxb2 Rxe7 56.Kxg4 Re4+ 57.Kg5 Rxd4 58.Rb6 Ke5 59.h4 Rd1
+60.Kg6 Rg1+ 61.Kf7 Rf1+ 62.Kg7 Rg1+ 63.Rg6 Rh1 64.Rh6 Rg1+
+65.Kf7 Rf1+ 66.Ke7 Ra1 1/2-1/2

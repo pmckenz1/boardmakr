@@ -1,0 +1,22 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1974.01.28"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Albin Planinc"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Nc3
+Be7 8.d3 O-O 9.Bd2 d6 10.a4 Na5 11.Ba2 b4 12.Ne2 d5 13.exd5
+Bxd5 14.Bxd5 Qxd5 15.Ng3 Rfe8 16.Re1 Bf8 17.Qe2 Nc6 18.b3 h6
+19.Be3 Qd7 20.Nh4 Nd5 21.Qf3 g6 22.Ne4 f5 23.Nc5 Qf7 24.Nxg6
+Bd6 25.Nb7 f4 26.Nxd6 cxd6 27.Bb6 a5 28.Nh4 Nce7 29.d4 Nxb6
+30.dxe5 dxe5 31.Rxe5 Qf6 32.Qg4+ Kh7 33.Rae1 Ned5 34.Nf3 Rxe5
+35.Rxe5 Rg8 36.Qh5 Qg6 37.Ng5+ Kg7 38.Qg4 Kh8 39.Qh4 Nf6 40.g3
+Nbd5 41.Nf3 Rf8 42.Rg5 Qh7 43.Re5 Kg8 44.Nd4 Qg6 45.Ne6 Qxc2
+46.Qxh6 Qc1+ 0-1

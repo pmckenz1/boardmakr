@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Costas Harris"]
+[Black "Eddie Dearing"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 Be7 5. Bg2 O-O 6. Ngf3 c5
+7. O-O Nc6 8. Re1 b5 9. e5 Nd7 10. Nf1 a5 11. h4 b4 12. N1h2
+a4 13. a3 Ba6 14. Bf4 Qb6 15. Ng5 Nd4 16. axb4 cxb4 17. c3
+bxc3 18. bxc3 Nb3 19. Rxa4 Qb5 20. Rxa6 Rxa6 21. c4 dxc4
+22. dxc4 Qb4 23. Rf1 Ndc5 24. Qh5 Bxg5 25. hxg5 Qxc4 26. Ng4
+Qd3 27. Be3 Rc8 28. Qh4 Ra4 29. Bxc5 Nxc5 30. Rc1 Qd2 31. Rxc5
+Qd1+ 32. Kh2 Rxc5 33. g6 hxg6 34. Qe7 Rc8 35. Bb7 Rb8 36. Ne3
+Qh5+ 37. Kg2 Ra1 38. Nf1 Ra7 0-1

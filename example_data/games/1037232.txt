@@ -1,0 +1,21 @@
+[Event "London (England)"]
+[Site "London (England)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Joel Adler"]
+[Black "Nigel Rodney Davies"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6 7.Nc3
+O-O 8.b3 Nbd7 9.Bb2 a6 10.Rc1 Qe7 11.Na4 Ne4 12.Qe2 f5 13.Rc2
+dxc4 14.bxc4 c5 15.Rd1 Rad8 16.Nc3 Kh8 17.d5 Nxc3 18.Bxc3 exd5
+19.cxd5 b5 20.Rcd2 Rc8 21.e4 fxe4 22.Qxe4 Qxe4 23.Bxe4 b4
+24.Ba1 c4 25.Bd4 Nf6 26.Bf5 Rce8 27.Be6 c3 28.Rd3 Bf4 29.Bxc3
+bxc3 30.Rxc3 Re7 31.g3 Bd6 32.Rb3 Ne4 33.Nd4 g6 34.f4 Bc5
+35.Kf1 Rd8 36.Rbd3 Nf6 37.Nc6 Bxc6 38.dxc6 Rxd3 39.Rxd3 Rc7
+40.Bd7 Kg7 41.g4 Be7 42.h3 Kf7 43.Ke2 Nxd7 44.cxd7 Bd8 0-1

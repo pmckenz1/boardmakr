@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "1-0"]
+[White "Nikolai Kovalenko"]
+[Black "Sergey Stepanenko"]
+[ECO "E65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. Nf3 d6 2. d4 g6 3. c4 Bg7 4. Nc3 Nf6 5. g3 O-O 6. Bg2 c5
+7. O-O cxd4 8. Nxd4 Nbd7 9. b3 a6 10. Bb2 Qc7 11. Rc1 Nb6
+12. Qd2 Bd7 13. e4 Rfe8 14. a4 Rac8 15. a5 Na8 16. Nd5 Nxd5
+17. cxd5 Qb8 18. f4 Rxc1 19. Rxc1 Rc8 20. Bf1 Rxc1 21. Qxc1
+Qc7 22. Qxc7 Nxc7 23. Bc3 Nb5 24. Nxb5 Bxb5 25. Bxg7 Bxf1
+26. Kxf1 Kxg7 27. Ke2 Kf6 28. Kd3 e6 29. Kd4 Ke7 30. g4 h6
+31. dxe6 fxe6 32. h4 Kd7 33. f5 exf5 34. exf5 gxf5 35. gxf5
+Ke7 36. Kd5 h5 37. b4 Kf6 38. Kxd6 Kxf5 39. Kc7 Kg4 40. Kxb7
+Kxh4 41. Kxa6 Kg3 42. Kb6 1-0

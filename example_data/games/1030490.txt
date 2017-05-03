@@ -1,0 +1,19 @@
+[Event "Bled"]
+[Site "Bled SVN"]
+[Date "1931.09.03"]
+[EventDate "1931.08.23"]
+[Round "9"]
+[Result "0-1"]
+[White "Vasja Pirc"]
+[Black "Gosta Stoltz"]
+[ECO "E38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Qa5 7.Bd2
+Qxc5 8.e3 d5 9.a3 Bxc3 10.Qxc3 O-O 11.b4 Qe7 12.Qc2 Ne4 13.Bc1
+Bd7 14.Bd3 f5 15.Bb2 Rac8 16.O-O Be8 17.b5 Na5 18.a4 Nxc4
+19.Ba3 Nxa3 20.Qxc8 Nc4 21.Bxc4 Bh5 22.Qxf8+ Kxf8 23.Be2 Nc3
+24.Bd3 Bxf3 25.gxf3 Qg5+ 26.Kh1 Qh5 27.Kg2 e5 28.Rfc1 d4
+29.Rxc3 dxc3 30.Rc1 e4 31.Be2 Qg6+ 32.Kf1 Qf6 33.f4 h6 0-1

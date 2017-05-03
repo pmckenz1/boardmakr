@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Dmitry Fedorovich Losev"]
+[Black "Ilya Frog"]
+[ECO "B11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. Be2 e6
+7. O-O Be7 8. d3 O-O 9. Qg3 Nbd7 10. e5 Ne8 11. f4 g6 12. Nd1
+Ng7 13. c3 b5 14. d4 b4 15. Qd3 bxc3 16. bxc3 c5 17. Ne3 Qa5
+18. Bd2 Qa4 19. Qb5 Qxb5 20. Bxb5 Nb6 21. a4 a6 22. Be2 a5
+23. Rfb1 Rfb8 24. Rb5 c4 25. Rab1 Bd8 26. Bf3 Bc7 27. Rc5 Ne8
+28. Bd1 Nd7 29. Rcb5 Rxb5 30. Rxb5 Rb8 31. Rxb8 Bxb8 32. g4 f5
+33. Kf2 Bc7 34. Bc1 Bd8 35. Kg3 Be7 36. Bc2 Ng7 37. Ng2 Nb6
+38. Ne3 Kf7 39. Nf1 fxg4 40. hxg4 h5 41. Nh2 hxg4 42. Kxg4 Nf5
+43. Nf3 Ke8 44. Ng5 Kd7 45. Nf7 Ba3 46. Bd2 Bb2 47. Kg5 Ng3
+48. Nd6 Nf1 49. Be1 Ba3 50. Nb5 Be7+ 51. Kxg6 Ne3 52. Bb1 Nxa4
+0-1

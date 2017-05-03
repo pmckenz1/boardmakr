@@ -1,0 +1,17 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Paul van der Sterren"]
+[Black "Zoltan Ribli"]
+[ECO "A35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. d4 Bg7 6. d5 Na5
+7. Nd2 O-O 8. a3 d6 9. b4 Ng4 10. bxa5 Bxc3 11. Rb1 Qxa5
+12. e3 Ne5 13. Be2 Bh3 14. f3 Bxd2+ 15. Bxd2 Qxa3 16. Kf2 Nd3+
+17. Kg1 Nb4 18. Kf2 Nd3+ 19. Kg1 Nb4 20. Kf2 1/2-1/2

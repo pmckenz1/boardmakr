@@ -1,0 +1,17 @@
+[Event "Balassagyarmat (Hungary)"]
+[Site "Balassagyarmat HUN"]
+[Date "1990.09.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Matthias Roeder"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2
+Nxc3 8.Qxc3 h6 9.Bf4 Bd6 10.Bg3 O-O 11.e3 Nd7 12.Bb5 Bxg3
+13.hxg3 c6 14.Ba4 Rc8 15.Rd1 Nf6 16.O-O Qc7 17.Rc1 Rfd8
+18.Rfd1 Ne4 19.Qe1 Qe7 1/2-1/2

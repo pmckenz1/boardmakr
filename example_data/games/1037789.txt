@@ -1,0 +1,20 @@
+[Event "London CAN op"]
+[Site "09"]
+[Date "1993.07.16"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Matthew Struthers"]
+[Black "Lawrence Day"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 g6 2.d4 Bg7 3.c4 c5 4.d5 d6 5.Nc3 Nf6 6.Bd3 O-O 7.Nge2 e5
+8.f3 Na6 9.Bg5 Nb4 10.Bb1 Bd7 11.O-O Rb8 12.a3 Na6 13.Bd3 Nc7
+14.b4 b6 15.b5 Qe8 16.Ng3 h6 17.Bc2 h5 18.h4 Nh7 19.Bd2 Qe7
+20.Nge2 Kh8 21.f4 exf4 22.Nxf4 Be5 23.Ra2 Ne8 24.Nce2 Nef6
+25.g3 Rg8 26.Kh1 Rg7 27.Ng2 Ng4 28.Ng1 Bf6 29.Nf3 Ne5 30.Nxe5
+Bxe5 31.Bh6 Rgg8 32.Rf2 Be8 33.Nf4 Qd7 34.Qf3 Nf6 35.Rg2 Ra8
+36.Nh3 Qxh3+ 0-1

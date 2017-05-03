@@ -1,0 +1,16 @@
+[Event "9th DSB Kongress, Leipzig"]
+[Site "Leipzig GER"]
+[Date "1894.09.05"]
+[EventDate "1894.09.03"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Johann Nepomuk Berger"]
+[Black "Joseph Henry Blackburne"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 d5 2.e3 g6 3.Nf3 Bg7 4.Be2 Nd7 5.Nc3 c6 6.e4 dxe4 7.Nxe4
+Ngf6 8.Nxf6+ Nxf6 9.c3 O-O 10.O-O Qc7 11.Be3 Nd5 12.Qc1 Nxe3
+13.Qxe3 Bg4 14.Nd2 Bxe2 15.Qxe2 e5 16.dxe5 Bxe5 1/2-1/2

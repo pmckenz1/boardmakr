@@ -1,0 +1,22 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Wilhelm Kunze"]
+[Black "Arthur Sartori"]
+[ECO "B41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nd2 Qc7
+7. O-O Nc6 8. N4b3 d5 9. Bf3 d4 10. g3 e5 11. Bg2 Bg4 12. f3
+Be6 13. a3 Be7 14. f4 Ng4 15. Nf3 Bc4 16. Re1 Qb6 17. Nfxd4
+Nxd4 18. Nxd4 Qxd4+ 19. Qxd4 exd4 20. b4 Bd8 21. e5 Bb6
+22. Bxb7 d3+ 23. Kg2 Rd8 24. Bc6+ Ke7 25. cxd3 Rxd3 26. f5 Rc8
+27. f6+ gxf6 28. exf6+ Kxf6 29. Re4 Rxc6 30. Bb2+ Kg5 31. Bc1+
+Kh5 32. Rf4 Bd5+ 33. Kf1 Rd1+ 34. Ke2 Rcxc1 35. Rxc1 Rxc1
+36. Rf5+ Kg6 37. Rxd5 Rc6 38. h4 f5 39. Rd3 Bc7 40. Ke1 Re6+
+0-1

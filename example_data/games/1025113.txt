@@ -1,0 +1,18 @@
+[Event "Berlin op"]
+[Site "06"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Matthias Wahls"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.Nbd2
+Bg7 8.Nf1 O-O 9.Ng3 Nb8 10.O-O Nbd7 11.Bc2 d5 12.Bg5 c6
+13.exd5 cxd5 14.Re1 h6 15.Bd2 Re8 16.b4 b6 17.a4 Bb7 18.a5 b5
+19.h3 Rc8 20.Rc1 Nh7 21.d4 e4 22.Nh2 h5 23.Bb3 f5 24.Ne2 Ndf8
+25.Rc2 h4 26.Qc1 g5 27.f4 Ne6 1/2-1/2

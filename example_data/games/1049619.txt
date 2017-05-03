@@ -1,0 +1,21 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Wolfgang Unzicker"]
+[ECO "C95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.c4 c6 12.cxb5 axb5 13.Nc3
+Ba6 14.Bg5 h6 15.dxe5 Nxe5 16.Nxe5 dxe5 17.Bxf6 Bxf6 18.Qh5
+Qe7 19.Rad1 Bc8 20.Re3 Be6 21.Rg3 Kh8 22.Rgd3 Bxb3 23.axb3
+Rad8 24.Rxd8 Rxd8 25.Rxd8+ Qxd8 26.Qxf7 Qd2 27.g3 Qxb2 28.Qf8+
+Kh7 29.Qc5 Qxb3 30.Qxc6 b4 31.Nd5 Qb1+ 32.Kh2 b3 33.Qd7 Kh8
+34.Qc8+ Kh7 35.Qf5+ Kh8 36.Qc8+ Kh7 37.Nxf6+ gxf6 38.Qf5+ Kh8
+39.Qxf6+ Kh7 1/2-1/2

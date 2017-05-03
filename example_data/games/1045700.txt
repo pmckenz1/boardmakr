@@ -1,0 +1,30 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Lubomir Ftacnik"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "167"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. c3 O-O 5. Nbd2 d5 6. e3 Nbd7
+7. Be2 Re8 8. b4 c6 9. O-O a5 10. a4 e5 11. b5 c5 12. dxe5
+Nxe5 13. Rc1 h6 14. Bh4 Nxf3+ 15. Bxf3 c4 16. Bxf6 Bxf6
+17. Re1 Be6 18. Bg4 Rc8 19. Bxe6 Rxe6 20. Nf3 Rd6 21. Re2 Qe7
+22. Rd2 Rcd8 23. Nd4 Qe4 24. Ne2 Bg7 25. Ng3 Qe7 26. Qc2 h5
+27. Ne2 Be5 28. Rcd1 Kf8 29. Qb2 Qc7 30. h3 Kg8 31. Kf1 Qc5
+32. Nd4 Bf6 33. Ra1 R8d7 34. Qc1 Re7 35. Qa3 Qb6 36. Rad1 Red7
+37. Ne2 Be7 38. Qb2 Bg5 39. Qc2 Qc5 40. Nd4 Re7 41. Rb1 Red7
+42. g3 Kg7 43. Kg2 Kg8 44. Qd1 Bf6 45. Kg1 Bg7 46. Ra1 Re7
+47. Qc2 Bh6 48. Kg2 Bg7 49. h4 Bh6 50. Rad1 Red7 51. Kf1 Re7
+52. Re2 Bg7 53. Qb2 Re4 54. Red2 Re7 55. Ke1 Re4 56. Ne2 Bh6
+57. Nd4 Bg7 58. Nc2 Kf8 59. Re2 Ke8 60. Kd2 Kd8 61. Kc1 Kc7
+62. Red2 Kb6 63. Nd4 Bxd4 64. Rxd4 Rxd4 65. Rxd4 Re6 66. Kb1
+Re5 67. Ka2 Qe7 68. Qd2 Qe6 69. Kb2 Kc7 70. Kc2 Qd6 71. f4 Re4
+72. Rxd5 Qe7 73. Rd4 Qe6 74. Kb2 b6 75. Qe2 Rxe3 76. Qxc4+
+Qxc4 77. Rxc4+ Kb7 78. Rc6 Rxg3 79. Rf6 Rg4 80. Rxf7+ Kb8
+81. Kc2 Rxh4 82. Kd3 Rg4 83. Ke3 g5 84. fxg5 1/2-1/2

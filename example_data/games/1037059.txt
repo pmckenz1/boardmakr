@@ -1,0 +1,16 @@
+[Event "Rubinstein Memorial 27th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1989.08.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Hans-Ulrich Gruenberg"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 c6 6.Nc3 d5 7.Qb3 a5
+8.c5 Ne4 9.Be3 Nxc3 10.Qxc3 Nd7 11.O-O Re8 12.Rfe1 e5 13.dxe5
+Nxe5 14.Bd4 Nxf3+ 15.Bxf3 Bxd4 16.Qxd4 1/2-1/2

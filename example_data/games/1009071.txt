@@ -1,0 +1,23 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Evgenij Miroshnichenko"]
+[Black "Andras Toth"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3
+g6 7. d4 cxd4 8. Nxd4 Bg7 9. Be3 Nf6 10. f3 O-O 11. O-O Rfc8
+12. Nde2 Qd8 13. Qd2 a6 14. b3 Qa5 15. a4 Rab8 16. Rab1 Qb4
+17. Rfc1 Nd7 18. Kh1 Kf8 19. Nf4 Nc5 20. Nfd5 Qa3 21. Qd1 e6
+22. Nf4 Rd8 23. Rc2 Bxc3 24. Rxc3 b5 25. Qe1 b4 26. Bc1 Qa2
+27. Rb2 Qxb2 28. Bxb2 bxc3 29. Bxc3 Rxb3 30. h3 Ne5 31. Kh2
+Rdb8 32. Qd2 Ke7 33. Ne2 Nxa4 34. Bd4 R8b4 35. Bxe5 dxe5
+36. Nc1 Rb2 37. Qg5+ f6 38. Qh6 Rxc4 39. Nd3 Ra2 40. Qxh7+ Kd6
+41. Qh8 Rd4 42. Qxf6 Rxd3 43. Qd8+ Kc6 44. Qxd3 Nc5 45. Qc3
+Kd6 46. Qb4 Kc6 47. Qb8 1-0

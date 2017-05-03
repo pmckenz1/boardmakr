@@ -1,0 +1,15 @@
+[Event "RUS-chT Kazan"]
+[Site "03"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Peter Svidler"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 a6 7.Nge2
+Nbd7 8.Ng3 c6 9.a4 Qa5 10.Qc1 1/2-1/2

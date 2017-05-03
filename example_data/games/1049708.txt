@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Averbakh"]
+[Black "Efim Geller"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.c4 g6 2.Nc3 Bg7 3.d4 Nf6 4.e4 d6 5.Be2 O-O 6.Bg5 h6 7.Be3 c5
+8.d5 e6 9.h3 exd5 10.exd5 Re8 11.Nf3 Bf5 12.g4 Be4 13.O-O Bxf3
+14.Bxf3 Nbd7 15.Bf4 Nb6 16.Qd3 Nfd7 17.Rae1 Ne5 18.Bxe5 Bxe5
+19.b3 Qf6 20.Ne4 Qf4 21.Ng3 Nd7 22.Kg2 a6 23.Bd1 Bf6 24.Bc2
+Rxe1 25.Rxe1 Bd4 26.Qf3 Qxf3+ 27.Kxf3 b5 28.Ne4 Be5 29.Bd3 b4
+30.h4 a5 31.Bc2 Kg7 32.Re2 Re8 33.Ng3 Rd8 34.Ne4 Rf8 35.Ng3
+Rh8 36.Kg2 Rd8 37.Ne4 Bf4 38.f3 g5 39.h5 Ne5 40.Nf2 a4 41.Nd3
+axb3 42.axb3 Nxd3 1/2-1/2

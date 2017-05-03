@@ -1,0 +1,24 @@
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1971.09.23"]
+[EventDate "1971.09.15"]
+[Round "6"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Yuri V Nikolaevsky"]
+[ECO "C93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 h6 10.d4 Re8 11.Be3 Bf8 12.Nbd2 Bb7 13.Qb1 d5
+14.dxe5 Nxe4 15.Nxe4 dxe4 16.Qxe4 Na5 17.Qg4 Nxb3 18.axb3 Bxf3
+19.Qxf3 Rxe5 20.Bf4 Rxe1+ 21.Rxe1 c5 22.Qb7 Qc8 23.Qxc8 Rxc8
+24.Rd1 Be7 25.Be3 Rc7 26.g4 Kf8 27.Kg2 Ke8 28.Kf3 Rd7 29.Ra1
+Rd6 30.Ke2 Re6 31.f4 Kd7 32.Kf3 Kc8 33.f5 Rc6 34.Ke4 Kc7
+35.Rd1 Bg5 36.Bf2 Be7 37.Rd5 Bd6 38.Be3 f6 39.Bg1 a5 40.Be3
+Kc8 41.Rd2 Kc7 42.Kd5 Bf8 43.Bf4+ Kd7 44.c4 Rb6 45.Be3 Rd6+
+46.Ke4 bxc4 47.bxc4 Kc6 48.b3 Be7 49.Kf3 Rd7 50.Rxd7 Kxd7
+51.Kg3 Bd6+ 52.Kh4 Ke7 53.Kh5 Kf7 54.Bf2 Kf8 55.Kg6 Kg8 56.Be1
+Bc7 57.Bc3 Kf8 58.h4 Kg8 59.g5 hxg5 60.hxg5 Be5 61.Bxe5 1-0

@@ -1,0 +1,25 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Vadim Novichkov"]
+[Black "Iokhan Doukhine"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4
+7. cxd5 Nxd5 8. Be2 e6 9. O-O Be7 10. Be3 O-O 11. Rc1 Rc8
+12. Qd2 Nxc3 13. bxc3 Na5 14. h3 Bf5 15. Bd3 Bxd3 16. Qxd3 Qd5
+17. Nd2 Qxa2 18. c4 Qa3 19. Rc3 Qa4 20. c5 Qd7 21. Ra1 Nc6
+22. Qb5 a6 23. Qb3 Nxd4 24. Bxd4 Qxd4 25. Nf3 Qd5 26. Qxd5
+exd5 27. Rb3 Rc7 28. Rab1 Bxc5 29. Rxb7 Rxb7 30. Rxb7 Rd8
+31. Ne5 d4 32. Nd3 Bf8 33. Ra7 Rd6 34. g4 h6 35. Kg2 g6
+36. Kf3 Bg7 37. Ke4 Re6+ 38. Kf3 Rc6 39. Ra8+ Kh7 40. Ra7 f5
+41. gxf5 gxf5 42. h4 h5 43. Ne5 Rc5 44. Nf7 Kg6 45. Nd8 Rc3+
+46. Kf4 Ra3 47. Ne6 Bh6+ 48. Ke5 d3 49. Nf4+ Bxf4+ 50. Kxf4
+Kf6 51. Ke3 a5 52. Ra6+ Ke5 53. Rh6 f4+ 54. Kf3 Ra1 55. Rxh5+
+Kd4 56. Rh8 d2 57. Rd8+ Kc3 0-1

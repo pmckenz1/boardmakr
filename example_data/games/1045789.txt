@@ -1,0 +1,21 @@
+[Event "Prague zt"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Jordan N Grigorov"]
+[Black "Lubomir Ftacnik"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6
+7. Be2 Be7 8. O-O O-O 9. Kh1 Qc7 10. a4 Nc6 11. Be3 Re8
+12. Bd3 Bd7 13. Nb3 Nb4 14. a5 e5 15. Na4 Bg4 16. Qd2 d5
+17. Bb6 Qb8 18. fxe5 Qxe5 19. Bd4 Qh5 20. e5 Nd7 21. Nac5 Nxc5
+22. Nxc5 Nc6 23. c3 Nxe5 24. Nxb7 Bg5 25. Be3 Nxd3 26. Bxg5
+Be2 27. Nd6 Re6 28. Nf5 Bxf1 29. Rxf1 Qe2 30. Qxe2 Rxe2
+31. Ne7+ Kf8 32. Nxd5 Rae8 33. Kg1 Rxb2 34. Rd1 Ree2 35. Nf4
+Nxf4 0-1

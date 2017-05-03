@@ -1,0 +1,20 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "0-1"]
+[White "Vladimir Salenko"]
+[Black "Alexander Kovalenko"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4
+Qb6 7. Nb3 e6 8. Qe2 a6 9. g4 Ne5 10. g5 Nfd7 11. Bd5 Qc7
+12. f4 Nc6 13. Be3 b5 14. a4 b4 15. Bxc6 Qxc6 16. Nd5 exd5
+17. Na5 Qc7 18. exd5 Be7 19. Nc6 Nb8 20. Bb6 Qd7 21. Nd4 O-O
+22. O-O-O Bd8 23. Bxd8 Qxd8 24. Rhe1 Bd7 25. Qh5 Qc8 26. Rd3
+Re8 27. Rde3 Rxe3 28. Rxe3 g6 29. Qh4 Qf8 30. Qe1 a5 31. Re7
+Be6 32. f5 Qxe7 33. f6 Qe8 34. dxe6 fxe6 0-1

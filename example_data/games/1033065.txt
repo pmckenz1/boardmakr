@@ -1,0 +1,18 @@
+[Event "10s, BL"]
+[Site "10s, BL Hiarcs 7.32"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "D Bauer"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 Qc7
+7. O-O b5 8. e5 Qxe5 9. Bf3 d5 10. Re1 Qc7 11. Bxd5 Nxd5
+12. Nxd5 Qd8 13. Bf4 Bd6 14. Bxd6 Qxd6 15. Nf5 Qc6 16. Nde7
+Qc5 17. Nxc8 O-O 18. Nce7+ Kh8 19. Qd4 Qxd4 20. Nxd4 Nd7
+21. Rac1 Ra7 22. Nec6 Rc7 23. c3 Re8 24. Nb4 Nc5 25. Nb3 1-0

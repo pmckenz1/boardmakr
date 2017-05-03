@@ -1,0 +1,25 @@
+[Event "Teplitz-Schönau"]
+[Site "Teplice-Sanov CSR"]
+[Date "1922.10.06"]
+[EventDate "1922.10.02"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Jacques Mieses"]
+[Black "Borislav Kostic"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Qf3 Qc5
+6. Qc3 e5 7. Nf3 Nc6 8. Qxc5 Bxc5 9. Bb5 Bd7 10. O-O f6 11. d3
+O-O-O 12. Be3 Bxe3 13. fxe3 Nb4 14. Bxd7+ Rxd7 15. Rf2 e4
+16. dxe4 Re8 17. e5 f5 18. a3 Nc6 19. Nd4 Rxe5 20. Nxf5 g6
+21. Nd4 Rxe3 22. Nxc6 bxc6 23. Raf1 c5 24. g3 Kb7 25. Rf7 Rd2
+26. R1f2 Ree2 27. Rxe2 Rxe2 28. Rf2 Re7 29. Kf1 Kc6 30. Re2
+Rd7 31. Ke1 a5 32. Re4 Rd4 33. Re7 h5 34. Ke2 Rd6 35. Ke3 Rf6
+36. h4 a4 37. Re8 Kd5 38. Rd8+ Ke5 39. Re8+ Kd5 40. Rd8+ Ke5
+41. Ra8 Rb6 42. Rxa4 Rxb2 43. Kd3 Kd5 44. Ra8 Ra2 45. Kc3 Ra1
+46. Rd8+ Kc6 47. Kb2 Rg1 48. Rd3 Re1 49. Rb3 Re4 50. Rf3 Rg4
+51. Kc3 Kb5 52. Kd2 Ka4 53. Rc3 Kb5 54. Ke2 g5 55. hxg5 Rxg5
+56. Kf3 Rg4 57. Rb3+ Ka4 58. Rc3 Kb5 1/2-1/2

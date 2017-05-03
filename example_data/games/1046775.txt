@@ -1,0 +1,28 @@
+[Event "Borzhomi UGEOO"]
+[Site "07"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Eliska Klimova-Richtrova"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "156"]
+
+1.c4 e6 2.Nc3 d5 3.d4 f5 4.Nf3 Nf6 5.Bf4 c6 6.e3 Be7 7.h3 Qa5
+8.Bd3 O-O 9.O-O Ne4 10.a3 Nd7 11.b4 Qd8 12.Qc2 Qe8 13.b5 Qh5
+14.bxc6 bxc6 15.cxd5 cxd5 16.Nb5 g5 17.Bh2 Ndf6 18.Nc7 g4
+19.Ne5 Bb7 20.Nxa8 Bxa8 21.Be2 Bd6 22.f3 gxf3 23.Rxf3 Qh6
+24.Bf4 Qg7 25.Nd3 Bb7 26.Bxd6 Nxd6 27.Qc5 Nc4 28.Nf4 Re8
+29.Kh2 Ne4 30.Qb5 Ncd6 31.Qb4 Qc7 32.Rg1 Kh8 33.g4 fxg4
+34.Rxg4 Nf5 35.Bd3 Bc6 36.Qe1 Rb8 37.Rg2 Qe7 38.Rg4 Rb2+
+39.Kh1 Qxa3 40.Qg1 Rb8 41.h4 Qe7 42.h5 Nh6 43.Rg2 Nf5 44.Rh3
+Qf6 45.Qc1 Ba4 46.Qc7 Re8 47.Qxa7 Bd1 48.Qd7 Qe7 49.Qxe7 Rxe7
+50.h6 Bg4 51.Bxe4 Bxh3 52.Nxh3 dxe4 53.Ng5 Nxh6 54.Nxe4 Ng8
+55.Ng5 Nf6 56.Rf2 Kg7 57.Kg2 Nd5 58.e4 h6 59.Nh3 Nf6 60.e5 Nh5
+61.Ra2 Rd7 62.Ra4 Kg6 63.Kf3 Kf5 64.Nf2 Rb7 65.Ng4 Kg5 66.Nxh6
+Rb3+ 67.Kf2 Kxh6 68.Ra6 Nf4 69.d5 Nxd5 70.Rd6 Kg5 71.Rd8 Kf4
+72.Rf8+ Kxe5+ 73.Re8 Kf5 74.Ke2 Nf6 75.Re7 Rb2+ 76.Kd3 Nd5
+77.Re8 Nf4+ 78.Kc3 Rb7 1/2-1/2

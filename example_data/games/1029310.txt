@@ -1,0 +1,26 @@
+[Event "1st Anglo-American Cable Match"]
+[Site "London ENG / New York USA"]
+[Date "1896.03.13"]
+[EventDate "1896.03.13"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Harry Nelson Pillsbury"]
+[Black "Joseph Henry Blackburne"]
+[ECO "D26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Nc3 c6 6.Bxc4 Nbd7 7.O-O
+Bd6 8.e4 e5 9.dxe5 Nxe5 10.Nxe5 Bxe5 11.Qxd8+ Kxd8 12.Bxf7 Rf8
+13.Bb3 Bxc3 14.Rd1+ Bd7 15.bxc3 Nxe4 16.Ba3 Rf6 17.Rd4 Nxc3
+18.Re1 Kc7 19.Re7 Rd8 20.Rd3 Nd5 21.Rxg7 Rg6 22.Rf7 Kc8
+23.Bxd5 cxd5 24.Rxh7 Bf5 25.Rc3+ Kb8 26.Rcc7 Ra6 27.Rxb7+ Ka8
+28.Rhe7 Rxa3 29.Rb2 d4 30.h4 d3 31.Rd2 Rc3 32.Re1 Rc2 33.Red1
+Rxd2 34.Rxd2 Rc8 35.f3 Rc2 36.Rd1 Rxa2 37.h5 Bh7 38.g4 Re2
+39.Kf1 Rh2 40.Kg1 Re2 41.Kf1 a6 42.g5 Bf5 43.g6 Bh3+ 44.Kg1 d2
+45.g7 Be6 46.Kf1 Rh2 47.Kg1 Rxh5 48.Rxd2 Rg5+ 49.Kf2 Rxg7
+50.Rd6 Bc4 51.Ke3 Kb7 52.Kd4 Bb5 53.f4 Rf7 54.Ke5 Bd7 55.Rd2
+a5 56.Rf2 Kb6 57.Kd4 Rf5 58.Kc4 Be6+ 59.Kc3 Kb5 60.Kb2 Kb4
+61.Ka1 Bb3 62.Rf3 Rh5 63.Rf1 Rh2 64.f5 Ka3 65.f6 Ra2+ 66.Kb1
+Bc2+ 0-1

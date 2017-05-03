@@ -1,0 +1,18 @@
+[Event "Prague CSR"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Krum Georgiev"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.c4 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.f3 O-O 6.Bg5 a6 7.Qd2 c6
+8.O-O-O b5 9.Bh6 Bxh6 10.Qxh6 Qa5 11.Kb1 Nbd7 12.Qd2 Re8 13.h4
+Nb6 14.Qg5 Rb8 15.Bd3 c5 16.dxc5 bxc4 17.cxb6 Qxb6 18.Qc1 cxd3
+19.Rxd3 d5 20.Nge2 dxe4 21.fxe4 Be6 22.Nf4 Bc4 23.Rg3 Rec8
+24.h5 Nxe4 25.Re3 Bxa2+ 26.Kxa2 Qa5+ 0-1

@@ -1,0 +1,21 @@
+[Event "Toronto zt"]
+[Site "Toronto CAN"]
+[Date "1978.08.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Camille Coudari"]
+[Black "Lawrence Day"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.c4 e5 2.Nc3 d6 3.g3 f5 4.Bg2 Nf6 5.d3 g6 6.Nf3 Nc6 7.O-O Bg7
+8.Rb1 O-O 9.b4 a6 10.Bd2 h6 11.a4 Be6 12.b5 axb5 13.axb5 Ne7
+14.Ra1 Rc8 15.Ra7 b6 16.Qc2 g5 17.Rfa1 f4 18.Rb7 Nf5 19.Raa7
+Nd7 20.Ra1 g4 21.Ne1 Nd4 22.Qd1 Nc5 23.Rba7 f3 24.exf3 gxf3
+25.Bf1 Qd7 26.Be3 Qf7 27.Nc2 Qh5 28.R1a2 Rf7 29.Nb4 Bg4
+30.Bxd4 exd4 31.Ncd5 Kh7 32.Ra8 Rxa8 33.Rxa8 Ne6 34.Ra7 Be5
+35.Na6 Nf4 36.Nxf4 Bxf4 37.Rxc7 Be3 38.Qe1 Bd7 39.Nb8 Qg4
+40.Rxd7 Rxd7 41.Nxd7 Qxd7 42.fxe3 Qe7 43.Kf2 Qg5 44.exd4 1-0

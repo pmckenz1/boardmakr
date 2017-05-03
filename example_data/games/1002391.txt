@@ -1,0 +1,28 @@
+[Event "USA-06.Congress New York (34-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.10"]
+[EventDate "?"]
+[Round "34"]
+[Result "1/2-1/2"]
+[White "Isidor Gunsberg"]
+[Black "Mikhail Chigorin"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6
+5.Nc3 d6 6.Bg5 {We do not approve of this pinning.} Be6 {By h6
+Black could either drive back the Bishop or affect an exchange
+favorable to his position.} 7.Nd5 Na5 8.Bb3 Nxb3 9.axb3 Bxd5
+{Inferior to 9...c6, for if 10.Bxf6 gxf6 11.Ne3 d5, and we
+prefer Black.} 10.exd5 h6 11.Bxf6 Qxf6 12.O-O O-O 13.Nd2 Qg6
+14.Kh1 Rae8 15.b4 Bb6 16.Nc4 e4 {Of questionable value, for it
+relieves White of one of his doubled Pawns.} 17.Ra3 {This fine
+move brings the Rook into communication with the center and
+the K wing.} Qf5 18.dxe4 Qxe4 19.Rc3 Bd4 20.Nd2 Qe7 21.Rf3 Qe2
+22.c3 Bb6 23.b3 Re7 24.g3 {White cautiouly makes provision to
+bring the King to the succor for the ending.} Rfe8 25.Kg2 Re3
+26.Qxe2 Rxe2 27.Nc4 Ra2 28.Nxb6 axb6 29.c4 Ree2 30.Rc1 Red2
+31.b5 Kf8 32.Re1 Re2 {There is no weak point on either side
+and no chance of breaking through for either party.} 1/2-1/2

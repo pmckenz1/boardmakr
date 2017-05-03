@@ -1,0 +1,19 @@
+[Event "1, Reggio Emilia9293 (10s)"]
+[Site "Reggio Emilia ITA"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Paolo Vezzosi"]
+[Black "Fernando Braga"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Bd2 Nf6
+7. Nf3 d4 8. Ne4 Nxe4 9. Bxb4 O-O 10. g3 a5 11. Ba3 a4 12. Qb6
+Qf6 13. Bg2 d3 14. exd3 Nd4 15. dxe4 Nxf3+ 16. Kf1 Nd2+
+17. Ke2 Nxc4 18. Qb4 b6 19. Rhc1 bxc5 20. Qc3 Qh6 21. Bxc5 Ba6
+22. Ke1 Rfc8 23. b3 Rxc5 24. bxc4 Rxc4 25. Qe3 Qxh2 26. Rxc4
+Bxc4 27. Rc1 Ba6 28. Qb6 Qg1+ 0-1

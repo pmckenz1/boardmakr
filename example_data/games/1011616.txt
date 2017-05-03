@@ -1,0 +1,22 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Mario Bilic"]
+[Black "Dinko Brumen"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6
+7. Ngf3 a5 8. Bb5 Qb6 9. Qa4 Qc7 10. O-O Na7 11. Bd3 b5
+12. Qd1 g6 13. Ng5 cxd4 14. cxd4 Qb6 15. Ndf3 Ba6 16. Rf2 b4
+17. Bc2 h6 18. Nxf7 Kxf7 19. Nh4 Ke8 20. Nxg6 Rg8 21. Be3 Kd8
+22. Rc1 Rc8 23. Qh5 Rc6 24. Nxf8 Rxf8 25. Qxh6 Kc7 26. g4 Kb8
+27. g5 Nc8 28. g6 Ne7 29. g7 Rfc8 30. Qg5 Ng8 31. Qg6 Qd8
+32. Re1 Nb6 33. b3 Qh4 34. Bb1 R6c7 35. f5 exf5 36. Qxb6+ Bb7
+37. Bxf5 Rxg7+ 38. Kh1 Rc3 39. Rfe2 Ne7 40. Qd8+ Ka7 41. Qf8
+Rg3 42. Bd2 Rg8 43. Qf7 Rgg3 1-0

@@ -1,0 +1,25 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1998.01.27"]
+[EventDate "1998.01.16"]
+[Round "10"]
+[Result "0-1"]
+[White "Friso Nijboer"]
+[Black "Viswanathan Anand"]
+[ECO "B65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 {Notes by Anand} c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3
+Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4 10.Qxd4 Qa5
+11.Kb1 h6 12.h4 Rd8 13.Be2 Bd7 14.Qe3 Rac8 15.e5 dxe5 16.fxe5
+hxg5 17.hxg5 Rxc3 {!} 18.Bd3 {18. bxc3 Nd5 19.Rxd5 (19.Qh3
+Nxc3+-+) exd5-+; 18.Qf4 Ba4! 19.gxf6 (19.bxc3 Bxc2+!-+;
+19.Rd8+ Bxd8-+)Bxc2+ 20.Ka1 Ra3! 21.Rxd8+ Bxd8 22.Bc4 Rxa2
+24.Bxa2 Bb3-+; 18.Qf2 Rxc2! 19.Kxc2 (19.gxf6 Rb2+ 20.Kxb2
+Ba3+-+) Qxa2!-+} Rxd3 {Only move} 19.cxd3 {19.Rxd3 Nh5!
+20.Rxh5 Bc6-+} Ng4 20.Qh3 Nh6 21.gxh6 Qxe5 22.Rde1 Qg5 23.hxg7
+Qxg7 24.Re3 Bg5 25.Rg3 f6 26.Qg4 Kf7 27.Qd4 Qg8 28.Qe4 Bc6
+29.Rh7+ Ke8 30.Qh4 Qg6 31.Qh3 Rd6 32.a3 Kd8 33.Ka1 Qf5 34.Qh1
+Bd7 35.d4 Rc6 36.Qh2 e5 0-1

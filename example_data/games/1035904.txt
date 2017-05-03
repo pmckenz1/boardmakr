@@ -1,0 +1,22 @@
+[Event "USA-06.Congress New York (32-1)"]
+[Site "Dresden GER"]
+[Date "1892.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Jacques Mieses"]
+[Black "Arnold Schottlaender"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 e6 2.d4 d5 3.Be3 Nf6 4.e5 Nfd7 5.c3 c5 6.Bd3 Nc6 7.Ne2
+Qb6 8.b3 cxd4 9.cxd4 Nb4 10.O-O Nxd3 11.Qxd3 Be7 12.Nbc3 O-O
+13.Ng3 Qd8 14.Rac1 a6 15.Nce2 Nb8 16.f4 f5 17.exf6 Bxf6 18.f5
+Nc6 19.fxe6 Bxe6 20.Nf4 Qd7 21.Rf2 Rae8 22.Rcf1 Bf7 23.Nfh5
+Bg6 24.Qd2 Bh4 25.Rf3 Rxf3 26.Rxf3 Rf8 27.Nf4 Bxg3 28.Rxg3 Ne7
+29.h4 Be4 30.Rg5 h6 31.Re5 Nc6 32.Ne6 Rf6 33.Nc5 Qf7 34.Nxe4
+Rf1+ 35.Kh2 Nxe5 36.Nf2 Ng6 37.Qe2 Ra1 38.Qb2 Re1 39.Qd2 Qc7+
+40.g3 Nxh4 41.Qd3 Qe7 42.Ng4 Nf3+ 43.Kg2 Qe4 44.Qxe4 dxe4
+45.d5 h5 46.d6 hxg4 0-1

@@ -1,0 +1,19 @@
+[Event "It (cat.4)"]
+[Site "Vrnjachka Banja (Yugoslavia)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Srdjan Cvetkovic"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 b6 6.Nbd2 Bb7 7.e4
+c5 8.Re1 Nc6 9.Qe2 Qc7 10.c3 O-O 11.e5 Nd7 12.Nf1 Rae8 13.Bf4
+Bd8 14.h4 Qb8 15.N1h2 Bc7 16.Bh3 f6 17.d4 cxd4 18.cxd4 fxe5
+19.dxe5 Nc5 20.Ng5 h6 21.Qh5 Re7 22.Ng4 Qe8 23.Nxh6+ gxh6
+24.Qxh6 Nd4 25.Rac1 Nf5 26.Qf6 Rxf6 27.exf6 Bxf4 28.gxf4 Rf7
+29.Bxf5 Rxf6 30.Bh7+ Kh8 31.b4 Qh5 32.bxc5 Qg4+ 0-1

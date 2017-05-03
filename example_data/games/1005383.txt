@@ -1,0 +1,16 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Viktor Moskalenko"]
+[Black "Yuri Privalov"]
+[ECO "D15"]
+[WhiteElo "2469"]
+[BlackElo "2325"]
+[PlyCount "27"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. cxd5 cxd5 6. Bf4 Nc6
+7. Ne5 e6 8. e3 Nxe5 9. Bxe5 Bd6 10. Bxd6 Qxd6 11. Bd3 Bd7
+12. O-O O-O 13. Rc1 Rfc8 14. a3 1/2-1/2

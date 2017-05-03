@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Leningrad URS"]
+[Date "1971.09.25"]
+[EventDate "1971.09.15"]
+[Round "8"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Mark Danilovich Tseitlin"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c5 6.dxc5 Qa5 7.Bd3
+Qxc5 8.Qe2 O-O 9.Be3 Qc7 10.O-O Nbd7 11.h3 a6 12.a4 b6 13.Qf2
+Bb7 14.Qh4 Bc6 15.f5 b5 16.fxg6 hxg6 17.Ng5 Qb7 18.Rf2 Rfe8
+19.axb5 axb5 20.Raf1 Nf8 21.Bd4 Ra5 22.b4 Ra3 23.Nd1 Ra4
+24.Ne3 Rxb4 25.Bc3 Ra4 26.Ng4 Qa7 27.Kh1 Rd4 28.Nh6+ Bxh6
+29.Qxh6 Qc5 30.Bb2 Ra8 31.Rf4 Be8 32.Rh4 Nh5 33.Rxh5 gxh5
+34.Bxd4 1-0

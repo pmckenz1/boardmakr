@@ -1,0 +1,21 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Julia Luraschi"]
+[Black "Julie Trottier"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 d5
+7. e5 Nfd7 8. Bf4 Nc6 9. Nxc6 bxc6 10. O-O Qc7 11. Qg4 O-O
+12. Qh4 g6 13. Bh6 Bc5 14. Bxf8 Bxf8 15. f4 Qb6+ 16. Kh1 Qxb2
+17. Ne2 Rb8 18. Ng3 c5 19. c4 Ba6 20. f5 Qxe5 21. fxg6 hxg6
+22. Qf4 Qxf4 23. Rxf4 Ne5 24. Be2 Nxc4 25. Nf1 Rb2 26. Bxc4
+Bxc4 27. Ne3 Bb5 28. a4 Bd3 29. Ng4 Bg7 30. Rc1 c4 31. Nf2 Bh6
+32. Nxd3 cxd3 33. Rc8+ Kg7 34. Rf1 Rc2 35. Rb8 d2 36. Rbb1 Rc1
+37. g3 e5 38. Kg2 e4 39. Kf2 d4 40. Ke2 Be3 41. a5 Bh6 0-1

@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Anthony Cornelis Kosten"]
+[Black "Bin-Sattar Reefat"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5
+7. Nge2 Qb6 8. Qd2 Be7 9. f3 Bg6 10. Bg3 Nbd7 11. Nf4 O-O
+12. Bf2 Rfe8 13. Nxg6 hxg6 14. Bd3 Nf8 15. O-O Ne6 16. a3 Qd8
+17. Rad1 Bd6 18. Kh1 Bc7 19. Bb1 Qe7 20. Ba2 Rad8 21. Bg1 Nh5
+22. Qf2 Qg5 23. Ne2 f5 24. g3 Qh6 25. Qg2 Nf6 26. Bf2 Kh7
+27. Rfe1 Kg8 28. Nc3 Ng5 29. e4 fxe4 30. fxe4 Ng4 31. Bg1 Kh8
+32. exd5 Qh5 33. dxc6 bxc6 34. Bb1 Kh7 35. Qxc6 Rxe1 36. Rxe1
+Rf8 37. Qg2 Nf3 38. Re6 Kh8 39. Bxg6 Qg5 40. Qxf3 1-0

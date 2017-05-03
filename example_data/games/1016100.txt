@@ -1,0 +1,21 @@
+[Event "Toluca Interzonal"]
+[Site "Toluca de Lerdo MEX"]
+[Date "1982.08.28"]
+[EventDate "1982.08.10"]
+[Round "13"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Andras Adorjan"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 a6 7.O-O
+Nbd7 8.a4 b6 9.f4 Bb7 10.Bf3 Qc7 11.Qe2 Rc8 12.Be3 g6 13.Rad1
+Be7 14.e5 Bxf3 15.Nxf3 dxe5 16.fxe5 Nxe5 17.Nxe5 Qxe5 18.Qf3
+Rd8 19.Qc6+ Rd7 20.Bd4 Qd6 21.Qxd6 Rxd6 22.Bxf6 Rxd1 23.Nxd1
+Bxf6 24.Rxf6 Ke7 25.Rf4 Rc8 26.Ne3 b5 27.axb5 axb5 28.Rb4 Rc5
+29.Kf2 f5 30.c3 e5 31.Nc2 Rd5 32.Ke2 Kd6 33.Ne3 Rc5 34.c4 bxc4
+35.Nxc4+ Kd5 36.b3 Rc7 37.Rb5+ Kd4 38.Ne3 Ra7 39.Rb4+ Kc3
+40.Nd5+ Kb2 41.Rb8 e4 42.b4 Rd7 43.Rb5 1-0

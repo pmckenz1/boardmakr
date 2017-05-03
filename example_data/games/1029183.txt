@@ -1,0 +1,24 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1890.09.04"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "John Owen"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 {Notes by Blackburne.} b6 2.Nc3 {Not a good move. d4 or
+Nf3 would have been the correct play.} Bb7 3.d4 e6 4.Bd3 Nf6
+{He fails to take advantage of White's weak second move. c5
+would have broken up the center to Black's advantage.} 5.Nge2
+d5 6.Bg5 Be7 7.Bxf6 Bxf6 8.O-O Nd7 9.exd5 exd5 10.Nf4 O-O
+{Black has now got a bad game. He must abandon the Pawn or
+worse will befall him.} 11.Nfxd5 g6 12.Be4 c6 13.Nxf6+ Nxf6
+14.Qf3 Nxe4 15.Qxe4 f5 16.Qe6+ Kg7 17.Rfe1 Qxd4 {Giving an
+opportunity for the other Rook to come into action. His game
+is now hopeless.} 18.Rad1 Qf6 19.Rd7+ Rf7 20.Qxf7+
+{Decisive. Black must now lose a piece.} Qxf7 21.Ree7 1-0

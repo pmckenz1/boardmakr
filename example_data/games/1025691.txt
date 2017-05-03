@@ -1,0 +1,22 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.12.04"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Aleksander Sznapik"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.h3 O-O 7.Bd3 e6
+8.Nf3 exd5 9.exd5 Re8+ 10.Be3 b5 11.Nxb5 Ne4 12.O-O a6 13.Nc3
+Nxc3 14.bxc3 Nd7 15.Rb1 Ne5 16.Nxe5 Bxe5 17.Bd2 Bd7 18.f4 Bg7
+19.f5 Re5 20.fxg6 hxg6 21.Bf4 Rh5 22.Qf3 Bxc3 23.Qg3 Bd4+
+24.Kh2 Bf5 25.Bxf5 Rxf5 26.Bxd6 Qf6 27.Rxf5 Qxf5 28.Rd1 Re8
+29.Qd3 Qg5 30.Qg3 Qf5 31.Qf4 Qd7 32.Rb1 Be3 33.Qg3 Qf5 34.Re1
+Qe4 35.Bxc5 Bf4 36.Rxe4 Bxg3+ 37.Kxg3 Rxe4 38.Bb6 Rxc4 39.d6
+Rc3+ 40.Kf4 Rd3 41.Ke5 Kf8 42.h4 Ke8 43.g4 Kd7 44.Bc7 Rh3
+45.g5 Rxh4 46.Kf6 Rf4+ 47.Kg7 Rf5 0-1

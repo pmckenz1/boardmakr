@@ -1,0 +1,19 @@
+[Event "Sydney (AUS)"]
+[Site "Sydney (AUS)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "Edvins Kengis"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+a6 8.h3 Bd7 9.Be3 Rb8 10.Rc1 b5 11.Nd2 e6 12.b3 Ne7 13.Bg5 b4
+14.Na4 h6 15.Bxf6 Bxf6 16.e3 Bg7 17.Qc2 Bxa4 18.bxa4 c5
+19.dxc5 dxc5 20.Nb3 Qc7 21.Rfd1 Rfd8 22.Rxd8+ Rxd8 23.Rd1
+Rxd1+ 24.Qxd1 Bf8 25.Qf3 Qd6 26.a5 Nf5 27.Qc6 Qxc6 28.Bxc6 Nd6
+29.Nxc5 Nxc4 30.Nb3 Bd6 1/2-1/2

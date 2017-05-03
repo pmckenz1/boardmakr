@@ -1,0 +1,21 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.27"]
+[EventDate "1912.05.20"]
+[Round "6"]
+[Result "1-0"]
+[White "Semion Alapin"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5
+7. a4 Rb8 8. axb5 axb5 9. Nc3 O-O 10. Nd5 Nxd5 11. Bxd5 Nd4
+12. Nxd4 Bxd4 13. O-O c6 14. Bb3 d6 15. d3 Qh4 16. c3 Bg4
+17. Qe1 Bb6 18. Be3 c5 19. f3 Qxe1 20. Rfxe1 Be6 21. Bxe6 fxe6
+22. Ra6 Rfc8 23. Bf2 Kf7 24. Kf1 Ke7 25. b4 cxb4 26. Bxb6 bxc3
+27. Ra7+ Kf6 28. Bc7 b4 29. Bxb8 Rxb8 30. Rc7 Rb5 31. Ra1 d5
+32. exd5 e4 33. fxe4 exd5 34. exd5 Ke5 35. Ke2 Kxd5 36. Rc4
+1-0

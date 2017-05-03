@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.15"]
+[EventDate "1911.08.21"]
+[Round "19"]
+[Result "1-0"]
+[White "Georg Rotlewi"]
+[Black "Borislav Kostic"]
+[ECO "C12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.exf6 hxg5 7.fxg7
+Rg8 8.Qh5 Qf6 9.Nf3 Qxg7 10.h4 gxh4 11.Rxh4 Nc6 12.O-O-O Bd7
+13.Qh7 O-O-O 14.Qxg7 Rxg7 15.g3 Rdg8 16.Bd3 Be7 17.Rh5 Nb4
+18.Ne5 Nxd3+ 19.Nxd3 b6 20.Re1 Bf6 21.Ne5 Be8 22.Rh2 c5 23.Ne2
+Kc7 24.c3 c4 25.Kc2 b5 26.Nf4 Be7 27.Reh1 Bd6 28.Nh5 Bxe5
+29.dxe5 Rh7 30.Nf6 Rxh2 31.Rxh2 Rf8 32.Rh7 Kd8 33.Kd2 a5 34.a3
+Bc6 35.Ke3 Ke7 36.Kd4 b4 37.g4 bxa3 38.bxa3 Ba4 39.f4 Rb8
+40.f5 Bc2 41.Rg7 exf5 42.Nxd5+ Kf8 43.Rh7 Rb1 44.Ne3 Kg8
+45.Rh2 Bd3 46.gxf5 Kf8 47.Rh8+ Kg7 48.Ra8 Rb5 49.a4 Rb2
+50.Rxa5 Rf2 51.Ra7 Rf4+ 52.Kd5 Bxf5 53.Nxf5+ Rxf5 54.Rc7 1-0

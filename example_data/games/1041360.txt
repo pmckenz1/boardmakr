@@ -1,0 +1,24 @@
+[Event "Rubinstein Memorial 15th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1977.08.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Ivan Farago"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Bd6
+7.dxc5 Bxc5 8.Nb3 Bd6 9.O-O Ne7 10.Re1 O-O 11.Bg5 Bg4 12.h3
+Bh5 13.Be2 h6 14.Bxe7 Bxe7 15.c3 Bf6 16.Nh2 Bxe2 17.Rxe2 Qd6
+18.Nf3 Rad8 19.Qd3 a6 20.Rd1 Rd7 21.Nbd4 g6 22.Nxc6 Qxc6
+23.Ne5 Bxe5 24.Rxe5 Rfd8 25.Qe3 Kg7 26.Rd4 Qb6 27.Qd2 Rd6
+28.Re3 R8d7 29.Qe2 Re6 30.Rxe6 Qxe6 31.Qd2 b5 32.a4 Qc6
+33.axb5 axb5 34.Qd3 Qc5 35.g3 Rd6 36.h4 h5 37.Qd2 Rd7 38.b3
+Rd6 39.c4 bxc4 40.bxc4 Rc6 41.cxd5 Qc1+ 42.Kg2 Qxd2 43.Rxd2
+Rc3 44.d6 Rc8 45.Kf3 Kf6 46.d7 Rd8 47.Kf4 Ke6 48.Kg5 Ke7
+49.Re2+ Kf8 50.Re8+ Rxe8 51.dxe8=Q+ Kxe8 52.Kf6 Kf8 53.f4 Kg8
+54.f5 1-0

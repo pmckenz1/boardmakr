@@ -1,0 +1,21 @@
+[Event "Ch World FIDE (play-off), Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vlastimil Babula"]
+[Black "Tal Shaked"]
+[ECO "E42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4
+O-O 7. a3 Be7 8. Nf4 d5 9. cxd5 Nxd5 10. Ncxd5 exd5 11. Bd3
+Nc6 12. O-O Bf6 13. Be3 g6 14. Rc1 Qd6 15. Rc5 Be6 16. Nxe6
+Qxe6 17. Qa4 a6 18. Rfc1 b5 19. Qd1 Na5 20. b4 Nc4 21. Bxc4
+bxc4 22. Qa4 Rfc8 23. h3 Be7 24. Qd1 Bxc5 25. dxc5 Re8 26. Rc2
+Rad8 27. Rd2 c3 28. Rd4 Qf5 29. g4 Qf6 30. Kg2 Re4 31. Rxd5
+Rde8 32. Rd6 Qe7 33. Qd3 Qe5 34. c6 c2 35. Rd5 Rxe3 36. Rxe5
+Rxd3 37. Rxe8+ Kg7 38. c7 c1=Q 1/2-1/2

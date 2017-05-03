@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1991.11.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Alexandar Budnikov"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.Ndf3 Nc6 7.Ne2
+b5 8.Be3 b4 9.dxc5 Bxc5 10.Bxc5 Nxc5 11.Ned4 Nxd4 12.Qxd4 Qb6
+13.a3 Rb8 14.Qxb4 Qxb4+ 15.axb4 Rxb4 16.b3 Rxf4 17.Rxa7 O-O
+18.Rc7 Nd7 19.Bb5 Nb8 20.Bd3 Ba6 21.c4 dxc4 22.bxc4 Rd8 23.Ke2
+Rg4 24.g3 Rd7 25.Rc5 f5 26.exf6 gxf6 27.Rb1 Bb7 28.Rcb5 Rgg7
+29.Nd4 Rxd4 30.Rxb7 Rxb7 31.Rxb7 Nd7 32.Rc7 Ne5 33.Bxh7+ Kh8
+34.Bc2 1/2-1/2

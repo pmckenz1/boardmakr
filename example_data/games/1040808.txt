@@ -1,0 +1,18 @@
+[Event "Podebrady"]
+[Site "Podebrady CZE"]
+[Date "1936.07.20"]
+[EventDate "1936.07.05"]
+[Round "13"]
+[Result "1-0"]
+[White "Jan Foltys"]
+[Black "Erich Eliskases"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3
+Bg7 8.Nb3 Be6 9.f4 O-O 10.g4 Na5 11.g5 Ne8 12.Bd4 Rc8 13.h4
+Nc4 14.Bxc4 Rxc4 15.Qd3 Rc8 16.O-O-O Qd7 17.Rd2 Bg4 18.Nd5 b6
+19.f5 e6 20.Bxg7 Kxg7 21.f6 Kh8 22.Ne7 Rd8 23.Nd4 Qa4 24.Kb1
+Nc7 25.h5 gxh5 26.Rdh2 Rd7 27.e5 Rxe7 28.Rxh5 Bxh5 29.Rxh5 1-0

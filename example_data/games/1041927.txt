@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "?"]
+[Date "1921.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Arnold van Foreest"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qf6 5. d4 exd4 6. e5 Qg6
+7. cxd4 Bb4+ 8. Nc3 d6 9. O-O Bxc3 10. bxc3 dxe5 11. d5 Bh3
+12. Nh4 Qe4 13. dxc6 Qxc4 14. gxh3 Qxh4 15. Qd7+ Kf8 16. Ba3+
+Ne7 17. cxb7 Re8 18. Qxe8+ Kxe8 19. b8=Q+ Kd7 20. Rad1+ Ke6
+21. Qxh8 Qxh3 22. f3 1-0

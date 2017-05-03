@@ -1,0 +1,16 @@
+[Event ", BL 9394 ;BL"]
+[Site "1994, BL 9394 ;BL"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Robert Kuczynski"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 Nf6 2.e5 Nd5 3.g3 d6 4.exd6 exd6 5.Bg2 Nf6 6.d4 d5 7.Nf3
+Be7 8.O-O Bf5 9.Nh4 Be6 10.f4 O-O 11.f5 Bc8 12.Nc3 c5 13.dxc5
+Bxc5+ 14.Kh1 d4 15.Na4 Be7 16.c3 dxc3 1/2-1/2

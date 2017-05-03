@@ -1,0 +1,23 @@
+[Event "?"]
+[Site "?"]
+[Date "1868.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Cecil Valentine De Vere"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 {Notes by Blackburne.} e5 2.f4 Bc5 3.Nf3 d6 4.Bc4 Nc6
+5.c3 Bb6 6.d3 Bg4 7.h3 Be6 8.Bb5 Bd7 9.Qe2 Nf6 10.Bxc6 Bxc6
+11.fxe5 dxe5 12.Nxe5 Qd6 13.Bf4 Nd7 14.Nxd7 Qxd7 15.Nd2 O-O
+16.O-O-O a5 17.g4 a4 18.h4 Qe6 19.a3 Qa2 20.g5 Ba5 {An
+attacking move that needs attention.} 21.Nb1 Ra6 22.h5 Rb6
+23.Be5 {This is more effective than Bxc7, which, however,
+would have given Black a lost game all the same.} Re8 24.Bd4
+Rb3 25.g6 fxg6 26.hxg6 h6 27.Rdf1 {Had Black continued with
+...Bd5, the White Queen goes to c2, and on Black's Be6 the
+reply Bc5 wins easily.} 1-0

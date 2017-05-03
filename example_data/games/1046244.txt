@@ -1,0 +1,19 @@
+[Event "Sydney"]
+[Site "Sydney AUS"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Paul van der Sterren"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6
+7. Bh4 b6 8. Rc1 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Bd3 c5
+12. O-O cxd4 13. exd4 Nc6 14. Bb1 Re8 15. Qd3 g6 16. Rfe1 Qd6
+17. a3 Rac8 18. Ba2 Na5 19. Rxe8+ Rxe8 20. b4 Nc4 21. Nxd5
+Bxd5 22. Bxc4 Qf4 23. Rd1 Bxf3 24. Qxf3 Re4 25. Qxf4 Rxf4
+26. g3 Rxd4 1/2-1/2

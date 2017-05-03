@@ -1,0 +1,34 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.12"]
+[EventDate "1911.08.21"]
+[Round "17"]
+[Result "0-1"]
+[White "Paul Saladin Leonhardt"]
+[Black "Charles Jaffe"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Ne7 4.d4 cxd4 5.Nxd4 a6 6.Be2 d5 7.O-O
+e5 8.Nf3 d4 9.Nxe5 f6 10.Nc4 b5 11.e5 bxc4 12.exf6 gxf6
+13.Bxc4 Nbc6 14.Qh5+ Ng6 15.Re1+ Ne5 16.Nd5 Be6 17.Nxf6+ {?
+Black has a clear advantage as the three pawns do not provide
+enough compensation for the piece. 17.Bg5! is the best
+move. Not only does it develop a piece, but it also pins the
+f6-pawn; since the g6-knight is already pinned, the e5-knight
+has no support, and this knight is the key to Black's
+defence. Of course, such general considerations have to backed
+up by concrete analysis, but they at least provide a hint that
+the move is worth looking at. It turns out that even against
+the best defence White obtains some advantage. -- Nunn} Qxf6
+18.Bg5 Qf7 19.Bxe6 Qxe6 20.f4 Bg7 21.fxe5 O-O 22.Re4 Bxe5
+23.Rae1 Qf5 24.g3 Bf6 25.h4 Be5 26.Qe2 Bxg3 27.Qc4+ Qf7
+28.Qxf7+ Rxf7 29.R1e2 Nf4 30.Bxf4 Bxf4 31.Rxd4 Rg7+ 32.Kf1 Rf8
+33.Rf2 Bc7 34.Rxf8+ Kxf8 35.Rc4 Ke8 36.Rc6 a5 37.Rh6 Re7 38.c3
+Bd8 39.b4 Kf8 40.a4 Kg7 41.Rd6 Rf7+ 42.Kg2 Bxh4 43.Rd5 Be1
+44.Rxa5 Bxc3 45.Rb5 Kg6 46.a5 h5 47.a6 Bd4 48.Rb7 Rf2+ 49.Kg3
+Ra2 50.b5 Kg5 51.Rd7 h4 52.Kf3 Ra3+ 53.Ke4 Be3 54.Rg7+ Kh5
+55.Kf5 Bh6 56.Rc7 Ra5 57.a7 Rxb5+ 58.Ke6+ Rb6+ 59.Kd7 Ra6
+60.Kc8 Be3 61.Rh7+ Kg4 62.Rg7+ Kh3 0-1

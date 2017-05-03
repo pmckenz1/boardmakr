@@ -1,0 +1,29 @@
+[Event "Glasgow"]
+[Site "Glasgow SCO"]
+[Date "1883.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "David Forsyth"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 {Notes by Blackburne.} e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Bb4+
+5.c3 Ba5 6.Qg3 Qf6 7.Nf3 g6 8.Bc4 Nd4 {A showy sort of move,
+but the more defensive h6 was preferable.} 9.Bg5 Nxf3+ 10.gxf3
+Qg7 11.O-O f6 12.Bf4 d6 13.Na3 g5 14.Nb5 Qe7 15.Bxd6 {Making a
+bold bid for an attack rather than retire the Bishop.} cxd6
+16.Nxd6+ Kf8 17.Nf7 Be6 18.Bxe6 Qxe6 19.Nxh8 Kg7 20.f4 Kxh8
+21.fxg5 Nh6 {Black wishing for his due share of the fun also
+makes a bid for an attack.} 22.Rad1 Nf7 23.h4 Rg8 24.Rd5 Bd8
+25.Rfd1 fxg5 26.h5 Bf6 27.Rd7 Be5 28.Qf3 Bf4 29.Rxb7 Qf6
+30.Rdd7 Bh2+ {Black has played this part of the game
+exceedingly well and comes out of the melee with a piece
+ahead, but White has strong passed Pawns on the Queen's side
+which proves irresistable.}31.Kg2 Qxf3+ 32.Kxf3 Ne5+ 33.Kg2
+Nxd7 34.Rxd7 Bb8 35.c4 Rf8 36.c5 a6 37.b4 Bf4 38.a4 Kg8 39.b5
+axb5 40.axb5 Rf7 41.Rd8+ Kg7 42.b6 Rb7 43.Ra8 Bb8 44.Ra6 Kf7
+45.c6 Re7 46.Ra8 Re8 47.Rxb8 Rxb8 48.c7 1-0

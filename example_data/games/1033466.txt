@@ -1,0 +1,21 @@
+[Event "7, Clarin GP f Villa Gesell (10s)"]
+[Site "7, Clarin GP f Villa Gesell Hiarcs 7.32 (10s)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Sergio Slipak"]
+[Black "Fernando Braga"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O
+7. Qc2 a6 8. cxd5 exd5 9. Bd3 c5 10. dxc5 Nxc5 11. O-O Nxd3
+12. Qxd3 Be6 13. Rad1 Qb6 14. Nd4 Qxb2 15. Rb1 Qa3 16. Rb3 Qc5
+17. Rxb7 Bd8 18. Nce2 Bc8 19. Rbb1 a5 20. Rfc1 Ba6 21. Nb5 Qb6
+22. Ned4 Ne4 23. Bf4 Bf6 24. Qd1 Bxd4 25. Nxd4 Qf6 26. Rc6 Qh4
+27. f3 Nf6 28. Nf5 Qh5 29. Nxg7 Kxg7 30. Qd4 Qg6 31. Rbb6 Rfc8
+32. Be5 Rxc6 33. Rxc6 Qb1+ 34. Kf2 Qf1+ 35. Kg3 Qe1+ 36. Kh3
+Bc8+ 37. Rxc8 Rxc8 38. Qg4+ Kh6 39. Bf4# 1-0

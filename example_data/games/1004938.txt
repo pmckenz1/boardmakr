@@ -1,0 +1,21 @@
+[Event "Margate"]
+[Site "Margate ENG"]
+[Date "1939.04.14"]
+[EventDate "1939.04.12"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Philip Stuart Milner-Barry"]
+[Black "Edward G Sergeant"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nxd5
+Qxd5 7. d4 Be7 8. c4 Qe4+ 9. Kf2 Bf5 10. c5 O-O 11. Bc4 Bf6
+12. Re1 Qc2+ 13. Qxc2 Bxc2 14. Bxf4 Nc6 15. Ne5 Rad8 16. d5
+Na5 17. Rac1 Bxe5 18. Bxe5 Nxc4 19. Rxc2 Nxe5 20. Rxe5 f6
+21. Re7 Rxd5 22. c6 bxc6 23. Rxc6 Rb8 24. Rcxc7 Rxb2+ 25. Kf3
+Rf5+ 26. Ke4 Re5+ 27. Rxe5 fxe5 28. Rxa7 Rxg2 29. Kxe5 Rxh2
+30. a4 Ra2 31. Kf5 Rg2 32. Ra8+ Kf7 33. Ra7+ Kg8 34. Ra8+ Kf7
+35. Ra7+ 1/2-1/2

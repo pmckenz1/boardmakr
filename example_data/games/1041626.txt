@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.16"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Eugenio Torre"]
+[Black "Jesus Nogueiras"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 c6 5.cxd5 exd5 6.Qc2 Be7 7.Bg5
+g6 8.e3 Bf5 9.Bd3 Bxd3 10.Qxd3 O-O 11.Bxf6 Bxf6 12.b4 b5 13.a4
+Na6 14.Rb1 Qe7 15.Na2 Nc7 16.axb5 Nxb5 17.O-O Rfb8 18.Nd2 Nd6
+19.Nc3 Qe8 20.Na4 Rb5 21.Nc5 Rab8 22.Na6 R8b7 23.Rfc1 Qc8
+24.Ra1 R7b6 25.Qa3 Qd8 26.Rab1 Be7 27.Nc5 Nc8 28.Qc3 Bd6 29.g3
+h5 30.Rb3 h4 31.Rcb1 h3 32.Qd3 Ne7 33.Qe2 Qc8 34.e4 Bxc5
+35.dxc5 Rb7 36.Qf3 Qb8 37.Qf6 Rxb4 38.Rxb4 Rxb4 39.Re1 Qd8
+40.e5 Qf8 41.e6 Rb7 42.Nf3 fxe6 43.Qxe6+ Qf7 44.Qxf7+ Kxf7
+45.Ng5+ Kf6 46.Nxh3 a5 47.Nf4 a4 48.Ra1 Ra7 49.Ra3 Ke5 50.Nd3+
+Kd4 51.Kf1 Kc4 52.Ke2 Nf5 53.Kd2 Nd4 54.h4 Nb3+ 55.Kc2 d4
+56.Ne5+ Kxc5 57.Nxg6 Kb4 58.Ra2 d3 59.Kd1 Ra5 60.Nf4 Nc5
+61.Kc1 a3 62.h5 Kb3 63.Kb1 Ne4 0-1

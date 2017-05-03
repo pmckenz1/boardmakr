@@ -1,0 +1,16 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Maxim L Devereaux"]
+[Black "Peter J Mercs"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 exd5
+7. Bg5 Be7 8. e3 O-O 9. Bd3 c6 10. Qc2 h6 11. h4 Na6 12. Bxf6
+Bxf6 13. g4 g5 14. hxg5 hxg5 15. Bxa6 1-0

@@ -1,0 +1,16 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1991.02.03"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "John Nunn"]
+[Black "Michael Adams"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.Ne5 Be6 8.Be2 g6 9.O-O Bg7 10.c4 O-O 11.Be3 Ne4 12.Rc1
+1/2-1/2

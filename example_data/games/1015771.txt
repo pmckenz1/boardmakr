@@ -1,0 +1,18 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Oleg Romanishin"]
+[ECO "C03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.c3 dxe4 5.Nxe4 Nf6 6.Nxf6+ Bxf6
+7.Nf3 b6 8.Bb5+ c6 9.Bd3 Ba6 10.O-O Bxd3 11.Qxd3 O-O 12.Bf4
+Nd7 13.Rad1 Qe7 14.Rfe1 Rfd8 15.h3 Rac8 16.Qa6 Nf8 17.a4 Ng6
+18.Bg3 Qd7 19.Nd2 h5 20.Nf3 h4 21.Be5 Be7 22.Bh2 Ra8 23.Ne5
+Nxe5 24.Bxe5 c5 25.a5 Qc8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.12.01"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Ljubomir Ljubojevic"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.Nf3 c5 2.g3 d5 3.Bg2 Nc6 4.d4 Nf6 5.O-O Bf5 6.c4 dxc4 7.Qa4
+Nd7 8.dxc5 e6 9.Qxc4 Bxc5 10.Nc3 Rc8 11.Rd1 Nb4 12.Be3 Be7
+13.Qf4 Nc2 14.Ne5 Nxa1 15.Rxd7 Qa5 16.Rxb7 Qa6 17.Rxa7 Qd6
+18.Qa4+ Kf8 19.Bf4 1-0

@@ -1,0 +1,21 @@
+[Event "Albena (Bulgaria)"]
+[Site "Albena BUL"]
+[Date "1986.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Dan Barbulescu"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.Nf3 c5 2.g3 d5 3.Bg2 Nc6 4.O-O e5 5.d3 f6 6.c4 d4 7.e3 Bd6
+8.exd4 cxd4 9.Nbd2 Nge7 10.a3 a5 11.Ne4 O-O 12.Rb1 Be6 13.Re1
+Kh8 14.b4 axb4 15.Nxd6 Qxd6 16.axb4 Nxb4 17.Nxd4 Bd7 18.Nb5
+Bxb5 19.cxb5 Nxd3 20.Re2 Rad8 21.Rd2 f5 22.Bxb7 e4 23.b6 Qc5
+24.Ba6 Nxf2 25.Rb5 Qc3 26.Rxd8 Nxd1 27.Rxf8+ Ng8 28.Rb1 Qe1+
+29.Kg2 Qf2+ 30.Kh3 Qf3 31.Rb2 Nxb2 32.b7 Qh5+ 33.Kg2 Qf3+
+34.Kh3 Qh5+ 35.Kg2 Qf3+ 36.Kh3 Qh5+ 37.Kg2 Qf3+ 38.Kh3 Qh5+
+1/2-1/2

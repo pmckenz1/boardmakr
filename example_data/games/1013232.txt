@@ -1,0 +1,18 @@
+[Event "clock simul"]
+[Site "Vienna AUT"]
+[Date "1936.03.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Jobbahazai"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3
+Nf6 7. O-O Be7 8. b3 O-O 9. Bb2 Re8 10. Re1 Bf8 11. h3 g6
+12. Bxc6 Bxc6 13. Qf3 Bg7 14. Nxc6 bxc6 15. e5 Rxe5 16. Rxe5
+dxe5 17. Qxc6 Rb8 18. Rd1 Qc8 19. Nb5 Qb7 20. Rd8+ Bf8
+21. Qxf6 Rxd8 22. Bxe5 1-0

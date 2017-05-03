@@ -1,0 +1,17 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1963.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Isaac Boleslavsky"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.Bf4 e5 7.Be3
+Nf6 8.Bg5 Qa5+ 9.Qd2 Nxe4 10.Qxa5 Nxa5 11.Be3 Kd8 12.f3 Nf6
+13.Bxa7 Nd5 14.N1a3 Be6 15.O-O-O Kd7 16.Nc4 Nxc4 17.Bxc4 Nc7
+18.Bb6 Bxc4 19.Nxc7 Rc8 20.b3 Be6 1/2-1/2

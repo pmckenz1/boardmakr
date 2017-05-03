@@ -1,0 +1,25 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Abhijit Kunte"]
+[Black "S K Rathore"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4
+h6 13. d5 Nb8 14. c4 b4 15. a5 Nbd7 16. Ba4 Rc8 17. Nf1 c6
+18. Bd2 Nc5 19. Bc2 b3 20. Bb1 Rb8 21. Re3 Bc8 22. Be1 Bd7
+23. N3d2 cxd5 24. cxd5 Ba4 25. Rc3 Qxa5 26. f3 Qb5 27. Bf2 Qd7
+28. Nc4 Rb4 29. Qd2 Qb7 30. Nfe3 g6 31. Rc1 Rb8 32. Be1 Qd7
+33. Qxb4 Rxb4 34. Bxb4 Bb5 35. Bxc5 dxc5 36. Bd3 Qc7 37. Rc3
+Nh5 38. Rxb3 Nf4 39. Bf1 Qd8 40. Kh2 Qg5 41. Nd2 c4 42. Bxc4
+Bc5 43. g3 Nh5 44. Ndf1 Nxg3 45. Nxg3 Bxe3 46. Bxb5 Bf4
+47. Rg1 axb5 48. d6 h5 49. d7 h4 50. Kh1 hxg3 51. Rc3 g2+
+52. Rxg2 Qh4 53. Rc8+ Kg7 54. d8=Q Qxh3+ 55. Kg1 Be3+ 56. Kf1
+1-0

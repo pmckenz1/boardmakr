@@ -1,0 +1,18 @@
+[Event "Berlin UTYSO Sommer"]
+[Site "Berlin GER"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Michael Becker"]
+[ECO "E33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 6.a3 Bxc3+
+7.Qxc3 O-O 8.b4 e5 9.dxe5 Ne4 10.Qe3 f5 11.Bb2 Qe7 12.exd6
+Qxd6 13.Rc1 Be6 14.g3 Rad8 15.Bh3 Bxc4 16.Bxf5 Nf6 17.Qc3 b5
+18.O-O Ne7 19.Bd3 Bxd3 20.Rfd1 Qe6 21.Rxd3 Qxe2 22.Qb3+ Nfd5
+23.Re1 1-0

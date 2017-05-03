@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Joerg Gruenenwald"]
+[Black "Ketino Kachiani-Gersinska"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d5 6. Qc2 c5
+7. Bxb4 axb4 8. dxc5 Qa5 9. Nbd2 Qxc5 10. Bg2 b5 11. b3 bxc4
+12. bxc4 Ra3 13. O-O Ba6 14. Rfc1 Ng4 15. e3 dxc4 16. Nxc4 Rc3
+17. Qa4+ Ke7 18. Rxc3 bxc3 19. Na5 Rc8 20. Nb3 Qc4 21. Qa3+
+Ke8 22. h3 Nxf2 23. Kxf2 Qe2+ 24. Kg1 Qxe3+ 25. Kh2 c2 26. Rc1
+Bb7 27. Qa4+ Nd7 28. Qf4 Qe2 29. Nbd4 Qd1 30. Qd2 Bxf3
+31. Nxf3 Qxd2 32. Nxd2 Ne5 33. Be4 f5 34. Rxc2 Rd8 35. Bg2 Nd3
+36. a4 1-0

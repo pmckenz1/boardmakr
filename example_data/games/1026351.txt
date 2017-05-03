@@ -1,0 +1,27 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1889.08.27"]
+[EventDate "1889.08.26"]
+[Round "3"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Johann Hermann Bauer"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 e6 4.Nc3 c6 5.e3 Bd6 6.Qb3 Qb6 7.c5
+Qxb3 8.axb3 Bc7 9.b4 b5 10.cxb6 Bxb6 11.b5 Ne7 12.Na4 Bc7
+13.Bd2 f6 14.Rc1 Kf7 15.Bb4 Rc8 16.Kd2 cxb5 17.Bxb5 a6 18.Be2
+Nec6 19.Bc3 Nd7 20.b4 a5 21.b5 Nb4 22.Ra1 Bd6 23.Rhc1 g5 24.g3
+Ke7 25.Ne1 Rab8 26.Nb2 Ra8 27.Ned3 Nb6 28.Nc5 Rcb8 29.Nba4
+Nc4+ 30.Bxc4 dxc4 31.b6 Bxc5 32.dxc5 Rd8+ 33.Ke2 Bd3+ 34.Kf3
+f5 35.Kg2 g4 36.Kg1 Be4 37.Be5 Rd2 38.Rxc4 Bc6 39.Nb2 Nd3
+40.Nxd3 Rxd3 41.Rb1 Rd7 42.Rd4 Rxd4 43.exd4 Bb7 44.c6 Bxc6
+45.b7 Bxb7 46.Rxb7+ Kd8 47.Rxh7 Ra6 48.d5 exd5 49.Rf7 a4
+50.Rxf5 Kd7 51.Rf7+ Ke8 52.Rf4 a3 53.Rxg4 a2 54.Kg2 a1=Q
+55.Bxa1 Rxa1 56.Rd4 Ra5 57.Kf3 Ke7 58.h4 Ke6 59.Kf4 Ra8 60.g4
+Rf8+ 61.Ke3 Ke5 62.f4+ Kd6 63.h5 Re8+ 64.Kd3 Ra8 65.h6 Kc5
+66.g5 Ra3+ 67.Ke2 Kxd4 68.h7 Rh3 69.g6 Ke4 70.g7 Rh2+ 71.Kf1
+Rxh7 72.g8=Q 1-0

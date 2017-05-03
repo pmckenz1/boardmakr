@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Anatoly M Kremenietsky"]
+[Black "Roman Popov"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 e6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. g3 Ne4
+7. Qc2 Qa5 8. Nb3 Qf5 9. Nd2 Qxf2+ 10. Kd1 Bxc3 11. Qxe4 f5
+12. Qd3 Bf6 13. Nb3 Qb6 14. Bg2 Nc6 15. c5 Qc7 16. e4 Ne5
+17. Qe2 fxe4 18. Bxe4 d5 19. cxd6 Qxd6+ 20. Kc2 Bd7 21. Bd2
+Qc7+ 22. Bc3 O-O 23. Rac1 Bc6 24. Kb1 Bxe4+ 25. Qxe4 Qc6
+26. Qe2 Qf3 27. Rhe1 Qf5+ 28. Rc2 Rac8 29. Nd4 Qh3 30. Nb3 Nc4
+31. Bxf6 1-0

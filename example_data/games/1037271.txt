@@ -1,0 +1,18 @@
+[Event "Hertzliya (Israel)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yochanan Afek"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Bg5 Nc6 5.Nge2 Nf6 6.d5 Ne5 7.Nd4
+c5 8.Bb5+ Bd7 9.Bxd7+ Qxd7 10.Nf3 Qg4 11.Kf1 Nxf3 12.Bxf6
+Nxh2+ 13.Rxh2 Qxd1+ 14.Nxd1 Bxf6 15.c4 Kd7 16.Ke2 h5 17.Kd3 a6
+18.a4 b5 19.axb5 axb5 20.Rxa8 bxc4 21.Kxc4 Rxa8 22.Nc3 Rb8
+23.Nb5 Bxb2 24.f4 Ra8 25.Kb3 Bf6 0-1

@@ -1,0 +1,25 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Ferenc Portisch"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 fxe4
+12. Nxe4 Nf6 13. Bf3 Nf5 14. Bc3 Nxe4 15. Bxe4 Qh4 16. Qe2 Bd7
+17. Rae1 Rae8 18. b4 Bh6 19. g3 Qg5 20. Kh1 Rf7 21. Qd1 Rfe7
+22. Bb2 Bg7 23. a4 Nd4 24. f3 Nf5 25. Rf2 Qh6 26. Kg1 Bf6
+27. Rfe2 Bg5 28. Nf2 Qf8 29. c5 b6 30. c6 Bc8 31. Kg2 h5
+32. Qd3 Kh7 33. a5 Qf7 34. axb6 axb6 35. Bc3 Bh6 36. Ra2 Bg7
+37. Nh3 Bh6 38. Ra7 Rf8 39. Re2 Rfe8 40. Nf2 Bg7 41. Ra8 Bh6
+42. Re1 Qf6 43. Ra7 Qf7 44. Nd1 Qf6 45. Ra8 Qf7 46. Nb2 h4
+47. g4 h3+ 48. Kxh3 Ne3 49. Rxc8 Rxc8 50. Bd2 Nxg4 51. Kxg4
+Bf4 52. h4 Kh6 53. Rg1 Rg8 54. Kh3 Qf6 55. Nc4 Ree8 56. Ne3
+Kh5 57. Rg4 1-0

@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "It"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Evgeni Vasiukov"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.Nf3 f5 2.d3 d6 3.e4 e5 4.Nc3 Nf6 5.g3 Be7 6.Bg2 Nc6 7.O-O
+O-O 8.exf5 Bxf5 9.Nh4 Bg4 10.f3 Be6 11.f4 d5 12.Nf3 e4 13.dxe4
+d4 14.Ng5 Bc4 15.Ne2 Bc5 16.Kh1 h6 17.Nh3 Ng4 18.b3 Ba6 19.e5
+Qd7 20.c4 Rad8 21.a3 Qf5 22.Ra2 Kh8 23.Qe1 d3 24.Nc3 Nd4 25.b4
+Bxc4 26.bxc5 Bxa2 27.Nxa2 Nc2 28.Qe4 d2 29.Qxf5 Rxf5 30.Bxd2
+Rxd2 31.Be4 Rh5 32.e6 Rxh3 33.e7 Rdxh2+ 0-1

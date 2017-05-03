@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Francis Rayner"]
+[Black "Clive L Waters"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nbd2 g6 5. g3 Bg7 6. Bg2 O-O
+7. O-O Na6 8. b3 Bf5 9. Bb2 Ne4 10. Nh4 Nxd2 11. Qxd2 Be6
+12. Rac1 Qd7 13. Rfd1 Bh3 14. Bh1 Rad8 15. Nf3 dxc4 16. bxc4
+Nc5 17. Qe3 Qf5 18. Ba3 Nd7 19. Qg5 Bf6 1/2-1/2

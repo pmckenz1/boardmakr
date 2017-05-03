@@ -1,0 +1,23 @@
+[Event "05, Munster op"]
+[Site "05, Munster op"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mehmed Pasalic"]
+[Black "Vladimir Bagirov"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 d5 2.Nf3 c6 3.e3 Bg4 4.c4 e6 5.Nc3 Nd7 6.Bd3 Ngf6 7.O-O
+Be7 8.h3 Bh5 9.a3 O-O 10.b3 a6 11.Bb2 b5 12.a4 b4 13.Ne2 Bg6
+14.Bxg6 hxg6 15.Ne5 Nxe5 16.dxe5 Nd7 17.Rc1 Rc8 18.Qc2 dxc4
+19.Qxc4 Qa5 20.f4 Nb6 21.Qe4 c5 22.h4 c4 23.bxc4 Nxa4 24.Ra1
+Nc5 25.Qf3 Qb6 26.h5 Qc6 27.Qh3 Qe4 28.Bd4 gxh5 29.Ng3 Qh7
+30.Nxh5 g6 31.Nf6+ Bxf6 32.Qxh7+ Kxh7 33.exf6 Nb3 34.Ra2 Nxd4
+35.exd4 Rxc4 36.Rxa6 Rxd4 37.Ra7 g5 38.f5 exf5 39.Rxf5 Kg6
+40.Raa5 Rg4 41.Rfb5 Rc8 42.Ra2 Rc1+ 43.Kh2 Rh4+ 44.Kg3 Rc3+
+45.Kf2 Rc6 46.Raa5 Rg4 47.Kf3 Kh5 48.Rf5 Rc3+ 49.Kf2 Rc2+
+50.Kf3 Rgxg2 51.Rfb5 Rcf2+ 0-1

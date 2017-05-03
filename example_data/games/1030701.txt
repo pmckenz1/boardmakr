@@ -1,0 +1,32 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.08"]
+[EventDate "1922.07.31"]
+[Round "7"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "Victor Leonard Wahltuch"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 {Notes by Geza Maroczy} d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7
+5.Bf4 O-O 6.e3 c6 7.Bd3 Nbd7 8.O-O dxc4 9.Bxc4 Nd5 10.Bg3 b5
+11.Bb3 N7f6 12.Qd3 Qb6 13.e4 Nxc3 14.bxc3 c5 {Black's
+treatment of the opening was rather original; but not entirely
+satisfactory.} 15.Bc2 c4 16.Qe2 Qa5 17.Bh4 g6 {Of course not
+...Qxc3 as e5, Bxe7, and Qe4 would win for White.}18.Qd2 Qd8
+19.Rfe1 Kg7 20.Bg5 Ng8 21.Bxe7 Qxe7 22.a4 {The decisive move ,
+which breaks up Black's q--side pawns. Black should have
+developed his queen bishop earlier.} Bd7 23.axb5 Bxb5 24.Ne5
+Rfb8 25.f4 f6 26.Nf3 Be8 27.e5 f5 {Now Black has three weak
+pawns : e6, c4, and a7, and that is too much.} 28.Ba4 Rb7
+29.Bxe8 Rxe8 30.Ra6 Reb8 31.Qa2 Qc7 32.Ng5 {If Rxe6, ...Rb2
+would be troublesome.} Qc8 33.Nxe6+ Kh8 34.Nc5 Rb2 35.Qxc4 Qf8
+{Black is trying for an attack on the white king; but this
+scheme is doomed to failure.} 36.Nd7 Qh6 37.Nxb8 Qxf4 38.Qf1
+{This move saves everything, and Black might now have given up
+a hopeless game.} Qd2 39.Nc6 f4 40.Raa1 g5 41.Qf3 Nh6 42.Red1
+Qc2 43.Nb4 Qf5 44.Rxa7 g4 45.Qd3 f3 46.gxf3 gxf3 47.Qxf5 Nxf5
+48.Rf1 Ne3 49.Rxf3 1-0

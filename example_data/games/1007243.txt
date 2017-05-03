@@ -1,0 +1,24 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.01"]
+[EventDate "1925.04.16"]
+[Round "12"]
+[Result "0-1"]
+[White "Jacques Mieses"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "C71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.h3 Nf6 6.d3 Be7 7.Nc3
+O-O 8.Be3 b5 9.Bb3 Na5 10.Qd2 Nxb3 11.axb3 Bb7 12.O-O Re8
+13.Bg5 c5 14.Bxf6 Bxf6 15.Nd5 Be7 16.c4 Bf8 17.Ne1 g6 18.Qa5
+Bxd5 19.Qxd8 Rexd8 20.cxd5 Rdb8 21.Nc2 a5 22.Ra2 a4 23.bxa4
+Rxa4 24.Rfa1 c4 25.Rxa4 bxa4 26.dxc4 Rxb2 27.Na3 Be7 28.Kf1
+Kf8 29.Ke1 f5 30.exf5 gxf5 31.Nb5 Rb4 32.Na3 Bd8 33.Ra2 Bb6
+34.Nb5 Bc5 35.Nc3 Rxc4 36.Nxa4 Rc1+ 37.Ke2 Bd4 38.Kd3 Ke7
+39.f3 Kf6 40.Kd2 Rg1 41.Kd3 Re1 42.Kd2 Rb1 43.Nc3 Bxc3+
+44.Kxc3 Rb5 45.Rd2 Rc5+ 46.Kb3 f4 47.Ra2 Rxd5 48.Kc3 Rd1
+49.Kc2 Rg1 50.Kd3 Kg6 51.Rb2 h5 52.Ra2 h4 53.Rd2 d5 54.Ra2 d4
+55.Ra5 Rxg2 56.Rd5 Rf2 0-1

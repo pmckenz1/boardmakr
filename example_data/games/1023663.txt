@@ -1,0 +1,23 @@
+[Event "Daugavpils"]
+[Site "Daugavpils"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Sergei Terentiev"]
+[ECO "B39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.Nf3 g6 2.c4 Bg7 3.Nc3 Nf6 4.e4 c5 5.d4 cxd4 6.Nxd4 Nc6 7.Be3
+Ng4 8.Qxg4 Nxd4 9.Qd1 Ne6 10.Rc1 d6 11.b4 O-O 12.Be2 b6 13.O-O
+Bb7 14.Qd2 Rc8 15.Nd5 Nc7 16.Bg5 Nxd5 17.exd5 Bf6 18.Bh6 Bg7
+19.Bxg7 Kxg7 20.Qd4+ Kg8 21.Rfe1 e5 22.dxe6 fxe6 23.Bg4 e5
+24.Qe3 Rc7 25.c5 Re8 26.cxd6 Rxc1 27.Rxc1 Qxd6 28.a3 Qd4 29.h3
+Qxe3 30.fxe3 Re7 31.Kf2 h5 32.Bf3 e4 33.Be2 Rf7+ 34.Kg3 Kg7
+35.h4 Rd7 36.Bb5 Rf7 37.Rc2 Bd5 38.Rd2 Bb3 39.Rd4 Bc2 40.Rd6
+Bb1 41.Bc6 Rf5 42.Be8 g5 43.Bxh5 gxh4 44.Kxh4 Rf2 45.Rd7+ Kh6
+46.g4 Rh2+ 47.Kg3 Ra2 48.Rxa7 Re2 49.Rb7 Kg5 50.Rg7+ Kf6
+51.g5+ 1-0

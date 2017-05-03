@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1929.08.23"]
+[EventDate "1929.07.31"]
+[Round "19"]
+[Result "1-0"]
+[White "Hermanis Karlovich Mattison"]
+[Black "Edgar Colle"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3
+O-O 8.d5 exd5 9.cxd5 d6 10.Bc2 Na6 11.e4 Nc7 12.h3 b5 13.Bf4
+Re8 14.Ne2 Bf8 15.Ng3 g6 16.Qd2 Bg7 17.Rad1 b4 18.Bg5 Qd7
+19.Qf4 Nfxd5 20.exd5 Bxd5 21.Ne4 Ne6 22.Qh4 Nxg5 23.Nfxg5 Bxe4
+24.Qxh7+ Kf8 25.Bxe4 Rad8 26.Bd5 Re7 27.Rde1 Rde8 28.Qxg6 Rxe1
+29.Nh7+ Ke7 30.Rxe1+ Be5 31.Qf6# 1-0

@@ -1,0 +1,21 @@
+[Event "Blackpool (England)"]
+[Site "Blackpool ENG"]
+[Date "1990.05.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kilian A Hynes"]
+[Black "Nigel Rodney Davies"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 Nf6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Na6 8.Be3 Qe8 9.dxe5 dxe5 10.h3 c6 11.a3 Qe7 12.Qc2 Nh5
+13.Rfd1 Nc5 14.b4 Ne6 15.g3 f5 16.Kg2 f4 17.Bc5 Nxc5 18.bxc5
+fxg3 19.fxg3 Qxc5 20.Na4 Qe7 21.c5 Kh8 22.Rd6 Be6 23.Rad1 Rae8
+24.Nb2 Bc8 25.Nc4 Bf6 26.Qd2 Qf7 27.Qe3 g5 28.Nh2 Qg6 29.Ng4
+Nf4+ 30.Kh2 Ne6 31.Ncxe5 Bxe5 32.Nxe5 Qg7 33.Ng4 Re7 34.e5 Nc7
+35.Rd8 h6 36.Nf6 Be6 37.Qe4 Bg8 38.Bg4 Nd5 39.Rxf8 Qxf8 40.Qf5
+Ne3 41.Qg6 Bh7 0-1

@@ -1,0 +1,17 @@
+[Event "Leipzig Olympiad Fin"]
+[Site "Leipzig Olympiad Fin"]
+[Date "1960.10.31"]
+[EventDate "?"]
+[Round "4.2"]
+[Result "1/2-1/2"]
+[White "Lajos Portisch"]
+[Black "Mikhail Botvinnik"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 Bb4 7.O-O
+O-O 8.Bd2 Qe7 9.Ne5 c5 10.cxd5 exd5 11.a3 Bxc3 12.Bxc3 Nxe5
+13.dxe5 Ne4 14.Bxe4 dxe4 15.Kh1 a5 16.Qa4 Bf5 17.Rad1 Ra6
+18.Rd6 Rxd6 19.exd6 Qxd6 20.Rd1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Zoltan Gyimesi"]
+[Black "Peter Acs"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5
+7. Bxc4 cxd4 8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6
+gxf6 12. Bxd7+ Nxd7 13. O-O a6 14. Rb1 Qc7 15. f4 O-O-O
+16. Qe2 Nc5 17. Rb4 Kb8 18. Rfb1 Rd6 19. Rc4 Rc8 20. Qh5 Rb6
+21. Rbb4 Qd6 22. Qxf7 e5 23. fxe5 fxe5 24. Nb3 Rxb4 25. cxb4
+Rf8 26. Qd5 Qf6 27. h3 Nxb3 28. axb3 Rd8 0-1

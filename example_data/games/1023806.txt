@@ -1,0 +1,19 @@
+[Event "01, Luzern"]
+[Site "01, Luzern"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Artashes Minasian"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 d6 2.Nf3 Bg4 3.c4 Bxf3 4.exf3 g6 5.Nc3 Bg7 6.Be3 c6 7.Be2
+Nf6 8.O-O O-O 9.f4 d5 10.c5 b5 11.a4 b4 12.Na2 a5 13.Nc1 e6
+14.Nd3 Kh8 15.h4 Ng8 16.h5 Nh6 17.hxg6 hxg6 18.g4 f5 19.g5 Nf7
+20.Kg2 Kg8 21.Rh1 Nd7 22.Rh3 Re8 23.Qh1 Nf8 24.Qh2 Ra7 25.Rh1
+Ree7 26.b3 Qc7 27.Kf1 Ra8 28.Rh4 Rb8 29.Ne1 Rd8 30.Nf3 Rb8
+31.Bd3 Rd8 32.Ne5 Nxe5 33.fxe5 Kf7 34.Ke2 1/2-1/2

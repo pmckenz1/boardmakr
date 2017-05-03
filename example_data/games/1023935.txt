@@ -1,0 +1,22 @@
+[Event "05, Berliner Sommer"]
+[Site "Berlin GER"]
+[Date "1995.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Joerg Pachow"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 e6 6.Bc4 Nxc3 7.dxc3
+Nc6 8.Bf4 Bxc5 9.Qg4 g5 10.Bxg5 Rg8 11.h4 h6 12.Nf3 hxg5
+13.hxg5 Nxe5 14.Nxe5 Qxg5 15.Qe2 d6 16.Nf3 Qf5 17.Nd2 d5
+18.Bxd5 Qxf2+ 19.Qxf2 Bxf2+ 20.Kxf2 exd5 21.Nf3 Be6 22.Nd4 Kd7
+23.Rae1 Rg7 24.Re3 Rag8 25.g3 c5 26.Ne2 Rg5 27.a3 a5 28.Nf4
+Kd6 29.Rh7 Rf5 30.Rf3 b5 31.Nxe6 Rxf3+ 32.Kxf3 Kxe6 33.g4 a4
+34.Kf4 Rg6 35.g5 d4 36.Rh8 Kd5 37.Rd8+ Rd6 38.Rc8 Rd7 39.Kf3
+Re7 40.Kf4 Re2 41.Rd8+ Kc4 42.Kf3 Rxb2 43.Rd7 Rb1 44.Kg2 b4
+0-1

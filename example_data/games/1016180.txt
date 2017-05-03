@@ -1,0 +1,16 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.28"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Artur Yusupov"]
+[ECO "C43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O O-O
+7.Nc3 Nxc3 8.bxc3 Nd7 9.Nxd7 Bxd7 10.Qh5 f5 11.Qf3 c6 12.Bf4
+Qc7 13.Bxd6 Qxd6 1/2-1/2

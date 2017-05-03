@@ -1,0 +1,22 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Nikolai Stawski"]
+[Black "Peter Jovanovic"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 Bg4 4. b3 Nbd7 5. Bb2 e6 6. h3 Bxf3
+7. Qxf3 Bd6 8. g4 Ne4 9. h4 Rg8 10. d3 Nec5 11. e4 c6 12. Nd2
+Qc7 13. e5 Be7 14. a3 O-O-O 15. d4 Na6 16. Bxa6 bxa6 17. Qd3
+Qb6 18. b4 a5 19. bxa5 Qxa5 20. Kf2 c5 21. c4 Nb6 22. Rhc1
+dxc4 23. Nxc4 Nxc4 24. Rxc4 Rd5 25. Rac1 Kb8 26. Rb1 Ka8
+27. Bc3 Qd8 28. Ra4 cxd4 29. Qa6 Qd7 30. Ba5 Bc5 31. Bb4 d3+
+32. Bxc5 Rxc5 33. Rd1 Rc2+ 34. Kf1 d2 35. Ke2 Rd8 36. Ra5 Rc1
+37. Qb5 Rxd1 38. Kxd1 Qc7 39. Qc5 Qb7 40. Rb5 Qh1+ 41. Kc2
+d1=Q+ 42. Kc3 Qc1+ 43. Kb4 Qe4+ 44. Ka5 Qxc5 0-1

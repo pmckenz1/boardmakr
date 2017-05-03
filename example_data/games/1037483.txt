@@ -1,0 +1,20 @@
+[Event "Calgary ch-CAN zt"]
+[Site "Calgary CAN"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Kevin Spraggett"]
+[Black "Lawrence Day"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6
+7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.Qh5 Bg7
+13.O-O f4 14.c3 O-O 15.Nc2 f5 16.Ncb4 Nxb4 17.Nxb4 d5 18.exd5
+Bd7 19.Rfd1 Be8 20.Qh3 Qg5 21.d6 e4 22.Be2 f3 23.Bf1 Bh5
+24.Rd5 Kh8 25.Re1 Qg6 26.Qg3 Qf7 27.Rc5 fxg2 28.Bxg2 Rg8
+29.Rc7 Qe6 30.Re7 Qh6 31.Kf1 Bf6 32.Qe3 Qg6 33.Qg3 Bxe7
+34.dxe7 Qe6 35.Qf4 Rg4 36.Qd2 Qc4+ 37.Re2 Rag8 0-1

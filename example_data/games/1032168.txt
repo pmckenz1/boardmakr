@@ -1,0 +1,20 @@
+[Event "Training"]
+[Site "Training"]
+[Date "1947.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viacheslav Ragozin"]
+[Black "Mikhail Botvinnik"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bb5+ c6 6.dxc6 bxc6
+7.Bc4 Nd5 8.O-O Bd6 9.Bb3 O-O 10.c4 Nf6 11.d4 c5 12.d5 Bg4
+13.Nc3 a6 14.Qe1 Nbd7 15.Bc2 h6 16.Qh4 Qc7 17.Bd2 Rae8 18.Rae1
+Bh5 19.Ne4 Nxe4 20.Bxe4 Nf6 21.Bc2 Bg6 22.Ba4 Re4 23.b3 Bh7
+24.Bc3 Rxe1 25.Qxe1 Ne4 26.Bb2 f5 27.Qa1 Rf7 28.Be5 Re7
+29.Bxd6 Qxd6 30.Qb2 g5 31.Bc6 g4 32.Ne1 Ng5 33.Nd3 f3 34.b4
+Re2 0-1

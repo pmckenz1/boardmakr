@@ -1,0 +1,21 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Arthur Sartori"]
+[Black "Alfred Moewig"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6
+7. Qe2 b5 8. Bb3 Na5 9. Bd2 Nxb3 10. axb3 O-O 11. Bc3 c5
+12. b4 Nd7 13. bxc5 Nxc5 14. Ba5 Qd7 15. Nc3 Bb7 16. Bb6 Ne6
+17. Be3 f5 18. exf5 Rxf5 19. Ne4 Raf8 20. Kh1 d5 21. Rad1 Rxf3
+22. gxf3 dxe4 23. fxe4 Nf4 24. Bxf4 Rxf4 25. Rg1 Qh3 26. Rg3
+Qh6 27. Rdg1 g6 28. Qe3 Kg7 29. b3 Bh4 30. Rf3 Rxf3 31. Qxf3
+Bc8 32. Qg2 Qd2 33. f3 Qxg2+ 34. Kxg2 Kf7 35. Kf1 Ke6 36. b4
+Be7 37. c3 Bf8 38. Ke2 Bh6 39. h4 Kf7 40. Rh1 Bf4 0-1

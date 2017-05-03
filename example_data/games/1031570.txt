@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "it New York  (03)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Elliott C Winslow"]
+[ECO "E04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 dxc4 5.Bg2 c5 6.Na3 Nc6 7.Nxc4
+cxd4 8.O-O Bc5 9.Bf4 Nd5 10.Be5 O-O 11.Bxd4 Nxd4 12.Nxd4 Nb6
+13.Nxb6 Qxb6 14.Nb3 Rd8 15.Qc2 Bd6 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Nikolai Stawski"]
+[Black "Miodrag Zdravkovic"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 c6 4. Nc3 b5 5. Bb3 h6 6. Nf3 g5
+7. Ne5 Rh7 8. h4 d6 9. Nf3 g4 10. Nd4 b4 11. Nce2 Qf6 12. Nb5
+Na6 13. d4 f3 14. gxf3 gxf3 15. Nf4 cxb5 16. Qxf3 h5 17. e5
+dxe5 18. Qxa8 Qd8 19. Qe4 Nf6 20. Qxe5+ Qe7 21. Qxe7+ Bxe7
+22. Nd5 Bb7 23. Nxf6+ Bxf6 24. d5 Nc5 25. Rh3 a5 26. c4 a4
+27. Bc2 Rg7 28. Kf2 bxc4 29. Bh6 Bd4+ 30. Be3 Bxe3+ 31. Rxe3+
+Kd7 32. Re5 b3 33. axb3 axb3 34. Bb1 Kd6 35. Rxh5 Bxd5 36. Ra5
+Rg2+ 37. Ke3 Rxb2 38. Rxc5 Kxc5 39. Be4 Rh2 40. Rxd5+ Kb4
+41. h5 Rh3+ 42. Kd4 Rh4 43. h6 Rxh6 44. Rc5 Rd6+ 45. Bd5 Rxd5+
+46. Kxd5 c3 47. Rc4+ Ka3 48. Rxc3 Ka2 49. Kc4 b2 50. Rc2 Ka1
+51. Rxb2 1/2-1/2

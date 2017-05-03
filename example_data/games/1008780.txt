@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Christopher Ward"]
+[Black "Praveen Mahadeo Thipsay"]
+[ECO "E86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 O-O 5. Nc3 d6 6. Be3 e5
+7. Nge2 c6 8. Qd2 Nbd7 9. d5 cxd5 10. cxd5 a6 11. g4 b5
+12. Ng3 Nb6 13. h4 Rb8 14. h5 Re8 15. Qh2 Bxg4 16. hxg6 Bxf3
+17. gxh7+ Kh8 18. Nf5 Ng4 19. Qg3 Bxh1 20. Nxg7 Kxg7 21. Qxg4+
+Kh8 22. Be2 b4 23. Nd1 f5 24. Qh5 f4 25. Bf2 Rb7 26. Qxh1 Rxh7
+27. Qf3 Nd7 28. Rc1 Nf6 29. Rc6 Qd7 30. Bf1 Ng4 31. Bh3 Rg8
+32. Bxg4 Qxg4 33. Qxg4 Rxg4 34. Rxd6 f3 35. Rd8+ Kg7 36. Rd7+
+Kg6 37. Rxh7 Rxe4+ 38. Be3 Kxh7 39. d6 Rh4 40. d7 1-0

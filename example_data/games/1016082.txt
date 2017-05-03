@@ -1,0 +1,16 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Petar Popovic"]
+[Black "Andras Adorjan"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.Ne5 Nd7 8.Nxd7 Bxd7 9.Be2 Bf5 10.O-O e6 11.c3 Be7 12.Be3 O-O
+1/2-1/2

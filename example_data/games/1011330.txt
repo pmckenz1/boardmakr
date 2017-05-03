@@ -1,0 +1,20 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Nicol Bathie"]
+[Black "Walter F Buchanan"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Nc6 4. Bg2 Be7 5. e3 d6 6. d4 exd4
+7. exd4 O-O 8. Nge2 Bf5 9. a3 Qd7 10. h3 Rae8 11. Be3 Bd8
+12. g4 Bg6 13. Nf4 Ne4 14. Nxg6 Nxf2 15. Nxf8 Qe7 16. Kxf2
+Qxe3+ 17. Kf1 Bh4 18. Qe2 Qf4+ 19. Qf3 Qd2 20. Kg1 Nxd4
+21. Rf1 Nxf3+ 22. Rxf3 Qe1+ 23. Kh2 Qe5+ 24. Kg1 Bg3 25. Bf1
+Kxf8 26. Kg2 Bh4 27. Bd3 Qg5 28. Ne4 Rxe4 29. Bxe4 Qd2+
+30. Kg1 Qe1+ 31. Rf1 Qxe4 32. Rh2 Bf6 33. Rg2 Qe3+ 0-1

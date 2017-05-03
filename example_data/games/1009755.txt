@@ -1,0 +1,26 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Ian Clive Rout"]
+[Black "Robert Raposio"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. h4 h6
+7. h5 Bh7 8. Bd3 Bxd3 9. cxd3 Qb6 10. Be3 Qxb2 11. Nd2 Qb6
+12. O-O Qc7 13. f4 f5 14. exf6 gxf6 15. Qg4 Qf7 16. f5 e5
+17. Rfe1 Nd7 18. Nf3 Bd6 19. dxe5 fxe5 20. Bf4 O-O-O 21. Nxe5
+Nxe5 22. Bxe5 Bxe5 23. Rxe5 Nf6 24. Qg6 Rdf8 25. Ne2 Rhg8
+26. Qxf7 Rxf7 27. Nf4 Ng4 28. Re6 Rxf5 29. Rg6 Rxg6 30. hxg6
+Rg5 31. Re1 b6 32. Re7 Kd8 33. Rxa7 Ke8 34. g7 Nf6 35. Rc7 c5
+36. Rc6 Kf7 37. Rxb6 Rxg7 38. Rxf6+ Kxf6 39. Nh5+ Ke5 40. Nxg7
+Kd4 41. Ne6+ Kxd3 42. Nxc5+ Kc4 43. Ne6 d4 44. Kf2 Kc3 45. Ke1
+d3 46. Kd1 Kb4 47. Ng7 Ka3 48. Nf5 h5 49. Ng3 h4 50. Nf5 Kxa2
+51. Nxh4 Kb3 52. g4 Kc4 53. g5 Kd5 54. g6 Ke6 55. Kd2 Kf6
+56. Kxd3 Kg7 57. Ke4 Kf6 58. Kf4 Kg7 59. Kg5 Kg8 60. Kh6 Kh8
+61. Nf5 Kg8 62. Ne7+ 1-0

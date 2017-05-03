@@ -1,0 +1,26 @@
+[Event "Bundesliga 1996/97, Germany"]
+[Site "Bundesliga 1996/97, Germany"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Roman Slobodjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. Nc3 e6 5. a3 d5 6. cxd5 Nxd5
+7. Qc2 Nd7 8. Nxd5 exd5 9. Bg5 Be7 10. Bxe7 Kxe7 11. g3 Nf6
+12. Rc1 c6 13. Ne5 Qd6 14. Bg2 Rhc8 15. O-O Kf8 16. Qf5 Rc7
+17. Rc2 c5 18. dxc5 bxc5 19. Rd1 Re8 20. Nc4 Qe7 21. Ne3 d4
+22. Bxb7 dxe3 23. Bf3 exf2+ 24. Kxf2 g6 25. Qf4 Kg7 26. Rd3
+Rcc8 27. Re3 Qd7 28. Rxe8 Qxe8 29. Qe3 Qb5 30. b4 c4 31. Qxa7
+Qf5 32. Rc1 g5 33. Qa5 Qg6 34. Qe5 Re8 35. Qd4 g4 36. Bg2 Qf5+
+37. Qf4 Qe6 38. Qxc4 Qe3+ 39. Kf1 Re5 40. Qf4 Qxe2+ 41. Kg1
+Qb2 42. Rf1 Re2 43. Bc6 h6 44. b5 Re6 45. a4 Qc3 46. Bg2 Qc5+
+47. Kh1 Qc3 48. Qc1 Qb4 49. Qa1 Qc5 50. Qb2 Qb6 51. Qb4 Qe3
+52. a5 Ne4 53. Bxe4 Rxe4 54. Qb2+ Re5 55. Rb1 f6 56. a6 Qe4+
+57. Kg1 Rf5 58. a7 Qe3+ 59. Kg2 Qe4+ 60. Kg1 Qe3+ 61. Kg2 Qe4+
+1/2-1/2

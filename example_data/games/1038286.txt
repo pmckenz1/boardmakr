@@ -1,0 +1,19 @@
+[Event "World"]
+[Site "World"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1988"]
+[Result "1-0"]
+[White "Nick DeFirmian"]
+[Black "James A Thinnsen"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6
+7.N1f3 h6 8.Nxe6 Qe7 9.O-O fxe6 10.Bg6+ Kd8 11.Bf4 Nd5 12.Bg3
+Qb4 13.Re1 Be7 14.Qc1 Nf8 15.a3 Qxe1+ 16.Qxe1 Nxg6 17.Qe4 Nf8
+18.Ne5 Ke8 19.Qf3 Bf6 20.Qh5+ Ke7 21.c4 g6 22.Nxg6+ Nxg6
+23.Qxg6 Nb6 24.Bd6+ Kxd6 25.Qxf6 Bd7 26.c5 Kd5 27.Rc1 Nc4
+28.b3 1-0

@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Bagyashree Sathe Thipsay"]
+[Black "Peter K Wells"]
+[ECO "B74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6
+7. Be3 Bg7 8. Nb3 O-O 9. O-O Be6 10. f4 Qc8 11. Kh1 Bg4
+12. Qd2 Bxe2 13. Qxe2 Ng4 14. Bg1 Bxc3 15. bxc3 f5 16. Rae1
+fxe4 17. Qxe4 Qf5 18. Qc4+ Rf7 19. Qe2 Raf8 20. Rf3 b6 21. Nd4
+Nxd4 22. cxd4 d5 23. c4 Nf6 24. c5 Ne4 25. Qa6 Qd7 26. cxb6
+axb6 27. Qxb6 g5 28. Be3 gxf4 29. Bc1 Qg4 30. Qb3 Rg7 31. Re2
+e6 32. Qd1 Ng5 33. Rff2 f3 34. gxf3 Rxf3 35. Rg2 Qf5 36. Re1
+Nh3 37. Qe2 Nf2+ 38. Rxf2 Rxf2 39. Qd1 Rxh2+ 40. Kxh2 Qf2+ 0-1

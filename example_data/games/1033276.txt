@@ -1,0 +1,22 @@
+[Event "3, Toledo (10s)"]
+[Site "3, Toledo Hiarcs 7.32 (10s)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Oscar de la Riva Aguado"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c6 4. h4 d5 5. e5 h5 6. Nh3 Nh6
+7. Nf4 Nf5 8. Nce2 e6 9. g3 c5 10. c3 Nc6 11. Bh3 Nfe7 12. O-O
+Qb6 13. b3 cxd4 14. cxd4 Bd7 15. Qd2 a5 16. Ba3 Nb4 17. Rfd1
+Bh6 18. Nc3 Bb5 19. Rac1 Nec6 20. Bb2 Na7 21. Nxb5 Qxb5 22. a3
+Nbc6 23. Rc3 O-O 24. Rf3 Nc8 25. Bf1 Qb6 26. Nxd5 Bxd2
+27. Nxb6 Nxb6 28. Rxd2 Rfd8 29. Rfd3 a4 30. Rc2 Ra5 31. Rc5
+axb3 32. Rxb3 Na4 33. Rxa5 Nxa5 34. Rb5 Nxb2 35. Rxa5 Rxd4
+36. Rb5 Nd3 37. f4 Ne1 38. Kf2 Nc2 39. Rxb7 Nxa3 40. Rb2 Ra4
+41. Ra2 Ra7 42. Bd3 Nb5 1/2-1/2

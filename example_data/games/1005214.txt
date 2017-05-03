@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Michael Johansson"]
+[Black "Joachim Bergre"]
+[ECO "A42"]
+[WhiteElo "2105"]
+[BlackElo "2120"]
+[PlyCount "22"]
+
+1. d4 g6 2. c4 d6 3. Nc3 Bg7 4. e4 Nd7 5. f3 e5 6. Be3 Ne7
+7. Qd2 O-O 8. Nge2 f5 9. O-O-O f4 10. Bf2 Nf6 11. g3 Nh5
+1/2-1/2

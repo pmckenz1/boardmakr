@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Peter J Mercs"]
+[Black "Andrew Philip Smith"]
+[ECO "B80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6
+7. Qd2 b5 8. f3 Bb7 9. g4 h6 10. O-O-O Nbd7 11. Rg1 b4 12. Na4
+Qa5 13. b3 Nc5 14. h4 Nxa4 15. bxa4 Qxa4 16. g5 hxg5 17. hxg5
+Nd7 18. Bc4 g6 19. Rh1 Rxh1 20. Rxh1 d5 21. Bb3 Qa5 22. Rh7
+Rd8 23. Qh2 e5 24. Ne6 Rc8 25. Nxf8 Kxf8 26. Qh6+ Ke7 27. Qxg6
+Rf8 28. Qf5 Qc7 29. g6 Qc3 30. Bg5+ Kd6 31. Kb1 dxe4 32. Rxf7
+Rxf7 33. gxf7 Nf8 34. Qf6+ Kc5 35. Qe7+ Kb6 36. Qxf8 e3
+37. Bxe3+ Qxe3 38. Qxb4+ Ka7 39. f8=Q 1-0

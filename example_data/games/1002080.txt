@@ -1,0 +1,35 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.03.28"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Nicholas MacLeod"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 {Analysis by Wilhelm Steinitz.} e5 2.Nf3 Nc6 3.Bb5 Nf6
+4.O-O Bc5 {Irregular and incorrect. ...Nxe4 is the best move
+here.} 5.Nc3 {White could have obtained the better game
+immediately by Nxe5.} d6 6.d3 h6 {Useless for the defense, and
+at least premature for the attack.} 7.Ne2 Bd7 8.c3 a6 {This
+advance drives the adverse bishop to a better post, to which
+White anyhow intended to retreat. The move is also specially
+objectionable under the circumstances that he intends O-O-O.}
+9.Ba4 Qe7 10.Ng3 O-O-O 11.b4 Bb6 {Ba7 might have saved some
+valuable time on the 17th move.} 12.b5 Nb8 13.bxa6 Nxa6
+14.Bxd7+ Nxd7 15.d4 g6 16.a4 Rdf8 17.a5 Ba7 18.Rb1 Ndb8 19.Qb3
+c6 20.Ba3 {White pursues his attack with admirable
+correctness. He can win a pawn at once by dxe5, followed by
+Nxe5, but he justly prefers the move in the text as a
+preliminary, which establishes connection between the two
+rooks and also compels the adversary to block his pieces still
+more, for he threatens now Bxd6, and Black's answer is
+forced.} c5 21.dxe5 dxe5 22.Nxe5 Qc7 23.Nc4 h5 24.e5 h4 25.Ne4
+h3 26.Qxb7+ Qxb7 27.Ncd6+ Kd8 28.Rxb7 hxg2 29.Rfb1 Nc6 30.Bc1
+{Powerful and accurate.} Nc7 31.Bg5+ Kd7 32.Rxc7+ {Winning two
+pieces, for obviously if Kxc7, White mates by Rb7.} Ke6
+33.Rxc6 c4 34.Bf6 Rh5 35.Rd1 Rh3 36.Rc7 1-0

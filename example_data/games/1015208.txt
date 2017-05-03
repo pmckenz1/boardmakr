@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Biel SUI"]
+[Date "1994.07.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Serban-Constantin Neamtu"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bb3 Bf5 7.Nc3
+e6 8.Nge2 Nc6 9.a3 Be7 10.O-O O-O 11.h3 h6 12.Ba2 Qd7 13.Be3
+Rad8 14.Qc1 Na5 15.Bxh6 gxh6 16.Qxh6 Rfe8 17.Ng3 Bf8 18.Qg5+
+Bg6 19.Nce4 Bg7 20.Nf6+ Bxf6 21.exf6 Qxd4 22.Rad1 1-0

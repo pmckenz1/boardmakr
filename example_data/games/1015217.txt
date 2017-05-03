@@ -1,0 +1,18 @@
+[Event "Biel op (SUI)"]
+[Site "Biel SUI"]
+[Date "1994.08.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "Lev Gutman"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxc3
+7.bxc3 Qxd5 8.Qb3 Be6 9.Qxd5 Bxd5 10.e3 c5 11.Bd3 f5 12.Ke2
+Nd7 13.Rab1 b6 14.Bb5 Rc8 15.c4 Be4 16.Rbd1 a6 17.Bxd7+ Kxd7
+18.dxc5 Ke8 19.cxb6 Rxc4 20.Rc1 Rb4 21.Rc7 Rb2+ 22.Nd2 h6
+23.Bxe7 Be5 1/2-1/2

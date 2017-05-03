@@ -1,0 +1,15 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1991.01.29"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Michael Adams"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Bd2 f5 9.d5 Bf6 10.Rc1 c5 11.Ne1 exd5 1/2-1/2

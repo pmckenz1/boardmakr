@@ -1,0 +1,22 @@
+[Event "Budapest Spring op 17"]
+[Site "Budapest HUN"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Miran Zupe"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Qc2
+O-O 8.Bd3 Nbd7 9.Nge2 Re8 10.O-O Nf8 11.f3 h6 12.Bh4 c5 13.Kh1
+Ne6 14.dxc5 Nxc5 15.Bb5 Bd7 16.Bxf6 Bxf6 17.Bxd7 Qxd7 18.Rad1
+Bxc3 19.Nxc3 Qe6 20.Nxd5 Rac8 21.e4 Nd7 22.Qa4 a6 23.Qb4 Nc5
+24.Qd4 Rc6 25.Rc1 Rec8 26.Rc3 Kh8 27.Rfc1 Nd7 28.h3 Rxc3
+29.Rxc3 Rxc3 30.Nxc3 Qc6 31.Qd5 Kg8 32.Qxc6 bxc6 33.Kg1 Kf8
+34.Kf2 Ke7 35.Ke3 Kd6 36.f4 Kc5 37.h4 Kc4 38.e5 a5 39.h5 Nb6
+40.Ne4 Nd5+ 41.Kf3 Kd3 42.b3 Nb4 43.Nd6 Nxa2 44.Nxf7 Nb4 45.e6
+Kd4 46.Ne5 1-0

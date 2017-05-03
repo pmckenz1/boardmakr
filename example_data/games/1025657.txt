@@ -1,0 +1,21 @@
+[Event "St.Petersburg Petrov"]
+[Site "02"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Riazantsev"]
+[Black "Yuri Balashov"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 d6 6.e4 O-O 7.Bd3 Nbd7
+8.Bf4 exd5 9.cxd5 Re8 10.Ne2 Ne5 11.Bxe5 Rxe5 12.O-O a6 13.a4
+Bd7 14.Kh1 Re8 15.Ng3 Rc8 16.Bc4 Rb8 17.Qc2 b5 18.axb5 axb5
+19.Be2 h5 20.Rfb1 h4 21.Nf1 Ba5 22.Na2 Bb6 23.b3 Qe7 24.Nc1
+Ra8 25.Qb2 Nh5 26.Nd3 Qg5 27.Qd2 Qf6 28.Rxa8 Rxa8 29.f4 Qh6
+30.Bxh5 Qxh5 31.Ne3 Qg6 32.Nf2 Qf6 33.Neg4 Qd4 34.Qc2 Ra1
+35.h3 c4 36.Rxa1 Qxa1+ 37.Kh2 cxb3 38.Qxb3 Bxg4 39.hxg4 Bxf2
+0-1

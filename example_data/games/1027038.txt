@@ -1,0 +1,23 @@
+[Event "Baltimore 52/208"]
+[Site "Baltimore 52/208"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joel Benjamin"]
+[Black "Alex Yermolinsky"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f4 b5 10.Bxf6 gxf6 11.Nxc6 Bxc6 12.Bd3 Qb6
+13.Kb1 h5 14.Qe1 O-O-O 15.f5 Qc5 16.Rf1 Bb7 17.Qh4 Qe5 18.Ne2
+Bh6 19.Qf2 h4 20.Nd4 Bg5 21.c3 Rhe8 22.Qc2 Qc5 23.fxe6 fxe6
+24.a4 e5 25.Nf5 d5 26.axb5 axb5 27.Qe2 b4 28.cxb4 Qxb4 29.Ba6
+d4 30.Rf3 Re6 31.Qc2+ Kb8 32.Bxb7 Qxb7 33.Rb3 Rb6 34.Rdd3 Rc8
+35.Rxb6 Qxb6 36.Rb3 Rxc2 37.Rxb6+ Kc7 38.Kxc2 Kxb6 39.Kd3 Kc5
+40.h3 Kb4 41.Kc2 Kc4 42.b3 Kc5 43.g3 hxg3 44.Nxg3 f5 45.Nxf5
+Kc6 46.h4 Bf6 47.Kd3 Kd7 48.b4 Ke6 49.b5 Bd8 50.h5 Kf7 51.Nd6+
+Ke6 52.Nc4 Bf6 53.h6 Bh8 54.h7 Bf6 55.b6 1-0

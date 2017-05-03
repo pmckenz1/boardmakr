@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1920.05.27"]
+[EventDate "1920.05.25"]
+[Round "3"]
+[Result "1-0"]
+[White "Max Marchand"]
+[Black "Henri Weenink"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. Nc3 cxd4 5. Nxd4 Qb6 6. Nb3
+Bb4 7. Bd2 Bxc3 8. Bxc3 Ne4 9. Qd4 Nxc3 10. Qxc3 O-O 11. c5
+Qc7 12. Nd4 b6 13. Nb5 Qc6 14. e4 a6 15. Nd6 bxc5 16. Rd1 Qb6
+17. Be2 Nc6 18. e5 Nd4 19. Bc4 Rb8 20. Rd2 f6 21. f4 fxe5
+22. fxe5 Qd8 23. h4 Rf4 24. Qg3 Qf8 25. Rf1 Rxf1+ 26. Bxf1 Nf5
+27. Nxf5 exf5 28. Bc4+ Kh8 29. e6 Rb6 30. exd7 Bxd7 31. Qc7
+Qe7+ 32. Kf1 Qxh4 33. Qxb6 Qxc4+ 34. Kg1 Be8 35. Qb8 Qe4
+36. Kf1 h6 37. Re2 1-0

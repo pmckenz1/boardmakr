@@ -1,0 +1,25 @@
+[Event "London (England)"]
+[Site "It"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Daire McMahon"]
+[Black "Vladimir Bagirov"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.cxd5 exd5 6.Bf4 Bf5 7.e3
+Qb6 8.Qb3 Qxb3 9.axb3 Nbd7 10.Be2 h6 11.h3 g5 12.Bh2 Be7
+13.O-O Ne4 14.Bd3 Nd6 15.Bxf5 Nxf5 16.g4 Ng7 17.Ne5 Nxe5
+18.Bxe5 f6 19.Bg3 Ne6 20.Kg2 h5 21.Rad1 O-O-O 22.f3 a5 23.Ne2
+b6 24.Rc1 Kb7 25.Rcd1 Rd7 26.Rh1 h4 27.Bh2 Re8 28.Nc3 Bd6
+29.Bxd6 Rxd6 30.Rd3 Rd7 31.Kf2 Rf8 32.Rd2 f5 33.gxf5 Rxf5
+34.Kg2 Rf6 35.Re1 Ng7 36.Ne2 Re7 37.Nc1 Rfe6 38.Kf2 Nf5
+39.Rde2 c5 40.dxc5 bxc5 41.e4 Nd4 42.exd5 Nxe2 43.dxe6 Nf4
+44.Re5 Kc6 45.Ke3 Rxe6 46.Rxe6+ Nxe6 47.Nd3 Kd5 48.f4 Nxf4
+49.Nxf4+ gxf4 50.Kxf4 c4 51.bxc4 Kxc4 52.Kg4 Kb3 53.Kxh4 Kxb2
+54.Kg5 a4 55.h4 a3 56.h5 a2 57.h6 a1=Q 58.Kg6 Kb3 59.Kh7 Qf6
+0-1

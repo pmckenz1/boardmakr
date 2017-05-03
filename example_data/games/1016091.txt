@@ -1,0 +1,24 @@
+[Event "Sarajevo (Bosnia & Herzegovina)"]
+[Site "Sarajevo (Bosnia & Herzegovina)"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Emir Dizdarevic"]
+[Black "Andras Adorjan"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.d4 cxd4 7.Qxd4
+d6 8.O-O Be7 9.Rd1 a6 10.Ng5 Bxg2 11.Kxg2 Nbd7 12.Nge4 O-O
+13.Bg5 Qc7 14.Rac1 h6 15.Nxf6+ Nxf6 16.Bxf6 Bxf6 17.Qxd6 Qxc4
+18.b3 Qc8 19.Nd5 Qb7 20.Qxb6 Rfb8 21.Qxb7 Rxb7 22.Nxf6+ gxf6
+23.Rd4 a5 24.Rc5 Rb4 25.Rdc4 Kg7 26.g4 Kg6 27.Kg3 e5 28.h4 h5
+29.e4 hxg4 30.Kxg4 Rd8 31.Rxa5 Rxc4 32.bxc4 Rd4 33.h5+ Kg7
+34.f3 Rxc4 35.Kf5 Rc3 36.h6+ Kxh6 37.Kxf6 Rxf3+ 38.Kxe5 Kg6
+39.a4 f5 40.Ra6+ Kg5 41.Ra8 fxe4 42.Kxe4 Rf4+ 43.Ke5 Rf5+
+44.Ke6 Rf6+ 45.Ke7 Kg6 46.a5 Rf7+ 47.Ke6 Rf6+ 48.Ke5 Rf5+
+49.Ke4 Rb5 50.a6 Kg7 51.Ra7+ Kg6 52.Rb7 Ra5 53.Ra7 Rb5 54.Kd4
+Rb6 55.Ra8 Kg7 56.Ke5 Kh7 57.Kd5 1/2-1/2

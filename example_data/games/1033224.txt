@@ -1,0 +1,17 @@
+[Event "6, Leon ESP (10s)"]
+[Site "Leon ESP"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Zenon Franco Ocampos"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. c4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Bd7 5. e4 Nc6 6. Qd2 g6
+7. Nc3 Bh6 8. Qc2 Bg7 9. Be2 Nf6 10. O-O O-O 11. h3 a6 12. Be3
+Rb8 13. Nd5 b5 14. c5 dxc5 15. Bxc5 Nxd5 16. exd5 Ne5 17. Nxe5
+Bxe5 1/2-1/2

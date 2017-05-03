@@ -1,0 +1,20 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN"]
+[Date "1976.12.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Tamas Horvath"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Nd5 5.Nc3 Nc7 6.Bxc6 dxc6
+7.h3 g6 8.O-O Bg7 9.d3 Ne6 10.Re1 O-O 11.Ne4 b6 12.Neg5 h6
+13.Nxe6 Bxe6 14.b3 Qd7 15.Qe2 Bd5 16.Bb2 Qf5 17.Nh4 Qd7 18.c4
+Be6 19.Rad1 a5 20.a4 Rad8 21.Nf3 Qb7 22.Rd2 b5 23.Ba3 b4
+24.Bb2 g5 25.Qe3 Qb6 26.d4 cxd4 27.Bxd4 Qb7 28.Red1 g4 29.hxg4
+Bxg4 30.e6 f6 31.Bc5 Rxd2 32.Rxd2 Qc8 33.Rd7 Rd8 34.Rxd8+ Qxd8
+35.Nd4 1-0

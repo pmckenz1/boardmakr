@@ -1,0 +1,41 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.24"]
+[EventDate "?"]
+[Round "25"]
+[Result "1-0"]
+[White "Mikhail Chigorin"]
+[Black "Max Judd"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 {Analysis by Wilhelm Steinitz.} e5 2.f4 Bc5 3.Nf3 d6
+4.Nc3 Nf6 5.Bc4 Nc6 6.d3 a6 {Black clearly cannot afford this
+loss of time, which enables the adversary to block the QB. O-O
+is here the proper move. If White then plays f5, Black may
+answer Na5, followed by c6 and d5.} 7.f5 Na5 8.Bb3 {a3, which
+Anderssen used to play in similar position, is, we believe,
+stronger, as Black has nothing better than to exchange the
+bishop and the open Q file will add to White's advantage.}
+Nxb3 9.axb3 c6 10.Qe2 Bb6 11.Bg5 Bc7 12.O-O Qe7 13.Kh1 Bd7
+14.b4 {Preparing an attack in case Black should play O-O-O.}
+Rd8 {We think that Black would have been safer, nevertheless,
+with his King by O-O-O than on the other wing, where he is
+driven to take shelter subsequently. His rook is also an
+obstruction now for his QB, which subsequently has to be
+posted at d8.} 15.Qf2 Bc8 16.Rae1 O-O 17.g4 Rde8 18.Rg1 Kh8
+{Bishop d8 at once, in order to release his Queen, was by far
+better.} 19.Qh4 Bd8 20.Rg3 h6 21.Rh3 Kg8 22.Bxh6 Nd7 23.f6
+{Though this wins the exchange, 23. Bg5 f6 24. Bd2 followed by
+Rg1 and g5, was much more forcible.} Qxf6 24.Bg5 Qh6 {This
+ingenious move, by which Black escapes at the expense of the
+exchange from the pressure of an apparently irresistible
+attack against the King, was probably overlooked by White in
+his forecalculation on the 23d move.} 25.Qxh6 gxh6 26.Bxh6 Bf6
+27.Bxf8 Nxf8 28.Rg3 Ng6 29.Nd1 Kf8 30.Ne3 Nf4 31.Nf5 Rd8 32.g5
+Be7 33.N3h4 Be6 34.g6 Bxf5 35.g7+ Kg8 36.Nxf5 Ng6 37.Reg1 Bf6
+38.Rxg6 fxg6 39.Rxg6 {Winding up with irresistible power.} Kf7
+40.Rg4 Bxg7 {There was no remedy, as Nh6+ was threatened.}
+41.Rxg7+ 1-0

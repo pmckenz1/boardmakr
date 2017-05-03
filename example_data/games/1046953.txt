@@ -1,0 +1,20 @@
+[Event "Kstovo URUSO"]
+[Site "Kstovo <RUS>"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Leonid Yurtaev"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 e5 6.Nge2 exd4 7.Nxd4
+O-O 8.Be3 Re8 9.Qd2 c6 10.O-O-O d5 11.Nb3 a5 12.cxd5 cxd5
+13.Nxd5 Nxd5 14.Qxd5 Qc7+ 15.Qc5 Nc6 16.Qd6 Qxd6 17.Rxd6 Be6
+18.Kb1 Nb4 19.Bb5 Rec8 20.Rc1 Be5 21.Rb6 a4 22.Rxc8+ Bxc8
+23.Bc4 Nc6 24.Nc5 Bxh2 25.Nxb7 Ne5 26.Bd5 Nd7 27.Rb4 Nf6
+28.Bc6 a3 29.Bd4 Nh5 30.Nd8 Ra5 31.Bd5 Kf8 32.bxa3 Rxa3 33.Rc4
+Ba6 34.Bc5+ Ke8 35.Bxf7+ 1-0

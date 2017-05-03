@@ -1,0 +1,25 @@
+[Event "Andorra"]
+[Site "Zt"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lars Hjelmas"]
+[Black "Gerardo F Barbero"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Nf3 Na6 7.O-O
+e5 8.Re1 c6 9.dxe5 dxe5 10.Qxd8 Rxd8 11.Nxe5 Nc5 12.Bf1 Re8
+13.f4 Nfxe4 14.Rxe4 f6 15.Re1 fxe5 16.Be3 b6 17.Bxc5 bxc5
+18.Ne4 Rd8 19.Rad1 Rxd1 20.Rxd1 Bg4 21.Rd6 exf4 22.Nf6+ Bxf6
+23.Rxf6 Rd8 24.Rxf4 Bf5 25.g4 Bb1 26.a3 Rd1 27.h3 Bd3 28.Kg2
+g5 29.Rf2 Be4+ 30.Kh2 Rc1 31.Kg3 Kg7 32.Kh2 a5 33.Kg3 h6
+34.Kh2 Bg6 35.Bg2 Rxc4 36.Bxc6 Rc1 37.Kg3 c4 38.Bd5 Rg1+
+39.Kh2 Rc1 40.Kg3 c3 41.bxc3 Rxc3+ 42.Rf3 Rxf3+ 43.Kxf3 Kf6
+44.Be4 Be8 45.Ke3 Ke5 46.Bd3 Bc6 47.Be2 Bh1 48.Bf1 Kd5 49.Be2
+Kc5 50.h4 gxh4 51.Bf1 Bc6 52.Kf4 Bd7 53.Be2 Kd4 54.Bf3 Kc3
+55.Ke5 Kb3 56.Kf6 h3 57.Kg6 h2 58.Kxh6 Bxg4 59.Bh1 Be6 60.Kg5
+Kc4 0-1

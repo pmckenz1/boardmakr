@@ -1,0 +1,22 @@
+[Event "Gausdal (NOR)"]
+[Site "Gausdal (NOR)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "David Lawson"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Nc3 Bxc3
+7.Bxc3 Ne4 8.Rc1 O-O 9.Bg2 d6 10.d5 Nxc3 11.Rxc3 Nb8 12.O-O e5
+13.e4 a5 14.Nd2 Nd7 15.Re3 Nc5 16.f4 f6 17.b3 Bd7 18.Qe2 Rfb8
+19.a4 c6 20.f5 Be8 21.dxc6 bxc6 22.g4 Bf7 23.h4 Na6 24.Rg3 Kh8
+25.g5 Bg8 26.Kh2 Nb4 27.Nf3 Ra7 28.h5 fxg5 29.Nxg5 Rf8 30.h6
+gxh6 31.Nh3 Qf6 32.Qd2 Rg7 33.Rxg7 Kxg7 34.Nf2 h5 35.Nh3 Kh8
+36.Ng5 h6 37.Nf3 Kh7 38.Rd1 d5 39.cxd5 cxd5 40.Qc3 dxe4
+41.Nxe5 Nd3 42.Qc7+ Rf7 43.Nxf7 Qh4+ 44.Kg1 Qf2+ 45.Kh2 Qh4+
+1/2-1/2

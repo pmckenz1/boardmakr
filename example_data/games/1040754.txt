@@ -1,0 +1,23 @@
+[Event "Stubnianske Teplice"]
+[Site "Stubnianske Teplice"]
+[Date "1930.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jindrich Engel"]
+[Black "Erich Eliskases"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5 5.O-O g6 6.b3 Bg7 7.Bb2
+O-O 8.c4 cxd4 9.Qxd4 Qc8 10.Qh4 d6 11.Nbd2 Nbd7 12.g4 Nc5
+13.Rad1 Re8 14.h3 Ne6 15.e3 Bc6 16.Qg3 Qb7 17.Nd4 Nxd4 18.Bxd4
+Rac8 19.f4 Bxg2 20.Qxg2 Qxg2+ 21.Kxg2 e5 22.fxe5 dxe5 23.Ba1
+Re7 24.g5 Nd7 25.Ne4 h6 26.h4 Nc5 27.Kf3 Re6 28.Rd5 Nxe4
+29.Kxe4 f5 30.gxf6 Bxf6 31.Rh1 Rf8 32.h5 Bg7 33.hxg6 Rxg6
+34.Bxe5 Re8 35.a4 Rg5 36.Rhd1 Rgxe5+ 37.Rxe5 Rxe5+ 38.Kf4 Re7
+39.e4 Kf7 40.Rd5 Ke6 41.a5 bxa5 42.Rxa5 Rf7+ 43.Ke3 Rb7 44.b4
+Bf8 45.b5 Bc5+ 46.Kd3 Ke5 47.Ra6 Rd7+ 48.Kc3 Rd6 49.Ra2 Kxe4
+50.Rh2 Rd3+ 51.Kc2 Re3 52.Rxh6 Kd4 0-1

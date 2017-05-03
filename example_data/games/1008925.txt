@@ -1,0 +1,26 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Gary W Lane"]
+[Black "Keith Arkell"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ndf6 6. Bc4
+Nd5 7. N1f3 g6 8. O-O Bg7 9. Re1 Nh6 10. Qe2 Bg4 11. h3 Bxf3
+12. Nxf3 Nf5 13. c3 e6 14. Ne5 O-O 15. a4 Qc7 16. Bd2 Rad8
+17. Nd3 Rfe8 18. a5 b5 19. axb6 axb6 20. b4 Nd6 21. Bb3 Nb5
+22. Rac1 Ra8 23. Ne5 Nxb4 24. Bc4 Nd5 25. Bxb5 cxb5 26. Qxb5
+Rec8 27. c4 Ne7 28. Bf4 Qd8 29. Red1 g5 30. Bd2 Nf5 31. Bc3
+Qc7 32. Qb1 h6 33. Ba1 Ra5 34. Nf3 Rca8 35. Bc3 Ra2 36. Bb4
+R8a4 37. Qb3 Qf4 38. Bd2 Qe4 39. Re1 Qb7 40. Bc3 R4a3 41. Qb1
+Qc7 42. Bb4 Ra4 43. c5 bxc5 44. Bxc5 Qd8 45. Rcd1 Qd5 46. Qb8+
+Kh7 47. Qe8 Kg6 48. Ne5+ Bxe5 49. Rxe5 Ra8 50. Qb5 Qd8 51. Qd3
+Kg7 52. d5 Qf6 53. Re2 Rxe2 54. Qxe2 Qc3 55. Bb6 exd5 56. Rxd5
+Ra1+ 57. Kh2 Re1 58. Qb5 Qc1 59. Rxf5 Rh1+ 60. Kg3 Qc3+ 61. f3
+Qe1+ 62. Bf2 Rxh3+ 1-0

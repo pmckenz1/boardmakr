@@ -1,0 +1,18 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.19"]
+[EventDate "1905.08.14"]
+[Round "6"]
+[Result "1-0"]
+[White "Heinrich Wolf"]
+[Black "Amos Burn"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.a4 Rb8 9.dxe5 Be6 10.axb5 axb5 11.Nbd2 Nc5 12.c3 Be7
+13.Bc2 O-O 14.b4 Nd7 15.Qe2 Qc8 16.Nb3 Re8 17.Nbd4 Nxd4
+18.Nxd4 c5 19.Nxe6 fxe6 20.Ra7 Rb7 21.Rxb7 Qxb7 22.Qh5 Kf8
+23.Bxh7 Nxe5 24.Qxe5 Bf6 25.Qh5 Bxc3 26.Bg6 Rc8 27.Bg5 1-0

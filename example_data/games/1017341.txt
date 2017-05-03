@@ -1,0 +1,15 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "53"]
+[Result "1/2-1/2"]
+[White "Ron W Henley"]
+[Black "Lev Alburt"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 Bb7 5.Bxf6 exf6 6.e4 Qe7 7.Qe2
+g6 8.Nbd2 Bh6 9.Qxb5 Bxd5 10.Bc4 1/2-1/2

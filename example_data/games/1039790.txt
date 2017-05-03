@@ -1,0 +1,19 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.06.08"]
+[EventDate "?"]
+[Round "18"]
+[Result "0-1"]
+[White "Johannes Metger"]
+[Black "Oldrich Duras"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Qxd5 4.Nc3 Qa5 5.Bd3 Nc6 6.Bd2 Nxd4
+7.Nb5 Qb6 8.Nxd4 Qxd4 9.Ne2 Qc5 10.O-O e6 11.Ng3 Bd6 12.Be3
+Qb4 13.Bd4 Bxg3 14.hxg3 Bd7 15.Bc3 Qe7 16.Re1 Bc6 17.Qe2 h5
+18.Bb5 Qc5 19.Bxc6+ Qxc6 20.Rad1 h4 21.gxh4 Rxh4 22.Be5 Ke7
+23.Bg3 Rh5 24.Be5 Rah8 25.f3 Qc5+ 26.Bd4 Qg5 27.Be5 Nd7 28.Rd5
+Nxe5 29.Rxe5 Rh1+ 30.Kf2 Qh4+ 0-1

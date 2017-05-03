@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.19"]
+[EventDate "1900.??.??"]
+[Round "17"]
+[Result "1-0"]
+[White "Georg Marco"]
+[Black "James Mortimer"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 Nb6 5.Bb3 exd4 6.Qxd4 Be6
+7.O-O h6 8.Bxe6 fxe6 9.e5 d5 10.Qg4 Kd7 11.b3 Qe8 12.c4 c6
+13.Be3 Qf7 14.Bxb6 axb6 15.cxd5 cxd5 16.Rd1 Ne7 17.Nc3 Nf5
+18.Nxd5 exd5 19.Nd4 Ke8 20.Nxf5 Rd8 21.e6 Qf6 22.Qa4+ 1-0

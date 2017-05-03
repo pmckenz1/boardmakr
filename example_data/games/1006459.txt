@@ -1,0 +1,19 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.03.03"]
+[EventDate "2000.02.26"]
+[Round "7"]
+[Result "0-1"]
+[White "Jin Hai Jonathan Chuah"]
+[Black "Hafizulhelmi Mas"]
+[ECO "B90"]
+[WhiteElo "2271"]
+[BlackElo "2413"]
+[PlyCount "56"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. f4 Nc5 9. O-O Be7 10. f5 O-O 11. Qf3 e5
+12. Nde2 Nxb3 13. axb3 b5 14. Bg5 Bb7 15. Qd3 Rc8 16. Rad1 b4
+17. Bxf6 Bxf6 18. Na4 Qc7 19. c3 Bc6 20. Qxa6 Bxe4 21. Rxd6
+Be7 22. Rdd1 Bc2 23. Rd2 Bxb3 24. Kh1 Bg5 25. Nb6 Bxd2
+26. Nxc8 Qxc8 27. Qd3 Rd8 28. Qg3 f6 0-1

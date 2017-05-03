@@ -1,0 +1,19 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1845.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Baron Tassilo von Heydebrand und der Lasa"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.d4 d6 6.c3 h6 7.Qb3 Qe7
+8.O-O Nd7 9.Na3 Nb6 10.Bd2 Bd7 11.Rae1 Ba4 12.Bb5+ Bxb5
+13.Qxb5+ c6 14.Qa5 Qd7 15.e5 d5 16.e6 fxe6 17.Rxe6+ Qxe6
+18.Re1 Qxe1+ 19.Nxe1 Nf6 20.Nd3 Ne4 21.Be1 O-O 22.b3 Rf7
+23.Nc2 g4 24.Qa3 g3 25.Qc1 Raf8 26.Bd2 f3 27.gxf3 Rxf3 28.Nce1
+Rf1+ 29.Kg2 Nxd2 30.Qxd2 R1f2+ 31.Nxf2 Rxf2+ 32.Qxf2 gxf2 0-1

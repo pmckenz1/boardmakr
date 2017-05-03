@@ -1,0 +1,16 @@
+[Event "US Championship"]
+[Site "Chicago, IL USA"]
+[Date "1974.07.26"]
+[EventDate "1974.??.??"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Bernard Zuckerman"]
+[Black "Arthur Bisguier"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6
+7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Ke8 10.h3 Ne7 11.Ne2 h6 12.Nfd4
+c5 13.Nb5 Kd7 14.f4 1/2-1/2

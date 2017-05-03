@@ -1,0 +1,23 @@
+[Event "It ( shv. )"]
+[Site "Reykjavik"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ralf Akesson"]
+[Black "Walter Shawn Browne"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.Re1
+d5 8.cxd5 exd5 9.d4 O-O 10.Ne5 cxd4 11.Qxd4 Bc5 12.Qa4 Qe7
+13.Nd3 d4 14.Bxb7 Qxb7 15.Nb5 Qd7 16.Qb3 Nc6 17.Na3 Rfe8
+18.Nc4 Re6 19.Bg5 Ne4 20.Bf4 g5 21.Nce5 Nxe5 22.Bxe5 Rh6
+23.Nxc5 Nxc5 24.Qc4 Qh3 25.g4 Qxg4+ 26.Bg3 Rd8 27.Rad1 Ne6
+28.e3 Rf6 29.Qc6 d3 30.Qc3 Qf3 31.Rxd3 Rxd3 32.Qxd3 h5 33.Qd1
+h4 34.Qxf3 Rxf3 35.Be5 f6 36.Bc3 g4 37.Rd1 Ng5 38.Be1 Rf5
+39.Kg2 Nf3 40.Bc3 Ng5 41.Rd4 h3 42.Kf1 Nf3 43.Rxg4+ Rg5 44.Rf4
+Nxh2+ 45.Ke2 Ng4 46.Kf3 h2 47.Kg2 f5 48.Kh1 Kh7 49.Be1 Kg6
+50.Bc3 b5 51.a3 a6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Lund (Sweden)"]
+[Site "Lund SWE"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ulf Korman"]
+[Black "Lev Alburt"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.f4 dxe5 6.fxe5 Nc6 7.Be3
+Bf5 8.Nc3 e6 9.Nf3 Be7 10.d5 exd5 11.cxd5 Nb4 12.Nd4 Bd7 13.e6
+fxe6 14.dxe6 Bc6 15.Qg4 Bh4+ 16.g3 Bxh1 17.O-O-O Qf6 18.gxh4
+O-O 19.Be2 Bd5 20.Bg5 Qe5 21.e7+ Rfe8 22.Nxd5 N4xd5 23.Nf5 Kh8
+24.Bd3 Nxe7 25.Nxe7 Rxe7 26.Bxe7 Qxe7 27.h5 Nd5 28.Kb1 Qe5
+29.Qe4 Qxh5 30.Be2 Nf6 31.Qxb7 Qe8 32.Bb5 Qc8 33.Qxc8+ Rxc8
+34.Rc1 1/2-1/2

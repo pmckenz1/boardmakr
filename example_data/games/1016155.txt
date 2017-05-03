@@ -1,0 +1,21 @@
+[Event "It (cat.8)"]
+[Site "Gladsaxe/Farum (Denmark)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jorn Sloth"]
+[Black "Andras Adorjan"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.g3 c5 2.Bg2 g6 3.c4 Bg7 4.e3 Nc6 5.Ne2 e5 6.Nbc3 Nge7 7.a3
+d6 8.Rb1 Be6 9.Nd5 b5 10.cxb5 Bxd5 11.Bxd5 Nxd5 12.bxc6 Qc7
+13.e4 Nb6 14.Nc3 Qxc6 15.b4 cxb4 16.Rxb4 h5 17.Qe2 d5 18.exd5
+Nxd5 19.Rc4 Nxc3 20.Rxc6 Nxe2 21.Kxe2 Kd7 22.Rc2 Rhc8 23.Rxc8
+Rxc8 24.Bb2 Bf8 25.Kd3 Bd6 26.Re1 f6 27.a4 g5 28.h3 Bc5 29.g4
+Ke6 30.Rc1 Kd5 31.Ba3 hxg4 32.hxg4 e4 33.Ke2 Rc6 34.Bxc5 Rxc5
+35.Rb1 Ke5 36.Ke3 Rd5 37.Rb7 Rd3+ 38.Ke2 a5 39.Rb5+ Rd5 40.Rb6
+Rd3 41.Ra6 1/2-1/2

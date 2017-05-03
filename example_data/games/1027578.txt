@@ -1,0 +1,26 @@
+[Event "Beverwijk (Netherlands)"]
+[Site "Beverwijk NED"]
+[Date "1966.01.19"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Franciscus Antonius Kuijpers"]
+[ECO "E52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 b6 5.e3 O-O 6.Bd3 d5 7.O-O
+Bb7 8.Bd2 Be7 9.Qe2 Ne4 10.cxd5 exd5 11.Rfc1 Nd7 12.Ba6 Nxc3
+13.Bxc3 Bxa6 14.Qxa6 c5 15.dxc5 bxc5 16.Rd1 Qb6 17.Qa4 Qe6
+18.Rac1 Nb6 19.Qa6 Nc4 20.Qa4 Rfd8 21.b3 Nb6 22.Qa5 Rab8
+23.Be5 Rb7 24.Qa6 Rbd7 25.Bg3 f6 26.h3 Bf8 27.Rd2 Qe4 28.Rcd1
+g5 29.Qe2 Qg6 30.Qb5 Nc8 31.Qc6 Qf7 32.e4 Nb6 33.e5 Rc8
+34.Qxf6 Qxf6 35.exf6 Rf7 36.Be5 h6 37.Rc2 Re8 38.Rdc1 Nd7
+39.Bb2 Bd6 40.b4 cxb4 41.Rc6 Re2 42.Rxd6 Rxb2 43.Rc8+ Kh7
+44.Rc7 Ne5 45.Rxf7+ Nxf7 46.Ra6 Kg6 47.Nd4 Ne5 48.f7+ Kxf7
+49.Rxa7+ Ke8 50.Nf5 Nd3 51.Nxh6 Nc1 52.Nf5 Nxa2 53.g4 b3 54.h4
+Rb1+ 55.Kg2 gxh4 56.g5 h3+ 57.Kh2 Rf1 58.Ng7+ Kf8 59.Ne6+ Kg8
+60.g6 Rxf2+ 61.Kxh3 Rf8 62.Rg7+ Kh8 63.Rh7+ Kg8 64.Rh8+ Kxh8
+65.g7+ 1-0

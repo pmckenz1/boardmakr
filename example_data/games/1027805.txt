@@ -1,0 +1,22 @@
+[Event "Trnava (Czech Republic)"]
+[Site "It"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Leonid Basin"]
+[Black "Istvan Bilek"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 g6 2.Nf3 Bg7 3.c4 d6 4.Nc3 Bg4 5.g3 Nc6 6.Bg2 Qc8 7.d5
+Ne5 8.O-O h5 9.Nh4 Bd7 10.Qb3 Nh6 11.Ne4 Nf5 12.Nxf5 Bxf5
+13.Ng5 Bf6 14.e4 Bxg5 15.Bxg5 Bh3 16.f4 Bxg2 17.Kxg2 Ng4
+18.Qc3 f6 19.h3 O-O 20.hxg4 Qxg4 21.Bh6 Rf7 22.e5 Rh7 23.exf6
+exf6 24.Rae1 Rxh6 25.Qxf6 h4 26.Qe6+ Qxe6 27.dxe6 hxg3 28.e7
+Re8 29.Kxg3 Kf7 30.f5 gxf5 31.Rxf5+ Rf6 32.Ra5 Rg8+ 33.Kh4
+Rh6+ 34.Rh5 Rxh5+ 35.Kxh5 Re8 36.Kg5 Rxe7 37.Rh1 Ke8 38.Kf6
+Kd7 39.Rh2 Re6+ 40.Kf7 Re4 41.b3 Rf4+ 42.Kg6 a5 43.Kg5 Rf1
+44.Rd2 Kc6 45.Rd5 b6 46.Rd2 Kc5 47.Re2 c6 0-1

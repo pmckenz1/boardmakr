@@ -1,0 +1,22 @@
+[Event "02, Giessen op ;GER 03"]
+[Site "02, Giessen op ;GER 03"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Christian Remling"]
+[Black "Vladimir Bagirov"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 d5 2.Nf3 Bf5 3.c4 e6 4.cxd5 exd5 5.Nc3 c6 6.Qb3 Qb6 7.Bf4
+Qxb3 8.axb3 Nd7 9.e3 Be7 10.Be2 h6 11.h3 Ngf6 12.O-O O-O
+13.Rfc1 g5 14.Bg3 Bg6 15.Ne5 Nxe5 16.Bxe5 Nd7 17.Bh2 Rfd8
+18.Na4 Re8 19.Nc3 a6 20.Na4 Bf8 21.Kf1 Re6 22.g4 Rae8 23.Kg2
+Kh7 24.Bc7 f5 25.gxf5 Bxf5 26.Bh5 R8e7 27.Bd8 Rg7 28.Bg4 Bxg4
+29.hxg4 Re4 30.Kh3 Rf7 31.Rc2 Bd6 32.Bb6 Nf6 33.Rg1 h5 34.gxh5
+Rh4+ 35.Kg2 Ng4 36.Rh1 Rxh1 37.Kxh1 Nxf2+ 38.Kg2 Ng4+ 39.Re2
+Kh6 40.e4 dxe4 41.Rxe4 Kxh5 42.Bc5 Rf2+ 43.Kg1 Bh2+ 44.Kh1
+Rf1+ 45.Kg2 Rg1+ 46.Kf3 Rg3+ 47.Ke2 Rxb3 0-1

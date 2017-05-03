@@ -1,0 +1,21 @@
+[Event "Birmingham"]
+[Site "Birmingham ENG"]
+[Date "1858.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ernst Falkbeer"]
+[Black "Johann Jacob Loewenthal"]
+[ECO "C26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.d3 h6 5.f4 d6 6.Nf3 O-O 7.Na4 c6
+8.fxe5 dxe5 9.Nxc5 Qa5+ 10.Bd2 Qxc5 11.a3 b5 12.Bb3 a5 13.Qe2
+Na6 14.Be3 Qe7 15.O-O Ng4 16.Bd2 Nc5 17.Ba2 Ne6 18.c3 Qd6
+19.h3 Nf6 20.d4 Nd7 21.Be3 Kh7 22.Rad1 Qc7 23.Nh4 Nf6 24.Bxh6
+Kxh6 25.Rxf6+ gxf6 26.Nf5+ Kg6 27.Bxe6 fxe6 28.Qg4+ Kh7
+29.Qh5+ Kg8 30.Qg6+ Kh8 31.Qh6+ Kg8 32.Rd3 exd4 33.e5 exf5
+34.Rg3+ Kf7 35.Qg7+ Ke8 36.Qxc7 Be6 37.Rg7 Rf7 38.Rxf7 Bxf7
+39.Qxc6+ 1-0

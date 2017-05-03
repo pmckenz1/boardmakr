@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.05"]
+[EventDate "1920.08.02"]
+[Round "3"]
+[Result "1-0"]
+[White "Anton Olson"]
+[Black "Anders Larsson"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Nbd2 O-O 11.Nd4 Nxd4 12.cxd4 Nxd2
+13.Bxd2 c5 14.Be3 c4 15.Bc2 Qd7 16.f4 Bf5 17.Bxf5 Qxf5 18.Qf3
+Rfd8 19.g4 Qe4 20.Qxe4 dxe4 21.f5 b4 22.g5 f6 23.gxf6 gxf6
+24.Rf4 fxe5 25.dxe5 Rd3 26.Kf2 c3 27.Rxe4 Rc8 28.Ke2 cxb2
+29.Rg1+ Kh8 30.Kxd3 Rc3+ 31.Kd2 1-0

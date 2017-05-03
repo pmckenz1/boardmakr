@@ -1,0 +1,22 @@
+[Event "Helsingor"]
+[Site "Helsingor"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Jens Kristiansen"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 c5 5. O-O g6 6. Nc3 Bg7
+7. d4 cxd4 8. Nxd4 Bxg2 9. Kxg2 Qc8 10. b3 Qb7+ 11. f3 d5
+12. cxd5 Nxd5 13. Nxd5 Qxd5 14. Be3 Nc6 15. Nxc6 Qxc6 16. Rc1
+Qe6 17. Qd3 O-O 18. Rfd1 h5 19. Qe4 Qxe4 20. fxe4 Rfc8
+21. Rxc8+ Rxc8 22. Rd7 a6 23. Ra7 Rc2 24. Rxa6 Rxe2+ 25. Kf3
+Rxh2 26. a4 Be5 27. Rxb6 f6 28. Rb5 Rc2 29. a5 g5 30. Bxg5 Bd4
+31. g4 hxg4+ 32. Kxg4 Rg2+ 33. Kh5 Rxg5+ 34. Rxg5+ fxg5
+35. Kxg5 Kf7 36. Kf4 Ke6 37. b4 Bc3 38. a6 Bd4 39. b5 Bb6
+40. e5 Kd5 41. Kf5 Bd4 0-1

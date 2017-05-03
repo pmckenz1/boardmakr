@@ -1,0 +1,19 @@
+[Event "Brussels (Belgium)"]
+[Site "Brussels (Belgium)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "John Fedorowicz"]
+[Black "Josef Martin Boey"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.Nc3 e6 5.Bf4 Bxf3 6.gxf3 dxc4
+7.e3 Bd6 8.Bg3 Nf6 9.Bxc4 O-O 10.O-O a6 11.Be2 e5 12.dxe5 Nxe5
+13.f4 Ng6 14.Bf3 c6 15.Qc2 Qe7 16.Rad1 Rad8 17.h4 h5 18.Qe2
+Bb4 19.e4 Bxc3 20.bxc3 Rfe8 21.e5 Nd5 22.Bxd5 cxd5 23.Qxh5 Qa3
+24.e6 Rxe6 25.f5 Re5 26.Qf3 Nxh4 27.Bxh4 Rde8 28.Bg3 Re4
+29.Rxd5 Qxa2 30.Rd8 1-0

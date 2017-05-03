@@ -1,0 +1,21 @@
+[Event "It (cat.10)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Tibor Tolnai"]
+[ECO "A05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 O-O 5.O-O c5 6.d4 cxd4 7.Nxd4
+Nc6 8.Nc2 d6 9.Nc3 Be6 10.b3 Qd7 11.e4 Bh3 12.Qe2 Rfc8 13.Rd1
+Bxg2 14.Kxg2 Qe6 15.Rb1 a6 16.a4 Rab8 17.Bb2 b6 18.f3 Ne8
+19.Nd5 Bxb2 20.Rxb2 Nc7 21.Nce3 b5 22.cxb5 axb5 23.Rc2 Ne8
+24.axb5 Na7 25.b6 Rxc2 26.Qxc2 Nc8 27.Qc6 Nxb6 28.Nxb6 Qxb3
+29.Nbc4 Nf6 30.Qc7 Rb4 31.Ra1 Kg7 32.Qxe7 Rxc4 33.Ra8 Nxe4
+34.Qf8+ Kf6 35.Ng4+ Ke6 36.Re8+ Kd7 37.Qxf7+ Kc6 38.Rc8+ Kb5
+39.Qb7+ 1-0

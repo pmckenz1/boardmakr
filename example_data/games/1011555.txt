@@ -1,0 +1,22 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Berislav Zetic"]
+[Black "Srdjan Sale"]
+[ECO "B59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5
+7. Nb3 Be7 8. O-O O-O 9. Bg5 Nxe4 10. Nxe4 Bxg5 11. Qxd6 Be7
+12. Qxd8 Rxd8 13. c3 b6 14. Bc4 Bb7 15. Rae1 Rac8 16. Ng3 Bg5
+17. Bb5 f6 18. Nf5 Kf8 19. h4 Bf4 20. g3 g6 21. gxf4 gxf5
+22. Bxc6 Bxc6 23. Rd1 Kf7 24. Rxd8 Rxd8 25. fxe5 Rg8+ 26. Kh2
+Rg2+ 27. Kh3 fxe5 28. Nc1 Rg8 29. Re1 Kf6 30. Rd1 Ke6 31. Nd3
+Be4 32. Nc1 f4 33. Re1 Kf5 34. Nb3 Bg2+ 35. Kh2 Rg4 36. f3
+Bxf3 37. h5 Rg2+ 38. Kh3 Rxb2 39. Rg1 Bxh5 40. Rg8 Bf7 41. Rf8
+0-1

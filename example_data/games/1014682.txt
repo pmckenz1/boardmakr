@@ -1,0 +1,17 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1995.01.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vladislav Tkachiev"]
+[Black "Michael Adams"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Nbd2 a6 7.Nf1
+Ba7 8.Bb3 Be6 9.Ng3 h6 10.d4 Bxb3 11.axb3 O-O 12.O-O Re8
+13.Re1 d5 14.exd5 Qxd5 15.c4 Qd6 16.d5 Nd4 17.Be3 Nxf3+
+1/2-1/2

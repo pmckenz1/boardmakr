@@ -1,0 +1,25 @@
+[Event "Subotica UYUGO"]
+[Site "07"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Wang Pin"]
+[Black "Alisa Galliamova"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6 7.exf6
+Nxf6 8.O-O Bd6 9.Be3 Ng4 10.Bg5 Qb6 11.Na3 O-O 12.Nb5 Bb8
+13.h3 Nf6 14.dxc5 Qxc5 15.Be3 Qe7 16.c4 a6 17.Nc3 Qd6 18.Re1
+Bc7 19.Qd2 Rad8 20.Rad1 Be8 21.cxd5 exd5 22.g3 Kh8 23.Bf4 Qd7
+24.Bxc7 Qxc7 25.Nd4 Qf7 26.Bf1 Ne4 27.Nxe4 dxe4 28.Rxe4 Qxa2
+29.Qc3 Bg6 30.Ne6 Qxe6 31.Rxd8 Nxd8 32.Rxe6 Nxe6 33.Qb4 b5
+34.Qd6 Re8 35.f4 h5 36.Qxa6 Bf7 37.Qxb5 Rd8 38.Be2 h4 39.Qf5
+Nd4 40.Qxf7 Nxe2+ 41.Kf2 Nxg3 42.Qe7 Rd2+ 43.Ke1 Rd5 44.Qxh4+
+Nh5+ 45.Qe7 Nf6 46.Ke2 Kh7 47.Qc7 Rh5 48.Qc3 Nd5 49.Qd4 Nf6
+50.Qd3+ Kh6 51.b4 Nd5 52.Qc4 Nxb4 53.Qxb4 Rxh3 54.Qc5 Rh2+
+55.Kf3 Kh7 56.f5 Rh6 57.Qc8 Rf6 58.Ke4 Rh6 59.Ke5 Rf6 60.Qe6
+Rh6 61.Kd6 Kh8 62.Qxh6+ 1-0

@@ -1,0 +1,19 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.20"]
+[EventDate "1930.01.16"]
+[Round "4"]
+[Result "1-0"]
+[White "Hans Kmoch"]
+[Black "Edgar Colle"]
+[ECO "E22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 Bxc3+ 5.Qxc3 Ne4 6.Qc2 d5
+7.e3 O-O 8.Bd3 f5 9.Nf3 Nd7 10.b3 c6 11.Bb2 Qe7 12.a3 a5
+13.Ne5 Nxe5 14.dxe5 Nc5 15.Be2 dxc4 16.bxc4 b6 17.O-O Bb7
+18.Bd4 a4 19.Rad1 Ra6 20.Bb2 Raa8 21.Bf3 Rfd8 22.Qc3 Nb3
+23.Rd6 Rxd6 24.exd6 Qd7 25.Rd1 Re8 26.Qb4 Na5 27.c5 e5 28.Qxa4
+e4 29.Bh5 Ra8 30.cxb6 Qd8 31.d7 1-0

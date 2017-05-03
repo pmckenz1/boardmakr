@@ -1,0 +1,17 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Juergen Pichler"]
+[Black "Michael Hoffmann"]
+[ECO "E13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7
+7. e3 g5 8. Bg3 Ne4 9. Qc2 Bxc3+ 10. bxc3 Nxg3 11. hxg3 d6
+12. a4 a5 13. Bd3 Nd7 14. Be4 Bxe4 15. Qxe4 Ke7 16. Qc2 Qg8
+17. Nd2 1/2-1/2

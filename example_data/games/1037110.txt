@@ -1,0 +1,23 @@
+[Event "Blackpool (England)"]
+[Site "Blackpool ENG"]
+[Date "1990.05.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jonathan Hawes"]
+[Black "Nigel Rodney Davies"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.h3 O-O 6.Be3 c6 7.a4 d5
+8.e5 Ne4 9.Nxe4 dxe4 10.Ng5 c5 11.dxc5 Qc7 12.c3 Nc6 13.Nxe4
+Nxe5 14.Be2 Bf5 15.Qc2 Nd7 16.g4 Bxe4 17.Qxe4 Nxc5 18.Qc4 Rac8
+19.Qxc5 Qxc5 20.Bxc5 Rxc5 21.O-O Be5 22.Rad1 Bd6 23.c4 a5
+24.b3 Kg7 25.Rd3 Rc7 26.Rd5 b6 27.Rfd1 Bc5 28.Kg2 f5 29.gxf5
+gxf5 30.f4 Rc6 31.R1d3 Rg6+ 32.Rg3 Kf6 33.Rd1 Rfg8 34.Rxg6+
+hxg6 35.h4 Re8 36.Bf3 e5 37.Re1 e4 38.Be2 Rh8 39.Rh1 Be3
+40.Kg3 Rd8 41.Rd1 Bd2 42.Rb1 Ke7 43.Rd1 Rd6 44.Rh1 Kd7 45.c5
+bxc5 46.Bc4 Ke7 47.h5 g5 48.fxg5 Bxg5 49.Re1 Kf6 50.Re2 Ke5
+0-1

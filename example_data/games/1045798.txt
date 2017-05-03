@@ -1,0 +1,21 @@
+[Event "Praha"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Mihail-Viorel Ghinda"]
+[ECO "D88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 O-O 8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Na5
+12. Bd3 Nc6 13. Bb5 Bg4 14. f3 Bd7 15. Rb1 e6 16. Qd2 a6
+17. Bd3 b5 18. Rfc1 Rc8 19. Rb3 Re8 20. Ra3 Nb8 21. Rxc8 Qxc8
+22. Bh6 Bh8 23. e5 Qd8 24. h4 Qe7 25. Rb3 Rc8 26. h5 Bc6
+27. Rc3 Qe8 28. Qc2 Bg7 29. Bxg7 Kxg7 30. Qc1 h6 31. hxg6 fxg6
+32. Bb1 Bd7 33. Nf4 g5 34. Qc2 Qg8 35. Qg6+ Kf8 36. Qf6+ Qf7
+1-0

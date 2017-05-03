@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Stellan Brynell"]
+[Black "Heiko Machelett"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Qxf6 10. Nf3 h6 11. O-O Bd6
+12. Bb1 O-O 13. Qd3 Rd8 14. g3 Nf8 15. Bf4 Bxf4 16. Nxf4 Bd7
+17. Qe3 Rac8 18. Re1 b6 19. h4 Re8 20. Bd3 Nb4 21. Ne5 Red8
+22. Rac1 Rxc1 23. Rxc1 Rc8 24. Rxc8 Bxc8 25. Bb1 Bb7 26. Qc3
+Na6 27. Qa3 Qd8 28. Bd3 Nb8 29. Qxa7 Qc7 30. Bb5 Nbd7 31. Nxd7
+Nxd7 32. Bxd7 Qxd7 33. Qxb6 Bc8 34. Ng6 1-0

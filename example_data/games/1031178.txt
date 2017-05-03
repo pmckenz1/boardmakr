@@ -1,0 +1,20 @@
+[Event "Trencianske Teplice (Slovakia)"]
+[Site "Trencianske Teplice (Slovakia)"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "18"]
+[Result "1-0"]
+[White "Julio Bolbochan"]
+[Black "Ivan Vladimir Rohacek"]
+[ECO "E40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Be7 6.Nf3 O-O 7.Bd3 c5
+8.cxd5 Nxd5 9.Qc2 Nxc3 10.bxc3 h6 11.O-O Nc6 12.Bb2 Bf6
+13.Rad1 Qb6 14.Nd2 cxd4 15.cxd4 Bd7 16.Ne4 Be7 17.Qe2 Rac8
+18.Rb1 Qa5 19.f4 Rb8 20.Rfc1 Rfc8 21.Nc5 Be8 22.Qg4 g6 23.Qh3
+Bf8 24.Bc3 Qc7 25.Ne4 Bg7 26.d5 Bxc3 27.Nxc3 exd5 28.Nxd5 Qd8
+29.Be4 Kg7 30.Rd1 Bd7 31.f5 f6 32.Nxf6 Kxf6 33.Qxh6 Ne5
+34.Rd6+ Ke7 35.Rbd1 Qh8 36.f6+ Kf7 37.Bd5+ Be6 38.Bxe6+ 1-0

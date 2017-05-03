@@ -1,0 +1,23 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Hans Kmoch"]
+[Black "Ernst Gruenfeld"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. Nf3 b6 3. Bf4 Bb7 4. e3 e6 5. Nbd2 Be7 6. Bd3 c5
+7. Qe2 d6 8. c3 Nbd7 9. h3 a6 10. O-O d5 11. Ne5 O-O 12. Bh2
+Ne4 13. Nxd7 Qxd7 14. Bxe4 dxe4 15. Nc4 Qc6 16. Ne5 Qe8
+17. dxc5 bxc5 18. Rfd1 f6 19. Nd7 Rf7 20. Rd2 Rd8 21. Rad1 Bc6
+22. Nb6 Bb5 23. c4 Bc6 24. Bc7 Rxd2 25. Qxd2 Bf8 26. Bd8 f5
+27. Qa5 Ra7 28. Rd2 h6 29. Qc3 e5 30. a3 f4 31. b4 cxb4
+32. axb4 a5 33. bxa5 Bc5 34. Kh2 Rf7 35. Nc8 Bd7 36. Nd6 Bxd6
+37. Rxd6 Qxd8 38. Qxe5 fxe3 39. fxe3 Qc7 40. a6 Rf5 41. Qd4
+Ra5 42. Kg1 Bc6 43. Rxc6 Qxc6 44. Qd8+ Kh7 45. Qxa5 Qxc4
+46. a7 Qc1+ 47. Kh2 Qxe3 48. Qf5+ 1-0

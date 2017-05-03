@@ -1,0 +1,25 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Marek Matlak"]
+[Black "Adam Cichocki"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 e6 4.c4 exd5 5.cxd5 d6 6.Nc3 g6 7.Nd2
+Bg7 8.e4 O-O 9.Be2 Na6 10.O-O Nc7 11.a4 Rb8 12.Nc4 a6 13.a5
+Nb5 14.Bd3 Re8 15.Bg5 h6 16.Bh4 Qc7 17.Re1 Nh5 18.Rc1 Bd7
+19.Na4 Nf4 20.Bb1 Nd4 21.Nab6 Bb5 22.Bg3 g5 23.h4 Qe7 24.Re3
+Qf6 25.hxg5 hxg5 26.Qg4 Rbd8 27.Rce1 Qh6 28.Bh2 Re7 29.Kh1 Kf8
+30.g3 Ng6 31.f4 gxf4 32.gxf4 Qh4 33.Qxh4 Nxh4 34.Bg3 Ng6
+35.Kg2 Bf6 36.e5 dxe5 37.fxe5 Bg5 38.d6 Ree8 39.Rc3 Ne6 40.Kf2
+Ngf4 41.Rh1 Kg7 42.Rh7+ Kg8 43.Rf3 Ng6 44.Rh2 Bc6 45.Rc3 Nef4
+46.Bf5 Nxe5 47.Bh4 Bxh4+ 48.Rxh4 Neg6 49.Bxg6 Nxg6 50.Rh5 Kg7
+51.Rch3 Nf4 52.Rg3+ Kf6 53.Rh6+ Ng6 54.Rh5 Re4 55.Rf3+ Nf4
+56.Ne3 Kg6 57.Rh1 Rxd6 58.Nbc4 Rdd4 59.Rg3+ Kf6 60.b3 Nd3+
+61.Kg1 Ke6 62.Rh5 Nc1 63.Rg7 Nxb3 64.Rh6+ f6 65.Rhh7 Rxc4 0-1

@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Simon Kim Williams"]
+[Black "Matthew Turner"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nf6 6. e4 O-O
+7. Nge2 d6 8. O-O Rb8 9. h3 Ne8 10. Be3 Nd4 11. Rb1 Nc7 12. b4
+b6 13. Qc1 e6 14. Bh6 Nxe2+ 15. Nxe2 Bxh6 16. Qxh6 f5 17. d4
+cxb4 18. Rxb4 fxe4 19. Bxe4 d5 20. Bd3 dxc4 21. Rxc4 Nd5
+22. Be4 Bb7 23. h4 Ne7 24. Bxb7 Rxb7 25. Qe3 Qd5 26. Rfc1 Nf5
+27. Qe5 Rd7 28. Nf4 Nxd4 29. Qxd5 Rxd5 30. Nxd5 Ne2+ 31. Kf1
+exd5 1/2-1/2

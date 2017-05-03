@@ -1,0 +1,16 @@
+[Event "EUR-chT (Men) 8th"]
+[Site "Plovdiv BUL"]
+[Date "1983.06.24"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Bojan Kurajica"]
+[ECO "A27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 f5 4.g3 Nf6 5.Bg2 g6 6.d4 e4 7.Ng5 h6
+8.Nh3 g5 9.O-O Bg7 10.f3 exf3 11.exf3 O-O 12.d5 Ne5 13.d6 Nf7
+14.dxc7 Qxc7 15.Qb3 Qc5+ 16.Nf2 b6 17.f4 1/2-1/2

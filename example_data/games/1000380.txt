@@ -1,0 +1,25 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Michael Dougherty"]
+[Black "Steven J Szpisjak"]
+[ECO "D92"]
+[WhiteElo "2315"]
+[BlackElo "2200"]
+[PlyCount "112"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bf4 c5 6. dxc5 Qa5
+7. Rc1 dxc4 8. e3 O-O 9. Bxc4 Qxc5 10. Bb3 Nc6 11. O-O e5
+12. Nd5 Qa5 13. Nxf6+ Bxf6 14. Bg5 Bg7 15. Nd2 h6 16. Bh4 g5
+17. Nc4 Qa6 18. Bg3 Be6 19. Qh5 b5 20. Nd6 Bxb3 21. axb3 Ne7
+22. Ne4 f5 23. Nc5 Qg6 24. Qxg6 Nxg6 25. f3 Rf6 26. Rfd1 Rc6
+27. e4 fxe4 28. Nxe4 Rxc1 29. Rxc1 Nf4 30. Rc7 a5 31. Rb7 Rc8
+32. h4 Rc1+ 33. Kh2 gxh4 34. Bxf4 exf4 35. Rxb5 Ra1 36. Nc3
+Kh7 37. Na4 Kg6 38. Rxa5 Bxb2 39. Rd5 Bf6 40. Nc5 Rb1 41. Ne4
+Bg5 42. Rb5 Kh5 43. Nf2 Kg6 44. Ng4 Rb2 45. b4 Be7 46. Ne5+
+Kf6 47. Ng4+ Kg6 48. Rb6+ Kg5 49. b5 Bc5 50. Rc6 Rxb5 51. Nf6
+Be7 52. Ne4+ Kh5 53. Rc1 Bg5 54. Rd1 Rb2 55. Kh3 Ra2 56. Rc1
+Rb2 1/2-1/2

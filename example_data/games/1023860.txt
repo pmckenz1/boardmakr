@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Szombathely (Hungary)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Laszlo Pergel"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 c5 6.d5 exd5 7.cxd5
+d6 8.e4 Nbd7 9.Bd3 g6 10.O-O a6 11.a4 Bg7 12.Bf4 Qe7 13.Re1
+Nh5 14.Bg5 f6 15.Be3 Ne5 16.Nxe5 fxe5 17.Qb3 Qc7 18.a5 b5
+19.Bxb5+ axb5 20.Nxb5 Qd7 21.Bxc5 O-O 22.Nxd6 Rfb8 23.Nxb7
+Rxb7 24.Bb6 Bf8 25.Rec1 Bd6 26.Qc2 Nf4 27.Qd2 Qb5 28.Rd1 Qc4
+29.Qe3 h6 30.b3 Qc3 31.Qxc3 Ne2+ 32.Kf1 Nxc3 33.Re1 Nxe4
+34.Rxe4 Rxb6 35.Rc4 Rb5 36.Rc6 Rxd5 37.a6 Kf7 38.a7 Ke7 39.Rb6
+Rd4 40.Rb7+ Ke6 41.Ra6 Kf5 42.Rbb6 Bc5 43.Rf6+ Ke4 44.Rxg6
+Rxa7 45.Rxa7 Bxa7 46.Rxh6 Rd1+ 47.Ke2 Rb1 48.f3+ Kd5 49.Rg6
+Rb2+ 50.Kd1 Rxb3 51.h4 Rb1+ 52.Ke2 Rb2+ 53.Kd1 Kd4 54.Kc1 Rb7
+55.h5 Kd3 56.Rd6+ Bd4 0-1

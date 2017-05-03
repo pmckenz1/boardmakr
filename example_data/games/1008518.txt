@@ -1,0 +1,26 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Joan Santana"]
+[Black "Mark Ritter"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 e5 5. g3 c6 6. e4 Be7
+7. Bg2 O-O 8. O-O a6 9. a4 a5 10. Bg5 Re8 11. Re1 Qc7 12. h3
+Nf8 13. c5 dxc5 14. dxe5 N6d7 15. Bxe7 Rxe7 16. Qd6 Nxe5
+17. Qxc5 Nd3 18. Qe3 Nxe1 19. Rxe1 Be6 20. Nd4 Rd8 21. Kh2
+Red7 22. Nf3 Rd3 23. Qc5 b6 24. Qh5 h6 25. Nh4 Rd2 26. f4 Rxb2
+27. f5 Qe5 28. Ne2 f6 29. Nf4 Bf7 30. Qg4 Qc3 31. Nf3 h5
+32. Nxh5 Bxh5 33. Qxh5 Qc2 34. Rg1 Qe2 35. e5 fxe5 36. Qg5 Rd6
+37. Nh4 Rf6 38. g4 Qd2 39. Qxd2 Rxd2 40. g5 Rfd6 41. Re1 Nd7
+42. Ng6 Kf7 43. h4 R6d4 44. Kg3 Rc2 45. h5 Rc3+ 46. Kh2 Rd2
+47. Kh1 Rg3 48. Bxc6 Rxg5 49. Bxd7 Rxh5+ 50. Kg1 Rxd7
+51. Nxe5+ Ke7 52. Nxd7+ Kxd7 53. Re5 Kd6 54. Rb5 Kc7 55. Kg2
+Rh4 56. Re5 Rxa4 57. Re7+ Kd6 58. Re6+ Kc5 59. Kf3 Ra1 60. Rg6
+Rf1+ 0-1

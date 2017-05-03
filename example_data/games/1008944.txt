@@ -1,0 +1,28 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Charles E Tippleston"]
+[Black "David Alexander Farndon"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Na3 cxd4
+7. Nb5 Na6 8. Nbxd4 Bd7 9. Bxa6 bxa6 10. O-O Be7 11. Re1 O-O
+12. Ne5 Rfd8 13. Nxd7 Rxd7 14. Qe2 Qb7 15. Bg5 Rad8 16. h3 h6
+17. Bh4 Qb6 18. Rab1 Rd5 19. Nb3 g5 20. Bg3 R5d7 21. Be5 Qb5
+22. Qxb5 axb5 23. Nd4 Nd5 24. Nxb5 f6 25. Bg3 e5 26. c4 a6
+27. Nd4 exd4 28. cxd5 Kf7 29. Re6 a5 30. Ra6 Rxd5 31. Bc7 Rc8
+32. Bxa5 Bd6 33. Kf1 Rc2 34. Ra7+ Kg6 35. Rd7 d3 36. Bb4 d2
+37. Rd1 Rc1 38. Ke2 Re5+ 39. Kxd2 Rxd1+ 40. Kxd1 Bxb4 41. a4
+Re1+ 42. Kc2 Re2+ 43. Kb3 Be1 44. Rd1 Bxf2 45. a5 h5 46. a6 h4
+47. Kc3 Bb6 48. Rd6 Bg1 49. b4 Rxg2 50. b5 Rg3+ 51. Kc4 Rxh3
+52. Rd1 Bb6 53. Rd6 Ra3 54. Rxb6 h3 55. Rd6 h2 56. Rd1 g4
+57. Kb4 Ra2 58. Kb3 Ra5 59. Kb4 Ra2 60. Kb3 Rd2 61. Ra1 g3
+62. a7 Rd8 63. b6 g2 64. b7 g1=Q 65. b8=Q Qxa1 66. Qxd8 h1=Q
+67. Qg8+ Kf5 68. Qc8+ Kf4 69. Qb8+ Ke3 70. Qb6+ Qd4 71. Qe6+
+Kd2 0-1

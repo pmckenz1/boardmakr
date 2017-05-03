@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.10"]
+[EventDate "1927.06.26"]
+[Round "5"]
+[Result "0-1"]
+[White "Lajos Asztalos"]
+[Black "Carl Ahues"]
+[ECO "C87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6
+7. c3 Bd7 8. d4 O-O 9. Nbd2 Be8 10. Nf1 Nd7 11. Ng3 Kh8
+12. Be3 f6 13. Nd2 Nb6 14. Bc2 d5 15. Nf5 exd4 16. cxd4 Bb4
+17. Qg4 g6 18. Nh6 dxe4 19. Qxe4 f5 20. Qe6 Qd5 21. Bf4 Qxe6
+22. Rxe6 Nd5 23. Rxc6 Nxf4 0-1

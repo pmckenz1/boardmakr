@@ -1,0 +1,25 @@
+[Event "Sochi"]
+[Site "Sochi URS"]
+[Date "1982.12.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Yuri Razuvaev"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb7 5. Bd3 d5 6. cxd5 exd5
+7. e5 Nfd7 8. O-O Nc5 9. Bb5+ Bc6 10. Nd4 Bxb5 11. Ncxb5 Qd7
+12. e6 Nxe6 13. Re1 Bd6 14. Nxd6+ cxd6 15. Qg4 O-O 16. Nf5 g6
+17. b3 h5 18. Qg3 Nc6 19. Bb2 Kh7 20. Rac1 Ne7 21. Qxd6 Qxd6
+22. Nxd6 Kg8 23. Bf6 Nc8 24. Nb5 a6 25. Nc3 d4 26. Nd5 Ra7
+27. Rc6 Rd7 28. Nxb6 Nxb6 29. Rxb6 Ra8 30. Rc1 g5 31. h4 gxh4
+32. Bxh4 Kh7 33. Bg3 Rd5 34. Rd6 Rg5 35. Bh4 Rg4 36. g3 a5
+37. Rc4 Re4 38. Kf1 Kg6 39. f3 Re5 40. Rcxd4 Rf5 41. Kf2 a4
+42. Rxa4 Rxa4 43. bxa4 Ra5 44. d4 Kf5 45. d5 Ke5 46. Rd7 Nc5
+47. Re7+ Kxd5 48. Rxf7 Kd4 49. Kg2 Rxa4 50. Rf4+ Kd3 51. Rxa4
+Nxa4 52. Bf6 Nb6 53. Kh3 Nd5 54. Bg5 Nb4 55. a4 Nc6 56. Bf6
+Ke3 57. f4 Ke4 58. Kh4 Kf5 59. Bc3 Kg6 60. a5 1-0

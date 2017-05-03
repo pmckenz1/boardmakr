@@ -1,0 +1,16 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak (Hungary)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Denis Allan"]
+[Black "Andras Adorjan"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.e3 O-O 6.Be2 c5 7.dxc5
+dxc4 8.Qa4 Na6 9.Qxc4 Be6 10.Qh4 Nxc5 11.O-O h6 12.Qb4 Rc8
+13.Nd4 a5 14.Qa3 Bg4 15.f3 Bd7 16.Nb3 Nxb3 17.axb3 1/2-1/2

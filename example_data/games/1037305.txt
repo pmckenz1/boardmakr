@@ -1,0 +1,15 @@
+[Event "It (open)"]
+[Site "Oslo (Norway)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Lars Karlsson"]
+[ECO "A44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 c5 2.d5 e5 3.e4 d6 4.Nc3 Nf6 5.Be2 Be7 6.Nf3 O-O 7.O-O
+Ne8 8.Nd2 Nd7 9.a4 g6 10.Nc4 Nb6 11.Nxb6 1/2-1/2

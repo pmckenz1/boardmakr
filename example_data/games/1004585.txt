@@ -1,0 +1,22 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.07.01"]
+[EventDate "1937.06.16"]
+[Round "12"]
+[Result "1-0"]
+[White "Teodors Bergs"]
+[Black "Wolfgang R Hasenfuss"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. Nf3 f5 2. c4 Nf6 3. g3 g6 4. b3 Bg7 5. Bb2 O-O 6. Bg2 d6
+7. d4 e6 8. O-O Nbd7 9. Qc2 Qe7 10. Nc3 c6 11. Ba3 e5 12. dxe5
+Nxe5 13. Rad1 Nf7 14. e3 Rd8 15. Rfe1 Ne4 16. Nxe4 fxe4
+17. Nd2 Bg4 18. Rc1 Ng5 19. Bxe4 Nh3+ 20. Kg2 Qg5 21. f4 Qa5
+22. Bb2 Qxa2 23. Bxg7 Qxc2 24. Rxc2 Kxg7 25. Bf3 h5 26. Bxg4
+hxg4 27. Ne4 Rd7 28. Rd2 Rad8 29. Red1 d5 30. Nc3 Re7 31. e4
+Rc8 32. exd5 cxd5 33. Nxd5 Re6 34. Kf1 Rc5 35. Re2 Rxe2
+36. Kxe2 Ra5 37. Nc3 b6 38. b4 Ra3 39. Rc1 Rb3 40. c5 bxc5
+41. bxc5 Rb2+ 42. Ke3 1-0

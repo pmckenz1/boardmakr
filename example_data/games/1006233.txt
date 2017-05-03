@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "0-1"]
+[White "Tomas Bjornsson"]
+[Black "Jon Viktor Gunnarsson"]
+[ECO "C42"]
+[WhiteElo "2224"]
+[BlackElo "2400"]
+[PlyCount "88"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nxe5 O-O 5. Be2 Re8 6. Nf3
+Nxe4 7. Nxe4 Rxe4 8. c3 Bf8 9. d4 Re8 10. Be3 d5 11. Qc2 c6
+12. O-O-O Nd7 13. Bd3 Nf6 14. Ng5 g6 15. h4 Bg4 16. Rde1 Qc7
+17. f3 Bd7 18. Qd2 Bd6 19. Kb1 Bg3 20. Bf2 Nh5 21. Nh3 Bxh3
+22. gxh3 Bxf2 23. Qxf2 Qf4 24. a3 Kg7 25. Ka2 Qg3 26. Qxg3
+Nxg3 27. Rhg1 Nh5 28. Re5 Nf4 29. Bf1 f6 30. Rxe8 Rxe8 31. Rg4
+Re1 32. Rxf4 Rxf1 33. h5 gxh5 34. h4 Kg6 35. a4 f5 36. b3 Rf2+
+37. Kb1 Kf6 38. Kc1 a5 39. Kb1 Ke6 40. Kc1 b5 41. b4 bxa4
+42. bxa5 a3 43. Kb1 Rb2+ 44. Ka1 Rb3 0-1

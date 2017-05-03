@@ -1,0 +1,24 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Luis Chiong Zacarias Romero"]
+[Black "Petronio Roca"]
+[ECO "D36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7
+7. e3 h6 8. Bh4 O-O 9. Bd3 Re8 10. Nge2 Ne4 11. Bxe7 Qxe7
+12. O-O Nd7 13. Rae1 Ndf6 14. f3 Nxc3 15. Nxc3 Be6 16. Qf2
+Rad8 17. g4 c5 18. Kh1 c4 19. Bb1 Qd7 20. Rg1 Nh7 21. Qc2 g6
+22. Ne2 b5 23. Nf4 a5 24. h4 Nf8 25. Qf2 b4 26. Rd1 Qd6
+27. Ne2 a4 28. e4 dxe4 29. fxe4 Bc8 30. e5 Qd7 31. Qe3 Kg7
+32. Be4 Bb7 33. Qf3 Bxe4 34. Qxe4 Qe7 35. g5 hxg5 36. Rxg5 Ne6
+37. Rg4 Rh8 38. Rdg1 Kf8 39. Kg2 Qd7 40. Kf2 Qb5 41. Ke3 Ng7
+42. Rf1 Nf5+ 43. Rxf5 gxf5 44. Qxf5 Qd7 45. Qg5 Ke8 46. Qg7
+Rf8 47. h5 a3 48. bxa3 b3 49. axb3 cxb3 50. h6 b2 51. Rg1 Rb8
+52. Rb1 Qf5 53. Nc3 Rb3 54. Rxb2 Rxc3+ 55. Kd2 Qd3+ 0-1

@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.29"]
+[EventDate "1927.06.26"]
+[Round "4"]
+[Result "1-0"]
+[White "Karl Gilg"]
+[Black "Hans Mueller"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Qc2 Bb4 6. Bg5 O-O
+7. e3 d5 8. cxd5 exd5 9. Bd3 h6 10. Bh4 Nbd7 11. O-O Re8
+12. Rac1 a6 13. Bf5 Be7 14. Ne5 Nxe5 15. dxe5 Nd7 16. Bg3 Bf8
+17. Ne2 c6 18. f4 Bc5 19. Rf3 Nf8 20. Nd4 a5 21. Qf2 Ne6
+22. Nxe6 fxe6 23. Bb1 Rf8 24. Bh4 Qe8 25. Qc2 g6 26. Bf6 Kh7
+27. Rg3 Rg8 28. h4 h5 29. Qe2 Kh6 30. Rg5 Ba6 31. Qf3 d4
+32. exd4 Bxd4+ 33. Kh1 c5 34. Bxg6 Qxg6 35. Rxg6+ Kxg6
+36. Qe4+ Kh6 37. Bg5+ Kg7 38. f5 1-0

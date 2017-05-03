@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Diego Garces"]
+[Black "Justin Sarkar"]
+[ECO "D14"]
+[WhiteElo "2206"]
+[BlackElo "2429"]
+[PlyCount "98"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. Bf4
+Bf5 7. e3 e6 8. Bd3 Bxd3 9. Qxd3 Be7 10. O-O Nh5 11. Be5 f6
+12. Bg3 Nxg3 13. hxg3 f5 14. a3 Bf6 15. b4 g5 16. Rfc1 g4
+17. Nd2 h5 18. Ne2 Kf7 19. Ra2 Qd6 20. b5 Ne7 21. Rac2 Rac8
+22. Rxc8 Rxc8 23. Rxc8 Nxc8 24. Qc3 Nb6 25. Nf4 Be7 26. Nb1
+Nc4 27. a4 Qb4 28. Qc2 Qe1+ 29. Kh2 h4 30. Nxd5 Bd6 31. Nf4
+Nxe3 32. Qe2 hxg3+ 33. fxg3 Nf1+ 34. Kg1 Qxe2 35. Nxe2 Nxg3
+36. Nxg3 Bxg3 37. Kf1 e5 38. dxe5 Ke6 39. Ke2 Kxe5 40. Kd3 Be1
+41. Na3 f4 42. Nc4+ Kd5 43. Nb2 f3 44. gxf3 gxf3 45. Ke3 f2
+46. Ke2 Kd4 47. a5 Kc5 48. b6 a6 49. Nd3+ Kb5 0-1

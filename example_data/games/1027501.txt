@@ -1,0 +1,25 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1962.02.10"]
+[EventDate "1962.??.??"]
+[Round "9"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Daniel Abraham Yanofsky"]
+[ECO "E70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 O-O 6.Ng3 c5 7.d5
+Na6 8.Be2 Nc7 9.O-O Rb8 10.Be3 Bd7 11.a4 b6 12.Qd2 Ng4 13.Bxg4
+Bxg4 14.Bh6 Bd7 15.Bxg7 Kxg7 16.f4 a6 17.e5 Ne8 18.Nce4 b5
+19.axb5 axb5 20.Qc1 b4 21.Qe3 Bc8 22.f5 dxe5 23.fxg6 hxg6
+24.Nh5+ Kh7 25.Qg3 Rb6 26.Ra7 f5 27.Qg5 Rf7 28.Nhg3 Kg8
+29.Nxc5 Rbf6 30.Ra8 Nc7 31.Rb8 Kh7 32.Nd3 Na6 33.Rxc8 Qxc8
+34.Nxe5 Qc5+ 35.Kh1 Rg7 36.Nd7 Qxc4 37.Rc1 Qd4 38.Ne2 Qg4
+39.Qxf6 exf6 40.Nxf6+ Kh6 41.Nxg4+ fxg4 42.Kg1 Rd7 43.Rc6 Nc7
+44.Nf4 Nxd5 45.Rxg6+ Kh7 46.Rxg4 Nf6 47.Rh4+ Kg8 48.Nh5 Rd1+
+49.Kf2 Nd5 50.Re4 Rd2+ 51.Re2 Rd3 52.Ke1 Nb6 53.Nf4 Rb3 54.Kd1
+Na4 55.Kc1 Kf7 56.Nd5 Kg6 57.Rc2 Kf5 58.Kb1 Ke5 59.Ka2 Rd3
+60.Nxb4 Rd6 61.Kb3 Nb6 62.Rc6 1-0

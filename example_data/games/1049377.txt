@@ -1,0 +1,16 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk URS"]
+[Date "1968.09.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Victor Ciocaltea"]
+[Black "Efim Geller"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 Bg4 7.c3
+Bd6 8.Re1 Qe7 9.h3 Bh5 10.Nbd2 O-O-O 11.Qe2 Nh6 12.g4 Be8
+13.Nc4 Nf7 14.Bd2 Bd7 15.Qe3 h5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Jan Smejkal"]
+[Black "Joerg Schwalfenberg"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bg4 4. O-O c6 5. d3 Nbd7 6. Qe1 e6
+7. e4 Bxf3 8. Bxf3 Bd6 9. Bg2 Qb6 10. Nd2 O-O 11. Kh1 Bc5
+12. Nb3 Be7 13. e5 Ne8 14. f4 Nc7 15. Bd2 Qa6 16. g4 f6
+17. exf6 Bxf6 18. d4 Rfe8 19. Rf3 b6 20. Bf1 Qb7 21. g5 Be7
+22. Rh3 Nf8 23. Bd3 g6 24. Qh4 Nb5 25. Bxg6 hxg6 26. Qh8+ Kf7
+27. f5 exf5 28. Re1 Nd6 29. Rh7+ Nxh7 30. Qxh7+ Kf8 31. Qh8+
+Kf7 32. Qh7+ Kf8 33. Qh8+ 1/2-1/2

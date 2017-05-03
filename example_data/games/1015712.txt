@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1974.01.17"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jan Hein Donner"]
+[Black "Andras Adorjan"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Qc7 11.Qc1 b6 12.Bf4 e5
+13.dxe5 Nxe5 14.Bd5 Bb7 15.c4 Kh8 16.Bh6 Bxh6 17.Qxh6 Bxd5
+18.cxd5 Rae8 19.Qd2 c4 20.Qd4 Qc5 21.Qxc5 bxc5 22.f4 Nd3 23.e5
+g5 24.Rad1 gxf4 25.Nxf4 Nxe5 26.Rfe1 1/2-1/2

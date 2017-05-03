@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "6"]
+[Result "1-0"]
+[White "Erno Gereben"]
+[Black "Miklos Szigeti"]
+[ECO "D01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O
+Qa5 7. e4 dxe4 8. fxe4 Bg4 9. Nf3 h6 10. Bh4 g5 11. Bg3 O-O-O
+12. Kb1 Nh5 13. Nb5 Qb6 14. Bc7 Qxc7 15. Nxc7 Kxc7 16. Qa5+
+Kc8 17. d5 cxd5 18. Qc3+ 1-0

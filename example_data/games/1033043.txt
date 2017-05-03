@@ -1,0 +1,18 @@
+[Event "10s, Hastings"]
+[Site "Hastings ENG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Yuri Balashov"]
+[ECO "C91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d6 9. d4 Bg4 10. Be3 Bd7 11. Nbd2 Ng4 12. Nf1
+Nxe3 13. Nxe3 Bf6 14. Bd5 Rb8 15. Bxc6 Bxc6 16. dxe5 Bxe5
+17. Nxe5 dxe5 18. Qg4 Qf6 19. Rad1 Rbd8 20. Rxd8 Rxd8 21. Rd1
+Rxd1+ 22. Qxd1 g6 23. f3 1/2-1/2

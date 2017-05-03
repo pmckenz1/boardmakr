@@ -1,0 +1,23 @@
+[Event "32nd Chess ol Yerevan ARM"]
+[Site "Yerevan ARM"]
+[Date "1996.09.19"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Alejandro Montalvo Rosario"]
+[Black "Alexander Baburin"]
+[ECO "D22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.dxc5 Qxd1+
+7.Kxd1 Bxc5 8.a3 Nf6 9.b4 Bd6 10.Bb2 Nbd7 11.Ke2 Nb6 12.Bb3
+Bd7 13.Nc3 Rc8 14.Nd2 Bc6 15.f3 Ke7 16.Rac1 Rc7 17.Kf2 Rhc8
+18.Ne2 e5 19.h3 Ba4 20.Rxc7+ Rxc7 21.Rc1 Bxb3 22.Rxc7+ Bxc7
+23.Nxb3 Nc4 24.Bc1 Nd5 25.Nc5 Bb6 26.Nxb7 Ndxe3 27.Nc5 Nc2
+28.Nc3 Bxc5+ 29.bxc5 N2xa3 30.Ke2 Nb5 31.Nd5+ Ke6 32.Nb4 Nc7
+33.Kd3 Na5 34.Be3 f5 35.Bg5 Kd7 36.g4 g6 37.gxf5 gxf5 38.Bf6
+Nc6 39.Nxc6 Kxc6 40.Bxe5 Ne6 41.Kc4 Ng5 42.Bf6 Nxf3 43.Kd3
+Kxc5 44.Ke3 Ne1 45.Kf4 Kd6 46.Kxf5 Nd3 47.Bg5 a5 48.Bd2 a4
+49.Kf6 Kd5 50.Kg7 Kd4 0-1

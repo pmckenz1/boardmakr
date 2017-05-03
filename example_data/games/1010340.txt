@@ -1,0 +1,23 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Anup Deshmukh"]
+[Black "Neeraj-Kumar Mishra"]
+[ECO "E48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nge2 c5
+7. O-O cxd4 8. exd4 dxc4 9. Bxc4 Nc6 10. h3 b6 11. Qa4 Bb7
+12. d5 exd5 13. Bb5 Bxc3 14. bxc3 Rc8 15. Rb1 a6 16. Bd3 Ne5
+17. Bf5 Rc4 18. Qd1 b5 19. Be3 Ne4 20. f3 Nd6 21. Bc2 Rh4
+22. Nd4 Nec4 23. Bf2 Rh6 24. Qc1 Bc8 25. Re1 Bd7 26. Bd3 Qc8
+27. Qg5 f5 28. Qf4 Qd8 29. h4 Kh8 30. Bf1 Qf6 31. g3 Qf7
+32. Re2 Rf6 33. Nb3 Ne4 34. Be1 h6 35. Rg2 Bc8 36. Nd4 Nc5
+37. Bf2 Re8 38. Re1 Rxe1 39. Bxe1 Ne6 40. Qb8 Qg8 41. Nc6 Qe8
+42. Ne5 Nf8 43. Bxc4 dxc4 44. Rd2 Nd7 45. Rxd7 Bxd7 46. Nxd7
+Qxb8 47. Nxb8 Rd6 48. Kf2 a5 49. Ke2 Re6+ 50. Kd1 Rb6 0-1

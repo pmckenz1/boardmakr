@@ -1,0 +1,15 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "John Nunn"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.c4 g6 2.d4 Bg7 3.Nf3 Nf6 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Nc3
+O-O 8.Ne5 e6 9.O-O Nfd7 10.f4 f6 1/2-1/2

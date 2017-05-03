@@ -1,0 +1,20 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Alexander Oglobilia"]
+[Black "Vladimir Babionyshev"]
+[ECO "A85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. c4 f5 2. Nc3 Nf6 3. d4 e6 4. g3 Bb4 5. Bg2 O-O 6. Nf3 Ne4
+7. Bd2 Bxc3 8. Bxc3 Nxc3 9. bxc3 d6 10. Rb1 Qe7 11. Nd2 Nc6
+12. O-O e5 13. c5 e4 14. cxd6 cxd6 15. Nc4 f4 16. gxf4 Rxf4
+17. Qc1 Rh4 18. Rb5 h6 19. Qa3 Bg4 20. f3 exf3 21. exf3 Be6
+22. Ne3 Rf8 23. Qb2 a6 24. Rxb7 Qg5 25. Rc1 Rxf3 26. Nf1 Bd5
+27. Rb8+ Rf8 28. Rxf8+ Kxf8 29. Ng3 Qe3+ 30. Qf2+ Qxf2+
+31. Kxf2 Rxh2 32. Nf5 Rxg2+ 33. Ke3 Na5 0-1

@@ -1,0 +1,21 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.19"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "Holger Norman-Hansen"]
+[Black "C Wium"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Nf6 6.O-O Bc5 7.c3
+d5 8.exd5 Nxd5 9.d4 exd4 10.cxd4 Bb6 11.Re1+ Be6 12.Nc3 O-O
+13.h3 Qd7 14.a4 b4 15.Ne4 f6 16.a5 Ba7 17.Qd3 Qf7 18.Neg5 fxg5
+19.Rxe6 Nxd4 20.Bxd5 Nxe6 21.Be3 Bxe3 22.Qxe3 Kh8 23.Bxe6 Qf6
+24.Qb3 Rae8 25.Bc4 c5 26.Rd1 h5 27.Rd5 g6 28.Rxg5 Re7 29.Qd3
+Kh7 30.Rxh5+ Kg7 31.Rg5 Re1+ 32.Kh2 Qf4+ 33.Rg3 Re4 34.Qd7+
+Kf6 35.Bxa6 Rf7 36.Qd5 Rc7 37.Bb7 Re2 38.Qd3 Rxf2 39.Qxg6+ Ke7
+40.a6 Qf8 41.Ng5 Re2 42.Rf3 Qe8 43.Qf6+ 1-0

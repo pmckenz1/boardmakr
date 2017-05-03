@@ -1,0 +1,23 @@
+[Event "Mar del Plata zt ,MCL 03"]
+[Site "14"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bernardo Wexler"]
+[Black "Erich Eliskases"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 c6 6.cxd5 exd5 7.Bd3
+Be7 8.Nf3 Ne4 9.Bxe7 Qxe7 10.O-O O-O 11.Qc2 f5 12.Nd2 Ndf6
+13.Rae1 Be6 14.f3 Nxd2 15.Qxd2 Qd6 16.Ne2 Rae8 17.Bb1 Bc8
+18.Rf2 Nh5 19.Nc1 f4 20.Rfe2 Qh6 21.e4 Nf6 22.e5 Nh5 23.Nd3 g6
+24.Qa5 Ng3 25.Rd2 Nf5 26.Qxa7 Ne3 27.Rde2 g5 28.Qc5 g4 29.Qc1
+gxf3 30.gxf3 Re7 31.Nxf4 Rg7+ 32.Kh1 Rxf4 33.Qxe3 Bh3 34.Rg1
+Rxg1+ 35.Qxg1+ Kh8 36.e6 Bxe6 37.Qe3 Bf7 38.Qe5+ Qf6 39.Qxf6+
+Rxf6 40.Kg2 Rf4 41.Re7 Kg7 42.Rxb7 h5 43.a4 Rxd4 44.b4 Kf6
+45.a5 Rd1 46.Bh7 Rd2+ 47.Kh3 d4 48.a6 Bc4 49.a7 Kg5 50.Rg7+
+Kf4 51.a8=Q Bf1+ 0-1

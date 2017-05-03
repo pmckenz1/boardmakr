@@ -1,0 +1,20 @@
+[Event "Rice CC Summer Tournament"]
+[Site "New York, NY USA"]
+[Date "1913.07.19"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Abraham Kupchik"]
+[Black "Oldrich Duras"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 a6 5.e3 Be7 6.Be2 dxc4 7.Bxc4
+b5 8.Bd3 Bb7 9.O-O Nbd7 10.b3 c5 11.Bb2 Qb6 12.Qe2 O-O 13.Rfd1
+cxd4 14.exd4 Rac8 15.Rac1 Qa5 16.Bb1 b4 17.Na4 Qh5 18.Bd3 Nd5
+19.Ne5 Qg5 20.Qf3 Nxe5 21.dxe5 Rxc1 22.Rxc1 Nf4 23.Qxb7 Nxd3
+24.Rf1 Nf4 25.Qf3 Nd5 26.Qe2 a5 27.Qb5 Bd8 28.Nc5 Qd2 29.Ba1
+Nc3 30.Bxc3 bxc3 31.Nd7 c2 32.Qc6 Be7 33.Nxf8 Bxf8 34.g3 g6
+35.Qc7 Ba3 0-1

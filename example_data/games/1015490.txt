@@ -1,0 +1,20 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1970.02.25"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Istvan Csom"]
+[Black "Andras Adorjan"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Re1 b5 7.Bb3
+Na5 8.d4 Nxb3 9.axb3 Bb7 10.dxe5 dxe5 11.Qxd8+ Rxd8 12.Nxe5
+Nxe4 13.Nd3 Be7 14.f3 Rxd3 15.cxd3 Nc5 16.Bd2 Ne6 17.Be3 f5
+18.Nc3 Kf7 19.d4 Rd8 20.Rad1 Bd5 21.Nxd5 Rxd5 22.Bf2 Bf6
+23.Rc1 Nxd4 24.Rxc7+ Kg6 25.b4 Rd6 26.Bg3 Rd8 27.Kf1 Nb3
+28.Be5 Nd2+ 29.Kf2 Ne4+ 30.fxe4 Bxe5 31.exf5 Kxf5 32.Rc5 Re8
+33.Kf3 Re6 34.b3 h5 35.h3 g6 36.h4 Kf6 37.Re4 Kf5 38.Rf4+ 1-0

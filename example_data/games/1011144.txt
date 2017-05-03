@@ -1,0 +1,19 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Quezon City PHI"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Ben Flores"]
+[Black "Gerry Cabellon"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ndf6 6. Ng5
+Nh6 7. N1f3 g6 8. h4 Bg7 9. c3 O-O 10. Ne5 Nd5 11. h5 f6
+12. hxg6 fxe5 13. Rxh6 Bxh6 14. Qh5 Qd6 15. Nxh7 Bg7 16. Ng5
+Rf6 17. Ne4 Qe6 18. Qh7+ Kf8 19. Bh6 Rxg6 20. Ng5 Rxg5
+21. Bxg5 exd4+ 22. Kf1 Qf5 23. Qh4 Ne3+ 24. Bxe3 dxe3 25. f3
+Be6 0-1

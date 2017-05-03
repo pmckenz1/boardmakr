@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.10"]
+[EventDate "1920.08.02"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Allan Nilsson"]
+[Black "Arthur Hakansson"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 Nxd5 5.Nxd5 Qxd5 6.Nf3 b6
+7.Bd3 Bb7 8.Bf4 Bd6 9.Bxd6 Qxd6 10.O-O Nd7 11.Qe2 O-O 12.Rad1
+Qf4 13.Qe3 Qxe3 14.fxe3 Nf6 15.Ne5 Nd5 16.Rfe1 Nb4 17.c3 Nxd3
+18.Rxd3 Be4 19.Rd2 f6 20.Ng4 Rfd8 21.Nf2 Bb7 22.Red1 Rd7 23.e4
+Rad8 24.c4 f5 25.exf5 exf5 26.Nh3 Kf7 27.d5 c6 28.Ng5+ Kf6
+29.Ne6 Re8 1/2-1/2

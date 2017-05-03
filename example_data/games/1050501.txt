@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Geller"]
+[Black "Zvulon Gofshtein"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 c6 4.Be2 Qa5 5.Bd2 Qb6 6.Nf3 Bg4 7.e5
+dxe5 8.dxe5 Nd5 9.Ne4 Nd7 10.c4 Nb4 11.a3 Na6 12.Neg5 f6
+13.exf6 exf6 14.Nh4 Bxe2 15.Qxe2+ Ne5 16.O-O Qd4 17.Qh5+ g6
+18.Nxg6 Nxg6 19.Rfe1+ Be7 20.Rxe7+ Kxe7 21.Re1+ Kd6 22.Bb4+
+Nxb4 23.c5 Kd5 24.Nf3 Ne5 25.Nxd4 Nd3 26.Rd1 Kxd4 27.Qh4+ Kxc5
+28.f4 Rhg8 1-0

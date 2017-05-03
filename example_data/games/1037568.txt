@@ -1,0 +1,22 @@
+[Event "Montreal Internat"]
+[Site "08"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Jean Hebert"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.Nf3 g6 2.d4 Bg7 3.c4 d6 4.Nc3 Nf6 5.g3 O-O 6.Bg2 Nc6 7.O-O
+a6 8.b3 Rb8 9.Bb2 b5 10.cxb5 axb5 11.Rc1 Bd7 12.Ne1 b4 13.Nb1
+Rb6 14.Nd3 Na5 15.Re1 c6 16.Qd2 Qb8 17.Rc2 Rd8 18.e4 Bc8 19.h3
+Ba6 20.Qe3 Nd7 21.Bf1 e5 22.Rd1 exd4 23.Bxd4 Bxd4 24.Qxd4 c5
+25.Qe3 Bxd3 26.Bxd3 Nc6 27.f4 Re8 28.Rf2 Nd4 29.Qc1 Qa8 30.Re1
+Rbb8 31.Re3 f5 32.Bc4+ Kg7 33.Bd5 Qa7 34.exf5 Nf6 35.Bg2 Rxe3
+36.Qxe3 Re8 37.Qd3 gxf5 38.Kh2 Ne4 39.Bxe4 fxe4 40.Qe3 Nf5
+41.Qe2 e3 42.Rf1 Nd4 43.Qg4+ Kh8 44.Qh5 Qxa2+ 45.Kh1 Qa8+
+46.Kh2 e2 0-1

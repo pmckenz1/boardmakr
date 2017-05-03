@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Los Angeles, CA USA"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "William Mark Duckworth"]
+[Black "Julio Bolbochan"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 d5 6.e5 Bd7 7.Qe2
+a6 8.Bd3 Qc7 9.Re1 Ng6 10.Bxg6 hxg6 11.d3 f6 12.Bf4 g5 13.Bg3
+Qb6 14.h3 Be7 15.c4 d4 16.exf6 gxf6 17.Nbd2 O-O-O 18.b4 g4
+19.hxg4 Rh7 20.bxc5 Rdh8 21.Nh2 Qxc5 22.Ne4 Qa5 23.f4 Kb8
+24.f5 e5 25.Rab1 Ka8 26.Rf1 Qd8 27.Qf3 Bc8 28.c5 Bf8 29.Rb6
+Bh6 30.g5 Bxg5 31.Nxg5 fxg5 32.Rfb1 Qe8 33.Qe4 Rc7 34.Ng4 Rf8
+35.Nxe5 Bxf5 36.Qd5 Bxd3 37.Re1 Nxe5 38.Bxe5 Rcf7 39.Rh6 Bb5
+40.c6 Bxc6 41.Qxd4 Rf4 42.Qc5 R4f5 43.Re3 Qd7 44.Qd6 Qf7
+45.Ra3 Rf1+ 46.Kh2 Rh1+ 47.Kg3 Qf2+ 48.Kg4 Qf5+ 49.Kg3 Rxh6
+50.Qxh6 Qxe5+ 0-1

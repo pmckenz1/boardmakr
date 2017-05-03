@@ -1,0 +1,17 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.03"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Nicholas MacLeod"]
+[Black "James Mason"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.c3 Nc6 3.Nf3 Nf6 4.d4 exd4 5.e5 Ng8 6.cxd4 d5 7.Nc3
+Bb4 8.Bd3 h6 9.Be3 Nge7 10.O-O Ba5 11.h3 Bb6 12.a4 a6 13.Bc2
+Be6 14.Nh2 Qd7 15.f4 O-O-O 16.Ne2 Rdg8 17.g4 f5 18.Ng3 g6
+19.b3 fxg4 20.Nxg4 Bxg4 21.hxg4 h5 22.g5 Qh3 23.Nh1 Qxe3+ 0-1

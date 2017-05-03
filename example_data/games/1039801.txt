@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1908.03.28"]
+[EventDate "1908.03.23"]
+[Round "5"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Rudolf Swiderski"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c4 Be7 7.h3 O-O
+8.Nc3 Nd7 9.Be3 Bf6 10.Bxc6 bxc6 11.g4 c5 12.Qd2 Nb8 13.O-O-O
+Nc6 14.Nd5 Nd4 15.Nxd4 cxd4 16.Nxf6+ Qxf6 17.Bg5 Qe6 18.f4 f6
+19.f5 Qe7 20.Bh4 c6 21.g5 Kh8 22.gxf6 gxf6 23.Rdg1 Bb7 24.Qh6
+Rf7 25.Rg6 Raf8 26.Rhg1 d5 27.Be1 dxc4 28.dxc4 c5 29.R6g4 Bc6
+30.Qh4 Qb7 31.Qg3 Qa8 32.Bd2 Bxe4 33.Bh6 Bxf5 34.Bg7+ Rxg7
+35.Rxg7 Bg6 36.Rxh7+ 1-0

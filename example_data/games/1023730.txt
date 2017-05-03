@@ -1,0 +1,18 @@
+[Event "Gausdal 51/3"]
+[Site "Gausdal 51/3"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Romuald Mainka"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 Bd6 5.c4 Nge7 6.Nf3 O-O 7.Bxc6
+Nxc6 8.cxd5 Nb4 9.d3 Nxd5 10.Nxe5 Bxe5 11.Bxe5 Qg5 12.Bg3 h5
+13.h4 Qg6 14.e4 f5 15.exd5 f4 16.Bh2 Qxg2 17.Kd2 Qxf2+ 18.Qe2
+Qd4 19.Nc3 Bg4 20.Qf1 Rae8 21.Bg1 Qb4 22.Kc2 f3 23.Qf2 Rf7
+24.Qc5 Qf4 25.Bf2 Rfe7 26.Rae1 Rxe1 27.Rxe1 1-0

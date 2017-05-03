@@ -1,0 +1,19 @@
+[Event "Hollywood"]
+[Site "Hollywood, CA USA"]
+[Date "1954.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugene Levin"]
+[Black "Sam Geller"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e6 2.b3 d5 3.Bb2 dxe4 4.Nc3 Nf6 5.Qe2 Bb4 6.O-O-O Bxc3
+7.dxc3 Qe7 8.f3 Bd7 9.fxe4 Bc6 10.e5 Ne4 11.c4 Nd7 12.Nf3 b6
+13.Rd4 Nec5 14.Rg4 g6 15.Nd4 Bb7 16.Nb5 Qd8 17.h4 a6 18.Nc3
+Qe7 19.b4 O-O-O 20.bxc5 Nxc5 21.Qe3 h5 22.Rg3 Rd7 23.Qg5 Qf8
+24.Bd3 Kb8 25.Kb1 Qc8 26.Ba3 Ka7 27.Bxc5 bxc5 28.Qe3 Qf8
+29.Na4 Rd4 30.c3 Bc6 31.Nxc5 Qxc5 32.Qxd4 1-0

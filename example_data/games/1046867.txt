@@ -1,0 +1,22 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Manila PHI"]
+[Date "1992.06.22"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Gulnara Sachs"]
+[Black "Alisa Galliamova"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 d5 2.Nf3 Bf5 3.e3 e6 4.Be2 Nd7 5.O-O Bd6 6.c4 c6 7.b3 Qf6
+8.Bb2 Qh6 9.Nbd2 Ne7 10.Re1 O-O 11.Nf1 Rad8 12.Ng3 Bg6 13.cxd5
+cxd5 14.Ne5 Nxe5 15.dxe5 Bc7 16.Rc1 Nc6 17.Bb5 Bxe5 18.Bxe5
+Nxe5 19.Qd4 f6 20.Qxa7 Bd3 21.Qb6 f5 22.h3 Qg6 23.Qd4 Nf3+
+24.gxf3 Bxb5 25.f4 Qf6 26.a4 Bc6 27.Ne2 Qh4 28.Kg2 Rf6 29.Ng3
+Rdf8 30.Rh1 Rh6 31.Rh2 Rff6 32.Kh1 Rfg6 33.Rg1 Qe7 34.Ne2 Qa3
+35.Rb1 Qa2 36.Nc3 Qc2 37.Rg1 Qxb3 38.Rg5 e5 39.Qxe5 d4 40.Kg1
+dxc3 41.Qb8+ Kf7 42.Qc7+ Kf8 43.Qc8+ Ke7 44.Qc7+ Bd7 45.Qc5+
+Kf7 46.Rhg2 Rxg5 47.Rxg5 Rg6 0-1

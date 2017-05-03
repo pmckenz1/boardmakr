@@ -1,0 +1,21 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "03"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Erich Eliskases"]
+[Black "Eduardo Scanavino"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Nf3 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.exf5 gxf5 12.f4 e4 13.Nf2
+c5 14.dxc6 Nxc6 15.Be3 Nb6 16.Nh3 h6 17.Rc1 Be6 18.b3 d5
+19.Nxd5 Nxd5 20.cxd5 Bxd5 21.Bc5 Rf7 22.Rc2 Be6 23.Rd2 Qa5
+24.Be3 Qc3 25.Kf2 Nb4 26.Bh5 Rff8 27.Rd6 Nd3+ 28.Kg1 Rfd8
+29.Rxe6 Nc5 30.Re8+ Rxe8 31.Qd5+ Ne6 32.Kf2 Rad8 33.Qxf5 Nd4
+34.Qf7+ Kh8 35.Qc4 Qxc4 36.bxc4 Rf8 37.Rc1 Nf5 38.g4 Nxe3
+39.Kxe3 Rd3+ 40.Kxe4 Rxh3 0-1

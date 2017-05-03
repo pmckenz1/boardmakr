@@ -1,0 +1,20 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.06"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Antoine Kassis"]
+[Black "Ghassan Houmsi"]
+[ECO "B82"]
+[WhiteElo "2170"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6
+7. Qf3 Be7 8. g4 e5 9. Nf5 Bxf5 10. exf5 Nc6 11. g5 Nd7
+12. Be3 exf4 13. Qxf4 f6 14. gxf6 Nxf6 15. Rg1 Qa5 16. O-O-O
+O-O-O 17. Qf2 Qe5 18. Bb6 d5 19. Bxd8 Rxd8 20. Re1 Ne4
+21. Nxe4 dxe4 22. Rg4 Ba3 23. c3 Qxc3+ 24. Kb1 Bxb2 25. Rg3
+Qa5 26. Rxe4 Rd1+ 27. Kc2 Rd8 28. Bc4 Bf6 29. Qe1 Qa4+ 30. Bb3
+Nd4+ 31. Kb1 Qc6 32. Rc3 1-0

@@ -1,0 +1,29 @@
+[Event "Liechtenstein op 9307"]
+[Site "Liechtenstein op 9307"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Saudin Robovic"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "168"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Nc3
+e5 8.e4 a6 9.Re1 exd4 10.Nxd4 Ng4 11.f3 Nge5 12.b3 c5 13.Nde2
+b5 14.cxb5 axb5 15.Be3 b4 16.Na4 Nc4 17.bxc4 Bxa1 18.Nxc5 Rxa2
+19.Nd3 Bg7 20.Nxb4 Ra1 21.Qd2 Rxe1+ 22.Qxe1 Qa5 23.Nd4 Ne5
+24.Bf2 Bd7 25.Nd5 Qxe1+ 26.Bxe1 Nxc4 27.Bc3 Rb8 28.Bf1 Nd2
+29.Bxd2 Bxd4+ 30.Be3 Bxe3+ 31.Nxe3 Rb1 32.Kf2 Rb2+ 33.Kg1 Bb5
+34.Bxb5 Rxb5 35.Nc4 d5 36.exd5 Rxd5 37.h4 Kg7 38.Kf2 Rd4
+39.Ne5 Rd2+ 40.Ke3 Rg2 41.Kf4 Ra2 42.g4 Kf6 43.g5+ Ke6 44.Ng4
+Ra4+ 45.Kg3 Rb4 46.Kh3 Rf4 47.Kg3 Rd4 48.Nf6 h6 49.Ne4 hxg5
+50.Nxg5+ Kf6 51.Ne4+ Kf5 52.Ng5 f6 53.Nh3 Ra4 54.Nf2 Ke6
+55.Nd3 Kf7 56.Nf4 Kg7 57.Nd5 Rd4 58.Ne3 Rd6 59.Ng4 Re6 60.Kf4
+Re1 61.Kg3 Ra1 62.Nf2 Ra4 63.Ne4 Ra6 64.Nc5 Rc6 65.Nd3 Kh6
+66.Nf4 g5 67.Nh3 gxh4 68.Kxh4 Rc4+ 69.Kg3 Kg6 70.Nf4+ Kf5
+71.Nd5 Rd4 72.Ne3+ Kg5 73.Ng2 Ra4 74.f4 Kf5 75.Kf3 Ra3+
+76.Ne3+ Ke6 77.Ke4 Ra4+ 78.Kf3 f5 79.Kg3 Ra8 80.Kf3 Rf8 81.Ke2
+Rh8 82.Kf3 Rh3+ 83.Ke2 Rh2+ 84.Kf3 Ra2 1/2-1/2

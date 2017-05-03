@@ -1,0 +1,24 @@
+[Event "Rotterdam"]
+[Site "Rotterdam NED"]
+[Date "1940.06.26"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "W Goris"]
+[Black "Max Euwe"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Bd7
+7. c3 Be7 8. d4 O-O 9. Nbd2 exd4 10. cxd4 Nb4 11. Bxd7 Qxd7
+12. Nb1 d5 13. e5 Ne4 14. Nc3 Qf5 15. Re2 Rfd8 16. a3 Nxc3
+17. bxc3 Nc6 18. h3 Na5 19. Qc2 Qxc2 20. Rxc2 Nb3 21. Raa2 c5
+22. Be3 Rac8 23. a4 cxd4 24. cxd4 Rc4 25. Kf1 Rdc8 26. Rxc4
+dxc4 27. Nd2 Nxd2+ 28. Bxd2 b5 29. axb5 axb5 30. d5 c3
+31. Bxc3 Rxc3 32. Ra8+ Bf8 33. d6 Rd3 34. Rb8 f6 35. exf6 gxf6
+36. Rxb5 Rxd6 37. Rb7 Rd2 38. Rb3 Bc5 39. Rf3 Kg7 40. Rf5 Bd4
+41. g3 Kg6 42. Rf3 h5 43. Rf4 Bc5 44. Kg2 Rd4 45. Rf3 h4
+46. gxh4 Rxh4 47. Kg3 Ra4 48. Rd3 Ra3 49. Rxa3 Bxa3 50. Kg4
+f5+ 51. Kf3 Bd6 52. Kg2 Kg5 53. Kf3 Kh4 54. Kg2 Bc7 0-1

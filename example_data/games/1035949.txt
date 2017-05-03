@@ -1,0 +1,19 @@
+[Event "11th DSB Kongress, Cologne"]
+[Site "Cologne GER"]
+[Date "1898.08.08"]
+[EventDate "1898.08.01"]
+[Round "7"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Wilhelm Cohn"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 e6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 f5 6.f4 exf4 7.Bxf4 fxe4
+8.Nxe4 Nf6 9.Bd3 Nxe4 10.Bxe4 Qh4+ 11.g3 Qe7 12.Qe2 Nd7
+13.O-O-O Nf6 14.Re1 Bg4 15.Nf3 Nxe4 16.Qxe4 Qxe4 17.Rxe4+ Kd7
+18.Nd2 Re8 19.Rxe8 Kxe8 20.h3 Bh5 21.g4 Bg6 22.h4 h5 23.gxh5
+Rxh5 24.Bg5 Bf5 25.Re1+ Kd7 26.Ne4 Rh8 27.Kd2 Be7 28.Nxc5+
+dxc5 29.Rxe7+ Kd6 30.Rxb7 1-0

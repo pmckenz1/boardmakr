@@ -1,0 +1,24 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Torsten Sarbok"]
+[Black "Tomasz Markowski"]
+[ECO "C67"]
+[WhiteElo "2285"]
+[BlackElo "2531"]
+[PlyCount "107"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 Ne7 11. Ne4
+Ng6 12. Re1 h6 13. Nd4 c5 14. Nb5 Kd7 15. f4 Kc6 16. Nbc3 Be7
+17. Be3 Be6 18. Rf1 Nh4 19. Bf2 Nf5 20. Rfd1 h5 21. Ng5 Bxg5
+22. fxg5 Ne7 23. Rd2 Rad8 24. Rad1 Rxd2 25. Rxd2 b6 26. h3 Ng6
+27. b3 Nxe5 28. a4 Re8 29. Bg3 f6 30. gxf6 gxf6 31. Rf2 Nd7
+32. Nb5 Rg8 33. Kh2 a6 34. Nxc7 Rxg3 35. Nxe6 h4 36. Nf8 Ne5
+37. Rxf6+ Kd5 38. Ne6 Ke4 39. Rf4+ Ke3 40. Rxh4 Rg6 41. Nc7
+Rd6 42. Rh5 Kf4 43. Rh8 Rd2 44. Rf8+ Ke4 45. c4 Rb2 46. Nxa6
+Rxb3 47. a5 Kd4 48. Rc8 bxa5 49. Nxc5 Rb6 50. Na4 Rb4 51. c5
+Rxa4 52. c6 Rc4 53. c7 Ke4 54. Ra8 1/2-1/2

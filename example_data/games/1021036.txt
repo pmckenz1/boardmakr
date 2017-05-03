@@ -1,0 +1,23 @@
+[Event "Guarapuava wch U18"]
+[Site "Guarapuava wch U18"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Eric Torman"]
+[Black "Andres Rodriguez Vila"]
+[ECO "E25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5
+Nxd5 8.dxc5 Qa5 9.e4 Nf6 10.Be3 O-O 11.Qb3 Nfd7 12.Rd1 Qc7
+13.Bb5 Nxc5 14.Qc4 b6 15.Bxc5 bxc5 16.Ne2 Nd7 17.Qd3 Rb8 18.a4
+Ne5 19.Qd6 Qxd6 20.Rxd6 a6 21.Bd3 Rb2 22.f4 Nxd3+ 23.Rxd3 Bb7
+24.Kf2 Bxe4 25.Re3 Bc6 26.Re5 Rd8 27.Rxc5 Bxa4 28.Ra1 Bb3
+29.Ke3 g6 30.g3 Rdd2 31.Nd4 Rxh2 32.Rxa6 Bd5 33.f5 gxf5 34.Kf4
+Rbf2+ 35.Ke5 Rh5 36.Kf6 Rh6+ 37.Ke7 Kg7 38.Nb5 f4 39.gxf4 Rxf4
+40.Nd6 Rg6 41.c4 Bf3 42.Re5 Rg2 43.c5 Rc2 44.Rg5+ Kh6 45.Rg3
+Rxc5 46.Nxf7+ Kh5 47.Rh3+ Kg4 48.Rxh7 Rc7+ 49.Kxe6 Kg3 50.Ra3
+Kg2 51.Ra2+ Kg1 52.Ra1+ Kf2 53.Ra2+ Kg3 54.Ra3 Kg2 1/2-1/2

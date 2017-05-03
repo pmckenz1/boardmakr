@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York (34-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.10"]
+[EventDate "?"]
+[Round "34"]
+[Result "1/2-1/2"]
+[White "Dionisio M Martinez"]
+[Black "James Mason"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O
+Be7 8.c4 Nf6 9.Nc3 O-O 10.Be3 Nb4 11.Rc1 Nxd3 12.Qxd3 dxc4
+13.Qxc4 c6 14.Qb3 Qb6 15.Qc2 Qa5 16.Ne5 Be6 17.f3 Bb4 18.a3
+Bxc3 19.Qxc3 Qxc3 20.bxc3 Nd5 21.Bd2 f6 22.Nd3 b5 23.Nc5 Bf7
+24.Rfe1 Rfe8 25.Kf2 Nb6 26.Rxe8+ Rxe8 27.Re1 Rxe1 28.Kxe1 Nc4
+29.Bc1 Bd5 30.Kf2 Kf7 31.h4 g5 32.hxg5 fxg5 33.g4 h6 34.Kg3 a5
+1/2-1/2

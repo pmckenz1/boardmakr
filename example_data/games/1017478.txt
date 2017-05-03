@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lev Alburt"]
+[Black "Nick DeFirmian"]
+[ECO "A63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.g3
+Bg7 8.Bg2 O-O 9.O-O Nbd7 10.Re1 Re8 11.e4 b5 12.Nxb5 Nxe4
+13.Ng5 a6 14.Nxe4 axb5 15.Nxd6 Rxe1+ 16.Qxe1 Ba6 17.Nxf7 Qf8
+18.Nh6+ Kh8 19.Qe6 Ne5 20.Bf4 1-0

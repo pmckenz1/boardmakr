@@ -1,0 +1,24 @@
+[Event "Jyvaskyla (Finland)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Teemu Keskisarja"]
+[Black "Vladimir Bagirov"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 e6 4.Nc3 c6 5.e3 Nd7 6.Be2 Bd6 7.O-O a6
+8.b3 b5 9.cxd5 cxd5 10.Bb2 Qb8 11.h3 h6 12.Bd3 Bxd3 13.Qxd3 f5
+14.Ne2 Ne7 15.Rac1 O-O 16.Nd2 b4 17.Rfd1 Qb5 18.Nf3 Qb8 19.Nd2
+a5 20.f4 Nf6 21.Nf3 Ne4 22.Ne5 Qb7 23.Rc2 a4 24.Bc1 Rfc8
+25.Rxc8+ Qxc8 26.Bd2 axb3 27.axb3 Qa6 28.Be1 Bxe5 29.Qxa6 Rxa6
+30.dxe5 Nc6 31.Nd4 Kf7 32.Nxc6 Rxc6 33.Rd4 Rc1 34.Kf1 g5
+35.Rxb4 Nc5 36.Rd4 Nxb3 37.Rd3 Nc5 38.Rc3 Rxc3 39.Bxc3 gxf4
+40.exf4 Nd3 41.g3 h5 42.Ke2 Nc5 43.Kf3 Nb3 44.Bb2 Kg6 45.Bc3
+Nc5 46.Bd4 Ne4 47.Bb6 Nd2+ 48.Ke2 Nc4 49.Bf2 h4 50.g4 fxg4
+51.hxg4 h3 52.Bg3 d4 53.f5 exf5 54.gxf5 Kxf5 55.Kd3 Ne3
+56.Kxd4 Nf1 57.e6 Kxe6 58.Bc7 Kf5 59.Kd3 Kg4 60.Ke2 Ng3+ 0-1

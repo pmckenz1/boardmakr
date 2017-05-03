@@ -1,0 +1,18 @@
+[Event "Torremolinos"]
+[Site "06"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Rafael Saborido"]
+[ECO "E95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O
+Nbd7 8.Re1 c6 9.Bf1 Re8 10.Rb1 exd4 11.Nxd4 d5 12.cxd5 cxd5
+13.exd5 Rxe1 14.Qxe1 Nb6 15.Bf4 Nbxd5 16.Nxd5 Qxd5 17.Nb5 Bf5
+18.Rd1 Qxa2 19.Qe7 Qe6 20.Qxb7 Be4 21.Qc7 Nd5 22.Qd6 Nxf4
+23.Qxf4 Be5 1/2-1/2

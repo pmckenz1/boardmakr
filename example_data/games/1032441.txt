@@ -1,0 +1,16 @@
+[Event "Botvinnik - Smyslov World Championship Return Match"]
+[Site "21"]
+[Date "1957.04.25"]
+[EventDate "?"]
+[Round "21"]
+[Result "1/2-1/2"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nc3 Bg7 7.Nf3
+O-O 8.Ne5 Bf5 9.O-O Ne4 10.Nxe4 Bxe4 11.f3 Bf5 12.Be3 Nd7
+13.Nxd7 Qxd7 1/2-1/2

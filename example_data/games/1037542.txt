@@ -1,0 +1,25 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Maurice Poulin"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 c6 5.h3 Qb6 6.Rb1 Nd7 7.g3 c5
+8.Nge2 cxd4 9.Bxd4 Bxd4 10.Nxd4 Ngf6 11.Bg2 Ne5 12.O-O Bxh3
+13.Bxh3 Qxd4 14.Qe2 Qc4 15.Qxc4 Nxc4 16.Rfd1 a6 17.Rd4 Ne5
+18.Rb4 b5 19.Nd5 Nxd5 20.exd5 O-O 21.f4 Nc4 22.a4 Rfb8 23.Kf2
+Nb6 24.axb5 Nxd5 25.Rd4 Nf6 26.Bg2 Ra7 27.bxa6 Rxa6 28.b4 Ra2
+29.Rc4 d5 30.Rc7 e6 31.b5 Rb6 32.Ke3 Ra5 33.Bf1 Ne4 34.Bd3
+Nxg3 35.Kd4 Ra8 36.Kc5 Rbb8 37.b6 Nh5 38.b7 Rxb7 39.Rbxb7 Rf8
+40.Rb4 Ra8 41.Kd6 Nf6 42.Ke5 Ng4+ 43.Kd4 Kg7 44.Be2 Nh6 45.Ke3
+Kf6 46.Kf3 Nf5 47.Bd3 Ng7 48.Rbb7 Rf8 49.Ke3 Nh5 50.Be2 Ng7
+51.Bg4 h5 52.Bh3 h4 53.Bg4 Nf5+ 54.Bxf5 gxf5 55.Ke2 Kg6 56.Kf3
+h3 57.Kg3 Kf6 58.Kxh3 Rh8+ 59.Kg3 Rg8+ 60.Kf3 Rg7 61.Rc8 Rg1
+62.Rf8 Rg7 63.Rh8 Rg6 64.Rh7 Rg7 65.Rxg7 Kxg7 66.Ke3 1-0

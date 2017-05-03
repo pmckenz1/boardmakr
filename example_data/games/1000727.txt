@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.02"]
+[EventDate "1911.08.21"]
+[Round "10"]
+[Result "0-1"]
+[White "Paul F Johner"]
+[Black "Hans Fahrni"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7
+7.Bd3 O-O 8.Nce2 c5 9.c3 f6 10.f4 cxd4 11.cxd4 fxe5 12.fxe5
+Qb4+ 13.Nc3 Qxb2 14.Nge2 Nc6 15.Rb1 Qa3 16.Qc2 h6 17.Bg6 Qe7
+18.h4 Nb6 19.Qd3 Bd7 20.g3 Nb4 21.Rxb4 Qxb4 22.Nf4 Rxf4
+23.gxf4 Na4 24.Kd2 Nb2 25.a3 Qxa3 26.Qc2 Rc8 27.Rb1 Nc4+
+28.Ke2 Nb6 29.Qb3 Rxc3 0-1

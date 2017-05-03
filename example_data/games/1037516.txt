@@ -1,0 +1,27 @@
+[Event "Toronto zt Day Vranesic"]
+[Site "Toronto CAN"]
+[Date "1978.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Zvonko Vranesic"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1.e4 c5 2.f4 d6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.Nf3 e5 7.c3 Nge7
+8.Na3 O-O 9.O-O d5 10.exd5 Nxd5 11.Nxe5 Nxe5 12.fxe5 Bxe5
+13.Qb3 Nb6 14.Qb5 Qc7 15.Be3 Bd6 16.Qa5 Bd7 17.Nc4 Na4 18.Qxc7
+Bxc7 19.Bxb7 Rab8 20.Bd5 Bf5 21.Rf2 Nb6 22.Nxb6 axb6 23.g4
+Rbd8 24.Bb3 Be6 25.Bxe6 fxe6 26.Rxf8+ Kxf8 27.Rf1+ Kg7 28.Rf3
+h6 29.h3 e5 30.Kf1 Bd6 31.Ke2 Be7 32.Rf1 Ra8 33.a3 b5 34.Bf2
+Ra4 35.Bg3 Bf6 36.Kd2 h5 37.gxh5 gxh5 38.Re1 Bg5+ 39.Kc2 Bf4
+40.Bf2 c4 41.d4 Kf6 42.dxe5 Bxe5 43.Bh4+ Kf5 44.Rf1+ Ke6
+45.Rg1 Ra8 46.Rg6+ Kf5 47.Rg5+ Kf4 48.Rxh5 Rg8 49.Be1 Rg2+
+50.Bd2+ Ke4 51.Rh4+ Kf3 52.a4 Bg3 53.Rg4 bxa4 54.Rxc4 a3
+55.bxa3 Rh2 56.Rd4 Rxh3 57.Rd3+ Kg4 58.c4 Rh8 59.Rd5 Ra8
+60.Kb3 Rb8+ 61.Bb4 Kf4 62.c5 Ke4 63.Kc4 Bf2 64.Rd6 Bg3 65.Re6+
+Kf5 66.Re2 Be5 67.Ba5 Rb1 68.Kd5 Rd1+ 69.Kc6 Rd3 70.Ra2 Re3
+71.Bb6 1-0

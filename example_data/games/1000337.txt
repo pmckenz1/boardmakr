@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Patrick Yee"]
+[Black "Dean Ippolito"]
+[ECO "C48"]
+[WhiteElo "2296"]
+[BlackElo "2449"]
+[PlyCount "54"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. Bc4 Nxe4 6. Bxf7+
+Kxf7 7. Nxe4 d5 8. Nxd4 exd4 9. Qf3+ Kg8 10. O-O h5 11. Ng3
+Bg4 12. Qb3 h4 13. Nh1 h3 14. g3 Be2 15. Re1 d3 16. cxd3 Bf3
+17. d4 Qf6 18. Qe3 Bxh1 19. f3 Bg2 20. d3 Qxf3 21. Qe6+ Qf7
+22. Bf4 c6 23. Qg4 Be7 24. Re2 Bf6 25. Be5 Bxe5 26. Rxe5 Rf8
+27. Qe2 Rh6 0-1

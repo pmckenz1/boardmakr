@@ -1,0 +1,31 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Uwe Boensch"]
+[Black "Matthias Thesing"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "180"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Qc2 Bd6 5. e3 Nf6 6. Nbd2 Nbd7
+7. Bd3 h6 8. b3 Qe7 9. Bb2 b6 10. e4 dxe4 11. Nxe4 Nxe4
+12. Bxe4 Bb7 13. Ne5 Nxe5 14. dxe5 Bb4+ 15. Ke2 Rd8 16. Rhd1
+O-O 17. g3 a5 18. Rxd8 Rxd8 19. Rd1 Rxd1 20. Qxd1 b5 21. Qc1
+Qd7 22. c5 a4 23. a3 Ba5 24. bxa4 bxa4 25. Bd3 Qd5 26. f3 Kf8
+27. Qc4 Qxc4 28. Bxc4 Ke7 29. Ke3 Kd7 30. Bd3 Bd8 31. Kd2 Bg5+
+32. f4 Bd8 33. Bc3 Be7 34. Bd4 Bd8 35. Be2 g6 36. Bc3 h5
+37. Ke3 Kc8 38. Kd4 Kd7 39. Bd3 Kc8 40. Bc2 Ba6 41. Bxa4 Kb7
+42. Bd1 Bf1 43. Bf3 Bh3 44. Be1 Bg4 45. Bg2 Bd1 46. Kc4 Be2+
+47. Kb3 Bd1+ 48. Kc4 Be2+ 49. Kd4 Bd1 50. h3 Bc7 51. Bf1 Bd8
+52. Bb4 Bc7 53. Ke3 Bd8 54. Kd2 Bf3 55. a4 Bd5 56. Ke3 Bb3
+57. a5 Bd1 58. Kf2 Be7 59. h4 Bd8 60. Ke3 Be7 61. Kd4 Bd8
+62. Be1 Bc7 63. Bg2 Be2 64. Ke3 Bb5 65. Bf3 Bd8 66. g4 hxg4
+67. Bxg4 Bc4 68. h5 gxh5 69. Bxh5 f5 70. Kd4 Bd5 71. Be2 Ka7
+72. a6 Kb8 73. Ke3 Be7 74. Bb4 Ka7 75. Bf1 Bd8 76. Kd2 Kb8
+77. Bd3 Ka7 78. Ke2 Ka8 79. Kf1 Ka7 80. Be1 Be7 81. Bf2 Kb8
+82. Be3 Ka7 83. Ke2 Kb8 84. Bf2 Ka7 85. Kd2 Kb8 86. Kc3 Ka7
+87. Kb4 Kb8 88. Ka5 Ka7 89. Be2 Bd8+ 90. Ka4 Be7 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Gyula Kluger"]
+[Black "Eugene Aleksandrovich Znosko-Borovsky"]
+[ECO "E24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne4 6. Nh3
+f5 7. f3 Nf6 8. Nf2 O-O 9. e3 d6 10. Bd3 Nc6 11. Qc2 Ne7
+12. e4 fxe4 13. Nxe4 Nxe4 14. Bxe4 Nf5 15. O-O g6 16. Rb1 c6
+17. d5 cxd5 18. cxd5 e5 19. f4 exf4 20. Bxf4 b6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "It, Hastings (England)"]
+[Site "It, Hastings (England)"]
+[Date "1982.01.03"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Vasily Smyslov"]
+[Black "Ulf Andersson"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Nxe4 Bxe4 9.Ne1 d5 10.cxd5 Bxg2 11.Nxg2 Qxd5 12.Nf4 Qb7
+13.Be3 1/2-1/2

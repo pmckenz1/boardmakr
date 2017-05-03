@@ -1,0 +1,25 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Mirjana Medic"]
+[Black "Damir Kljako"]
+[ECO "A64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. g3 Nf6 6. Bg2 O-O
+7. Nf3 e6 8. O-O exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7
+12. Nc4 Nb6 13. Na3 Bd7 14. h3 Rb8 15. Re1 Nc8 16. Rb1 Qc7
+17. Bd2 c4 18. b4 b5 19. axb5 axb5 20. e4 Re7 21. Qc1 Ne8
+22. Be3 f5 23. exf5 Bxf5 24. Ncxb5 Qd7 25. Qxc4 Bxb1 26. Rxb1
+Rxe3 27. fxe3 Be5 28. g4 Nb6 29. Qd3 Nf6 30. Nd4 Qa4 31. Nc6
+Re8 32. Rf1 Kg7 33. Nb5 Qa6 34. g5 Nfd7 35. Rf7+ Kh8 36. Qf1
+Qa1 37. Qxa1 Bxa1 38. Nxd6 Rxe3 39. Rf1 Bb2 40. Nf7+ Kg7
+41. Nh6 Re8 42. d6 Rf8 43. Re1 Nc8 44. h4 Ndb6 45. Rd1 Nd7
+46. Bh3 Ncb6 47. Re1 Bf6 48. Bxd7 Nxd7 49. gxf6+ Kxh6 50. Re7
+Nxf6 51. d7 Nxd7 52. Rxd7 Kh5 53. Rxh7+ Kg4 54. b5 Rc8 55. Kf2
+g5 56. hxg5 Kxg5 57. Ke3 Kf6 58. Kd4 Ke6 59. Kc5 1-0

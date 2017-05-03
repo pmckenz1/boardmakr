@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Linares (Spain)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Zdenko Kozul"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O
+Nc6 8.e3 O-O 9.Nc3 Re8 10.d5 Na5 11.Nd4 Bd7 12.b3 c6 13.dxc6
+Nxc6 14.Nxc6 Bxc6 15.Bxc6 bxc6 16.Bb2 Qxd1 17.Rfxd1 c5 18.Rac1
+c4 19.Ba3 Rec8 20.bxc4 e6 21.Nb5 Nxc4 22.Nxa7 Rxa7 23.Rxc4
+Rca8 24.Bc5 Rxa2 25.e4 1/2-1/2

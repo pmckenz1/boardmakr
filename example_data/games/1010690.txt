@@ -1,0 +1,22 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Alexander Malienko"]
+[Black "Y Simkin"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4
+7. Nb5 b3+ 8. c3 Nc6 9. Rb1 f6 10. f4 fxe5 11. dxe5 Nh6
+12. Qh5+ Kd7 13. Rxb3 Nf5 14. Nf3 g6 15. Qh3 a6 16. g4 axb5
+17. gxf5 gxf5 18. Bxb5 Bb6 19. a4 Bc5 20. Nd4 Kc7 21. Be3 Qe7
+22. Rg1 Bd7 23. Qh6 Bxd4 24. Bxd4 Nxd4 25. cxd4 Rhg8 26. Rxg8
+Rxg8 27. Qh3 Bxb5 28. axb5 Kb6 29. Kd1 Rg1+ 30. Kd2 Qg7
+31. Rg3 Rxg3 32. hxg3 Qe7 33. Ke3 Qa3+ 34. Kf2 Qb2+ 35. Kg1
+Qxd4+ 36. Kh2 Qf2+ 37. Kh1 Qf3+ 38. Kg1 d4 39. Qxh7 Qxg3+
+40. Kh1 Qxf4 0-1

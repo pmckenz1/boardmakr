@@ -1,0 +1,19 @@
+[Event "JYVASKYLA HOF"]
+[Site "7"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Antti Pyhala"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 Nh5
+8.Nh2 Qe8 9.Be2 f5 10.Bxh5 gxh5 11.exf5 Bxf5 12.Nf3 Na6 13.Nh4
+Bd7 14.Be3 Nc5 15.Qe2 e4 16.Bxc5 dxc5 17.O-O-O b5 18.Rhe1 Qe5
+19.g3 bxc4 20.f4 Qd6 21.Qc2 Rab8 22.Rxe4 Rb4 23.Rde1 Bf6
+24.Re5 Rfb8 25.Rxh5 Bg7 26.Qxh7+ Kf8 27.Ng6+ Kf7 28.Ne5+ Kf8
+29.Nxd7+ 1-0

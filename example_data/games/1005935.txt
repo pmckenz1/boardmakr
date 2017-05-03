@@ -1,0 +1,24 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "1-0"]
+[White "Adrianus M J van den Berg"]
+[Black "Ljubisa Andonovski"]
+[ECO "B30"]
+[WhiteElo "2209"]
+[BlackElo "2287"]
+[PlyCount "109"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. Bb5 Nge7 5. O-O a6 6. Bxc6
+Nxc6 7. d4 cxd4 8. Nxd4 d6 9. Re1 Be7 10. Nxc6 bxc6 11. Qg4
+Kf8 12. Qh5 h6 13. b3 Bf6 14. Bb2 Bd4 15. Rad1 e5 16. Rd3 Be6
+17. Qd1 Qf6 18. Rf3 Qe7 19. h3 Kg8 20. Ba3 Bc5 21. Qc1 Kh7
+22. Bxc5 dxc5 23. Qa3 Rhe8 24. Na4 c4 25. Qxe7 Rxe7 26. Rd1 f6
+27. Rc3 cxb3 28. cxb3 Bd7 29. Nb6 Ra7 30. f3 a5 31. Rc5 Rb7
+32. Nxd7 Rexd7 33. Rxd7 Rxd7 34. Rxa5 Rd2 35. b4 Kg6 36. Ra7
+h5 37. h4 Kh6 38. Kh2 Rb2 39. a3 Ra2 40. a4 Rb2 41. Rb7 c5
+42. b5 c4 43. a5 c3 44. b6 Ra2 45. Rc7 Rxa5 46. Rxc3 Rb5
+47. Rc6 Rb2 48. Kg1 Kh7 49. Kf1 Kh6 50. g3 Kh7 51. Ke1 Rb3
+52. Ke2 Kg6 53. Kd2 Rxf3 54. Rc3 Rf1 55. Rb3 1-0

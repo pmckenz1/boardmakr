@@ -1,0 +1,27 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.19"]
+[EventDate "1923.11.16"]
+[Round "2"]
+[Result "1-0"]
+[White "Siegfried Reginald Wolf"]
+[Black "Theodor Gruber"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 Nf6 2. d3 d5 3. e5 Nfd7 4. d4 c5 5. c3 e6 6. Nd2 Nc6
+7. Ndf3 Qb6 8. Ne2 Be7 9. g3 a5 10. Bg2 a4 11. O-O h6 12. Kh1
+Qc7 13. Ne1 b5 14. f4 Ba6 15. f5 O-O-O 16. Nf4 Nf8 17. Bh3 Kb8
+18. Nh5 g6 19. f6 gxh5 20. fxe7 Qxe7 21. Qxh5 Ng6 22. Be3 c4
+23. Nc2 Rdg8 24. Rf6 Nd8 25. Bg2 Bb7 26. Nb4 Qd7 27. g4 Ka7
+28. Bxh6 Nf8 29. Rf2 Rg6 30. g5 f5 31. exf6 Nf7 32. Qe2 Nxh6
+33. gxh6 Rgxh6 34. h3 Qf7 35. Nc2 Rxf6 36. Rxf6 Qxf6 37. Rf1
+Qe7 38. Ne3 Rh7 39. Ng4 Ng6 40. Rf6 Nf8 41. a3 Rg7 42. Qf2 Nh7
+43. Rf4 Ng5 44. Ne5 Ne4 45. Qe1 Ng3+ 46. Kh2 Nf5 47. Qf2 Kb6
+48. Rg4 Bc6 49. Qf4 Rxg4 50. Nxg4 Nh4 51. Ne5 Be8 52. Bf3 Qh7
+53. Qf6 Nxf3+ 54. Nxf3 Qc2+ 55. Kg3 Qxb2 56. Qd8+ Ka6 57. Qxe8
+Qxc3 58. Qxe6+ Ka5 59. Qe7 b4 60. Qa7+ Kb5 61. Qb7+ Ka5
+62. Qxd5+ Ka6 63. Qc6+ Ka5 64. Qc5+ Ka6 65. axb4 a3 66. b5+
+1-0

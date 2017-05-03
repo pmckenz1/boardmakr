@@ -1,0 +1,22 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Leopold Loewy, Sr."]
+[Black "Erich Cohn"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 c6
+7. Bd3 dxc4 8. Bxc4 b5 9. Bd3 a6 10. O-O Bb7 11. e4 Rc8 12. e5
+Nd5 13. Ne4 O-O 14. Rc1 f5 15. exf6 gxf6 16. Bh6 Rf7 17. Nc5
+Nxc5 18. dxc5 Bf8 19. Bd2 Qc7 20. Nd4 Qe5 21. Qg4+ Bg7
+22. Rfe1 f5 23. Rxe5 fxg4 24. Rg5 Kh8 25. Rxg4 Nf4 26. Rxf4
+Rxf4 27. Bxf4 Bxd4 28. Re1 Bxc5 29. Rxe6 Rd8 30. Bc2 Bd4
+31. Re7 Bc8 32. Rxh7+ Kg8 33. b3 Bg7 34. Kf1 c5 35. Rh5 Bd4
+36. Be5 Kf7 37. Bxd4 cxd4 38. Bf5 Bb7 39. Rh7+ Kf6 40. Rxb7
+Kxf5 41. Ke2 1-0

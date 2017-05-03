@@ -1,0 +1,27 @@
+[Event "Rosario"]
+[Site "Rosario ARG"]
+[Date "1939.09.22"]
+[EventDate "1939.09.21"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Romeo Garcia Vera"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "152"]
+
+1.Nf3 d5 2.b3 Nf6 3.Bb2 Bf5 4.g3 e6 5.Bg2 Be7 6.d3 h6 7.Nbd2
+O-O 8.O-O Nbd7 9.e3 Bh7 10.Qe2 Nc5 11.Ne5 c6 12.f4 Qc7 13.Ndf3
+Ne8 14.Ng4 Nd6 15.Nf2 Rfe8 16.g4 f6 17.h4 Nf7 18.Nd2 Bd6
+19.Nh3 e5 20.f5 e4 21.d4 Nd7 22.Nf4 Nf8 23.c4 Bxf4 24.Rxf4 g5
+25.fxg6 Nxg6 26.Rxf6 Nxh4 27.Qf2 Nxg2 28.Qxg2 Qe7 29.Raf1 Rf8
+30.Qf2 Ng5 31.Rxf8+ Rxf8 32.Qxf8+ Qxf8 33.Rxf8+ Kxf8 34.Kg2
+Kf7 35.cxd5 cxd5 36.Bc3 Bg8 37.Bb4 Kg6 38.Be7 Ne6 39.Kg3 Bf7
+40.Nb1 Be8 41.Nc3 Bc6 42.a4 a6 43.Ne2 Kf7 44.Bb4 Ng5 45.Nf4
+Nh7 46.Ba5 Ng5 47.Ng2 Nf3 48.Nh4 Nxh4 49.Kxh4 Kg6 50.Bd8 Bd7
+51.Kg3 h5 52.gxh5+ Kxh5 53.Kf4 Bc6 54.Be7 Bd7 55.Ke5 Bc6 56.b4
+Kg4 57.b5 axb5 58.axb5 Bxb5 59.Kxd5 Kf3 60.Bg5 Be8 61.Kc5 b5
+62.d5 Bd7 63.Kd4 Be8 64.Be7 Bg6 65.Bc5 Bf5 66.Kc3 Ke2 67.Bd4
+Bd7 68.Kb4 Kd3 69.Kc5 Be8 70.d6 Bd7 71.Kb6 b4 72.Kc7 Bb5 73.d7
+Bxd7 74.Kxd7 b3 75.Kd6 b2 76.Bxb2 Kxe3 1/2-1/2

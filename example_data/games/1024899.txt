@@ -1,0 +1,27 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andrei Sokolov"]
+[Black "Yuri Balashov"]
+[ECO "C75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "139"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nf6 7.O-O g6
+8.Nbd2 Qe7 9.Re1 Bg7 10.Nf1 O-O 11.h3 Rfe8 12.Ng3 b5 13.Bc2
+Na5 14.b3 c5 15.d5 Kh8 16.Be3 Ng8 17.Qd2 Qf8 18.Nh2 Bh6 19.f4
+exf4 20.Bxf4 Bxf4 21.Qxf4 f6 22.Re3 Nb7 23.Rf1 Qe7 24.Bd1 Rf8
+25.Bg4 Rae8 26.Bxd7 Qxd7 27.Ng4 Qg7 28.Ne2 Qe7 29.Qg3 Nd8
+30.Nf4 Qg7 31.b4 cxb4 32.cxb4 f5 33.exf5 gxf5 34.Nf2 Rxe3
+35.Qxe3 Qe5 36.Qd2 Nf6 37.N2d3 Qe7 38.Qf2 Re8 39.Qd4 Qe3+
+40.Qxe3 Rxe3 41.Rc1 Nf7 42.Kf2 Re8 43.Rc6 Ne5 44.Rxa6 Nxd5
+45.Rxd6 Nc3 46.Ra6 Nxd3+ 47.Nxd3 Re2+ 48.Kf3 Rd2 49.Nf4 Nxa2
+50.Ke3 Rc2 51.Nd5 Rxg2 52.Ra7 Kg8 53.Kf4 Rb2 54.Nf6+ Kf8
+55.Nxh7+ Ke8 56.Nf6+ Kf8 57.Nh7+ Ke8 58.Nf6+ Kf8 59.h4 Nxb4
+60.Nh7+ Ke8 61.Nf6+ Kf8 62.h5 Nd3+ 63.Ke3 Ne5 64.Nh7+ Kg8
+65.Nf6+ Kf8 66.h6 Rh2 67.Nh7+ Ke8 68.Nf6+ Kf8 69.Nh7+ Ke8
+70.Nf6+ 1/2-1/2

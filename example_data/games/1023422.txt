@@ -1,0 +1,20 @@
+[Event "Lvov otbor"]
+[Site "Lvov otbor"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Yuri Kruppa"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Be7 5.Nf3 Nbd7 6.e3 O-O 7.Qc2
+c5 8.O-O-O Qa5 9.Kb1 h6 10.h4 dxc4 11.Bxc4 cxd4 12.exd4 Nb6
+13.Bb3 Bd7 14.Ne5 Rfc8 15.Rh3 Bc6 16.Qe2 Bd5 17.Nxd5 Nbxd5
+18.Qf3 Rc7 19.Bc1 Rac8 20.g4 Rxc1+ 21.Rxc1 Rxc1+ 22.Kxc1 Qe1+
+23.Bd1 Bb4 24.Qe2 Qxe2 25.Bxe2 Nf4 26.Rb3 Be1 27.Rxb7 Bxf2
+28.Bd1 Bxd4 29.Rb8+ Kh7 30.Nxf7 N6d5 31.Bc2+ g6 32.Rb7 Kg7
+33.Nd8 Kf8 34.Nc6 1-0

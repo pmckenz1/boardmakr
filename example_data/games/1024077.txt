@@ -1,0 +1,20 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1968.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir T Grokhotov"]
+[Black "Yuri Balashov"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.O-O exd4 6.Nxd4 g6
+7.Bxc6 bxc6 8.f4 c5 9.Ne2 f5 10.exf5 gxf5 11.Ng3 Qf6 12.Bd2
+Bg7 13.Bc3 Qf7 14.Bxg7 Qxg7 15.Re1+ Ne7 16.Qe2 Kf8 17.c3 Re8
+18.Nd2 Qg4 19.Qc4 h5 20.b4 h4 21.Ngf1 cxb4 22.cxb4 Bc6 23.Ne3
+Qg6 24.Re2 Qf7 25.Qd4 Rg8 26.Rc1 Bb5 27.Rf2 Nc6 28.Qc3 a6
+29.Nf3 Nxb4 30.Ng5 Nxa2 31.Rxa2 Rxg5 32.fxg5 Qxa2 33.Nxf5 Re5
+34.Qxc7 Rxf5 35.Qc8+ Kg7 36.Qxf5 Qf7 37.Qe4 h3 38.Qd4+ 1-0

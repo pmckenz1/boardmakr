@@ -1,0 +1,26 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "David W Slatin"]
+[Black "Tim Mirabile"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Qc7 8. Kh1 b5 9. f3 Bb7 10. Qe1 Nbd7 11. Bg5 Be7
+12. Rd1 O-O 13. Rf2 Rfe8 14. Qd2 Rad8 15. Bf1 b4 16. Nce2 d5
+17. exd5 Nxd5 18. Bxe7 Rxe7 19. c3 bxc3 20. Nxc3 Nxc3 21. Rc1
+Nf6 22. Rxc3 Qb6 23. Rd3 Red7 24. Nb3 Rxd3 25. Bxd3 g6 26. Rf1
+Nd5 27. Qa5 Qxa5 28. Nxa5 Ne3 29. Nxb7 Rxd3 30. Rb1 Rd2 31. g3
+Nc4 32. Nc5 a5 33. b3 Ne5 34. Rf1 Rxa2 35. Kg1 Rc2 36. Nb7 Nc6
+37. Rf2 Rc1+ 38. Kg2 Rb1 39. Ra2 Rxb3 40. Nxa5 Nxa5 41. Rxa5
+Rb2+ 42. Kg1 Kg7 43. f4 h6 44. Ra7 g5 45. fxg5 hxg5 46. Rc7
+Kg6 47. h3 f5 48. Rc6 Kf6 49. Ra6 f4 50. Ra3 Kf5 51. h4 gxh4
+52. gxf4 Kxf4 53. Ra4+ Kg5 54. Ra5+ Kf6 55. Ra4 h3 56. Ra3 h2+
+57. Kh1 Rb4 58. Rf3+ Kg5 59. Kxh2 Rg4 60. Kh3 e5 61. Rg3
+1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Sergei Ljukin"]
+[Black "Vladislav Borovikov"]
+[ECO "C18"]
+[WhiteElo "2400"]
+[BlackElo "2470"]
+[PlyCount "72"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7
+7. Qg4 f5 8. Qh5+ Qf7 9. Bb5+ Bd7 10. Qxf7+ Kxf7 11. Rb1 b6
+12. dxc5 Bxb5 13. Rxb5 Nd7 14. cxb6 axb6 15. Nf3 h6 16. Be3
+Ne7 17. h4 Rxa3 18. Kd2 Rb8 19. Rhb1 Ra6 20. Bd4 Nc6 21. Kd3
+Kg6 22. Ke2 Kh5 23. g3 Ra2 24. Ne1 g5 25. hxg5 hxg5 26. Bxb6
+Ndxe5 27. Bd4 Rxb5 28. Rxb5 Nxd4+ 29. cxd4 Nc6 30. Ke3 Kg4
+31. Rb6 f4+ 32. gxf4 gxf4+ 33. Kd3 Ra1 34. Ng2 Rd1+ 35. Kc3
+Nxd4 36. Rb4 Ne2+ 0-1

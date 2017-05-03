@@ -1,0 +1,26 @@
+[Event "Canadian National Championships Toronto CAN (1"]
+[Site "Canadian National Championships Toronto CAN (1"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arniel Frialde"]
+[Black "Lawrence Day"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 c5 4.d5 Bxc3+ 5.bxc3 f5 6.h4 Qa5 7.Bd2
+Nf6 8.h5 gxh5 9.e3 d6 10.Be2 Nbd7 11.Bxh5+ Kd8 12.Nf3 Nb6
+13.Qb3 Bd7 14.a4 Rg8 15.Bf7 Rxg2 16.Be6 Qa6 17.Nh4 Rg4 18.Nxf5
+Qxc4 19.Qxc4 Nxc4 20.Ke2 Kc7 21.Rag1 Bxe6 22.dxe6 Rxg1 23.Rxg1
+Rg8 24.Ra1 Kd8 25.Be1 Ke8 26.f4 Rg6 27.Bh4 Kf8 28.Bg5 d5
+29.Rb1 b6 30.a5 Ng8 31.axb6 axb6 32.Rh1 Rxe6 33.Rxh7 Nf6
+34.Rh8+ Kf7 35.Bh6 Re4 36.Bg5 e6 37.Nh6+ Kg6 38.Bxf6 Kxf6
+39.Ng4+ Ke7 40.Rh7+ Kd6 41.Kf3 Kc6 42.Ke2 e5 43.Nxe5+ Nxe5
+44.fxe5 Rxe5 45.Kd3 Rg5 46.Rh6+ Kb5 47.Rh1 Rg2 48.Rc1 Kc6
+49.c4 dxc4 50.Rxc4 b5 51.Rh4 b4 52.e4 Kb5 53.Rh5 Rg3+ 54.Kd2
+Kc4 55.e5 Rg2+ 56.Ke3 b3 57.e6 b2 58.Rh1 Rg6 59.Kd2 Rxe6
+60.Kc2 Re2+ 61.Kb1 Kb4 62.Rh8 c4 63.Rb8+ Kc3 64.Rb3+ Kd4
+65.Rb4 Kd3 66.Rb3+ c3 0-1

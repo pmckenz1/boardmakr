@@ -1,0 +1,16 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Kurt Petzold"]
+[Black "Ernst Heilmann"]
+[ECO "D53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6
+7. Bd3 dxc4 8. Bxc4 b5 9. Bd3 a6 10. O-O Bb7 11. e4 O-O 12. e5
+Ne8 13. Ne4 c5 14. dxc5 Nxc5 15. Nxc5 Bxf3 16. Bxe7 1-0

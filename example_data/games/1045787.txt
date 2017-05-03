@@ -1,0 +1,19 @@
+[Event "Prag"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Ivan Farago"]
+[Black "Lubomir Ftacnik"]
+[ECO "D93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5
+7. dxc5 Ne4 8. Rc1 Nxc3 9. bxc3 dxc4 10. Qxd8 Rxd8 11. Bxc4
+Nc6 12. Ke2 Bd7 13. Rhd1 Rac8 14. Bb5 a6 15. Ba4 Be6 16. Bb3
+Rxd1 17. Rxd1 Bxb3 18. axb3 Bxc3 19. Rd7 Bb4 20. Rxb7 Bxc5
+21. Rc7 Rxc7 22. Bxc7 f6 23. Kd3 Kf7 24. Kc4 Ba7 25. Nd4 Nxd4
+26. exd4 Ke6 27. f3 Kd7 28. Ba5 e6 29. d5 e5 1/2-1/2

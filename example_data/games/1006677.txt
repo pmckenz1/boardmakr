@@ -1,0 +1,29 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.18"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "Ernst Gruenfeld"]
+[Black "Walter John"]
+[ECO "A93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "169"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.c4 d5 7.b3 c6
+8.Bb2 Qe8 9.Nbd2 Nbd7 10.Ne5 Qh5 11.e3 Qh6 12.Qe2 Bd6 13.f4 g6
+14.Rfc1 Qg7 15.c5 Be7 16.b4 Ne4 17.Nb3 Nxe5 18.dxe5 Bd7 19.Nd4
+g5 20.Bxe4 fxe4 21.f5 Qh6 22.f6 Bd8 23.Qg4 Kf7 24.Rf1 Bc7
+25.Nb3 Qg6 26.h3 h5 27.Qe2 Rh8 28.Bd4 Qg8 29.Qb2 Qb8 30.Qc3 h4
+31.g4 Rf8 32.Rfb1 Kg6 33.Rf1 Rf7 34.Kh1 Bd8 35.Rf2 Qc8 36.a4
+Bc7 37.Rb2 Qe8 38.Rab1 Rb8 39.Na1 a6 40.Nc2 Ra8 41.Na3 Qb8
+42.Rf2 Qa7 43.Ra2 Qb8 44.Qb2 Qe8 45.Rba1 Rf8 46.Kg1 Qb8 47.Rf1
+Qe8 48.Raa1 Rf7 49.Rab1 Qb8 50.Qc3 Qe8 51.Rb3 Rf8 52.Qb2 Rf7
+53.b5 Bc8 54.Ra1 Rf8 55.Nc2 Bd7 56.bxa6 bxa6 57.a5 Ra7 58.Rb6
+Qa8 59.Nb4 Bxb6 60.cxb6 Rb7 61.Qe2 c5 62.Bxc5 Bb5 63.Qf2 Rff7
+64.Nxd5 Qe8 65.Ne7+ Kh7 66.Rc1 Bd3 67.Qa2 Qd7 68.Bd6 Rxf6
+69.exf6 Qxd6 70.Qf2 Qa3 71.Rc7 Qa1+ 72.Kg2 Qd1 73.Rxb7 Be2
+74.Nc6 Kh6 75.Nd4 Bf3+ 76.Nxf3 exf3 77.Kh2 Qd6+ 78.Kg1 Qd1+
+79.Qf1 Qd2 80.Rc7 Qxe3+ 81.Qf2 Qa3 82.Qc2 f2 83.Qxf2 Qa1+
+84.Kg2 Qe5 85.Rc2 1-0

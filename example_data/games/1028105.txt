@@ -1,0 +1,19 @@
+[Event "Hereford BCA"]
+[Site "Hereford ENG"]
+[Date "1885.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Isidor Gunsberg"]
+[Black "Henry Edward Bird"]
+[ECO "B34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 d6 7.Nd5
+Nf6 8.Nb5 Nxd5 9.exd5 Ne5 10.Bd4 O-O 11.f4 a6 12.Nc3 Bg4
+13.Qd2 Nd7 14.Bxg7 Kxg7 15.h3 Bf5 16.g4 e5 17.gxf5 exf4
+18.O-O-O Qh4 19.Ne4 Rfe8 20.Nxd6 Re3 21.Rg1 Ne5 22.fxg6 Qf6
+23.gxf7 Kh6 24.Qf2 Ng6 25.Nc4 Re7 26.h4 b5 27.h5 Nf8 28.Rd4
+bxc4 29.Rxf4 Qe5 30.Rf6+ 1-0

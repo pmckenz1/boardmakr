@@ -1,0 +1,23 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "9"]
+[Result "1-0"]
+[White "Sandor Boros"]
+[Black "Lajos Merenyi"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. Bg5 Nbd7 6. e3 Bb4
+7. cxd5 exd5 8. Bd3 h6 9. Bh4 O-O 10. O-O Re8 11. Qc2 Qa5
+12. Bg3 Qd8 13. h3 Ba5 14. Rab1 Bc7 15. Bxc7 Qxc7 16. b4 Qd6
+17. a4 a6 18. b5 axb5 19. axb5 c5 20. dxc5 Nxc5 21. Nd4 Nxd3
+22. Qxd3 Re5 23. Ra1 Rb8 24. Nf3 Rh5 25. e4 Qf4 26. e5 Bxh3
+27. Ra4 Ne4 28. Nxd5 Qg4 29. Ne3 Nc5 30. Nxg4 Nxd3 31. gxh3
+Rxh3 32. Kg2 Rh5 33. Rd4 Nc5 34. Rh1 Rxh1 35. Kxh1 Ra8 36. Rd5
+Ne6 37. Rd7 Ra3 38. Ne3 Ra2 39. Kg1 Nf4 40. Kf1 h5 41. Rxb7
+Ra1+ 42. Ne1 h4 43. N3c2 Rb1 44. Rd7 h3 45. Kg1 Ng2 46. Kh2
+Nxe1 47. Nxe1 Rxe1 48. b6 Rb1 49. b7 Kh7 50. Rxf7 1-0

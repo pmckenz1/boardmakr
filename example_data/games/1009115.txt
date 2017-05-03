@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Matthias Mueller"]
+[Black "Peter Koehn"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qd2
+bxc6 7. Bd3 Ne7 8. O-O O-O 9. Nc3 d6 10. e5 Qh4 11. Ne4 Bd4
+12. Qg5 Qxg5 13. Bxg5 f6 14. exf6 gxf6 15. Bh6 Rf7 16. c3 Bb6
+17. Rfe1 Bf5 18. Rad1 Bg6 19. Ng3 Kh8 20. Rd2 Ng8 21. Bf4 Ne7
+22. Bc4 d5 23. Ba6 c5 24. h4 c4 25. Rde2 Ng8 26. Re6 Kg7
+27. h5 Bc2 28. Bb5 Rff8 29. Bc6 Rad8 30. Be3 Kf7 31. Bd4 Bxd4
+32. cxd4 Be4 33. Nxe4 Kxe6 34. Ng5+ Kf5 35. Ne6 Rd6 36. Nxf8
+Rxc6 37. Nd7 Re6 38. g4+ 1-0

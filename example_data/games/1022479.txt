@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Isle of Man (Great Britain)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Julian Michael Hodgson"]
+[Black "Alexander Baburin"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 d5 2.Bg5 h6 3.Bh4 c6 4.Nf3 Qb6 5.b3 a5 6.a3 Bf5 7.c4 e6
+8.Nc3 Nd7 9.Na4 Qa7 10.e3 Be7 11.Bxe7 Nxe7 12.Bd3 Bxd3 13.Qxd3
+O-O 14.O-O Qa6 15.Rfc1 Rfc8 16.Qf1 b6 17.cxd5 Qxf1+ 18.Kxf1
+cxd5 19.Ke2 f6 20.Nc3 Rc6 21.Kd2 Rac8 22.Nb5 Rxc1 23.Rxc1 Rxc1
+24.Kxc1 Nc8 25.Ng1 Kf7 26.Ne2 Ke7 27.Nec3 Nf8 28.Kd2 1/2-1/2

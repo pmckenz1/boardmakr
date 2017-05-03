@@ -1,0 +1,22 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Neil Berry"]
+[Black "Paul Motwani"]
+[ECO "D33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. Nf3 d5 2. d4 c5 3. c4 e6 4. cxd5 exd5 5. Nc3 Nc6 6. g3 c4
+7. Bg2 Bb4 8. O-O Nge7 9. Ne5 O-O 10. f4 Be6 11. Be3 Rc8
+12. Bf2 f6 13. Nxc6 Rxc6 14. e4 Bxc3 15. bxc3 dxe4 16. Bxe4
+Bd5 17. Re1 Bxe4 18. Rxe4 Nd5 19. Be1 Re8 20. Qe2 Rxe4
+21. Qxe4 Qd7 22. f5 Rb6 23. Qe2 h6 24. g4 Qc6 25. Qd2 a5
+26. Bg3 a4 27. Re1 a3 28. Qe2 Rb2 29. Qe6+ Kh7 30. g5 fxg5
+31. Qe4 Nf6 32. Qxc6 bxc6 33. Re7 Rxa2 34. Be5 Kg8 35. Ra7
+Ra1+ 36. Kg2 a2 37. Kf3 Rf1+ 38. Ke2 a1=Q 39. Rxa1 Rxa1
+40. Bxf6 gxf6 41. Kf3 Kf7 42. Kg4 Rc1 0-1

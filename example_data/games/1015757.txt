@@ -1,0 +1,17 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN "]
+[Date "1976.12.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Gyozo Victor Forintos"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7
+7.O-O Ngf6 8.Nxf6+ Nxf6 9.Ne5 Qxd4 10.Nxc6 bxc6 11.Qf3 Qd5
+12.Qg3 Bd6 13.Qh4 Rb8 14.b3 Rg8 15.Bb2 Rb4 16.Bc4 Qf5 17.a3
+Rb6 1/2-1/2

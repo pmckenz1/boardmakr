@@ -1,0 +1,23 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Phillip Viner"]
+[Black "Christopher Morrison"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4
+Be6 7. Bxe6 fxe6 8. Nf3 Nc6 9. O-O Bd6 10. Re1 Ke7 11. Be3 Bb4
+12. Re2 Bxc3 13. Bc5+ Kf7 14. bxc3 b6 15. Ba3 h6 16. c4 Rhd8
+17. Bb2 Nd7 18. Kf1 Na5 19. Bxe5 c5 20. Rd1 Nxe5 21. Rxd8 Rxd8
+22. Nxe5+ Kf6 23. f4 Rd1+ 24. Kf2 g5 25. g3 h5 26. c3 Rh1
+27. Ke3 Rd1 28. Rd2 Rxd2 29. Kxd2 h4 30. Kd3 hxg3 31. hxg3
+gxf4 32. gxf4 Ke7 33. Ng4 Nb7 34. e5 Kf7 35. Ne3 Kg6 36. Ke2
+Na5 37. Kf2 Nc6 38. Kf3 Na5 39. Ke4 a6 40. f5+ exf5+ 41. Kf4
+b5 42. cxb5 axb5 43. Nxf5 b4 44. cxb4 cxb4 45. Nd6 b3 46. axb3
+Nxb3 47. Ke4 Nc5+ 48. Kd5 Nd3 1/2-1/2

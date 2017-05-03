@@ -1,0 +1,16 @@
+[Event "Katrineholm (Sweden)"]
+[Site "It"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ralf Akesson"]
+[Black "Nigel Rodney Davies"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2
+Be7 8.O-O O-O 9.Nc3 Na6 10.Qc2 d5 11.cxd5 exd5 12.Rfd1 h6
+13.Bf4 Qd7 14.a3 c5 1/2-1/2

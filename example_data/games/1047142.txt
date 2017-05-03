@@ -1,0 +1,19 @@
+[Event "Tournament"]
+[Site "Baku (Azerbaijan)"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Oleg Pavlenko"]
+[Black "Nona Gaprindashvili"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.Nf3 Bg7 6.e4 O-O 7.Be2 Na6
+8.O-O Nc7 9.Bf4 a6 10.a4 b6 11.h4 Bd7 12.Re1 Rb8 13.e5 Nfe8
+14.Qd2 b5 15.axb5 axb5 16.Bh6 bxc4 17.Bxc4 f6 18.exf6 exf6
+19.Re2 Rf7 20.Rae1 Bxh6 21.Qxh6 Ng7 22.Ne4 Nce8 23.g4 g5
+24.Nfxg5 fxg5 25.Nxg5 Nf5 26.gxf5 Rg7 27.Rxe8+ Bxe8 28.f6 Ra7
+29.Ne6 1-0

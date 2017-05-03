@@ -1,0 +1,22 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1935.01.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Claret"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 exd4 6. Qxd4
+Nf6 7. e5 Nd5 8. O-O Be7 9. c4 Nb4 10. Na3 O-O 11. Bd2 c5
+12. Qe4 Rb8 13. Bc3 f5 14. exf6 Bxf6 15. Bxf6 Qxf6 16. Qe5 d6
+17. Qxf6 Rxf6 18. Nd2 Bf5 19. b3 Re8 20. Rae1 Rfe6 21. Nf3
+Rxe1 22. Rxe1 Rxe1+ 23. Nxe1 Nxa2 24. Nac2 Bxc2 25. Nxc2 a5
+26. Kf1 Nc1 27. Na1 Kf7 28. Ke1 Nd3+ 29. Ke2 Nb4 30. f4 h5
+31. g3 Kf6 32. Kf3 g5 33. fxg5+ Kxg5 34. h3 c6 35. Ke4 d5+
+36. cxd5 cxd5+ 37. Ke5 d4 38. Ke4 d3 39. Ke3 Kf5 40. Kf3 Nc2
+41. g4+ hxg4+ 42. hxg4+ Kg5 43. b4 axb4 44. Nb3 Nd4+ 0-1

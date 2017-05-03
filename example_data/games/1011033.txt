@@ -1,0 +1,19 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Flemming Christenson"]
+[Black "Leif Erlend Johannessen"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+
+7. Qxc3 Ne4 8. Qc2 O-O 9. e3 f5 10. Bd3 d6 11. b4 Nd7 12. Bb2
+a5 13. O-O Kh8 14. Rad1 Qe7 15. Nd2 Nxd2 16. Rxd2 axb4
+17. axb4 Qg5 18. f4 Qe7 19. e4 fxe4 20. Bxe4 Bxe4 21. Qxe4 Nf6
+22. Qc6 d5 23. c5 Ne4 24. Re2 Rab8 25. f5 bxc5 26. bxc5 Rf6
+27. Bc1 Qf7 28. Bf4 e5 0-1

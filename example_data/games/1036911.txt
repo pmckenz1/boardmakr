@@ -1,0 +1,20 @@
+[Event "Portugal"]
+[Site "Portugal"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Jose Pereira Santos"]
+[Black "Nigel Rodney Davies"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.Bg5 c5 6.e3 cxd4 7.Nxd4
+Nc6 8.Be2 Qa5 9.Bxf6 Bxf6 10.Qd2 Nxd4 11.exd4 Bg5 12.Qc2 d6
+13.O-O Be6 14.b4 Qb6 15.d5 Bf5 16.Bd3 Bd7 17.Ne4 Bh6 18.c5
+Qxb4 19.Rab1 Qd4 20.Rxb7 Bf5 21.Rxe7 dxc5 22.Rd1 Rab8 23.h3
+Rfd8 24.d6 Rb4 25.g4 Be6 26.Rxa7 c4 27.Bf1 Qxa7 28.Qc3 Ra4
+29.Nf6+ Kh8 30.Ne8 Kg8 31.Nf6+ Kh8 32.Ne8 Kg8 33.Nf6+ Kh8
+34.Ne8 Kg8 35.Nf6+ Kf8 36.Nxh7+ Kg8 37.Nf6+ Kh8 38.Ne8 1/2-1/2

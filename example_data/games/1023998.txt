@@ -1,0 +1,25 @@
+[Event "Jyvskyl HOF,It Ope"]
+[Site "3"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Leo Tolonen"]
+[Black "Vladimir Bagirov"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.Nf3 d5 2.b3 Bg4 3.e3 e6 4.Bb2 Nf6 5.h3 Bh5 6.d3 c5 7.Nbd2
+Nc6 8.g4 Bg6 9.Nh4 d4 10.Nxg6 hxg6 11.Bg2 Nd5 12.Qe2 Be7
+13.O-O-O Rc8 14.Bxd5 Qxd5 15.e4 Qd6 16.Kb1 b5 17.Nf3 e5 18.h4
+Kd7 19.Bc1 Nd8 20.Qe1 Ne6 21.g5 Bd8 22.Qg1 Ba5 23.Qg3 Bc7
+24.Bb2 Nf4 25.c3 Nh5 26.Qh2 Qe6 27.b4 dxc3 28.Bxc3 cxb4
+29.Bxe5 b3 30.Bxc7 Rxc7 31.Ne5+ Kc8 32.Rc1 bxa2 33.Kb2 Qd6
+34.Rxc7+ Qxc7 35.f4 Kb7 36.Kxa2 Rc8 37.Qb2 Qa5+ 38.Kb1 Nxf4
+39.Rf1 Qa4 40.Qa2 Qb4+ 41.Qb2 Qxb2+ 42.Kxb2 f6 43.gxf6 gxf6
+44.Rxf4 fxe5 45.Rf7+ Rc7 46.Rf6 Rc6 47.Rf7+ Kb6 48.Re7 a5
+49.Rxe5 a4 50.Re8 Ka5 51.Rd8 Rf6 52.Rc8 Kb4 53.e5 a3 54.Ka1
+Rf1+ 55.Ka2 Rf2+ 56.Kb1 Kb3 57.Rc1 Re2 58.d4 b4 59.Rd1 a2
+60.Ka1 Ka3 0-1

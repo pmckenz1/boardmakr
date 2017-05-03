@@ -1,0 +1,18 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Ram Soffer"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.Nf3 d5 2.c4 d4 3.g3 Nc6 4.Bg2 e5 5.O-O Nf6 6.d3 a5 7.Na3 Bc5
+8.Nb5 Bf5 9.Nh4 Be6 10.f4 Ng4 11.Nf3 e4 12.Ng5 e3 13.a3 O-O
+14.b4 axb4 15.Bb2 bxa3 16.Nxa3 Qd7 17.Qb3 Bb6 18.Nc2 h6
+19.Nxe6 fxe6 20.Rxa8 Rxa8 21.f5 Rf8 22.Rf4 Nf6 23.c5 Bxc5
+24.fxe6 Qe7 25.Bxc6 bxc6 26.Nxd4 Nd5 27.Nf5 Qxe6 1/2-1/2

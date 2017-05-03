@@ -1,0 +1,24 @@
+[Event "Voronezh (Russia)"]
+[Site "Voronezh (Russia)"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Igor Arkadievich Zaitsev"]
+[Black "Roman Dzindzichashvili"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 c4 7.Nbd2 Na5
+8.Be2 Bd7 9.Nf1 Ne7 10.Ne3 Qb3 11.Qd2 Qb6 12.Qc2 Qb3 13.Qb1
+Qb6 14.Nd2 Ng6 15.Qc2 O-O-O 16.g3 f6 17.exf6 gxf6 18.O-O Bd6
+19.Bh5 Ne7 20.Ng4 Rdf8 21.Nf3 Nb3 22.Rb1 Nxc1 23.Qxc1 Nf5
+24.Ne3 Ng7 25.Bg4 Qc7 26.Bh3 Kb8 27.Re1 Be8 28.Nh4 f5 29.Neg2
+f4 30.Bxe6 f3 31.Bxd5 fxg2 32.Bxg2 Bg6 33.Nxg6 hxg6 34.Qc2 Nf5
+35.Qe4 Qh7 36.h3 Qf7 37.Qf3 Re8 38.g4 Nh6 39.Qd5 Bf4 40.Qb5 a6
+41.Qb6 Qc7 42.Rxe8+ Rxe8 43.Qxg6 Re2 44.Qf6 Ka7 45.g5 Ng8
+46.Qf5 Ne7 47.Qg4 Rc2 48.g6 Rc1+ 49.Rxc1 Bxc1 50.d5 Qe5 51.Qe4
+Qxe4 52.Bxe4 Kb6 53.d6 Nxg6 54.Bxg6 Kc6 55.Be4+ Kxd6 56.Bxb7
+Bxb2 57.Kf1 a5 58.Ke2 Bxc3 59.Kd1 Bb2 60.a4 Bf6 61.f4 1/2-1/2

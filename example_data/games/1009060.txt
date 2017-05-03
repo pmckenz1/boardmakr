@@ -1,0 +1,15 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Istvan Csom"]
+[Black "Andras Toth"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Ne7 6. O-O
+Bf5 7. Bxf5 Nxf5 8. Bf4 O-O 9. c3 Bxf4 10. Nxf4 c6 1/2-1/2

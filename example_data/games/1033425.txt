@@ -1,0 +1,20 @@
+[Event "10s, It op General Pico City ARG"]
+[Site "10s, It op General Pico City ARG Hiarcs 7.32"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alfredo Gustavo Giaccio"]
+[Black "Fernando Braga"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4
+Qb6 7. Nb3 e6 8. g4 Nxe4 9. Nxe4 d5 10. Be3 Qb4+ 11. Nbd2 dxc4
+12. a4 f5 13. gxf5 exf5 14. Nf6+ gxf6 15. Qh5+ Kd8 16. O-O-O
+Kc7 17. Qf7+ Qe7 18. Bf4+ Ne5 19. Qxc4+ Kb8 20. Rhe1 Bg7
+21. Nf3 Re8 22. Rd5 Bh6 23. Bxh6 Nxc4 24. Rxe7 Rxe7 25. Bf4+
+Ne5 26. Nxe5 fxe5 27. Rxe5 Rc7 28. Rc5 a6 29. Bxc7+ Ka7 30. a5
+b5 31. Bb6+ 1-0

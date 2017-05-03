@@ -1,0 +1,25 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest (Hungary)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Vladimir Bukal Sr"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3
+Nbc6 8.a4 Qa5 9.Bd2 Bd7 10.Be2 Qc7 11.O-O f6 12.Bf4 Ng6 13.Bg3
+f5 14.h4 Nge7 15.Qc1 cxd4 16.cxd4 Rc8 17.h5 h6 18.Bf4 O-O
+19.c3 Na5 20.Qa3 Be8 21.Nd2 Rf7 22.Rfc1 Nc4 23.Qa2 Kh7 24.Rab1
+Nxd2 25.Bxd2 Nc6 26.Bf4 Na5 27.Bd3 Kh8 28.Rb4 Qd8 29.Qd2 Qh4
+30.Be2 Rfc7 31.Bxh6 gxh6 32.Qxh6+ Kg8 33.Qxe6+ Bf7 34.Qxf5
+Rxc3 35.Rd1 R8c6 36.Rb5 b6 37.g3 Qe7 38.Kg2 a6 39.Rbb1 Nc4
+40.Bd3 Rh6 41.g4 Be6 42.Qf4 Qg7 43.Bf5 Bxf5 44.Qxf5 Qf7
+45.Qxf7+ Kxf7 46.Rh1 Rc6 47.g5 Nd2 48.g6+ Kg8 49.Rbd1 Ne4
+50.Rh4 Rc2 51.Rf4 R6c3 52.e6 Rg3+ 53.Kf1 Rg5 54.Rxe4 dxe4
+55.e7 Rc8 56.d5 Re8 57.d6 Re5 58.h6 e3 59.fxe3 Rxe3 60.d7
+R3xe7 61.dxe8=Q+ Rxe8 62.Rd7 1-0

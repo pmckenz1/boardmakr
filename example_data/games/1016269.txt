@@ -1,0 +1,16 @@
+[Event "Reggio"]
+[Site "Reggio Emilia ITA"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jan Timman"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nxc3
+7.bxc3 e4 8.Ng1 f5 9.Nh3 g5 10.O-O Bg7 11.d4 h6 12.Qb3 Na5
+13.Qb4 Nc6 14.Qb3 Na5 15.Qb4 Nc6 16.Qb3 1/2-1/2

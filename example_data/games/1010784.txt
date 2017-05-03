@@ -1,0 +1,22 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Leonid Patsuk"]
+[Black "Alexander Gelman"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. Nf3 d6 2. d4 g6 3. e3 Bg7 4. c4 Nd7 5. Nc3 Ngf6 6. Be2 O-O
+7. O-O e5 8. b3 Re8 9. Bb2 e4 10. Nd2 Nf8 11. h3 h5 12. Qc2
+Bf5 13. Nd5 N6h7 14. Nc3 Qh4 15. Qd1 Rad8 16. Qe1 Qg5 17. Kh2
+c6 18. Nd1 Qe7 19. a4 Ng5 20. f4 exf3 21. Nxf3 Nfh7 22. Nxg5
+Nxg5 23. Bxh5 c5 24. Qf2 Bd3 25. Be2 Bxe2 26. Qxe2 cxd4 27. h4
+Ne4 28. Qg4 d3 29. Bxg7 Kxg7 30. Ra2 d5 31. Nf2 dxc4 32. bxc4
+Nc3 33. Rb2 d2 34. Rb3 Qe5+ 35. g3 b6 36. Qf3 Re7 37. Ng4 Qf5
+38. Qxf5 gxf5 39. Rxc3 d1=Q 40. Rxd1 Rxd1 41. Nf2 Ra1 42. Kg2
+Rxa4 43. c5 Rc7 44. Nd3 bxc5 45. Kf3 c4 0-1

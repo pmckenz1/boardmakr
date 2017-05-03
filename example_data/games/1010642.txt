@@ -1,0 +1,19 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Alexander Ianovsky"]
+[Black "Alexandar G Panchenko"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. Bb2 Be7 5. g3 O-O 6. Bg2 a5
+7. Nc3 c6 8. d4 Nbd7 9. O-O b6 10. e4 Nxe4 11. Nxe4 dxe4
+12. Ne5 Nxe5 13. dxe5 e3 14. Qxd8 exf2+ 15. Kxf2 Rxd8 16. Bxc6
+Rb8 17. Rad1 Ba6 18. a4 Bc5+ 19. Ke2 Kf8 20. Bc1 h6 21. g4 Rd4
+22. Be3 Rxg4 23. Rd7 Be7 24. Ra7 Bc8 25. Bc1 Rd4 26. Bb2 Rh4
+27. Rxe7 Rxh2+ 28. Ke1 f5 29. Ba3 Kg8 30. Bd6 1-0

@@ -1,0 +1,17 @@
+[Event "Prag"]
+[Site "Prag"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Alexander Chernin"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5
+7. e4 cxd4 8. Nxd4 Bc5 9. N4b3 Be7 10. O-O Qc7 11. Re1 d6
+12. Nd4 O-O 13. b3 a6 14. Bb2 Nbd7 15. Qe2 Rfe8 16. Rac1 Bf8
+17. Kh1 Rac8 18. Nc2 1/2-1/2

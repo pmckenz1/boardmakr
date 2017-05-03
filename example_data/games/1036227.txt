@@ -1,0 +1,17 @@
+[Event "Merano"]
+[Site "Merano"]
+[Date "1899.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arthur Kaufmann"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nc3 Nc6 3.f4 Bc5 4.fxe5 d6 5.e6 Nf6 6.Nf3 O-O 7.d4
+Bb4 8.d5 Ne5 9.Nxe5 dxe5 10.exf7 Rxf7 11.Bg5 h6 12.Bxf6 Qxf6
+13.Qd2 Bg4 14.Bc4 b5 15.Rf1 bxc4 16.Rxf6 Rxf6 17.h3 Raf8
+18.hxg4 Rf1+ 19.Ke2 R8f2+ 20.Ke3 Bc5+ 21.Qd4 Bxd4# 0-1

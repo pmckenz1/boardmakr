@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Erno Gereben"]
+[Black "Laszlo Szabo"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6
+7. Be3 Bg7 8. O-O O-O 9. Kh1 Bd7 10. f4 a6 11. a4 Rc8 12. Nb3
+Na5 13. Nxa5 Qxa5 14. Bf3 Rc4 15. Qe2 Rfc8 16. e5 dxe5
+17. fxe5 Qxe5 1/2-1/2

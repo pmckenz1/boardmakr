@@ -1,0 +1,18 @@
+[Event "Wijk aan Zee II"]
+[Site "Wijk aan Zee II"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Peter Richard Markland"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 exd4 6.Nxd4 g6 7.O-O
+Bg7 8.Bxc6 bxc6 9.f4 c5 10.Nde2 Ne7 11.f5 gxf5 12.Ng3 f4
+13.Nh5 Bd4+ 14.Kh1 Ng6 15.Nd5 Bc6 16.Bxf4 Nxf4 17.Rxf4 Bxd5
+18.exd5 Bxb2 19.Qe2+ Be5 20.Ng7+ Ke7 21.Raf1 Rf8 22.Rh4 Rh8
+23.Rhf4 Rf8 24.Qe4 Qc8 25.Ne6 Qa6 26.Nxc7 Qc8 27.Nxa8 1-0

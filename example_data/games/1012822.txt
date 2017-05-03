@@ -1,0 +1,15 @@
+[Event "Berne"]
+[Site "Bern SUI"]
+[Date "1932.07.30"]
+[EventDate "1932.07.16"]
+[Round "15"]
+[Result "0-1"]
+[White "Benoit Colin"]
+[Black "Alexander Alekhine"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. cxd5 Nxd5 6. Nxd5
+Qxd5 7. e3 Nc6 8. Bb5 cxd4 9. Qxd4 Qxb5 0-1

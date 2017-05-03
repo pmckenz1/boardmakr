@@ -1,0 +1,20 @@
+[Event "Bs As GP II"]
+[Site "Bs As GP II"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Jose Aquino"]
+[Black "Andres Rodriguez Vila"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nf3 Nf6 4.Nc3 Qa5 5.d3 Bg4 6.Be2 Nbd7
+7.h3 Bh5 8.Nd4 Bxe2 9.Qxe2 c6 10.Bd2 Qc7 11.O-O-O O-O-O
+12.Rhe1 e6 13.Nb3 Bd6 14.Ne4 Be7 15.Qe3 Nxe4 16.dxe4 c5 17.Bc3
+e5 18.Rd5 Bd6 19.Ba5 b6 20.Bc3 c4 21.Na1 Rhe8 22.Qg5 g6
+23.Red1 Re6 24.f3 Nf6 25.R5d2 Rde8 26.a3 Ng8 27.Bb4 Bxb4
+28.axb4 f6 29.Qe3 Ne7 30.c3 f5 31.Nc2 f4 32.Qe2 b5 33.Qf2 a6
+34.Qc5 Rc6 35.Qf2 h5 36.g3 g5 1/2-1/2

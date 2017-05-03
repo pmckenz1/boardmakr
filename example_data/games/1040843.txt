@@ -1,0 +1,22 @@
+[Event "Krefeld"]
+[Site "09"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Hugo Hussong"]
+[ECO "A86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 f5 2.c4 Nf6 3.g3 d6 4.Nf3 Nc6 5.Bf4 h6 6.h4 Ng4 7.Bh3 g6
+8.d5 Nce5 9.Bxg4 Nxg4 10.Nd4 e5 11.dxe6 Qe7 12.Qa4+ Kd8 13.Nc3
+Bxe6 14.c5 dxc5 15.Nxe6+ Qxe6 16.Rd1+ Bd6 17.Bxd6 cxd6 18.Nb5
+d5 19.Qc4 Nf6 20.Nc3 Rh7 21.Qxc5 Re7 22.O-O b6 23.Qb5 Rd7
+24.Rd4 Rc8 25.Rfd1 Rc5 26.Qd3 Ke8 27.Qd2 h5 28.Qf4 Rc4 29.R1d3
+Kf7 30.f3 Rxd4 31.Qxd4 Qd6 32.Kf2 Qc5 33.e3 Qxd4 34.Rxd4 Rc7
+35.Ke2 Ke6 36.Kd2 Rg7 37.Ne2 g5 38.hxg5 Rxg5 39.Ke1 Rg7 40.Rf4
+Rc7 41.Nd4+ Kf7 42.Kd2 Rc5 43.Rxf5 Ra5 44.a3 Ra4 45.Ne2 Ke6
+46.Rg5 Rg4 47.Nf4+ Ke7 48.Re5+ 1-0

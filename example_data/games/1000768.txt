@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.07"]
+[EventDate "1911.08.21"]
+[Round "13"]
+[Result "1-0"]
+[White "Paul Saladin Leonhardt"]
+[Black "Semion Alapin"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 d5 2.c4 c6 3.e3 e6 4.Nc3 Nf6 5.Bd3 Nbd7 6.Nf3 Be7 7.O-O
+O-O 8.Qc2 Re8 9.e4 dxc4 10.Bxc4 Nf8 11.Bg5 h6 12.Be3 Qc7
+13.Rad1 Bd7 14.Qc1 b5 15.Bd3 b4 16.Ne2 Qa5 17.Ne5 N6h7 18.Nxd7
+Nxd7 19.Qxc6 Nb6 20.Nc1 Rec8 21.Qb7 Bf8 22.e5 g6 23.Qe4 Nd5
+24.h4 h5 25.g4 hxg4 26.Qxg4 Bg7 27.h5 gxh5 28.Bxh7+ Kxh7
+29.Qxh5+ Kg8 30.Kh2 f5 31.Bh6 Bxh6 32.Qxh6 Kf7 33.Rg1 Ne7
+34.Qh5+ 1-0

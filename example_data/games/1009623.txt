@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Annett Wagner-Michel"]
+[Black "Gundula Heinatz"]
+[ECO "B31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 O-O
+7. h3 Nd4 8. Nxd4 cxd4 9. Nd5 e5 10. c3 Nxd5 11. exd5 dxc3
+12. dxc3 d6 13. a4 f5 14. f4 a6 15. Bc4 Qh4 16. Rf1 g5 17. Be3
+gxf4 18. Bf2 Qg5 19. Kh1 Kh8 20. Rg1 Rg8 21. Bf1 Bf6 22. c4
+Rg7 23. b4 Bd7 24. Ra3 e4 25. Bd4 Rag8 26. Qa1 Bxd4 27. Qxd4
+f3 28. g3 Re8 29. h4 Qg4 30. Kh2 e3 31. Qxg4 fxg4 32. Bd3 f2
+0-1

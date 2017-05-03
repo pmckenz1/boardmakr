@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Julian Michael Hodgson"]
+[Black "Daniel Gormally"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2
+Nb6 7. Rb1 a5 8. O-O Be7 9. d3 O-O 10. Be3 Be6 11. Bxb6 cxb6
+12. Rc1 Rc8 13. Qa4 f6 14. Rfd1 Nd4 15. Nxd4 Qxd4 16. Bd5 Bxd5
+17. Qxd4 exd4 18. Nxd5 Bc5 19. Nf4 Kf7 20. Ng2 g5 21. Ne1 g4
+22. Ng2 Rfd8 23. Rc2 b5 24. Rdc1 b6 25. Nf4 b4 26. Kg2 a4
+27. e4 b3 28. axb3 axb3 29. Rc4 Ra8 30. h3 gxh3+ 31. Kxh3 Ra2
+32. Rb1 Rc8 33. Kg4 b5 34. Rcc1 Rca8 35. Rh1 Rg8+ 36. Kf3 Rh8
+37. Rh5 1-0

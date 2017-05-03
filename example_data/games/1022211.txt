@@ -1,0 +1,19 @@
+[Event "It (festival)"]
+[Site "Budapest HUN"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Zoran Mijailovic"]
+[Black "Alexander Baburin"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.Nf3 d5 2.c4 e6 3.d4 Nf6 4.Nc3 dxc4 5.e3 a6 6.Bxc4 c5 7.a3 b5
+8.Ba2 Bb7 9.dxc5 Qxd1+ 10.Kxd1 Bxc5 11.b4 Bd6 12.Bb2 Nbd7
+13.Ke2 Ke7 14.Rac1 Nb6 15.Nd4 Rhc8 16.f3 Rc7 17.e4 Rac8 18.Ke3
+Nfd7 19.Nce2 Ne5 20.Rxc7+ Bxc7 21.Bc1 Nbc4+ 22.Bxc4 Nxc4+
+23.Kf2 Bb6 24.Kg3 Rd8 25.Rd1 g6 26.e5 Nxe5 27.Bg5+ f6 28.Bc1
+Nc4 29.f4 Rd5 30.h3 e5 31.fxe5 fxe5 0-1

@@ -1,0 +1,16 @@
+[Event "Sochi"]
+[Site "Sochi URS"]
+[Date "1980.09.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Nukhim N Rashkovsky"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 a5 5.g3 b6 6.Bg2 Ba6 7.Ne5
+Bxd2+ 8.Nxd2 Ra7 9.Ne4 O-O 10.Nxf6+ Qxf6 11.Ng4 Qe7 12.Ne3 c6
+13.O-O d5 1/2-1/2

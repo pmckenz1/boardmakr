@@ -1,0 +1,23 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.18"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "Allan Nilsson"]
+[Black "Anton Olson"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 a6 7.Rc1
+O-O 8.cxd5 exd5 9.Bd3 c6 10.O-O Re8 11.Bf4 Nf8 12.Qb3 Bd6
+13.Bxd6 Qxd6 14.Ne5 Re7 15.Na4 Rb8 16.Nb6 Be6 17.Qc2 Ng4
+18.Nf3 Ng6 19.Qc5 Qc7 20.h3 Nf6 21.a4 Rbe8 22.b4 Qd8 23.b5
+axb5 24.axb5 Rc7 25.Bxg6 hxg6 26.Ne5 Ne4 27.Qb4 cxb5 28.Qxb5
+Rxc1 29.Rxc1 Rf8 30.Na4 Nd6 31.Qb4 b5 32.Nc5 Qc7 33.Ncd3 Qb8
+34.Nf4 Re8 35.Rc5 Qa8 36.Rc1 Qa6 37.Nxe6 Rxe6 38.Kh2 Ne4
+39.Nd3 Rf6 40.Rb1 Qa2 41.Qxb5 Kh7 42.Qb3 Qe2 43.Qd1 Qa2 44.Ra1
+Qd2 45.Qxd2 Nxd2 46.Ra5 Rd6 47.Nf4 Ne4 48.f3 Nf6 49.h4 Kh6
+50.Ra7 Nd7 51.Ra8 Kh7 52.Rd8 1-0

@@ -1,0 +1,18 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Anh Dung Nguyen"]
+[Black "Matthias Roeder"]
+[ECO "B90"]
+[WhiteElo "2485"]
+[BlackElo "2445"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nb3 Be6 8. Qd2 Be7 9. f3 O-O 10. O-O-O b5 11. g4 Nbd7
+12. g5 b4 13. Nd5 Nxd5 14. exd5 Bf5 15. Rg1 a5 16. Kb1 a4
+17. Nc1 Qa5 18. Bd3 Bxd3 19. Qxd3 Nc5 20. Bxc5 Qxc5 21. Rg4
+Rfc8 22. h4 Ra7 1/2-1/2

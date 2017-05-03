@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Gary W Lane"]
+[Black "Paul Dempsey"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7
+7. Nf3 e6 8. Bd3 Be7 9. O-O b5 10. Qe1 Bb7 11. e5 Nfd7 12. Qg3
+g6 13. Ne4 d5 14. Neg5 Qb6+ 15. Kh1 Nc6 16. c3 b4 17. Bd2 Nf8
+18. Rae1 Bc5 19. c4 d4 20. Ne4 O-O-O 21. Nfg5 Rd7 22. Qh3 Nd8
+23. Nf6 Re7 24. Nd5 Bxd5 25. cxd5 Kb8 26. d6 Ra7 27. Ne4 Nd7
+28. Rc1 h6 29. Rc4 Nb7 30. Nxc5 Ndxc5 31. Rxb4 Qc6 32. Rxd4
+Rc8 33. Qe3 Nxd3 34. Rxd3 Nc5 35. Rc3 1-0

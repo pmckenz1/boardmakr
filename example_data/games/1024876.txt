@@ -1,0 +1,20 @@
+[Event "Lvov URS ch"]
+[Site "16"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Adrian Mikhalchishin"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 O-O 9.O-O Nc6 10.Be3 Qc7 11.Rc1 Rd8 12.Bf4 Qd7
+13.d5 Na5 14.Bb3 c4 15.Bc2 e6 16.dxe6 fxe6 17.Bg5 Rf8 18.Rb1
+b6 19.Nd4 h6 20.Be3 e5 21.Nb5 Qe7 22.Qd6 Qxd6 23.Nxd6 Bd7
+24.Rfd1 Bc6 25.h4 Rfd8 26.h5 Bf8 27.Nb5 Rxd1+ 28.Bxd1 Bxe4
+29.Rb2 gxh5 30.Bxh5 Nc6 31.Nc7 Rd8 32.Ne6 Ba3 33.Rb5 Rd6
+34.Nc7 Bg6 1/2-1/2

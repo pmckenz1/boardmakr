@@ -1,0 +1,17 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Peter Lukacs"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.g3 d5 2.Bg2 Nf6 3.Nf3 c6 4.b3 Bg4 5.Bb2 Nbd7 6.O-O e6 7.d4
+Bd6 8.c4 O-O 9.Nbd2 Qe7 10.Re1 Rfd8 11.a3 a5 12.Ne5 Bf5
+13.Ndf3 h6 14.c5 Bxe5 15.dxe5 Ne8 16.b4 Be4 17.Bf1 Nc7 18.Nd2
+Bh7 19.Nb3 axb4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Thomas J Beckman"]
+[Black "Leonid Filatov"]
+[ECO "D43"]
+[WhiteElo "2108"]
+[BlackElo "2301"]
+[PlyCount "77"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. Nc3 c6 5. cxd5 exd5 6. Bg5 Be7
+7. e3 Bf5 8. Bxf6 Bxf6 9. Bd3 Bxd3 10. Qxd3 Nd7 11. O-O O-O
+12. b4 Nb6 13. Nd2 a6 14. a4 Be7 15. b5 cxb5 16. axb5 a5
+17. Na4 Nxa4 18. Rxa4 Qd7 19. f3 b6 20. e4 Bb4 21. Rd1 Rac8
+22. Nf1 Rc3 23. Qe2 Re8 24. e5 f6 25. f4 Qf5 26. Qa2 Rd8
+27. Ng3 Qxf4 28. exf6 Rc1 29. Rxc1 Qxc1+ 30. Nf1 gxf6 31. Qe2
+Qc8 32. Qf2 Qe6 33. Ra2 Re8 34. Rc2 Qe4 35. Qg3+ Kh8 36. Qf2
+f5 37. Ng3 Qd3 38. Rc7 Qe3 39. Nxf5 0-1

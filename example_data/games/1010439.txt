@@ -1,0 +1,18 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "16"]
+[Result "0-1"]
+[White "Ravi Gopal Hegde"]
+[Black "Krishnan Sasikiran"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. g3 g6 6. Bg2 Bg7
+7. O-O O-O 8. Ne5 Be6 9. f4 Nfd7 10. Be3 Na6 11. Bf2 Nxe5
+12. dxe5 Qxd1 13. Rfxd1 f6 14. exf6 exf6 15. Rd6 Rfe8 16. Rad1
+f5 17. e4 Bf8 18. exf5 gxf5 19. Rxe6 Rxe6 20. Rd2 Nc5 21. Rd4
+Nd3 22. Rxc4 Nxf2 23. Kxf2 Rd8 24. g4 Rd2+ 0-1

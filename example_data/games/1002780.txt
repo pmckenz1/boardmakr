@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.14"]
+[EventDate "1897.09.13"]
+[Round "2"]
+[Result "0-1"]
+[White "Adolf Julius Zinkl"]
+[Black "Karl August Walbrodt"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5
+7. Qg4 g6 8. Nf3 Qb6 9. Bd3 Nc6 10. h4 h5 11. Qh3 Nb4 12. g4
+Nxd3+ 13. cxd3 Be3 14. Ke2 Bxc1 15. Rhxc1 Qxb2+ 16. Nd2 Qb4
+17. Qg3 a6 18. Rab1 Qe7 19. g5 O-O 20. d4 b5 21. f5 Nb6 22. f6
+Qa7 23. Nf1 Kh7 24. Qd3 Rh8 25. Ng3 Kg8 26. Ke1 Nc4 27. Nce2
+Bd7 28. Nf4 Be8 29. Rd1 Qc7 30. Kf2 a5 31. Rg1 Rc8 32. Rbc1 b4
+33. Ngxh5 Qb6 34. Kf3 a4 35. Ng3 Rxh4 36. Rh1 Rxh1 37. Rxh1
+Nxe5+ 38. dxe5 Rc3 39. Kg4 Rxd3 40. Nxd3 Qd4+ 41. Nf4 Qxe5
+42. Rc1 Qd6 43. Rc8 Qd7 0-1

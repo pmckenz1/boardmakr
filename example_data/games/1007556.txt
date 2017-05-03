@@ -1,0 +1,21 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.14"]
+[EventDate "1926.03.07"]
+[Round "6"]
+[Result "1-0"]
+[White "Arpad Vajda"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 dxc4 5. e3 b5 6. a4 b4
+7. Nb1 e6 8. Bxc4 Be7 9. O-O O-O 10. Qe2 Nbd7 11. Nbd2 c5
+12. Rd1 Qc7 13. Bd3 Bb7 14. Nc4 Ng4 15. h3 Bxf3 16. Qxf3 Qh2+
+17. Kf1 f5 18. hxg4 fxg4 19. Qxg4 Bh4 20. f4 cxd4 21. Qxe6+
+Kh8 22. Qh3 Bg3 23. Qxh2 Bxh2 24. g3 Bxg3 25. Kg2 Bh4 26. exd4
+Bf6 27. Be3 Nb6 28. Nxb6 axb6 29. b3 Rae8 30. Bf2 Rd8 31. Bb5
+Rd6 32. Rac1 g5 33. fxg5 Rg8 34. Rc6 Bxg5 35. Rxd6 Bf4+
+36. Kh1 Bxd6 37. d5 Rb8 38. Rg1 Bc5 39. Bxc5 bxc5 40. d6 1-0

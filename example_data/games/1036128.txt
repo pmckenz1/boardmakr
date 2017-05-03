@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1895.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rudolf Rezso Charousek"]
+[Black "Geza Maroczy"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Bb5+ c6 5.dxc6 Nxc6 6.d4 Qa5+
+7.Nc3 Bb4 8.Bd2 Nf6 9.Bxc6+ bxc6 10.Nge2 O-O 11.a3 Bxc3
+12.Nxc3 Qb6 13.Ne2 Bg4 14.c3 e3 15.Bc1 Nd5 16.O-O Qa6 0-1

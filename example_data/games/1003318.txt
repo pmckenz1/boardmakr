@@ -1,0 +1,26 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Erich Cohn"]
+[Black "R K Kieseritsky"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Bg4 6. Be2 e6
+7. Ne5 Bxe2 8. Qxe2 Nf6 9. O-O Nbd7 10. Re1 Bb4 11. Bd2 Rd8
+12. Rad1 O-O 13. a3 Be7 14. Qf3 Qb6 15. Bc1 Qc7 16. Nc4 Nd5
+17. Ne4 b5 18. Ne3 N7b6 19. Nf1 Nc4 20. Nc5 Qb6 21. b3 Nd6
+22. Nd2 a5 23. c4 Nf6 24. Nce4 Ndxe4 25. Nxe4 bxc4 26. bxc4
+Rxd4 27. Rxd4 Qxd4 28. Nxf6+ Bxf6 29. Qxc6 Qc3 30. Rf1 Rb8
+31. h3 g5 32. Qc5 h6 33. Be3 Bg7 34. Qc7 Be5 35. Qc5 Rd8
+36. Qe7 Bf6 37. Qc7 Qxa3 38. c5 Rd5 39. c6 Be5 40. Qb7 Qd6
+41. Bb6 Rd1 42. g3 Rxf1+ 43. Kxf1 Qd1+ 44. Kg2 Qd5+ 45. Kh2
+Kg7 46. Qd7 a4 47. Qxd5 exd5 48. c7 Bxc7 49. Bxc7 a3 50. Be5+
+Kg6 51. g4 f5 52. Kg3 fxg4 53. hxg4 Kf7 54. Kf3 Ke6 55. Bd4
+Kd6 56. Ke3 Kc6 57. Kd3 Kb5 58. Kc3 Ka4 59. Bg7 Kb5 60. Kb3 a2
+61. Kxa2 Kc4 62. Bxh6 d4 63. Bxg5 1-0

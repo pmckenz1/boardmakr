@@ -1,0 +1,21 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Janos Gajdos"]
+[Black "Ernst Heilmann"]
+[ECO "C70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 Bc5
+7. O-O Nge7 8. c3 dxc3 9. Nxc3 O-O 10. Bb3+ Kh8 11. Ng5 Qe8
+12. Nxh7 Kxh7 13. Qf3 d5 14. exd6 Ng8 15. Bxg8+ Rxg8 16. Qh3+
+Kg6 17. Bf4 Be6 18. Rfe1 Qd7 19. dxc7 Ne7 20. Rad1 Qc6 21. Rd2
+Rae8 22. Rde2 Nd5 23. Nxd5 Bxd5 24. g4 Kf7 25. Qh7 Rxe2
+26. Qxf5+ Qf6 27. Qxd5+ Qe6 28. Qxe6+ Rxe6 29. Rd1 Be7 30. Rd7
+Rc6 31. Bg5 Re8 32. c8=Q Rcxc8 33. Rxb7 Rb8 34. Ra7 Rxb2
+35. Bxe7 Rxe7 36. Rxa6 Re1+ 37. Kg2 Ree2 0-1

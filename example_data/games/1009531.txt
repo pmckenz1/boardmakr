@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Kai Wesseln"]
+[Black "Joerg Gruenenwald"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 Nc6
+7. O-O Nd7 8. c4 e5 9. Bh2 exd4 10. exd4 Qf6 11. d5 Nd4
+12. Nc3 Nxe2+ 13. Qxe2 Nc5 14. b4 Na6 15. Nb5 Bd7 16. Rac1
+Rfe8 17. Qd2 Bxh3 18. c5 Rad8 19. cxd6 cxd6 20. Nxd6 Re7
+21. Nc4 Bd7 22. Be5 Rxe5 23. Nfxe5 Be6 24. Rfd1 Rxd5 25. Qe1
+h5 26. Rxd5 Bxd5 27. Nd3 Qd4 28. Nde5 Qf4 29. g3 Qf5 30. b5
+Qh3 31. f3 Nc5 32. Rd1 Be6 33. Rd4 Bf6 34. Rf4 Kg7 35. Nd6 Bg5
+36. Nexf7 Bxf4 37. Qa1+ Kf8 38. Qh8+ Ke7 39. Qd8# 1-0

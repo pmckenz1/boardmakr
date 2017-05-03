@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.12.06"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Steen Fedder"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.Be2
+Qc7 8.g4 Be7 9.g5 Nfd7 10.h4 Nc6 11.f4 Na5 12.Nb3 b5 13.Qd4
+Rg8 14.O-O-O Rb8 15.Kb1 Nc6 16.Qd2 Nc5 17.e5 Nxb3 18.axb3 d5
+19.Bf3 Bb4 20.Qd3 Ne7 21.Na2 Bc5 22.Bxc5 Qxc5 23.Qxh7 Bb7
+24.h5 Kd7 25.Qd3 Rbd8 26.Nc3 Kc7 27.Ne2 Rh8 28.Nd4 Nc6 29.c3
+Nxd4 30.cxd4 Qb4 31.Rc1+ Kb6 32.Rc3 Rc8 33.Rhc1 Rxc3 34.Rxc3
+Bc6 35.Qd2 a5 36.Kc1 Bd7 37.Bd1 Bc6 38.Qe3 Bd7 39.Rc5 Bc6
+40.Bf3 Bd7 1-0

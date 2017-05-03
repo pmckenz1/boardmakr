@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Gyula Sax"]
+[Black "Lubomir Ftacnik"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5
+7. Nf3 Nbd7 8. a4 Be7 9. Bd3 O-O 10. O-O Nc5 11. Kh1 d5
+12. Nxe5 dxe4 13. Bc4 Be6 14. Qe2 Bxc4 15. Nxc4 Rc8 16. Be3
+Qc7 17. b3 Ncd7 18. Rad1 Bb4 19. Nd5 Nxd5 20. Rxd5 Nf6 21. Rg5
+h6 22. Rf5 Qc6 23. Bd4 Qd7 24. Rxf6 Qxd4 25. Rf5 Rcd8 26. Re5
+Rfe8 27. h3 Rxe5 28. fxe5 b5 29. axb5 axb5 30. Nd6 Bxd6
+31. exd6 Qxd6 32. Qxe4 Qd5 33. Qxd5 Rxd5 34. c4 Rd3 35. cxb5
+Rxb3 36. Rf5 g6 37. Rc5 h5 38. Kg1 h4 39. Rc4 Rxb5 1/2-1/2

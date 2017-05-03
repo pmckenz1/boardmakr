@@ -1,0 +1,21 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Zoltan Varga"]
+[Black "Alexander Chernin"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. Bxc4 b5
+7. Bd3 Bb7 8. Qe2 b4 9. Na4 Qd5 10. O-O Nbd7 11. b3 Be7
+12. Bb2 O-O 13. Rac1 Rfc8 14. Rfd1 Qh5 15. Ne5 Qxe2 16. Bxe2
+Kf8 17. Nc6 a5 18. Bf3 Nd5 19. e4 N5b6 20. Nxe7 Kxe7 21. Nc5
+Ra7 22. d5 Nxc5 23. Rxc5 Kd6 24. Rdc1 Nd7 25. e5+ Nxe5
+26. Bxe5+ Kxe5 27. Rxc7 Rxc7 28. Rxc7 exd5 29. Rxf7 g5
+30. Rxh7 Kd6 31. g3 Kc6 32. h4 gxh4 33. gxh4 a4 34. bxa4 Ra8
+35. Bxd5+ Kxd5 36. Rxb7 1-0

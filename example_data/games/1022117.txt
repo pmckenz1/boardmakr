@@ -1,0 +1,20 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nikolai Vekshenkov"]
+[Black "Alexander Baburin"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 d5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.c4 O-O 6.Qc2 c5 7.O-O
+cxd4 8.Nxd4 Nc6 9.Nxc6 bxc6 10.b3 e5 11.Bb2 e4 12.Nc3 Be6
+13.Rfd1 Qb8 14.Rac1 Rc8 15.Na4 h5 16.Bd4 h4 17.Qd2 hxg3
+18.hxg3 Ng4 19.Qb2 Bd6 20.cxd5 cxd5 21.Rxc8+ Bxc8 22.Qc3 Ba6
+23.Bxg7 e3 24.f4 Bxf4 25.Rd4 Qb5 26.Rxf4 Qxe2 27.Bh6 Nxh6
+28.Qf6 Qd1+ 29.Kh2 Qh5+ 30.Kg1 e2 31.Qe7 Bb5 32.g4 Nxg4 33.Bh3
+Qxh3 34.Qxf7+ Kh8 0-1

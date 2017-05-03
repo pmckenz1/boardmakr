@@ -1,0 +1,20 @@
+[Event "Simul, 29b"]
+[Site "Maribor YUG"]
+[Date "1930.12.13"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Bogomir Stupan"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3
+Nd7 7. h4 h6 8. Bd3 Bxd3 9. Qxd3 Qc7 10. Bd2 Ngf6 11. O-O-O e6
+12. Rhe1 O-O-O 13. Kb1 Bd6 14. Ne4 Nxe4 15. Qxe4 Nf6 16. Qe2
+Kb8 17. Ne5 Bxe5 18. dxe5 Nd5 19. c4 Ne7 20. Qf3 Nf5 21. h5 c5
+22. g4 Nd4 23. Qe4 Rd7 24. f4 Rhd8 25. Bc3 Nb5 26. Rc1 Nxc3+
+27. Rxc3 Rd1+ 28. Rxd1 Rxd1+ 29. Kc2 Rd4 30. Qe3 Qc6 31. g5
+Qg2+ 32. Kb3 Rd2 33. Rc1 Rxb2+ 34. Kc3 Rxa2 35. Kd3 Rf2 0-1

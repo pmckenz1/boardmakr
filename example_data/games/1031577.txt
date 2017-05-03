@@ -1,0 +1,23 @@
+[Event "New York (USA)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Kiti Grosar"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.Nc3 Nc6 6.Bg5 Be7
+7.Bxe7 Ngxe7 8.e3 cxd4 9.Nxd4 O-O 10.Be2 Qb6 11.Nxc6 bxc6
+12.Qd2 c5 13.O-O Rb8 14.b3 Qb4 15.Rfd1 Rd8 16.Rac1 Be6 17.Na4
+c4 18.Qxb4 Rxb4 19.Rxc4 Rxc4 20.Bxc4 Rc8 21.Bd3 Bd7 22.Nb2 g6
+23.Kf1 a5 24.Ke2 f6 25.Kd2 Kf7 26.Rc1 Rxc1 27.Kxc1 Ke6 28.Kd2
+Kd6 29.Kc3 Bc6 30.g3 Bb7 31.a3 Nc6 32.f4 Nb8 33.b4 axb4
+34.axb4 Nd7 35.Na4 Bc6 36.b5 Bb7 37.g4 Ba8 38.h4 Bb7 39.Kd4
+Nf8 40.Nc5 Bc8 41.f5 g5 42.hxg5 fxg5 43.b6 Kc6 44.b7 Bxb7
+45.Nxb7 Kxb7 46.Kxd5 Kc7 47.e4 Kd7 48.e5 Ke7 49.f6+ Kf7 50.Kd6
+h6 51.Bc4+ Kg6 52.Ke7 1-0

@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Genadi A Ageichenko"]
+[Black "Vadim Zaitsev"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. Ne5
+Nc6 7. Bf4 Nxd4 8. Bc4 Be6 9. Ne2 Bxc4 10. Nxd4 Qd5 11. Qd2
+Qe4+ 12. Qe3 Qxe3+ 13. Bxe3 Bd5 14. f3 b6 15. c4 Bb7 16. Ndc6
+e6 17. Rc1 Ng8 18. c5 f6 19. cxb6 fxe5 20. bxc7 Bxc6 21. Rxc6
+Kd7 22. Rc4 Bd6 23. Ke2 Ne7 24. f4 Rac8 25. fxe5 Bxe5 26. Rd1+
+Nd5 27. Ra4 Rxc7 28. Rxa6 Rc2+ 29. Kf3 Bxb2 30. Ra7+ 0-1

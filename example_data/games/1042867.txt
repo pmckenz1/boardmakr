@@ -1,0 +1,23 @@
+[Event "Lentzerheide"]
+[Site "Lenzerheide SUI"]
+[Date "1956.03.16"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Harry Golombek"]
+[ECO "E38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Qa5 6. Bd2
+Qxc5 7. a3 Bxc3 8. Qxc3 O-O 9. f3 d5 10. cxd5 Qxc3 11. Bxc3
+Nxd5 12. Bd2 f5 13. e3 Bd7 14. Ne2 Nc6 15. Nc3 Nce7 16. Rd1
+Rfd8 17. Bc4 Rac8 18. Bb3 Kf7 19. Nxd5 exd5 20. Bc3 Bb5
+21. Kf2 Bc4 22. Bc2 g6 23. h4 Ke6 24. h5 g5 25. h6 Ba6 26. Rh5
+Rg8 27. Rd2 g4 28. e4 dxe4 29. fxe4 g3+ 30. Ke3 Rgf8 31. Rd4
+f4+ 32. Kf3 Nc6 33. Bb3+ Ke7 34. Rdd5 Bf1 35. Rh1 Ba6 36. Rhd1
+Rc7 37. Rg5 Ke8 38. Rd6 Rd7 39. Rxd7 Kxd7 40. Rg7+ Kd6
+41. Rxh7 Ne5+ 42. Bxe5+ Kxe5 43. Re7+ Kd6 44. Re6+ Kd7 45. h7
+Bf1 46. Rh6 1-0

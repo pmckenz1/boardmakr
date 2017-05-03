@@ -1,0 +1,22 @@
+[Event "Breslau"]
+[Site "Breslau GER"]
+[Date "1889.07.16"]
+[EventDate "1889.07.15"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Johann Hermann Bauer"]
+[Black "Emmanuel Schiffers"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 f5 2.Bg5 h6 3.Bh4 g5 4.Bg3 Bg7 5.e3 Nf6 6.c3 d5 7.Bd3 Nc6
+8.Na3 a6 9.Nf3 Ne4 10.Bxe4 fxe4 11.Nd2 h5 12.h4 g4 13.Nc2 e5
+14.Qe2 O-O 15.O-O-O exd4 16.cxd4 Bf5 17.Nb3 Qe7 18.Kb1 Na7
+19.Rc1 c6 20.Qe1 Nc8 21.Qb4 Qxb4 22.Nxb4 a5 23.Nc2 Rf7 24.Ka1
+a4 25.Nd2 Ra5 26.b4 axb3 27.Nxb3 Ra4 28.Nc5 Ra8 29.Kb1 b6
+30.Nb3 Bf8 31.Nca1 Bd7 32.Rc2 Na7 33.a4 Be8 34.Rhc1 Ba3 35.Rd1
+Nc8 36.a5 bxa5 37.Nc5 Bxc5 38.Rxc5 Nb6 39.Ka2 Na4 40.Rc2 Rb7
+41.Nb3 Rb4 42.Bd6 Ra7 43.g3 Rab7 44.Nc5 Nxc5 45.Bxc5 Rb3
+46.Ba3 a4 47.Rdd2 1/2-1/2

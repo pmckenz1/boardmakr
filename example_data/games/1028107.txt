@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1886.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Henry Edward Bird"]
+[Black "Joseph Henry Blackburne"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.f4 {Notes by Blackburne.} e5 2.fxe5 d6 3.exd6 Bxd6 4.Nf3 Nf6
+5.d4 Ng4 6.Bg5 f6 7.Bh4 g5 8.Bf2 Nxf2 9.Kxf2 g4 10.Nh4 f5
+11.g3 f4 12.Qd3 O-O 13.Qb3+ {Mr. Bird and I played many games
+at this opening, and many followed the same lines.} Kh8 14.Kg1
+Qf6 15.Bg2 fxg3 {Stronger than Qxd4+.} 16.hxg3 Qf2+ 17.Kh2 Rf3
+0-1

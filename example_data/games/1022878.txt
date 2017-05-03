@@ -1,0 +1,16 @@
+[Event "USSR Championship 1968/69"]
+[Site "Alma Ata (RUS)"]
+[Date "1968.??.??"]
+[EventDate "1968.??.??"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lev Polugaevsky"]
+[Black "Vladimir Bagirov"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6
+7.cxd5 Nxd4 8.Nge2 Nf5 9.Qd2 h6 10.Bxf6 exf6 11.Ng3 Bd6
+12.Bb5+ Kf8 13.Nge4 Be5 14.O-O g6 15.a4 a6 1/2-1/2

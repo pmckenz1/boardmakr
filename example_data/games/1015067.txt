@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Adelaide (Australia)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Zigurds Lanka"]
+[Black "Utut Adianto"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Be6 7.a3
+Qd7 8.b4 dxc4 9.Bxf6 gxf6 10.d5 O-O-O 11.Bxc4 Ne5 12.Bb5 Qc7
+13.Nge2 Rg8 14.f4 a6 15.fxe5 axb5 16.Qd4 Rxg2 17.Rc1 Bh6
+18.Nxb5 Qxc1+ 19.Nxc1 Rc2 20.d6 fxe5 21.Qxe5 exd6 22.Qe4 Rxc1+
+23.Kf2 Rc4 24.Nd4 Bg7 25.Rd1 Be5 26.Qe3 Bg4 27.Rc1 Rxc1
+28.Qxc1+ Kb8 29.Qg5 Bxd4+ 30.Kg2 Rc8 31.Qxg4 Be5 32.h4 Rc3
+33.Qg8+ Ka7 34.Qxh7 Rxa3 35.Qxf7 Rg3+ 36.Kf2 Rg4 37.Qc7 Rg7
+38.Qa5+ Kb8 39.Qd8+ Ka7 40.b5 Bd4+ 41.Kf3 Rf7+ 42.Ke4 Bf2
+43.h5 Rh7 44.Qg5 Rc7 45.Qf6 Bg3 46.b6+ Kxb6 47.Qb2+ 1-0

@@ -1,0 +1,24 @@
+[Event "Debrecen (Hungary)"]
+[Site "Debrecen (Hungary)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Vereslav Eingorn"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.d4 e6 2.c4 Bb4+ 3.Bd2 a5 4.Nc3 Nf6 5.e3 O-O 6.Bd3 d5 7.Nf3
+b6 8.O-O Bb7 9.a3 Be7 10.cxd5 exd5 11.Ne5 c5 12.Re1 Nc6 13.Qf3
+Bd6 14.Ng4 Nxg4 15.Qxg4 Ne7 16.Qh3 f5 17.f4 c4 18.Bc2 Qd7
+19.a4 Bb4 20.Nb1 Bc6 21.Bc3 b5 22.axb5 Bxb5 23.Nd2 Qd6 24.Ra2
+Ra6 25.Rea1 Qe6 26.Kf2 Bxc3 27.bxc3 a4 28.Nf3 h6 29.Ne5 Ng6
+30.Ke2 Nxe5 31.fxe5 Bd7 32.Rd1 a3 33.Qf3 Rb8 34.Kd2 g6 35.Rda1
+Rba8 36.Rb1 Ra5 37.h3 h5 38.Qf4 Rb5 39.Rba1 Qe7 40.Qh6 Rb6
+41.Rf1 Raa6 42.Rg1 Bc8 43.Qf4 Kg7 44.Qf3 Be6 45.g3 Ra7 46.Qf4
+Rb8 47.h4 Rb6 48.Qg5 Qxg5 49.hxg5 Rba6 50.Rb1 Kf7 51.Bd1 Bd7
+52.Bf3 Ke6 53.Rb8 Ra8 54.Rb7 R8a7 55.Rb8 Ra8 56.Rb4 Bc6 57.Ke2
+R8a7 58.Kd2 Rb7 59.Rxb7 1/2-1/2

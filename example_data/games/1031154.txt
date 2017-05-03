@@ -1,0 +1,27 @@
+[Event "Ch Argentina (match)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1948.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Julio Bolbochan"]
+[Black "Hector Decio Rossetto"]
+[ECO "B71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 Nc6 7.Nxc6
+bxc6 8.e5 dxe5 9.Qxd8+ Kxd8 10.fxe5 Ng4 11.Bf4 Bg7 12.O-O-O
+Bd7 13.Re1 g5 14.Bxg5 Nxe5 15.Ne4 h6 16.Bd2 Ng6 17.Bc4 Rb8
+18.Ba5+ Ke8 19.Nd6+ Kf8 20.Nxf7 Bxb2+ 21.Kd2 Rh7 22.Rhf1 Bf6
+23.Nd6 Kg7 24.Ne4 Bd4 25.Bc3 Bxc3+ 26.Kxc3 Rf8 27.Rxf8 Kxf8
+28.Nc5 Bc8 29.g3 h5 30.Ne6+ Ke8 31.Bd3 Rh6 32.Bf5 Bd7 33.Ng7+
+Kd8 34.Bxd7 Rh7 35.Bf5 Rxg7 36.Re6 Nf8 37.Rxc6 Ke8 38.Kd3 Kf7
+39.Ra6 Rg5 40.Ke4 e6 41.Rxa7+ Kf6 42.Bh3 Re5+ 43.Kd3 Ng6 44.a4
+h4 45.Ra6 hxg3 46.hxg3 Nf8 47.Ra8 Ng6 48.Ra6 Nf8 49.a5 Rg5
+50.g4 Ng6 51.Ke3 Re5+ 52.Kd2 Rd5+ 53.Kc3 Nf4 54.Bf1 Rg5 55.Bc4
+Rxg4 56.Rb6 Ke5 57.a6 Nd5+ 58.Bxd5 Kxd5 59.Kb3 Rg1 60.Kb2 Rg4
+61.Kb3 Rg1 62.Rb5+ Kc6 63.Ra5 Rg8 64.Kb4 Rb8+ 65.Kc4 Ra8
+66.Re5 Kd6 67.Ra5 Kc6 68.a7 Kb6 69.Re5 Rc8+ 70.Kb4 Kxa7 71.c4
+Re8 1/2-1/2

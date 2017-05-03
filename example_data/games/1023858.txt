@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Szombathely (Hungary)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Florin Felecan"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.h3 O-O 6.Be3 c5 7.dxc5
+Qa5 8.Bd3 dxc5 9.O-O Rd8 10.Qe2 Nc6 11.Bc4 Nd4 12.Bxd4 cxd4
+13.Nb5 Nh5 14.e5 Nf4 15.Qe4 Be6 16.b3 Bxc4 17.bxc4 Nd5
+18.Nfxd4 Nc3 19.Qxb7 Rab8 20.Nc6 Rxb7 21.Nxa5 Ne2+ 22.Kh1 Rbd7
+23.Nc6 Rc8 24.Nbxa7 Ra8 25.Nb5 Rc8 26.Na5 Bxe5 27.Rad1 Rcd8
+28.Rxd7 Rxd7 29.Re1 Rd2 30.c5 Rxc2 31.c6 f6 32.a4 1/2-1/2

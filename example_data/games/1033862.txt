@@ -1,0 +1,17 @@
+[Event "Zurich Candidates"]
+[Site "Zurich SUI"]
+[Date "1953.09.09"]
+[EventDate "1953.08.30"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Gideon Stahlberg"]
+[Black "David Bronstein"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. Nc3 d5
+7. Qa4+ c6 8. cxd5 exd5 9. O-O O-O 10. Qc2 c5 11. b3 Nc6
+12. a3 h6 13. Bb2 cxd4 14. exd4 a6 15. Rfe1 b5 16. Qd1 Re8
+17. Rc1 Bd6 1/2-1/2

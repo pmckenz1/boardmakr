@@ -1,0 +1,22 @@
+[Event "Russia"]
+[Site "Match, Leningrad"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Nil Panchenko"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Qe7 7.O-O
+Bxd2 8.Qxd2 O-O 9.Nc3 d6 10.Qc2 Nbd7 11.e4 e5 12.Rad1 Rfd8
+13.Rfe1 c6 14.Nh4 Qf8 15.Bh3 exd4 16.Rxd4 Ne5 17.Qe2 Re8
+18.Nf5 d5 19.cxd5 cxd5 20.Bg2 dxe4 21.Nxe4 Nxe4 22.Bxe4 Nc6
+23.Rdd1 Rad8 24.Qf3 Ne5 25.Qg2 Nd3 26.Re3 Nf4 27.Rxd8 Rxd8
+28.Qf1 Bxe4 29.Rxe4 Nd3 30.Ne7+ Kh8 31.Nc6 Rc8 32.Qxd3 Rxc6
+33.Qd7 Re6 34.Rxe6 fxe6 35.Qxa7 Qd8 36.Qf7 Qc8 37.h4 h6 38.Qf4
+Kg8 39.a4 Qc5 40.b4 Qd5 41.Qb8+ Kf7 42.Qxb6 Qd1+ 43.Kg2 Qxa4
+44.Qb7+ Ke8 45.b5 Qd4 46.b6 Qd7 47.Qa8+ 1-0

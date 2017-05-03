@@ -1,0 +1,16 @@
+[Event "Venetie"]
+[Site "Venice ITA"]
+[Date "1974.11.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Jan Timman"]
+[Black "Ulf Andersson"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6 6.Bb5 Bd6
+7.O-O Ne7 8.dxc5 Bxc5 9.Nb3 Bd6 10.c3 O-O 11.Nbd4 Bg4 12.Qa4
+Qd7 1/2-1/2

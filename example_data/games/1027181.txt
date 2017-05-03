@@ -1,0 +1,23 @@
+[Event "01, 6/93-53 ICS Heid"]
+[Site "01, 6/93-53 ICS Heid"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Deep Thought (Computer)"]
+[Black "Joel Benjamin"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 d6 7.O-O
+Nf6 8.Kh1 Be7 9.f4 O-O 10.Nxc6 bxc6 11.e5 dxe5 12.fxe5 Qxd1
+13.Rxd1 Nd5 14.Ne4 c5 15.Nd6 Bd7 16.c4 Nb4 17.Bd3 Nxd3 18.Rxd3
+Bc6 19.Be3 f6 20.b3 fxe5 21.Rad1 Rf6 22.Bxc5 Raf8 23.Kg1 e4
+24.R3d2 Rf5 25.Be3 Ra5 26.Rb2 Bf6 27.Rf2 Be5 28.Rxf8+ Kxf8
+29.Rf1+ Ke7 30.Nc8+ Ke8 31.a4 Bc7 32.Na7 Bd7 33.c5 e5 34.Rc1
+Be6 35.Nc6 Bxb3 36.Nxa5 Bxa5 37.c6 Kd8 38.Rb1 Bc4 39.Rb7 Bc3
+40.Rd7+ Kc8 41.Bb6 Bd4+ 42.Bxd4 exd4 43.Rxd4 Bb3 44.Rxe4 Kc7
+45.Rb4 Bd1 46.Rb7+ Kxc6 47.Rxg7 Bxa4 48.Rxh7 a5 49.Rh6+ Kc5
+50.Rh5+ Kb4 51.Rh4+ Kb3 52.Rxa4 Kxa4 53.h4 1-0

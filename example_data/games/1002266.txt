@@ -1,0 +1,24 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.23"]
+[EventDate "?"]
+[Round "24"]
+[Result "1-0"]
+[White "James Moore Hanham"]
+[Black "Nicholas MacLeod"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 {Notes by Steinitz} e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3
+O-O 6.O-O a6 {?} 7.d4 exd4 8.cxd4 Ba7 9.e5 Ne8 10.Bg5 Ne7
+11.Nc3 h6 12.Bh4 g5 13.Bg3 Nf5 14.d5 h5 {!} 15.Qc2 Neg7 {!}
+16.Bd3 d6 17.exd6 cxd6 18.Ne4 h4 {!} 19.Nfxg5 hxg3 20.hxg3
+Nxg3 {!} 21.Qc3 Nxf1 {? Black had defended remarkably well and
+should have won easily but for this error, Nxe4 followed by
+f5, would have broken the adverse attack, and Black remained a
+piece ahead.} 22.Nf6+ {!} Kh8 23.Rxf1 Bd7 24.Qc4 Nf5 25.Bxf5
+Bxf5 26.Qh4+ Kg7 27.Nh5+ Kg8 28.Re1 Bg6 {? f6 was better.}
+29.Qg4 Qb6 {? f5 would have won still.} 30.Ne4 Qxb2 31.Qg5 Kh7
+32.Nef6+ Qxf6 33.Nxf6+ 1-0

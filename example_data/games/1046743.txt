@@ -1,0 +1,20 @@
+[Event "Moscow UURSO"]
+[Site "Moscow <URS>"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Sergey Smagin"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.Nf3 e6 2.g3 d5 3.Bg2 c5 4.c4 dxc4 5.Na3 a6 6.Nxc4 b5 7.Ne3
+Bb7 8.a4 Nd7 9.O-O Ngf6 10.d4 Qb6 11.b3 Be7 12.Ba3 O-O 13.Qb1
+Be4 14.Qa2 Rfc8 15.Rfd1 Bf8 16.Ne5 Bxg2 17.Nxd7 Nxd7 18.Nxg2
+bxa4 19.bxa4 cxd4 20.Rab1 Qa7 21.Bxf8 Nxf8 22.Rb4 e5 23.e3 Ne6
+24.a5 Rab8 25.Rc4 Rc5 26.Rdc1 Rbb5 27.Qa4 Rxc4 28.Qxc4 Rc5
+29.Qf1 Rxc1 30.Qxc1 Qc5 31.Qb1 g6 32.exd4 exd4 33.Nf4 Nxf4
+34.Qb8+ Kg7 35.Qxf4 d3 36.h4 h5 37.Qb8 Qc3 0-1

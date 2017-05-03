@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Saint Martin (France & Netherl)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Mark Shmulevich"]
+[ECO "A97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.c4 d6 7.Nc3
+Qe8 8.Re1 Qg6 9.Bg5 c6 10.e4 h6 11.exf5 Qxf5 12.Be3 Qh5 13.Nh4
+Qxd1 14.Raxd1 g5 15.Ng6 Rf7 16.d5 exd5 17.Bxg5 Bd8 18.Bxf6
+Bxf6 19.Re8+ Kg7 20.Rxc8 Kxg6 21.cxd5 c5 22.Nb5 Bxb2 23.Nxd6
+Rd7 24.Be4+ Kf6 25.Ne8+ Ke5 26.Bg2 c4 27.f4+ 1-0

@@ -1,0 +1,20 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1962.02.18"]
+[EventDate "1962.??.??"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Julio Bolbochan"]
+[Black "Rudolf Teschner"]
+[ECO "C82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Bc5 10.Qe2 O-O 11.Be3 f6 12.Nbd2 Nxd2
+13.Qxd2 Bxe3 14.Qxe3 Nxe5 15.Nxe5 fxe5 16.Qxe5 Qd7 17.Rae1 Rf6
+18.Qd4 c6 19.Bc2 Qd6 20.b4 a5 21.a3 Bf5 22.Bxf5 Rxf5 23.f4
+Raf8 24.g3 Qf6 25.Kg2 Qxd4 26.cxd4 axb4 27.axb4 Ra8 28.Ra1
+Rff8 29.Rfc1 Rxa1 30.Rxa1 Re8 31.Kf3 Re4 32.Rd1 h5 33.h3 Kf7
+34.Rd3 Kf8 35.g4 hxg4 36.hxg4 Kf7 37.g5 g6 38.Kg4 Kg7 1/2-1/2

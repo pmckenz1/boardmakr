@@ -1,0 +1,22 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.25"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Lev Gutman"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.e4 Nxc3
+7.bxc3 c5 8.Be3 Bg4 9.Be2 Nc6 10.Rb1 Bxf3 11.gxf3 cxd4 12.cxd4
+Bxd4 13.Rxb7 O-O 14.O-O Qa5 15.Bxd4 Rad8 16.Rb5 Rxd4 17.Rxa5
+Rxd1 18.Rxd1 Nxa5 19.Rd7 e6 20.Rxa7 Nc6 21.Ra3 Rb8 22.Rc3 Nd4
+23.Bf1 Rb2 24.a3 Kg7 25.Kg2 g5 26.Bc4 Rb1 27.Bd3 Ra1 28.e5 Re1
+29.Rc4 Nb3 30.Re4 Ra1 31.Rg4 Nc5 32.Bb5 h6 33.f4 Rxa3 34.fxg5
+hxg5 35.Rxg5+ Kh6 36.Rg4 Rb3 37.Be8 Nd3 38.f4 Rb8 39.Bc6 Rb2+
+40.Kg3 Rb3 41.Rh4+ Kg7 42.Rg4+ Kh6 43.Kg2 Rb4 44.Kf3 Nxe5+
+45.fxe5 Rxg4 46.Kxg4 f6 1/2-1/2

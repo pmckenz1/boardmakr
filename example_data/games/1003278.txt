@@ -1,0 +1,24 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "R K Kieseritsky"]
+[Black "Janos Gajdos"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O
+7. Qc2 Re8 8. Rc1 c6 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7
+12. a3 Nxc3 13. Qxc3 Nb6 14. Bd3 Nd5 15. Qc2 Nf6 16. e4 Nd7
+17. e5 Nf8 18. g4 Bd7 19. h4 Rac8 20. g5 Red8 21. Ke2 Be8
+22. h5 b6 23. Rh4 c5 24. Rg4 Qb7 25. Qb3 Bc6 26. Nd2 cxd4
+27. Rcg1 Rc7 28. R1g3 Qc8 29. g6 fxg6 30. hxg6 h6 31. Rf4 Bd5
+32. Qb4 Nd7 33. Qxd4 Nc5 34. Qb4 Qb8 35. Rd4 Rcd7 36. f4 Rf8
+37. Bb5 Rdd8 38. Qc3 Rf5 39. b4 Nd7 40. Rxd5 exd5 41. Qd3 Rxf4
+42. Qxd5+ Kh8 43. Bxd7 Qc7 44. e6 Rf6 45. Re3 Qh2+ 46. Kd3 Rg8
+47. Kc2 Rxg6 48. e7 Qc7+ 49. Kb3 Qc1 50. Qxg8+ Kxg8 51. e8=Q+
+Kh7 52. Bf5 Qd1+ 53. Bc2 1-0

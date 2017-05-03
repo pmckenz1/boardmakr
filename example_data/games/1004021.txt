@@ -1,0 +1,27 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Jakob Adolf Seitz"]
+[Black "David Przepiorka"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. Ng1
+Ne7 7. Nge2 Ng6 8. O-O Be6 9. d3 Qd7 10. Be3 Bd6 11. f4 exf4
+12. Nxf4 Nxf4 13. Bxf4 Bc5+ 14. Kh1 O-O-O 15. Qe1 Qf7 16. Be3
+Bd6 17. Bf4 Be7 18. Qf2 Kb8 19. a3 Bd6 20. Bxd6 cxd6 21. b4
+Qc7 22. a4 Rhf8 23. Qd2 Rc8 24. Ne2 f5 25. Nd4 Qd7 26. b5 c5
+27. Nxe6 Qxe6 28. exf5 Rxf5 29. Rxf5 Qxf5 30. b6 Rf8 31. h3
+Kc8 32. Re1 Kd8 33. Qe3 Qf7 34. Qg3 Qf6 35. Qg4 Rf7 36. Re6
+Qf1+ 37. Kh2 Rf6 38. Re4 g6 39. Qh4 h5 40. Re6 Qf4+ 41. Qxf4
+Rxf4 42. Rxd6+ Ke7 43. Rxg6 Rxa4 44. Rg7+ Kd6 45. Rxb7 Kc6
+46. Rh7 Kxb6 47. Rh6+ Kb5 48. Rxh5 a5 49. Rh8 Rb4 50. c4+ Kc6
+51. h4 a4 52. h5 Kb7 53. h6 Rb6 54. Kg3 a3 55. h7 Rh6 56. Re8
+Rxh7 57. Re2 Rd7 58. Ra2 Rxd3+ 59. Kf4 Kb6 60. g4 Ka5 61. g5
+Kb4 62. g6 Kb3 63. g7 Rd8 64. Rg2 a2 65. Rg3+ Kb4 66. Rg1 Rg8
+67. Ra1 Kb3 0-1

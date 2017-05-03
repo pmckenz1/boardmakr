@@ -1,0 +1,17 @@
+[Event "St.Petersburg op"]
+[Site "09"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Boris Avrukh"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O Nxd4 9.Qxd4 O-O 10.e5 dxe5 11.Qxe5 Bd7 12.Be2 Rc8
+13.Be3 Bb4 14.Rd3 Qe7 15.Rhd1 Bc6 16.a3 Nd7 17.Qg3 Bc5 18.Bxc5
+Nxc5 19.Rd6 Ne4 20.Nxe4 Bxe4 21.R1d2 1/2-1/2

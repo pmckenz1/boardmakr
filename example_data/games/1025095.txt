@@ -1,0 +1,18 @@
+[Event "Voronezh Kotov mem"]
+[Site "Voronezh URS"]
+[Date "1987.09.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Karol Pinkas"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.Nf3 d5 2.c4 c6 3.e3 e6 4.d4 f5 5.Nc3 Nf6 6.Be2 Bd6 7.O-O
+Nbd7 8.Qb3 Ne4 9.Nd2 Qc7 10.f4 Ndf6 11.Ndxe4 fxe4 12.Bd2 O-O
+13.Rac1 Qb6 14.Qc2 Qd8 15.c5 Be7 16.b4 b6 17.Rb1 Bd7 18.Be1
+Kh8 19.Bh4 Ng8 20.Bxe7 Qxe7 21.Qd2 Nh6 22.a3 Rg8 23.Bd1 Raf8
+24.Ne2 Ng4 25.Nc3 Nh6 26.Ne2 Ng4 27.Nc3 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "San Bernadino Brocco (Switzerland)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ivan Nemet"]
+[Black "Gerardo F Barbero"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 a5 5.Nc3 O-O 6.e3 d5 7.Rc1
+b6 8.a3 Be7 9.Bd3 Bb7 10.O-O Nbd7 11.cxd5 exd5 12.Ne2 Rc8
+13.Nf4 Bd6 14.Bf5 g6 15.Bh3 Ra8 16.Qa4 Qe7 17.Rfe1 Rfe8 18.Nd3
+Nf8 19.Bc3 Ne4 20.g3 f6 21.Nd2 Qf7 22.Qb3 Nxd2 23.Bxd2 Ne6
+24.Bg2 Ng5 25.Nc5 Bc6 26.Ne6 Bb7 27.Nxg5 fxg5 28.Re2 g4 29.Be1
+h5 30.Rec2 Rab8 31.Rc6 Bxc6 32.Rxc6 Kh7 33.Bxd5 Qf5 34.Bc4
+Rbd8 35.Bd3 Qf3 36.Qc2 Qf7 37.e4 Re6 38.e5 1-0

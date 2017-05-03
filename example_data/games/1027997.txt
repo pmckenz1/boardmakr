@@ -1,0 +1,20 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1876.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "M Martinez & allies"]
+[Black "Mackenzie / Ware / Bird"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5
+7.Bxc6 dxc6 8.Nxe5 Be7 9.Qe2 Be6 10.c3 Nd7 11.Nxd7 Qxd7 12.f4
+g6 13.d4 O-O-O 14.Nd2 Rde8 15.Qf2 Kb8 16.b4 g5 17.Nf3 gxf4
+18.Ne5 Qc8 19.Bxf4 Rhg8 20.Qd2 h5 21.a4 f6 22.Nf3 Bd5 23.Re3
+Qg4 24.Bg3 f5 25.Ne5 Qg7 26.Nf3 Be4 27.Rf1 h4 28.Bf4 Qg4
+29.Ne1 Bd6 30.Re2 Re7 31.Rff2 Bxg2 32.Nxg2 Bxf4 33.h3 Qg3
+34.Rxf4 Rxe2 35.Qxe2 Qxf4 0-1

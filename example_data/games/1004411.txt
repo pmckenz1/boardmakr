@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Sandor Boros"]
+[Black "Antonio C Sacconi"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3
+Ngf6 7. Nxf6+ Nxf6 8. Ne5 c5 9. dxc5 Bxc5 10. O-O O-O 11. Bg5
+Be7 12. Qe2 Qc7 13. Rfe1 Bd7 14. Bxf6 Bxf6 15. Bxh7+ Kxh7
+16. Qd3+ Kg8 17. Nxd7 Rfd8 18. Nxf6+ gxf6 19. Qe2 Rd5 1/2-1/2

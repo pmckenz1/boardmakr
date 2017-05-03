@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.21"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Hristanthos Pountsas"]
+[Black "Yuri Balashov"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1.c4 g6 2.Nc3 Bg7 3.d4 d6 4.e4 Nf6 5.Be2 O-O 6.Nf3 Nbd7 7.O-O
+e5 8.Be3 c6 9.Qc2 Qe7 10.d5 c5 11.a3 a6 12.b4 b6 13.Nd2 Ne8
+14.Rab1 f5 15.f3 f4 16.Bf2 g5 17.bxc5 bxc5 18.Na4 h5 19.h3
+Nef6 20.Rb3 Rf7 21.Rfb1 Bf8 22.Qd1 Rg7 23.Nc3 Rg6 24.Nf1 g4
+25.fxg4 hxg4 26.hxg4 Qh7 27.Nd2 Qg7 28.Na4 Nxg4 29.Bxg4 Rxg4
+30.Qf1 Be7 31.Nb6 Nxb6 32.Rxb6 Bf8 33.Rb8 Rxb8 34.Rxb8 Qc7
+35.Qb1 Rg7 36.Rb3 Qf7 37.Qf1 Qh5 38.Be1 Bh3 39.Bg3 Bxg2
+40.Kxg2 fxg3 41.Nf3 Rh7 42.Kxg3 Qg6+ 43.Kf2 Qxe4 44.Qb1 Qf4
+45.Qg6+ Kh8 46.Qg5 Rf7 47.Qxf4 Rxf4 48.Ke2 Rxc4 49.Rb8 Kg7
+50.Ng5 Be7 51.Rb7 Kf6 52.Nh7+ Kf7 53.Ng5+ Kg6 54.Ne6 Kf6
+55.Nc7 Re4+ 56.Kd3 Rd4+ 57.Kc2 Kf7 58.Nxa6 Rxd5 59.Nc7 Rd4
+60.Nb5 Rf4 61.Nxd6+ Ke6 62.Ne8 Bf8 63.Rb6+ Kd5 64.Kd2 Rh4
+65.Nc7+ Kc4 66.a4 e4 67.a5 Bh6+ 68.Rxh6 Rxh6 69.a6 Rh2+ 70.Ke3
+Ra2 71.Kxe4 Kb3 72.Ne6 Kb4 73.Nc7 0-1

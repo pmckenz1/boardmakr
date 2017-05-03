@@ -1,0 +1,20 @@
+[Event "10s, it op Palma de Mallorca"]
+[Site "Palma de Mallorca ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Santiago Pons Sastre"]
+[Black "Fernando Braga"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 Bc5 5. d3 d6 6. Nf3 h6
+7. O-O a6 8. a3 O-O 9. b4 Ba7 10. h3 Be6 11. Bb2 Qd7 12. Kh2
+Nh7 13. Nd5 f5 14. e4 fxe4 15. dxe4 Rf7 16. Qd3 Raf8 17. Bc1
+Nd4 18. Nh4 Rxf2 19. Rxf2 Rxf2 20. Be3 Rf7 21. g4 c6 22. Nc3
+b5 23. cxb5 axb5 24. Nf5 Bc4 25. Qd1 Nxf5 26. Bxa7 Nh4 27. Be3
+Nxg2 28. Kxg2 Rf1 29. Qxf1 Bxf1+ 30. Rxf1 d5 31. exd5 cxd5
+32. Bc5 d4 33. Rd1 Qc6+ 0-1

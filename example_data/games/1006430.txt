@@ -1,0 +1,21 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.02.26"]
+[EventDate "2000.02.26"]
+[Round "1"]
+[Result "1-0"]
+[White "Liu Wenzhe"]
+[Black "Myo Naing"]
+[ECO "A15"]
+[WhiteElo "2451"]
+[BlackElo "2545"]
+[PlyCount "77"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 Nc6
+7. d3 e5 8. Rb1 a5 9. a3 Nh5 10. b4 axb4 11. axb4 f5 12. b5
+Ne7 13. Nd5 f4 14. Nd2 Nf5 15. Bb2 Bd7 16. Nf3 fxg3 17. hxg3
+c6 18. Nc3 Nd4 19. Ne4 Nxf3+ 20. Bxf3 Bh3 21. Re1 Kh8 22. Qb3
+Rc8 23. bxc6 bxc6 24. Ba3 Rxf3 25. exf3 Bf8 26. Qb6 Qd7
+27. Qe3 Ng7 28. Qh6 Nh5 29. Qd2 Bf5 30. Rb3 Be7 31. d4 Bxe4
+32. fxe4 Qe6 33. dxe5 dxe5 34. Bxe7 Qxe7 35. Reb1 Nf6 36. Qh6
+Ng8 37. Qe3 Rc7 38. Rb8 Kg7 39. Qb6 1-0

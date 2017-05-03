@@ -1,0 +1,19 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.03"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Eugenio Torre"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O c5 7.d5
+Na6 8.Bf4 Nc7 9.a4 a6 10.Qd2 Bg4 11.Rfe1 Nd7 12.Bh6 Bxf3
+13.Bxf3 b5 14.Bxg7 Kxg7 15.Be2 Rb8 16.Bf1 f6 17.axb5 axb5
+18.b4 Ne5 19.bxc5 dxc5 20.Qe3 Qd6 21.f4 Nd7 22.e5 fxe5 23.fxe5
+Qb6 24.Rad1 c4 25.Qxb6 Rxb6 26.d6 exd6 27.exd6 Na6 28.Re7+ Rf7
+29.Nxb5 Rc6 30.Nd4 Rc8 31.Ne6+ Kf6 32.Bxc4 1-0

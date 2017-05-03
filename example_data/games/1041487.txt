@@ -1,0 +1,26 @@
+[Event "It ( cat. 5 )"]
+[Site "Hong Kong"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Salor Sitanggang"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1.d4 Nf6 2.Nf3 b6 3.c4 e6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Be7 7.Nc3
+c5 8.d5 exd5 9.Nh4 g6 10.cxd5 d6 11.O-O O-O 12.e4 Nfd7 13.Nf3
+Re8 14.Re1 Bf8 15.Bg5 f6 16.Be3 Na6 17.Nd2 Nc7 18.a4 Na6 19.f4
+Nb4 20.Nc4 Ba6 21.Nb5 Bxb5 22.axb5 Qc7 23.Bd2 a6 24.bxa6 b5
+25.Bxb4 cxb4 26.Nd2 Nc5 27.Nb3 Na4 28.Qd2 Rxa6 29.Kh1 Raa8
+30.Nd4 Nc5 31.Rad1 b3 32.Re3 Ra4 33.Nxb5 Qb6 34.Nc3 Ra7 35.Qe2
+Bh6 36.Re1 Rea8 37.h4 Ra1 38.Qf1 R1a2 39.R1e2 Ra1 40.Re1 R1a2
+41.Qe2 Ra1 42.Kh2 Rxe1 43.Qxe1 g5 44.hxg5 fxg5 45.Rf3 g4
+46.Re3 Nd7 47.Re2 Bg7 48.e5 dxe5 49.d6 e4 50.Nxe4 Rf8 51.Qc1
+Qb5 52.Rd2 h6 53.Qf1 Qh5+ 54.Kg1 Rc8 55.Qd3 Rc1+ 56.Rd1 Rxd1+
+57.Qxd1 Kh8 58.Qxb3 Bd4+ 59.Kf1 Qa5 60.Ke2 Qa6+ 61.Kd2 Qa1
+62.Nc3 Qg1 63.Qd5 Bc5+ 64.Qa8+ Kg7 65.Qb7 Kf6 66.Qxd7 Qxg2+
+67.Kc1 1-0

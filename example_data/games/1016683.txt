@@ -1,0 +1,15 @@
+[Event "Bacolod (Philippines)"]
+[Site "It"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Rongguang Ye"]
+[Black "Andras Adorjan"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e3 Be7 5.Nbd2 b6 6.Bd3 Bb7 7.O-O
+Nc6 8.Re1 cxd4 9.exd4 O-O 10.c3 Nd5 1/2-1/2

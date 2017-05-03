@@ -1,0 +1,16 @@
+[Event "Val Maubuee (France)"]
+[Site "Val Maubuee (France)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Pierre Dussol"]
+[Black "Istvan Bilek"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Be3 a6 5.Nf3 Nd7 6.Bc4 e6 7.a4 b6
+8.Qd2 Bb7 9.Bg5 Qc8 10.O-O h6 11.Bf4 Ne7 12.Rfe1 Kf8 13.Rad1
+Kg8 14.Qe2 Kh7 15.h4 Qe8 16.e5 Bxf3 17.Qxf3 d5 18.Ba2 1/2-1/2

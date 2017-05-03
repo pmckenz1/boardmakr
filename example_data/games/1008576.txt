@@ -1,0 +1,25 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Kenneth Chieu"]
+[Black "Richard Koepcke"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5
+e6 7. Qe2 Nb6 8. N1f3 Nxc4 9. Qxc4 h6 10. Nh3 Qb6 11. O-O Be7
+12. Nf4 O-O 13. c3 c5 14. dxc5 Bxc5 15. h3 Bd7 16. a4 Rac8
+17. Qe2 Rfd8 18. Ne5 Be8 19. Nfd3 Rd5 20. Qf3 Qd8 21. c4 Rd6
+22. Bf4 Bc6 23. Nxc6 Rdxc6 24. Ne5 Rb6 25. Rfd1 Qe7 26. b3 a5
+27. Rd3 Rd6 28. Rad1 Rxd3 29. Rxd3 Bb6 30. g4 Rd8 31. Rxd8+
+Bxd8 32. h4 Nh7 33. Bg3 Nf8 34. Qe3 Bc7 35. Qe4 Bxe5 36. Qxe5
+Ng6 37. Qxa5 Nxh4 38. Qb6 Nf3+ 39. Kg2 Ne1+ 40. Kf1 Nf3
+41. Qe3 Ng5 42. a5 Qa3 43. Qb6 Qa1+ 44. Kg2 e5 45. Qxb7 e4
+46. Qb8+ Kh7 47. Qe5 Qd1 48. Qf4 Qxb3 49. a6 Qxc4 50. a7 Qc6
+51. Qd6 Qa4 52. Qb8 Qd1 53. a8=Q Qf3+ 54. Kh2 Qxg4 55. Qc8 Qd1
+56. Qf5+ g6 57. Qf6 Qh5+ 58. Kg1 1-0

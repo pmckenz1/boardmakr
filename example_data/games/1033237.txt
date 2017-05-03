@@ -1,0 +1,23 @@
+[Event "9, Roma op (10s)"]
+[Site "Rome ITA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Armando Testa"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. c4 Bxb1 6. Rxb1
+Bb4+ 7. Ke2 Be7 8. Qb3 Qc8 9. Rc1 c6 10. h3 Nbd7 11. g4 Ne4
+12. Nd2 Ndf6 13. Nxe4 Nxe4 14. Bg2 Nf6 15. Bf3 O-O 16. Qc2 Qd8
+17. c5 Nd7 18. b4 f6 19. e4 f5 20. gxf5 dxe4 21. Qxe4 exf5
+22. Qe6+ Kh8 23. Kf1 Bg5 24. Qe3 Bxf4 25. Qxf4 Nf6 26. Rg1 Nd5
+27. Qe5 Qd7 28. b5 Rae8 29. Qd6 Qc8 30. bxc6 bxc6 31. Bxd5
+cxd5 32. Qxd5 f4 33. Qf3 Re3 34. Qg4 Qa6+ 35. Kg2 Re6 36. Kh2
+Rg6 37. Qf3 Qxa2 38. c6 Rg3 39. Rxg3 fxg3+ 40. Qxg3 Rxf2+
+41. Kg1 Rf8 42. c7 Qa6 43. Qf4 Rc8 44. d5 Qb6+ 45. Kh1 Qb7
+46. Qe5 1-0

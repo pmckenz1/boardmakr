@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "0-1"]
+[White "Andrei Zaremba"]
+[Black "Eugene Perelshteyn"]
+[ECO "E62"]
+[WhiteElo "2345"]
+[BlackElo "2472"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. c4 d6
+7. Nc3 Qa5 8. Bg5 h6 9. Bxf6 Bxf6 10. e4 Bg7 11. h3 c5 12. Rc1
+Nc6 13. d5 Nd4 14. a3 Nxf3+ 15. Qxf3 a6 16. Rb1 Bd7 17. Ne2 b5
+18. b4 cxb4 19. axb4 Qb6 20. cxb5 Bxb5 21. Rfc1 Rfc8 22. Nc3
+Bc4 23. Na4 Qa7 24. Rc2 Rc7 25. h4 Rac8 26. Nc3 Bd3 27. Qxd3
+Rxc3 28. Rxc3 Rxc3 29. Qe2 Ra3 30. b5 axb5 31. Qxb5 Kh7
+32. Qe8 h5 33. Qxf7 Rxg3 34. Rc1 Qa3 35. Rc2 Qa1+ 36. Kh2 Rg4
+37. Kh3 Qe5 38. Qe6 Rxh4+ 39. Kxh4 Qh2+ 40. Bh3 Bf6+ 0-1

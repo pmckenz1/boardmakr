@@ -1,0 +1,20 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1865.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Johannes Zukertort"]
+[Black "Adolf Anderssen"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O
+d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2 Ne7 11.Bd3 O-O 12.Nc3 Ng6 13.Ne2
+c5 14.Qd2 f6 15.Kh1 Bc7 16.Rac1 Rb8 17.Ng3 Rf7 18.Nf5 Bxf5
+19.exf5 Ne5 20.Bxe5 dxe5 21.Be4 Qd6 22.g4 h6 23.Rg1 b5 24.Rg3
+c4 25.Rcg1 Bb6 26.g5 fxg5 27.Nxg5 hxg5 28.Rxg5 Qh6 29.Rxg7+
+Qxg7 30.Rxg7+ Rxg7 31.f6 Rf7 32.Qg5+ Kf8 33.Qh6+ Kg8 34.Bf5
+Re8 35.Be6 1-0

@@ -1,0 +1,15 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Robert Kempinski"]
+[Black "Dimitrij Bunzmann"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 c6
+7. O-O O-O 8. b3 d5 9. Bc3 Nbd7 10. Nbd2 Bb7 1/2-1/2

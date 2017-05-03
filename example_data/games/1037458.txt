@@ -1,0 +1,21 @@
+[Event "8, Calgary CAN ch zt"]
+[Site "Calgary CAN"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Denis Allan"]
+[Black "Lawrence Day"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 g6 2.e4 Bg7 3.c3 d6 4.Bc4 Nf6 5.Qe2 O-O 6.e5 dxe5 7.dxe5
+Nd5 8.h3 Nb6 9.Bb3 Bf5 10.Nf3 Bd3 11.Qe3 Nc6 12.Na3 a5 13.Bd1
+Qd5 14.Bb3 Nc4 15.Bxc4 Bxc4 16.b3 Nxe5 17.Nxc4 Nxc4 18.bxc4
+Qxc4 19.Ne5 Qd5 20.Nf3 Qc4 21.Ne5 Bxe5 22.Qxe5 Rfd8 23.Be3 f6
+24.Qc5 Qd3 25.Qa3 Rd5 26.Qc1 Rad8 27.c4 Re5 28.Rb1 Rd4 29.Rxb7
+Rde4 30.Rb3 Rxc4 31.Qa1 Qd5 32.O-O a4 33.Rd1 Qc6 34.Rbd3 Kf7
+35.Rd4 Rc2 36.R4d2 Rc3 37.Bd4 Rg5 38.f4 Rxg2+ 39.Rxg2 Rxh3
+40.Bf2 Qf3 41.Qd4 Rh5 42.Rd3 1-0

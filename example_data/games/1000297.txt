@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Murugan Thiruchelvam"]
+[Black "Gerald A Larson"]
+[ECO "B47"]
+[WhiteElo "2335"]
+[BlackElo "2094"]
+[PlyCount "71"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6
+7. Bg2 Nf6 8. O-O Bc5 9. Nb3 Ba7 10. Bf4 Ne5 11. Nc1 d6
+12. Nd3 Nc4 13. b3 Ne5 14. Ne2 Bd7 15. Qd2 Rc8 16. Rac1 Bc6
+17. Nc3 b5 18. Be3 O-O 19. f3 Rfd8 20. h3 Ba8 21. Ne2 d5
+22. Nxe5 dxe4 23. Nd3 Nd5 24. Bxa7 Qxa7+ 25. Kh1 exd3 26. cxd3
+26... Qe3 27. Rxc8 Rxc8 28. Rc1 Rxc1+ 29. Qxc1 Qxc1+ 30. Nxc1
+Ne3 31. Kg1 Kf8 32. Kf2 Nxg2 33. Kxg2 Ke7 34. Kf2 Kd6 35. Ke3
+Kc5 36. a3 1/2-1/2

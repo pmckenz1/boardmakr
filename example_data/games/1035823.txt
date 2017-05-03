@@ -1,0 +1,21 @@
+[Event "London m"]
+[Site "London ENG"]
+[Date "1886.08.17"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "George Henry Mackenzie"]
+[Black "Amos Burn"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.cxd4
+Bd7 8.Be2 Nge7 9.Na3 Nf5 10.Nc2 Bb4+ 11.Kf1 Be7 12.g4 Nh4
+13.Nxh4 Bxh4 14.g5 Nxe5 15.Ne3 Ng6 16.Ng2 f6 17.Nxh4 Nxh4
+18.gxf6 gxf6 19.Rg1 O-O-O 20.Rg3 e5 21.dxe5 fxe5 22.Be3 d4
+23.Bg5 Nf5 24.Rb3 Qg6 25.Rc1+ Bc6 26.Bxd8 Kxd8 27.Bf3 e4
+28.Bh5 Qf6 29.Bg4 Nd6 30.Rg3 Rf8 31.Qe1 e3 32.f3 Qe5 33.Rh3 d3
+34.Rxc6 bxc6 35.Rxh7 e2 36.Kg2 Rf7 37.Rh5 d2 38.Qh4+ Qf6
+39.Rh8+ Kc7 40.Bh5 Qxh8 0-1

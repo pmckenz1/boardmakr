@@ -1,0 +1,21 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Yurij Semerij"]
+[Black "Dmitry Shurkaev"]
+[ECO "B11"]
+[WhiteElo "2240"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d4
+dxe4 7. Nxe4 Qxd4 8. Bd3 Nbd7 9. Be3 Qd5 10. O-O g6 11. Rfe1
+Bg7 12. Bh6 O-O 13. Nxf6+ exf6 14. Qxd5 cxd5 15. Bxg7 Kxg7
+16. Re7 Nc5 17. Rae1 Rac8 18. Bf1 a5 19. Bb5 Ne4 20. Rxb7 Nd6
+21. Rb6 Nxb5 22. Rxb5 Rxc2 23. Rxd5 Rb8 24. Rb1 a4 25. Ra5
+Rbxb2 26. Rxb2 Rxb2 27. Rxa4 f5 28. Ra6 Rc2 29. g3 Rb2 30. Kg2
+h6 31. a4 Ra2 32. a5 Ra3 33. Ra8 Ra4 34. a6 Ra2 35. Kf3 Ra3+
+36. Kg2 1/2-1/2

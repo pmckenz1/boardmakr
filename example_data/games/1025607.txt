@@ -1,0 +1,22 @@
+[Event "Moscow op"]
+[Site "02"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Denis Frolov"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.d3 Bb7 9.Nbd2 d6 10.a3 Na5 11.Ba2 c5 12.Nf1 Re8 13.Ng3
+g6 14.b4 cxb4 15.axb4 Nc6 16.c3 Bf8 17.Ng5 Re7 18.Qb3 Qe8
+19.f4 a5 20.Rf1 Bg7 21.bxa5 Nxa5 22.Qd1 Nc6 23.f5 Nd8 24.Qf3
+d5 25.Be3 Rc7 26.fxg6 fxg6 27.exd5 Rxc3 28.N3e4 Nxe4 29.Nxe4
+Rxd3 30.Qe2 Rda3 31.Bc5 R3a6 32.Bb4 Kh8 33.Qd2 Qg8 34.Rfd1 Bc8
+35.h3 Nb7 36.g4 Nd8 37.Rdc1 Bb7 38.Rd1 Bc8 39.Be7 R6a7 40.Nf6
+Qf7 41.Bxd8 Bxf6 42.Rf1 Bxd8 43.Rxf7 Rxf7 44.Rf1 Bb6+ 45.Kg2
+Rxf1 46.Kxf1 Ra4 47.Qc3 1-0

@@ -1,0 +1,18 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1929.08.15"]
+[EventDate "1929.07.31"]
+[Round "13"]
+[Result "0-1"]
+[White "Vera Menchik"]
+[Black "Edgar Colle"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.Nf3 d5 2.d4 Nc6 3.Bf4 Bg4 4.e3 e6 5.c4 Bb4+ 6.Nc3 Nge7 7.Rc1
+O-O 8.h3 Bxf3 9.Qxf3 Ng6 10.cxd5 exd5 11.Bd3 Nxf4 12.Qxf4 Ne7
+13.O-O c6 14.Qh4 f5 15.Ne2 Qe8 16.Qg3 Ng6 17.Kh1 Qe7 18.Nf4
+Nh4 19.Ne6 Bd6 20.Qg5 Qxe6 21.Qxh4 Rf6 22.Qh5 Raf8 23.Rfe1 Rh6
+24.Qg5 Qf7 25.f4 Be7 0-1

@@ -1,0 +1,26 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Robert Loncar"]
+[Black "Branko Kutuzovic"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Qc2 Bd6
+7. Bd2 O-O 8. Be2 Qe7 9. e4 Nxe4 10. Nxe4 dxe4 11. Qxe4 e5
+12. O-O-O Nf6 13. Qh4 e4 14. Ne1 Ng4 15. Qxe7 Bxe7 16. Be3
+Nxe3 17. fxe3 f5 18. g3 g5 19. Ng2 Kg7 20. Kc2 Be6 21. b3 b6
+22. a4 c5 23. d5 Bd7 24. Rhf1 Bd6 25. Rf2 Kg6 26. Rg1 Rf6
+27. Kb1 a5 28. Bd1 Raf8 29. Bc2 h5 30. Rff1 Kh6 31. Rf2 Be5
+32. Rgf1 Kg6 33. h4 Bxg3 34. hxg5 Kxg5 35. Re2 h4 36. Nf4 Kh6
+37. Rh1 Rg8 38. Rg2 Rg5 39. Rxg3 Rxg3 40. Rxh4+ Kg5 41. Rh5+
+Kg4 42. Bd1+ Rf3 43. Rh7 Be8 44. Re7 Bf7 45. Kc1 Kg3 46. d6
+Rxd6 47. Rxf7 Rxf4 48. exf4 Kxf4 49. Bc2 Rd4 50. Rf8 Rd6
+51. Rf7 Ke5 52. Re7+ Re6 53. Rd7 Rh6 54. Rd5+ Kf4 55. Rd1 Rg6
+56. Rf1+ Ke5 57. Rd1 Rd6 58. Re1 Rd4 59. Rh1 f4 60. Rh5+ Ke6
+0-1

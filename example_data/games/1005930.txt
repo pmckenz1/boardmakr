@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "0-1"]
+[White "Zdenko Krnic"]
+[Black "Karel van der Weide"]
+[ECO "B06"]
+[WhiteElo "2401"]
+[BlackElo "2452"]
+[PlyCount "80"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 c5 4. dxc5 Qa5+ 5. c3 Qxc5 6. Be3
+Qc7 7. Na3 Bxc3+ 8. bxc3 Qxc3+ 9. Nd2 Qxa3 10. Bc4 Nc6 11. O-O
+Qc3 12. Rc1 Qg7 13. f4 Nf6 14. e5 Ng4 15. Bc5 O-O 16. Bxe7
+Nxe7 17. Qxg4 d5 18. Qg5 Nf5 19. Bb3 h6 20. Qf6 Qxf6 21. exf6
+Be6 22. Rfe1 Rac8 23. Rxc8 Rxc8 24. Nf3 Rc3 25. Re5 Ne3 26. h3
+Rc1+ 27. Kf2 Nc4 28. Re2 Nd6 29. Ke3 Ne4 30. Kd4 Nxf6 31. g4
+Rf1 32. Re3 Kg7 33. Rd3 h5 34. g5 Ne4 35. h4 b6 36. Bxd5 Nc5
+37. Rd2 Bxd5 38. Nh2 Rxf4+ 39. Kxd5 Rxh4 40. Nf3 Rf4 0-1

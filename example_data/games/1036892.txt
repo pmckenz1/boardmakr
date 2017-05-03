@@ -1,0 +1,22 @@
+[Event "Albena (Bulgaria)"]
+[Site "Albena BUL"]
+[Date "1986.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Atanas Stefanov Kolarov"]
+[Black "Nigel Rodney Davies"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nc6 5.Nge2 e5 6.d5 Nce7 7.h4 h5
+8.g3 f5 9.Bg5 Nf6 10.Bg2 O-O 11.Qd2 Bd7 12.exf5 gxf5 13.O-O-O
+Qe8 14.Bh3 a6 15.f4 e4 16.Nd4 b5 17.Kb1 bxc4 18.Qe2 Nfxd5
+19.Qxc4 Qf7 20.Bxe7 Nxe7 21.Qxc7 Rfd8 22.Bf1 Rac8 23.Qa7 Nd5
+24.Nxd5 Qxd5 25.Bxa6 Rb8 26.Nb3 Qe6 27.Bb7 Qf6 28.Bd5+ Kh8
+29.Rh2 Bb5 30.Qf7 Qxf7 31.Bxf7 d5 32.Rxd5 Bd3+ 33.Kc1 Rdc8+
+34.Kd1 Bb1+ 35.Rxf5 Bxa2 36.Rxh5+ Bh6 37.Rxh6+ Kg7 38.Ra6 Kxf7
+39.Rxa2 Rxb3 40.g4 Rg8 41.Ra7+ Ke6 42.Ra5 e3 43.Re5+ Kd6
+44.Re2 1-0

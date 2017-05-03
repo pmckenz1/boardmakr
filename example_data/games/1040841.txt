@@ -1,0 +1,20 @@
+[Event "Krefeld"]
+[Site "01"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Hulters"]
+[Black "Erich Eliskases"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5 5.O-O e6 6.c4 cxd4 7.Nxd4
+Bxg2 8.Kxg2 Qc8 9.b3 Qb7+ 10.Nf3 Be7 11.Bb2 O-O 12.Nd2 Na6
+13.Rc1 Rfd8 14.Qc2 Rac8 15.Qb1 Nc5 16.Rfd1 d5 17.cxd5 Nxd5
+18.Nc4 b5 19.Nce5 f6 20.Nd3 Ne4 21.Rxc8 Rxc8 22.Rc1 Ndc3
+23.Bxc3 Nxc3 24.Qb2 b4 25.Kg1 Qe4 26.Re1 Rd8 27.Nf4 g5 28.Ng2
+Bc5 29.h3 h5 30.Kf1 e5 31.Qc1 Rd1 32.Qb2 g4 33.hxg4 hxg4
+34.Rxd1 Nxd1 35.Qc1 gxf3 36.exf3 Qd3+ 0-1

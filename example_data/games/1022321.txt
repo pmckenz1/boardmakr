@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Liechtenstein"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Roman Skomorokhin"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Be2
+O-O 8.O-O Re8 9.b3 b6 10.Bb2 Bb7 11.e4 dxe4 12.Nxe4 Nxe4
+13.Qxe4 Qc7 14.Bd3 Nf8 15.Qg4 f5 16.Qh5 c5 17.dxc5 bxc5
+18.Rae1 g6 19.Qg5 Bxf3 20.Qf6 Bxh2+ 21.Kh1 e5 22.Kxh2 Nd7
+23.Qh4 e4 24.Kh1 Bh5 25.Bb1 Ne5 26.Qf4 Qe7 27.f3 Rad8 28.fxe4
+Ng4 29.Qg3 f4 30.Rxf4 Rf8 31.Ref1 Rxf4 32.Rxf4 Qh4+ 33.Kg1 g5
+1-0

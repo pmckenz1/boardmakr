@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Matthew P Broomfield"]
+[Black "Simon J B Knott"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 Nc6
+7. Nc3 dxc4 8. Bf4 a6 9. Rc1 Rb8 10. d5 Na7 11. Qd4 Nb5
+12. Qxc4 Nd6 13. Qd4 e6 14. Be5 Bd7 15. Rfd1 Nfe8 16. Bxg7
+Nxg7 17. e4 Nb5 18. Nxb5 Bxb5 19. Qc3 exd5 20. Rxd5 Qe8
+21. Ne5 Qe6 22. Rcd1 Bc6 23. Nxc6 bxc6 24. Ra5 Rb6 25. b4 Qe7
+26. a3 Ne6 27. Bf1 Rd8 28. Rxd8+ Qxd8 29. Bxa6 Qd1+ 30. Bf1
+Rb8 31. Qxc6 Rd8 32. Rd5 Rxd5 33. Qxd5 Nd4 34. h4 c6 35. Qc4
+g5 36. Qd3 Nf3+ 37. Kh1 Nd2 38. Kg2 gxh4 39. gxh4 Kf8 40. Be2
+Qe1 41. h5 h6 42. e5 Kg7 43. Qg3+ Kf8 44. Qe3 Kg7 45. e6 fxe6
+46. Qxe6 Qc1 47. Qg6+ Kf8 48. Qxh6+ Ke7 49. Qe3+ Kd6 50. h6
+Qb2 51. Qf4+ Ke7 52. Qg5+ Kd6 53. h7 1-0

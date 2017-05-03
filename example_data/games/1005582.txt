@@ -1,0 +1,25 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "6"]
+[Result "0-1"]
+[White "Denis Lineykin"]
+[Black "Andrei Romashko"]
+[ECO "D14"]
+[WhiteElo "?"]
+[BlackElo "2035"]
+[PlyCount "122"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4
+Bf5 7. e3 e6 8. Bb5 Nd7 9. Qa4 Rc8 10. O-O a6 11. Be2 Nb6
+12. Qd1 Be7 13. Rc1 O-O 14. Na4 Nxa4 15. Qxa4 Qb6 16. Nd2 Qb4
+17. Qxb4 Nxb4 18. a3 Nd3 19. Bxd3 Bxd3 20. Rfe1 Bc2 21. Nf3 f6
+22. Re2 Ba4 23. Ree1 Kf7 24. Bc7 Ke8 25. Rc3 Kd7 26. Rec1 Rg8
+27. h4 Bc6 28. Bg3 Bd8 29. b4 Bb6 30. Nd2 Ba4 31. Rxc8 Rxc8
+32. Rxc8 Kxc8 33. Bd6 Kd7 34. Bf8 g6 35. Nb1 e5 36. Nc3 Bb3
+37. Bc5 Bc7 38. b5 a5 39. a4 b6 40. Ba3 exd4 41. exd4 Bf4
+42. Bb2 Bd2 43. g4 Bxc3 44. Bxc3 Bxa4 45. f4 f5 46. gxf5 gxf5
+47. h5 h6 48. Kf2 Bd1 49. Kg3 Bxh5 50. Kh4 Be2 51. Bd2 Bxb5
+52. Kh5 Bd3 53. Kxh6 Kc6 54. Kg6 Kb5 55. Kf6 Kc4 56. Ke5 a4
+57. Bc1 b5 58. Bb2 b4 59. Bc1 Be4 60. Bd2 a3 61. Bc1 Kd3 0-1

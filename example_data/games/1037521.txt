@@ -1,0 +1,21 @@
+[Event "05, Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1978.10.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "David Neil Lawrence Levy"]
+[Black "Lawrence Day"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6
+7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.Bd3 Ba6 11.Bxa6 Qxa6 12.Qe2
+Qxe2+ 13.Kxe2 f5 14.Nf2 d6 15.Nd3 dxe5 16.Nxe5 Bd6 17.c4 Ne7
+18.Rd1 Bxe5 19.fxe5 Ng6 20.Rd6 O-O 21.b3 Nxe5 22.Bb2 Ng6
+23.Rad1 Rfc8 24.Rd7 e5 25.Kf1 a5 26.R1d6 f4 27.Rb7 Rd8
+28.Rxd8+ Rxd8 29.Bc3 Rd1+ 30.Ke2 Rc1 31.Kd3 e4 32.Kd2 Rg1
+33.Rxg7+ Kf8 34.Rxh7 Rxg2+ 35.Ke1 e3 36.Bd4 f3 37.Bxe3 Re2+
+38.Kf1 Rxe3 39.Kf2 Rc3 40.Ra7 Ne5 0-1

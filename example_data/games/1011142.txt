@@ -1,0 +1,24 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Arlan F Cabe"]
+[Black "Buenaventura Bong Villamayor"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6
+7. Qa4 Qc7 8. d4 cxd4 9. cxd4 Nb4 10. Kd1 Be7 11. a3 Nc6
+12. b4 a6 13. Bb2 f6 14. Bd3 fxe5 15. dxe5 O-O 16. Qc2 h6
+17. Re1 Nb6 18. Qb3 Bd7 19. Bc2 Be8 20. Qd3 Rf5 21. g4 Nc4
+22. Nxc4 dxc4 23. Qe4 Rd8+ 24. Kc1 Rxf3 25. Qxf3 Bg5+ 26. Kb1
+Nd4 27. Bxd4 Rxd4 28. h4 Bd2 29. Re2 Bc6 30. Qh3 Bd5 31. g5 c3
+32. gxh6 Qb6 33. Rxd2 cxd2 34. Kb2 Be4 35. Qg3 Rd7 36. Qe3
+Qxe3 37. h7+ Kxh7 38. fxe3 Bxc2 39. Kxc2 d1=Q+ 40. Rxd1 Rxd1
+41. Kxd1 Kg6 42. Ke2 Kh5 43. Kf3 Kxh4 44. a4 g5 45. b5 axb5
+46. axb5 b6 47. Kg2 Kg4 48. Kf2 Kh3 49. Kg1 Kg3 50. e4 g4
+51. Kh1 Kf2 0-1

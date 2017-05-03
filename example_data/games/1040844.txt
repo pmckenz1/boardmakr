@@ -1,0 +1,21 @@
+[Event "Krefeld"]
+[Site "10"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "C Kruijer"]
+[Black "Erich Eliskases"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 e6 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.O-O
+Qc7 8.Nb3 b5 9.Bf3 Bb7 10.a3 Nbd7 11.Bf4 Ne5 12.Bxe5 dxe5
+13.Qe2 Be7 14.g3 O-O 15.Bg2 Nd7 16.Nd1 Rac8 17.c3 Nb6 18.Ne3
+f5 19.exf5 exf5 20.Rfd1 Bxg2 21.Kxg2 f4 22.gxf4 Rxf4 23.Nd2 e4
+24.Kh1 Rcf8 25.Rf1 Bc5 26.b4 Rh4 27.f4 Bxe3 28.Qxe3 Rhxf4
+29.Rxf4 Rxf4 30.Rf1 Nd5 31.Qd4 Rxf1+ 32.Nxf1 Nxc3 33.Ne3 Qc6
+34.Kg2 Qf6 35.Qxf6 gxf6 36.Kg3 Kf7 37.Kf4 Ke6 38.Nf5 Kd5 39.h4
+Ne2+ 40.Ke3 Ke5 41.Nh6 Nc3 42.Ng4+ Ke6 0-1

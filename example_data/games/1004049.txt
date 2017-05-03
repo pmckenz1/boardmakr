@@ -1,0 +1,28 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Vladimir Vukovic"]
+[Black "Lajos Steiner"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "144"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+c5 7. Be3 Bg7 8. f4 Nc6 9. d5 Bxc3+ 10. Kf2 Bxa1 11. Qxa1 Nd4
+12. Nf3 Qa5 13. Nxd4 cxd4 14. Qxd4 O-O 15. h4 Qxa2+ 16. Kg3 h5
+17. Bc4 Qa4 18. Ra1 Qd7 19. Be2 b6 20. Bc1 Kh7 21. Kh2 Bb7
+22. Ra3 Qd6 23. Rg3 Qc5 24. Qd1 Rac8 25. Bb2 Qc2 26. Qd4 f6
+27. Bd3 Qc5 28. Qa4 a5 29. Qd1 Qf2 30. f5 Qf4 31. Kh3 Rg8
+32. e5 Rc5 33. fxg6+ Kh6 34. Rf3 Qg4+ 35. Kh2 Bxd5 36. Qd2+
+Kg7 37. exf6+ exf6 38. Rxf6 Qxh4+ 39. Kg1 Qxf6 40. Bxf6+ Kxf6
+41. Qb2+ Ke7 42. Qxb6 Rgc8 43. Qb2 Be6 44. Qg7+ Kd6 45. Qd4+
+Rd5 46. Qb6+ Ke7 47. Be4 Rdc5 48. Kh2 Kf6 49. Qb2+ Re5
+50. Qf2+ Ke7 51. Qa7+ Bd7 52. Qd4 Rec5 53. Bb7 R8c7 54. Qg7+
+Kd6 55. Qd4+ Ke7 56. Qh4+ Ke6 57. Qf4 Bb5 58. g7 Rxg7 59. Qh6+
+Kf7 60. Qf4+ Kg8 61. Qb8+ Kf7 62. Qa7 Rc7 63. Bd5+ Kf8 64. Qb6
+Ba4 65. Qxa5 Be8 66. Qb6 Rcd7 67. Qb4+ Rde7 68. Qb8 Rg6
+69. Qb2 Bf7 70. Qc2 Kg7 71. Be4 Rge6 72. Qc3+ Rf6 1/2-1/2

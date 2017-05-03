@@ -1,0 +1,23 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Andrey Zontakh"]
+[Black "Daniel Hausrath"]
+[ECO "B22"]
+[WhiteElo "2530"]
+[BlackElo "2400"]
+[PlyCount "93"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 d5
+7. exd6 Qxd6 8. O-O Bf5 9. d4 cxd4 10. Nxd4 Nxd4 11. cxd4 e6
+12. Nc3 Be7 13. Qf3 Qd7 14. d5 exd5 15. Nxd5 Nxd5 16. Bxd5 O-O
+17. Bxb7 Bg4 18. Qc6 Rab8 19. Qxd7 Bxd7 20. Be4 Bf6 21. Rb1
+Rfe8 22. f3 Bd4+ 23. Kh1 f5 24. Bd3 Bb5 25. Bxb5 Rxb5 26. b4
+Re2 27. a4 Rb7 28. Bf4 Bc3 29. Bd6 Rd7 30. Rfd1 Ra2 31. a5 Ra4
+32. h3 Kf7 33. Rdc1 Bd2 34. Rc6 g5 35. a6 h5 36. b5 g4
+37. fxg4 hxg4 38. Rf1 gxh3 39. gxh3 f4 40. Kg2 Be3 41. Kf3 Bb6
+42. Re1 Rd4 43. Bxf4 Rb4 44. Re5 Rd3+ 45. Kg4 Rdb3 46. Rf5+
+Ke7 47. Rh5 1-0

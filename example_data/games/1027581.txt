@@ -1,0 +1,25 @@
+[Event "Beverwijk (Netherlands)"]
+[Site "Beverwijk NED"]
+[Date "1966.01.13"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Moshe Czerniak"]
+[Black "Istvan Bilek"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.d4 Nf6 2.Nd2 d5 3.e3 g6 4.c4 Bg7 5.Ngf3 O-O 6.Be2 c5 7.dxc5
+Na6 8.O-O Nxc5 9.Nb3 Nce4 10.cxd5 Nxd5 11.Bd3 Ndf6 12.Qe2 Qc7
+13.a4 Rd8 14.a5 Bd7 15.a6 b6 16.Nbd4 Rac8 17.Nb5 Qb8 18.Ra3
+Be8 19.Rd1 e5 20.Ne1 Bf8 21.Ra1 Rxd3 22.Qxd3 Nxf2 23.Kxf2 Ng4+
+24.Ke2 e4 25.Qb3 Qxh2 26.Rd4 Qh5 27.Nc3 Bh6 28.Nxe4 Bb5+
+29.Kd2 Kh8 30.Ng3 Qg5 31.Rxg4 Qxg4 32.Qxb5 Qxg3 33.Kd1 Bxe3
+34.Bxe3 Qxe3 35.Qd3 Qe8 36.Qd4+ Kg8 37.Nd3 Rd8 38.Qc4 b5
+39.Qc3 Qe4 40.Ra3 b4 41.Qc7 Rxd3+ 42.Rxd3 Qxd3+ 43.Kc1 Qxa6
+44.g3 Qb6 45.Qe5 h5 46.Kc2 a5 47.Qe8+ Kg7 48.Qe5+ Kh7 49.Qd5
+Qc7+ 50.Kb3 Qxg3+ 51.Ka4 Qc7 52.b3 h4 53.Qd4 Qe7 54.Qg4 Qd8
+55.Qc4 Kg8 56.Qg4 Kg7 57.Qh3 Qf6 58.Qd7 Qa1+ 59.Kb5 Qf1+
+60.Ka4 Qa1+ 61.Kb5 a4 62.Qh3 Qc3 0-1

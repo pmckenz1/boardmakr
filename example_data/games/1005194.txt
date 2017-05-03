@@ -1,0 +1,23 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Lajos Dekany"]
+[Black "Frank Jansen"]
+[ECO "E30"]
+[WhiteElo "2185"]
+[BlackElo "2140"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 g5 6. Bg3 Ne4
+7. Qc2 Nxg3 8. hxg3 Nc6 9. O-O-O Qf6 10. Ne4 Qg6 11. d5 exd5
+12. cxd5 Ne5 13. f4 gxf4 14. gxf4 Ng4 15. f5 Qb6 16. Rd3 Ne3
+17. Qb3 Nxf5 18. Nf3 Be7 19. Qc3 Rg8 20. Rh5 Qg6 21. Rh1 b6
+22. Ne5 Qg7 23. Qxc7 Bd8 24. Nd6+ Nxd6 25. Qxd6 f6 26. Nc6
+dxc6 27. Qxc6+ Bd7 28. Re3+ Be7 29. Qxa8+ Kf7 30. Qb7 Qg5
+31. Rhh3 Rc8+ 32. Kd1 Qf5 33. Kd2 Bb4+ 34. Rc3 Bxc3+ 35. bxc3
+Ke7 36. Re3+ Kd8 37. Rf3 Qe4 38. Qxa7 Qxd5+ 39. Rd3 Qg5+
+40. e3 Qb5 41. Qa3 Ke8 42. Be2 Bf5 43. Rd4 Qb1 44. Bh5+ Bg6
+45. Bxg6+ Qxg6 46. Qa4+ Kf8 47. Qb4+ Kg8 1-0

@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1873.08.26"]
+[EventDate "1873.07.21"]
+[Round "11.2"]
+[Result "1/2-1/2"]
+[White "Samuel Rosenthal"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O
+7.Nc3 c6 8.Ne2 Be6 9.Ng3 Nbd7 10.c3 Qc7 11.Nf5 Bxf5 12.Bxf5
+Rae8 13.Qc2 Ne4 14.Re1 Ndf6 15.g3 Re7 16.Bg5 Nxg5 17.Nxg5 g6
+18.Bd3 Rfe8 19.Nf3 Kg7 20.Rxe7 Rxe7 21.Re1 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Hereford"]
+[Site "Hereford"]
+[Date "1885.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Henry Edward Bird"]
+[Black "Emil Schallopp"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 e5 2.f4 exf4 3.Be2 d5 4.exd5 Qxd5 5.Bf3 Qg5 6.d4 Qh4+
+7.Kf1 Bd6 8.c4 c6 9.Nc3 Ne7 10.g3 Qh6 11.h4 Nf5 12.Nge2 Ne3+
+13.Bxe3 fxe3 14.g4 Bxg4 15.Ng1 Qf4 16.Ke2 O-O 17.Bxg4 Qxg4+
+18.Nf3 Qg2+ 19.Kd3 Re8 20.Rg1 Qxb2 21.Rb1 Qa3 22.Rb3 Qa6
+23.Ng5 b5 24.cxb5 cxb5 25.Qh5 b4 26.Kc2 Qc4 27.d5 Qc7 28.Qxh7+
+Kf8 29.Qh8+ Ke7 30.Qxg7 Kd8 31.Nxf7+ Kc8 32.Qg4+ Nd7 33.Nxd6+
+Qxd6 34.Rxb4 Kd8 35.Qg5+ Nf6 36.Rf4 Rf8 37.Rgf1 Ke7 38.Rxf6
+Rxf6 39.Qg7+ Ke8 40.Rxf6 Qh2+ 41.Kd3 Qd2+ 42.Kc4 Rc8+ 43.Rc6
+Rxc6+ 44.dxc6 Qd6 45.Qd7+ Qxd7 46.cxd7 Kxd7 47.Kd3 1-0

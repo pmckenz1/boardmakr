@@ -1,0 +1,16 @@
+[Event "Val Maubuee (France)"]
+[Site "Val Maubuee (France)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Gyozo Victor Forintos"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.d4 e6 2.e4 d5 3.exd5 exd5 4.Bd3 Nc6 5.c3 Bd6 6.Ne2 Nge7
+7.Bf4 Bg4 8.Qd2 O-O 9.O-O Bxf4 10.Qxf4 Qd7 11.Nd2 Ng6 12.Qg3
+Rae8 13.Rfe1 Re7 14.Nf4 1/2-1/2

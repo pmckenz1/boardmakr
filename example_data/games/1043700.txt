@@ -1,0 +1,26 @@
+[Event "Ch Marshall Chess Club, New York (USA)"]
+[Site "Ch Marshall Chess Club, New York (USA)"]
+[Date "1932.01.09"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Robert Levenstein"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Be3 Be7 6. Bd3 O-O
+7. f3 c6 8. d5 Nh5 9. Nge2 g6 10. O-O Bg5 11. Bf2 Nc5 12. Bc2
+cxd5 13. Nxd5 f5 14. h4 Bh6 15. b4 Ne6 16. exf5 gxf5 17. Qd3
+Qd7 18. Rad1 Qf7 19. Ndc3 Nef4 20. Nxf4 Nxf4 21. Qxd6 Be6
+22. Qxe5 Qg6 23. g3 Bxc4 24. Bb3 Bxb3 25. axb3 Rae8 26. Qb5
+Nh5 27. Kh2 Be3 28. Qe2 Kh8 29. Qb2 Qg7 30. Na4 Rf6 31. Rfe1
+Rg8 32. Rg1 f4 33. gxf4 Bxf4+ 34. Kh1 Qh6 35. Bd4 Ng3+
+36. Rxg3 Qxh4+ 37. Qh2 Bxg3 38. Qxh4 Bxh4 39. Nc5 b6 40. Ne4
+Rgg6 41. Ra1 Kg8 42. Bxf6 Bxf6 43. Rxa7 Bd4 44. Rd7 Be3
+45. Nd6 Rh6+ 46. Kg2 Rg6+ 47. Kf1 h5 48. Nf5 Bg5 49. f4 Bf6
+50. Rd6 Kh7 51. Rxb6 Rg4 52. Rxf6 Rxf4+ 53. Ke2 Rxb4 54. Rh6+
+Kg8 55. Nd4 Rxd4 56. Rxh5 Kf7 57. Re5 Rd6 58. Re3 Re6 59. Kd3
+Rxe3+ 60. Kxe3 Ke6 61. Ke4 Kd6 62. Kd4 Kc6 63. Kc4 1-0

@@ -1,0 +1,22 @@
+[Event "Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Laszlo Barczay"]
+[ECO "E66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. d4 O-O
+7. O-O d6 8. d5 Na5 9. Nd2 e5 10. b3 Ng4 11. a3 e4 12. Ndxe4
+f5 13. Bg5 Qd7 14. Rb1 fxe4 15. Nxe4 b6 16. h3 Nh6 17. g4 Kh8
+18. Qc1 Ng8 19. Bd2 Qe7 20. Bc3 Nb7 21. f4 Bd7 22. Ng3 Rae8
+23. e4 Bxc3 24. Qxc3+ Qg7 25. Qxg7+ Kxg7 26. Rbe1 Na5 27. Re3
+b5 28. e5 bxc4 29. b4 cxb4 30. axb4 Nb3 31. e6 Nd4 32. Ne4
+Bxe6 33. dxe6 Rxe6 34. Ra3 Rxf4 35. Rxa7+ Re7 36. Rfa1 Nb5
+37. R7a5 d5 38. Ng3 Nc3 39. Bxd5 Nxd5 40. Rxd5 Re3 41. Kg2 Rb3
+1/2-1/2

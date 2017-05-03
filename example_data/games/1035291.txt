@@ -1,0 +1,18 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1973.03.19"]
+[EventDate "1973.03.18"]
+[Round "2"]
+[Result "1-0"]
+[White "Walter Shawn Browne"]
+[Black "Curt Justin Brasket"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Qd5 5.Nc3 Bb4 6.Nf3 b6 7.Bd3
+Ba6 8.O-O Bxc3 9.bxc3 Bxd3 10.cxd3 Nd7 11.c4 Qd6 12.Qa4 c6
+13.Ba3 Qc7 14.d5 b5 15.cxb5 cxd5 16.Rac1 Qb7 17.Rc6 Ne7
+18.Bxe7 Nb6 19.Qg4 Kxe7 20.Rxe6+ Kf8 21.Qb4+ Kg8 22.Re7 Qc8
+23.Ng5 h6 24.Nxf7 Rh7 25.Nd6 Qf8 26.Rfe1 1-0

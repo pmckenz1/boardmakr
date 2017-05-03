@@ -1,0 +1,33 @@
+[Event "KasparovChess Cadet GP net"]
+[Site "?"]
+[Date "2000.01.11"]
+[EventDate "2000.01.09"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladimir Belov"]
+[Black "Jesus Alberto Alcazar Jimenez"]
+[ECO "B43"]
+[WhiteElo "2389"]
+[BlackElo "2143"]
+[PlyCount "197"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qb6 6. a3 Nc6
+7. Be3 Bc5 8. Na4 Qa5+ 9. b4 Qxa4 10. bxc5 Nf6 11. f3 O-O
+12. Be2 Qa5+ 13. Kf2 Ne5 14. Nb3 Qc7 15. Qd4 Nc6 16. Qd6 Ne8
+17. Qxc7 Nxc7 18. f4 f5 19. e5 Nd5 20. Bd2 Rb8 21. c4 Nde7
+22. Be3 g5 23. g3 Ng6 24. Rad1 Rf7 25. Bf3 Rg7 26. Rhg1 Ra8
+27. Rd2 a5 28. Rb1 Rf7 29. Bh5 g4 30. h3 gxh3 31. Kg1 a4
+32. Nd4 Nxd4 33. Rxd4 Rg7 34. Kh2 Ne7 35. Rd6 Nc6 36. Bd2 Kf8
+37. Bc3 Ke7 38. Bf3 Rg8 39. Kxh3 Ra6 40. Kg2 Kd8 41. Rb6 Rxb6
+42. cxb6 Nb8 43. Rd1 Na6 44. Bb4 Nb8 45. Kf2 Nc6 46. Bc3 Ke7
+47. Rh1 Rg7 48. Bd1 Rf7 49. c5 Kd8 50. Bxa4 Ne7 51. Bb3 Nc6
+52. Bc4 Rg7 53. Be2 Ne7 54. Bf3 Nc6 55. a4 Nb8 56. Rb1 Na6
+57. Bd4 Rg8 58. Be3 Rh8 59. Be2 Nb8 60. a5 h5 61. a6 bxa6
+62. b7 Kc7 63. bxc8=Q+ Rxc8 64. Bxh5 Kd8 65. Bf3 Ke7 66. Rb7
+Rh8 67. Bg2 Rc8 68. Bd2 Nc6 69. Bxc6 Rxc6 70. Be3 Kd8 71. Rb6
+Kc7 72. Ke2 a5 73. Kd3 a4 74. Kc4 a3 75. Kb3 Kc8 76. Kxa3 Kc7
+77. Kb4 Kc8 78. Rxc6+ dxc6 79. Ka5 Kb7 80. Bd4 Ka7 81. Kb4 Kb7
+82. Bf2 Kc7 83. Kc4 Kd7 84. Kd4 Ke7 85. g4 fxg4 86. Bh4+ Kf7
+87. Ke4 Kg6 88. Bg3 Kh6 89. f5 exf5+ 90. Kxf5 Kg7 91. e6 Kf8
+92. Kxg4 Ke7 93. Kf5 Ke8 94. Kf6 Kf8 95. Bd6+ Ke8 96. e7 Kd7
+97. Kf7 Kc8 98. e8=Q+ Kb7 99. Qd7+ 1-0

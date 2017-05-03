@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1954.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lorenzo Bauza"]
+[Black "Erich Eliskases"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nbd7 7.Nc3
+e5 8.e4 exd4 9.Nxd4 c6 10.h3 Re8 11.Re1 a5 12.Qc2 Nc5 13.Be3
+a4 14.Rad1 Nfd7 15.f4 Qa5 16.a3 Nb6 17.Bf1 Bd7 18.Kh2 Rad8
+19.Qf2 Nc8 20.Qc2 Re7 21.Bf2 Rde8 22.g4 h6 23.Bh4 g5 24.fxg5
+hxg5 25.Bg3 Be5 26.Bxe5 dxe5 27.Nde2 f6 28.Ng3 Rh7 29.Nh5 Rf8
+30.Be2 Be8 31.Rf1 Bxh5 32.gxh5 Kh8 33.Bg4 Ne7 34.Ne2 Nb3
+35.Rd7 Ng8 36.Rfd1 Nh6 37.Qc3 Qxc3 38.Nxc3 Nc5 39.Rd8 Rf7
+40.Kg3 Kg7 41.R1d6 Rxd8 42.Rxd8 Rf8 43.Rxf8 Kxf8 44.Be2 Nf7
+45.Kg4 Kg7 46.Bd1 Nd6 47.Bxa4 Nxc4 48.b4 Nxa4 49.Nxa4 Nxa3
+50.Kf5 Nc2 51.Ke6 Nxb4 52.h6+ Kxh6 53.Kxf6 Nd3 0-1

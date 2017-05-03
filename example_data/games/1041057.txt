@@ -1,0 +1,19 @@
+[Event "Montevideo"]
+[Site "Montevideo URU"]
+[Date "1956.07.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Walter Ader Hausman"]
+[Black "Erich Eliskases"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nbd7 8.Rb1 Re8 9.d5 Nc5 10.Nd2 a5 11.b3 Rf8 12.a3 Bd7 13.b4
+axb4 14.axb4 Na4 15.Qc2 Ne8 16.Nb3 f5 17.f3 Nxc3 18.Qxc3 Nf6
+19.exf5 Bxf5 20.Ra1 Rxa1 21.Qxa1 Nh5 22.Qa7 Nf4 23.Bxf4 exf4
+24.Nc1 Qa8 25.Qxa8 Bd4+ 26.Kh1 Rxa8 27.Bd3 Ra1 28.Nb3 Bxd3
+29.Rxa1 Bxa1 30.Nxa1 Bxc4 31.Kg1 0-1

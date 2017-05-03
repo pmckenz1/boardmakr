@@ -1,0 +1,23 @@
+[Event "ANU Carbon v Silicon Match"]
+[Site "Canberra B5"]
+[Date "1994.07.15"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "HIARCS (Computer)"]
+[Black "Brian Butler"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5
+7. Nd2 Bb4 8. Qc2 O-O 9. Be2 dxc4 10. Bxf6 Nxf6 11. Nxc4 Qc7
+12. O-O b6 13. Ne5 Bb7 14. Nb5 Qc8 15. Qb3 Be7 16. Rac1 Ne4
+17. Qd3 Nd6 18. Nxd6 Bxd6 19. f4 f6 20. Nxc6 Bxc6 21. Bf3 Qd8
+22. Rxc6 Rc8 23. Rfc1 Qd7 24. d5 Bc5 25. Rxe6 Rfd8 26. Rc3 Re8
+27. Be4 Rxe6 28. dxe6 Qxd3 29. Rxd3 Kf8 30. Bxh7 Ke7 31. f5
+Rd8 32. Rb3 Rd2 33. a4 a5 34. Kf1 Rc2 35. Bg6 Rd2 36. h4 Rc2
+37. Rd3 Bd6 38. b3 Rc5 39. Ke2 Rc2+ 40. Kf3 Rc5 41. g4 Rc1
+42. Ke4 Rc5 43. g5 Re5+ 44. Kf3 fxg5 45. hxg5 Rc5 46. e4 Rc1
+47. e5 Bxe5 48. Rd7+ Kf8 49. e7+ 1-0

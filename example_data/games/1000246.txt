@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Paul MacIntyre"]
+[Black "Noah J Siegel"]
+[ECO "B12"]
+[WhiteElo "2395"]
+[BlackElo "2255"]
+[PlyCount "69"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 Ne7
+7. Nf4 h5 8. Nxg6 Nxg6 9. gxh5 Nh4 10. Qg4 f5 11. exf6 Qxf6
+12. Be2 Nf5 13. Be3 c5 14. O-O-O cxd4 15. Bg5 Qf7 16. Nxd5 Nc6
+17. Rhe1 Bd6 18. Bc4 Ne5 19. Rxe5 Bxe5 20. Re1 Qxh5 21. Nc7+
+Kd7 22. Qxh5 Rxh5 23. Nxa8 Ne3 24. fxe3 Rxg5 25. Bxe6+ Kd6
+26. exd4 Bf4+ 27. Kd1 Rg2 28. Re4 g5 29. c4 b5 30. b3 bxc4
+31. bxc4 Rxh2 32. Bc8 Rh1+ 33. Ke2 Rh2+ 34. Kd3 Rh6 35. c5+
+1-0

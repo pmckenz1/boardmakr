@@ -1,0 +1,18 @@
+[Event "Krefeld"]
+[Site "Krefeld GER"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Willi Schlage"]
+[Black "Erich Eliskases"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 Nf6 4.e5 Nd5 5.Nc3 Nc6 6.Nxd5 exd5
+7.O-O d6 8.exd6 Bxd6 9.d4 cxd4 10.b3 O-O 11.Bb2 Re8 12.Nxd4
+Nxd4 13.Bxd4 Bf5 14.Bf3 Qc7 15.Bxd5 Bxh2+ 16.Kh1 Bxc2 17.Qf3
+Bf4 18.Rfe1 Bg6 19.Bxb7 Rad8 20.Qc6 Rxe1+ 21.Rxe1 Qxc6 22.Bxc6
+a6 23.Bb6 Rb8 24.Ba7 Rd8 25.Bb6 Rb8 26.Ba7 Rd8 27.Bb6 1/2-1/2

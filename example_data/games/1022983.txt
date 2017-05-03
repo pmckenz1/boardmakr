@@ -1,0 +1,19 @@
+[Event "Yerevan"]
+[Site "Yerevan ARM"]
+[Date "1971.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Aleksandar Matanovic"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Bf4 Bxc5 7.e3
+Nc6 8.Nf3 d5 9.Rd1 Qa5 10.a3 Rd8 11.Nd2 dxc4 12.Nxc4 Rxd1+
+13.Qxd1 Qd8 14.Qxd8+ Nxd8 15.Be2 Nd5 16.Nxd5 exd5 17.Bd6 b6
+18.Bxc5 bxc5 19.Na5 Rb8 20.b3 Rb6 21.Kd2 Nb7 22.Nxb7 Bxb7
+23.Rc1 Rxb3 24.Rxc5 Rxa3 25.Rb5 Ra2+ 26.Kd1 Ra1+ 27.Kd2
+1/2-1/2

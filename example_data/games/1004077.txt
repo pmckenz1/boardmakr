@@ -1,0 +1,25 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.10.02"]
+[EventDate "1928.09.21"]
+[Round "9"]
+[Result "1-0"]
+[White "Endre Steiner"]
+[Black "Hans Kmoch"]
+[ECO "C74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. d4 fxe4
+7. Ng5 exd4 8. Nxe4 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. Qh5+ g6
+12. Qd5 Bd7 13. O-O Qe7 14. Nxf6+ Qxf6 15. Re1+ Kf8 16. cxd4
+Kg7 17. Nc3 Rae8 18. Ne4 Qf5 19. Qxf5 Bxf5 20. Bxc6 bxc6
+21. f3 Bd7 22. g4 h6 23. h4 Rhf8 24. Kg2 Rb8 25. b3 Rb4
+26. Rad1 a5 27. g5 a4 28. gxh6+ Kxh6 29. Ng5 Rg8 30. Re7 Rg7
+31. Rde1 axb3 32. axb3 Rxd4 33. Rxg7 Kxg7 34. Re7+ Kf6
+35. Rxd7 Rxh4 36. Ne4+ Ke5 37. Rxc7 d5 38. Nc5 Kd6 39. Na6 Rf4
+40. Rg7 Rf6 41. b4 d4 42. Nc5 Kd5 43. Ne4 Re6 44. Kf2 Kc4
+45. Rb7 Re5 46. Rb6 g5 47. Rxc6+ Kxb4 48. Rg6 Ra5 49. Rxg5
+Ra2+ 50. Kg3 Kc4 51. Kf4 Kd3 52. Rg1 Ra8 53. Rd1+ Kc4 54. Nd6+
+Kd5 55. Nf5 1-0

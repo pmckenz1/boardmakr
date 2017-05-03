@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Riazantsev"]
+[Black "Aleksandar Nesterov"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. dxe6
+fxe6 13. Bc2 Be7 14. Qe2 O-O 15. Ng5 Qb6 16. e5 Qc6 17. f4
+Bc5+ 18. Kh1 Nxe5 19. fxe5 Ng4 20. Nf3 Qb6 21. Be4 Rad8
+22. Bxb7 Qxb7 23. h3 Rxf3 24. Rxf3 b4 25. hxg4 bxc3 26. bxc3
+Rd3 27. Rxd3 cxd3 28. Qxd3 Qe7 29. g5 Qe8 1-0

@@ -1,0 +1,17 @@
+[Event "New York op (09)"]
+[Site "New York op (09)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Roger La Flair"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.f3 d6 6.e4 g6 7.Na3 Bg7
+8.Ne2 Nbd7 9.Nc3 O-O 10.Be3 Ne8 11.Qd2 axb5 12.Naxb5 Nc7
+13.Bh6 Ba6 14.Bxg7 Kxg7 15.Nxc7 Qxc7 16.Bxa6 Rxa6 17.O-O Rb8
+18.f4 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "German Championship"]
+[Site "Bad Oeynhausen GER"]
+[Date "1939.07.20"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Wilhelm Ernst"]
+[Black "Erich Eliskases"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3
+cxd4 8.exd4 O-O 9.d5 h6 10.Nd4 Bc5 11.Be3 exd5 12.cxd5 Bxd4
+13.Bxd4 Nxd5 14.Qf3 Nb4 15.Qxb7 N8c6 16.Be4 Rb8 17.Bxc6 dxc6
+18.Qxa7 Qxd4 19.Rad1 Nd3 20.Rd2 c5 21.Nb5 Qb4 22.Rxd3 Qxb5
+23.Rb3 Qa5 24.Qxa5 bxa5 25.Rc1 Rxb3 26.axb3 Rb8 27.Rxc5 Rxb3
+28.Rxa5 Rxb2 29.g3 1/2-1/2

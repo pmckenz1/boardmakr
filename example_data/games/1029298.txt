@@ -1,0 +1,47 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.28"]
+[EventDate "1895.08.05"]
+[Round "18"]
+[Result "0-1"]
+[White "William Henry Krause Pollock"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1.e4 {Notes by H. N. Pillsbury} e5 2.Nf3 d6 3.d4 Bg4 4.dxe5
+Nd7 {The sacrifice of a Pawn so early in the game, merely to
+secure a slightly quicker development, should not be sound.}
+5.Be2 {5 exd6 Bxd6 6 Be2 was perfectly safe, with a Pawn
+plus.} Bxf3 6.Bxf3 dxe5 7.Nc3 c6 8.O-O Ngf6 9.Qe2 Qc7 10.Qc4
+{This attack is premature and results in loss of valuable
+time. 10 Be3 was the correct developing move.} Nb6 11.Qb3 Be7
+12.a4 O-O 13.Be3 Nbd7 14.Rad1 {Rfd1 was the proper move, more
+especially after having commenced a Pawn advance upon the
+Queen's wing.} Nc5 15.Qc4 Ne6 16.Ne2 Rfd8 17.Ng3 g6 18.Be2 h5
+19.f3 Nf4 20.Bxf4 {This capture involves White in grave
+difficulties ; he should have moved Rfe1.} exf4 21.Nh1 Qb6+
+22.Nf2 Rxd1 23.Bxd1 Bc5 {After Qxb2 24 Nd3 Qb6+ 25 Kh1 Qc7 26
+c3, White obtains a good counter-attack for the lost Pawn.}
+24.b4 {There appears to have been no necessity for this, and
+Black could have safely replied, Qxb4 25 Qxb4 Bxb4 26 Nd3 Bd2,
+with a fine game. White could still have obtained a fair game
+by 24 c3 Rd8 25 Bb3 Rd7 26 g3, etc.} Bxf2+ 25.Rxf2 Rd8 26.Qf1
+Rd2 {Black plays for a deep game he could simply win the
+Queen's wing Pawns, and his opponent could obtain no
+counter-attack to compensate for their loss.} 27.g3 fxg3
+28.hxg3 Qd4 29.c3 Qe3 30.c4 Qd4 31.Be2 Ra2 32.Kh2 Rxa4 33.b5
+Ra1 34.Qg2 Ra2 35.Qf1 Nd7 {With the entrance of the Knight,
+Black soon wins a second Pawn, after which the result is
+merely a question of time.} 36.Rg2 Nc5 37.Qf2 Qxf2 38.Rxf2 Nd3
+39.Rg2 Ne1 40.bxc6 bxc6 41.Rf2 Nxf3+ 42.Kg2 Nd4 43.Bd1 Ra1 {10
+Rxf2+ would have saved time ; the two Pawns plus would have
+settled matters in a shorter time.} 44.Rd2 c5 45.Kf2 a5 {f6 at
+once, followed by Kf7 and Ke6 would have shortened matters
+also.} 46.Ke3 Kf8 47.Kf4 f6 48.e5 Ke7 49.Ke4 fxe5 50.Kxe5 Ra3
+51.Rb2 Nc6+ 52.Kf4 Nb4 53.Rd2 Rd3 54.Rxd3 Nxd3+ 55.Kg5 Ne5
+56.Bb3 Kf7 57.Bd1 Kg7 58.Bb3 Nf7+ 59.Kf4 Kf6 60.Ke4 Ke6 61.Bd1
+Nd6+ 62.Kf4 Kf6 63.Bb3 g5 64.Kf3 Ke5 65.Ke3 Ne4 66.g4 h4
+67.Bc2 Nf6 68.Bd1 h3 69.Kf3 Kd4 0-1

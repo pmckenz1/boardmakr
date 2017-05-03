@@ -1,0 +1,21 @@
+[Event "09, New York"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Adam Kuligowski"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 e6 4.Qe2 g6 5.Na3 a6 6.c3 b5 7.Nc2 Nf6
+8.g3 d5 9.e5 Nd7 10.d4 Rb8 11.Bh3 h5 12.O-O Ne7 13.Be3 Nf5
+14.Bf2 Be7 15.Bg2 c4 16.h3 Nb6 17.g4 Ng7 18.Qd2 Kd7 19.Bg3 Kc6
+20.Ne3 Ra8 21.b3 Bd7 22.Rab1 Rc8 23.Qc2 Kb7 24.bxc4 bxc4 25.f5
+gxf5 26.gxf5 Nxf5 27.Nxf5 exf5 28.h4 Be6 29.Bf4 Bxh4 30.Nxh4
+Qxh4 31.Bc1 Rhg8 32.Rf2 Qe7 33.Qa4 Qd7 34.Qa5 Rc6 35.Ba3 Rb8
+36.Bc5 Ka7 37.Rfb2 Qd8 38.Rb4 h4 39.Rxc4 h3 40.Ra4 Qc8 41.Bf1
+1-0

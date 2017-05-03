@@ -1,0 +1,21 @@
+[Event "Manila (Philippines)"]
+[Site "Manila (Philippines)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "E Ababat"]
+[Black "Eugenio Torre"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f3 c6 5.Bc4 Bg7 6.Nge2 d5 7.exd5
+cxd5 8.Bb3 Nc6 9.Bg5 e6 10.Qd2 h6 11.Bf4 a6 12.h4 b5 13.a4 b4
+14.Na2 Qb6 15.a5 Qxa5 16.Bd6 Bf8 17.Qf4 Bxd6 18.Qxd6 Bb7 19.c3
+bxc3 20.bxc3 Qd8 21.Qa3 Qe7 22.Nac1 Nd7 23.Nd3 O-O 24.Kf2 Rfb8
+25.Qc1 Kg7 26.Ng3 Qf6 27.Nf4 Kg8 28.Qd2 Ne7 29.Rae1 Bc6 30.Ba2
+Rb6 31.Nd3 Bb5 32.Bb1 Bxd3 33.Bxd3 Kg7 34.Re2 a5 35.Qe3 Rc8
+36.Ra2 Rxc3 37.Ne2 Nf5 38.Qd2 Rcb3 39.Bxf5 Qxf5 40.Qxa5 Nf6
+41.Rf1 Ng4+ 42.Kg1 Ne3 43.Re1 Qf6 44.Qd2 Nxg2 0-1

@@ -1,0 +1,23 @@
+[Event "02, Ontario Closed Toronto CAN"]
+[Site "02, Ontario Closed Toronto CAN"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "William Peckford"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.e4 b6 2.Nc3 e6 3.a3 Bb7 4.d4 c5 5.Nf3 cxd4 6.Nxd4 Nc6 7.Be3
+Nf6 8.Nb3 Be7 9.f4 d6 10.Qf3 Qc7 11.O-O-O a6 12.Qh3 b5 13.Bd3
+b4 14.Na4 bxa3 15.Bb6 axb2 16.Kxb2 Qb8 17.Rhe1 Nd7 18.f5 e5
+19.Bc4 Nb4 20.Ba5 Nc6 21.Bd2 Nd4 22.Ra1 Qc7 23.Qd3 Rc8 24.Na5
+O-O 25.Ra2 Ba8 26.g4 Nf6 27.Nc3 Nb5 28.g5 Nd7 29.g6 Nxc3
+30.Qxc3 d5 31.exd5 Rb8+ 32.Kc1 Bb4 33.Qh3 Bxd2+ 34.Kxd2 h6
+35.gxf7 Rxf7 36.Kc1 Qd6 37.Rg1 Nf8 38.Qd3 Rc7 39.Rg4 Rb4 40.h3
+Nh7 41.Bb3 e4 42.Rxe4 Rxe4 43.Qxe4 Nf6 44.Qe6+ Qxe6 45.dxe6
+Be4 46.Nc4 Bxf5 47.Rxa6 Kf8 48.Ne5 Bxh3 49.Ng6+ Kg8 50.e7 Kh7
+51.Rxf6 Rxe7 52.Bg8+ 1-0

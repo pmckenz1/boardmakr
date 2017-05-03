@@ -1,0 +1,24 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Ketevan Arakhamia-Grant"]
+[Black "James Stevenson"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 Qb6 8. Na4 Qa5+ 9. c3 c4 10. b4 Qc7 11. g4 b5 12. Nc5
+a5 13. a3 Nxc5 14. dxc5 g6 15. a4 Ba6 16. axb5 Bxb5 17. Nd4
+Nxd4 18. Bxd4 Bg7 19. Bg2 O-O 20. O-O Bc6 21. Qd2 Ra7 22. f5
+Rfa8 23. f6 Bf8 24. h4 axb4 25. cxb4 Rxa1 26. Rxa1 Rxa1+
+27. Bxa1 Qa7 28. Bd4 Qa3 29. Kf2 Qb3 30. Bf3 Qa3 31. Qc3 Qa2+
+32. Qb2 Qa4 33. Ke1 Qa6 34. Qa1 Qb7 35. Qa3 Qb8 36. Kd2 Qb7
+37. Qa5 Bb5 38. Kc3 Qc6 39. Bd1 Bh6 40. Qd8+ Bf8 41. Qb6 Qa8
+42. Qa5 Qc6 43. Kb2 Qd7 44. Ka3 c3 45. Kb3 g5 46. h5 c2
+47. Kxc2 Bf1 48. Kb2 Bb5 49. Ka3 Qb7 50. Ba4 Be2 51. c6 Qc8
+52. Kb2 Bxg4 53. b5 Be2 54. b6 Ba6 55. Bb5 Bxb5 56. b7 1-0

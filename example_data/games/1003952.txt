@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.30"]
+[EventDate "1923.11.16"]
+[Round "9"]
+[Result "0-1"]
+[White "J von Patay"]
+[Black "Sandor Takacs"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Nbd7 5. e3 Be7 6. Qb3 c6
+7. a4 O-O 8. Bd3 Qc7 9. O-O dxc4 10. Bxc4 e5 11. h3 exd4
+12. exd4 Nb6 13. Bd3 Be6 14. Qc2 h6 15. Ne5 Nbd5 16. f4 Rad8
+17. Kh1 Qb6 18. Ne2 Nb4 19. Qb1 Nxd3 20. Qxd3 Nd5 21. f5 Bc8
+22. Qg3 Kh8 23. Nc3 Qxd4 24. Nxd5 Rxd5 25. Ng4 Rxf5 26. Be3
+Rxf1+ 27. Rxf1 Qd3 28. Rf3 Bxg4 29. hxg4 Qd1+ 30. Kh2 Qxa4
+31. g5 h5 32. Qe5 Qb4 33. Bf4 Qc5 34. Qc7 Kg8 35. Rh3 Bd8
+36. Qxb7 Bxg5 37. Bxg5 Qxg5 38. Qxc6 Qe5+ 39. Kg1 Qxb2
+40. Rxh5 Qb6+ 41. Rc5 Qxc6 42. Rxc6 Rb8 43. Ra6 Rb7 44. Kf2
+Kf8 45. Ke3 Ke8 0-1

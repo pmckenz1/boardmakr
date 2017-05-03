@@ -1,0 +1,16 @@
+[Event "Ch Hungary (team) /94"]
+[Site "Hungary"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Tibor Fogarasi"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.f3 O-O 6.Bg5 a6 7.Qd2
+Nbd7 8.Nge2 c5 9.d5 b5 10.cxb5 Nb6 11.Ng3 Nfd7 12.Bh6 Bxh6
+13.Qxh6 Ne5 14.Qc1 c4 1/2-1/2

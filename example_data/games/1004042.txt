@@ -1,0 +1,23 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "12"]
+[Result "0-1"]
+[White "Arpad Vajda"]
+[Black "David Przepiorka"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d6 6. Qc2
+Nc6 7. Qc3 Qe7 8. e4 e5 9. d5 Nb8 10. c5 dxc5 11. Nxe5 O-O
+12. O-O-O Re8 13. f4 Nbd7 14. Bb5 a6 15. Bxd7 Bxd7 16. g4 Bxg4
+17. Nxg4 Nxg4 18. Rhg1 f5 19. exf5 Nf6 20. Nc4 Rad8 21. Rde1
+Qf8 22. Ne3 b5 23. h4 Re4 24. b3 Rde8 25. Ng4 Rxe1+ 26. Rxe1
+Rxe1+ 27. Qxe1 Nxg4 28. Qe6+ Kh8 29. Qxa6 b4 30. Qc6 Nf6
+31. Kc2 h6 32. Kd3 Qd6 33. Kc4 Qxc6 34. dxc6 Ne4 35. Kd5 Nc3+
+36. Ke6 Kg8 37. f6 gxf6 38. Kxf6 Kf8 39. Ke6 Ke8 40. f5 Nxa2
+41. Kd5 Kf7 42. Kxc5 Kf6 43. Kb5 Kxf5 44. Ka6 Ke6 45. h5 Kd6
+46. Kb5 Kd5 47. Ka6 Kxc6 0-1

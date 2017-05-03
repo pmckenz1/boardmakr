@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Richard J Palliser"]
+[Black "Matthew P Broomfield"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 c5 6. e5 cxd4
+7. a3 dxc3 8. axb4 cxb2 9. Bxb2 Ne8 10. b5 d6 11. Qd2 f6
+12. exd6 Qxd6 13. Qe3 Qb4+ 14. Bc3 Qe7 15. Rxa7 Rxa7 16. Qxa7
+Nd7 17. Nf3 Nc5 18. Be2 Ne4 19. Ba5 Qa3 20. O-O Nc3 21. Bd1
+Nd6 1/2-1/2

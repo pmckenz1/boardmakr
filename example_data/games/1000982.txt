@@ -1,0 +1,33 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.27"]
+[EventDate "1912.05.20"]
+[Round "6"]
+[Result "0-1"]
+[White "Akiba Rubinstein"]
+[Black "Rudolf Spielmann"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 {Notes by Dr. Savielly Tartakower. *** The building up of
+an attack by the second player - especially in an opening both
+peculiar and difficult to handle - is a special art. We shall
+be able to follow some its guiding principles here.} c5 2.d5
+d6 3.c4 g6 4.e4 Bg7 5.Bd3 e6 {It will be noticed that Black
+carefully refrains from blocking the long diagonal either by
+5...e5 or, even temporarily, by 5...Nf6.} 6.Nc3 Ne7 7.Nge2
+{Here 7.f4, followed by Nf3, leads to more straightforward
+development.} exd5 8.exd5 Nd7 9.f4 Nf6 10.Ng3 h5 {Sounding the
+general attack.} 11.O-O h4 12.Nge4 Nxe4 13.Bxe4 Bd4+ 14.Kh1
+Nf5 {Black's attack has quickly assumed a concrete form. The
+text move announces the well-known attack by 15...Ng3+.}
+15.Bxf5 Bxf5 16.Re1+ Kf8 17.Qf3 {White seeks to avoid fresh
+weaknesses; e.g., if 17.Be3 Bxc3 18.bxc3 h3 19.g3 Be4+ 20.Kg1
+f5 (or 20...Bg2), and White's position remains restricted.} h3
+18.g3 {Evedently not 18.g4?? Qh4.} Qd7 19.Bd2 Bg4 20.Qf1 Qf5
+21.Rac1 Kg7 22.Be3 Bf6 23.b3 Rhe8 24.Bf2 Bf3+ 25.Kg1 Bg2
+26.Rxe8 Bxf1 27.Rxa8 Qd3 28.Re8 Qf3 29.Kxf1 Qh1+ 30.Bg1 Qg2+
+31.Ke1 Qxg1+ 32.Kd2 Qxh2+ {For if 33.Ne2 Qg2 34.Rg1 Qxg1!
+35.Nxg1 h2, etc.} 0-1

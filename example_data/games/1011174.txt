@@ -1,0 +1,20 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Artur Jakubiec"]
+[Black "Piotr Staniszewski"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. f4 d5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d3 b6
+7. Qe1 Bb7 8. h3 c5 9. Na3 Nbd7 10. g4 Qc7 11. Qg3 Bc6 12. c4
+e6 13. Bd2 a6 14. Qh4 h6 15. Rae1 b5 16. b3 bxc4 17. bxc4 Rab8
+18. f5 g5 19. Bxg5 hxg5 20. Nxg5 d4 21. fxe6 fxe6 22. Nxe6 Qd6
+23. Nxg7 Kxg7 24. Qg5+ Kh7 25. Qf5+ Kh8 26. Bxc6 Qxc6 27. Qg6
+Qc7 28. Kg2 Qb7+ 29. Kg1 Qc7 30. Kg2 Ne5 31. Qh6+ Nh7 32. Qxa6
+Rg8 33. Qe6 Ng6 34. Nb5 Nh4+ 35. Kh1 Qg3 0-1

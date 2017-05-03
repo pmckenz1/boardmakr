@@ -1,0 +1,15 @@
+[Event "It (cat.12)"]
+[Site "Chicago, IL USA"]
+[Date "1982.04.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Robert Huebner"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb6 5.Nc3 e5 6.d5 c6 7.Nf3
+cxd5 8.cxd5 Bb4 9.Bb5+ Bd7 10.Qb3 Bxc3+ 1/2-1/2

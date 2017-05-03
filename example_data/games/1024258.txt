@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn EST"]
+[Date "1973.03.03"]
+[EventDate "1973.02.20"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Josef Pribyl"]
+[Black "Yuri Balashov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Bb4 4.a3 Bxc3+ 5.bxc3 Ne7 6.Nf3 O-O 7.e3
+c5 8.Bd3 h6 9.O-O Nbc6 10.Qe2 b6 11.e4 cxd4 12.cxd4 Ba6 13.Bb2
+Na5 14.cxd5 Bxd3 15.Qxd3 exd5 16.Bc3 Nc4 17.Bb4 dxe4 18.Qxe4
+Re8 19.Qd3 Qd5 20.Rac1 Nd6 21.Rfe1 Ng6 22.Bxd6 Qxd6 23.g3 Qd5
+24.Rc7 a5 25.Rb1 Rac8 26.Rb5 Qe6 27.d5 Qg4 28.d6 Nf4 29.h3
+Nxh3+ 30.Kf1 Rxc7 31.dxc7 Qc8 1/2-1/2

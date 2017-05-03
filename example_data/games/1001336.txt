@@ -1,0 +1,20 @@
+[Event "London m ;HCL 34"]
+[Site "London m ;HCL 34"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Edward Lowe"]
+[Black "Hugh Alexander Kennedy"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Bd3 Qb6 6.Nf3 Bd7 7.dxc5
+Bxc5 8.O-O a5 9.a4 Nge7 10.Qc2 Ng6 11.Bxg6 hxg6 12.Bg5 Rh5
+13.Re1 Rc8 14.Nbd2 Bxf2+ 15.Kh1 Bxe1 16.Rxe1 Nd4 17.Nxd4 Qxd4
+18.Nf3 Qxa4 19.Qd2 Qg4 20.h3 Qf5 21.Kg1 f6 22.Bf4 fxe5 23.Bxe5
+Rh8 24.Bxg7 Rg8 25.Re5 Qf7 26.Bh6 Rc4 27.Qxd5 Rc6 28.Qxa5 b6
+29.Qa8+ Rc8 30.Qb7 Qe7 31.Qxb6 Rc6 32.Qe3 Rh8 33.Nd4 Rc4
+34.Bg5 Qd6 35.Bf4 1-0

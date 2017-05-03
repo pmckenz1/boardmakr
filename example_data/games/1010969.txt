@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Vladimir Dobrov"]
+[Black "Vladimir Kozlov"]
+[ECO "A65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6
+7. f3 Bg7 8. Nge2 O-O 9. Ng3 h5 10. Bg5 a6 11. a4 Qa5 12. Be2
+Nh7 13. Bd2 h4 14. Nf1 f5 15. Ne3 Nd7 16. exf5 gxf5 17. Nb5
+Qd8 18. Nxd6 Bxb2 19. Rb1 Bd4 20. Ndxf5 Ne5 21. Qc2 b5
+22. axb5 axb5 23. f4 Bxe3 24. Nxe3 Rxf4 25. Qxc5 Ng5 26. d6
+Ngf7 27. Qd5 Raa4 28. Nc2 Rfe4 29. Rb4 Raxb4 30. Bxb4 Bf5
+31. O-O Rxe2 32. Rxf5 h3 33. gxh3 Qc8 34. d7 Qxd7 35. Rxe5
+Qxd5 36. Rxd5 Rxc2 37. h4 Rb2 38. Rxb5 Kh7 39. h5 Ng5 40. Rb7+
+Kg8 41. h4 Nf3+ 42. Kf1 Nxh4 43. h6 Rxb4 44. Rxb4 Nf5 45. Rb7
+Nxh6 46. Kf2 Nf7 47. Kf3 Kg7 48. Kf4 Kf6 49. Rb6+ Ke7 50. Ra6
+Nd6 51. Ke5 Nf7+ 52. Kd5 Ng5 53. Rg6 Nf7 54. Rg8 1/2-1/2

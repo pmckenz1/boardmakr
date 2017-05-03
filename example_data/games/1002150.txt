@@ -1,0 +1,22 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.05"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Constant Ferdinand Burille"]
+[Black "John Washington Baird"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 {Notes by Steinitz} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O
+Be7 6.d4 b5 7.Bb3 d6 8.Nc3 O-O 9.a4 {?} Nxd4 10.Nxd4 exd4
+11.Qxd4 c5 12.Qe3 Ng4 13.Qe2 c4 14.Ba2 Bf6 15.Nd5 Re8 16.c3
+Be6 17.Nxf6+ Qxf6 18.f3 Ne5 19.Bb1 Nc6 20.axb5 axb5 21.Rxa8
+Rxa8 22.Qf2 Qe7 23.Rd1 Qc7 24.Bf4 Rd8 25.Qd2 Qb6+ 26.Kh1 d5
+27.Be3 Qa5 28.Qf2 Rd7 29.h3 Qd8 30.Qg3 f6 {If 30...d4 31.cxd4
+Nxd4 32.Bxd4 Rxd4 33.Rxd4,and Black dare not retake on acount
+of the impending Qb8+.} 31.exd5 Rxd5 32.Rxd5 Qxd5 33.Be4 Qd7
+34.Qh4 Bf5 35.Bxc6 Qxc6 1/2-1/2

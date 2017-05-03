@@ -1,0 +1,26 @@
+[Event "Las Vegas 5'"]
+[Site "Las Vegas 5'"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Walter Shawn Browne"]
+[Black "Vladimir Akopian"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3
+dxc4 8.Bxc4 O-O 9.O-O Qe7 10.Rd1 a6 11.e4 e5 12.h3 exd4
+13.Nxd4 Ne5 14.Be2 Ng6 15.Nf5 Bxf5 16.exf5 Ne5 17.Be3 Ned7
+18.Na4 Rad8 19.Rd4 Be5 20.Rd2 Nd5 21.Bc5 Nxc5 22.Nxc5 Nb4
+23.Qd1 Rxd2 24.Qxd2 Qxc5 25.Rd1 Nd5 26.Bf3 Bf6 27.g3 h6 28.h4
+Re8 29.Kg2 Qb4 30.Bxd5 Qxd2 31.Rxd2 cxd5 32.Rxd5 Bxb2 33.Rd7
+Rb8 34.Kf3 Ba3 35.Rc7 Bd6 36.Rc2 Re8 37.Rd2 Bc5 38.Rd5 b6
+39.Rd7 a5 40.g4 Kf8 41.g5 hxg5 42.hxg5 Rc8 43.g6 fxg6 44.fxg6
+Rc6 45.Rf7+ Kg8 46.Rb7 Rxg6 47.Ke4 Bxf2 48.a4 Rg4+ 49.Kf3 Rxa4
+50.Kxf2 Rb4 51.Rb8+ Kf7 52.Rb7+ Kg6 53.Ra7 a4 54.Ke3 b5 55.Kd3
+Rb3+ 56.Kd4 a3 57.Ke5 b4 58.Kd4 Rb2 59.Kc4 a2 60.Kd4 b3 61.Kc3
+Rb1 62.Ra6+ Kh7 63.Ra5 a1=Q+ 64.Rxa1 Rxa1 65.Kxb3 Rc1 66.Kb2
+Rc8 67.Kb3 g5 0-1

@@ -1,0 +1,22 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.01"]
+[EventDate "1927.06.26"]
+[Round "6"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Carl Ahues"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Bg5 Bb7 5. e3 h6 6. Bh4 Bb4+
+7. Nbd2 g5 8. Nxg5 hxg5 9. Bxg5 Na6 10. f3 Bxd2+ 11. Qxd2 Ne4
+12. Bxd8 Nxd2 13. Bf6 Rh6 14. Kxd2 Rxf6 15. e4 d6 16. a3 e5
+17. d5 Nc5 18. Kc3 a5 19. Be2 a4 20. Rag1 Ke7 21. g4 Rg8
+22. h4 Kf8 23. Bd1 Bc8 24. Rf1 Bd7 25. Be2 Rh8 26. Kd2 Rfh6
+27. h5 Rg8 28. Ke3 Ke7 29. Rhg1 f6 30. Rb1 Rg7 31. Rgf1 Rh8
+32. Rf2 Kf7 33. Rbf1 Rg5 34. f4 exf4+ 35. Rxf4 Rh6 36. Bd1 Bc8
+37. Kd4 Kg7 38. Kc3 Kf7 39. Kd4 Ke7 40. Kc3 Nd7 41. Rf5 Ne5
+42. Rxg5 fxg5 43. Rh1 Bxg4 0-1

@@ -1,0 +1,24 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Ibro Saric"]
+[Black "Bojan Medak"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. f3 b5 6. Qd2 Nbd7
+7. a4 b4 8. Nd1 a5 9. Bd3 Bg7 10. Ne2 O-O 11. Bh6 e5 12. Bxg7
+Kxg7 13. c3 bxc3 14. bxc3 Qb6 15. Rb1 Qa7 16. Nf2 Nb6 17. Qb2
+Rb8 18. c4 Re8 19. O-O Ba6 20. Qc3 Bc8 21. c5 dxc5 22. dxe5
+Ng8 23. Qxc5 Qc7 24. Qxa5 Rxe5 25. Qc3 f6 26. a5 Na4 27. Qa3
+Rxb1 28. Rxb1 Rxa5 29. Ra1 Ra8 30. Rc1 Qb6 31. Rc4 Qa5 32. g4
+c5 33. Qc1 Ne7 34. g5 Ng8 35. gxf6+ Nxf6 36. e5 Nd5 37. Rh4
+Ra7 38. Qh6+ Kg8 39. Bc4 Be6 40. Bxd5 Bxd5 41. Rf4 Rg7 42. Qg5
+h6 43. Qf6 Qe1+ 44. Kg2 Qxe2 45. Qd8+ Kh7 46. Qxd5 Nc3
+47. Qxc5 Nd1 48. Re4 Qxf2+ 49. Qxf2 Nxf2 50. Kxf2 g5 51. e6
+Re7 52. Ke3 Kg6 53. Kd4 Kf6 54. Kd5 1/2-1/2

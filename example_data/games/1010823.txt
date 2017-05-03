@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Anatolij J Sakov"]
+[Black "Vitaly Kunin"]
+[ECO "B29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 Nc6 6. Bf4
+Qc7 7. Bc4 e6 8. Qd2 h6 9. h4 b6 10. O-O-O Bb7 11. Qe2 O-O-O
+12. Ba6 d5 13. Bxb7+ Qxb7 14. Kb1 b5 15. Rhe1 Be7 16. h5 Kc7
+17. Bg3 a5 18. Bh4 Bxh4 19. Nxh4 Rb8 20. b3 a4 21. f4 axb3
+22. cxb3 c4 23. b4 d4 24. f5 Rhe8 25. Qg4 dxc3 26. Rd6 Qa7
+27. Qd1 Red8 28. fxe6 fxe6 29. Qg4 Qf2 0-1

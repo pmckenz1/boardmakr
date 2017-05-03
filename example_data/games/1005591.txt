@@ -1,0 +1,17 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "6"]
+[Result "0-1"]
+[White "Sergey Stepanenko"]
+[Black "Oleg Yurchenko"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Nb3 c4
+7. Nbd2 Nf6 8. Be2 Bd6 9. O-O O-O 10. c3 Re8 11. b3 Qa5
+12. Bb2 Ne4 13. bxc4 Nxc3 14. Bxc3 Qxc3 15. c5 Bf4 16. Nb3 Bf5
+17. Ne1 a5 0-1

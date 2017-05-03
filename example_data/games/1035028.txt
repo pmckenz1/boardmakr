@@ -1,0 +1,17 @@
+[Event "Rome (Italy)"]
+[Site "Rome (Italy)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Marco Pangrazzi"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bd2 Nxe5 6. Bc3
+Bg7 7. e3 g4 8. Ne2 d6 9. Nf4 Nbc6 10. Nh5 Bh6 11. Nd2 Bf5
+12. Ng3 Qd7 13. h3 O-O-O 14. Nxf5 Qxf5 15. hxg4 Nxg4 16. Qf3
+Qd7 17. Rxh6 Nxh6 18. Bxh8 Rxh8 19. Qf6 1-0

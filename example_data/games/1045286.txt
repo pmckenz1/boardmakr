@@ -1,0 +1,20 @@
+[Event "Groningen"]
+[Site "Groningen NED"]
+[Date "1976.12.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Krum Georgiev"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Nf3 e5
+7. O-O Nc6 8. d5 Ne7 9. Bd2 Ne8 10. Rc1 f5 11. Ng5 h6 12. Ne6
+Bxe6 13. dxe6 Qc8 14. Qb3 c6 15. f4 exf4 16. Bxf4 g5 17. Bg3
+f4 18. Bf2 Qxe6 19. Qxb7 Nf6 20. c5 d5 21. exd5 Nexd5 22. Nxd5
+Nxd5 23. Bc4 Rab8 24. Rce1 Qxe1 25. Qxc6 Qe7 26. Re1 Qd8
+27. b3 Kh8 28. Bxd5 g4 29. Re6 Qg5 30. Rg6 Qh5 31. Rxg7 g3
+32. Rg8+ 1-0

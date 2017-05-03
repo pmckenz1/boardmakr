@@ -1,0 +1,16 @@
+[Event "US Championship"]
+[Site "Chicago, IL USA"]
+[Date "1974.07.28"]
+[EventDate "1974.??.??"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Pal Benko"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.O-O Ne7 6.b3 Ng6
+7.Bb2 f6 8.d3 Be7 9.Nbd2 O-O 10.e5 fxe5 11.Nxe5 Nxe5 12.Bxe5
+d6 13.Bg3 e5 14.Qe2 Bg5 1/2-1/2

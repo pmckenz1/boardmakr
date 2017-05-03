@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Heather S Richards"]
+[Black "Robert McFarland"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 Nd7 6. Nf3 b5
+7. a4 b4 8. Ne2 c5 9. c3 bxc3 10. bxc3 Qa5 11. Ng3 Ngf6 12. h3
+Bb7 13. Bd3 O-O 14. O-O c4 15. Bb1 e5 16. d5 Nc5 17. Bh6 Bc8
+18. Qg5 Qxc3 19. Bxg7 Kxg7 20. Nh4 Ng8 21. Ra2 h6 22. Rc1 hxg5
+23. Rxc3 gxh4 24. Ne2 Rb8 25. Bc2 a5 26. Kh2 Nf6 27. f3 Rb4
+28. Nc1 Bd7 29. Ne2 Rfb8 30. Nc1 Bc8 31. Ra1 Ba6 32. Ne2 Nh5
+33. Ra2 Nb3 34. Ra3 Nd4 35. Nc1 Nf4 36. Bd1 Rb1 37. Bc2 Rxc1
+0-1

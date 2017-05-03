@@ -1,0 +1,22 @@
+[Event "Gausdal (Norway)"]
+[Site "Gausdal NOR"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Einar J Gausel"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.cxd5 exd5 6.Bg5 h6 7.Bh4
+Bf5 8.Qb3 g5 9.Bg3 Qb6 10.h4 g4 11.Nd2 Nbd7 12.h5 Qxb3 13.Nxb3
+a5 14.a3 Rg8 15.Bf4 b5 16.f3 a4 17.Nd2 gxf3 18.exf3 Nb6 19.g4
+Bh7 20.Kf2 Kd8 21.Be2 Ne8 22.Na2 Bg7 23.Be3 Nd6 24.Nb4 Rc8
+25.b3 Re8 26.Rac1 Kd7 27.bxa4 Nxa4 28.f4 c5 29.dxc5 d4 30.cxd6
+dxe3 31.Kg3 exd2 32.Bxb5+ Kxd6 33.Rxc8 Rxc8 34.Bxa4 Rc3+
+35.Kf2 Rxa3 36.Bd1 Bc3 37.Nc2 Ra2 38.f5 f6 39.Rh3 Ba5 40.Ra3
+Rxa3 41.Nxa3 Bg8 42.Ke3 Ke5 43.Nb1 Bd5 44.Nxd2 Bxd2+ 45.Kxd2
+Kf4 0-1

@@ -1,0 +1,15 @@
+[Event "7, Roma op (10s)"]
+[Site "Rome ITA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Dario Doncevic"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1. f4 d5 2. Nf3 g6 3. d3 Bg7 4. g3 Nh6 5. Bg2 O-O 6. O-O d4
+7. c3 c5 8. e4 dxe3 9. Bxe3 Qb6 1/2-1/2

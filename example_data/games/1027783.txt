@@ -1,0 +1,18 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Zoltan Varga"]
+[Black "Istvan Bilek"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nbd7 6.Be3 a6 7.g4
+g6 8.g5 Nh5 9.Be2 Ng7 10.h4 b5 11.h5 Bb7 12.h6 Ne6 13.Nxe6
+fxe6 14.Bg4 b4 15.Na4 Qa5 16.Qd4 Ne5 17.Nb6 Nxg4 18.Nxa8 b3+
+19.Bd2 Qe5 20.Qxe5 Nxe5 21.Bc3 Bxa8 22.Bxe5 dxe5 23.f3 bxc2
+24.Rc1 Bxh6 25.Rxh6 1-0

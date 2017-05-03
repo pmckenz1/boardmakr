@@ -1,0 +1,23 @@
+[Event "New York blitz"]
+[Site "New York Blitz"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Roman Dzindzichashvili"]
+[Black "Fritz (Computer)"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.c4 Nf6 5.O-O dxc4 6.Na3 Be6 7.Qa4
+Qa5 8.Qc2 Nb4 9.Qc3 Nfd5 10.Qe5 Nc7 11.b3 Nc6 12.Qf4 cxb3
+13.axb3 Bxb3 14.Bb2 Nd5 15.Qh4 Qb4 16.e4 Nf6 17.Ng5 Nd4 18.Bc3
+Ne2+ 19.Kh1 Nxc3 20.dxc3 Qxc3 21.e5 Qxe5 22.Bxb7 Bd5+ 23.Bxd5
+Qxd5+ 24.Kg1 Rb8 25.Rfd1 Qc6 26.Nc4 Qc7 27.Re1 Rb4 28.Rab1
+Rxb1 29.Rxb1 g6 30.Qf4 Qxf4 31.gxf4 Nd7 32.Ne5 f6 33.Nxd7 Kxd7
+34.Rd1+ Kc6 35.Ne6 c4 36.Kf1 f5 37.Ke2 a5 38.Rd4 Bh6 39.Kd2
+Rb8 40.Kc3 Rb3+ 41.Kxc4 Rb2 42.Rd3 Rxf2 43.Rh3 Bxf4 44.Rxh7
+Rc2+ 45.Kd3+ Rd2+ 46.Kc3 Rxh2 47.Rxe7 Kd6 48.Re8 Kd7 49.Ng7
+Rh7 50.Rg8 Be5+ 51.Kc4 Rxg7 0-1

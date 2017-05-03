@@ -1,0 +1,29 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN"]
+[Date "1972.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Gyozo Victor Forintos"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "164"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nc6 5.Be3 Nf6 6.Nf3 O-O 7.Be2
+e5 8.dxe5 Ng4 9.Bg1 dxe5 10.Qxd8 Rxd8 11.h3 Nf6 12.fxe5 Nd7
+13.O-O-O Ndxe5 14.Nd5 Be6 15.Bh2 Rd7 16.Bb5 Nxf3 17.gxf3 Bxh3
+18.Bg3 Be6 19.Nxc7 Rad8 20.Rxd7 Rxd7 21.Nxe6 fxe6 22.Bc4 Nd4
+23.c3 b5 24.Bf1 Nxf3 25.Bxb5 Rb7 26.Bc4 Rb6 27.Bf2 Rc6 28.Be2
+Bd4 29.Bxd4 Nxd4 30.Bd1 Rc7 31.Kd2 Nc6 32.Ke3 Kg7 33.b4 h5
+34.Rf1 Ne5 35.Kd4 Nc4 36.Be2 e5 37.Kd3 Nd6 38.a4 Rc8 39.Bd1
+Kh6 40.Bb3 Kg5 41.Bd5 Rb8 42.b5 Rd8 43.c4 Nb7 44.Kc3 Nc5
+45.Kb4 Nd3+ 46.Kc3 Nc5 47.a5 h4 48.Kb4 Nd3+ 49.Kc3 Nc5 50.a6
+Rb8 51.Rf7 h3 52.Rxa7 Rh8 53.Rf7 h2 54.Rf1 h1=Q 55.Rxh1 Rxh1
+56.a7 Ra1 57.a8=Q Rxa8 58.Bxa8 Kf6 59.Kd2 Kg5 60.Ke3 Kg4
+61.Kf2 Kh3 62.Kg1 Kg3 63.Bd5 Na4 64.Bf7 g5 65.Bd5 Kf3 66.b6
+Nxb6 67.c5 Nd7 68.c6 Nb6 69.c7 g4 70.Kf1 Nc8 71.Be6 Nd6 72.Bf5
+g3 73.Kg1 g2 74.Bg6 Nc8 75.Bh7 Nd6 76.Bf5 Kg3 77.c8=Q Nxc8
+78.Bxc8 Kf3 79.Bf5 Kg3 80.Bh7 Kf3 81.Bg6 Kg3 82.Bh5 Kf4
+1/2-1/2

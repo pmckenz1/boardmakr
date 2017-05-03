@@ -1,0 +1,16 @@
+[Event "50th USSR Championship"]
+[Site "Moscow URS"]
+[Date "1983.04.09"]
+[EventDate "1983.04.03"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Yuri Razuvaev"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.a4 Bb7 9.Nc3 d6 10.d3 Na5 11.Ba2 b4 12.Ne2 c5 13.Ng3 Bc8
+14.Bd2 Rb8 15.h3 Qc7 16.Qe2 Nc6 17.Rf1 Be6 18.Bxe6 1/2-1/2

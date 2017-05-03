@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Ylon Schwartz"]
+[Black "Steven J Szpisjak"]
+[ECO "D11"]
+[WhiteElo "2366"]
+[BlackElo "2200"]
+[PlyCount "47"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. Qc2 g6 5. Bf4 Bg7 6. e3 O-O
+7. h3 Nbd7 8. Nc3 e6 9. Be2 dxc4 10. Bxc4 Nb6 11. Bb3 a5
+12. a3 Nbd5 13. Bh2 b5 14. O-O Ba6 15. Rfd1 Qe7 16. Rac1 Rfc8
+17. Ne5 Nd7 18. Nxc6 Qg5 19. Bxd5 exd5 20. Nxd5 Bf8 21. Nc7
+Bb7 22. d5 Rxc7 23. Bxc7 Rc8 24. Bf4 1-0

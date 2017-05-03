@@ -1,0 +1,16 @@
+[Event "USSR Ch. Semi-Final"]
+[Site "Kiev USSR"]
+[Date "1950.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Geller"]
+[Black "Josif E Vatnikov"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.O-O
+Be7 8.Be3 O-O 9.Bb3 Na5 10.f4 b6 11.e5 Ne8 12.f5 dxe5 13.fxe6
+f6 14.Nf5 Nxb3 15.Nd5 Nd4 16.Ndxe7+ Kh8 17.Ng6+ hxg6 18.e7 1-0

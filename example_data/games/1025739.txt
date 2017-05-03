@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.19"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Detlef Heinbuch"]
+[Black "Gerardo F Barbero"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 f5 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.Nbd2 Nc6 7.Re1
+d5 8.b3 Ne4 9.Bb2 e6 10.e3 a5 11.c4 Bd7 12.a3 Qf6 13.Rc1 Be8
+14.Ne5 Nxe5 15.dxe5 Qf7 16.f4 c6 17.Bd4 Kh8 18.cxd5 exd5
+19.Nxe4 dxe4 20.Bc5 Rg8 21.Bf1 Bd7 22.Bc4 Be6 23.Re2 Rad8
+24.Rd2 Rxd2 25.Qxd2 Bxc4 26.bxc4 Ra8 27.a4 g5 28.Bd6 gxf4
+29.exf4 h5 30.Qe2 Rg8 31.Rd1 Bh6 32.Kh1 1/2-1/2

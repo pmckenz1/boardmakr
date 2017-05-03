@@ -1,0 +1,16 @@
+[Event "06, Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Nicolas Giffard"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 c5 5.Nf3 d6 6.Bg2 Nc6 7.O-O
+Bxc3 8.bxc3 O-O 9.dxc5 dxc5 10.Bf4 Qxd1 11.Rfxd1 Nd7 12.Bc7
+Nb6 1/2-1/2

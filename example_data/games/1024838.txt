@@ -1,0 +1,21 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Alexander I Petrushin"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O Be6 9.f4 Qc7 10.a4 Nbd7 11.Kh1 O-O 12.f5 Bc4 13.Bg5
+h6 14.Bh4 Rfe8 15.Rf3 Rad8 16.Nd2 Bxe2 17.Qxe2 Rc8 18.a5 Qc6
+19.Ra4 Nc5 20.Rc4 b5 21.axb6 Qxb6 22.Bxf6 Bxf6 23.b3 Nd7
+24.Rxc8 Rxc8 25.Nc4 Qc5 26.Rd3 Rc6 27.g3 Be7 28.Nd5 Bd8 29.Rd1
+Kf8 30.Ra1 Qb5 31.Kg2 Nf6 32.Nxf6 Bxf6 33.Qd2 Qb8 34.Ra5 Qc7
+35.Qd5 Bd8 36.Ra1 Kg8 37.h4 Be7 38.Kh3 Qc8 39.Qd3 Kf8 40.Rd1
+Ke8 1-0

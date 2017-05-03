@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "?"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Louis Paulsen"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O
+Bb6 8.cxd4 d6 9.d5 Na5 10.Bb2 Ne7 11.Bd3 O-O 12.Nc3 Ng6 13.Na4
+c5 14.Nxb6 axb6 15.Qc1 f6 16.Ne1 Bd7 17.f4 c4 18.Bc2 Qc7
+19.Bd4 b5 20.Nf3 b4 21.Qe3 b3 22.Bb1 c3 23.axb3 Nxb3 24.Rxa8
+Rxa8 25.Bxc3 Bb5 26.Re1 Na5 27.Nd4 Bd7 28.Ne6 Bxe6 29.dxe6 Nc4
+30.Qf2 Na3 31.Bd4 Nxb1 32.Rxb1 Qc4 33.f5 Ra2 34.Qe3 Qc2 0-1

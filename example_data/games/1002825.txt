@@ -1,0 +1,31 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.20"]
+[EventDate "1897.09.13"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Adolf Julius Zinkl"]
+[Black "Horatio Caro"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "172"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6
+7. Ne2 Bg4 8. c3 Bc5 9. Ng3 Nh5 10. Nxh5 Bxh5 11. Be3 Bb6
+12. h3 Ne7 13. g4 Bg6 14. Bxb6 axb6 15. Nh4 c6 16. Ba4 d5
+17. Nf5 f6 18. Bb3 Bf7 19. Nxe7+ Qxe7 20. exd5 cxd5 21. d4
+Rad8 22. Qe2 Qc7 23. Rad1 e4 24. Rc1 Qd7 25. f4 f5 26. g5 b5
+27. a3 Rfe8 28. Rce1 Re6 29. h4 Qe8 30. Bd1 Rb6 31. Kf2 Qc6
+32. Ke3 Rc8 33. Rg1 Ra6 34. h5 Be8 35. Bb3 Rxa3 36. bxa3 Qxc3+
+37. Kf2 Qxb3 38. Rc1 Rc4 39. Rg3 Qa4 40. Rxc4 bxc4 41. Rc3 Qa5
+42. Qb2 Qc7 43. Ke3 Bxh5 44. Qb5 Bf7 45. Rc1 Qd6 46. Qc5 Qg6
+47. Rg1 b6 48. Qc8+ Be8 49. Qd8 Qc6 50. Rb1 b5 51. Qe7 Qd7
+52. Qxd7 Bxd7 53. Kd2 g6 54. Rh1 Be8 55. Kc3 h5 56. gxh6 Kh7
+57. Kb4 g5 58. fxg5 f4 59. Rf1 e3 60. Kc3 e2 61. Rc1 Bg6
+62. Kd2 Bd3 63. Rg1 Kg6 64. Ke1 f3 65. Kf2 Be4 66. Rh1 Kh7
+67. Rh3 c3 68. Rh1 c2 69. Rc1 Kg6 70. Rg1 Kh7 71. Rh1 Kg6
+72. h7 e1=Q+ 73. Rxe1 Kxh7 74. Rg1 Kg6 75. Ke3 Kf7 76. g6+
+Bxg6 77. Kxf3 Ke7 78. Ke3 Kd7 79. Kd2 Be4 80. Rf1 Kc7 81. Rf6
+Kb7 82. Kc1 Kc7 83. Kb2 Kb7 84. Rh6 Kc7 85. Rh3 Kb6 86. Rc3
+Kb7 1/2-1/2

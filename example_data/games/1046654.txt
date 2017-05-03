@@ -1,0 +1,22 @@
+[Event "Bundesliga /98, Germany"]
+[Site "Bundesliga 1997/98, Germany"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Rustem Dautov"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rb1 b6 10. Bb5+ Bd7 11. Be2 O-O
+12. Nf3 cxd4 13. cxd4 Nc6 14. Qxa5 Nxa5 15. Rc1 Rac8 16. Kd2
+f5 17. exf5 Bxf5 18. Ba6 Rcd8 19. Ke2 Be6 20. Rc2 Bd5 21. Rhc1
+Rd6 22. Rc7 Rc6 23. Bb7 Bxf3+ 24. gxf3 Rxc7 25. Rxc7 Nxb7
+26. Rxb7 Rd8 27. Rxe7 Bxd4 28. Rxa7 Rd5 29. Ra4 Bc5 30. Rc4
+Kf7 31. Bxc5 bxc5 32. Re4 Rh5 33. h4 g5 34. hxg5 Rxg5 35. Kd3
+Rg2 36. Rf4+ Ke6 37. Ke3 Rg1 38. Rh4 Ra1 39. a4 Ra3+ 40. Ke2
+Ra2+ 41. Ke3 1/2-1/2

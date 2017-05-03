@@ -1,0 +1,23 @@
+[Event "Ch New York UUSAO C"]
+[Site "Ch New York <USA> C"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Ronald Young"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Nf3 O-O 8.Be2 c5 9.Rb1 Qa5 10.O-O Qxa2 11.Bg5 Qe6 12.e5 Rd8
+13.Qa4 Nc6 14.d5 Rxd5 15.Bc4 b5 16.Qxb5 Bd7 17.Qb7 Rd8 18.Bxd5
+Qxd5 19.Rbd1 Qe6 20.Qc7 a5 21.Rd2 Kf8 22.Rfd1 Ke8 23.Be3 Nxe5
+24.Nxe5 Bxe5 25.Qxc5 Bd6 26.Qxa5 Bc6 27.Qb6 Qe4 28.f3 Qc4
+29.Kh1 Qxc3 30.Bd4 Qc4 31.Bc5 Qb5 32.Qa7 Ra8 33.Rxd6 exd6
+34.Re1+ Kf8 35.Qe7+ Kg8 36.Qxd6 h6 37.h3 Qb7 38.Re7 Qb5 39.Qf6
+Qb1+ 40.Kh2 Qf5 41.Qxc6 Qf4+ 42.Kg1 Ra1+ 43.Kf2 Qh4+ 44.g3
+Ra2+ 45.Re2 Rxe2+ 46.Kxe2 Qxg3 47.Qe8+ Kg7 48.Bd4+ f6 49.Qe7+
+Kg8 50.Qe6+ Kf8 51.Qxf6+ 1-0

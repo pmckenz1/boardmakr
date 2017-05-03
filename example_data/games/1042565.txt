@@ -1,0 +1,18 @@
+[Event "Haag"]
+[Site "Haag"]
+[Date "1942.09.25"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Arnoldus Johannes van den Hoek"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7
+7. cxd5 O-O 8. Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bg4 11. Bxf6 Bxf3
+12. Nxf3 Bxf6 13. O-O Rc8 14. Rfe1 Qc7 15. Ne5 a6 16. Rad1
+Rcd8 17. Rc1 Rc8 18. g3 Rfd8 19. d6 Rxd6 20. Ne4 Qxc1
+21. Qxf7+ Kh8 22. Rxc1 Rxc1+ 23. Kg2 1-0

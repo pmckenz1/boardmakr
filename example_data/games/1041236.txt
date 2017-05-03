@@ -1,0 +1,21 @@
+[Event "Buenos"]
+[Site "Buenos Aires ARG"]
+[Date "1968.06.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Raul Sanguineti"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 c6 7.O-O
+Qa5 8.h3 Qb4 9.Qd3 a5 10.e4 Na6 11.a3 Qb6 12.Be3 Qc7 13.Rfd1
+Re8 14.Rac1 Nd7 15.Qb1 e5 16.dxe5 Nxe5 17.Nxe5 dxe5 18.b4 axb4
+19.axb4 Qe7 20.b5 Nc7 21.Rd2 Ne6 22.Ne2 Ra3 23.Ra2 Rxa2
+24.Qxa2 Rd8 25.Bb6 Re8 26.Rd1 Nd4 27.Nxd4 exd4 28.bxc6 bxc6
+29.Qa4 Bd7 30.Qa7 Be6 31.Bxd4 Qxa7 32.Bxa7 Bxc4 33.e5 Bb5
+34.f4 f6 35.exf6 Bxf6 36.Bf3 Ra8 37.Bd4 Bxd4+ 38.Rxd4 Ra7
+39.Rd2 Kf7 40.Kf2 1/2-1/2

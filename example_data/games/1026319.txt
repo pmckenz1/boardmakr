@@ -1,0 +1,19 @@
+[Event "Eastbourne ch-GB"]
+[Site "Eastbourne ENG"]
+[Date "1990.08.03"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Michael John Basman"]
+[Black "John C Hawksworth"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. h3 d5 2. a3 e5 3. c4 c6 4. cxd5 cxd5 5. d4 exd4 6. Nf3 Nc6
+7. g4 Qb6 8. Bg2 g6 9. b4 Bg7 10. Bb2 Nge7 11. Nbd2 h5 12. Nb3
+hxg4 13. hxg4 Rxh1+ 14. Bxh1 Bxg4 15. Rc1 Bxf3 16. Bxf3 Kf8
+17. Ba1 Rd8 18. Bg2 Nf5 19. Rc5 Kg8 20. Bh3 Nd6 21. Rxd5 Ne4
+22. Rxd8+ Qxd8 23. Bg2 Qh4 24. Bxe4 Qxe4 25. f3 Qd5 26. Kf2 b5
+27. Bb2 Bf6 28. Nc5 Bh4+ 29. Kf1 Qd6 30. e4 0-1

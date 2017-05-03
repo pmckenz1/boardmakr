@@ -1,0 +1,21 @@
+[Event "Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.09"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Aldo Zadrima"]
+[Black "Utut Adianto"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 g6 6.O-O Bg7 7.c3
+Nc6 8.Nxc6 bxc6 9.Qe2 d5 10.Be3 Nf6 11.Bc5 Nd7 12.Ba3 Bf8
+13.Bxf8 Kxf8 14.Nd2 Kg7 15.Rfd1 e5 16.c4 d4 17.b4 c5 18.a3 a5
+19.bxa5 Rxa5 20.Rdb1 Ra7 21.Qd1 Bb7 22.f3 Bc6 23.Qc1 h5 24.Rb3
+h4 25.Rab1 Qe7 26.Nf1 Rha8 27.Ra1 Nf8 28.Ra2 Ne6 29.g3 Ng5
+30.Nd2 hxg3 31.hxg3 Rh8 32.Bf1 Ne6 33.Rb6 Qg5 34.Qe1 Ba4
+35.Rab2 Qh5 36.Bg2 Ng5 37.Kf2 Qh2 38.Qf1 Rh3 39.g4 Rg3 40.Qh1
+Nh3+ 41.Kf1 Qxh1+ 0-1

@@ -1,0 +1,20 @@
+[Event "Santiago ch-CH"]
+[Site "Santiago ch-CH"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Sebastian Silva Lillo"]
+[Black "Andres Rodriguez Vila"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 e6 2.c4 Bb4+ 3.Bd2 a5 4.Nf3 Nf6 5.g3 Qe7 6.Bg2 Bxd2+
+7.Nbxd2 d6 8.O-O O-O 9.Rc1 e5 10.e4 Bg4 11.Qc2 Nc6 12.d5 Nb4
+13.Qb1 Bxf3 14.Bxf3 Na6 15.b3 Nd7 16.a3 g6 17.Bg4 f5 18.Bh3
+Qg5 19.Qc2 Qh5 20.Bg2 f4 21.Bf3 Qg5 22.Qc3 h5 23.b4 axb4
+24.axb4 Nf6 25.c5 h4 26.Kg2 fxg3 27.hxg3 dxc5 28.bxc5 Rf7
+29.d6 hxg3 30.fxg3 Nxc5 31.dxc7 Rxc7 32.Nc4 Ra2+ 33.Nb2 Ne6
+34.Qb3 Rxb2+ 35.Qxb2 Nf4+ 36.Kh1 Rh7+ 0-1

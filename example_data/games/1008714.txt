@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Thomas Clarke"]
+[Black "Krishnan Sasikiran"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 d5 4. Nd2 Bf5 5. Nxe4 dxe4 6. e3 h6
+7. Bf4 e6 8. g4 Bg6 9. h5 Bh7 10. Bg2 Bd6 11. Ne2 Nc6 12. Qd2
+Bxf4 13. exf4 Qd5 14. O-O O-O-O 15. Qe3 Nxd4 16. Nc3 Qa5
+17. Bxe4 Bxe4 18. Qxe4 f5 19. gxf5 Qxf5 20. Qxf5 exf5 21. Kh1
+Nxc2 22. Rac1 Nb4 23. Nb5 c6 24. Rc4 Nd3 25. Nxa7+ Kb8 26. Ra4
+Rhe8 0-1

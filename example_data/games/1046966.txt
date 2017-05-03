@@ -1,0 +1,20 @@
+[Event "Tilburg UNEDO"]
+[Site "Tilburg NED"]
+[Date "1994.09.23"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Alisa Maric"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Bd2
+Be7 8.Qc2 Nxc3 9.Bxc3 Qd5 10.e3 Nd7 11.O-O-O O-O-O 12.Qa4 Kb8
+13.Bc4 Bc6 14.Qa6 Qh5 15.Rhe1 Rc8 16.e4 Ka8 17.Bd3 Rhd8 18.h3
+Nb8 19.Qc4 Bb7 20.Kb1 c5 21.d5 f6 22.Qa4 exd5 23.exd5 Bd6
+24.Be4 Nd7 25.g4 Qf7 26.Bf5 Rc7 27.Be6 Qf8 28.Nd2 a6 29.Qc2 h6
+30.Nc4 Ka7 31.Qf5 Bc8 32.h4 Bb7 33.g5 hxg5 34.hxg5 b5 35.Nxd6
+Qxd6 36.gxf6 gxf6 37.Bd2 Rf8 38.Bh6 Rh8 39.Bf4 Ne5 40.Qxf6 1-0

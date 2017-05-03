@@ -1,0 +1,21 @@
+[Event "St Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1916.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Leon Szwarcman"]
+[Black "Alexander Alekhine"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5
+7. d3 Qf6 8. Be3 Ne7 9. Nbd2 g5 10. d4 Ng6 11. Bxg5 Qg7
+12. hxg4 hxg4 13. Nh4 Nxh4 14. Bxh4 Rxh4 15. g3 Rh8 16. Kg2
+O-O-O 17. Qe2 Rxd4 18. Rh1 Rg8 19. Rad1 Qg6 20. c3 Rd7 21. Nc4
+Rxd1 22. Rxd1 Bg7 23. Rh1 Kb8 24. Qd3 Bf6 25. Ne3 Rd8 26. Qc4
+Rd2 27. Nf5 Rxb2 28. Rh6 Qg5 29. Qc5 Bg7 30. Rh7 b6 31. Rxg7
+Qd2 32. Qe3 Qd1 33. Rg8+ Ka7 34. Nd4 exd4 35. Qf4 Qf3+
+36. Qxf3 gxf3+ 37. Kxf3 dxc3 38. Ke3 Rd2 39. Rh8 Rd1 0-1

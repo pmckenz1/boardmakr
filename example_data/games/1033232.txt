@@ -1,0 +1,22 @@
+[Event "4, Roma op (10s)"]
+[Site "Rome ITA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Giovanni Micalizzi"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e6 4. d4 d5 5. e5 Bd7 6. Be2 Nge7
+7. O-O Nf5 8. dxc5 Bxc5 9. b4 Be7 10. Bd3 g6 11. Re1 Qc7
+12. Bf4 a6 13. Nbd2 Na7 14. Rc1 Bc6 15. Nb3 Bb5 16. Bb1 O-O
+17. Bxf5 gxf5 18. Ng5 h6 19. Nh3 Kg7 20. Qh5 Rh8 21. Re3 Nc6
+22. Rce1 Rag8 23. Rg3+ Kf8 24. Rxg8+ Kxg8 25. g4 fxg4 26. Bxh6
+Nxe5 27. Ng5 Ng6 28. Rxe6 Rxh6 29. Qxh6 Bxg5 30. Qxg5 Qxc3
+31. Re3 Qc4 32. Re1 Qxb4 33. Rc1 Qe4 34. Qe3 Nf4 35. Rc8+ Kh7
+36. Qxe4+ dxe4 37. Rc7 Kg6 38. Nd4 Bd3 39. Rxb7 f6 40. Rb8 Kg5
+41. Rg8+ Kh4 42. Nf5+ 1/2-1/2

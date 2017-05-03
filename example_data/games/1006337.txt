@@ -1,0 +1,18 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.13"]
+[EventDate "2000.04.05"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Tom E Wiley"]
+[Black "Sigurdur Dadi Sigfusson"]
+[ECO "D85"]
+[WhiteElo "2294"]
+[BlackElo "2215"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rb1 cxd4 10. cxd4 Qxd2+ 11. Kxd2
+O-O 12. Bd3 Rd8 13. Nf3 e6 14. Rhc1 Nc6 15. e5 f6 16. exf6
+Bxf6 17. Rc4 e5 18. dxe5 Bf5 19. Rc3 Nxe5 20. Nxe5 Bxe5
+21. Ra3 b6 22. Ke2 Rxd3 1/2-1/2

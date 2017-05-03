@@ -1,0 +1,21 @@
+[Event "FRG-ch International"]
+[Site "Hannover FRG"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Tamas Georgadze"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2
+a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bf4 Nc6 11.Nc3 Nb4 12.Qb1 c5 13.dxc5
+Bxc5 14.Be5 Ng4 15.Ne4 Bxe4 16.Qxe4 Nxe5 17.Nxe5 Rc8 18.Rad1
+Nd5 19.Qb1 Qc7 20.Nd3 Nb6 21.Rc1 Qe7 22.Nxc5 Rxc5 23.Rxc5 Qxc5
+24.Rc1 Qe5 25.Rc6 Na4 26.Rxa6 g6 27.Bf3 Nxb2 28.Qe4 Qc3 29.Kg2
+Nc4 30.Qc6 Qe1 31.Qxb5 Nd2 32.e3 Nxf3 33.Kxf3 Qh1+ 34.Ke2 Rc8
+35.Rd6 Qxh2 36.Rc6 Rd8 37.Rd6 Rc8 38.Qa5 Rc2+ 39.Rd2 Rxd2+
+40.Qxd2 Qh5+ 1/2-1/2

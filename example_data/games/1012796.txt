@@ -1,0 +1,18 @@
+[Event "Clock Simul"]
+[Site "Reykjavik ISL"]
+[Date "1931.08.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Asmundur Asgeirsson"]
+[ECO "C13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.e4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.e5
+Be7 8.h4 Re8 9.Bd3 c5 10.Bxh7+ Kxh7 11.Ng5+ Bxg5 12.hxg5+ Kg8
+13.Qh5 Kf8 14.O-O-O Ke7 15.g6 a6 16.gxf7 Rf8 17.dxc5 Nd7
+18.Rxd5 Qa5 19.Qg5+ Kxf7 20.Rh7 Rg8 21.Rd4 Qxc5 22.Rxd7+ Bxd7
+23.Ne4 Qb4 24.Nd6+ Kf8 25.Qf6+ 1-0

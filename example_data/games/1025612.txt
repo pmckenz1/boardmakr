@@ -1,0 +1,24 @@
+[Event "Moscow op2"]
+[Site "03"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Vladimir Baikov"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.c4 d5 5.cxd5 Nxd5 6.a3 Bd6 7.Qc2
+O-O 8.Nf3 Qe7 9.d3 a5 10.g3 Be6 11.Nbd2 Nb6 12.Bg2 Rfd8 13.O-O
+f6 14.Rfe1 Qf7 15.Rac1 Rd7 16.Nc4 Nxc4 17.bxc4 Bc5 18.Qb3 Ra6
+19.Nd2 Rb6 20.Qc2 Qf8 21.Ra1 Qd8 22.Ne4 Bf8 23.Rad1 a4 24.Nc3
+Rb3 25.Nxa4 Rbxd3 26.Rxd3 Rxd3 27.Bd5 Rxd5 28.cxd5 Qxd5 29.Nc3
+Qf3 30.Qe4 Qxe4 31.Nxe4 Na5 32.Bc3 Nb3 33.a4 b6 34.Rb1 Kf7
+35.Bxe5 fxe5 36.Ng5+ Ke7 37.Nxe6 Kxe6 38.Rxb3 Kd5 39.Rc3 Bc5
+40.f3 c6 41.Kf2 b5 42.axb5 cxb5 43.Ke2 b4 44.Rc1 Kc6 45.Kd3
+Kb5 46.f4 exf4 47.exf4 h6 48.Re1 b3 49.Re8 Bb4 50.Rb8+ Kc5
+51.Rg8 b2 52.Kc2 Bc3 53.Rc8+ Kd4 54.Rc7 g5 55.fxg5 hxg5 56.Rg7
+1-0

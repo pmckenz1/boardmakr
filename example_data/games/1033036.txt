@@ -1,0 +1,27 @@
+[Event "10s, Copenhagen Open"]
+[Site "Copenhagen DEN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Albert Blees"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7
+12. Bg5 O-O 13. Rc1 Ng4 14. h3 Nh2 15. Nxh2 Bxh2+ 16. Kh1 Bd6
+17. Bb1 Qf7 18. Qd3 g6 19. f4 Qg7 20. Rcd1 Bd7 21. Qe3 Rf7
+22. Rf3 Bc7 23. Rg3 Ne7 24. Bxe7 Rxe7 25. Nc1 Bb6 26. Rg5 Rc8
+27. Ne2 Rf7 28. Rg3 Qf6 29. Qa3 Bb5 30. Bd3 Bxd3 31. Rgxd3
+Rfc7 32. Re3 Kf7 33. Re1 Rc6 34. f5 gxf5 35. g4 fxg4 36. Kg2
+Rg8 37. h4 Kg7 38. Rf1 Qxh4 39. Qd3 Rf8 40. Rxf8 Kxf8 41. Nf4
+Qf6 42. Re1 Kg8 43. Rh1 Qf5 44. Qxf5 exf5 45. Nxd5 Rc2+
+46. Kg3 Bc7+ 47. Nxc7 Rxc7 48. Kf4 Rf7 49. d5 Kf8 50. Re1 h5
+51. Rh1 Ke7 52. Rxh5 Kd6 53. Rh2 Kxd5 54. Re2 a6 55. Re3 Kd6
+56. Rb3 Rg7 57. Rg3 Ke6 58. Re3+ Kf6 59. Rb3 Re7 60. Rb6+ Re6
+61. Rxb7 Re4+ 62. Kg3 Re3+ 63. Kf2 f4 64. Rb8 g3+ 65. Kg2 Re2+
+66. Kf1 Rc2 0-1

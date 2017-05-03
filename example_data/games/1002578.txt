@@ -1,0 +1,26 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1896.10.20"]
+[EventDate "1896.10.04"]
+[Round "12"]
+[Result "0-1"]
+[White "Georg Marco"]
+[Black "Ignatz von Popiel"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. c4 Be7 6. d4 O-O
+7. Bd3 d5 8. O-O Nc6 9. cxd5 Qxd5 10. Bxe4 Qxe4 11. Re1 Qd5
+12. Nc3 Qd8 13. d5 Nb8 14. Qb3 Nd7 15. Be3 Nc5 16. Qc4 b6
+17. Bxc5 Bxc5 18. b4 Bd6 19. Ne5 Qf6 20. f4 a5 21. Ne4 Qh6
+22. b5 Bb4 23. Rf1 Bf5 24. a3 Be7 25. Nc6 Rfe8 26. Ng3 Bc5+
+27. Kh1 Bg4 28. Ne5 Qh4 29. Rae1 Rad8 30. Ne4 Bd6 31. Qc6 Rxe5
+32. fxe5 Bxe5 33. g3 Qh5 34. Re3 Bd4 35. Rd3 Qe5 36. Rfd1 Bd7
+37. Qc4 Bc5 38. Qc3 Re8 39. Qxe5 Rxe5 40. Kg2 Bxb5 41. Rc3 f5
+42. Rb1 fxe4 43. Rxb5 Rxd5 44. Rb2 Kf7 45. Re2 e3 46. Kf3 Ke6
+47. a4 Kd6 48. Rc4 c6 49. Rh4 h5 50. g4 g6 51. gxh5 gxh5
+52. Rf4 Bd4 53. Rf7 b5 54. Rh7 b4 55. Rh6+ Kc7 56. Rc2 c5
+57. Rg2 b3 58. Ke4 Re5+ 59. Kd3 Re7 60. Re2 b2 61. Kc2 Rg7
+62. Re1 Rg2+ 63. Kd3 Rd2+ 64. Ke4 e2 0-1

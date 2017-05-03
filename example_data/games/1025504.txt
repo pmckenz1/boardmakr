@@ -1,0 +1,16 @@
+[Event "Pinsk"]
+[Site "Pinsk"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Peter Heine Nielsen"]
+[Black "Yuri Balashov"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 c5 2.c3 e6 3.Nf3 d5 4.exd5 exd5 5.d4 Nc6 6.Bb5 Bd6 7.dxc5
+Bxc5 8.O-O Ne7 9.Nbd2 O-O 10.Nb3 Bb6 11.Re1 Bg4 12.Be3 Ng6
+13.h3 Bxe3 14.Rxe3 1/2-1/2

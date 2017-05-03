@@ -1,0 +1,16 @@
+[Event "It ( cat. 14 )"]
+[Site "Tilburg NED"]
+[Date "1982.10.05"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Walter Shawn Browne"]
+[Black "Gennady Sosonko"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2
+c5 8.e4 Nxc3 9.bxc3 Nc6 10.Bd3 g6 11.Bg5 Be7 12.Bh6 Bf8 13.Bg5
+Be7 14.Bh6 Bf8 1/2-1/2

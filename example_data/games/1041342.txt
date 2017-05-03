@@ -1,0 +1,15 @@
+[Event "Geneva"]
+[Site "Geneva SUI"]
+[Date "1977.04.11"]
+[EventDate "1977.03.26"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Jan Timman"]
+[Black "Eugenio Torre"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.Be2 Nf6 5.O-O O-O 6.Qe1 c5 7.d3
+Nc6 8.Nbd2 Re8 9.Ne5 Nxe5 10.fxe5 Ng4 1/2-1/2

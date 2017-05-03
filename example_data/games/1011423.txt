@@ -1,0 +1,25 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "San Francisco, CA USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Jennifer Shahade"]
+[Black "Harutyun Akopyan"]
+[ECO "C03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. c3 c5 5. Ngf3 Nf6 6. exd5 exd5
+7. dxc5 Bxc5 8. Bb5+ Nc6 9. O-O O-O 10. Nb3 Bb6 11. Bg5 a6
+12. Be2 Re8 13. Bh4 Qd6 14. Bg3 Qe7 15. Re1 Bg4 16. Bh4 Qd6
+17. Bg3 Qd7 18. Nbd4 Ne4 19. Bf4 Rac8 20. Be3 Bc7 21. Nxc6
+bxc6 22. Bxa6 Rb8 23. Rb1 Qd6 24. g3 Ra8 25. Be2 Rxa2 26. Nd4
+Bh3 27. Bg4 Bxg4 28. Qxg4 Raa8 29. Bf4 Qf6 30. f3 h5 31. Qxh5
+Bxf4 32. fxe4 c5 33. Nf5 Bd2 34. Re2 g6 35. Nh6+ Kg7 36. Nf5+
+Kf8 37. Qh3 Bg5 38. Nh4 dxe4 39. Rf1 Qd6 40. Qg2 Qe6 41. Qf2
+e3 42. Qf3 Bxh4 43. gxh4 Ra4 44. Kh1 Kg7 45. h5 f5 46. hxg6 f4
+47. b3 Re4 48. Qh5 Rh8 49. Qxc5 Qd7 50. Ra1 Re7 51. Ree1 Qb7+
+52. Kg1 Qe4 53. Ra7 Rxa7 54. Qxa7+ Kxg6 55. Qb6+ Kf5 56. Qb5+
+Kg4 57. Qd7+ Kh4 58. Qg7 Rh5 0-1

@@ -1,0 +1,18 @@
+[Event "Moscow tt"]
+[Site "2"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Tamas Georgadze"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O
+7.O-O a6 8.Re1 c5 9.Nb3 Nc6 10.Bf4 b6 11.Qd2 Bb7 12.Rad1 Ne5
+13.Bg3 Qc8 14.f4 Ng6 15.Bf3 Rd8 16.Qe2 Bf8 17.Nd2 b5 18.Nf1
+Re8 19.f5 Ne5 20.Ne3 Bc6 21.Ncd5 Nxd5 22.Nxd5 Qb7 23.Qf2 a5
+1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Sao"]
+[Site "Sao"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Samuel Schweber"]
+[Black "Julio Bolbochan"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3
+Nc6 8.O-O O-O 9.f3 d5 10.Nxd5 Nxd5 11.exd5 Qxd5 12.Nxc6 Qxc6
+13.c3 Bf5 14.Qb3 Rfd8 15.Rad1 b6 16.a4 Qe6 17.Qxe6 Bxe6
+18.Rxd8+ Rxd8 19.Rd1 Rxd1+ 20.Bxd1 Be5 21.a5 Bc7 22.axb6 axb6
+23.Kf2 f5 1/2-1/2

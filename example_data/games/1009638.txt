@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Ilka Hausmann"]
+[Black "Vera Medunova"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. c4
+e6 7. Qe2 Bd6 8. Nf3 O-O 9. dxe6 fxe6 10. d4 cxd4 11. Nxd4 Bc5
+12. Nf3 Nc6 13. O-O Nd4 14. Nxd4 Bxd4 15. Be3 Be5 16. g3 Qc6
+17. f4 Bd6 18. Nd2 a6 19. Nf3 Rac8 20. b3 Qe4 21. Ng5 Qf5
+22. Rad1 Bb4 23. Bd4 Rce8 24. Nf3 Qe4 25. Qxe4 Nxe4 26. Ne5
+Rc8 27. Kg2 b5 28. Bb2 bxc4 29. Nxc4 Rfd8 30. a3 Be7 31. Kf3
+Nc5 32. Rxd8+ Rxd8 33. b4 Na4 34. Be5 Rc8 35. Ne3 Bf6 36. Rd1
+Bxe5 37. fxe5 Rc3 38. Rd6 Kf7 39. Rxa6 Rxa3 40. b5 Ke7
+41. Ra7+ Kd8 42. h4 h5 43. Kf4 Ra2 44. Nc4 Rf2+ 45. Ke3 Ra2
+46. b6 Kc8 47. Nd6+ Kb8 48. Rxg7 Nxb6 49. Rb7+ 1-0

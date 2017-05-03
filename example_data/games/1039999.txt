@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Oleg L Chernikov"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2
+O-O 8.Qc2 Nxd2 9.Qxd2 d6 10.O-O Nd7 11.e4 e5 12.d5 a5 13.Ne1
+Nc5 14.Nd3 Bc8 15.f4 Nxd3 16.Qxd3 exf4 17.gxf4 Bf6 18.Rae1 Re8
+19.Re3 Bd7 20.Rfe1 Bxc3 21.Qxc3 Qh4 22.e5 dxe5 23.fxe5 Rad8
+24.c5 Bc8 25.c6 f6 26.d6 Rxe5 27.Rxe5 fxe5 28.Qxe5 Rf8 29.d7
+Ba6 30.Qe6+ Kh8 31.Qe8 1-0

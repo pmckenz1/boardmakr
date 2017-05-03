@@ -1,0 +1,17 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "1-0"]
+[White "Valery Katuzian"]
+[Black "Anatoly Borodavkin"]
+[ECO "A06"]
+[WhiteElo "2283"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. Nf3 d5 2. b3 Bf5 3. e3 Nf6 4. Be2 g6 5. Bb2 Bg7 6. O-O O-O
+7. d3 Nbd7 8. Nd4 Ne8 9. Qc1 Nc5 10. Nxf5 gxf5 11. Bxg7 Nxg7
+12. Nd2 e5 13. d4 exd4 14. exd4 Nce6 15. Nf3 Kh8 16. Qh6 Rg8
+17. Bd3 Qd6 18. Rfe1 Nxd4 19. Ng5 Qd7 1-0

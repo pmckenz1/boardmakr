@@ -1,0 +1,21 @@
+[Event "Beirut Lebanese ch+"]
+[Site "LIB"]
+[Date "1999.07.31"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Mahmoud Abdulaziz"]
+[Black "Antoine Tohme"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d3 d6 6. Nf3 e5
+7. O-O c6 8. Bd2 h6 9. Qc1 Kh7 10. Rb1 a5 11. a3 Nh5 12. b4
+axb4 13. axb4 f5 14. b5 f4 15. bxc6 bxc6 16. Ne4 d5 17. cxd5
+cxd5 18. Nc3 Be6 19. Rb5 e4 20. dxe4 dxe4 21. Nxe4 Ra1 22. Rb1
+Rxb1 23. Qxb1 fxg3 24. hxg3 Bc4 25. Re1 Nf6 26. Bb4 Nxe4
+27. Qxe4 Bd5 28. Ng5+ Qxg5 29. Qxd5 Qxd5 30. Bxd5 Rc8 31. Rb1
+Rc2 32. Bd6 Nd7 33. Rb7 Rd2 34. Be4 Nf6 35. Bf8 Nh5 36. g4 Kh8
+37. gxh5 Bxf8 38. hxg6 1-0

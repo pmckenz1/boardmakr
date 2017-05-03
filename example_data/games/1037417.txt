@@ -1,0 +1,24 @@
+[Event "06, Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1970.01.19"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Theo Daniel van Scheltinga"]
+[Black "Lawrence Day"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 e6 4.Nc3 cxd4 5.Nxd4 a6 6.Bg5 Nc6 7.e3
+Qa5 8.Bxf6 gxf6 9.Rc1 f5 10.Be2 h5 11.O-O h4 12.f4 Nxd4
+13.Qxd4 Rg8 14.Bf3 Rb8 15.Kh1 Qc5 16.Qd3 Bg7 17.a3 Bxc3
+18.Qxc3 b6 19.b4 Qc7 20.c5 Bb7 21.Qe5 Qxe5 22.fxe5 Bxf3
+23.gxf3 bxc5 24.Rxc5 Ke7 25.Rc7 Rbc8 26.Rfc1 Rxc7 27.Rxc7 h3
+28.Rc2 f6 29.exf6+ Kxf6 30.a4 Ke5 31.b5 axb5 32.axb5 f4
+33.exf4+ Kxf4 34.b6 Kxf3 35.b7 Rb8 36.Rb2 Ke4 37.Kg1 Kd5
+38.Kf2 Kc6 39.Kg3 Rxb7 40.Rc2+ Kd5 41.Kxh3 Ke4 42.Kg4 Rb1
+43.Rg2 Rb8 44.Re2+ Kd3 45.Re5 Kd4 46.Re1 Rg8+ 47.Kf4 Rf8+
+48.Kg4 Kd5 49.Rd1+ Kc6 50.h4 d5 51.h5 e5 52.h6 d4 53.h7 Kd5
+54.Rh1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1960.03.29"]
+[EventDate "1960.03.29"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Jose Luis Alvarez del Monte"]
+[Black "Erich Eliskases"]
+[ECO "A65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Bd3
+Bg7 8.Nge2 O-O 9.O-O Na6 10.Ng3 Nc7 11.Bg5 h6 12.Bf4 Ng4
+13.Qc1 Qh4 14.Nge2 Ne5 15.Bg3 Qe7 16.Bc2 b5 17.Bxe5 dxe5
+18.Qe3 Qd6 19.a4 b4 20.Nb5 Nxb5 21.axb5 a5 22.Bd3 Bd7 23.Rfc1
+Rfc8 24.Rc2 Qb6 25.b3 Bxb5 26.Nc1 a4 27.Rca2 Rab8 28.Bxb5 axb3
+29.Nxb3 Qxb5 30.Ra5 Qb6 31.Rxc5 1/2-1/2

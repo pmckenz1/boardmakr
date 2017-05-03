@@ -1,0 +1,16 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1990.08.09"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Zurab Azmaiparashvili"]
+[Black "Lajos Portisch"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.Nf3 e6 2.g3 b6 3.Bg2 Bb7 4.O-O Nf6 5.c4 c5 6.Nc3 Be7 7.d4
+cxd4 8.Qxd4 d6 9.Rd1 a6 10.b3 Nbd7 11.e4 Rc8 12.Ba3 Nc5 13.e5
+Bxf3 14.Bxf3 dxe5 15.Qxe5 1/2-1/2

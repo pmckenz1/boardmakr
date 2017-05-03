@@ -1,0 +1,23 @@
+[Event "Wijk Sonnevanck"]
+[Site "Wijk aan Zee NED"]
+[Date "1995.02.25"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Johan van Mil"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4
+7. a4 a5 8. Be3 Nbd7 9. Nd2 Bxe2 10. Qxe2 c6 11. f4 Qb6
+12. Ra3 Qa6 13. Qf3 e5 14. dxe5 dxe5 15. f5 b5 16. Raa1 b4
+17. Nd1 Ne8 18. b3 Nd6 19. g4 f6 20. Nb2 Nf7 21. Ndc4 Bh6
+22. Bxh6 Nxh6 23. Rad1 Rad8 24. fxg6 Qa7+ 25. Qf2 Qxf2+
+26. Rxf2 Nc5 27. Rxd8 Rxd8 28. Rxf6 Nxg4 29. Rxc6 Nxe4 30. Nd3
+Nc3 31. Ncxe5 Nxe5 32. Nxe5 Rd1+ 33. Kf2 Rd2+ 34. Kf3 hxg6
+35. Rxg6+ Kf8 36. Rg2 Rd5 37. Nc4 Nb1 38. h4 Na3 39. Ne3 Rc5
+40. Ke4 Rh5 41. Nf5 Rh7 42. Ke5 Rc7 43. Nd4 Kf7 44. Rf2+ Kg6
+45. Rf6+ Kh5 46. Kf4 Nxc2 47. Nf5 Rh7 48. Kg3 1-0

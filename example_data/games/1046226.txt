@@ -1,0 +1,24 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Robert Rowley"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 c5 6. Be2 cxd4
+7. Nxd4 d6 8. O-O Nc6 9. Be3 Bd7 10. Qd2 Nxd4 11. Bxd4 Qa5
+12. f3 Be6 13. Rac1 Rfc8 14. b3 a6 15. Rfd1 b5 16. Bxf6 Bxf6
+17. Nd5 Qxd2 18. Nxf6+ Kg7 19. Rxd2 Kxf6 20. Rdc2 bxc4
+21. Bxc4 Bxc4 22. Rxc4 Rxc4 23. Rxc4 Rb8 24. Kf2 Rb6 25. Ke3
+e5 26. b4 Ke6 27. a4 d5 28. exd5+ Kxd5 29. Kd3 Ke6 30. Kc3 h5
+31. Rc5 Rd6 32. b5 axb5 33. Rxb5 Rd1 34. a5 Ra1 35. Kb2 Ra4
+36. Rb6+ Kf5 37. a6 h4 38. Kb3 Ra1 39. Kc4 Ra2 40. Kb5 Rxg2
+41. a7 Rb2+ 42. Kc6 Ra2 43. Kb7 Rxa7+ 44. Kxa7 Kf4 45. Rf6+
+Ke3 46. Rxf7 Kf2 47. Kb6 Kg2 48. Kc5 Kxh2 49. Kd5 Kg3 50. Ke4
+h3 51. Rg7 1-0

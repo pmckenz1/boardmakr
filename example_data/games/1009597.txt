@@ -1,0 +1,27 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Annegret Elschner"]
+[Black "Marta I Litinskaya-Shul"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. Bg5 Bb7 8. f3 h6 9. Bh4 d6 10. e3 Nbd7 11. Nh3 a5
+12. Nf2 Re8 13. Be2 a4 14. Bxf6 Nxf6 15. Rd1 Qe7 16. O-O e5
+17. dxe5 Qxe5 18. Qxe5 Rxe5 19. e4 Rae8 20. Nd3 Ra5 21. Rd2
+Kf8 22. Rc1 Nd7 23. Bd1 Nc5 24. Rc3 Bc6 25. Kf2 Re7 26. Nxc5
+bxc5 27. Re3 Ra8 28. Rde2 Rae8 29. Bc2 g5 30. h3 f6 31. Bd1 h5
+32. Re1 h4 33. R1e2 Kg7 34. Bc2 Kh6 35. Bd1 Rb8 36. Rd2 Bd7
+37. Rde2 Ree8 38. Rd2 Rb6 39. Ree2 Reb8 40. Ke1 Ra8 41. Re3
+Be6 42. Rc2 Rab8 43. Ree2 Kg6 44. Kf2 Kf7 45. Ke1 Ke7 46. Kf2
+R6b7 47. Ke1 Rb3 48. Rcd2 Bxc4 49. Bxb3 Rxb3 50. Rc2 Bxe2
+51. Kxe2 Kd7 52. Kd2 Kc6 53. Kc1 Rd3 54. Re2 c4 55. Kc2 Kc5
+56. Re1 Kd4 57. Re2 c6 58. Re1 Re3 59. Rd1+ Ke5 60. Rd2 d5
+61. exd5 cxd5 62. Rf2 d4 63. Rd2 Re1 64. Rf2 Kf4 65. Kd2 Rb1
+66. Kc2 Ke3 0-1

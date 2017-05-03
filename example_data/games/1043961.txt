@@ -1,0 +1,16 @@
+[Event "Paris/New York radio m, FRA/USA"]
+[Site "Paris/New York radio m, FRA/USA"]
+[Date "1948.12.19"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Ossip Bernstein"]
+[Black "Reuben Fine"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 Ng4
+7. Bf4 O-O 8. h3 Nh6 9. Bg5 Be7 10. Bxh6 gxh6 11. Bd5 Kh8
+12. Bxc6 dxc6 13. Qxd4 Qxd4 14. Nxd4 f6 15. exf6 Bxf6 1/2-1/2

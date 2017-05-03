@@ -1,0 +1,25 @@
+[Event "Skopje/Krusevo/Ohrid (Yugoslavia)"]
+[Site "Skopje/Krusevo/Ohrid (Yugoslavia)"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Victor Ciocaltea"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.g3 g6 2.Bg2 Bg7 3.c4 Nf6 4.Nc3 O-O 5.d3 d6 6.e3 e5 7.Nge2
+Nbd7 8.O-O a5 9.h3 c6 10.b3 Re8 11.e4 Nh5 12.Be3 f5 13.Qd2 Nc5
+14.exf5 gxf5 15.d4 Nd7 16.Bg5 Bf6 17.Bxf6 Ndxf6 18.Rad1 Qe7
+19.f3 Ng7 20.Rfe1 e4 21.fxe4 fxe4 22.Qg5 d5 23.Rf1 Rf8 24.cxd5
+Nxd5 25.Qxe7 Rxf1+ 26.Rxf1 Nxe7 27.Nxe4 Nd5 28.N2c3 Ne3 29.Re1
+Nc2 30.Rd1 Ne3 31.Rd3 Nxg2 32.Kxg2 Bf5 33.Rd2 Rd8 34.d5 cxd5
+35.Rxd5 Rxd5 36.Nf6+ Kf7 37.Nfxd5 b5 38.b4 axb4 39.Nxb4 Bd7
+40.Ne4 Nf5 41.Kf3 h6 42.Kf4 Ne7 43.h4 Nc6 44.Nc2 Be6 45.a3 Bb3
+46.Nb4 Nd4 47.g4 Kg6 48.Ke3 Ne6 49.Nc6 Kg7 50.Nc3 Nc7 51.Kd4
+Be6 52.Ne5 Bc8 53.Ne4 Ne6+ 54.Ke3 Nc7 55.Nd6 b4 56.axb4 Bxg4
+57.Nxg4 Nd5+ 58.Ke4 Nxb4 59.h5 Nc6 60.Nf5+ Kh7 61.Kd5 Nb4+
+62.Ke6 Kg8 63.Ne5 Kh8 64.Kf7 Nd5 65.Ne7 1-0

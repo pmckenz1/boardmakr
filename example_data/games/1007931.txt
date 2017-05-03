@@ -1,0 +1,19 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.27"]
+[EventDate "1930.01.16"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Roberto Grau"]
+[Black "Mario Monticelli"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.a3 Bxd2+ 6.Nbxd2 d6
+7.e4 e5 8.d5 Nbd7 9.b4 O-O 10.g3 Ne8 11.Bg2 f5 12.exf5 e4
+13.Nd4 e3 14.N2f3 exf2 15.Kxf2 Ne5 16.Re1 g6 17.Kg1 Bxf5
+18.Nxe5 dxe5 19.Nxf5 gxf5 20.Qd4 e4 21.g4 Nf6 22.gxf5 Rfe8
+23.Re3 Kf7 24.Rf1 Qe5 25.Qxe5 Rxe5 26.Rf4 Rg8 27.h3 b5 28.Kf2
+bxc4 29.Bf1 Rg5 30.Bxc4 Ke7 31.Bd3 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Tal - Botvinnik World Championship Match"]
+[Site "Match, Moscow  (21)"]
+[Date "1960.05.07"]
+[EventDate "?"]
+[Round "21"]
+[Result "1/2-1/2"]
+[White "Mikhail Tal"]
+[Black "Mikhail Botvinnik"]
+[ECO "E19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Qc2 Nxc3 9.Qxc3 f5 10.b3 Bf6 11.Bb2 d6 12.Rad1 Qe7
+13.Ne1 Bxg2 14.Nxg2 Nc6 15.Qf3 Qd7 16.Nf4 Rae8 17.d5 Nd8
+1/2-1/2

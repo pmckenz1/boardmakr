@@ -1,0 +1,26 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "1993.07.28"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Amanmurad Kakageldyev"]
+[Black "Lubomir Ftacnik"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. g3 O-O
+7. Bg2 d5 8. cxd5 Nxd5 9. Qb3 Na6 10. O-O Nc5 11. Qc2 Bxc3
+12. bxc3 Bd7 13. Nb3 Qc7 14. c4 Na6 15. Ba3 Rfc8 16. Rac1 b5
+17. c5 Bc6 18. e4 Ndb4 19. Qe2 Rd8 20. Rfd1 e5 21. Bf1 Rab8
+22. f3 Be8 23. Rxd8 Rxd8 24. Rd1 Nc6 25. Rd5 Ne7 26. Rd6 Nb8
+27. Qd2 Rc8 28. Bb4 Nbc6 29. Bxb5 Rb8 30. Bxc6 Nxc6 31. Bc3
+Qb7 32. f4 a5 33. fxe5 a4 34. Nc1 Qb1 35. e6 Qxe4 36. exf7+
+Bxf7 37. Qf4 Qxf4 38. gxf4 Rb1 39. Rxc6 Rxc1+ 40. Kf2 Bxa2
+41. Rc8+ Kf7 42. Be5 Bd5 43. f5 a3 44. Rc7+ Ke8 45. Rxg7 Rxc5
+46. Bd4 Rc2+ 47. Kg3 h5 48. f6 a2 49. Re7+ Kf8 50. Ra7 Rc4
+51. Be5 Re4 52. Ba1 Rg4+ 53. Kf2 Rg2+ 54. Ke3 Rxh2 55. Ra5 Rh1
+56. Bd4 Re1+ 57. Kf2 Rd1 58. Rxd5 Rxd4 59. Ra5 Rd2+ 60. Kg3
+Kf7 61. Ra6 Kg6 62. Kh3 1/2-1/2

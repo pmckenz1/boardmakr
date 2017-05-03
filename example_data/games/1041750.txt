@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.23"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Eugenio Torre"]
+[Black "Helgi Olafsson"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 b6 5.d4 Qd7 6.Na3 Ba6 7.Bxa6
+Nxa6 8.Nc2 Ne7 9.O-O Nc6 10.Bg5 h6 11.Bh4 Be7 12.Bxe7 Qxe7
+13.Nfe1 cxd4 14.cxd4 O-O 15.Nd3 Nab4 16.Ncxb4 Nxb4 17.Nf4 Qg5
+18.Ne2 Rac8 19.a3 Nc6 20.f4 Qg6 21.f5 exf5 22.Nf4 Qg5 23.Qd3
+Ne7 24.Rae1 Ng6 25.Nxd5 Rfd8 26.Rxf5 Qh4 27.g3 Qg4 28.Nc3
+Qxd4+ 29.Qxd4 Rxd4 30.Rf2 Re8 31.Rfe2 Re7 32.h4 h5 33.Kg2 Rd8
+34.Nb5 Rd5 35.Nd6 Rexe5 36.Rxe5 Nxe5 37.Ne4 f6 38.Re2 Rd3
+39.Nc3 Kf7 40.Ne4 Nc4 41.Nf2 Rb3 42.Nd1 Rd3 43.Nf2 Rd2 44.Rxd2
+Nxd2 45.Nd3 g5 46.b4 Ke6 47.a4 Nc4 48.b5 Ne5 49.Nb4 Kd6 50.Nc2
+Kd5 51.Nb4+ Kc5 52.Nc2 Ng6 53.Kh3 g4 54.Kg2 f5 55.Ne3 Ne7
+56.Nc2 Nd5 57.Kf2 f4 58.gxf4 Nxf4 59.Kg3 Nd5 0-1

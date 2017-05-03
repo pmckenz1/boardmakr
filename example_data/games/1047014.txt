@@ -1,0 +1,23 @@
+[Event "Rostov on Don URUSO"]
+[Site "06"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Firuza Velikhanli"]
+[Black "Alisa Galliamova"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.Bc4 Bg4 7.h3
+Bh5 8.g4 Bg6 9.Ne5 Nbd7 10.Nxg6 hxg6 11.Bd2 e6 12.g5 Nh5
+13.Qg4 Bb4 14.O-O-O O-O-O 15.a3 Bxc3 16.Bxc3 Qf5 17.Bd2 Nb6
+18.Bb3 Nd5 19.c4 Ndf4 20.Bc2 Qxg4 21.hxg4 Ne2+ 22.Kb1 Nhf4
+23.Be3 Ng2 24.Rxh8 Rxh8 25.Bd3 Nef4 26.Be4 Rh2 27.Bd2 Nh3
+28.Rf1 Ngf4 29.Be3 Ng2 30.Bc1 Ngf4 31.f3 Ne2 32.d5 Ng3 33.dxe6
+fxe6 34.Re1 Nxe4 35.Rxe4 Kd7 36.Rd4+ Ke7 37.c5 b6 38.Ra4 bxc5
+39.Rxa7+ Kd6 40.Rxg7 Rh1 41.Rxg6 Nf4 42.Rh6 Rf1 43.g6 Nd3
+44.g7 Rxc1+ 45.Ka2 Re1 46.g8=Q c4 47.Qf8+ Kd5 48.Qd8+ Kc5
+49.Qa5+ Kd4 50.Qc3+ Kd5 51.Rh5+ e5 52.Qxe1 Nxe1 53.f4 1-0

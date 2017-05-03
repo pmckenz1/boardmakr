@@ -1,0 +1,18 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "3"]
+[Result "0-1"]
+[White "Andrei Romashko"]
+[Black "Nikolai Biriukov"]
+[ECO "D16"]
+[WhiteElo "2035"]
+[BlackElo "2255"]
+[PlyCount "50"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5
+7. f3 Nfd7 8. Nxc4 e5 9. Nxe5 Nxe5 10. dxe5 Nd7 11. e4 Bc5
+12. Bf4 Qe7 13. g4 Bg6 14. Qd2 h5 15. O-O-O Rd8 16. Qc2 hxg4
+17. b4 Bxb4 18. e6 Nc5 19. Bc4 Qf6 20. Bd2 Rxd2 21. Kxd2 gxf3
+22. Bd3 Bxe4 23. Ke3 Qg5+ 24. Kd4 Bxd3 25. Rxd3 Qf4+ 0-1

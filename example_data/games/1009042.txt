@@ -1,0 +1,20 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Levente Vajda"]
+[Black "Hoang Thanh Trang"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Qxf6 10. Nf3 h6 11. O-O Bd6
+12. Be3 O-O 13. Bb5 Nb6 14. Rc1 Bd7 15. Nc3 Be8 16. Be2 Rc8
+17. Re1 Bh5 18. h3 Nc4 19. Bxc4 Bxf3 20. gxf3 dxc4 21. Ne4
+Qg6+ 22. Kh1 Bb8 23. Rxc4 Rcd8 24. Rc3 Ne7 25. Bc1 Nf5 26. Rd3
+Nh4 27. Rg1 Qf5 28. Rg4 Nxf3 29. Bxh6 Rd7 30. Bc1 Nh2 31. Rh4
+1/2-1/2

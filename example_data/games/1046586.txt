@@ -1,0 +1,22 @@
+[Event "Extra League 1995/96, Czech Republic"]
+[Site "Extra League 1995/96, Czech Republic"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Miloslav Netusil"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6
+7. O-O Be7 8. Nc3 O-O 9. dxc5 Bxc5 10. Bg5 d4 11. Bxf6 Qxf6
+12. Nd5 Qd8 13. Nd2 a6 14. Rc1 Ba7 15. Nf4 Re8 16. Rxc6 bxc6
+17. Bxc6 Bd7 18. Bxa8 Qxa8 19. Nf3 Bc6 20. Nxd4 Rd8 21. e3
+Bxd4 22. exd4 Bf3 23. Qd3 g5 24. d5 Bg4 25. Ng2 Rxd5 26. Qe4
+Be6 27. h4 Qd8 28. hxg5 Rd4 29. Qe5 Rd5 30. Qe3 Rxg5 31. b3
+Ra5 32. Nf4 Bg4 33. a4 Qd6 34. Re1 Rc5 35. Nd3 Rc8 36. Ne5 Bh5
+37. Nc4 Qf6 38. Nb6 Rd8 39. Nd7 Qg6 40. Qd4 Rc8 41. Nf6+ Kf8
+42. Nxh5 1-0

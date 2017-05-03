@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Michael Johansson"]
+[Black "Maria Cleven"]
+[ECO "E81"]
+[WhiteElo "2105"]
+[BlackElo "2040"]
+[PlyCount "115"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7
+7. Qd2 c5 8. d5 a6 9. Bh6 Qa5 10. h4 Nh5 11. Bxg7 Kxg7 12. g4
+Ng3 13. Rh3 Nxf1 14. Kxf1 Nf6 15. h5 gxh5 16. Qg5+ Kh8
+17. Rxh5 Nxh5 18. Qxe7 Qd8 19. Qxd8 Rxd8 20. gxh5 Rg8 21. Nge2
+Rg5 22. Nf4 h6 23. Kf2 Bd7 24. Rb1 b5 25. b3 Rb8 26. Ke3 bxc4
+27. bxc4 Rxb1 28. Nxb1 f5 29. e5 dxe5 30. Ng6+ Kg8 31. Nxe5
+Be8 32. d6 Rg7 33. Nc3 Kf8 34. Nd5 Bd7 35. Nb6 Be6 36. d7 Bxd7
+37. Nbxd7+ Ke7 38. Nxc5 Kd6 39. Ncd3 Rg2 40. c5+ Ke7 41. Nb4
+Rb2 42. Nxa6 Rxa2 43. Nb4 Rh2 44. Ng6+ Kd7 45. Nf4 Rb2
+46. Nbd3 Rb3 47. Kd4 Ke7 48. Ke5 Ra3 49. Kxf5 Ra5 50. Ng6+ Kd7
+51. Nge5+ Kc7 52. Kg6 Ra6+ 53. c6 Ra8 54. Kxh6 Rg8 55. Kh7 Rg5
+56. h6 Rg3 57. f4 Kd6 58. f5 1-0

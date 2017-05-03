@@ -1,0 +1,23 @@
+[Event "Baku"]
+[Site "Baku AZE"]
+[Date "1980.04.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Slobodan Martinovic"]
+[Black "Eugenio Torre"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.Nf3 g6 2.g3 Bg7 3.Bg2 e5 4.d3 d5 5.O-O Ne7 6.Nbd2 c5 7.e4 d4
+8.Nc4 Nbc6 9.a4 O-O 10.Nh4 Be6 11.b3 Nc8 12.Bd2 b6 13.Qe1 a6
+14.f4 f6 15.Nf3 Qe7 16.h4 Ra7 17.fxe5 fxe5 18.Ng5 Bg4 19.Rxf8+
+Qxf8 20.a5 b5 21.Nb6 h6 22.Nh3 Nxb6 23.axb6 Ra8 24.Nf2 Bc8
+25.Qe2 Qd8 26.Rf1 h5 27.Bg5 Qxb6 28.g4 Nd8 29.gxh5 Nf7 30.Bd2
+Bd7 31.Bh3 Bxh3 32.Nxh3 Rf8 33.Kh2 Nh8 34.Rg1 Qf6 35.hxg6 Nxg6
+36.Bg5 Qe6 37.Qg2 Rf7 38.h5 Nf4 39.Bxf4 exf4 40.Ng5 f3 41.Nxe6
+fxg2 42.Rxg2 Kh8 43.Nxc5 a5 44.Rg5 Bh6 45.Rg6 Bf4+ 46.Kh3 Ra7
+47.Kg4 Bh2 48.Kh3 Bf4 49.Rf6 Bd2 50.e5 Bb4 51.Ne6 Bc3 52.h6 a4
+53.bxa4 bxa4 54.Ng5 Ra8 55.Rf7 a3 1-0

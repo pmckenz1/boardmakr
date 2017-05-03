@@ -1,0 +1,19 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1964.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eduard Sardarov"]
+[Black "Vladimir Bagirov"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be2 Nc6 7.O-O
+cxd4 8.cxd4 Be7 9.Nc3 Qa5 10.Ne5 O-O 11.Nxc6 bxc6 12.Bf3 Ba6
+13.Re1 Rac8 14.Re5 Qc7 15.Bg5 Rfd8 16.Qa4 Bd3 17.Rd1 Bg6
+18.Ra5 Bc2 19.Rxa7 Bxa4 20.Rxc7 Bxd1 21.Rxc8 Rxc8 22.Bxd1 Nd5
+23.Bd2 Bf6 24.Nxd5 cxd5 25.b4 Bxd4 26.b5 Bc3 27.Be3 e5 28.Kf1
+d4 29.Bc1 Ba5 30.Bb2 Rc4 31.a3 d3 32.f3 e4 0-1

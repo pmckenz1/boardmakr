@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial 29th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1992.08.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Romuald Mainka"]
+[Black "Andras Adorjan"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O
+O-O 8.Be3 a6 9.a4 Nc6 10.f4 Qc7 11.Kh1 Re8 12.Bg1 Rb8 13.Qd3
+e5 14.fxe5 dxe5 15.Nf5 Bxf5 16.Rxf5 Nd4 17.Bxd4 exd4 18.Qxd4
+Bd6 19.Raf1 Be5 20.Qd3 Bxc3 21.bxc3 Re7 22.R5f4 Rbe8 23.Qc4
+Qxc4 24.Bxc4 Rc8 25.Bb3 Rxc3 26.Rd1 Rc8 27.Rd4 Rce8 28.Bd5
+Nxd5 29.Rxd5 g6 30.Kg1 Rc8 31.e5 Rxc2 32.h3 Re2 33.Rb4 R7xe5
+34.Rxe5 Rxe5 35.Rxb7 Re4 36.a5 Re5 37.g4 Rxa5 38.Rc7 Ra2 0-1

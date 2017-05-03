@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Henry Edward Bird"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 e5 2.Nf3 Nf6 3.Bc4 Nxe4 4.Nc3 Nf6 5.Nxe5 Bb4 6.O-O Bxc3
+7.bxc3 d5 8.Bb3 O-O 9.d4 h6 10.c4 c6 11.f4 Ne4 12.cxd5 cxd5
+13.c4 Nc6 14.cxd5 Nc3 15.Qd3 Nxd4 16.Bc4 Nde2+ 17.Kh1 b5
+18.Bb3 Qh4 19.Bd2 Bf5 20.Qe3 Rac8 21.Bd1 Nxd1 22.Raxd1 Bg4
+23.d6 Rc4 24.Be1 Qh5 25.Nxc4 bxc4 26.d7 Ng3+ 27.Bxg3 Bxd1
+28.Qd2 1-0

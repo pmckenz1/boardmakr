@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.05"]
+[EventDate "1907.??.??"]
+[Round "12"]
+[Result "0-1"]
+[White "Adolf Georg Olland"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2
+Nd6 7. Bxc6 bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Be3 d5 11. Nd4 Bd7
+12. Nb3 a5 13. Na4 Bf5 14. Rad1 Qe8 15. Nbc5 Nxc5 16. Nxc5 Qb8
+17. c3 Rd8 18. Rfe1 Qb5 19. Qxb5 cxb5 20. a3 c6 21. f4 Rdb8
+22. Bd4 b4 23. axb4 axb4 24. Ra1 bxc3 25. bxc3 Rxa1 26. Rxa1
+Rb1+ 27. Rxb1 Bxb1 28. Nb7 Bf5 29. Bc5 Bxc5+ 30. Nxc5 Kf8
+31. Kf2 Ke7 32. Kf3 h5 33. h3 h4 34. Ke3 f6 35. Kd4 Bb1
+36. Ke3 fxe5 37. fxe5 g5 38. Kf3 Bf5 39. g4 Bb1 40. Ke3 Ba2
+41. Kd4 Bc4 42. Ne4 dxe4 43. Kxc4 c5 0-1

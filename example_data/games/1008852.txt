@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Graham Lilley"]
+[Black "Adrian Jackson"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. d4 Nc6
+7. O-O a6 8. h3 Rb8 9. e4 b5 10. cxb5 axb5 11. e5 Ne8 12. Bf4
+b4 13. Ne4 Bf5 14. Re1 Bxe4 15. Rxe4 d5 16. Re2 Na5 17. b3 e6
+18. Rc1 c6 19. Bg5 Qd7 20. Ne1 Nc7 21. Nd3 Na6 22. Bd2 Rfc8
+23. a3 Bf8 24. Nc5 Bxc5 25. dxc5 Nb7 26. axb4 Nc7 27. Bh6 Nd8
+28. Qd2 Rb7 29. Re4 Ne8 30. Rh4 f5 31. exf6 Nxf6 32. Rf4 1-0

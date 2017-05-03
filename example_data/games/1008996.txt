@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Mark Heidenfeld"]
+[Black "Andrew Greet"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Nxe4 5. cxd6 Nc6 6. Nbd2
+Nxd6 7. Nc4 Nxc4 8. Qxd8+ Kxd8 9. Bxc4 f6 10. Be3 e5
+11. O-O-O+ Kc7 12. h3 Be7 13. c3 Bf5 14. Nh4 Bd7 15. f4 Bd6
+16. f5 Ne7 17. Rhf1 Bc6 18. Rd2 b6 19. b4 Rad8 20. g4 g5
+21. Nf3 h5 22. Nxg5 fxg5 23. Bxg5 hxg4 24. hxg4 Rh3 25. Bb3
+Bf3 26. Rff2 Bxg4 27. Rxd6 Kxd6 28. f6 Ng6 29. Rd2+ Kc7
+30. Rg2 Bf3 31. Rf2 e4 32. f7 Rf8 33. Be6 Rh5 34. Bf6 Rh7
+35. Bd4 Rhxf7 36. Bxf7 Rxf7 37. Rh2 Kb7 38. a4 Nf4 39. Kd2 Rd7
+40. Ke3 Ne6 41. Rh8 Nxd4 0-1

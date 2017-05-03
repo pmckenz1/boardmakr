@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1898.06.11"]
+[EventDate "1898.??.??"]
+[Round "8"]
+[Result "0-1"]
+[White "Paul Lipke"]
+[Black "Amos Burn"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bxc5 6.Bd3 f6 7.Bf4
+fxe5 8.Nxe5 Nf6 9.O-O O-O 10.Nc3 Bd7 11.Bg3 Be8 12.Nxc6 bxc6
+13.Qe2 Qd7 14.Rae1 Bf7 15.Kh1 Rae8 16.Be5 Bh5 17.f3 Bd6 18.g4
+Bf7 19.f4 Re7 20.Qg2 Be8 21.b3 Qc7 22.Qh3 g6 23.Nd1 Nd7 24.Qg3
+Ref7 25.Bxd6 Qxd6 26.f5 Qxg3 27.hxg3 e5 28.fxg6 Rxf1+ 29.Rxf1
+Rxf1+ 30.Bxf1 Bxg6 31.Ne3 Kf7 32.c3 Nc5 33.Kg2 Bb1 34.b4 Ne4
+35.Nd1 Bxa2 36.Bd3 Bb3 37.Ne3 Nxc3 38.Bxh7 Kf6 39.Bg8 Ba4
+40.Kf3 d4 41.Nc4 Bd1+ 42.Kf2 e4 43.Ke1 Bxg4 44.Na5 Bd7 45.Bc4
+Ke5 46.Nb3 Nd5 47.Nc5 Bg4 48.b5 Ne3 0-1

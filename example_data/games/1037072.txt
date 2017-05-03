@@ -1,0 +1,22 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "28"]
+[Result "1-0"]
+[White "Yona Kosashvili"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Be2 Nf6 5.Nbd2 O-O 6.O-O c5 7.dxc5
+dxc5 8.c3 Nc6 9.Qc2 Qc7 10.h3 h6 11.a4 b6 12.Nc4 Rd8 13.Be3 e5
+14.Nh2 Be6 15.Ng4 Nxg4 16.hxg4 Rac8 17.b3 a6 18.Na3 Qb7 19.Bc1
+Kh7 20.f3 Bf6 21.Bc4 Bxc4 22.Nxc4 Rd7 23.Rd1 Rxd1+ 24.Qxd1 Rd8
+25.Qe2 Na5 26.Be3 Nxc4 27.Qxc4 a5 28.b4 cxb4 29.cxb4 Bg5
+30.Bf2 Bd2 31.b5 Bb4 32.Rc1 Qe7 33.Qc7 Rd1+ 34.Kh2 Rxc1
+35.Qxc1 Bc5 36.Bxc5 bxc5 37.b6 c4 38.Qxc4 Qh4+ 39.Kg1 Qe1+
+40.Qf1 Qb4 41.Qf2 Qxa4 42.Qb2 Qd1+ 43.Kf2 Qd8 44.b7 Qb8 45.Qb5
+a4 46.Qd7 Kg7 47.Qc8 Qd6 48.Kg3 Qb4 49.Kh2 Qe1 50.g5 1-0

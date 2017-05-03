@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.12.01"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Ognjen Cvitan"]
+[Black "Eugenio Torre"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.d4 d5 2.c4 c6 3.e3 Nf6 4.Nc3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O
+Be6 8.cxd5 Bxd5 9.Qc2 Bxf3 10.Bxf3 Nbd7 11.Rd1 Qc7 12.e4 e5
+13.d5 Rac8 14.dxc6 Qxc6 15.Be3 Nb6 16.Rac1 Nc4 17.Bg5 h6
+18.Bxf6 Qxf6 19.Bg4 Rcd8 20.Nd5 Qg5 21.Qxc4 Qxg4 22.h3 Qh4
+23.g3 Qxh3 24.Ne7+ Kh8 25.Rxd8 Rxd8 26.Qxf7 Qg4 27.Qxg6 Qxg6
+28.Nxg6+ Kh7 29.Ne7 Rd7 30.Nd5 Kg6 31.Kg2 Bf6 32.Rc8 Bd8 33.a4
+h5 34.b4 Kg5 35.b5 h4 36.Ra8 hxg3 37.fxg3 b6 38.Rc8 Kg6
+39.Rc6+ Kf7 40.Kf3 Kg7 41.Kg4 Rf7 42.Re6 Rf1 43.Rd6 1-0

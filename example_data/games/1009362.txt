@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Jesper Hall"]
+[Black "Stuart C Conquest"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. Be3 Ne7 6. g4 Bg6
+7. Nge2 h5 8. Nf4 hxg4 9. Nxg6 Nxg6 10. Qxg4 Nd7 11. O-O-O Qa5
+12. Bd3 Ne7 13. Bg5 b5 14. Kb1 Nb6 15. Ne2 Nc4 16. Nc1 Qb4
+17. Nb3 Nxe5 18. Qg3 Nc4 19. Rhe1 g6 20. c3 Qd6 21. Bf4 Qd8
+22. Nc5 Bh6 23. Nxe6 fxe6 24. Rxe6 Bxf4 25. Qxf4 Rf8 26. Qg5
+Kd7 27. Rde1 Rf7 28. b3 Nb6 29. Bxg6 Nxg6 30. Qxg6 Qg8
+31. Rd6+ Kc7 32. Qe6 Kb7 33. Rxc6 Qh7+ 34. Ka1 Rxf2 35. Qd6
+Rf7 36. Re6 Rd7 37. Rxb6+ axb6 38. Qxb6+ Kc8 39. Re8+ 1-0

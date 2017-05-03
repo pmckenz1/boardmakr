@@ -1,0 +1,20 @@
+[Event "Stockholm SWE"]
+[Site "?"]
+[Date "1969.08.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Aurel Urzica"]
+[Black "Andras Adorjan"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.b4 e5 2.Bb2 Bxb4 3.Bxe5 Nf6 4.c4 O-O 5.Nf3 Be7 6.e3 d5 7.Bb2
+c5 8.Be2 Nc6 9.cxd5 Nxd5 10.O-O Bf6 11.d4 cxd4 12.Nxd4 Qb6
+13.Qd2 Nxd4 14.Bxd4 Bxd4 15.exd4 Be6 16.Na3 Rac8 17.Rac1 Qd6
+18.Nb5 Qf4 19.Qxf4 Nxf4 20.Bf3 a6 21.Nd6 Rcd8 22.Nxb7 Rxd4
+23.a3 Rd3 24.a4 Rc8 25.Na5 g6 26.Rfd1 Rc2 27.Bb7 Rxd1+ 28.Rxd1
+Ra2 29.h3 Rxa4 30.Nc6 Kg7 31.Ne5 a5 32.Bc6 Ra2 33.Kh2 Rc2
+34.Be4 Re2 35.Rd4 Rxf2 36.Nc6 Ra2 37.Bf3 Nxh3 0-1

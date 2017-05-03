@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Mark Hebden"]
+[Black "Bin-Sattar Reefat"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 Nge7 5. O-O Nd4 6. Nxd4
+cxd4 7. Ne2 a6 8. Bd3 d5 9. exd5 Qxd5 10. c3 Nc6 11. Qc2 Bd6
+12. Be4 Qh5 13. Ng3 Qh4 14. Bxc6+ bxc6 15. cxd4 Bb7 16. d3 O-O
+17. Be3 Rad8 18. f4 f5 19. Qe2 Bc7 20. Rf2 Bb6 21. Nf1 Qe7
+22. Nd2 Bxd4 23. Bxd4 Rxd4 24. Nb3 Rb4 25. Qe3 c5 26. Nxc5 Bd5
+27. a3 Rb5 28. Rc1 a5 29. Rfc2 Qa7 30. d4 Re8 31. b3 Rb6
+32. Rc3 Rb5 33. h3 Re7 34. R1c2 Rb8 35. Kh2 h6 36. Qe5 Qc7
+37. Re2 Qxe5 38. Rxe5 Kf7 39. g4 g6 40. Rce3 Rb6 41. Kg3 Re8
+42. Kf2 Reb8 43. gxf5 gxf5 44. Nd7 Rxb3 45. Nxb8 Rxb8 46. Rc3
+Kf6 47. Re2 Rb1 48. Ree3 Rb2+ 49. Ke1 Rb1+ 50. Kf2 Rb2+
+51. Re2 Rb1 52. Rc5 Rd1 53. Ke3 Be4 54. Rd2 Rh1 55. Rxa5 Rxh3+
+56. Ke2 Rh2+ 57. Ke3 1/2-1/2

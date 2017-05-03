@@ -1,0 +1,17 @@
+[Event "Groningen"]
+[Site "Groningen NED"]
+[Date "1990.12.27"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Jeroen Piket"]
+[Black "Michael Adams"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 d6 2.Nf3 Bg4 3.c4 Nd7 4.e4 e5 5.Be2 Be7 6.Nc3 Bxf3 7.Bxf3
+Bg5 8.Bxg5 Qxg5 9.O-O Qd8 10.dxe5 dxe5 11.Qb3 Qc8 12.Rad1 Ngf6
+13.Qa3 c6 14.Rd2 Qc7 15.Rfd1 Nf8 16.Qa4 N8d7 17.Qa3 Nf8
+1/2-1/2

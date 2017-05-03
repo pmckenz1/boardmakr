@@ -1,0 +1,30 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.13"]
+[EventDate "2000.04.05"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Tomas Oral"]
+[Black "Andrea Drei"]
+[ECO "B57"]
+[WhiteElo "2540"]
+[BlackElo "2351"]
+[PlyCount "159"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4
+Qb6 7. Nb3 e6 8. O-O a6 9. Bd3 Qc7 10. f4 Be7 11. Qf3 O-O
+12. Kh1 Bd7 13. Bd2 b5 14. Rae1 Rac8 15. Nd5 exd5 16. exd5
+Rfe8 17. dxc6 Bxc6 18. Qh3 Bf8 19. Ba5 Qb7 20. Bc3 Bd7 21. Qh4
+Ne4 22. Re3 d5 23. Bxe4 Rxe4 24. Rg3 Bf5 25. Qg5 Bg6 26. f5 f6
+27. Qd2 b4 28. fxg6 bxc3 29. gxh7+ Kh8 30. Rxc3 Rce8 31. Rcf3
+Re2 32. Qd3 Qb5 33. Nd4 Qxd3 34. Rxd3 Re1 35. Kg1 Bc5 36. Rd1
+Rxd1 37. Rxd1 Re4 38. c3 Re2 39. b4 Ba7 40. a4 Rc2 41. Kf1
+Rxc3 42. Ne6 Rc2 43. Rxd5 Rf2+ 44. Ke1 Rxg2 45. Ra5 Be3
+46. Rxa6 f5 47. h4 Kxh7 48. Ng5+ Bxg5 49. hxg5 Rxg5 50. Kf2
+Rg4 51. Rb6 Rf4+ 52. Kg3 g5 53. a5 Rf1 54. Rb5 Rc1 55. Rxf5
+Kg6 56. Rf8 Rb1 57. Rb8 Kh5 58. Rh8+ Kg6 59. Rb8 Kh5 60. Kf3
+Ra1 61. Ke4 g4 62. Rh8+ Kg5 63. Rg8+ Kh4 64. Kd5 g3 65. Rg6
+Kh3 66. a6 g2 67. b5 Ra3 68. Rh6+ Kg3 69. Rf6 Ra4 70. Rg6+ Rg4
+71. Rxg4+ Kxg4 72. a7 g1=Q 73. a8=Q Qg3 74. Kc5 Qe3+ 75. Kc4
+Qe2+ 76. Kb4 Qd2+ 77. Kc5 Qe3+ 78. Kd6 Qg3+ 79. Ke6 Qe3+
+80. Kd6 1/2-1/2

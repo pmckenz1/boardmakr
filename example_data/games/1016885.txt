@@ -1,0 +1,21 @@
+[Event "HUN 64/237"]
+[Site "HUN 64/237"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alex Sherzer"]
+[Black "Andras Adorjan"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O
+O-O 8.f4 a6 9.a4 Nc6 10.Kh1 Qc7 11.Be3 Re8 12.Qe1 e5 13.fxe5
+dxe5 14.Qg3 Nxd4 15.Bxd4 Bd8 16.Be3 Kh8 17.Rad1 Be6 18.Bg5 Be7
+19.Qh4 Rad8 20.Rd3 Ng8 21.Rg3 Bxg5 22.Qxg5 f6 23.Qh4 Rd4
+24.Bg4 Bf7 25.Bh5 Red8 26.Rh3 Nh6 27.Be2 Bc4 28.Bxc4 Qxc4
+29.Rhf3 Nf7 30.b3 Qc6 31.Qh5 Nd6 32.Rh3 h6 33.Rxf6 Kg8 34.Rg3
+Qe8 35.Rfg6 Rd7 36.Qxh6 Nf5 37.Qc1 Nxg3+ 38.Rxg3 Qh5 39.Rf3
+Qg5 40.Qf1 Rd2 41.Nd5 Rxc2 42.h3 Rc1 43.Rf8+ Kh7 0-1

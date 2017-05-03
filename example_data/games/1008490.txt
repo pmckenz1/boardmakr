@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Edward Scher"]
+[Black "Brian McCarthy"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Qf3 Qd8 5. Bg2 Nf6 6. Qd1
+Nc6 7. Ne2 Bg4 8. O-O Qd7 9. d3 e5 10. f3 Bh3 11. Be3 Bxg2
+12. Kxg2 Be7 13. Nbc3 Nd4 14. Ne4 Nd5 15. Bg1 O-O 16. c4 Nc7
+17. Bxd4 cxd4 18. Ng1 f5 19. Nd2 Ne6 20. Qe2 Bd6 21. Rae1 Rae8
+22. Qd1 a5 23. a3 a4 24. b4 axb3 25. Nxb3 Qa4 26. Rf2 Qxa3
+27. Ree2 Qa4 28. Qb1 b6 29. Rb2 Qc6 30. Ne2 g5 31. Kg1 g4
+32. Qf1 Ng5 33. fxg4 fxg4 34. Nexd4 exd4 35. Nxd4 Qc5 36. Rb5
+Rxf2 37. Qxf2 Nh3+ 0-1

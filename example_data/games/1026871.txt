@@ -1,0 +1,19 @@
+[Event "Albany (USA)"]
+[Site "Albany (USA)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ronald Simpson"]
+[Black "Joel Benjamin"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.Nd2 Nc6 3.Ngf3 d6 4.e4 Bg4 5.c3 e6 6.h3 Bh5 7.Bb5
+a6 8.Bxc6+ bxc6 9.Qb3 Qc8 10.e5 Nd7 11.O-O Be7 12.c4 O-O
+13.Qe3 a5 14.b3 a4 15.Ba3 Re8 16.g4 Bg6 17.Bb2 Qb7 18.h4 h5
+19.gxh5 Bxh5 20.Kh2 axb3 21.axb3 Rxa1 22.Bxa1 Nf8 23.Rg1 Ng6
+24.Ng5 Ra8 25.Bc3 Ra2 26.Nge4 Bxh4 27.Nf6+ gxf6 28.Qh6 c5
+29.d5 Qxb3 30.exf6 Bxf6 31.Bxf6 1-0

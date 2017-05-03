@@ -1,0 +1,16 @@
+[Event "06, Munster op"]
+[Site "06, Munster op"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Mikhail Golubev"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 Nh5
+8.Nh2 a5 9.g3 Na6 10.Be2 Nf6 11.Ng4 h5 12.Nxf6+ Bxf6 13.h4
+1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Ch URS (1 liga)"]
+[Site "Baku (Azerbaijan)"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Alexander I Petrushin"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Bd2 Bxd2+
+7.Nbxd2 Nc6 8.O-O Nf6 9.e5 Nd5 10.Qb3 Nce7 11.Nxd4 O-O 12.Rad1
+Nb6 13.Ne4 Nxc4 14.Qxc4 Nd5 15.Qb3 c6 16.Qg3 Qe7 17.Rfe1 f5
+18.exf6 Nxf6 19.Ng5 Qb4 20.a3 Qxb2 21.Re2 Qb6 22.Re7 Bg4
+23.Nxh7 Kxh7 24.Nf5 Kg6 25.h3 Kxf5 26.hxg4+ Nxg4 27.Qf3+ Kg5
+28.Rxg7+ Kh6 29.Rd6+ Kxg7 30.Qxg4+ Kh7 31.Qh5+ Kg7 32.Qg5+ 1-0

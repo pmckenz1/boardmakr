@@ -1,0 +1,26 @@
+[Event "Cup Russia"]
+[Site "St. Petersburg (Russia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Vladimir Zavoronkov"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 c5 5.d5 Ba6 6.b3 b5 7.Qc2 exd5
+8.cxd5 Qe7 9.Nc3 b4 10.axb4 cxb4 11.Na4 Bb7 12.Nd4 Na6 13.Bb2
+Rc8 14.Qd3 g6 15.Nb5 Bg7 16.e3 O-O 17.Be2 Bxd5 18.O-O Qe4
+19.Qxe4 Nxe4 20.Bxg7 Kxg7 21.Nxa7 Rc7 22.Nb6 Nc3 23.Bxa6 Rxa7
+24.Bc4 Rxa1 25.Rxa1 Bc6 26.Ra7 Rb8 27.Ra6 d5 28.Bd3 Kf8 29.h4
+Ke7 30.Kf1 Kd6 31.Na4 Nxa4 32.bxa4 b3 33.Ke2 Rb4 34.a5 b2
+35.Bb1 Kc5 36.Rb6 Bb5+ 37.Kd2 Rc4 38.Bd3 Rb4 39.Bb1 Rxh4
+40.Rb7 Rh1 41.Kc2 Rf1 42.Kxb2 Rxf2+ 43.Kc3 Rxg2 44.Rc7+ Kd6+
+45.Rxf7 Re2 46.Rxh7 Rxe3+ 47.Kb4 Bc4 48.Bxg6 Rb3+ 49.Ka4 Rb2
+50.Ka3 Rb8 51.Bc2 Kc5 52.Rh3 Ra8 53.Kb2 Rxa5 54.Kc1 Ra1+
+55.Kd2 Ra2 56.Kc1 Kb4 57.Rg3 Ra1+ 58.Kd2 Rh1 59.Rf3 Rh2+
+60.Kc1 Be2 61.Rb3+ Kc4 62.Ra3 d4 63.Ra4+ Kc3 64.Ra3+ Kb4
+65.Ra4+ 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Russian Cup 9 Novgorod URUSO"]
+[Site "01"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Anastasia Gavrilova"]
+[Black "Alisa Galliamova"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6
+7.Nde2 e6 8.Bb3 Be7 9.Be3 Qc7 10.Nd4 O-O 11.h3 a6 12.g4 d5
+13.exd5 Nxd5 14.Nxd5 exd5 15.Qf3 Qa5+ 16.c3 Ba3 17.Qe2 Re8
+18.Rd1 Bc5 19.O-O Nxd4 20.cxd4 Ba7 21.Qf3 Be6 22.Rfe1 Rad8
+23.Rc1 Qb4 24.Red1 a5 25.Bd2 Qb5 26.a4 Qa6 27.Bg5 Rd7 28.Bc2
+Rf8 29.Bd3 Qb6 30.Bb5 Rc7 31.Rxc7 Qxc7 32.Rc1 Qd8 33.Qc3 f5
+34.Qc7 Qxc7 35.Rxc7 Bxd4 36.Be3 Bxb2 37.Rxb7 fxg4 38.hxg4 d4
+39.Bd2 Bc3 40.Bc1 Bxg4 41.Bc4+ Kh8 42.Ba3 Rc8 43.Bd3 Bf3
+44.Rf7 Bd5 45.Ra7 h5 46.Bd6 Re8 47.Kh2 Be4 48.Bb5 Re6 49.Rd7
+d3 50.Bf4 Rf6 51.Kg3 h4 52.Kg4 Bf5+ 0-1

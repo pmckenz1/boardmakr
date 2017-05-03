@@ -1,0 +1,19 @@
+[Event "Bled"]
+[Site "Bled SVN"]
+[Date "1931.09.19"]
+[EventDate "1931.08.23"]
+[Round "20"]
+[Result "0-1"]
+[White "Gosta Stoltz"]
+[Black "Edgar Colle"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 Nxc3 6.dxc3 Nc6
+7.Nf3 g6 8.Bc4 Bg7 9.Bf4 O-O 10.Qd2 b6 11.h4 h5 12.O-O-O e6
+13.Bg5 f6 14.exf6 Bxf6 15.Qc2 Qe8 16.Bd3 Kg7 17.g4 hxg4
+18.Rdg1 Bxg5+ 19.Nxg5 Ne5 20.Be4 Ba6 21.Bxa8 Nd3+ 22.Kb1 Qxa8
+23.c4 Ne5 24.Qc3 Rf5 25.f4 gxf3 26.Re1 f2 27.Rxe5 Kg8 28.Rf1
+Qg2 29.Qd3 Bxc4 30.Qxc4 Rxe5 31.Qd3 Qxf1+ 0-1

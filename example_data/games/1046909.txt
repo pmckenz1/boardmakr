@@ -1,0 +1,28 @@
+[Event "Jakarta UINDOO"]
+[Site "Jakarta <INDO>"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Maric"]
+[Black "Alisa Galliamova"]
+[ECO "D26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "158"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 a6 6.Qe2 c5 7.dxc5
+Bxc5 8.O-O Qc7 9.Nbd2 Nc6 10.a3 Bd6 11.b4 O-O 12.Bb2 e5 13.e4
+Nh5 14.Rac1 Nf4 15.Qe3 Qe7 16.Rfd1 Bg4 17.h3 Bd7 18.Bf1 Rad8
+19.Nc4 Bb8 20.Qc3 f6 21.Ne3 Be6 22.Qe1 Ba7 23.Rxd8 Rxd8 24.Rd1
+g6 25.Rxd8+ Qxd8 26.Qd2 Qxd2 27.Nxd2 b5 28.Kh2 Ba2 29.g3 Nh5
+30.Kg2 Nd4 31.Bd3 Ng7 32.Bb1 Be6 33.Nc2 Nc6 34.Ne3 Bxe3
+35.fxe3 Ne8 36.g4 Nd6 37.Bc1 Nb8 38.Bc2 Nd7 39.Kf3 Nb6 40.Nb3
+Bxb3 41.Bxb3+ Ndc4 42.Ke2 Kg7 43.Kd1 Nd6 44.Bc2 Kf8 45.Bb3 Ke7
+46.Bc2 Na4 47.h4 h5 48.gxh5 gxh5 49.Bd3 Nc4 50.Ke2 Nc3+ 51.Ke1
+Nd6 52.Bb2 Ncxe4 53.a4 Ke6 54.axb5 axb5 55.Bc2 Ng3 56.Kf2 Ngf5
+57.Bd1 Ne4+ 58.Kf1 Nd2+ 59.Kf2 Nc4 60.Bc1 Nxh4 61.Bxh5 e4
+62.Be8 Nd6 63.Bc6 Ng6 64.Bb2 Ne7 65.Ba8 f5 66.Bd4 Kd7 67.Kg3
+Ne8 68.Bc5 Nc7 69.Bb7 Nc6 70.Bxc6+ Kxc6 71.Kf4 Ne6+ 72.Kxf5
+Nxc5 73.bxc5 Kxc5 74.Kxe4 Kc4 75.Kf3 b4 76.Ke2 Kc3 77.Kd1 Kb2
+78.e4 b3 79.e5 Ka2 0-1

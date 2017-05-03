@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.18"]
+[EventDate "1922.07.31"]
+[Round "15"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "John Stuart Morrison"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 {Notes by Geza Maroczy} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 a6 {A
+mistake involving the loss of a pawn.} 5.Bxc6 dxc6 6.Nxe5 Nxe4
+{Better was Be7, after the move made Black loses a piece.}
+7.Qe2 Qxd4 8.Nf3 Qd5 9.Nfd2 {White plays simply and
+consequently wins the piece and at the same time he simplifies
+the game by exchanges.} f5 10.f3 Be7 11.fxe4 fxe4 12.Nc3 Qf7
+13.Rf1 Qg6 14.Qxe4 Be6 15.Qxg6+ hxg6 16.Nf3 O-O-O 17.Bd2 Bc4
+18.Rh1 Bh4+ 19.Nxh4 Rde8+ 20.Kf2 Rxh4 21.Rae1 Rf8+ 22.Kg3 1-0

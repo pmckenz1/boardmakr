@@ -1,0 +1,26 @@
+[Event "It (open)"]
+[Site "USA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Luis A Baquero"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 c6 5.e4 d5 6.exd5 cxd5 7.c3
+Nc6 8.Bd3 Bf5 9.Bxf5 gxf5 10.Nf1 Qd7 11.Ne3 Ng4 12.Qd3 e6
+13.O-O f6 14.Bh4 O-O 15.Rfe1 Nxe3 16.Qxe3 e5 17.dxe5 fxe5
+18.Rad1 e4 19.Ng5 Ne5 20.Qh3 h6 21.Nxe4 fxe4 22.Qxd7 Nxd7
+23.Rxd5 Nf6 24.Bxf6 Rxf6 25.Rxe4 Raf8 26.f3 Rf5 27.Rd7 R8f7
+28.Re8+ Bf8 29.Rxf7 Kxf7 30.Rb8 Rb5 31.b4 Bd6 32.Rc8 Rd5 33.a4
+a5 34.bxa5 Rxa5 35.Rc4 Ra6 36.g3 Ke6 37.Kf2 Kd5 38.Rh4 Rc6
+39.Ke2 Rxc3 40.Rxh6 Ra3 41.Rh4 Bc5 42.Rh7 b6 43.h4 Re3+ 44.Kd2
+Rxf3 45.g4 Rf4 46.g5 Rxa4 47.g6 Rg4 48.h5 Bd4 49.Re7 Rg2+
+50.Kd3 Rg3+ 51.Kd2 Rg5 52.Kd3 Be5 53.Rb7 Kc6 54.Rh7 Kd5 55.Rb7
+Rg3+ 56.Ke2 Bd4 57.Rd7+ Ke5 58.Re7+ Kd6+ 59.Re8 b5 60.Rf8 Kd5
+61.Rf5+ Kc4 62.Rf3 Rg5 63.Rh3 b4 64.Rh4 b3 65.h6 Rxg6 66.h7
+Re6+ 0-1

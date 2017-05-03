@@ -1,0 +1,24 @@
+[Event "Hastings 1934/35"]
+[Site "Hastings ENG"]
+[Date "1934.12.28"]
+[EventDate "1934.12.27"]
+[Round "2"]
+[Result "0-1"]
+[White "Mikhail Botvinnik"]
+[Black "Max Euwe"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3
+dxc4 8.Bxc4 Be7 9.O-O O-O 10.Rc1 a6 11.Bd3 h6 12.Be3 b5 13.Bb1
+Nb4 14.Ne5 Re8 15.Qd2 Bb7 16.f4 Nbd5 17.Nxd5 Qxd5 18.f5 Bd6
+19.fxe6 Rxe6 20.Bf5 Re7 21.Bh3 Bxe5 22.dxe5 Qxe5 23.Bf4 Qd5
+24.Qxd5 Nxd5 25.Bd2 Rae8 26.b3 Re2 27.Rf2 Nf6 28.Ba5 Rxf2
+29.Kxf2 Ne4+ 30.Kf1 Ng5 31.Bd7 Re7 32.Bf5 Re5 33.Bb1 Be4
+34.Bxe4 Nxe4 35.Rc6 Rf5+ 36.Ke1 Rf2 37.a4 Rxg2 38.Rxa6 bxa4
+39.bxa4 Rxh2 40.Ra8+ Kh7 41.Bb6 Ra2 42.a5 h5 43.a6 h4 44.a7 h3
+45.Bg1 Nf6 46.Kd1 Ng4 47.Re8 h2 48.Bxh2 Rxa7 49.Bb8 Ra8 50.Rd8
+Ne5 51.Bc7 Rxd8 52.Bxd8 Kg6 53.Ke2 Kf5 54.Ke3 Kg4 55.Bc7 Nf3
+56.Kf2 f5 0-1

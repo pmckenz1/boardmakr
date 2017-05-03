@@ -1,0 +1,21 @@
+[Event "5, Calgary CAN ch zt"]
+[Site "Calgary CAN"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Bruce Harper"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Nc3 Nf6 5.h3 a6 6.a4 O-O 7.Be3 b6
+8.Bc4 e6 9.O-O Bb7 10.d5 e5 11.Qd2 Nbd7 12.Rae1 Re8 13.Bg5 Qe7
+14.Nh2 Qf8 15.g4 h6 16.Be3 Nc5 17.f3 Nh7 18.Rf2 Bc8 19.b4 Nd7
+20.Bd3 Ng5 21.Kg2 Qe7 22.Rh1 Bf6 23.Nf1 Bb7 24.h4 Nh7 25.h5
+Ng5 26.Ng3 Kg7 27.Nce2 c6 28.c4 a5 29.dxc6 Bxc6 30.b5 Bb7
+31.Bc2 Nc5 32.hxg6 fxg6 33.Nf5+ gxf5 34.Ng3 Bc8 35.Nh5+ Kf7
+36.exf5 Rg8 37.Qd5+ Nge6 38.Nxf6 Qxf6 39.Rxh6 Rxg4+ 40.fxg4
+Qxh6 41.fxe6 Ke7 42.Rf7+ 1-0

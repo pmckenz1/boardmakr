@@ -1,0 +1,17 @@
+[Event "Moscow ol final"]
+[Site "Moscow URS"]
+[Date "1956.09.15"]
+[EventDate "?"]
+[Round "5.1"]
+[Result "1/2-1/2"]
+[White "Miguel Najdorf"]
+[Black "Mikhail Botvinnik"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nf3 Nc6 5.O-O d6 6.d3 Nh6 7.Nc3
+O-O 8.Rb1 Rb8 9.a3 b6 10.b4 Bb7 11.b5 Na5 12.e4 Bxc3 13.Bxh6
+Bg7 14.Bxg7 Kxg7 15.Nh4 e6 16.f4 f6 17.Qg4 Bc8 18.f5 e5
+19.Nxg6 hxg6 20.Qxg6+ Kh8 21.Qh6+ 1/2-1/2

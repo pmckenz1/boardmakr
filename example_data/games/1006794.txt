@@ -1,0 +1,19 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.13"]
+[EventDate "1920.08.02"]
+[Round "9"]
+[Result "0-1"]
+[White "R Svanberg"]
+[Black "C Wium"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Bf4 Bc5 6.a3 a5 7.Nbd2
+Nge7 8.Ne4 b6 9.Qd2 O-O 10.Rd1 Bf5 11.Ng3 Bg4 12.Nh4 f6
+13.exf6 Rxf6 14.Ne4 Rf8 15.h3 Be6 16.e3 Qd7 17.Be2 Rad8 18.Qc1
+Qc8 19.Nf3 Bf5 20.Nxc5 bxc5 21.exd4 cxd4 22.Bd3 Bxd3 23.Rxd3
+Qf5 24.Bxc7 Rd7 25.Qd2 Rxc7 26.Nxd4 Nxd4 27.Rxd4 Nc6 28.Rg4
+Re8+ 0-1

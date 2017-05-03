@@ -1,0 +1,26 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.16"]
+[EventDate "1905.08.14"]
+[Round "3"]
+[Result "0-1"]
+[White "Semion Alapin"]
+[Black "Walter John"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6
+7. Be2 Nf6 8. O-O O-O 9. h3 a6 10. Qd2 Qc7 11. Rad1 Bd7
+12. Nxc6 bxc6 13. Bh6 Rfd8 14. Bxg7 Kxg7 15. Qe3 Be6 16. f4
+Qa7 17. Qxa7 Rxa7 18. Bf3 Rc7 19. Rf2 Nd7 20. Na4 Rb8 21. b3
+Nb6 22. Nxb6 Rxb6 23. c4 a5 24. Rc1 c5 25. Bd1 a4 26. bxa4 Rb4
+27. Bb3 Bd7 28. a5 Ra7 29. Rd2 Ba4 30. Rc3 Rxa5 31. Kf2 Bxb3
+32. axb3 Ra3 33. Rb2 Kf6 34. Ke3 Ke6 35. Rd3 f6 36. Kd2 Ra1
+37. Ke2 h6 38. Kf2 Ra3 39. Ke2 Ra8 40. Ke3 Rab8 41. Rc3 Ra8
+42. Rd3 Ra3 43. Ke2 Ra8 44. Kf2 Rb7 45. Ke3 Ra1 46. Kf2 Rba7
+47. Re2 Rb1 48. e5 dxe5 49. fxe5 f5 50. Rd5 Ra5 51. Rd3 g5
+52. g3 Ra3 53. Rd5 Rbxb3 54. Rxc5 Rf3+ 55. Ke1 Ra1+ 56. Kd2
+Ra2+ 57. Ke1 Rxe2+ 58. Kxe2 Rxg3 59. Rc6+ Kxe5 60. Rxh6 Rc3
+61. Rg6 Rxh3 62. Rxg5 Rc3 63. Rg7 Kf6 0-1

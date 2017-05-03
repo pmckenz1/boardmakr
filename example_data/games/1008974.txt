@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Heather S Richards"]
+[Black "Andrew Cooper"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 Nf6 5. e5 Ne4 6. Nge2 c5
+7. a3 Bxc3+ 8. Nxc3 cxd4 9. Nxe4 dxe4 10. Qxe4 Nc6 11. Bd3
+Qa5+ 12. Bd2 Qxe5 13. O-O Qxe4 14. Bxe4 O-O 15. Rfe1 f6
+16. Bxc6 bxc6 17. Bb4 Rd8 18. Bc5 e5 19. b4 Bf5 20. Rac1 a5
+21. Red1 axb4 22. axb4 Ra2 23. Rd2 Rda8 24. Kf1 d3 25. Ke1
+Rxc2 26. Rdxc2 dxc2 27. Ke2 Kf7 28. Kd2 Ke6 29. Kc3 Rd8
+30. Be3 Rd1 31. Kc4 g5 32. Kc3 Kd5 33. g3 Be4 34. h3 Ke6
+35. Kb2 h6 36. Ra1 Rb1+ 37. Ka2 Bd5+ 38. Ka3 Rxa1+ 39. Kb2
+c1=Q+ 40. Bxc1 Rxc1 41. Kxc1 f5 42. Kd2 f4 43. Ke2 e4 44. Kd2
+Ke5 45. Ke2 Bc4+ 46. Kd2 e3+ 47. fxe3 fxg3 48. Ke1 Ke4 49. b5
+cxb5 50. h4 gxh4 51. Kd1 g2 52. Kc1 g1=Q+ 53. Kd2 Qxe3+
+54. Kc2 Kd4 55. Kb2 Qc3+ 56. Kb1 Qd2 57. Ka1 Qa2# 0-1

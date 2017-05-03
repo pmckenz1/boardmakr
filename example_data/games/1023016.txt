@@ -1,0 +1,22 @@
+[Event "01, Tbilisi ch URS"]
+[Site "01, Tbilisi ch URS"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Valery I Zilberstein"]
+[Black "Vladimir Bagirov"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Bd2 Bxd2+
+7.Nbxd2 Nh6 8.O-O O-O 9.Nb3 Qe7 10.Qxd4 Nc6 11.Qc5 Qxc5
+12.Nxc5 Na5 13.Be2 b6 14.b4 Nc6 15.Nd3 Re8 16.Rfc1 Rxe4
+17.Rxc6 Rxe2 18.Rxc7 Bg4 19.a4 Bxf3 20.gxf3 g6 21.b5 Nf5
+22.Rac1 Ra2 23.Ne5 Rxa4 24.Rxf7 Re8 25.Rd7 Re7 26.Rcc7 Rxd7
+27.Rxd7 Nd4 28.h4 Nxb5 29.Kg2 Rd4 30.Rb7 Rxh4 31.Ng4 h5 32.Kg3
+Rh1 33.Nf6+ Kf8 34.Kf4 Rc1 35.Rd7 Rc7 36.Nh7+ Kg8 37.Nf6+ Kh8
+38.Rd5 a6 39.Re5 Rf7 40.Kg5 Kg7 41.Re6 Nd4 42.Ne8+ Kf8 43.Re3
+Re7 0-1

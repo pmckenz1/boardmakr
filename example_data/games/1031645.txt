@@ -1,0 +1,21 @@
+[Event "Leningrad 1st cat"]
+[Site "Leningrad 1st cat"]
+[Date "1925.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Boris Yuriev"]
+[Black "Mikhail Botvinnik"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Bd6 5.Ne5 O-O 6.Nd2 c5 7.c3
+Nc6 8.Ndf3 Qc7 9.Bd3 cxd4 10.exd4 Ne4 11.Bg3 Ne7 12.Qe2 Nxc3
+13.Bxh7+ Kh8 14.Qd3 Ne4 15.Bxe4 dxe4 16.Qxe4 Qa5+ 17.Kf1 Qb5+
+18.Qe2 Qxe2+ 19.Kxe2 Kg8 20.Nd3 Bxg3 21.hxg3 b6 22.Rh5 Ba6
+23.Ng5 Rac8 24.Rah1 Ng6 25.Ke3 Rc2 26.Nf4 e5 27.dxe5 Rd8
+28.Ne4 Re2+ 29.Kf3 Rxb2 30.Nd6 Rxa2 31.Nxg6 Be2+ 32.Kf4 Bxh5
+33.Ne7+ Kf8 34.Nc6 Rxf2+ 35.Ke3 Re2+ 36.Kf4 Rf2+ 37.Kg5 f6
+38.Kxh5 1-0

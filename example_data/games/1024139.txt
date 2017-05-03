@@ -1,0 +1,20 @@
+[Event "USSR 9/280"]
+[Site "USSR 9/280"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Oleg Leonidovich Moiseev"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.g3 b5 5.Bg2 Bb7 6.d3 Nc6 7.O-O d6
+8.Ng5 h6 9.Nh3 g6 10.f4 Nd4 11.Ne2 Bg7 12.c3 Nxe2+ 13.Qxe2 Qe7
+14.g4 Nf6 15.f5 exf5 16.gxf5 O-O 17.Bd2 Rae8 18.Rae1 Qc7
+19.Qf2 c4 20.Qh4 cxd3 21.Bxh6 Bxh6 22.Qxh6 d2 23.Rd1 Ng4
+24.Qf4 Qc5+ 25.Kh1 Nf6 26.Qh6 Ng4 27.Qh4 Rxe4 28.Ng5 Nf6
+29.Nxe4 Nxe4 30.fxg6 fxg6 31.Rxf8+ Kxf8 32.Bxe4 Qh5 33.Qf4+
+1-0

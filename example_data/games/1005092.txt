@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Sandor Farago"]
+[Black "Hubert Mossong"]
+[ECO "B32"]
+[WhiteElo "2310"]
+[BlackElo "2270"]
+[PlyCount "57"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. a4 Be6
+7. N1c3 a6 8. Na3 Rc8 9. Nc4 Be7 10. Nd5 Bxd5 11. exd5 Nb8
+12. Be3 f5 13. g4 f4 14. Bb6 Qd7 15. Rg1 Bd8 16. a5 Qe7 17. g5
+Rxc4 18. Bxc4 Bxb6 19. axb6 Qd8 20. Qg4 Ne7 21. O-O-O Qc8
+22. Be2 Qc5 23. Qe6 Rf8 24. Bg4 Qxb6 25. Rge1 Qd8 26. Rxe5 Nd7
+27. Qxd6 Nxe5 28. Qxe5 Kf7 29. Qe6+ 1-0

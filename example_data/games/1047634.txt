@@ -1,0 +1,17 @@
+[Event "Izt"]
+[Site "Subotica (Yugoslavia)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nona Gaprindashvili"]
+[Black "Ketino Kachiani-Gersinska"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.g3 Bxc3+ 6.bxc3 Bb7
+7.Bg2 O-O 8.O-O Re8 9.a4 d6 10.a5 Nbd7 11.Qa4 e5 12.Re1 Be4
+13.Bg5 h6 14.Bxf6 Nxf6 15.Rad1 Qc8 16.c5 Qa6 17.Qa3 exd4
+18.cxd6 cxd6 19.Rxd4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Olympiad"]
+[Site "Nice (France)"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Mikhailovich Liberzon"]
+[Black "Eugenio Torre"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 c6 5.Qd2 b5 6.Bd3 h6 7.Be3 Ng4
+8.Bf4 e5 9.dxe5 dxe5 10.Bg3 h5 11.Nf3 h4 12.Bxe5 Nxe5 13.Nxe5
+Qf6 14.f4 Bh6 15.Ne2 Qxe5 16.fxe5 Bxd2+ 17.Kxd2 Nd7 18.e6 fxe6
+19.Nd4 Ne5 20.Nf3 Nxf3+ 21.gxf3 e5 22.a4 b4 23.Rhg1 Kf7 24.Rg5
+Rh5 25.Rxh5 gxh5 26.Rg1 Kf6 27.Ke3 Be6 28.f4 Rg8 29.Rxg8 Bxg8
+30.b3 Bf7 31.Bc4 Be8 32.f5 Bd7 33.Kd3 Bc8 34.c3 c5 35.Bb5 a5
+36.cxb4 cxb4 37.Ke3 Bb7 1/2-1/2

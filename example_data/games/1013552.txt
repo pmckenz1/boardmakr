@@ -1,0 +1,16 @@
+[Event "Prague"]
+[Site "Prague CSR"]
+[Date "1943.04.17"]
+[EventDate "1943.04.10"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Miroslav Katetov"]
+[Black "Alexander Alekhine"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. Nf3 d5 2. c4 d4 3. e3 Nc6 4. exd4 Nxd4 5. Nxd4 Qxd4 6. Nc3
+e5 7. d3 Bc5 8. Be3 Qd6 9. Nb5 Qe7 10. Bxc5 Qxc5 11. d4 exd4
+12. Qxd4 Qxd4 13. Nxd4 Bg4 14. f3 O-O-O 15. O-O-O Bd7 1/2-1/2

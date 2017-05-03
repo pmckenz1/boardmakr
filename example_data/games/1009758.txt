@@ -1,0 +1,24 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Vladimir Smirnov"]
+[Black "David Smerdon"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. Nd2 d5 5. exd5 exd5 6. Ngf3
+Bf5 7. Nh4 Be4 8. c3 O-O 9. Be2 c5 10. dxc5 h6 11. Bxf6 Bxf6
+12. Nxe4 dxe4 13. Nf5 Nd7 14. Qd6 Rc8 15. Rd1 Nxc5 16. O-O
+Qxd6 17. Rxd6 Na4 18. Rd7 Nxb2 19. Rxb7 Na4 20. Nd6 Nxc3
+21. Bc4 Rc6 22. Bxf7+ Kh7 23. Nxe4 Rxf7 24. Rxf7 Nxe4 25. Rxa7
+Nxf2 26. Ra4 Nd3 27. g3 Rc2 28. Rf3 Rc1+ 29. Rf1 Rc2 30. Rf3
+Nc5 31. Ra5 Bd4+ 32. Kf1 Rxh2 33. Rf4 Ne6 34. Re4 Bc3 35. Ra3
+Ng5 36. Rh4 Rxh4 37. gxh4 Ne4 38. Ra4 Nd6 39. Kg2 Kg6 40. Kh3
+Kf5 41. Ra8 g5 42. hxg5 hxg5 43. Rf8+ Ke5 44. Kg4 Bd2 45. a4
+Ne4 46. Re8+ Kd5 47. Rd8+ Nd6 48. a5 Kc6 49. a6 Be3 50. Rxd6+
+Kxd6 51. a7 Bxa7 52. Kxg5 1/2-1/2

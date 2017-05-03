@@ -1,0 +1,19 @@
+[Event "Olympiad"]
+[Site "Habana (Cuba)"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Augusto Menvielle Laccourreye"]
+[Black "Istvan Bilek"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 d6 2.d4 g6 3.f4 Bg7 4.Nf3 Nf6 5.Bd3 O-O 6.O-O Nbd7 7.c3
+c5 8.Kh1 Qc7 9.Qe2 e5 10.Na3 exd4 11.cxd4 a6 12.e5 Ne8 13.Ng5
+Nb6 14.dxc5 dxc5 15.Be3 Nd5 16.Rac1 b6 17.Be4 Nxe3 18.Qxe3 Rb8
+19.b4 f6 20.exf6 Nxf6 21.bxc5 bxc5 22.Bf3 Re8 23.Qd3 Kh8
+24.Nc4 h6 25.Qxg6 Rf8 26.Ne4 Qxf4 27.Ned6 Ng4 28.Qh5 Nf2+
+29.Kg1 Bd4 30.Nxc8 Rbxc8 31.Rb1 Rf5 32.Qg6 Rg8 33.Qc6 Ng4+ 0-1

@@ -1,0 +1,19 @@
+[Event "Marienbad"]
+[Site "Marienbad CZE"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Frederick Dewhirst Yates"]
+[Black "Reginald Pryce Michell"]
+[ECO "C90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.d3 Na5 10.Bc2 c5 11.Nbd2 Nc6 12.Nf1 Qc7 13.Ng3
+Re8 14.Bg5 h6 15.Be3 d5 16.d4 cxd4 17.cxd4 Bg4 18.exd5 Nxd4
+19.Bxd4 exd4 20.Rc1 Qa7 21.Qd3 Bxf3 22.gxf3 g6 23.Bb3 Kg7
+24.Rc6 Rad8 25.f4 Nxd5 26.Nh5+ Kh7 27.Bxd5 Rxd5 28.Rxe7 Qxe7
+29.Nf6+ Kg7 30.Nxd5 Qd7 31.Qxd4+ 1-0

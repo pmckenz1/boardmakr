@@ -1,0 +1,24 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Arno Zude"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3
+Nbd7 8.Qc2 Re8 9.Nge2 c5 10.dxc5 Nxc5 11.Bb5 Bd7 12.Bxd7 Ncxd7
+13.O-O Qa5 14.Rad1 Nb6 15.Qb3 Rad8 16.Nd4 h6 17.Bh4 g6 18.h3
+Rd7 19.Nf3 Kg7 20.Bg3 Ng8 21.Be5+ Bf6 22.Bd4 Bxd4 23.Rxd4 Nf6
+24.Rfd1 Rc7 25.Rb4 Rc5 26.Rf4 Re7 27.Nd2 Rec7 28.Rd4 a6 29.a3
+R5c6 30.Qa2 Qc5 31.Qa1 Qe7 32.Nf3 Rc5 33.Qa2 Nc4 34.b4 R5c6
+35.Nxd5 Nxd5 36.Rxd5 b5 37.Nd4 Rf6 38.Nf3 Rfc6 39.Qa1+ Qf6
+40.Nd4 Rb6 41.e4 Re6 42.Re1 Kh7 43.g3 Rd6 44.Rxd6 Nxd6 45.f3
+Nc4 46.Kg2 Rd7 47.Nb3 Qd8 48.Re2 Rd1 49.Qa2 Qd3 50.Nc5 Qd4
+51.Rf2 Qe3 52.h4 Qe1 53.Kh3 Qh1+ 54.Rh2 Qxf3 55.Qg2 Rf1
+56.Qxf3 Rxf3 57.Ra2 1/2-1/2

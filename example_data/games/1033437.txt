@@ -1,0 +1,19 @@
+[Event "1, It La Plata ARG (10s)"]
+[Site "La Plata ARG"]
+[Date "1997.11.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Hector Decio Rossetto"]
+[Black "Fernando Braga"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bg6 6. Nf3 c6
+7. O-O Qc7 8. Bf4 Qb6 9. a3 e6 10. b4 Be7 11. Na4 Qd8 12. Bxg6
+hxg6 13. Qd3 Ne4 14. Nc5 g5 15. Bg3 Ndxc5 16. bxc5 b6 17. cxb6
+axb6 18. c4 O-O 19. Ne5 Qc8 20. Rfc1 Nxg3 21. hxg3 Qb7
+22. cxd5 cxd5 23. a4 Rfc8 24. Qb5 Rxc1+ 25. Rxc1 Bd6 26. Nd7
+Bc7 27. Rb1 Qa6 28. Qc6 Ra7 29. Rc1 g4 1/2-1/2

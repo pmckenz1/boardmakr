@@ -1,0 +1,18 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.28"]
+[EventDate "2000.01.21"]
+[Round "8"]
+[Result "1-0"]
+[White "Manuel Bosboom"]
+[Black "Alexey Yuneev"]
+[ECO "D43"]
+[WhiteElo "2461"]
+[BlackElo "2430"]
+[PlyCount "47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4
+7. e4 g5 8. Bg3 b5 9. Be2 Bb7 10. h4 g4 11. Ne5 h5 12. O-O
+Nfd7 13. Nxf7 Kxf7 14. f3 gxf3 15. Bxf3 Kg8 16. e5 Qe8 17. Be4
+Be7 18. Rf4 Rh6 19. Qf3 Na6 20. Rf1 Nac5 21. dxc5 Bxc5+
+22. Bf2 Bxf2+ 23. Qxf2 Nxe5 24. Qc5 1-0

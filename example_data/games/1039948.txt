@@ -1,0 +1,16 @@
+[Event "06, Ybbs"]
+[Site "Ybbs an der Donau AUT"]
+[Date "1968.07.24"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Dan Zara"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+a6 8.d5 Na5 9.b3 c5 10.Bb2 Ne4 11.Qc1 Bf5 12.Ne1 Nf6 13.e4 Bd7
+14.Nd3 b5 15.Nd1 bxc4 16.bxc4 Rb8 17.h3 e5 18.Ne3 Bh6 1/2-1/2

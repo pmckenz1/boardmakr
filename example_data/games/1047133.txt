@@ -1,0 +1,16 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1965.01.01"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Denis Victor Mardle"]
+[Black "Nona Gaprindashvili"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Be3 Nf6 6.Nd2 e5
+7.Nxc6 bxc6 8.f3 Be7 9.Bc4 O-O 10.O-O Nh5 11.Nb3 Bg5 12.Bc5
+Qf6 13.Bxf8 Be3+ 14.Kh1 Ng3+ 0-1

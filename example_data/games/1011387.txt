@@ -1,0 +1,23 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Elaine Rutherford Bamber"]
+[Black "Kenneth S Beaton"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 5. Bd2 O-O 6. Nge2
+Na5 7. Bb3 Nxb3 8. axb3 d5 9. exd5 Nxd5 10. Nxd5 Bxd2+
+11. Qxd2 Qxd5 12. O-O Bg4 13. Rfe1 Rfe8 14. Nc3 Qd7 15. f3 Bf5
+16. Qf2 a6 17. Ne4 a5 18. Qg3 Qd4+ 19. Qf2 Qxb2 20. Ng3 Bg6
+21. Qc5 c6 22. Ne2 e4 23. fxe4 Re5 24. Qc4 Ree8 25. Nf4 Red8
+26. Rf1 Qd4+ 27. Qxd4 Rxd4 28. Rf3 b5 29. Rg3 a4 30. h4 f6
+31. Nxg6 hxg6 32. Rxg6 Kf7 33. Rg3 axb3 34. Rxa8 b2 35. Ra7+
+Ke6 36. Rgxg7 b1=Q+ 37. Kh2 Qxc2 38. Rae7+ Kd6 39. Ref7 Qxd3
+40. Rxf6+ Kc5 41. Rg5+ Kb6 42. Rgg6 Rc4 43. h5 Qxe4 44. g3 Rc1
+45. g4 Qe3 0-1

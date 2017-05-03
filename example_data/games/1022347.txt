@@ -1,0 +1,20 @@
+[Event "5 Kilkenny masters op"]
+[Site "5 Kilkenny masters op"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "William Nicholas Watson"]
+[Black "Alexander Baburin"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 c6 5.Be2 dxe5 6.Nxe5 Nd7 7.Nf3
+g6 8.O-O Bg7 9.c4 Nc7 10.Nc3 O-O 11.Bf4 c5 12.dxc5 Ne6 13.Be3
+Bxc3 14.bxc3 Ndxc5 15.Nd4 Bd7 16.f4 Ne4 17.Bf3 N6c5 18.Nb3 Rc8
+19.Qd4 Bc6 20.f5 Re8 21.Bh6 e5 22.fxe6 Nxe6 23.Qxa7 Qh4 24.Qe3
+N6g5 25.Bxg5 Nxg5 26.Qd4 Nxf3+ 27.gxf3 Qg5+ 28.Qg4 Qe3+ 29.Kg2
+Qxc3 30.Rf2 Rcd8 31.Rc1 Qe3 32.Rcf1 Re5 33.h4 h5 34.Qg3 Rf5
+35.Kg1 Rxf3 0-1

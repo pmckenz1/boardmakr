@@ -1,0 +1,21 @@
+[Event "10s, Villa Gesell Clarin Masters"]
+[Site "10s, Villa Gesell Clarin Masters Hiarcs 7.32"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Maximiliano Ginzburg"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. d3
+c6 7. Bc4 d5 8. exd5 cxd5 9. Qh5 Ne7 10. Bb3 O-O 11. Nd2 a5
+12. a4 Bf5 13. Nf3 f6 14. Re1 Qd7 15. Bd2 g6 16. Qh6 Rf7
+17. h4 Nc6 18. Nh2 Rd8 19. Qf4 h5 20. Qg3 b6 21. Re2 Bd6
+22. f4 Bc5 23. Rae1 Re7 24. Kh1 Rxe2 25. Rxe2 Kg7 26. Be1 Ne7
+27. Qf2 Re8 28. Qg1 Be6 29. Bf2 Bf7 30. Nf3 Nf5 31. Rxe8 Qxe8
+32. Kh2 Ne3 33. Kh1 Qb8 34. Bxe3 dxe3 35. d4 Bd6 36. Qxe3 Bxf4
+37. Qe7 Qa8 38. Qd7 Kf8 39. Kg1 Qe8 40. Qb7 Qe3+ 0-1

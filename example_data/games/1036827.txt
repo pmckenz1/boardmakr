@@ -1,0 +1,24 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.09"]
+[EventDate "1904.04.25"]
+[Round "9.7"]
+[Result "0-1"]
+[White "Eugene Delmar"]
+[Black "Georg Marco"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bxc6
+bxc6 8.Ne2 Re8 9.c3 Bc5 10.b4 Bb6 11.Ng3 h6 12.Qe2 Kh7 13.Bd2
+g6 14.h3 Qe7 15.c4 c5 16.b5 Bd7 17.a4 c6 18.Rfe1 cxb5 19.axb5
+Ng8 20.Nf1 f5 21.Ne3 Be6 22.Bc1 Qg7 23.Bb2 f4 24.Nd5 g5 25.Nh2
+Bxd5 26.exd5 Qg6 27.Reb1 h5 28.Qe4 Nf6 29.Qxg6+ Kxg6 30.f3 Kf5
+31.Ra6 Rg8 32.Nf1 g4 33.hxg4+ hxg4 34.Kf2 Rg7 35.Nd2 gxf3
+36.gxf3 Rh8 37.Ke2 Rh2+ 38.Kd1 Rgg2 39.Bc3 Kg6 40.Raa1 Ne8
+41.Kc2 Ng7 42.Rg1 Nf5 43.Kb3 Ng3 44.Rxg2 Rxg2 45.Re1 Kg5
+46.Ra1 Kh4 47.Re1 Kh3 48.Ra1 Rf2 49.Rd1 Kg2 50.Re1 Ne2 51.Ra1
+Nd4+ 52.Ka4 Ne2 53.Kb3 Ng3 54.Re1 Re2 55.Ra1 Kf2 56.Rc1 Ke3
+57.Rd1 Nf5 58.Ne4 Kxf3 59.Rg1 Ke3 0-1

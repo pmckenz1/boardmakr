@@ -1,0 +1,17 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Sasho Nikolov"]
+[Black "Branko Kutuzovic"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Nc3 Bg7 5. Nf3 O-O 6. Be2 d5
+7. O-O cxd4 8. exd4 Nc6 9. Re1 dxc4 10. d5 Na5 11. Ne5 Nxd5
+12. Qxd5 Qxd5 13. Nxd5 Bxe5 14. Nxe7+ Kg7 15. Bf3 f6 16. Bd2
+c3 17. Rxe5 Nc4 18. Nf5+ Kh8 0-1

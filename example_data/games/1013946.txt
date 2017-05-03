@@ -1,0 +1,16 @@
+[Event "IV"]
+[Site "IV"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gundula David"]
+[Black "Michael Adams"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 g6 6.Bc4 Be6 7.O-O
+Bg7 8.Re1 O-O 9.Nd2 Nd7 10.Nef3 N7f6 11.Bf1 c6 12.c4 Nc7 13.b3
+Nce8 14.Bb2 Nd6 15.Ne5 Nd7 16.Ndf3 f6 17.Nxg6 1-0

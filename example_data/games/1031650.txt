@@ -1,0 +1,20 @@
+[Event "Leningradd cat"]
+[Site "256"]
+[Date "1925.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "G Jagdfeld"]
+[Black "Mikhail Botvinnik"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.Nf3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6
+8.Bxc4 Nbd7 9.O-O Bb7 10.Qe2 Be7 11.b3 O-O 12.Bb2 c5 13.Nc1 a5
+14.Rd1 Qb6 15.Nd3 Ne4 16.Nde5 Nxe5 17.Nxe5 Nc3 18.Bxc3 bxc3
+19.Rac1 cxd4 20.Rxd4 Qc7 21.f4 Bb4 22.Rd7 Qb6 23.f5 Bd6
+24.Nxf7 Rxf7 25.Bxe6 Rf8 26.Rxc3 Be5 27.Rxf7 Rxf7 28.Qh5 g6
+29.Bxf7+ Kxf7 30.Qxh7+ Kf8 31.fxg6 Bg7 32.Rc2 Qxe3+ 33.Rf2+
+Bf3 34.Qh4 Qe1+ 35.Rf1 Qxh4 0-1

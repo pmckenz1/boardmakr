@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Stewart Haslinger"]
+[Black "F Norman Stephenson"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5
+Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 Qh4 10. a3 Bc5 11. Ra2 Bxf2+
+12. Qxf2 Qe4+ 13. Kd2 Qxb1 14. Rb2 Qe4 15. cxd5 Qxd5+ 16. Kc2
+Qe4+ 17. Kd1 Bxf1 18. Rxf1 O-O 19. Qe3 Qd5+ 20. Rd2 Qb5
+21. Rf3 Rae8 22. Rxd7 Rxe5 23. Qd3 Qa5 24. Qd2 Qc5 25. Qd4 Qb5
+26. Qc4 Rd5+ 27. Rxd5 Qxd5+ 28. Qxd5 cxd5 29. Rc3 Rc8 30. Rc6
+Kf8 31. Bf4 Rb8 32. Rxc7 1-0

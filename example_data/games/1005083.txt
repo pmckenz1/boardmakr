@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Hoang Thanh Trang"]
+[Black "Anh Dung Nguyen"]
+[ECO "D14"]
+[WhiteElo "2455"]
+[BlackElo "2485"]
+[PlyCount "22"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4
+Bf5 7. e3 e6 8. Bd3 Bxd3 9. Qxd3 Be7 10. O-O O-O 11. Rfc1 Rc8
+1/2-1/2

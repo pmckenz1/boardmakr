@@ -1,0 +1,15 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1883.07.16"]
+[EventDate "1883.07.16"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Henry Edward Bird"]
+[Black "Jacques Schwarz"]
+[ECO "C13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O
+7.Bd3 c5 8.dxc5 Bxc3+ 9.bxc3 Qa5 10.O-O Qxc5 1/2-1/2

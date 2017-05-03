@@ -1,0 +1,16 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1970.07.21"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Drazen Marovic"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Be7 6.Bd3 Ngf6
+7.O-O Nxe4 8.Bxe4 c5 9.c3 Nf6 10.Bd3 cxd4 11.Bb5+ Bd7 12.Bxd7+
+Qxd7 13.Qxd4 Qxd4 14.Nxd4 a6 15.Bg5 Nd5 16.Bxe7 Kxe7 1/2-1/2

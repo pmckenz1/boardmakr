@@ -1,0 +1,15 @@
+[Event "07, New York"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Raymond Keene"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.e4 g6 2.Nc3 Bg7 3.g3 c5 4.Bg2 Nc6 5.d3 d6 6.f4 Nf6 7.Nge2
+O-O 8.O-O Nd4 9.h3 e5 10.Kh2 Bd7 11.Nxd4 1/2-1/2

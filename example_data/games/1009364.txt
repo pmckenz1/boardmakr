@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Sune Berg Hansen"]
+[Black "William Nicholas Watson"]
+[ECO "B70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7
+7. O-O O-O 8. Re1 Nc6 9. h3 Bd7 10. Bb3 Nxd4 11. Qxd4 Bc6
+12. Qd1 b5 13. Nd5 a5 14. a3 Nd7 15. Bg5 Bxd5 16. Bxd5 Rb8
+17. Rb1 b4 18. axb4 axb4 19. Qg4 Re8 20. Qh4 Bf6 21. Bxf6 Nxf6
+22. Bb3 Qc7 23. Rbd1 Qc5 24. Rd3 Red8 25. Qf4 Qe5 26. Qd2 Qa5
+27. Kh1 Nd7 28. Qf4 Ne5 29. Rg3 Rf8 30. Qh6 Qc5 31. Rf1 Nc6
+32. f4 Nd4 33. Rg4 Ne2 34. Kh2 d5 35. Rh4 1-0

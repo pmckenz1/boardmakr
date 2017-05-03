@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Nikolai V Sretenskij"]
+[Black "Evgeny Najer"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rb1 b6 10. Rc1 O-O 11. Nf3 Qa4
+12. Qc2 Qa5 13. Qd2 Nd7 14. Bd3 Ba6 15. Bxa6 Qxa6 16. Qe2 Qa4
+17. O-O Rac8 18. Rfd1 Nf6 19. Bg5 h6 20. Bxf6 exf6 21. d5 Rfe8
+22. c4 Bf8 23. Re1 Qa3 24. Qc2 Bd6 25. Re3 Qa6 26. g3 Rcd8
+27. a4 Re7 28. Kg2 Rde8 29. Rce1 Kg7 30. R3e2 Qa5 31. h3 Qa6
+32. Re3 Qa5 33. Qb3 Qb4 34. Qc2 Qa5 35. Kh2 Qa6 36. Qb3 Qc8
+37. Qb2 Bb8 38. Kg2 Qc7 39. Qb3 Qd8 40. Nh2 h5 41. h4 g5
+42. Qd1 Kg6 43. Qd3 Be5 44. R3e2 Qd7 45. Rf1 Kh6 46. hxg5+
+fxg5 47. f4 gxf4 48. gxf4 Bd4 49. e5 Qxa4 50. Ng4+ Kg7 51. Nf6
+Rh8 52. Ne8+ 0-1

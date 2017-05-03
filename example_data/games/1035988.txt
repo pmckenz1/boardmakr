@@ -1,0 +1,19 @@
+[Event "cr"]
+[Site "cr"]
+[Date "1900.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Amos Burn"]
+[Black "William Hewison Gunston"]
+[ECO "D60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Bd3
+b6 8.O-O Bb7 9.Qe2 Ne4 10.Bf4 g5 11.Bg3 f5 12.h3 Nxg3 13.fxg3
+Bd6 14.cxd5 exd5 15.Nd2 Qe7 16.Bxf5 Bxg3 17.e4 Bf4 18.Rxf4
+gxf4 19.Qg4+ Kh8 20.Bxd7 dxe4 21.Ndxe4 Rad8 22.Bf5 Rxd4 23.Re1
+b5 24.Qxf4 b4 25.Qf2 Qd8 26.Qf4 Qf6 27.Qe3 Qe5 28.Ne2 Rxe4
+29.Bxe4 Qxe4 30.Qxe4 Bxe4 1/2-1/2

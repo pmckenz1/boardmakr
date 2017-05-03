@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Marta Kovacs-Pinter"]
+[Black "Andras Adorjan"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.a4
+a6 8.Na3 Be6 9.Nc4 Be7 10.Be3 O-O 11.f3 b5 12.Nb6 Rb8 13.Nbd5
+Bxd5 14.exd5 Nd4 15.axb5 axb5 16.Bxd4 exd4 17.Qxd4 b4 18.Nd1
+Nd7 19.Bd3 Bf6 20.Qa7 Re8+ 21.Kf2 Nc5 22.Kf1 Rb7 23.Qa5 Qe7
+24.Kf2 Bh4+ 25.g3 Nxd3+ 26.cxd3 Qe2+ 27.Kg1 Bd8 0-1

@@ -1,0 +1,26 @@
+[Event "Alborg"]
+[Site "01"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Per Naesby Andreasen"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bd6 5.g3 Nf6 6.Bg2 O-O 7.O-O
+Re8 8.b3 a5 9.a3 b6 10.Bb2 dxe4 11.dxe4 Ba6 12.Re1 Nbd7 13.Nh4
+g6 14.Nc4 Bc7 15.Qe2 Qe7 16.a4 Rad8 17.Bf1 Nc5 18.Qf3 Bc8
+19.Ba3 Nfd7 20.Qe3 Kg7 21.Bh3 h6 22.Rad1 Qg5 23.Qxg5 hxg5
+24.Nf3 f6 25.Nd6 Rh8 26.Bf1 Bxd6 27.Rxd6 Nb8 28.Bxc5 bxc5
+29.Red1 Rxd6 30.Rxd6 Kf7 31.Bc4+ Ke7 32.Rd3 Nd7 33.h4 g4
+34.Nd2 Nb6 35.Rc3 Rd8 36.Bd3 Kd6 37.Kf1 Be6 38.Ke1 Rg8 39.Be2
+g5 40.hxg5 Rxg5 41.Bc4 Bxc4 42.Nxc4+ Nxc4 43.Rxc4 Rg8 44.Ke2
+Rb8 45.f3 gxf3 46.Kxf3 Rh8 47.Rc3 Rh1 48.Kg4 Rf1 49.Rf3 Rxf3
+50.Kxf3 c4 51.bxc4 Kc5 52.Kg4 Kb4 53.Kf5 Kxa4 54.Kxf6 Kb4
+55.g4 a4 56.g5 a3 57.g6 a2 58.g7 a1=Q 59.g8=Q Qc3 60.Qe6 c5
+61.Qxe5 Qxc2 62.Qd5 Qxc4 63.Qxc4+ Kxc4 64.e5 Kb3 65.e6 c4
+66.e7 c3 67.e8=Q c2 1/2-1/2

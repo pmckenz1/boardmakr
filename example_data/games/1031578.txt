@@ -1,0 +1,19 @@
+[Event "New York (USA)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Nicola Paglietti"]
+[Black "Jay R Bonin"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 Nd4 6.Bf1 b6 7.c3
+Nxf3+ 8.Qxf3 Bb7 9.Qg3 Ng6 10.d3 Be7 11.Qe3 O-O 12.g3 f5
+13.exf5 Rxf5 14.Bg2 Bxg2 15.Kxg2 Re5 16.Qxe5 Nxe5 17.Rxe5 Qc7
+18.Re1 Qc6+ 19.Kg1 h5 20.Be3 h4 21.Nd2 h3 22.f3 Rf8 23.Rad1
+Qb5 24.b3 Qxd3 25.Ne4 Qb5 26.Nf2 Rxf3 27.Nxh3 Bf6 28.Kg2 Qc6
+0-1

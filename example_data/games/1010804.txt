@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Andrei Bykov"]
+[Black "Gennadiy Semin"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 g6 5. Nf3 Bg7 6. Bd3 O-O
+7. O-O Bg4 8. Be3 Nbd7 9. Qe1 Bxf3 10. Rxf3 Ng4 11. e5 Nxe3
+12. Qxe3 c5 13. dxc5 dxe5 14. Rd1 exf4 15. Qxf4 Qc8 16. Bc4
+Qxc5+ 17. Re3 Ne5 18. Be2 Nc6 19. Rd5 Qb4 20. Qxb4 Nxb4
+21. Rd7 e6 22. Kf1 Nxc2 23. Red3 Nb4 24. Rd2 Rab8 25. Bf3 Bh6
+26. R2d4 Nc6 27. Ne4 Nxd4 28. Rxd4 0-1

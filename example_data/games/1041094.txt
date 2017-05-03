@@ -1,0 +1,21 @@
+[Event "ARG-ch"]
+[Site "Buenos Aires ARG"]
+[Date "1958.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Ruben Shocron"]
+[Black "Erich Eliskases"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 e5 6.Nge2 exd4 7.Nxd4
+O-O 8.Bg5 Nc6 9.Nc2 h6 10.Bh4 Re8 11.Be2 g5 12.Bf2 Nh5 13.O-O
+Nf4 14.Re1 f5 15.Bf1 fxe4 16.Rxe4 Rxe4 17.fxe4 Bxc3 18.bxc3
+Ne5 19.Ne3 Qf6 20.Rb1 Qf7 21.Bg3 Kh7 22.Rb2 b6 23.Rf2 Be6
+24.Nf5 Bxf5 25.exf5 Qxf5 26.h4 Rf8 27.Qd2 Qg4 28.Qe3 Kg7
+29.Kh1 Rf6 30.Kg1 Neg6 31.hxg5 hxg5 32.Bh2 c5 33.Be2 Re6
+34.Bxg4 Rxe3 35.Rd2 Ne5 36.Bxf4 gxf4 37.Be2 Kf8 38.Kf2 Ke7
+39.Rc2 Rg3 40.Rc1 Ke6 41.Bf3 Nd3+ 0-1

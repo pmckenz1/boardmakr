@@ -1,0 +1,21 @@
+[Event "Olympiad"]
+[Site "Nice (France)"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Axel Otto Ornstein"]
+[Black "Eugenio Torre"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Nf6 12.f3 f4 13.c5 g5
+14.Rc1 Ng6 15.Nb5 Rf7 16.Ba5 b6 17.cxb6 cxb6 18.Bb4 Bf8 19.Qc2
+Ne8 20.a4 Rg7 21.Nf2 h5 22.h3 Nh4 23.Qb3 a6 24.Na3 Nf6 25.Rc2
+g4 26.fxg4 hxg4 27.Nxg4 Bxg4 28.Bxg4 Nxg4 29.hxg4 Rxg4 30.Qh3
+Qg5 31.Be1 Re8 32.Nc4 b5 33.axb5 axb5 34.Na3 Re7 35.Nxb5 Rh7
+36.Nc7 Nxg2 37.Qxg4 Qxg4 38.Rxg2 Qxg2+ 39.Kxg2 Rxc7 40.Bc3
+Rg7+ 41.Kf3 Be7 42.Be1 Bd8 43.Bf2 Rb7 44.Ra1 Kf7 1/2-1/2

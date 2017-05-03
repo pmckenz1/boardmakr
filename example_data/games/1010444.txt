@@ -1,0 +1,21 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "16"]
+[Result "1-0"]
+[White "Venkatachalam Saravanan"]
+[Black "Ramachandran Ramesh"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f3 e5
+7. Nb3 Be7 8. Be3 Be6 9. Nd5 Bxd5 10. exd5 Nb8 11. c4 O-O
+12. Bd3 a5 13. O-O Nfd7 14. Qd2 b6 15. Nc1 Nc5 16. Bc2 h6
+17. Ne2 Bg5 18. b3 Bxe3+ 19. Qxe3 Nba6 20. a3 Qg5 21. Qc3 Rfc8
+22. b4 axb4 23. axb4 Nxb4 24. h4 Qxh4 25. Qxb4 Rxa1 26. Rxa1
+e4 27. fxe4 Nxe4 28. Qxb6 Rxc4 29. Bd3 Rc5 30. g3 Qg4 31. Qd8+
+Kh7 32. Qxd6 Rc8 33. Qf4 Qxf4 34. Nxf4 f5 35. Bxe4 fxe4
+36. Ne6 Rc3 37. d6 1-0

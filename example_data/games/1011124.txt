@@ -1,0 +1,21 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Rolly Martinez"]
+[Black "Buenaventura Bong Villamayor"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4
+Qd6 7. O-O Nf6 8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Bb3
+Bd7 12. Re1 O-O-O 13. c3 Qc7 14. Qf3 Bd6 15. h3 Rhg8 16. a4
+Be5 17. Qe2 Bxd4 18. cxd4 Bc6 19. Bc4 Rxd4 20. Be3 Rh4
+21. Rec1 Ng4 22. Bxe6+ fxe6 23. Rxc6 bxc6 24. Qxa6+ Qb7
+25. Qc4 Nxe3 26. Qxe6+ Kc7 27. Qxg8 Qxb2 28. Re1 Rf4 29. fxe3
+Rf2 30. Kh1 Rxg2 31. Qf7+ Kd6 32. Qf4+ Kd7 33. e4 Qd2 34. Qf5+
+Kd8 35. Rd1 Rh2+ 36. Kg1 1/2-1/2

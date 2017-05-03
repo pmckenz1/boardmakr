@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Murugan Thiruchelvam"]
+[Black "Charles H Storey"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. Nf3 d6 2. d4 g6 3. e4 Bg7 4. Nc3 c6 5. Be2 Nd7 6. O-O e6
+7. Bf4 e5 8. Be3 Ngf6 9. dxe5 dxe5 10. h3 O-O 11. Qd2 Qc7
+12. Rad1 Re8 13. Qc1 b6 14. a4 Bf8 15. Bc4 Bb4 16. Ng5 Rf8
+17. f4 h6 18. fxe5 Nxe5 19. Ba2 Nh5 20. Nxf7 Nxf7 21. Bxh6 Ba6
+22. Bxf8 Rxf8 23. Rxf7 Rxf7 24. Bxf7+ Kxf7 25. Rf1+ Bxf1
+26. Qxf1+ Kg7 27. Qf3 Qe5 28. Nd1 Ng3 29. Nf2 Bc5 0-1

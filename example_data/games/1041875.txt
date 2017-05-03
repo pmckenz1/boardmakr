@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1920.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Petrus Franciscus van Hoorn"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e4 a6 5. Bxc4 b5 6. Bd3 Bb7
+7. Nf3 c5 8. O-O cxd4 9. Nxd4 Bc5 10. Nxe6 fxe6 11. Qh5+ g6
+12. Qxc5 Qxd3 13. Rd1 Qc4 14. Qe5 Nd7 15. Qxh8 O-O-O 16. Rxd7
+Kxd7 17. Bg5 Re8 18. Qxh7+ Kc8 19. Nd5 Kb8 20. Qxg6 Bc6
+21. Bf4+ Ka7 22. Qf7+ 1-0

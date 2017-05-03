@@ -1,0 +1,17 @@
+[Event "Hastings 1923/24"]
+[Site "Hastings ENG"]
+[Date "1923.12.28"]
+[EventDate "1923.12.27"]
+[Round "2"]
+[Result "0-1"]
+[White "George Marshall Norman"]
+[Black "Max Euwe"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7
+7. Qc2 c5 8. Be2 dxc4 9. Bxc4 h6 10. Bh4 a6 11. dxc5 Nxc5
+12. a3 b5 13. Be2 Bb7 14. Rd1 Qc7 15. Qb1 Nfe4 16. Nxe4 Bxe4
+17. Bg3 Qa5+ 0-1

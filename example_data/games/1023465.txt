@@ -1,0 +1,16 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ba6
+7.b3 c6 8.Bg2 d5 9.Ne5 Nfd7 10.Nxd7 Nxd7 11.O-O O-O 12.cxd5
+cxd5 13.Rc1 Qe7 14.Nc3 Rac8 1/2-1/2

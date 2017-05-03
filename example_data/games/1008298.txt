@@ -1,0 +1,38 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.11"]
+[EventDate "1936.08.10"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Samuel Reshevsky"]
+[Black "William Winter"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 {Notes by Alekhine} d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4
+5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Ne4 {As in
+the other games in this tournament this move proves to be
+quite sufficient to equalise (see Lasker-Capablanca and
+Fine-Capablanca).} 10. Nxe4 Bxe4 11. Nd2 Bg6 12. Nb3 Nd7
+13. Bd2 {Leads to a further simplification (see Black's 14th
+move). But as Black's pieces are well developed and he has no
+weaknesses, there is no reason for White to complicate
+matters, for instance by Rd1.} Bxd2 14. Qxd2 e5 15. a5 exd4
+16. exd4 {Comparatively better than 16.Qxd4 Qe7; followed by
+...Rd8 after which Black's Pawn majority on the Q-side could
+become an important faqctor in the endgame.} Nf6 17. Qf4 Nd5
+18. Qg3 Qf6 {Showing that he is satisfied with a
+draw. Otherwise 18...Re8 and if 19.Re1 then ...Rxe1+ 20.Rxe1
+b6, in order to limit the action of the White Knight, was
+worth considering.} 19. Bxd5 cxd5 20. Rfc1 Rfc8 21. Qe5
+{Hoping, in vain, to get the strong square d4 for the Knight
+after the exchange.} Qxe5 22. dxe5 Rc4 {An exactly caculated
+move which destroys White's last winning hope. If after
+23.Rxc4 dxc4 White should play 24.Nc5 he would even get into
+some trouble. 24...Rd8 25.Nxb7 Rd2 26.Nd6 Bd3 followed by
+...Rxb2.} 23. Rxc4 dxc4 24. Nd2 Bd3 25. Ra4 Rc8 26. Rb4 c3
+{The simplest} 27. bxc3 Rxc3 28. f4 Ba6 29. Rd4 Kf8 30. Ne4
+Ra3 31. Rd5 {Black can now play for instance 31...Ra4 32.Nc5
+Rxf4 33.Nxa6 bxa6 34.Rd6 Rc4 35.Rxa6 Rc7 etc.} 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.26"]
+[EventDate "1923.11.16"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Lajos Steiner"]
+[Black "Karel Opocensky"]
+[ECO "B38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3
+Qa5+ 7. Nc3 Nf6 8. Nb3 Qd8 9. Be2 d6 10. f3 b6 11. Qd2 h5
+12. Rd1 Bb7 13. Nd4 Kf8 14. Nd5 Nxd5 15. cxd5 Nxd4 16. Bxd4
+Rc8 17. O-O Kg8 18. Rc1 Kh7 19. Bxg7 Kxg7 20. Rxc8 Qxc8
+21. Rc1 Qb8 22. Qc3+ f6 23. Qc7 Kf7 24. Bb5 Rc8 25. Qxb8 Rxb8
+26. Rc7 f5 27. Kf2 Kf6 28. Bd7 a5 29. Ke3 fxe4 30. Kxe4 Ba6
+31. Be6 g5 32. g3 Be2 33. h3 a4 34. Ke3 Bf1 35. f4 gxf4+
+36. Kxf4 b5 37. g4 hxg4 38. hxg4 Bc4 39. a3 Rf8 40. Ke4 Rh8
+41. Rc8 Rxc8 42. Bxc8 Kg5 43. Kd4 Kf4 44. Be6 Be2 45. Bd7 Bxg4
+46. Bxb5 Bd1 47. Bc4 Kf3 1/2-1/2

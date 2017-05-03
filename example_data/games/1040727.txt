@@ -1,0 +1,15 @@
+[Event "Ch USA"]
+[Site "Modesto, CA USA"]
+[Date "1995.11.22"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Igor N Khmelnitsky"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.Na3
+Nc6 8.h3 Bh5 9.O-O cxd4 1/2-1/2

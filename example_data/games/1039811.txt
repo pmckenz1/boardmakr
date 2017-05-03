@@ -1,0 +1,18 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.02.23"]
+[EventDate "1909.02.15"]
+[Round "7"]
+[Result "0-1"]
+[White "Leo Fleischmann Forgacs"]
+[Black "Oldrich Duras"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6
+7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 Kh8 10.Be3 Nd7 11.O-O-O Nf8 12.Kb1
+Be6 13.Nf4 Bxf4 14.Bxf4 Qd5 15.b3 Qxg2 16.Rhg1 Qf3 17.Be3 Bg4
+18.Rde1 Bh5 19.Rg3 Qd5 20.f4 Re7 21.Reg1 Rae8 22.c4 Qd6 23.Qf2
+g6 24.d5 Nd7 25.Bd4 Re2 26.Be5 Qxe5 0-1

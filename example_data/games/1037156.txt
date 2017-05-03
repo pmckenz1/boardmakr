@@ -1,0 +1,25 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Ofer Bruk"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nc6 4.Ngf3 e5 5.exd5 Qxd5 6.g3 Be6 7.Bg2
+f6 8.O-O Qd7 9.a3 Nge7 10.b4 a6 11.Bb2 Nf5 12.Re1 Rd8 13.Qe2
+Be7 14.Ne4 O-O 15.Rad1 Rfe8 16.c3 Qc8 17.Qc2 Nd6 18.Nc5 Bf7
+19.Nd2 Nb8 20.c4 c6 21.Ndb3 Bf8 22.Bc1 Bh5 23.Rd2 Bg6 24.Ne4
+Nf5 25.Bb2 Qc7 26.Qd1 Nd7 27.h4 h6 28.Qg4 Ne7 29.Qf3 Nc8 30.c5
+Bf7 31.Qd1 Bd5 32.Bh3 b6 33.cxb6 Qxb6 34.Qc2 Na7 35.Nc3 Bf7
+36.Bg2 Rc8 37.Bh3 Rc7 38.d4 exd4 39.Rxe8 Bxe8 40.Na4 Qb8
+41.Bxd4 Nb5 42.Bb2 Ne5 43.Qd1 Re7 44.Nbc5 Qa7 45.Be6+ Bf7
+46.Bxf7+ Rxf7 47.Qb3 Nd6 48.Re2 Nec4 49.Bd4 Re7 50.Ne6 Qb8
+51.Nb2 Nxb2 52.Bxb2 Qb5 53.Nxf8 Kxf8 54.Rxe7 Kxe7 55.Bd4 Qc4
+56.Qe3+ Kf7 57.Bc5 Ne4 58.Bd4 Nd6 59.Bc5 Ne4 60.Bd4 Nd6
+1/2-1/2

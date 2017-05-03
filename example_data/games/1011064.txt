@@ -1,0 +1,22 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Bjarte Leer-Salvesen"]
+[Black "Atle Groenn"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 Ne7 5. Nf3 O-O 6. O-O f5
+7. d3 c6 8. e4 Kh8 9. Re1 d6 10. Rb1 Be6 11. b4 Nd7 12. a4 Bg8
+13. Ba3 d5 14. cxd5 cxd5 15. b5 fxe4 16. dxe4 d4 17. Nd5 Nxd5
+18. Bxf8 Nc3 19. Bxg7+ Kxg7 20. Qd2 Nxb1 21. Rxb1 Rc8 22. Bh3
+Rc7 23. Bxd7 Qf6 24. b6 axb6 25. Qg5 Qxg5 26. Nxg5 Rxd7
+27. Nf3 d3 28. Rd1 Bb3 29. Rd2 Kf6 30. Ne1 Bxa4 31. f3 Bb5
+32. Kf2 g5 33. Ke3 Ke6 34. Rb2 Rd6 35. Rd2 Bc4 36. f4 gxf4+
+37. gxf4 exf4+ 38. Kxf4 b5 39. Nf3 b4 40. e5 Ra6 41. Ng5+ Kd5
+42. Nxh7 b3 43. Nf6+ Kd4 44. h4 Ra2 0-1

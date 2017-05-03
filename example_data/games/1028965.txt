@@ -1,0 +1,21 @@
+[Event "Kensington"]
+[Site "Kensington"]
+[Date "1877.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "MacDonnell / Zukertort"]
+[Black "Blackburne / Potter"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Ba4 b5 6.Bb3 Bc5 7.Nxe5
+O-O 8.Nxc6 dxc6 9.O-O a5 10.a3 a4 11.Ba2 Bg4 12.Qe1 Qd7 13.d3
+b4 14.axb4 Bxb4 15.Bd2 a3 16.bxa3 Rxa3 17.Nb1 Bxd2 18.Qxd2
+Raa8 19.Qe3 Qe7 20.Nd2 Rfd8 21.f3 Bd7 22.Bc4 Be8 23.Nb3 Nd7
+24.d4 Nb6 25.Bd3 Qb4 26.Qe1 Qe7 27.Rxa8 Rxa8 28.f4 Nd7 29.e5
+Nb6 30.Qe4 g6 31.f5 Nd5 32.f6 Qf8 33.Nc5 Qh6 34.c4 Nb4 35.Rb1
+Qd2 36.Qe2 Qf4 37.Be4 Ra2 38.Qe1 Nc2 39.Qg3 Qd2 40.Qd3 Qf4
+41.Qb3 1-0

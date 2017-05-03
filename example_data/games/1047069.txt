@@ -1,0 +1,20 @@
+[Event "Ch Russia (w)"]
+[Site "Elista (Russia)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Natalia Ruchieva"]
+[Black "Alisa Galliamova"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 g6 6.Na3 Bg7 7.Nb5
+Na6 8.Be2 O-O 9.O-O cxd4 10.Qxd4 b6 11.Rd1 Bb7 12.Be3 Rfc8
+13.Qh4 Qc6 14.Qh3 Nc5 15.Ne5 Qe4 16.Ng4 Rd8 17.Nd4 Nxg4
+18.Bxg4 Qe5 19.Bf3 Ne4 20.Bh6 Qc7 21.Bxe4 Bxe4 22.Ne6 Bxg2
+23.Nxc7 Bxh3 24.Nxa8 Rxa8 25.Bxg7 Kxg7 26.Rd4 Rc8 27.Rad1 e5
+28.Rd8 Rc4 29.f3 Rf4 30.R8d3 g5 31.Re3 f6 32.Rdd3 g4 33.Re4
+Rf5 34.Kf2 h5 35.Kg3 Kg6 36.f4 exf4 0-1

@@ -1,0 +1,27 @@
+[Event "Wijk Sonnevanck"]
+[Site "Wijk aan Zee NED"]
+[Date "1995.02.24"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Liafbern Riemersma"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6
+7. Be2 O-O 8. O-O Re8 9. Rd1 Qe7 10. b3 b6 11. e4 Nxe4
+12. Nxe4 dxe4 13. Qxe4 Bb7 14. Bg5 f6 15. Bf4 Bxf4 16. Qxf4 e5
+17. dxe5 Nxe5 18. Nxe5 Qxe5 19. Qxe5 Rxe5 20. Bf3 Kf8 21. h4
+Ke7 22. Rd3 Rd8 23. Rad1 Rxd3 24. Rxd3 a5 25. Bg4 Ke8 26. a4
+g6 27. Kf1 f5 28. Bf3 Ke7 29. g4 h6 30. gxf5 gxf5 31. Bg2 Re6
+32. Bh3 Rf6 33. Rg3 f4 34. Rg7+ Rf7 35. Rg8 Rf8 36. Rxf8 Kxf8
+37. Bg2 Ke7 38. Ke2 Kd6 39. Be4 Ke5 40. Kf3 Ba8 41. c5 bxc5
+42. Bd3 h5 43. Bg6 c4 44. bxc4 c5+ 45. Ke2 Bc6 46. Bxh5 Bxa4
+47. Kd3 Bc6 48. Bg4 Kf6 49. Kc3 Kg6 50. Kb3 Kf6 51. Kc3 Ke5
+52. Kd3 Be4+ 53. Kc3 Bf5 54. Bf3 Bg6 55. Bd1 Be8 56. Bf3 Bd7
+57. Kd3 Ba4 58. Kc3 Be8 59. h5 Kf5 60. h6 Bg6 61. Kb3 Kg5
+62. Ka4 Kxh6 63. Kxa5 Bh5 64. Bb7 Kg5 65. Kb5 Kf6 66. Kxc5 Be2
+67. Kd4 Ke6 68. c5 Kd7 69. Ke5 Kc7 70. Be4 f3 71. Kf4 1-0

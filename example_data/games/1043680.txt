@@ -1,0 +1,16 @@
+[Event "Gelfand - Kramnik Candidates Semifinal"]
+[Site "Sanghi Nagar IND"]
+[Date "1994.07.25"]
+[EventDate "1994.07.25"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vladimir Kramnik"]
+[Black "Boris Gelfand"]
+[ECO "B52"]
+[WhiteElo "2725"]
+[BlackElo "2680"]
+[PlyCount "27"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 e6
+7.b3 g6 8.d4 cxd4 9.Nxd4 Bg7 10.Ba3 Qb6 11.Nc3 a6 12.Rad1 O-O
+13.Na4 Qc7 14.c4 1/2-1/2

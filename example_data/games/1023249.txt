@@ -1,0 +1,21 @@
+[Event "USSR 29/559"]
+[Site "USSR 29/559"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Donatas Lapienis"]
+[Black "Vladimir Bagirov"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5 6.Nf3 O-O 7.O-O
+Nb6 8.Nc3 Nc6 9.e3 e5 10.d5 Ne7 11.e4 Bg4 12.h3 Bxf3 13.Qxf3
+c6 14.Rd1 cxd5 15.Nxd5 Nexd5 16.exd5 Qd6 17.Qb3 Rfd8 18.Bd2
+Rd7 19.Rac1 Rad8 20.Bb4 Qf6 21.d6 Bf8 22.Ba5 Bxd6 23.Bxb6 axb6
+24.Qxb6 Be7 25.Qb3 Bc5 26.Rf1 b6 27.Rc3 Rd2 28.Rf3 Qe7 29.Rc3
+Bd4 30.Rc2 Rd3 31.Qc4 Rxg3 32.Kh1 Rg5 33.Re2 Rf5 34.b4 Rf4
+35.a4 Qf6 36.Qc2 g5 37.a5 bxa5 38.bxa5 g4 39.hxg4 Rxg4 40.Re4
+Qh6+ 41.Kg1 Rg6 0-1

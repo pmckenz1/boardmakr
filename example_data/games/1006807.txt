@@ -1,0 +1,21 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.16"]
+[EventDate "1920.08.02"]
+[Round "11"]
+[Result "0-1"]
+[White "Simon Krenzisky"]
+[Black "Holger Norman-Hansen"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+
+7.Nbxd2 d5 8.O-O Nbd7 9.Rc1 c5 10.dxc5 bxc5 11.cxd5 exd5
+12.Qa4 O-O 13.Nb3 Qb6 14.Rc2 Rfe8 15.Rfc1 Re4 16.Qa3 c4 17.Na5
+Ba6 18.e3 Nc5 19.Ne1 Ree8 20.b3 Nd3 21.Nxd3 cxd3 22.Rd2 Rxe3
+23.Nc4 Bxc4 24.bxc4 Rae8 25.fxe3 Qxe3+ 26.Rf2 Ng4 27.Rf1 Nxf2
+28.Rxf2 d2 29.Qxe3 d1=Q+ 30.Rf1 Qxf1+ 31.Bxf1 Rxe3 32.cxd5 Kf8
+33.Bb5 Ke7 34.a4 Kd6 35.Bc6 Re2 36.Bb5 Rd2 37.Bc6 Rxd5 38.Bxd5
+Kxd5 39.Kf2 Kc4 40.h4 Kb4 0-1

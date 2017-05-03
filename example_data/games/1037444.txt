@@ -1,0 +1,17 @@
+[Event "USA op"]
+[Site "Chicago, IL USA"]
+[Date "1973.08.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "David C Taylor"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.exf5 e4 6.d4 exf3 7.dxc5
+Qe7+ 8.Be3 fxg2 9.Rg1 Nf6 10.Nd2 d5 11.cxd6 cxd6 12.Qf3 O-O
+13.O-O-O Ne5 14.Qxg2 Bxf5 15.f4 Ng6 16.Bd4 Nh5 17.Rde1 Qc7
+18.Bc4+ Kh8 19.Qg5 Nhxf4 20.Re7 1-0

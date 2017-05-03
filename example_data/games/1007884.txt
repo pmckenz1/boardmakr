@@ -1,0 +1,26 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.18"]
+[EventDate "1930.01.16"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Massimiliano Romi"]
+[Black "Roberto Grau"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 e6 4.Nf3 cxd4 5.exd4 Qb6 6.Qc1 Nc6 7.c3
+d5 8.Bd3 Be7 9.Nbd2 Nh5 10.Bg3 Nxg3 11.hxg3 h6 12.Nf1 Bd7
+13.Ne3 Rc8 14.Qd2 Bd6 15.Qe2 Na5 16.Nxd5 Qd8 17.Ne3 O-O 18.O-O
+Nc6 19.Nc4 Bb8 20.Qe4 f5 21.Qe2 Qf6 22.Rfe1 Rce8 23.Nce5 Nxe5
+24.Nxe5 Bc8 25.f4 g5 26.Qh5 Kg7 27.Kf2 Rh8 28.Re3 a6 29.Rae1
+b5 30.Bc2 Bc7 31.Bb3 Rd8 32.a3 Rd6 33.Nf3 g4 34.Ne5 Bb6
+35.R1e2 Rhd8 36.Re1 a5 37.Nd3 Rf8 38.Re5 Bd7 39.Nc5 Bxc5
+40.Rxc5 Rxd4 41.Rc7 Rd2+ 42.Kg1 Rf7 43.Rxd7 Rdxd7 44.Rxe6 Rde7
+45.Rxf6 Rxf6 46.Kf2 a4 47.Ba2 Rf8 48.Bb1 Rd8 49.Bxf5 Rd2+
+50.Kg1 Rd1+ 51.Kh2 Ree1 52.Qg6+ Kf8 53.Qxh6+ Ke7 54.Qg7+ Ke8
+55.Qg8+ Ke7 56.Qg5+ Kf8 57.Qh6+ Ke7 58.Qg7+ Ke8 59.Bd7+ Kd8
+60.Qg8+ Kc7 61.Qc8+ Kd6 62.Qc6+ Ke7 63.Qc5+ Kxd7 64.Qxb5+ Kc7
+1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Stary Smokovec"]
+[Site "Stary Smokovec CSR"]
+[Date "1990.10.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Pavel Blatny"]
+[Black "Yuri Razuvaev"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.Qe1 Nd7 8.b3 O-O 9.Bb2 f6 10.d4 exd4 1/2-1/2

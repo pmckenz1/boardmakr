@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "URS"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Roman Dzindzichashvili"]
+[Black "Mark Taimanov"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bh4 dxc4 7.Qa4+
+Nc6 8.e3 Qd5 9.Bxf6 gxf6 10.a3 Bxc3+ 11.bxc3 b5 12.Qc2 Bb7
+13.e4 Qh5 14.Be2 Na5 15.Nd2 Qg6 16.Bf3 O-O 17.O-O c5 18.Qb2 a6
+19.a4 cxd4 20.axb5 axb5 21.cxd4 Nb3 22.Nxb3 cxb3 23.Qxb3 Bxe4
+24.Bxe4 Qxe4 25.Qxb5 Rxa1 26.Rxa1 Qxd4 27.Qa4 Qe5 28.g3 Rd8
+29.Rd1 Rxd1+ 30.Qxd1 f5 31.Qd2 Kg7 32.h3 Qe4 33.Qc3+ e5 34.Kf1
+f4 35.gxf4 Qxf4 36.Kg2 Kg6 37.Qc6+ Kg5 38.Qd5 Kh4 39.Qb7 e4
+40.Qc6 h5 41.Qe8 Qf3+ 0-1

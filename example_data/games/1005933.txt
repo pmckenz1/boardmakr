@@ -1,0 +1,24 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Jonathan Rowson"]
+[Black "Alexey Yuneev"]
+[ECO "B81"]
+[WhiteElo "2499"]
+[BlackElo "2430"]
+[PlyCount "107"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6
+7. g5 Nd7 8. Ndb5 Nb6 9. Bf4 Ne5 10. Qh5 Ng6 11. Be3 a6
+12. Nd4 d5 13. O-O-O Bb4 14. Nde2 Nc4 15. exd5 Qa5 16. Kb1
+Nxb2 17. Kxb2 Qa3+ 18. Kb1 Bxc3 19. Nxc3 Qxc3 20. Rd3 Qb4+
+21. Rb3 Qe4 22. Rg1 Qxd5 23. Bg2 Qc4 24. Bc1 e5 25. Bf1 Qh4
+26. Qxh4 Nxh4 27. Ba3 b5 28. Re3 Be6 29. Be2 Ng6 30. Rd1 f6
+31. gxf6 gxf6 32. Bf3 Ra7 33. Bc5 Rc7 34. Bb6 Rc4 35. Ra3 Bc8
+36. Rad3 Kf8 37. Rd6 Kg7 38. Bd5 Rb4+ 39. Kc1 Bf5 40. Bd8 Rf8
+41. Bb3 Rh4 42. Rxa6 Rxh2 43. Rdd6 Rxf2 44. Bxf6+ Kh6 45. Bxe5
+Kg5 46. Bd4 Re2 47. Rab6 h5 48. Rxb5 h4 49. Kd1 Nf4 50. Bg7
+Rfe8 51. Bf6+ Kg4 52. Bxh4 Rh2 53. Bf6 Ree2 54. Kc1 1/2-1/2

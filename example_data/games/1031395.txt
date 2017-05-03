@@ -1,0 +1,17 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Robert Eugene Byrne"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 a6 6.Bg5 c6 7.Qd2 b5
+8.cxb5 axb5 9.Bd3 Nbd7 10.Nge2 O-O 11.O-O e5 12.d5 b4 13.Nd1
+cxd5 14.Qxb4 Nc5 15.Bb5 Rb8 16.a4 Qb6 17.Ne3 dxe4 18.Bxf6 Nd3
+19.Qd2 Bh6 20.f4 exf4 21.Nxf4 Nxf4 22.Kh1 Nd3 23.Nd5 1-0

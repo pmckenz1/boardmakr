@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Sasho Nikolov"]
+[Black "Denis Jakupec"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. Bg5 Bb7 8. f3 h6 9. Bh4 d5 10. e3 Nbd7 11. cxd5 exd5
+12. Bd3 Re8 13. Ne2 c5 14. Bf2 a5 15. O-O Ba6 16. Bxa6 Rxa6
+17. Ng3 c4 18. Rae1 b5 19. e4 Qb8 20. e5 Nh7 21. f4 b4 22. Qf3
+Qa8 23. f5 Ndf8 24. Nh5 Qb7 25. Qg4 f6 26. Bh4 Ng5 27. Bxg5
+hxg5 28. h4 Nh7 29. hxg5 fxg5 30. f6 gxf6 31. exf6 Rxe1
+32. Rxe1 1-0

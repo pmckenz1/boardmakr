@@ -1,0 +1,29 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.06"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "William Henry Krause Pollock"]
+[Black "Dionisio M Martinez"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.O-O d6 7.d4 exd4 8.Qb3 Qf6 9.cxd4 {An obsolete form
+of this opening. Waller's attack by 9.e5 dxe5 10.Re1 , is the
+only way to keep up the pressure.} Bb6 10.e5 dxe5 11.dxe5 Qg6
+12.Ng5 Nd8 13.Nc3 h6 14.Nge4 Ne7 15.Ba3 Nec6 16.Rae1 Be6
+17.Nd5 Nxe5 18.Nxb6 axb6 19.f4 Bxc4 20.Qxc4 Rxa3 {If 20...Nxc4
+21. Nf6+ and mates next move.} 21.Qb4 Rxa2 22.Ng3 Ndc6 23.Qb3
+Ra5 24.fxe5 Qe6 25.Qf3 O-O {Practically this ends the fight,
+as White's sacrifice of pawns could only be conpensated by an
+attack direct against Black's King which however has now taken
+safe refuge.} 26.Nf5 Ne7 27.Nd4 Qd5 28.Qg4 Ra4 29.Re4 Ng6
+30.e6 f5 31.Nxf5 Qxe4 32.Qxg6 Rxf5 33.Qxf5 Qxf5 34.Rxf5 Re4
+35.Rf7 c5 36.Re7 g6 37.Kf2 Kf8 38.Rf7+ Ke8 39.Rf6 Ke7 40.Rxg6
+Rxe6 {The stronghold of White's last hope is gone.} 41.Rg7+
+Kd6 42.Rxb7 Kc6 43.Rf7 c4 44.g4 b5 45.h4 c3 46.Kg3 c2 47.Rf1
+b4 48.g5 hxg5 49.hxg5 b3 50.Rc1 Kd7 0-1

@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Boris Gelfand"]
+[Black "Vassily Ivanchuk"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2
+cxd4 8.cxd4 f6 9.exf6 Nxf6 10.O-O Bd6 11.Nf3 O-O 12.Bf4 Bxf4
+13.Nxf4 Qc7 14.g3 Qb6 15.Qd2 Kh8 16.Ng5 Nxd4 17.Bxh7 Nxh7
+18.Ng6+ Kg8 19.Ne7+ Kh8 1/2-1/2

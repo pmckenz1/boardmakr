@@ -1,0 +1,18 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Oleg Boricsev"]
+[Black "Anh Dung Nguyen"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+
+Nxf6 7. Bc4 Bf5 8. Qe2 e6 9. O-O Be7 10. c3 O-O 11. Bg5 h6
+12. Bf4 Nd5 13. Be5 Re8 14. Rad1 Bf8 15. Rfe1 b5 16. Bb3 a5
+17. a3 a4 18. Ba2 Qb6 19. h3 Rad8 20. Bg3 Qb7 21. Bh4 Rc8
+22. Bg3 Red8 23. Be5 Nb6 24. Rd2 Qa6 25. Bg3 1/2-1/2

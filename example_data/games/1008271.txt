@@ -1,0 +1,54 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.27"]
+[EventDate "1936.08.10"]
+[Round "14"]
+[Result "0-1"]
+[White "William Winter"]
+[Black "Emanuel Lasker"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 {Notes by Alekhine} Nf6 2. Nf3 d5 3. e3 e6 {Dr. Euwe
+prefers Bf5 introduced by me in my game against Colle, San
+Remo, 1930.} 4. Nbd2 c5 5. c3 Nc6 6. Bd3 Bd6 7. O-O O-O
+8. dxc5 Bxc5 9. e4 Qc7 10. Qe2 Re8 {the game Gilg-Alekhine,
+Kecskmet, 1927, had the continuation 10...Bd6 11 Re1 Ng4 (in
+order to control e5) with about even chances. With the risky
+Re1 Dr. Lasker probably hopes to obtain more.} 11. e5 Nd7
+12. Re1 {? Instead of this superficial move, which allows a
+successful counter-attack in the center, White should play 12
+Nb3 Bb6 13 Bf4 and if f6 then 14 Re1 thus keeping control over
+the important e5 square. It would be difficult for Black in
+that case to find a suitable line of development.} f6 13. Ng5
+{This leads to lines very favourable to Black. the variation
+13 exf6 Nxf6 14 b4 Bd6 was not very pleasant either. But by 13
+b4 Bb6 14 exf6 Nxf6 15 b5 followed eventually by c4 White
+could have complicated the situation in a way not too
+unpromising for himself.} Qxe5 {! As will appear this is
+perfectly convincing. White probably hoped for 13...fxg5 14
+Qh5 g6 15 Bxg6 with a draw.} 14. Bxh7+ Kf8 15. Qxe5 {? After
+this the bishop at h7 is in danger beyond a hope of
+salvation. Necessary was 15 Ngf3 though after Qxe2 or Qh5
+Black would still keep an appreciable positional advantage.}
+Ndxe5 16. b4 {White must be glad now to be able to save a
+piece at the price of a pawn.} Bd6 {After Bb6 17 b5 Black
+would have to reckon with a possibility of Ba3+ from White.}
+17. Ngf3 g6 18. Nh4 Kg7 19. f4 Kxh7 20. fxe5 Nxe5 {Black has
+now not only a material surplus, but also a far superior
+position - a strong center, a pair of bishops. It is therefore
+rather surprising that the technical realisation of these
+advantages takes so long from this point. White tries to
+defend his game with great determination; but he is fighting a
+lost cause.} 21. Nhf3 Bd7 22. Nxe5 Bxe5 23. Bb2 Rac8 24. Re3
+Bf4 {This leads to a simple exchange; but after all this is
+what Black needs in the circumstances.} 25. Rd3 Bb5 26. Rh3+
+Kg7 27. a4 Bc4 28. Nxc4 Rxc4 29. Rd1 Be5 30. a5 Rec8 31. Re1
+R8c6 32. Kf1 g5 33. Kg1 g4 34. Rh4 Rc8 {In order to force a
+further exchange.} 35. g3 Rh8 36. Rxh8 Kxh8 37. Kg2 Kg7
+38. Kf2 Kf7 39. Ke3 Ke7 40. Re2 Re4+ {Forcing the exchange of
+the last pair of rooks; an effective, but rather monotonous
+technical process.} 41. Kd3 Rxe2 42. Kxe2 Kd6 43. Kd3 Kc6
+44. Bc1 Kb5 45. Be3 a6 46. Bh6 f5 47. Bg5 Bg7 0-1

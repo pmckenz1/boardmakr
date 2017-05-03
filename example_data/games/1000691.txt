@@ -1,0 +1,24 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.29"]
+[EventDate "1911.08.21"]
+[Round "7"]
+[Result "1-0"]
+[White "Borislav Kostic"]
+[Black "Semion Alapin"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c6 4.e3 Bf5 5.c4 e6 6.Qb3 Qc8 7.Nc3
+Nh5 8.Bg3 Nxg3 9.hxg3 dxc4 10.Bxc4 b5 11.Be2 b4 12.Na4 Be7
+13.Rc1 Be4 14.Nc5 Bxc5 15.Rxc5 a5 16.Ne5 Nd7 17.Nxd7 Qxd7
+18.Bf3 Bxf3 19.gxf3 g6 20.Qa4 O-O 21.Qxc6 Qxc6 22.Rxc6 Rfc8
+23.Rxc8+ Rxc8 24.Kd2 Kg7 25.Rc1 Rxc1 26.Kxc1 h5 27.f4 f6
+28.Kd2 g5 29.fxg5 fxg5 30.Ke2 Kf6 31.e4 a4 32.b3 a3 33.f3 Ke7
+34.Kf2 Kd6 35.Kg2 e5 36.d5 g4 37.fxg4 hxg4 38.Kf2 Kc5 39.Ke3
+Kb5 40.Kd3 Kc5 41.d6+ Kxd6 42.Kc4 Kc6 43.Kxb4 Kb6 44.Kc4 Kc6
+45.b4 Kb6 46.b5 Kb7 47.Kc5 Kc7 48.Kc4 Kb7 49.Kb4 Kb6 50.Kxa3
+Kxb5 51.Kb3 Kc5 52.Kc3 Kb5 53.a3 Ka4 54.Kc4 Kxa3 55.Kd5 Kb4
+56.Kxe5 1-0

@@ -1,0 +1,16 @@
+[Event "Olympiad"]
+[Site "Yerevan ARM"]
+[Date "1996.09.25"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Boris Gelfand"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 Nc6 7.d3
+h6 8.Bd2 e5 9.Rb1 a5 10.a3 Be6 11.b4 axb4 12.axb4 Qd7 13.b5
+Ne7 14.Qb3 Bh3 15.c5 Bxg2 1/2-1/2

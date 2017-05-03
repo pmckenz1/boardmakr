@@ -1,0 +1,16 @@
+[Event "Beverwijk"]
+[Site "Beverwijk NED"]
+[Date "1965.01.16"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Efim Geller"]
+[ECO "E55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.e3 O-O 5.Nf3 d5 6.Be2 dxc4 7.Bxc4
+c5 8.O-O Nbd7 9.Qb3 a6 10.a4 Qe7 11.Rd1 Rd8 12.dxc5 Bxc5
+1/2-1/2

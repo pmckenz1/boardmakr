@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi URS"]
+[Date "1980.09.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Vitaly Tseshkovsky"]
+[Black "Yuri Balashov"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.Bc2 Nb8 13.a4
+Nbd7 14.Bd3 c6 15.b3 g6 16.Ba3 Qc7 17.Qc2 Rac8 18.dxe5 dxe5
+19.Bxf8 Kxf8 20.b4 c5 21.axb5 axb5 22.bxc5 Qxc5 23.Qb1 Bc6
+24.Qb4 Ra8 25.Rxa8 Rxa8 26.Nxe5 Qxb4 27.Nxd7+ Nxd7 28.cxb4 Ne5
+29.Bf1 Ra2 30.Rd1 Rb2 31.f4 Nc4 32.Nxc4 1/2-1/2

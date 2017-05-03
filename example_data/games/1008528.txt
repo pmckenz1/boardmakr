@@ -1,0 +1,16 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Jim Eade"]
+[Black "Joel Salman"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nbd2 Be7 5. Bxf6 Bxf6 6. e4
+dxe4 7. Nxe4 Nd7 8. Bd3 b6 9. Qe2 Bb7 10. Rd1 Qe7 11. O-O O-O
+12. Ba6 1/2-1/2

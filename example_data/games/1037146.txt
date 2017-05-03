@@ -1,0 +1,19 @@
+[Event "Groningen (Netherlands)"]
+[Site "Groningen NED"]
+[Date "1990.12.28"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Gerhard Biebinger"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.Nf3 e6 2.g3 c5 3.Bg2 Nf6 4.O-O Be7 5.d3 O-O 6.e4 d6 7.Ne1
+Nc6 8.f4 e5 9.Nc3 Nd4 10.f5 b5 11.Bg5 Bb7 12.Nb1 Nd7 13.Bxe7
+Qxe7 14.c3 Nc6 15.Nd2 a6 16.Nc2 f6 17.Ne3 Nb6 18.Kh1 Nd8 19.g4
+Nf7 20.h4 Rad8 21.c4 Rb8 22.Rg1 h6 23.Bf3 bxc4 24.dxc4 Nc8
+25.Rg3 Qd8 26.Qe2 Ne7 27.Qh2 Nc6 28.g5 fxg5 29.Rag1 Nd4 30.Bh5
+Qf6 31.R1g2 gxh4 32.Rg6 h3 33.Qxh3 1-0

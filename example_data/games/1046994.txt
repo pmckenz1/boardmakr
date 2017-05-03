@@ -1,0 +1,23 @@
+[Event "Lvov UUKRO"]
+[Site "Lvov <UKR>"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Andrei Maksimenko"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Qc2 Nbd7 7.cxd5
+Nxd5 8.Nxd5 Bxd5 9.e4 Bb7 10.Bb5 Bd6 11.Bc6 Bxc6 12.Qxc6 O-O
+13.e5 Be7 14.O-O Rc8 15.Be3 Nb8 16.Qb7 a6 17.Rac1 c6 18.Rc2
+Re8 19.Rfc1 b5 20.Qa7 h6 21.Nd2 Qd5 22.Nb1 Bf8 23.Nc3 Qb3
+24.Ne4 Red8 25.h3 Rd5 26.Qb7 Rcd8 27.Qb6 R5d7 28.Bxh6 Qd3
+29.Bg5 Rc8 30.Nd6 Bxd6 31.exd6 Rxd6 32.Bf4 Qxd4 33.Qb7 Rdd8
+34.Bxb8 Rxb8 35.Qxa6 c5 36.Rxc5 Qxb2 37.Rc8 Kh7 38.R8c2 Qb3
+39.Rc7 Rd1+ 40.Rxd1 Qxd1+ 41.Kh2 Kg6 42.Rxf7 Kxf7 43.Qa7+ Kg6
+44.Qxb8 Qd5 45.Qg3+ Kh7 46.h4 Qe4 47.Qg5 Qe2 48.f3 Qc4 49.Kg3
+Qe2 50.Qf4 Kg8 51.Kh3 Qf1 52.Qd2 Qc4 53.Qd7 Kh7 54.Qb7 0-1

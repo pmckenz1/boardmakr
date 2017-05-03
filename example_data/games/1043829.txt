@@ -1,0 +1,26 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1937.03.07"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Sergey Vsevolodovich Belavenets"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 h6
+7. Bh4 Nbd7 8. Rc1 c6 9. Bd3 dxc4 10. Bxc4 b5 11. Bd3 a6
+12. a4 bxa4 13. Nxa4 Qa5+ 14. Nd2 Bb4 15. Nc3 c5 16. Nc4 Qc7
+17. Bg3 Qb7 18. O-O cxd4 19. exd4 Rd8 20. Na4 Nd5 21. Be4 N7f6
+22. Bf3 Bd7 23. Nc5 Qa7 24. Nd6 Bb5 25. Nxb5 axb5 26. Qd3 Qb6
+27. Be2 Ne7 28. Rfd1 Nc6 29. Nb3 e5 30. Qxb5 Qxb5 31. Bxb5
+Nxd4 32. Nxd4 Rxd4 33. Bxe5 Rxd1+ 34. Rxd1 Ra5 35. Rd8+ Bf8
+36. Bd6 Rxb5 37. Bxf8 Kh7 38. Ba3 Nd5 39. Kf1 Kg6 40. g3 Nb4
+41. Rc8 Nd3 42. Rc2 Re5 43. Rd2 Re1+ 44. Kg2 Ne5 45. Bb4 f6
+46. Bc3 Rb1 47. Rd4 Kf5 48. h3 g5 49. Rd6 h5 50. f4 gxf4
+51. gxf4 Nc4 52. Rxf6+ Ke4 53. Kg3 Rg1+ 54. Kh4 Rg2 55. Kxh5
+Nxb2 56. Bxb2 Rxb2 57. h4 Kf3 58. Kg5 Rg2+ 59. Kf5 Rh2 60. Ra6
+Ke3 61. Ke5 Kf3 62. f5 Kg4 63. Kf6 Kxh4 64. Kg7 1-0

@@ -1,0 +1,22 @@
+[Event "USSR Championship"]
+[Site "Kharkov URS"]
+[Date "1967.??.??"]
+[EventDate "1967.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Evgeni Vasiukov"]
+[Black "Vladimir Bagirov"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 b6 5.e5 Nfd7 6.d4 c5 7.c3 f6
+8.exf6 Qxf6 9.Nb3 Bb7 10.Bg5 Qf7 11.Bb5 Bc6 12.Be2 Bd6 13.Bh4
+O-O 14.Bg3 Bf4 15.O-O a5 16.a4 Qf6 17.Bb5 c4 18.Nbd2 Bxb5
+19.axb5 Qf5 20.Re1 Bxg3 21.hxg3 Rf6 22.Nf1 Qh5 23.N1h2 Nf8
+24.Ne5 Qe8 25.Nhg4 Rf5 26.Ne3 Rxe5 27.dxe5 Qxb5 28.Rb1 Nbd7
+29.b3 cxb3 30.Rxb3 Qc5 31.Qd4 Rc8 32.Qxc5 Rxc5 33.Nc2 Rc4
+34.Nd4 Kf7 35.f4 h5 36.Kh2 g6 37.Kh3 Nc5 38.Rxb6 Rxc3 39.Rc6
+a4 40.Nb5 Rc2 41.Na3 Rc3 42.Nb5 Rc2 43.Nd6+ Kg8 44.Nb7 Nfd7
+45.Nxc5 Nxc5 46.Rb1 Kg7 47.Rc7+ Kh6 48.Rb8 g5 49.f5 1-0

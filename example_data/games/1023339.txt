@@ -1,0 +1,21 @@
+[Event "Yaroslav"]
+[Site "Yaroslav"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Gennadi Zaichik"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 d5 6.Ne2 cxd4 7.exd4
+dxc4 8.Bxc4 O-O 9.O-O b6 10.Qd3 Bb7 11.Bg5 Nc6 12.a3 Be7
+13.Rad1 Nd5 14.Bc1 Nxc3 15.bxc3 Qc8 16.Rfe1 Na5 17.Ba2 Ba6
+18.Qg3 Kh8 19.Nf4 Bd6 20.Bb1 f5 21.d5 exd5 22.Rxd5 Rf6 23.Bxf5
+Rxf5 24.Rxd6 Rf7 25.Red1 Nc4 26.R6d4 Qf5 27.Rd8+ Rf8 28.R8d5
+Qf6 29.Nh5 Qg6 30.Qxg6 hxg6 31.Nf4 Rf6 32.Rd8+ Rxd8 33.Rxd8+
+Kh7 34.Nh3 g5 35.Nxg5+ Kg6 36.h4 Rd6 37.Rxd6+ Nxd6 38.g4 Bd3
+39.f3 Nc4 40.Nh3 Bc2 41.Kf2 Kf6 42.h5 a5 43.Nf4 Ke5 44.Ng2 1-0

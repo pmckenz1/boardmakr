@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1954.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Carlos Jauregui"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.f3 c5 6.dxc5 dxc5 7.Qxd8+
+Kxd8 8.Be3 b6 9.O-O-O Nfd7 10.Nge2 Ba6 11.b3 Nc6 12.g3 h5
+13.f4 Bb7 14.Bg2 h4 15.e5 Rb8 16.Ne4 h3 17.Bf3 Bh6 18.e6 fxe6
+19.Ng5 Ke8 20.Nxe6 Nde5 21.fxe5 Bxe3+ 22.Kb1 Nd4 23.N2xd4 cxd4
+24.Rhf1 Kd7 25.Nxd4 Bxf3 26.e6+ Kd6 27.Nxf3 Kc5 28.Rd5+ Kb4
+29.Ne1 Rhf8 30.Nc2+ Kc3 31.Rfd1 Bd2 32.R5xd2 Rf3 33.Nd4 1-0

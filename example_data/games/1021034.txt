@@ -1,0 +1,19 @@
+[Event "GEBA ITT"]
+[Site "GEBA ITT"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Andres Rodriguez Vila"]
+[Black "Herman Claudius van Riemsdijk"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.h3 g6 7.Be3 b5
+8.Bb3 Na5 9.Qd2 Nxb3 10.axb3 Bg7 11.c4 Bb7 12.Nc3 O-O 13.Bh6
+Qd7 14.Ne2 c6 15.Ng3 Qe6 16.Qg5 Nd7 17.h4 f6 18.Qe3 Bxh6
+19.Qxh6 Nc5 20.h5 g5 21.Nf5 Qd7 22.O-O-O Bc8 23.Rh3 Nxb3+
+24.Kc2 Nd4+ 25.N3xd4 exd4 26.Rg3 Qc7 27.Nxd6 Qxd6 28.Rxg5+ Kf7
+29.e5 Qe6 30.exf6 Qxf6 31.Qxh7+ Ke8 32.Qc7 1-0

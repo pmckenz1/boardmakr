@@ -1,0 +1,21 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.14"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Wlodzimierz Schmidt"]
+[Black "Utut Adianto"]
+[ECO "D66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 Be7 6.e3 Nbd7 7.Rc1
+O-O 8.Bd3 dxc4 9.Bxc4 b5 10.Bd3 Bb7 11.O-O a6 12.Qe2 c5 13.Bb1
+Rc8 14.Rfd1 b4 15.Na4 Qa5 16.Nxc5 Nxc5 17.dxc5 Rxc5 18.Rxc5
+Qxc5 19.e4 h6 20.Rc1 Qa5 21.Bf4 Re8 22.Ne5 Bf8 23.h3 Rc8
+24.Rxc8 Bxc8 25.Nc4 Qb5 26.e5 Nd5 27.Qc2 g6 28.Nd6 Qd7 29.Bd2
+Bxd6 30.exd6 Bb7 31.Qc5 h5 32.Bd3 Qc6 33.Qxc6 Bxc6 34.Bxa6 Kf8
+35.b3 Ke8 36.Bc4 Kd7 37.Bxd5 Bxd5 38.Bxb4 e5 39.h4 Be4 40.Bc5
+Bd5 41.g3 Kc6 42.Kf1 Be6 43.Bb4 Bf5 44.Ke2 Bb1 45.Kd2 1-0

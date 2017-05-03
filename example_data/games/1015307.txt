@@ -1,0 +1,18 @@
+[Event "Genting Highlands (Malaysia)"]
+[Site "Zt"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Rogelio Antonio Jr"]
+[Black "Utut Adianto"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bf4 Qa5+ 12.Bd2 Qc7
+13.O-O-O e6 14.Qe2 O-O-O 15.Ne5 Nb6 16.c4 Rxd4 17.Be3 Rxd1+
+18.Rxd1 Rg8 19.f4 Kb8 20.Qc2 Nc8 21.Ne4 Bd6 22.Nxd6 Nxd6
+23.Qd3 Nf5 24.Bf2 c5 1/2-1/2

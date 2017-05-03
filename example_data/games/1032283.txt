@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1952.12.04"]
+[EventDate "1952.??.??"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lev Aronin"]
+[Black "Mikhail Botvinnik"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3
+7.exf6 Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d6 11.O-O Bf5
+12.Re1 Kd7 13.Bd3 Bxd3 14.cxd3 Be7 15.Bf4 1/2-1/2

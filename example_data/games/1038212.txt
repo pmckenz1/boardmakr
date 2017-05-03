@@ -1,0 +1,16 @@
+[Event "Ch USA"]
+[Site "Estes Park, CO USA"]
+[Date "1987.11.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Sergey Kudrin"]
+[Black "Nick DeFirmian"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3
+Be7 8.Bc4 Be6 9.Bxe6 fxe6 10.Ng5 Qd7 11.Qf3 Nc6 12.Rd1 h6
+13.Qh3 Nd8 14.Bb6 O-O 15.Bxd8 hxg5 16.Bxe7 Qxe7 17.Qg3 1/2-1/2

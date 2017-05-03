@@ -1,0 +1,17 @@
+[Event "Izt"]
+[Site "Tunis TUN"]
+[Date "1985.04.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Ivan Morovic-Fernandez"]
+[Black "Nick DeFirmian"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O O-O 9.Be3 Be6 10.f4 exf4 11.Rxf4 Nc6 12.a4 Re8 13.a5
+d5 14.Bb6 Qd6 15.Rxf6 Bxf6 16.exd5 Bxc3 17.dxc6 Qxd1+ 18.Bxd1
+Bxb2 19.cxb7 1/2-1/2

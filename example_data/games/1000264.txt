@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Samson Benen"]
+[Black "John E Roush"]
+[ECO "B22"]
+[WhiteElo "2258"]
+[BlackElo "2055"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 b6
+7. Nc3 Nxc3 8. bxc3 Qc7 9. Bd2 Bb7 10. Bd3 d6 11. O-O Nd7
+12. Bf4 dxe5 13. Bxe5 Bd6 14. Bxd6 Qxd6 15. Qe2 O-O 16. Rfd1
+Qf4 17. Nd2 Nf6 18. Nf1 Rac8 19. Rac1 Rfd8 20. g3 Qg5 21. Ba6
+Qd5 22. Bxb7 Qxb7 23. Nd2 Qd5 24. Nb3 Rc4 1/2-1/2

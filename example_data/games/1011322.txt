@@ -1,0 +1,19 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Jonathan I M Grant"]
+[Black "Colin A McNab"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. c4 e5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Be6 5. Nf3 Nge7 6. d4 exd4
+7. Nxd4 Nxd4 8. Qxd4 Nc6 9. Qf4 g6 10. b3 Bg7 11. Bb2 O-O
+12. Rd1 Qc8 13. O-O Bh3 14. Rd2 Bxg2 15. Kxg2 Qe6 16. Nd5 Rac8
+17. Qh4 Bxb2 18. Rxb2 f5 19. b4 Rf7 20. Rd1 Rcf8 21. Qf4 Ne5
+22. Rbd2 a6 23. Qe3 Qe8 24. Qc3 g5 25. Kg1 f4 26. c5 fxg3
+27. fxg3 Ng4 28. cxd6 cxd6 29. e3 Nf2 0-1

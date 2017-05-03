@@ -1,0 +1,19 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.02"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Max Judd"]
+[Black "Nicholas MacLeod"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 e5 2.Nf3 c6 3.Nc3 d6 4.d4 Bg4 5.dxe5 Bxf3 6.Qxf3 dxe5
+7.Bc4 Nf6 8.O-O Be7 9.Qg3 O-O 10.Qxe5 Nbd7 11.Qf5 b5 12.Bd3
+Bd6 13.Bg5 Qc7 14.f4 g6 15.Qh3 Nh5 16.e5 Bc5+ 17.Kh1 Rae8
+18.Ne4 Be7 19.Bh6 Ng7 20.Rad1 f5 21.exf6 Bxf6 22.Bc4+ bxc4
+23.Rxd7 Qc8 24.Nxf6+ Rxf6 25.Rxg7+ Kh8 26.Qxc8 Rxc8 27.Rxa7
+Rg8 28.Re1 Rd6 29.h3 1-0

@@ -1,0 +1,24 @@
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Vasilios Kotronias"]
+[Black "Gerardo F Barbero"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4
+Bc5 8.Be3 Bd7 9.Bxc6 bxc6 10.Nd2 Qh4 11.N4f3 Bxe3 12.Nxh4
+Bxd2+ 13.Kf1 Ba5 14.Qe2 g5 15.Nf3 Bb6 16.c3 Nxf2 17.Nd4 Nxh1
+18.Kg1 O-O-O 19.b4 Rde8 20.Kxh1 Kb7 21.Rf1 f5 22.a4 f4 23.a5
+Bxd4 24.a6 Ka8 25.cxd4 Re6 26.Rc1 h6 27.Qd3 Kb8 28.Qb3 Ka8
+29.Rc5 Rb8 30.h3 Rb6 31.Qc2 Kb8 32.Qa4 Bc8 33.b5 h5 34.Qa2 g4
+35.hxg4 hxg4 36.Qf2 cxb5 37.Qxf4 b4 38.Qc1 c6 39.Kh2 b3 40.Qb2
+Bxa6 41.Kg3 Rg6 42.Rc3 Bc4 43.Re3 Rb7 44.Re1 Bd3 45.Qa3 Rg8
+46.e6 Re8 47.Qd6+ Rc7 48.Ra1 Rxe6 49.Qxe6 b2 50.Rh1 b1=Q
+51.Rxb1+ Bxb1 52.Qxg4 Be4 53.Kf4 c5 54.dxc5 Rxc5 55.Ke5 Rc6
+56.Qd7 Rb6 57.g4 Rg6 58.Qd8+ Kb7 59.g5 Rb6 1/2-1/2

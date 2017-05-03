@@ -1,0 +1,18 @@
+[Event "Geneva"]
+[Site "Geneva SUI"]
+[Date "1977.04.03"]
+[EventDate "1977.03.26"]
+[Round "7"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Gudmundur Sigurjonsson"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+b5 8.e5 dxe5 9.fxe5 Qc7 10.Qe2 Nfd7 11.O-O-O Bb7 12.Qg4 Qxe5
+13.Be2 Nf6 14.Bxf6 gxf6 15.Rhe1 h5 16.Qh3 Nd7 17.Bxb5 Qf4+
+18.Kb1 O-O-O 19.Bc6 f5 20.Bxb7+ Kxb7 21.g3 Qc7 22.Qg2+ Kb6
+23.Na4+ 1-0

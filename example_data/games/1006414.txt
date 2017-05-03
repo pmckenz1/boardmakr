@@ -1,0 +1,29 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.13"]
+[EventDate "2000.03.03"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Zhong Zhang"]
+[Black "Aung Myo Hlaing Aung Aung"]
+[ECO "C25"]
+[WhiteElo "2611"]
+[BlackElo "2595"]
+[PlyCount "161"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 Nge7 6. f4 d6
+7. fxe5 dxe5 8. d3 Be6 9. Be3 Qd7 10. Qd2 Nd4 11. h3 h5
+12. Nd1 O-O-O 13. Nf2 Kb8 14. h4 Ng8 15. Nc1 Bh6 16. Bxh6 Nxh6
+17. c3 Nc6 18. Nb3 Qd6 19. O-O f6 20. Rad1 Rdg8 21. Nh1 Ng4
+22. Nc1 g5 23. hxg5 Rxg5 24. d4 h4 25. Rxf6 Rgg8 26. Rf3 h3
+27. Bf1 h2+ 28. Kg2 Qe7 29. Nd3 Qh7 30. Ndf2 Nxf2 31. Kxf2 Bg4
+32. Bg2 Rf8 33. Qe2 Bxf3 34. Bxf3 Rf6 35. d5 Ne7 36. Ke1 Rhf8
+37. Bg2 Ng6 38. Rd3 Nh8 39. c4 Qe7 40. Rc3 Qc5 41. Qe3 Qb4
+42. Qd2 Nf7 43. a3 Qc5 44. Qe3 Qd4 45. Ke2 Qxe3+ 46. Rxe3 Ng5
+47. c5 a5 48. Rc3 Ka7 49. a4 Kb8 50. Rd3 Kc8 51. Rb3 b6 52. c6
+Kd8 53. Rd3 Ke7 54. Re3 Kd6 55. Rc3 R8f7 56. Re3 Kc5 57. Rd3
+Kb4 58. b3 Ka3 59. Re3 Kb4 60. Rd3 Rf8 61. Re3 b5 62. axb5
+Kxb5 63. Rc3 Kb4 64. Rd3 a4 65. bxa4 Kxa4 66. Rc3 Kb4 67. Rd3
+Kc5 68. Rc3+ Kd6 69. Rd3 Ra8 70. Rd1 Rff8 71. Rd2 Ra1 72. Rd1
+Ra2+ 73. Rd2 Rxd2+ 74. Kxd2 Ra8 75. Ke2 Ra1 76. Kf2 Rc1 77. g4
+Nh3+ 78. Kg3 Nf4 79. Bf3 Rc2 80. g5 Ke7 81. Kg4 1/2-1/2

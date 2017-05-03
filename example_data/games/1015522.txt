@@ -1,0 +1,21 @@
+[Event "Ch Europe (team)"]
+[Site "Kapfenberg AUT"]
+[Date "1970.05.10"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Petar Arnaudov"]
+[Black "Andras Adorjan"]
+[ECO "A37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.Nf3 e6 6.b3 b6 7.Bb2 Bb7
+8.Qc1 d6 9.O-O Nge7 10.Nd5 e5 11.Nc3 O-O 12.e3 Qd7 13.Ne1 Nb4
+14.a3 Bxg2 15.Kxg2 Nbc6 16.d3 f5 17.f4 exf4 18.gxf4 d5 19.Ne2
+d4 20.exd4 Nxd4 21.Nxd4 Bxd4 22.Nf3 Nc6 23.Qd2 Qb7 24.Kg3 Bxb2
+25.Qxb2 Rad8 26.Rad1 Rfe8 27.Rfe1 Nd4 28.Nxd4 Rxe1 29.Rxe1
+Rxd4 30.Re8+ Kf7 31.Re3 Qc7 32.Qf2 g5 33.Rf3 Kf6 34.h4 g4
+35.Re3 Qd6 36.Qf1 a5 37.h5 h6 38.b4 axb4 39.axb4 cxb4 40.Qf2
+b3 41.Qf1 b2 0-1

@@ -1,0 +1,21 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1977.03.21"]
+[EventDate "1977.03.20"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "John A Peters"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 exd5 7.Bg5
+Be7 8.Rc1 O-O 9.e3 Nbd7 10.Bd3 Ne4 11.Bf4 c5 12.O-O Rc8 13.Bb1
+cxd4 14.exd4 Bxa3 15.Nxd5 Bxd5 16.bxa3 Nc3 17.Bxh7+ Kh8 18.Qd3
+Bc4 19.Qxc3 Bxf1 20.Bc7 Qf6 21.Be4 Ba6+ 22.Qe3 Qh6 23.Qxh6+
+gxh6 24.Bf5 Bb5 25.Ne5 Rfe8 26.f4 Re7 27.d5 Kg8 28.Rc3 f6
+29.d6 Rg7 30.Ng4 Kf8 31.Nxf6 Rf7 32.Nh7+ Kg7 33.Bc2 Kh8 34.a4
+Ba6 35.g3 Rxh7 36.Bxh7 Kxh7 37.Re3 Rg8 38.Kf2 Nf6 39.h3 h5
+40.Re7+ Rg7 41.Bb8 b5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Abbazia"]
+[Site "Abbazia CRO"]
+[Date "1912.02.01"]
+[EventDate "1912.01.15"]
+[Round "13"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Sergey Nikolaevich von Freymann"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.Qf3 Ne7 7.g3
+Qh6 8.d4 Nxd5 9.exd5 Bd6 10.c4 b6 11.h4 Ba6 12.b3 Nd7 13.Qe4+
+Kf8 14.hxg5 Qxg5 15.Bxf4 Bxf4 16.gxf4 Nf6 17.fxg5 Nxe4 18.Rh6
+Ng3+ 19.Kf2 Nf5 20.Rf6 Nxd4+ 21.Nd2 Re8 22.Rf4 c5 23.Ne4 Re5
+24.Nd6 1-0

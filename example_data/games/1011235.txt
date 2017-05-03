@@ -1,0 +1,18 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Bogdan Grabarczyk"]
+[Black "Jan Pinski"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5
+Nxd5 7. Nxd5 cxd5 8. Qf3 Qh4+ 9. Qf2 Qxf2+ 10. Kxf2 Bc5+
+11. Kf3 Nc6 12. Ne2 g5 13. Ba4 Bd7 14. Bxc6 bxc6 15. h4 f6
+16. d4 Bd6 17. hxg5 fxg5 18. g4 Kf7 19. Bd2 Kg7 20. c4 dxc4
+21. Bc3 Kg6 22. Rh5 Rhe8 23. Rah1 Re3+ 24. Kf2 Rxe2+ 0-1

@@ -1,0 +1,17 @@
+[Event "It (cat.14), Tilburg (Netherlands)"]
+[Site "Tilburg NED"]
+[Date "1982.09.30"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Ulf Andersson"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 O-O 6.Bg2 d5 7.O-O
+Nc6 8.Bg5 dxc4 9.Nbd2 Bxd2 10.Nxd2 h6 11.Bxf6 Qxf6 12.e3 e5
+13.d5 Ne7 14.Nxc4 Rd8 15.e4 c6 16.Re1 b5 17.Na5 Rb8 18.Qe2 Bb7
+19.Nxb7 Rxb7 20.Rac1 a6 1/2-1/2

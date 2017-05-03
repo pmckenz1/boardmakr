@@ -1,0 +1,16 @@
+[Event "Buenos"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.31"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Carlos Enrique Guimard"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 Be7 4.Bg2 d5 5.O-O O-O 6.d4 Ne4 7.Nc3
+f5 8.cxd5 exd5 9.Qb3 c6 10.Nxe4 fxe4 11.Ne5 Qb6 12.Be3 Qxb3
+13.axb3 Nd7 14.f3 exf3 15.exf3 a6 16.f4 1/2-1/2

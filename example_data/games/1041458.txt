@@ -1,0 +1,18 @@
+[Event "Manila (Philippines)"]
+[Site "Manila (Philippines)"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Haji Ardiansyah"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 e6 2.e4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Ngf3 Qe7+
+7.Be2 g5 8.O-O g4 9.Ne5 Nxd4 10.Bxg4 Bxg4 11.Nxg4 O-O-O 12.Re1
+Qc7 13.Nf3 Ne6 14.c3 Bg7 15.Qa4 a6 16.Ng5 h5 17.Nxe6 fxe6
+18.Bf4 Qd7 19.Qa5 hxg4 20.Rxe6 Bf8 21.Qb6 Rh7 22.Rae1 Qb5
+23.Qa7 Rc7 24.Rb6 1-0

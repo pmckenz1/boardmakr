@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1960.04.02"]
+[EventDate "1960.03.29"]
+[Round "4"]
+[Result "0-1"]
+[White "Erich Eliskases"]
+[Black "Bernardo Wexler"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e4 Nc6 6.Nge2 Rb8 7.a3
+O-O 8.Rb1 d6 9.O-O Ne8 10.b4 Nc7 11.b5 Nd4 12.Nxd4 cxd4 13.Nd5
+Ne6 14.f4 Nc5 15.f5 Be5 16.d3 e6 17.fxe6 fxe6 18.Rxf8+ Qxf8
+19.Nb4 Bd7 20.Rb2 a6 21.Rf2 Qe7 22.a4 Rf8 23.Rxf8+ Qxf8 24.Bf1
+Bg7 25.Kg2 Bh6 26.bxa6 bxa6 27.a5 Bxc1 28.Qxc1 Qb8 29.Qa3 Kg7
+30.Be2 h5 31.h4 e5 32.Bd1 Bg4 33.Bxg4 hxg4 34.Qb2 Qc7 35.Qd2
+Qxa5 36.Qg5 Qc7 37.h5 Qf7 38.Qxg4 a5 39.Nd5 Nxd3 40.hxg6 Qf2+
+41.Kh3 Qf1+ 42.Kh2 Qh1+ 43.Kxh1 Nf2+ 44.Kg2 Nxg4 45.Kf3 Ne3
+46.Nb6 Kxg6 47.Ke2 Kg5 48.Kd3 Kg4 49.Na4 Kxg3 50.c5 dxc5
+51.Nxc5 Nd1 52.Kc4 Kf4 53.Kb5 Nf2 54.Kxa5 d3 0-1

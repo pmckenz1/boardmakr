@@ -1,0 +1,19 @@
+[Event "Santiago Copiapo"]
+[Site "Santiago Copiapo"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andres Rodriguez Vila"]
+[Black "Marcelo R Duarte"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.g3 Nf6 2.Bg2 d5 3.f4 e6 4.Nf3 Bd6 5.O-O O-O 6.d3 Nc6 7.Kh1
+h6 8.Nc3 d4 9.Ne4 Be7 10.Nxf6+ Bxf6 11.Nd2 Nb4 12.Ne4 Nd5
+13.Qe1 Bd7 14.c4 dxc3 15.bxc3 Bc6 16.Rb1 Be7 17.c4 Nb6 18.Bb2
+Qd7 19.Qa5 Na4 20.Ba1 b6 21.Qh5 f5 22.Ng5 Bf6 23.Bxf6 Rxf6
+24.Nf3 Bxf3 25.Qxf3 Rd8 26.Qb7 a5 27.Rb5 Nc3 28.Bc6 Qd6 29.Rb2
+e5 30.Rc1 Qxc6+ 31.Qxc6 Rxc6 32.Rxc3 1/2-1/2

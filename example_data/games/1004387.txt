@@ -1,0 +1,18 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Lajos Merenyi"]
+[Black "Miklos Szigeti"]
+[ECO "C17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Nc6 6. Nb5 Bxd2+
+7. Qxd2 Nxd4 8. Nxd4 cxd4 9. Qxd4 Ne7 10. f4 Bd7 11. Nf3 Qa5+
+12. Qd2 Nc6 13. Bd3 Rc8 14. Qxa5 Nxa5 15. b3 Nc6 16. a3 Ke7
+17. O-O-O Rc7 18. Kb2 a6 19. Rd2 Na7 20. Nd4 Nc6 21. Nf3
+1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Alexey Poplavsky"]
+[Black "Andrei Yeremenko"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1. Nf3 f5 2. b3 Nf6 3. Bb2 e6 4. c4 b6 5. g3 Bb7 6. Bg2 d6
+7. O-O Qc8 8. Nc3 Be7 9. d4 O-O 10. d5 e5 11. Qd2 h6 12. Nh4
+Nh7 13. Ng6 Rf7 14. e4 Qe8 15. Nb5 Bd8 16. Qd3 Bc8 17. f4 a6
+18. Nc3 Nd7 19. b4 Ndf8 20. Nxf8 Qxf8 21. a3 a5 22. fxe5 dxe5
+23. exf5 axb4 24. Nb5 Bxf5 25. Be4 Qc5+ 26. Kg2 Bxe4+ 27. Qxe4
+Rxf1 28. Rxf1 Bf6 29. d6 c6 30. axb4 Qxb4 31. Ba3 Rxa3
+32. Nxa3 Qxd6 33. Qe3 Bg5 34. Qb3 Qc5 35. Nc2 Be7 36. Ne3 Nf6
+37. Nf5 Bd8 38. Qd3 Qf8 39. Rd1 Bc7 40. Nh4 e4 41. Qd4 Kh7
+42. Re1 Qe8 43. Nf5 Qe6 44. Ne3 Qe7 45. Nc2 Kg6 46. Re2 Kf7
+47. Ne1 Qa3 48. Qf2 Kg6 49. Qd4 Qe7 50. Nd3 Qd6 51. Nf4+ Kf7
+52. Qc3 Qc5 53. Nh3 Be5 54. Qb3 Bd4 55. Qa2 Kg8 56. Nf4 Kh7
+57. Qa4 Qd6 58. Qc2 Qe5 59. Qa4 g5 60. Nh3 Qf5 61. Qb3 Bc5
+62. Ra2 Kg6 63. Ra1 Ng4 64. Re1 Ne5 65. Rf1 Qe6 66. Nf2 Nxc4
+67. Re1 1/2-1/2

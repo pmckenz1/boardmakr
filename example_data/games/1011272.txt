@@ -1,0 +1,22 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Alexandra Lavrovsky"]
+[Black "Julie Trottier"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5
+7. Qg4 O-O 8. Bh6 g6 9. Bxf8 Qxf8 10. Nde2 Nc6 11. Qe4 Qc5
+12. Qf3 Nxe5 13. Qg3 d6 14. O-O-O Nxc3 15. Nxc3 Bxc3 16. Qxc3
+Qxc3 17. bxc3 d5 18. f4 Ng4 19. Rd2 b6 20. Be2 Ne3 21. Bf3 Ba6
+22. Be2 Bb7 23. Bf3 Rc8 24. Rd3 Nc4 25. g4 Rc5 26. Rhd1 Rb5
+27. Rd4 Ba6 28. Be2 Ra5 29. Bxc4 Bxc4 30. h4 Rxa2 31. h5 Ra5
+32. h6 Be2 33. Re1 Bxg4 34. Kd2 Kf8 35. c4 Bf3 36. cxd5 Bxd5
+37. c4 Ra2+ 38. Kc3 Bc6 39. Rd8+ Ke7 40. Rh8 Rh2 41. Rxh7 Rh5
+42. Rg1 Kf6 43. Rd1 Rh3+ 44. Kb4 a5# 0-1

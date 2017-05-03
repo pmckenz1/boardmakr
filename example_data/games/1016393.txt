@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.19"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Nigel Short"]
+[Black "Andras Adorjan"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h4
+Nc6 8.Rg1 h5 9.gxh5 Rxh5 10.Bg5 Rh8 11.Be2 Be7 12.Qd2 Nxd4
+13.Qxd4 Qb6 14.Qxb6 axb6 15.Nb5 Kf8 16.f3 Bd7 17.Kd2 1/2-1/2

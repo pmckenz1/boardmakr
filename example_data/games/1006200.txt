@@ -1,0 +1,18 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Jon Arni Halldorsson"]
+[Black "Larus Knutsson"]
+[ECO "D13"]
+[WhiteElo "2173"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4
+Qb6 7. a3 Bg4 8. e3 Ne4 9. Be2 Nxc3 10. bxc3 e6 11. O-O Bxf3
+12. gxf3 Qd8 13. Rb1 Bd6 14. Bxd6 Qxd6 15. Rxb7 O-O 16. Qa4 e5
+17. dxe5 Nxe5 18. Qb4 Qg6+ 19. Kh1 Qh5 20. Rg1 Nxf3 21. Qf4
+1-0

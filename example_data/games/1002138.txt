@@ -1,0 +1,24 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.04"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Eugene Delmar"]
+[Black "Max Judd"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Nd5 Ba5 7.d3
+Nxd5 8.exd5 Nd4 9.Nxd4 exd4 10.d6 c6 11.Bc4 Bb4 12.Qg4 Qf6
+13.c3 Bxd6 14.Bg5 Qg6 15.Qxd4 Bxh2+ 16.Kxh2 Qxg5 17.Qd6 Qg6
+18.Qxg6 hxg6 19.Rae1 d5 20.Bb3 Be6 21.Re3 Rfe8 22.Rfe1 Kf8
+23.d4 Bd7 24.Kg3 Rxe3+ 25.fxe3 Re8 26.Bd1 f5 27.Kf3 Kf7 28.Rh1
+g5 29.g3 Kf6 30.Bc2 Be6 31.b4 Bf7 32.Rh2 Bg6 33.Rd2 Rh8 34.Kg2
+b5 35.Rf2 g4 36.e4 dxe4 37.Bxe4 Rc8 38.Bc2 Re8 39.Bd1 Re3
+40.Bxg4 Rxc3 41.Bf3 Bf7 42.Bd1 Bd5+ 43.Kh2 Rc1 44.Rd2 Ra1
+45.Kh3 Rxa2 46.Rxa2 Bxa2 47.Kh2 Bd5 48.Kg1 Kg5 49.Kf2 f4 50.g4
+Kh4 51.Be2 g5 52.Bd1 f3 53.Bxf3 Bxf3 54.Kxf3 a6 55.Ke4 Kxg4
+56.Ke5 Kf3 57.Kd6 Ke4 0-1

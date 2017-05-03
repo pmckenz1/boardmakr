@@ -1,0 +1,19 @@
+[Event "Enschede simul"]
+[Site "Enschede NED"]
+[Date "1958.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Mikhail Botvinnik"]
+[Black "Hendrik Bartus Sarink"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bg5 Be7 6.Nxf6+ Bxf6
+7.Bxf6 Qxf6 8.Nf3 b6 9.Bb5+ c6 10.Bc4 Nd7 11.Qe2 Bb7 12.O-O
+O-O 13.Ba6 Bxa6 14.Qxa6 Rfd8 15.Rfe1 Nf8 16.c3 Ng6 17.Re3 c5
+18.Rae1 cxd4 19.Nxd4 Rd7 20.g3 h6 21.f4 Ne7 22.Re5 Rad8
+23.R5e2 g5 24.fxg5 hxg5 25.Rf2 Qg6 26.Qf1 Rd5 27.Nf3 Qg7
+28.Nd4 e5 29.Nf5 Nxf5 30.Rxf5 R8d6 1/2-1/2

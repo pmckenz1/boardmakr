@@ -1,0 +1,18 @@
+[Event "It (cat.13), Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1990.01.21"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Lajos Portisch"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bxf6
+Bxf6 8.Rc1 c6 9.Bd3 Nd7 10.Qd2 dxc4 11.Bxc4 c5 12.O-O cxd4
+13.exd4 Nb6 14.Bb3 Bd7 15.Ne4 Be7 16.a3 Bc6 17.Qd3 Nd7 18.Bc2
+Qb6 19.Ne5 Bxe4 20.Qxe4 Nf6 21.Nd7 Nxe4 22.Nxb6 axb6 23.Bxe4
+Bf6 24.Rfd1 Rfd8 25.Bxb7 Rab8 26.Bf3 Bxd4 1/2-1/2

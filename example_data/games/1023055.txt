@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Eduard Gufeld"]
+[Black "Vladimir Bagirov"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c6 2.d3 d5 3.Nd2 g6 4.Ngf3 Bg7 5.g3 e5 6.Bg2 Ne7 7.O-O
+O-O 8.b4 a5 9.bxa5 Qxa5 10.a4 Qc7 11.Bb2 d4 12.c3 c5 13.Nc4
+Be6 14.Qb3 h6 15.Qb5 dxc3 16.Bxc3 Nd7 17.Rfb1 Ra7 18.a5 Rd8
+19.Nb6 Nb8 20.Rc1 Na6 21.Nd2 Nc6 22.Nd5 Qd7 23.Qb6 Raa8 24.Nc4
+Nab4 25.Bxb4 Nxb4 26.Nxb4 cxb4 27.Qxb4 Qxd3 28.Nb6 Rab8
+1/2-1/2

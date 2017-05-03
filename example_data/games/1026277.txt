@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael John Basman"]
+[Black "R Alan Barton"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. g4 e5 2. Bg2 d5 3. h3 c6 4. d4 e4 5. c4 Bd6 6. Nc3 Ne7
+7. g5 Be6 8. h4 Nf5 9. Bh3 e3 10. Bxe3 Nxe3 11. fxe3 Qe7
+12. Qc2 h6 13. O-O-O hxg5 14. Bxe6 Qxe6 15. Nf3 g4 16. Ng5
+Qxe3+ 17. Kb1 dxc4 18. Qf5 Qe7 19. Qc8+ Qd8 20. Qxd8+ Kxd8
+21. Nxf7+ 1-0

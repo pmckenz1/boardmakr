@@ -1,0 +1,16 @@
+[Event "CSFR"]
+[Site "Prague CSR"]
+[Date "1986.06.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Igor Stohl"]
+[Black "Pavel Blatny"]
+[ECO "E05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Be7 6.Qc2 a6 7.Qxc4
+b5 8.Qc2 Bb7 9.Bf4 Nc6 10.O-O O-O 11.Rd1 Nb4 12.Qc1 Rc8 13.Nc3
+Nbd5 1/2-1/2

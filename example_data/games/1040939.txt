@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1950.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Moshe Czerniak"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.Nf3 Nf6 2.d4 e6 3.Nbd2 d5 4.e3 b6 5.Bd3 Bb7 6.O-O Be7 7.b3
+Nbd7 8.Bb2 O-O 9.c4 Ne4 10.cxd5 exd5 11.Rc1 f5 12.Qe2 Bd6
+13.Rfd1 Qe7 14.Nf1 a6 15.Ne1 Rf6 16.f3 Ng5 17.f4 Ne4 18.Nf3
+Rh6 19.Rc2 b5 20.Rdc1 Rf8 21.a4 bxa4 22.bxa4 g5 23.Ne5 gxf4
+24.exf4 c5 25.Bxe4 Bxe5 26.Bf3 Bd6 27.Qxe7 Bxe7 28.dxc5 Bc6
+29.Ne3 d4 30.Bxc6 Rxc6 31.Bxd4 Rb8 32.Nxf5 Bf8 33.Rc4 Rbc8
+34.Ne3 Kf7 35.Kf2 Nxc5 36.Bxc5 Bxc5 37.Kf3 Ke6 38.Ng4 R6c7
+39.Ke4 Bd6 40.Rxc7 Rxc7 41.Rxc7 Bxc7 42.Ne5 Kd6 43.g4 1-0

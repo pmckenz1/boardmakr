@@ -1,0 +1,20 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Chernin"]
+[Black "Csaba Horvath"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Nf3 c5 8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2
+Qxa2 12. O-O b6 13. Qc1 Qe6 14. Re1 Bb7 15. Bb5 Na6 16. Bf4
+Qc8 17. Qe3 Qd8 18. Rbc1 Rc8 19. Rxc8 Qxc8 20. Rc1 Qa8 21. Qa3
+Nb8 22. d5 a6 23. Ba4 b5 24. Bb3 Nd7 25. Qxe7 Qd8 26. Qxd8
+Rxd8 27. Rc7 Ba8 28. d6 h6 29. e5 Bxf3 30. e6 Bg4 31. e7 Re8
+32. h3 Be6 33. Bxe6 fxe6 34. Rxd7 a5 35. Rc7 a4 36. d7 Kf7 1-0

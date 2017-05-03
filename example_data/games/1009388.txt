@@ -1,0 +1,17 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Oliver Reeh"]
+[Black "Volkmar Dinstuhl"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. f4 Nc6 8. e5 h6 9. Bh4 g5 10. fxg5 Nd5 11. Nxd5 exd5 12. e6
+Qe7 13. Be2 Bxe6 14. Nxe6 fxe6 15. Bh5+ Kd7 16. O-O Ne5
+17. Bg3 Qxg5 18. Bf4 Qd8 19. c4 1/2-1/2

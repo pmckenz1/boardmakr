@@ -1,0 +1,18 @@
+[Event "USA-06.Congress New York (32-2)"]
+[Site "New York, NY USA"]
+[Date "1889.05.18"]
+[EventDate "?"]
+[Round "32.1"]
+[Result "1/2-1/2"]
+[White "James Mason"]
+[Black "James Moore Hanham"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 c6 4.d3 Be7 5.O-O Nf6 6.Bb3 O-O 7.h3
+Nbd7 8.Ne1 a5 9.c3 Nc5 10.Bc2 Ne6 11.d4 Qc7 12.d5 Nc5 13.f3
+cxd5 14.exd5 Ne8 15.Na3 f5 16.c4 f4 17.Nd3 Nxd3 18.Bxd3 Bd8
+19.Qc2 g6 20.Bd2 Qe7 21.Nb5 Bb6+ 22.Kh1 Bd7 23.Nc3 Ng7 24.Rae1
+Qh4 25.Bc1 Nh5 26.Ne4 Bd4 1/2-1/2

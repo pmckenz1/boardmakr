@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "John Emms"]
+[Black "Harriet Hunt"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. Nf3 Nf6 8. Ne5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Nbd7
+12. f4 c5 13. O-O-O Be7 14. Qb5 Qc8 15. f5 O-O 16. Nxf7 cxd4
+17. fxe6 Nc5 18. Rde1 a6 19. Nf5 Qxe6 20. N7xh6+ gxh6
+21. Nxe7+ Qxe7 22. Qc4+ Qf7 23. Qxc5 Qxa2 24. Bxh6 Rf7 25. Re7
+Kh7 26. Rxf7+ Qxf7 27. Rf1 Qe6 28. Qxd4 1-0

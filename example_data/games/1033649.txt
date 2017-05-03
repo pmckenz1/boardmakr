@@ -1,0 +1,19 @@
+[Event "USSR Championship"]
+[Site "Leningrad (RUS)"]
+[Date "1947.02.18"]
+[EventDate "1947.??.??"]
+[Round "10"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Peter Vasilievich Dubinin"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 h5 6. Bc4 Rh7
+7. d4 Bh6 8. Nc3 Nc6 9. Nxf7 Rxf7 10. Bxf7+ Kxf7 11. Bxf4 Bxf4
+12. O-O Qxh4 13. Rxf4+ Kg7 14. Qd2 d6 15. Raf1 Nd8 16. Nd5 Bd7
+17. e5 dxe5 18. dxe5 Bc6 19. e6 Bxd5 20. Rf7+ Nxf7 21. Rxf7+
+Kh8 22. Qc3+ Nf6 23. Rxf6 Qxf6 24. Qxf6+ Kh7 25. Qf5+ Kh6
+26. Qxd5 Kg6 27. Qd7 1-0

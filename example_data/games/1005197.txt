@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Viktor Vass"]
+[Black "Gyula Lakat"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "2060"]
+[PlyCount "87"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 b5 8. Bg5 Be7 9. Bxf6 gxf6 10. O-O Nd7 11. Nd5 Bb7
+12. c4 Bxd5 13. cxd5 Qb6 14. Rc1 Nc5 15. Nxc5 dxc5 16. Bg4 Bd6
+17. Bf5 h5 18. Rc3 Ke7 19. Rh3 h4 20. Bg4 c4 21. Qe2 Rag8
+22. Bh5 Rg5 23. Rxh4 Bc5 24. Rh3 Bd4 25. Bg4 Rxh3 26. Bxh3 Qa5
+27. a3 Qa4 28. Bf5 Qb3 29. h4 Rxf5 30. exf5 Qxb2 31. Qf3 Kd6
+32. Qh5 Kxd5 33. Qxf7+ Ke4 34. h5 c3 35. h6 c2 36. Qb7+ Kxf5
+37. Qd7+ Ke4 38. Qc6+ Kd3 39. h7 Bxf2+ 40. Kh1 Ke2 41. h8=Q
+Kxf1 42. Qhc8 e4 43. Qxc2 Qe5 44. Qg4 1-0

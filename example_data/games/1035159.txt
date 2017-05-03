@@ -1,0 +1,23 @@
+[Event "Budapest (Hungary)"]
+[Site "It"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Walter Shawn Browne"]
+[Black "Jude Frazer Acers"]
+[ECO "C82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Bc5 10.Nbd2 O-O 11.Bc2 Nxf2 12.Rxf2 f6
+13.exf6 Bxf2+ 14.Kxf2 Qxf6 15.Nb3 Ne5 16.Nd4 Bg4 17.b4 Rae8
+18.Bd2 Qb6 19.Kf1 Nxf3 20.gxf3 Rxf3+ 21.Kg1 h5 22.Kg2 Rxc3
+23.Bxc3 Bxd1 24.Rxd1 Re3 25.Ba1 Qf6 26.Rf1 Qh4 27.Bf5 Re1
+28.Nf3 Rxf1 29.Nxh4 Rxa1 30.Be6+ Kf8 31.Ng6+ Ke8 32.Bxd5 Rb1
+33.Bb3 Re1 34.Kf2 Re4 35.a3 Rg4 36.Ne5 Re4 37.Nf3+ Rg4 38.Ke2
+Rg2+ 39.Ke3 g5 40.h3 g4 41.hxg4 hxg4 42.Nd4 Rg3+ 43.Ke4 Rc3
+44.Bd1 g3 45.Bf3 Rxa3 46.Kf4 a5 47.bxa5 Rxa5 48.Kxg3 b4 49.Kf2
+Ra2+ 50.Ke3 Ra3+ 51.Kd2 Rxf3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Bern (Switzerland)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Juerg Ditzler"]
+[Black "Gerardo F Barbero"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.e3 O-O 7.a3
+bxa3 8.Rxa3 d6 9.Be2 Nc6 10.O-O e5 11.Nc3 Bg4 12.Nxe5 dxe5
+13.Bxg4 exd4 14.exd4 Qxd4 15.Qxd4 Nxd4 16.h3 h5 17.Bd1 a6
+18.Nd5 Nxd5 19.cxd5 Rfd8 20.Bxh5 Rxd5 21.Rd3 Rad8 22.Bd1 Ne2+
+23.Bxe2 Rxd3 24.Bxd3 Rxd3 25.Rc1 Rd2 26.b4 Rb2 27.Rc4 g6 28.g4
+g5 29.Kg2 Kg7 30.Kg3 b6 31.f4 Rb3+ 32.Kg2 gxf4 33.Rxf4 Ra3
+34.Rf5 Ra4 35.b5 a5 36.Rg5+ Kf8 37.Rf5 Rb4 38.Kg3 a4 39.Rd5
+Kg7 40.Rg5+ Kf8 41.Rd5 Ke7 42.Kh4 Ke6 43.Rf5 a3 44.Rf3 Ra4
+45.Rf1 a2 46.Ra1 f5 47.Kg5 fxg4 48.hxg4 Kd5 49.Kf5 Kc4 50.g5
+Kb3 51.Ke6 Rg4 52.Kf5 Rg2 0-1

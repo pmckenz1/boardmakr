@@ -1,0 +1,16 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Karen Ashotovich Grigorian"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.Qc2 axb5 7.e4
+Bg7 8.Bxb5 O-O 9.O-O d6 10.Nc3 Ba6 11.a4 Nbd7 12.h3 Ne8 13.Bd2
+Nc7 14.Bxa6 Rxa6 1/2-1/2

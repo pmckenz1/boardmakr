@@ -1,0 +1,19 @@
+[Event "Lvov UUKRO"]
+[Site "Lvov <UKR>"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Dorian Rogozenco"]
+[Black "Alisa Galliamova"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.a4
+Nc6 8.Qe2 Be7 9.dxc5 O-O 10.e4 Qc7 11.e5 Nd7 12.Bf4 Nxc5
+13.Nc3 Bd7 14.Ne4 Nxe4 15.Qxe4 Nb4 16.Ng5 g6 17.Rac1 Qd8
+18.Rcd1 Qc8 19.Bd2 h6 20.Nh3 Bxa4 21.Rc1 Bc6 22.Qe1 Nd5
+23.Bxh6 Rd8 24.Ng5 Qc7 25.Qe4 Nb6 26.Bxe6 Bxe4 27.Bxf7+ Kh8
+28.Rxc7 Bxg5 29.Bxg5 Rd7 30.Rxd7 Nxd7 31.e6 1-0

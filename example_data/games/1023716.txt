@@ -1,0 +1,17 @@
+[Event "538, Maskva 52/"]
+[Site "538, Maskva 52/"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Nikolai V Krogius"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bd6 6.e4 c5 7.dxc5
+Bxc5 8.b4 Bxg1 9.Rxg1 a5 10.cxd5 axb4 11.Nb5 O-O 12.dxe6 Qxd1+
+13.Kxd1 Bxe6 14.Bb2 Nc6 15.Bd3 Nd7 16.axb4 Nxb4 17.Rxa8 Rxa8
+18.Bb1 Ba2 19.Kd2 Bxb1 1/2-1/2

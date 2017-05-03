@@ -1,0 +1,15 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1914.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "Nikolay Ivanovich Grekov"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 d5 2.Nf3 Bg4 3.Ne5 Bh5 4.c4 dxc4 5.Nc3 Nd7 6.Nxc4 Nb6
+7.Qb3 Qxd4 8.e4 Nf6 9.Be3 Qd7 10.Bxb6 axb6 11.Nxb6 1-0

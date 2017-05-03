@@ -1,0 +1,22 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.24"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Utut Adianto"]
+[Black "Andras Adorjan"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 Be7 7.O-O
+O-O 8.b3 c5 9.dxc5 bxc5 10.Bb2 d6 11.Qc2 Nbd7 12.e4 Qc7
+13.Rfe1 Rfd8 14.Rad1 h6 15.h3 Nh7 16.Nf1 Bf6 17.Bc1 Be7 18.g4
+Ne5 19.Ng3 Nf8 20.Nh5 Nxf3+ 21.Bxf3 e5 22.Ng3 Ne6 23.Nf5 Bg5
+24.Bg2 Rd7 25.h4 Bf4 26.Qc3 Bxc1 27.Rxc1 Kh7 28.Qg3 g6 29.Ne3
+Nf4 30.Rc2 a5 31.Nd5 Bxd5 32.exd5 f5 33.Kh2 Rg7 34.Bh3 Rf8
+35.Rg1 Qe7 36.Rd2 Rff7 37.a3 Qf8 38.Rb2 Nxh3 39.Qxh3 fxg4
+40.Qxg4 Rf4 41.Qg3 Qf6 42.Rg2 Rxh4+ 43.Kg1 Rd4 44.Rb1 Qf5
+45.Re1 Rf7 46.Qc3 Qh5 0-1

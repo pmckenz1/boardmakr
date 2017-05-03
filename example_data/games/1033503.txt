@@ -1,0 +1,19 @@
+[Event "It (open), Mislata (Spain)"]
+[Site "It (open), Mislata (Spain)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Juan Manuel Bellon Lopez"]
+[Black "Fernando Braga"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nf3 c5 4. e3 Be7 5. c4 cxd4 6. exd4 d5
+7. Nc3 O-O 8. Rc1 b6 9. Be2 dxc4 10. Bxc4 Bb7 11. O-O Nc6
+12. a3 Rc8 13. Qd3 Qd6 14. Rfd1 Rfd8 15. Ba2 a6 16. h3 b5
+17. b4 Nb8 18. Ne5 Nbd7 19. Bf4 Nxe5 20. Bxe5 Qb6 21. d5 exd5
+22. Bxf6 Bxf6 23. Nxd5 Rxc1 24. Rxc1 Bxd5 25. Bxd5 Qd6 26. Rc8
+Kf8 27. Rxd8+ Qxd8 28. Qe4 Qe7 1/2-1/2

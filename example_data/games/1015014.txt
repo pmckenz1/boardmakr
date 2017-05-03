@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.15"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Joachim Okoth"]
+[Black "Utut Adianto"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.e4 Nc6 5.Bg2 Be7 6.Nge2 O-O 7.O-O
+a6 8.b3 Rb8 9.Bb2 b5 10.cxb5 axb5 11.d4 cxd4 12.Nxd4 Ba6
+13.Re1 Qb6 14.Nxc6 dxc6 15.Qc2 Ng4 16.Nd1 Rfd8 17.Ne3 Nxe3
+18.Rxe3 Bg5 19.Rf3 b4 20.Bc1 Qd4 21.Bb2 Qd2 22.Qxd2 Rxd2
+23.Be5 Rbd8 24.h4 Rd1+ 25.Rxd1 Rxd1+ 26.Kh2 Bc1 27.g4 f6
+28.Bc7 e5 29.g5 Rd7 30.Bb8 Be2 31.Bh3 Rb7 32.Be6+ Kh8 33.Bxe5
+Bxf3 34.gxf6 gxf6 35.Bxf6+ Rg7 36.Bxg7+ Kxg7 37.Bf5 Bf4+
+38.Kg1 h6 39.Kf1 Kf6 40.Ke1 Ke5 41.Bh7 Bxe4 42.Bg8 Bb1 43.Kd1
+Kd4 44.Ke2 Bxa2 45.Kf3 Bc1 46.Kg4 Kc3 47.f4 Bxb3 0-1

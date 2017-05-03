@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Stefan Bergsson"]
+[Black "Michael Schulz"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "2224"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 b5 5. dxe6 fxe6 6. e3 bxc4
+7. Bxc4 d5 8. Bb3 Bd6 9. Nc3 Nbd7 10. O-O Qe7 11. Re1 Ng4
+12. Nxd5 exd5 13. Qxd5 Nb6 14. Ba4+ Kf8 15. Qd1 Bb7 16. e4 Rd8
+17. Bg5 Bxh2+ 18. Nxh2 Qxg5 19. Qxg4 Qxg4 20. Nxg4 Nxa4 21. e5
+Ke7 22. Re2 Ba6 23. Rc2 Bd3 24. Rd2 Bf5 25. Rxd8 Rxd8 26. Ne3
+Be6 27. b3 Nc3 28. g4 Rd2 29. f4 Ne2+ 30. Kf1 Nxf4 31. Nf5+
+Bxf5 32. gxf5 Nd3 0-1

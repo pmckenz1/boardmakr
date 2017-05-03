@@ -1,0 +1,16 @@
+[Event "05, New York op"]
+[Site "05, New York op"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Alexander Ivanov"]
+[ECO "E02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Nf3 a6
+7.Qxc4 b5 8.Qc6 Rb8 9.Bg5 Bb7 10.Bxf6 Bb4+ 11.Nbd2 Qxf6
+12.Qxc7 Bxf3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.11"]
+[EventDate "1900.??.??"]
+[Round "13"]
+[Result "1-0"]
+[White "James Mason"]
+[Black "Miklos Brody"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5
+7.Qe2 Be7 8.e5 Nd7 9.O-O Nc5 10.f4 Nxd3 11.Qxd3 g6 12.Nc3 Bf5
+13.Qe2 Qd7 14.Na4 c5 15.b3 Qc6 16.Bb2 O-O 17.Rae1 Rae8 18.Qf2
+d4 19.h3 Bc8 20.Qg3 Bb7 21.Rf2 f6 22.e6 f5 23.c3 Bf6 24.cxd4
+Bxd4 25.Bxd4 cxd4 26.Qd3 Qd6 27.Re5 Ba6 28.Qd2 Rf6 29.Nc5 Bc8
+30.Rfe2 Re7 31.Qd3 Rf8 32.Rd2 Bxe6 33.Qxd4 Qb6 34.Kh2 Rfe8
+35.Rde2 Kf7 36.Rxe6 Rxe6 37.Nxe6 Rxe6 38.Qd7+ Kf6 39.Rxe6+
+Qxe6 40.Qxc7 Qa6 41.a4 h6 42.Qd8+ Kg7 43.Qd7+ Kg8 44.Qc7 Kh8
+45.a5 Qf1 46.Qb8+ Kg7 47.Qxa7+ Kf6 48.Qd4+ Ke7 49.b4 h5 50.b5
+h4 51.a6 Kf7 52.a7 Qe1 53.a8=Q Qg3+ 54.Kh1 Qe1+ 55.Qg1 1-0

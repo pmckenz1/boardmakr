@@ -1,0 +1,19 @@
+[Event "Tunisien"]
+[Site "Tunisien"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Renato Cappello"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 Nxc3 6.dxc3 Nc6
+7.Nf3 e6 8.Be3 b6 9.Qa4 Bxc5 10.Bxc5 bxc5 11.O-O-O f6 12.Bb5
+Nxe5 13.Rhe1 O-O 14.Nxe5 fxe5 15.Bxd7 Qg5+ 16.Kb1 Bxd7 17.Qxd7
+Qg6+ 18.Ka1 Rxf2 19.Qxc7 h6 20.Qxe5 Rxg2 21.Qxc5 Rb8 22.Rb1
+Qc2 23.Qa3 Rxh2 24.Rg1 Rb7 25.Rgc1 Qe4 26.Qd6 e5 27.a3 Kh7
+28.c4 Qe2 29.Rg1 Qxc4 30.Qg6+ Kh8 31.Rbc1 Qg8 32.Qf5 Rhxb2 0-1

@@ -1,0 +1,18 @@
+[Event "10s, Gaeta"]
+[Site "10s, Gaeta Hiarcs 7.32"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Klaus Diehl"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 Na6 5. Nbd2 d5 6. Ne5 Bd7
+7. c3 Rc8 8. Bd3 Qa5 9. O-O c4 10. Bc2 Be7 11. g4 h6 12. Bg3
+Nb8 13. f4 Nc6 14. g5 Ne4 15. Nxe4 Nxe5 16. Nd6+ Bxd6 17. fxe5
+Be7 18. g6 f5 19. exf6 gxf6 20. g7 Rg8 21. Qh5+ Kd8 22. Qf7
+1-0

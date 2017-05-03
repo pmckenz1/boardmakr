@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.21"]
+[EventDate "1900.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Georg Marco"]
+[Black "Miklos Brody"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 b5 7.Bb3
+O-O 8.Nxe5 Bb7 9.f3 Na5 10.c3 c5 11.Bc2 d6 12.Nd3 cxd4 13.cxd4
+Qb6 14.Be3 Nc4 15.Bf2 d5 16.e5 Nd7 17.b3 Na5 18.b4 Nc4 19.Nc5
+Nxc5 20.bxc5 Qh6 21.a4 b4 22.g3 f6 23.e6 f5 24.Re1 Rf6 25.f4
+Raf8 26.Nd2 Rxe6 27.Bb3 Kh8 28.Nxc4 dxc4 29.d5 Rxe1+ 30.Qxe1
+Bf6 31.Bxc4 Bxa1 32.Qxa1 Re8 33.Bd4 Qg6 34.c6 Ba8 35.Be5 Rd8
+36.c7 Re8 37.Qd4 Qf7 38.d6 Qd7 39.Bxg7+ Qxg7 40.Qxg7+ Kxg7
+41.d7 1-0

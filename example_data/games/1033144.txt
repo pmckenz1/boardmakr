@@ -1,0 +1,17 @@
+[Event "10s, Istanbul"]
+[Site "10s, Istanbul Hiarcs 7.32"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Dragos-Nicolae Dumitrache"]
+[Black "Fernando Braga"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 Na6
+7. Bh3 Nc7 8. Bxc8 Qxc8 9. Nf3 Qh3 10. Ng5 Qd7 11. a4 h6
+12. Nf3 Nh7 13. h4 f5 14. Be3 O-O 15. exf5 Qxf5 16. Nd2 Nf6
+1/2-1/2

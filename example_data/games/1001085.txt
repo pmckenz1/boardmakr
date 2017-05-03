@@ -1,0 +1,20 @@
+[Event "Havana"]
+[Site "Havana CUB"]
+[Date "1913.03.01"]
+[EventDate "1913.02.15"]
+[Round "11"]
+[Result "1-0"]
+[White "Rafael Blanco Estera"]
+[Black "Juan Corzo"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2
+d6 7. h3 Be6 8. Bd3 Bc5 9. Qg5 O-O 10. Nf3 Nd7 11. Qg3 Kh8
+12. Ne2 Nde5 13. O-O Nxd3 14. cxd3 d5 15. e5 d4 16. Ng5 Bf5
+17. Rac1 Qe7 18. f4 h6 19. b4 Bb6 20. b5 Nb4 21. Bxb4 Qxb4
+22. Qh4 Bxd3 23. Ng3 Bxf1 24. Nf5 Bd3 25. Nxh6 gxh6 26. Qxh6+
+Kg8 27. Rf1 Qxb5 28. Rf3 Qb1+ 29. Kh2 Bg6 30. f5 Bxf5 31. Rg3
+Bg6 32. Nh7 1-0

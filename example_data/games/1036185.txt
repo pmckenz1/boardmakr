@@ -1,0 +1,27 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.d3 Be7 5.f4 d6 6.f5 Na5 7.Qf3
+Nxc4 8.dxc4 g6 9.g4 gxf5 10.exf5 Bd7 11.g5 Bc6 12.Nd5 e4
+13.Qc3 Bxd5 14.cxd5 Rg8 15.gxf6 Bxf6 16.Qh3 Bh4+ 17.Kd1 Qf6
+18.Be3 O-O-O 19.Ne2 Rde8 20.Bd4 Qg5 21.Rg1 Qh5 22.Rxg8 Rxg8
+23.Bf2 Rg4 24.c4 Rf4 25.f6 Kd8 26.Bxh4 Rxh4 27.Qe3 Qf3 28.Kd2
+Rxh2 29.Rg1 Qxf6 30.Qg5 Ke7 31.Ke3 h5 32.Qxf6+ Kxf6 33.Rf1+
+Kg6 34.Nf4+ Kg5 35.Kxe4 Rxb2 36.Rg1+ Kh6 37.Rh1 Rxa2 38.Rxh5+
+Kg7 39.Kf5 Rf2 40.Ke4 Rf1 41.Rh3 a5 42.Rb3 b6 43.Ne2 Kf8
+44.Nd4 Ke7 45.Nc6+ Kd7 46.Rh3 Re1+ 47.Kd3 Re8 48.Rf3 Rf8
+49.Kc3 f5 50.Kb3 f4 51.Ka4 Kc8 52.Kb5 Kb7 53.Nd4 Rf7 54.Ne6
+Rf5 55.Ka4 b5 56.cxb5 Kb6 57.Rc3 f3 58.Rc6+ Kb7 59.Rxc7+ Kb6
+60.Rc6+ Kb7 61.Nd8+ Kb8 62.b6 Rf8 63.Ne6+ Rc8 64.Nc7 f2 65.Rc1
+Kb7 66.Kxa5 Rf8 67.Rf1 Rf3 68.Nb5 Rf6 69.Nd4 Rf4 70.Nc6 Rf5
+71.Nd8+ 1-0

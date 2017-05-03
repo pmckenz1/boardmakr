@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Marat Burakovsky"]
+[Black "Yury Dobrovolsky"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. d4 exd4 6. e5 Qe7
+7. Bd3 Bxe5 8. O-O Bf6 9. Re1 Be6 10. Nb3 c5 11. Bb5+ Nc6
+12. Bf4 Rc8 13. Na5 Kf8 14. Nxc6 bxc6 15. Ba6 Re8 16. g4 h6
+17. Qd2 Qd8 18. g5 hxg5 19. Nxg5 Nh6 20. Nf3 Nf5 21. Bf1 Nh4
+22. Nxh4 Rxh4 23. Bg2 g6 24. Bg3 Rh7 25. a4 Kg7 26. a5 Rhh8
+27. Ra3 Bf5 28. Rb3 Rxe1+ 29. Qxe1 Re8 30. Qd2 Qe7 31. f3 c4
+32. Rb8 Rxb8 33. Bxb8 a6 34. Bg3 c3 35. bxc3 dxc3 36. Qd1 Qe3+
+37. Kf1 Bd4 0-1

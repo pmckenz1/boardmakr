@@ -1,0 +1,21 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "16"]
+[Result "0-1"]
+[White "Eugene Aleksandrovich Znosko-Borovsky"]
+[Black "Albert Becker"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7
+7. O-O e5 8. dxe5 dxe5 9. Qc2 c6 10. b3 Qe7 11. Bb2 Re8
+12. Rad1 Nh5 13. g3 Nc5 14. Ba3 b6 15. Na4 Bf8 16. Nxc5 bxc5
+17. Ne1 Bh3 18. Ng2 Ng7 19. Qc3 f6 20. g4 Bxg2 21. Kxg2 Ne6
+22. Kh1 Nd4 23. Bd3 Bh6 24. Rg1 a5 25. Rg2 Reb8 26. Bc2 Bf4
+27. f3 Kg7 28. Qd3 Rd8 29. Qf1 Ra7 30. Bb2 Rh8 31. Bxd4 cxd4
+32. Qe2 Be3 33. Rg3 h5 34. Kg2 h4 35. Rh3 Bf4 36. Qd3 g5
+37. Kf1 Qa3 38. Bb1 Rb8 0-1

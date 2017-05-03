@@ -1,0 +1,29 @@
+[Event "Bled"]
+[Site "Bled SVN"]
+[Date "1931.09.21"]
+[EventDate "1931.08.23"]
+[Round "22"]
+[Result "1/2-1/2"]
+[White "Lajos Asztalos"]
+[Black "Edgar Colle"]
+[ECO "B05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "171"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 g6 6.h3 Bxf3 7.Bxf3
+c6 8.O-O Bg7 9.Qe2 O-O 10.Rd1 Nc7 11.Nc3 Nd7 12.Bg4 f5 13.exf6
+exf6 14.Bxd7 Qxd7 15.d5 f5 16.dxc6 bxc6 17.Bf4 d5 18.Bxc7 Qxc7
+19.Rd3 d4 20.Na4 Rfe8 21.Qf3 Re4 22.Nc5 Qe5 23.b4 a5 24.Rdd1
+axb4 25.Nxe4 fxe4 26.Qb3+ Kh8 27.Qxb4 c5 28.Qb7 Rf8 29.Rf1 c4
+30.Rae1 Re8 31.Qc6 c3 32.Re2 Bh6 33.Rfe1 e3 34.fxe3 Bxe3+
+35.Kh1 Rf8 36.a4 Kg7 37.Qc4 h5 38.Qd3 Re8 39.Rf1 Rb8 40.Ree1
+Qg3 41.Ra1 h4 42.Rf3 Qe5 43.a5 Bg5 44.Qf1 Bd8 45.Rf7+ Kh6
+46.Re1 Qg3 47.Qf4+ Qxf4 48.Rxf4 d3 49.cxd3 c2 50.Rff1 Bg5
+51.a6 Ra8 52.Ra1 c1=Q 53.Rfxc1 Bxc1 54.Rxc1 Rxa6 55.Kg1 Kg5
+56.Kf2 Ra2+ 57.Kf3 Rd2 58.Rc5+ Kf6 59.Rd5 Ke6 60.Rd4 g5 61.Rd8
+Kf5 62.Rd5+ Kf6 63.Rd4 Ke6 64.Re4+ Kf5 65.Re3 Kf6 66.g4 hxg3
+67.Kxg3 Kf5 68.Rf3+ Kg6 69.Kg4 Rg2+ 70.Rg3 Rf2 71.Re3 Rf4+
+72.Kg3 Rd4 73.Rf3 Kh5 74.Re3 Kg6 75.Kf2 Kf5 76.Rg3 Rb4 77.Ke3
+Ra4 78.Kd2 Rh4 79.Rf3+ Ke5 80.Re3+ Kf5 81.Kc2 Kf4 82.Kd2 Kf5
+83.Rf3+ Ke5 84.Rg3 Kf4 85.Re3 Kf5 86.Ke2 1/2-1/2

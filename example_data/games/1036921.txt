@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Budapest (Hungary)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Robert Zysk"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 g6 2.h4 d5 3.exd5 Qxd5 4.Nc3 Qa5 5.h5 Bg7 6.Bc4 Nc6 7.d3
+Bxc3+ 8.bxc3 Be6 9.Bxe6 Qxc3+ 10.Bd2 Qe5+ 11.Ne2 Qxe6 12.hxg6
+fxg6 13.O-O Nf6 14.Re1 Qf5 15.Ng3 Qd5 16.Rb1 O-O-O 17.a4 h5
+18.Rb5 Qd4 19.Qf3 Ng4 20.Ne4 Rhf8 21.Qg3 b6 22.a5 Qa4 23.axb6
+axb6 24.Rg5 Qxc2 25.Rc1 Nd4 26.Kf1 Nh2+ 27.Ke1 Nhf3+ 28.gxf3
+Nxf3+ 29.Qxf3 Qxc1+ 30.Bxc1 Rxf3 31.Rxg6 Rfxd3 32.Be3 R3d5
+33.Nc3 Rf5 34.Rg7 Rh8 35.Rxe7 h4 0-1

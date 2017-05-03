@@ -1,0 +1,18 @@
+[Event "01, Tbilisi ch URS"]
+[Site "01, Tbilisi ch URS"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Baile"]
+[Black "Vladimir Bagirov"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Ne7 6.Ne2 Bf5
+7.O-O Bxd3 8.Qxd3 c6 9.Bf4 Ng6 10.a3 Be7 11.Bxb8 Rxb8 12.f4
+Bf6 13.Rae1 O-O 14.Nd1 Re8 15.f5 Nf8 16.Ng3 Qd6 17.Nh5 Nd7
+18.Nf2 g6 19.fxg6 fxg6 20.Ng4 Bg7 21.Nxg7 Kxg7 22.Rxe8 Rxe8
+23.Qd2 Rf8 1/2-1/2

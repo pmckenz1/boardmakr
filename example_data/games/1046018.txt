@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.18"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "John van der Wiel"]
+[ECO "D49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5
+12. Nxe5 axb5 13. Bxb5+ Bd7 14. Nxd7 Qa5+ 15. Bd2 Qxb5
+16. Nxf8 Kxf8 17. a4 Qxb2 18. O-O Kg8 19. Bf4 h6 20. Be5 Rd8
+21. Qd3 Qc3 22. Qxc3 dxc3 23. Bxc3 Kh7 24. Bxf6 gxf6 25. Rfd1
+Rxd1+ 26. Rxd1 Ra8 27. Ra1 Ra5 28. Kf1 Kg7 29. Ke2 Kf8 30. Kd3
+Ke7 31. Kc4 Kd6 32. Kb4 Rf5 33. a5 Kc7 34. Ra2 h5 35. Rd2 Kc6
+36. Rc2+ Kb7 37. f3 h4 38. h3 Rg5 39. Rd2 Kc6 40. Ka4 Rc5
+41. Rd8 Rg5 42. Rc8+ Kb7 43. Rf8 Ka6 44. Rxf7 Rxa5+ 45. Kb4
+Rg5 46. Rxf6 Kb7 47. Rxe6 Rxg2 48. Re4 Rg3 49. Rxh4 Rxf3
+50. Kc5 Kc7 51. Rh7+ Kd8 1/2-1/2

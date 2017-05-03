@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "London ENG"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Ralf Akesson"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 Bxc3+ 6.bxc3 d6 7.e4
+e5 8.Bd3 Nbd7 9.Ne2 Nf8 10.O-O Ng6 11.Be3 Qe7 12.Qd2 Bd7
+13.Ng3 O-O-O 14.a4 Kb8 15.a5 a6 16.Rfb1 Bc8 17.Rb6 Ka7 18.Rab1
+h6 19.Nf5 Qf8 20.Rxd6 Bxf5 21.Bxc5+ Kb8 22.Rxb7+ Kxb7 23.Qb2+
+Kc8 24.Rc6+ Kd7 25.Qb7+ Ke8 26.Bxf8 Rxf8 27.exf5 Nf4 28.Bf1
+Nd7 29.Rxa6 1-0

@@ -1,0 +1,19 @@
+[Event "Olympiad"]
+[Site "Varna BUL"]
+[Date "1962.09.16"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alfred Beni"]
+[Black "Julio Bolbochan"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 Nf6 2.c4 c5 3.e3 g6 4.Nc3 Bg7 5.g3 O-O 6.Bg2 d6 7.Nge2
+Nc6 8.O-O Bd7 9.b3 a6 10.Bb2 Rb8 11.dxc5 dxc5 12.Qc1 e6 13.Ne4
+Nxe4 14.Bxe4 Qe7 15.Bxg7 Kxg7 16.Qc3+ Qf6 17.Rad1 Rfd8 18.Rd2
+Be8 19.Rfd1 Rxd2 20.Qxf6+ Kxf6 21.Rxd2 Ke7 22.Nc3 b5 23.cxb5
+axb5 24.f4 Na5 25.Kf2 f5 26.Bf3 Bc6 27.Bxc6 Nxc6 28.Ke2 Rb7
+29.Kd1 Rb8 30.Ke2 Rb7 1/2-1/2

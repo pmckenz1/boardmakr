@@ -1,0 +1,23 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1981.01.28"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Kick Langeweg"]
+[Black "Eugenio Torre"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Be2 Bd6 7.b3
+O-O 8.Qc2 b6 9.O-O Bb7 10.Bb2 c5 11.cxd5 exd5 12.Rfd1 Rc8
+13.Qf5 Qe7 14.Rac1 a6 15.dxc5 bxc5 16.Nxd5 Bxd5 17.Rxd5 Nxd5
+18.Qxd5 Rcd8 19.h3 Rfe8 20.Qf5 g6 21.Qc2 Ra8 22.Rd1 Ne5 23.Rd5
+Nxf3+ 24.Bxf3 f6 25.h4 Rad8 26.h5 Kg7 27.hxg6 Bh2+ 28.Kxh2
+Rxd5 29.gxh7 Qd6+ 30.Kg1 Rg5 31.Qc4 Rh8 32.Be4 Rh5 33.f4 Qd2
+34.Qc3 Qxc3 35.Bxc3 Re8 36.g4 Rh3 37.Bf5 Rhxe3 38.Ba5 Re2
+39.g5 R2e3 40.Bd2 fxg5 41.Bxe3 Rxe3 42.fxg5 Re2 43.Kf1 Rxa2
+44.g6 c4 45.bxc4 a5 46.c5 a4 47.c6 Ra1+ 48.Ke2 Rc1 49.Kd2 Rxc6
+50.Bb1 Rc8 51.Kd1 a3 52.Kd2 Rf8 53.Kc3 Rf2 0-1

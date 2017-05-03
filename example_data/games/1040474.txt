@@ -1,0 +1,14 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Mladen Vucic"]
+[Black "Roman Dzindzichashvili"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "8"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nf3 Nc6 1/2-1/2

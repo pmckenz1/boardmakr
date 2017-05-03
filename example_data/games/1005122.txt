@@ -1,0 +1,14 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Martin Klicnar"]
+[Black "Claude Wagner"]
+[ECO "A21"]
+[WhiteElo "2250"]
+[BlackElo "2250"]
+[PlyCount "11"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. Bg2 Nf6 5. d4 c6 6. d5 1/2-1/2

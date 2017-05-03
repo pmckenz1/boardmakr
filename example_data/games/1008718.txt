@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Paul Dempsey"]
+[Black "Melanie H Buckley"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 c5 6. e3 cxd4
+7. exd4 Nc6 8. Nf3 d5 9. c5 Bxc3+ 10. Qxc3 Ne4 11. Bxd8 Nxc3
+12. Bc7 Ne4 13. a3 Bd7 14. b4 Rac8 15. Bg3 Nxg3 16. hxg3 e5
+17. dxe5 Rfe8 18. O-O-O Nxe5 19. Rxd5 Nxf3 20. Rxd7 Re1+
+21. Kc2 Ne5 22. Rxb7 a5 23. Rb5 axb4 24. axb4 Nc6 25. Rb6 h6
+26. Rxc6 Rxc6 27. Bb5 Rxc5+ 28. bxc5 Rxh1 29. c6 Rh5 30. Ba4
+Kf8 31. g4 Rc5+ 32. Kb3 Ke7 33. Kb4 Kd6 34. f4 Rc1 35. Bb3 f6
+36. f5 Rxc6 37. Bd1 Ke5 38. Bf3 Rc1 39. Kb3 Kf4 0-1

@@ -1,0 +1,15 @@
+[Event "Prague (Czech Republic)"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Mihail-Viorel Ghinda"]
+[Black "Andras Adorjan"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c3 e6 5.Be3 Qb6 6.Qb3 Nh6 7.Nd2 Bg6
+8.f3 Nd7 9.Nh3 Be7 10.g3 f6 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Dresden"]
+[Site "Dresden GER"]
+[Date "1926.04.09"]
+[EventDate "1926.04.04"]
+[Round "5"]
+[Result "0-1"]
+[White "Walther von Holzhausen"]
+[Black "Paul F Johner"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6
+7. a4 b6 8. f4 Bb7 9. Bf3 Qc7 10. Nb3 Nbd7 11. O-O Be7 12. Kh1
+O-O 13. Qe2 Rac8 14. Bd2 Rfd8 15. Rae1 Bf8 16. e5 Ne8 17. Bxb7
+Qxb7 18. exd6 Nxd6 19. Nd4 Nf6 20. f5 Nc4 21. Nf3 exf5 22. Bg5
+Re8 23. Qd3 Ne4 24. Nd1 f6 25. Bc1 b5 26. axb5 axb5 27. Nd4
+Rcd8 28. b3 Bc5 29. bxc4 Rxd4 30. Qb3 b4 31. Be3 Nd2 32. Bxd2
+Rxe1 33. Bxe1 Rxd1 34. c3 Ra1 35. Qb2 Qa8 36. cxb4 Ra2
+37. Qxa2 Qxa2 38. bxc5 Qxc4 39. Kg1 Qxc5+ 40. Bf2 Qd5 41. g3
+g5 42. Ba7 Kg7 43. Bf2 Kg6 44. Ba7 Kh5 45. h3 Kg6 46. Rf2 Qd7
+47. Bb8 Qd8 48. Rb2 Qd4+ 49. Rf2 Qb6 0-1

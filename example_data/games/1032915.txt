@@ -1,0 +1,19 @@
+[Event "ARG-ch"]
+[Site "Quilmes ARG"]
+[Date "1980.06.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "E Alvarez"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nc2 Bc5
+7. Be2 d6 8. O-O Nf6 9. Nc3 Be6 10. Be3 O-O 11. Kh1 Rc8
+12. Rc1 h6 13. f4 Bxe3 14. Nxe3 exf4 15. Rxf4 Qb6 16. Ned5
+Bxd5 17. exd5 Ne5 18. Qd2 Ned7 19. Rcf1 Rce8 20. R4f3 Re5
+21. Bd3 Rg5 22. Bb1 Re8 23. Na4 Qd8 24. Nc3 Qe7 25. Bf5 Ne5
+26. Rf4 Nxc4 27. Qd4 Ne3 28. R1f2 Nxf5 29. Rxf5 Qe1+ 0-1

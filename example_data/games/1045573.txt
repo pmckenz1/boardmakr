@@ -1,0 +1,21 @@
+[Event "Arhus"]
+[Site "Arhus"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Kristen Schmidt"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. O-O Bg4 8. d5 Nh5 9. g3 Nd7 10. Be3 h6 11. Qd2 Bh3 12. Rfe1
+Kh7 13. Kh1 Ndf6 14. Ng1 Bd7 15. Qd1 Qc8 16. Kg2 g5 17. h3 g4
+18. hxg4 Bxg4 19. f3 Bd7 20. g4 Nf4+ 21. Bxf4 exf4 22. Bd3 Kh8
+23. Qd2 Rg8 24. Kh1 Nh7 25. Qxf4 Be5 26. Qe3 Qd8 27. Kg2 h5
+28. Re2 Qf6 29. Kf1 Rxg4 30. Rf2 Rg7 31. Nce2 Rag8 32. f4 Bd4
+33. Nxd4 Rxg1+ 34. Ke2 Rxa1 35. e5 Qg7 36. e6 fxe6 37. dxe6
+Bc6 38. Kd2 Qg1 39. Nc2 Qc1+ 0-1

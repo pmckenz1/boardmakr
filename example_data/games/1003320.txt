@@ -1,0 +1,21 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Ernst Heilmann"]
+[Black "Alfred Moewig"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 O-O 12. h3
+Bb7 13. Nf1 Rac8 14. d5 Ne8 15. g4 g6 16. Ng3 Qd7 17. Kg2 Ng7
+18. Bh6 Nc4 19. Qc1 f6 20. b3 Nb6 21. Kh2 Rf7 22. Rg1 a5
+23. Qe3 Bd8 24. h4 c4 25. Rac1 b4 26. cxb4 axb4 27. Kh3 Rc5
+28. h5 Bc8 29. Nh2 cxb3 30. hxg6 hxg6 31. Bxb3 Na4 32. Bxg7
+Rxg7 33. Bxa4 Qxa4 34. Rxc5 dxc5 35. Qxc5 Rc7 36. Qd6 Rh7+
+37. Kg2 Be7 38. Qb8 Qe8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Scheveningen"]
+[Site "Scheveningen NED"]
+[Date "1923.08.03"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Edgar Colle"]
+[Black "Henri Weenink"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nxc3 6.bxc3 c6
+7.Nf3 Nd7 8.O-O Be7 9.e4 O-O 10.d4 Qc7 11.Qc2 Kh8 12.Bb2 Bf6
+13.Rad1 Nb6 14.c4 Be6 15.dxe5 Be7 16.Nd2 Bb4 17.c5 Nd7 18.Nb3
+a5 19.a3 Bxb3 20.Qxb3 Bxc5 21.e6 fxe6 22.Qc3 1-0

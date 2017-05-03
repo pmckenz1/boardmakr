@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Lajos Steiner"]
+[Black "Janos Balogh"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Qe2 O-O 11. Nd4 Nxd4
+12. cxd4 f5 13. exf6 Bxf6 14. Be3 Qd7 15. Nc3 Nxc3 16. bxc3
+1-0

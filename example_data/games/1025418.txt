@@ -1,0 +1,25 @@
+[Event "URS-ch58 (Blatny,P)"]
+[Site "Moscow URS"]
+[Date "1991.11.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Peter Korzubov"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 c5 2.Ne2 e5 3.Nec3 Nf6 4.Bc4 Be7 5.d3 O-O 6.O-O Nc6 7.f4
+b6 8.Nd5 Bb7 9.Nbc3 exf4 10.Bxf4 Nxd5 11.Nxd5 d6 12.Qh5 Nd4
+13.c3 Ne6 14.Rf3 Nxf4 15.Nxf4 b5 16.Bd5 Bxd5 17.Nxd5 g6 18.Qg4
+Rb8 19.Raf1 Rb7 20.R3f2 Kg7 21.g3 Qd7 22.Qe2 Qe6 23.Kg2 Bd8
+24.h4 Re8 25.Qf3 c4 26.Re2 cxd3 27.Qxd3 Qe5 28.Rf4 f5 29.Kf1
+Rf7 30.exf5 Qxe2+ 31.Qxe2 Rxe2 32.Kxe2 Rxf5 33.Rxf5 gxf5
+34.Ke3 Bf6 35.Nc7 Be5 36.Kf3 b4 37.cxb4 Bxb2 38.Ne8+ Kg6
+39.Nxd6 Ba3 40.Nb5 Bxb4 41.Nxa7 Bc5 42.Nc6 Kf6 43.Na5 Ke6
+44.Nc4 Kd5 45.Ne3+ Ke6 46.a4 Bb4 47.Ng2 Kd5 48.Nf4+ Kc4 49.Nh5
+Bd2 50.Ng7 Kb4 51.Nxf5 Kxa4 52.Nd6 Kb4 53.Ne4 Bc1 54.Nf6 h6
+55.Kg4 Kc4 56.Kh5 Kd4 57.Ng4 Bd2 58.Nxh6 Ke5 59.Kg6 Be1 60.Nf5
+Bd2 61.h5 1-0

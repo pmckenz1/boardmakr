@@ -1,0 +1,21 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.25"]
+[EventDate "1922.??.??"]
+[Round "16"]
+[Result "0-1"]
+[White "Karel Hromadka"]
+[Black "Ladislav Prokes"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3
+Bg4 7. Be2 O-O-O 8. Be3 Nf6 9. Nc3 Qh5 10. Qa4 Nd5 11. Rc1 Nb6
+12. Qb3 Bb4 13. O-O Bxc3 14. Rxc3 Qd5 15. Qa3 Qd6 16. Rc5 Nd7
+17. d5 Bxf3 18. Bxf3 Nce5 19. Be4 Nxc5 20. Bxc5 Qa6 21. Qe3
+Rhe8 22. Qh3+ Nd7 23. Bf5 g6 24. Bd3 Qxa2 25. d6 c6 26. Ba3
+Qd5 27. Bc2 Qd2 28. Qb3 Re1 29. Bb4 Rxf1+ 30. Kxf1 Qd4 31. g3
+Ne5 32. h3 c5 33. Bc3 Qc4+ 34. Kg2 Qxb3 35. Bxb3 Nc6 36. Bxf7
+Rxd6 0-1

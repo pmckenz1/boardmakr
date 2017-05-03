@@ -1,0 +1,25 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "2"]
+[Result "1-0"]
+[White "Konstantin Karanda"]
+[Black "Oleg Budnikov"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "2363"]
+[PlyCount "115"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. Bg5 Bb7 8. e3 d6 9. Rd1 Nbd7 10. f3 Re8 11. Bd3 e5
+12. dxe5 Nxe5 13. Bb1 a5 14. a4 Qe7 15. Nh3 h6 16. Bxf6 Qxf6
+17. O-O Qe6 18. e4 Qxc4 19. Qxc4 Nxc4 20. Rc1 Ba6 21. Rf2 c6
+22. b3 Na3 23. Rd2 Nxb1 24. Rxb1 Rad8 25. Rbd1 Re5 26. Rxd6
+Rxd6 27. Rxd6 Rc5 28. Rd8+ Kh7 29. Rb8 Rc1+ 30. Kf2 Rc2+
+31. Kg1 b5 32. Ra8 bxa4 33. bxa4 Bc4 34. Rxa5 Bb3 35. Ra7 c5
+36. Nf4 c4 37. Rxf7 c3 38. Rc7 Rc1+ 39. Kf2 c2 40. Ne2 Ra1
+41. a5 Rxa5 42. Rc3 Ba4 43. Nd4 Ra8 44. Nxc2 Rd8 45. Ne3 Rd2+
+46. Kg3 Kg6 47. Rc7 Bb5 48. h4 Ba4 49. Kf4 h5 50. Re7 Bd7
+51. Re5 Bc8 52. Rg5+ Kh6 53. Rc5 Rd8 54. Rc6+ g6 55. Nf5+ Kh7
+56. Rc7+ Bd7 57. Nd6 Kg8 58. e5 1-0

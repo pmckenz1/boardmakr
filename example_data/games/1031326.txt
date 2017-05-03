@@ -1,0 +1,19 @@
+[Event "Ch Argentina"]
+[Site "Argentina"]
+[Date "1965.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jaime Emma"]
+[Black "Julio Bolbochan"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.a3 Be7 7.Be3
+O-O 8.Be2 a6 9.O-O d6 10.f4 Bd7 11.Qe1 Qc7 12.Qg3 Rac8 13.Kh1
+Na5 14.Rad1 Nc4 15.Bc1 Kh8 16.Nf3 b5 17.e5 Ng8 18.Bxc4 bxc4
+19.f5 dxe5 20.Nxe5 Be8 21.fxe6 fxe6 22.Rxf8 Bxf8 23.Rd7 Qxd7
+24.Nxd7 Bxd7 25.h3 Ne7 26.Qd6 Bc6 27.Qxe6 Bb7 28.Bg5 Ng6
+29.Qd7 Rc5 30.Qxb7 Rxg5 31.Qxa6 1-0

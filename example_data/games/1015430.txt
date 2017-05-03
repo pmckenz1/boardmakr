@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mihaly Szekely"]
+[Black "Andras Adorjan"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6
+13.Re1 Qh4 14.g3 Qh3 15.Bxd5 cxd5 16.Qf3 Bf5 17.Qxd5 Rae8
+18.Bd2 Qg4 19.Qxd6 Rxe1+ 20.Bxe1 Qd1 21.Qe7 Be6 22.Na3 Qxa1
+23.Kf1 Bh3+ 24.Ke2 Qxb2+ 0-1

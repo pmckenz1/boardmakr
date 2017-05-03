@@ -1,0 +1,20 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.06.23"]
+[EventDate "1937.06.16"]
+[Round "7"]
+[Result "1-0"]
+[White "Salo Landau"]
+[Black "Ludwig Rellstab"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. e4 c6
+7. Nf3 O-O 8. Be2 b6 9. Qa4 Bb7 10. O-O e6 11. Bg5 h6 12. Bh4
+g5 13. Bg3 Nbd7 14. Bd6 Re8 15. e5 Nd5 16. Nxd5 exd5 17. Nd2
+Bf8 18. Bxf8 Nxf8 19. f4 Ng6 20. f5 Nf4 21. Rae1 f6 22. g3
+Nxe2+ 23. Rxe2 Re7 24. Ref2 c5 25. exf6 Rf7 26. Nf3 Rxf6
+27. Ne5 Qe8 28. Qd1 Kg7 29. h4 gxh4 30. Qg4+ Kh7 31. Qxh4 Kg7
+32. Rf4 Qe7 33. Rg4+ Kf8 34. Rg6 1-0

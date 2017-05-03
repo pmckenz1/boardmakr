@@ -1,0 +1,23 @@
+[Event "Los Angeles op"]
+[Site "Los Angeles op"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Joel Benjamin"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Qxd2
+d6 7. b3 Nbd7 8. Bb2 Ne4 9. Qc2 f5 10. g3 Ndf6 11. Bg2 Qe8
+12. Nd2 Bd7 13. Nf1 Qh5 14. f3 Ng5 15. h4 Nf7 16. f4 d5
+17. Bf3 Qh6 18. cxd5 Nxd5 19. Nd2 Bc6 20. Nc4 a5 21. Kf2 Ra6
+22. Ne5 Nd6 23. Rac1 Nf6 24. Bxc6 bxc6 25. Nxc6 Nde4+ 26. Kg2
+Nh5 27. Rh3 Rxc6 28. Qxc6 Qg6 29. Kh2 Qg4 30. Re1 Nhxg3
+31. Qc2 Qxf4 32. e3 Qd6 33. Kg1 f4 34. exf4 Rxf4 35. Rh2 Rg4
+36. Rg2 Rxh4 37. Rh2 Rg4 38. Rg2 Rh4 39. Rh2 Rg4 40. Rg2 Ng5
+41. Re5 Nf3+ 42. Kf2 Nxe5 43. dxe5 Qf8+ 44. Ke3 Nf1+ 45. Kd3
+Qf3# 0-1

@@ -1,0 +1,22 @@
+[Event "Utrecht"]
+[Site "Utrecht NED"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arnold van Foreest"]
+[Black "Max Euwe"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6
+7. O-O Be7 8. Nxc6 bxc6 9. b3 d5 10. exd5 cxd5 11. Bb2 O-O
+12. Bf3 Ba6 13. Re1 Rc8 14. a3 Qc7 15. Rc1 Rfd8 16. Be2 Qc6
+17. Bxa6 Qxa6 18. Qf3 Ne8 19. Qg3 Bf6 20. Red1 Bxc3 21. Bxc3
+Qxa3 22. Bd4 Qe7 23. f4 f6 24. Qf2 Rd7 25. Re1 Nd6 26. c3 Ne4
+27. Qa2 e5 28. fxe5 fxe5 29. Rxe4 dxe4 30. b4+ Kh8 31. Bc5 Qg5
+32. Qb1 Rd2 33. Bf2 e3 34. Bg3 e2 35. Bf2 Rcd8 36. Re1 Qf4
+37. Qc1 Rd1 38. Qxf4 exf4 39. c4 R8d2 40. b5 Rc2 41. c5 Rcc1
+0-1

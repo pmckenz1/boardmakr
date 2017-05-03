@@ -1,0 +1,38 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1927.03.17"]
+[EventDate "1927.02.19"]
+[Round "17"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Frank James Marshall"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. c4 {Notes by Nimzowitsch} Nf6 2. d4 e6 3. Nf3 c5 4. d5 d6
+5. Nc3 exd5 6. cxd5 g6 7. Nd2 {To establish at c4.} Nbd7
+8. Nc4 Nb6 9. e4 Bg7 10. Ne3 {Planning a4-a5 and to post the
+knight anew at c4. Black would have done better to exchange
+knights on his ninth move. White now gets the advantage.} O-O
+11. Bd3 Nh5 12. O-O Be5 13. a4 Nf4 14. a5 Nd7 15. Nc4 Nxd3
+16. Qxd3 f5 17. exf5 Rxf5 18. f4 {The prelude to a complicated
+attacking operation which was the more unexpected since Ne4
+gave a good game without any effort. But for once I wanted to
+go in for a combination.} Bd4+ 19. Be3 Bxc3 20. Qxc3 Nf6
+21. Qb3 {! White gets compensation for the d-pawn. Note,
+'inter alia' that Black's queen-side is difficult to develop.}
+Rxd5 {The answer to ...Nxd5 would have been Rae1!! for ...Be6
+would have been prevented because of Bxc5. Black would then
+have been quite helpless, and White could have won by, e.g.,
+Bd2 followed by the doubling of the rooks on the e-file.}
+22. f5 {!} gxf5 23. Bg5 {There is a peculiar point to this
+move. If that is to say, 23...Be6, and it is with this parry
+that White has above all things to reckon, then 24 Qxb7
+(threatening Bxf6 and the win of a piece) Rc8 25 Rae1! and the
+bishop must give up the defence of either of the rooks on
+which Bxf6 would lead to the win of whichever is left
+defenceless.} Rd4 24. Nb6+ c4 25. Qc3 axb6 26. Qxd4 Kg7
+27. Rae1 {The quickest road to the win.} bxa5 28. Re8 {!
+Violent but intelligible.} Qxe8 29. Qxf6+ Kg8 30. Bh6 1-0

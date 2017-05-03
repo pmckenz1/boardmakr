@@ -1,0 +1,24 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Daniel Roos"]
+[Black "Matthias Thesing"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Bd3 Nbd7 6. Nf3 a6
+7. a4 Bd6 8. O-O O-O 9. e4 dxc4 10. Bxc4 e5 11. Be3 Qc7 12. h3
+b6 13. Qc2 exd4 14. Bxd4 Bb7 15. Rad1 b5 16. Bb3 h6 17. Bxf6
+Nxf6 18. Rxd6 Qxd6 19. e5 Qe7 20. exf6 Qxf6 21. Ne4 Qg6
+22. Ne5 Qf5 23. f4 bxa4 24. Bxa4 c5 25. Nxc5 Qxc2 26. Bxc2 Bd5
+27. Rd1 Rfd8 28. b4 Rac8 29. Bf5 Ba8 30. Rd7 Rxd7 31. Nexd7
+Rd8 32. Nb6 Bc6 33. Bd7 Bxd7 34. Nbxd7 f6 35. Kf2 Kf7 36. Ke3
+Ke7 37. Ke4 Re8 38. Kd5 Kd8 39. Kd6 Re2 40. Ne6+ Kc8 41. Nb6+
+Kb7 42. Nd5 Rxg2 43. Nc5+ Ka7 44. Kc7 Re2 45. Nb6 g5 46. Nc8+
+Ka8 47. fxg5 fxg5 48. Nxa6 h5 49. Nb8 Rf2 50. Nb6+ Ka7 51. b5
+1-0

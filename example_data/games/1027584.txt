@@ -1,0 +1,17 @@
+[Event "Beverwijk (Netherlands)"]
+[Site "Beverwijk NED"]
+[Date "1966.01.14"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Milko Bobotsov"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 e5 4.d3 d5 5.O-O f6 6.c4 Nge7 7.Nc3 d4
+8.Na4 Ng6 9.e3 Be7 10.exd4 cxd4 11.a3 Bg4 12.b4 Qd7 13.Re1 O-O
+14.Bd2 Rae8 15.b5 Nd8 16.Bb4 b6 17.Qb3 Bxb4 18.axb4 Kh8 19.Nb2
+1/2-1/2

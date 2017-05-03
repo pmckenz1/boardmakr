@@ -1,0 +1,20 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Ernst Ludwig Klein"]
+[Black "Erno Gereben"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O
+7. Qc2 c6 8. Rd1 Re8 9. a3 Nh5 10. h4 Nf8 11. g4 Nf6 12. Ne5
+N6d7 13. Bxe7 Qxe7 14. Nxd7 Bxd7 15. f4 f6 16. g5 e5 17. dxe5
+fxe5 18. f5 d4 19. Ne2 c5 20. e4 Bc6 21. Ng3 Red8 22. Bd3 a6
+23. O-O Kh8 24. Rd2 b5 25. f6 gxf6 26. Rxf6 Qb7 27. Nf5 Ng6
+28. h5 Nf4 29. g6 Rg8 30. Rg2 Nxg2 31. Qxg2 bxc4 32. Nd6 Qb3
+33. Nf7+ Kg7 34. Qg5 Qd1+ 35. Bf1 h6 36. Qxh6+ 1-0

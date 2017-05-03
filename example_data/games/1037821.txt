@@ -1,0 +1,20 @@
+[Event "4, Toronto op"]
+[Site "4, Toronto op"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Kourosh Babazadeh"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 c6 2.Ne2 d5 3.e5 e6 4.d4 c5 5.c3 Nc6 6.Be3 c4 7.b3 Na5
+8.Nd2 Ne7 9.bxc4 dxc4 10.Nxc4 Nd5 11.Qa4+ Nc6 12.Bd2 Bd7
+13.Qb3 b5 14.Ne3 Na5 15.Qc2 Nxe3 16.fxe3 Rc8 17.Ng3 Be7 18.Bd3
+b4 19.c4 Bb5 20.c5 Bxd3 21.Qxd3 Nc6 22.Qe4 a5 23.O-O Qd7
+24.Rf2 f6 25.exf6 Bxf6 26.Nf5 O-O 27.Nd6 Rcd8 28.Raf1 Be7
+29.Nc4 Qd5 30.Qc2 Rxf2 31.Rxf2 Rf8 32.Nb6 Rxf2 33.Nxd5 Rxd2
+34.Nxe7+ 1-0

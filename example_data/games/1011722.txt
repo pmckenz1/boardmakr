@@ -1,0 +1,21 @@
+[Event "Moscow tg"]
+[Site "Moscow RUS"]
+[Date "1908.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Boris Vasilievich Lyubimov"]
+[Black "Alexander Alekhine"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 d5 2. Nf3 c5 3. c3 Qc7 4. dxc5 Qxc5 5. Nbd2 Nf6 6. e4
+Nc6 7. e5 Ng4 8. Qe2 Bf5 9. h3 Bd3 10. Nb3 Bxe2 11. Nxc5 Bxf3
+12. hxg4 Bxg4 13. Nxb7 Nxe5 14. Nc5 Nd7 15. Na6 Kd8 16. Be3 e6
+17. b4 Bd6 18. Bb5 Be5 19. Kd2 Nb6 20. a4 Nc4+ 21. Bxc4 dxc4
+22. Rh4 h5 23. f3 Bg3 24. Bg5+ f6 25. fxg4 Bxh4 26. Bxh4 hxg4
+27. Bg3 Ke7 28. Nc5 Rad8+ 29. Ke2 f5 30. Be5 Rd5 31. Bg3 g5
+32. Rg1 e5 33. a5 f4 34. Be1 e4 35. Kf1 e3 36. Na4 Re5 37. Nb2
+0-1

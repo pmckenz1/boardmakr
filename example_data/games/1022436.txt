@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "Groningen NED"]
+[Date "1995.12.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Eduardas Rozentalis"]
+[Black "Alexander Baburin"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Bc4 Nb6 5.Bb3 Nc6 6.Nf3 Bf5
+7.d3 e6 8.h3 Be7 9.Be3 a5 10.a3 a4 11.Ba2 Nd5 12.Bd2 Bf6
+13.Qe2 O-O 14.O-O 1/2-1/2

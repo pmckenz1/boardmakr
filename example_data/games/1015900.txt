@@ -1,0 +1,21 @@
+[Event "Osijek (Croatia)"]
+[Site "Osijek CRO"]
+[Date "1978.04.20"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Krunoslav Hulak"]
+[Black "Andras Adorjan"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Bd3 Nf6 7.O-O
+Be7 8.dxc5 O-O 9.Qc2 Rd8 10.Rd1 Qxc5 11.Bg5 h6 12.Bxf6 Bxf6
+13.Nbd2 Be7 14.Bh7+ Kh8 15.Be4 Bd7 16.Nb3 Qb6 17.Qe2 Qc7
+18.Qe3 Bf6 19.g3 Kg8 20.Rd2 Be8 21.Rad1 Rxd2 22.Rxd2 Rd8
+23.Kg2 b6 24.Rxd8 Qxd8 25.Nbd4 Ne7 26.c4 Qc7 27.b3 Qc5 28.a4
+a6 29.Bb7 g5 30.Nc2 Qc7 31.Bxa6 Nf5 32.Qd3 Bc6 33.Kg1 Ba8
+34.g4 Qf4 35.gxf5 Bxf3 36.Ne1 Be4 37.Qe3 Qg4+ 38.Kf1 Bd4
+39.Qg3 Qxf5 40.c5 Bxc5 41.Bd3 Kg7 42.h4 Bxf2 43.Bxe4 Bxe1 0-1

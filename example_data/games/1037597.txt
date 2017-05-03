@@ -1,0 +1,23 @@
+[Event "8, Montreal zt"]
+[Site "8, Montreal zt"]
+[Date "1981.05.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Zvonko Vranesic"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 Bb4 7.h4 Be4
+8.Rh3 h5 9.Ng3 c5 10.Bg5 Qb6 11.Nxe4 cxd4 12.Nd6+ Bxd6 13.exd6
+dxc3 14.Rxc3 Nd7 15.Rb3 Qc6 16.Qd4 Ngf6 17.Bb5 Qxd6 18.Bxf6
+gxf6 19.Qxf6 Rg8 20.Rf3 Rf8 21.Bxd7+ Kxd7 22.gxh5 Qb4+ 23.c3
+Qxb2 24.Rd1 Rac8 25.h6 Qa3 26.Re3 Kc7 27.h7 Qd6 28.h5 Qh2
+29.h6 Kb8 30.Rd4 Rh8 31.Qg7 Qh1+ 32.Ke2 Qh5+ 33.Rf3 f5 34.Rb4
+b6 35.a4 Qe8 36.Rg3 Rc7 37.Qe5 Rxh7 38.a5 Kb7 39.axb6 axb6
+40.Qd4 Qh5+ 41.Kf1 Qh1+ 42.Rg1 Qh3+ 43.Ke2 Rc6 44.Rg7+ Rxg7
+45.hxg7 Qh5+ 46.Kd2 Qg5+ 47.f4 Qg2+ 48.Kc1 e5 49.Qxe5 Rh6
+50.Qe7+ Kc6 51.Qe8+ Kc7 52.Qe7+ 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Extra League /95, Czech Republic"]
+[Site "Extra League 1994/95, Czech Republic"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Ivan Hausner"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nb6
+7. Nf3 Nc6 8. O-O O-O 9. Bf4 Nxd4 10. Nxd4 e5 11. Nc6 Qxd1
+12. Ne7+ Kh8 13. Rfxd1 exf4 14. Nxc8 Raxc8 15. Bxb7 Rb8
+16. Ba6 fxg3 17. hxg3 Bxc3 18. bxc3 Na4 19. Rd7 Nc5 20. Rxc7
+Nxa6 21. Rxa7 Ra8 22. Rxa8 Rxa8 23. a4 Nc5 24. a5 Nb3 25. Ra3
+Nxa5 26. Kg2 Ra7 27. Kf3 Kg7 28. e4 Kf6 29. Kf4 Nc6 30. e5+
+Ke6 31. Rxa7 Nxa7 32. Ke4 Nc6 33. f4 h5 34. c4 Ne7 35. c5 Nc6
+36. f5+ gxf5+ 37. Kf4 f6 0-1

@@ -1,0 +1,16 @@
+[Event "Daugavpils"]
+[Site "Daugavpils"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Zhuravlev"]
+[Black "Vladimir Bagirov"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e6 2.Nc3 d5 3.Nf3 d4 4.Ne2 c5 5.c3 dxc3 6.dxc3 Qxd1+
+7.Kxd1 Nf6 8.Ng3 Nc6 9.Bd3 Bd6 10.Ke2 Bd7 11.Rd1 Ke7 12.Bc2
+Bc7 13.Nf1 h6 14.h3 Rhd8 15.Be3 b6 16.a4 Be8 1/2-1/2

@@ -1,0 +1,28 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "0-1"]
+[White "William B Wright"]
+[Black "Daniel E Shapiro"]
+[ECO "E32"]
+[WhiteElo "2209"]
+[BlackElo "2330"]
+[PlyCount "148"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+Ne4 7. Qc2 f5 8. Nf3 b6 9. g3 Bb7 10. Bg2 Qc8 11. b3 d6
+12. O-O Nd7 13. Bb2 Ndf6 14. Nd2 Nxd2 15. Qxd2 Bxg2 16. Kxg2
+Qb7+ 17. f3 b5 18. Bc3 bxc4 19. bxc4 Qa6 20. Qd3 Rab8 21. Bb4
+Rfd8 22. Qe3 Re8 23. Rfc1 e5 24. d5 Qa4 25. Qd2 Red8 26. Qc2
+Qd7 27. Bd2 Rdc8 28. Rab1 Rb6 29. Be3 Ra6 30. Rb3 c6 31. dxc6
+Raxc6 32. Qd3 d5 33. Rb4 a6 34. Bg5 a5 35. Rb5 Rxc4 36. Rxc4
+dxc4 37. Qxd7 Nxd7 38. Rxa5 f4 39. gxf4 h6 40. Bh4 c3 41. Be1
+exf4 42. Rd5 c2 43. Bd2 Nf6 44. Rd4 c1=Q 45. Bxc1 Rxc1
+46. Rxf4 Kf7 47. Kf2 Ra1 48. a4 Ke6 49. Rb4 Nd5 50. Rc4 Ra2
+51. h4 Kf7 52. Rc5 Ke6 53. Rc4 Ke5 54. Rg4 Kf6 55. Rc4 Kg6
+56. Ke1 Kh7 57. Kf2 Nb6 58. Rc6 Nxa4 59. Ra6 Nc3 60. Rxa2 Nxa2
+61. h5 Nc3 62. e4 Kg8 63. Ke3 Kf7 64. f4 Ke6 65. Kd3 Nb5
+66. Kc4 Nd6+ 67. Kd4 Ne8 68. f5+ Kf6 69. Kd5 Kg5 70. Ke6 Nf6
+71. e5 Nxh5 72. Kf7 Kxf5 73. e6 g5 74. e7 Nf6 0-1

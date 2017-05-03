@@ -1,0 +1,26 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Abhijit Kunte"]
+[Black "Andrew Greet"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6
+7. O-O Nc6 8. Be3 cxd4 9. cxd4 Be7 10. Nc3 Qd6 11. Qb3 O-O
+12. a3 Rfd8 13. Rfd1 Rac8 14. h3 Bh5 15. Rac1 Nd5 16. Nxd5
+Qxd5 17. Qxd5 Rxd5 18. g4 Bg6 19. Ne5 Be4 20. f3 Bg6 21. Nxc6
+Rxc6 22. Rxc6 bxc6 23. Rc1 Rd6 24. Rc4 h6 25. Bf4 Rd5 26. Rxc6
+Bf6 27. Be3 Bxd4 28. Bxd4 Rxd4 29. b4 Bd3 30. Kf2 Bxe2
+31. Kxe2 Rd7 32. Rc8+ Kh7 33. b5 Kg6 34. Ke3 Kg5 35. a4 Kh4
+36. a5 Rb7 37. Rc5 Kxh3 38. a6 Rb8 39. Kd4 Kg3 40. Kc4 Kxf3
+41. Rc7 Ra8 42. Rxf7+ Kxg4 43. Rxg7+ Kf4 44. Kc5 e5 45. Kc6
+Rc8+ 46. Kd6 Rd8+ 47. Rd7 Rb8 48. Rf7+ Kg4 49. Rb7 Ra8
+50. Rg7+ Kf5 51. Kc7 Kf6 52. Rh7 Kg6 53. Rd7 Rf8 54. Kd6 Rf6+
+55. Kc5 e4 56. Rxa7 Rf5+ 57. Kc4 Kf6 58. Rd7 Ke6 59. Rd1 e3
+60. a7 e2 61. Re1 Rf8 62. b6 1-0

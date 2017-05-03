@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "1-0"]
+[White "Helgi Olafsson"]
+[Black "Erlingur Thorsteinsson"]
+[ECO "A16"]
+[WhiteElo "2491"]
+[BlackElo "2160"]
+[PlyCount "77"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 e5 4. d4 exd4 5. Qxd4 Nc6 6. Qd2 Bg7
+7. f3 d6 8. Nge2 Nh5 9. Nd5 Ne5 10. Ng3 Nxg3 11. hxg3 c6
+12. Ne3 Qe7 13. g4 Be6 14. Be2 O-O-O 15. Rb1 h5 16. gxh5 f5
+17. exf5 gxf5 18. Qc2 Rdf8 19. Nd5 Qf7 20. h6 f4 21. Rh4 Bxh6
+22. Bxf4 Bf5 23. Qxf5+ Qxf5 24. Ne7+ Kd7 25. Nxf5 Bxf4
+26. Rxh8 Rxh8 27. Kf2 Rh5 28. Ng3 Rh8 29. Rd1 Bxg3+ 30. Kxg3
+Rg8+ 31. Kf2 Rf8 32. Rd4 Ke6 33. f4 d5 34. cxd5+ cxd5 35. Bf3
+Nxf3 36. Kxf3 Rc8 37. Rd2 Rc1 38. g4 Rf1+ 39. Kg3 1-0

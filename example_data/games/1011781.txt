@@ -1,0 +1,19 @@
+[Event "Tula"]
+[Site "Tula"]
+[Date "1910.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Krotky"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Be7 5. d4 Bh4+ 6. Ke2 d6
+7. Bxf4 Bg4 8. g3 Bxf3+ 9. Kxf3 Bf6 10. Be3 g5 11. Kg2 h5
+12. Bc4 Nh6 13. Qxh5 Nxd4 14. Bxd4 Bxd4 15. Rhf1 Qe7 16. Qe2
+O-O-O 17. Nd5 Qd7 18. c3 Ng4 19. h4 Be5 20. Rxf7 Qxf7 21. Nb6+
+axb6 22. Bxf7 Nf6 23. hxg5 Ne8 24. a4 Rh7 25. g6 Rh6 26. a5
+Ng7 27. axb6 cxb6 28. Qc4+ Kb8 29. Bd5 Rdh8 1-0

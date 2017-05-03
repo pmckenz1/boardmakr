@@ -1,0 +1,18 @@
+[Event "Banja-Luka (Bosnia & Herzegovina)"]
+[Site "Banja Luka BIH"]
+[Date "1979.04.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Slavoljub Marjanovic"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.c4 e6 2.d4 d5 3.Nf3 c5 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O
+Be7 8.Nc3 O-O 9.Bg5 Be6 10.dxc5 Bxc5 11.Bxf6 Qxf6 12.Nxd5 Qxb2
+13.Nc7 Rad8 14.Qc1 Qxc1 15.Raxc1 Be7 16.Nxe6 fxe6 17.Rc4 Bf6
+18.h4 h6 19.Bh3 Rfe8 20.Rfc1 Re7 21.Re4 Kf7 22.e3 Rd6 23.Bf1
+Red7 1/2-1/2

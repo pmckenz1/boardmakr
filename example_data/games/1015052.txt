@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.14"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Julio Ostos"]
+[Black "Utut Adianto"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.g3 d5 2.Bg2 Nf6 3.c4 e6 4.Nf3 dxc4 5.Qc2 Nbd7 6.Qxc4 c5
+7.O-O b6 8.d4 Bb7 9.Nc3 Rc8 10.Bf4 a6 11.dxc5 Bxc5 12.Qd3 b5
+13.Ng5 Bxg2 14.Kxg2 Qb6 15.Rad1 h6 16.Nge4 b4 17.Nxf6+ Nxf6
+18.Ne4 Qb7 19.f3 Nxe4 20.Qxe4 Qxe4 21.fxe4 Ke7 22.Rd2 Rhd8
+23.Rc1 Rxd2 24.Bxd2 Kd7 25.Kf3 Rc6 26.b3 h5 27.e5 Be7 28.Rxc6
+Kxc6 29.Ke4 g5 30.h3 g4 31.hxg4 hxg4 32.Be1 Bc5 33.Kf4 a5
+34.Kxg4 Kd5 35.Kf4 Bd4 36.e4+ Kc5 37.Bd2 Kb5 38.Be3 Bc3 39.Ba7
+a4 40.Bb8 axb3 41.axb3 Bd2+ 42.Kg4 Kc5 43.Ba7+ Kc6 44.Kh5 Bc1
+45.g4 Bf4 46.Bb8 Kc5 47.Ba7+ Kc6 48.Bb8 Kc5 1/2-1/2

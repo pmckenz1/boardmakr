@@ -1,0 +1,20 @@
+[Event "Adelaide UAUSO"]
+[Site "Adelaide <AUS>"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Claudia Noemi Amura"]
+[Black "Alisa Galliamova"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.Bg5 e6 3.e4 h6 4.Bxf6 Qxf6 5.Nf3 g6 6.Nc3 Bg7 7.Bd3
+d6 8.e5 Qe7 9.O-O O-O 10.Qd2 Nc6 11.Rfe1 b6 12.exd6 cxd6 13.d5
+Ne5 14.Nxe5 dxe5 15.Be4 Rb8 16.Bf3 Rd8 17.Qe3 f5 18.dxe6 Bxe6
+19.Bc6 Qc5 20.Ba4 Qxe3 21.Rxe3 e4 22.Kf1 Bc4+ 23.Ke1 Bd4
+24.Rh3 b5 25.Bb3 Kg7 26.Rb1 g5 27.Nd1 g4 28.Rg3 Be5 29.Re3 Bf4
+30.Bxc4 Bxe3 31.Nxe3 bxc4 32.Nxf5+ Kh7 33.Ne3 c3 34.b3 Rd2
+35.Rc1 Rf8 36.Nd1 e3 37.fxe3 Rxg2 38.Rb1 Rxh2 39.Nxc3 Rc8 0-1

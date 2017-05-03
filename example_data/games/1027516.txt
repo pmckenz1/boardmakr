@@ -1,0 +1,18 @@
+[Event "Olympiad"]
+[Site "Varna BUL"]
+[Date "1962.09.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Shrikrishna Dhondiraj Sakhalkar"]
+[Black "Istvan Bilek"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 g6 2.Nf3 Bg7 3.e4 c5 4.c3 cxd4 5.cxd4 d5 6.e5 Bg4 7.Be2
+e6 8.O-O Nc6 9.Nc3 Bxf3 10.Bxf3 Nh6 11.g4 O-O 12.Be3 Qh4
+13.Kh1 Nxe5 14.Rg1 Nxf3 15.Qxf3 f5 16.gxf5 Rxf5 17.Qg3 Qxg3
+18.Rxg3 Rf7 19.Rag1 Nf5 20.Rg4 Rc8 21.h4 Kf8 22.Kh2 Rc4 23.Rd1
+b5 24.Kh3 b4 25.Ne2 Bh6 26.Nf4 Ke7 27.b3 Rc3 0-1

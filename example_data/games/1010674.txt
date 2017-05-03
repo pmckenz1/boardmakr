@@ -1,0 +1,18 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "K Ivanov"]
+[Black "Giorgi Chokhonelidze"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 e6
+7. Bxd5 exd5 8. Nxd4 d6 9. exd6 Bxd6 10. Be3 O-O 11. Ne2 Re8
+12. O-O Bg4 13. Re1 Qh4 14. h3 Rxe3 15. fxe3 Bc5 16. Rf1 Bxe3+
+17. Kh2 Ne5 18. Qxd5 Qg5 19. Qxb7 Rd8 20. Nd4 f5 21. Ne6 Qh4
+22. Qxg7# 1-0

@@ -1,0 +1,20 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.19"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "T C Jensen"]
+[Black "Gunnar Joram Gustafson"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 e6 2.e4 d5 3.exd5 exd5 4.Nf3 Bd6 5.c4 dxc4 6.Bxc4 Nf6
+7.Bg5 h6 8.Be3 O-O 9.O-O b6 10.Nbd2 Bb7 11.Rc1 Nc6 12.Bd3 Nb4
+13.Bb1 Qd7 14.a3 Nbd5 15.Ne5 Bxe5 16.dxe5 Ng4 17.Bd4 c5 18.Bc3
+Nxc3 19.Rxc3 Nxe5 20.Qc2 f5 21.Rg3 Rad8 22.Nc4 Nxc4 23.Qxc4+
+Bd5 24.Qh4 Rfe8 25.h3 Kh8 26.Qf4 Rf8 27.Rd1 c4 28.Qe5 Qf7
+29.Bxf5 Qg8 30.Rg6 Qh7 31.Rxd5 Rde8 32.Re6 Qxf5 33.Qxf5 Rxf5
+34.Rxe8+ 1-0

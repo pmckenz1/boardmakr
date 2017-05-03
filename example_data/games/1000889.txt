@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.19"]
+[EventDate "1911.08.21"]
+[Round "22"]
+[Result "0-1"]
+[White "Abram Isaakovich Rabinovich"]
+[Black "Georg Rotlewi"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 e6 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 Nc6
+7.Be3 d5 8.exd5 exd5 9.O-O O-O 10.h3 Bd7 11.Nce2 Bd6 12.c3 Qc8
+13.Ng3 Re8 14.Ngf5 Bb8 15.g4 Ne4 16.Re1 Nxd4 17.Nxd4 f5 18.f3
+Qc7 19.f4 Ng5 20.Bf1 fxg4 21.hxg4 Rxe3 22.Rxe3 Qxf4 23.Qe2 Bd6
+24.Re1 Rf8 25.Qg2 Bxg4 26.Re8 Bf3 27.Rxf8+ Kxf8 28.Nxf3 Nxf3+
+29.Kf2 Nh4 0-1

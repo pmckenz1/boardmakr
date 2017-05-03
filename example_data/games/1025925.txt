@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Bern (Switzerland)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Grzegorz Lukasiewicz"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 f5 2.c4 e6 3.Nc3 Nf6 4.e3 d5 5.Bd3 c6 6.Qc2 a6 7.Nge2 Bd6
+8.f3 O-O 9.Bd2 Qe7 10.O-O-O Kh8 11.c5 Bc7 12.h3 e5 13.dxe5
+Bxe5 14.Na4 b5 15.Nb6 Ra7 16.f4 Bc7 17.Nxc8 Rxc8 18.Bxf5 Re8
+19.Nd4 g6 20.Bd3 a5 21.h4 Ne4 22.Bxe4 Qxe4 23.h5 gxh5 24.Bc3
+Kg8 25.Nf5 b4 26.Bd4 a4 27.Qxe4 Rxe4 28.Rxh5 Bd8 29.Rdh1 b3
+30.a3 1-0

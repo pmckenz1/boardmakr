@@ -1,0 +1,19 @@
+[Event "Taxco Interzonal"]
+[Site "Taxco de Alarcón MEX"]
+[Date "1985.06.23"]
+[EventDate "1985.06.10"]
+[Round "10"]
+[Result "0-1"]
+[White "Oleg Romanishin"]
+[Black "Yuri Balashov"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2
+a6 8.a4 Nc6 9.Rd1 Nb4 10.Qxc4 b5 11.Qc3 Bb7 12.Na3 bxa4 13.Bg5
+Rb8 14.Nc4 Bd5 15.Bxf6 Bxf6 16.Nfe5 c5 17.e4 Bxc4 18.Qxc4 cxd4
+19.Ng4 d3 20.Rxa4 Qb6 21.e5 Be7 22.Qf4 Rfd8 23.Be4 Qc7 24.Nh6+
+gxh6 25.Qxh6 f5 26.Qxe6+ Kh8 27.Qxf5 Bc5 28.Rd2 Rf8 29.Qg5
+Rbe8 30.Qh4 Rxe5 31.Ra1 Qe7 32.Qxe7 Rxe7 0-1

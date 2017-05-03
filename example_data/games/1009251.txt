@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Karsten Mueller"]
+[Black "Ari Ziegler"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5
+7. exd5 Bxf5 8. dxc6 bxc6 9. Qf3 Qc8 10. Ba6 Qxa6 11. Qxf5 Bd6
+12. Bh6 Nh5 13. Qxh5 gxh6 14. O-O-O O-O-O 15. Qxf7 Kb8 16. Ne4
+Bc7 17. Nc5 Qa5 18. Qc4 Qb5 19. Qxb5+ cxb5 20. Rxd8+ Rxd8
+21. Rd1 Rg8 22. g3 Kc8 23. Rd5 Rf8 24. Ne4 a6 25. Kd2 h5
+26. Ke2 h4 27. Rd3 hxg3 28. hxg3 Rg8 29. Rf3 Rg6 30. Rf7 Rc6
+31. Kd3 h6 32. Rf6 Kd7 33. Rxc6 Kxc6 34. g4 Bd8 35. c4 Be7
+36. f3 Bh4 37. Nc3 Kc5 38. cxb5 axb5 39. Ke4 Bg3 40. Ne2 Bh2
+41. Nc1 1-0

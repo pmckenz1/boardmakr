@@ -1,0 +1,18 @@
+[Event "Bled"]
+[Site "Bled YUG"]
+[Date "1961.09.19"]
+[EventDate "1961.09.03"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Paul Keres"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.Nf3 d5 2.c4 dxc4 3.e3 e6 4.Bxc4 c5 5.O-O Nf6 6.d4 a6 7.e4 b5
+8.Bd3 Bb7 9.e5 Nd5 10.a4 b4 11.Nbd2 cxd4 12.Nb3 Nd7 13.Re1 Nc5
+14.Nxc5 Bxc5 15.Ng5 Ne3 16.Nxe6 fxe6 17.fxe3 Qg5 18.e4 Qxe5
+19.Bf4 Qxf4 20.Qh5+ Qf7 21.Qxc5 Qe7 22.Rac1 Qxc5 23.Rxc5 Rc8
+24.Rxc8+ Bxc8 25.Rc1 Kd7 1/2-1/2

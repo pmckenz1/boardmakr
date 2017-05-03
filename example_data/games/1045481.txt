@@ -1,0 +1,24 @@
+[Event "CSSR (ch) 34/656"]
+[Site "CSSR (ch) 34/656"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Eduard Prandstetter"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 Ne4
+7. Qd3 Qa5 8. Nb3 Nxc3 9. Bd2 Ne4 10. Qxe4 Bxd2+ 11. Nxd2 Nc6
+12. Bg2 O-O 13. Qe3 d5 14. O-O d4 15. Qd3 e5 16. a3 Bf5
+17. Ne4 Bg6 18. b4 Qc7 19. f4 f5 20. Ng5 e4 21. Qd2 Bf7 22. g4
+g6 23. Rac1 Rad8 24. h4 h6 25. Nxf7 Qxf7 26. h5 gxh5 27. gxf5
+Qxf5 28. Kh2 Kh8 29. b5 Ne7 30. Qc2 d3 31. Qc3+ Kg8 32. e3 Ng6
+33. c5 Kh7 34. Bh3 Qf7 35. c6 d2 36. Rcd1 Rd3 37. Qc2 Rxe3
+38. Rxd2 Nxf4 39. Bg2 Qe6 40. Rd7+ Kg8 41. Rg1 Kh8 42. Qb2+
+Rf6 43. Re1 Nxg2 44. Rd8+ Kh7 45. Rxe3 Nxe3 46. cxb7 Ng4+
+47. Kg2 Ne3+ 48. Kh2 Ng4+ 49. Kg2 Qf5 50. Rh8+ Kg7 51. Qe2
+Ne3+ 52. Qxe3 Rg6+ 53. Kh2 Qe5+ 54. Kh3 Qe6+ 55. Kh2 Qa2+ 0-1

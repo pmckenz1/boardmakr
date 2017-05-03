@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Rafael Vaganian"]
+[Black "Matthias Mueller"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. Nxc5
+Bxc5 13. dxc5 Nxc5 14. Bb5+ Ke7 15. Qd4 Qb6 16. Bc4 h6 17. O-O
+Rhd8 18. Bd2 a5 19. Qh4+ Kf8 20. Rfd1 Ne7 21. Be3 Bd5 22. Bxh6
+Ng6 23. Bxg7+ Kxg7 24. Qf6+ Kf8 25. Ng5 Qa7 26. Rac1 Rdc8
+27. Bxd5 exd5 28. Rxd5 Nd3 29. Rxc8+ Rxc8 30. Rd8+ Rxd8
+31. Ne6+ Ke8 32. Qxd8# 1-0

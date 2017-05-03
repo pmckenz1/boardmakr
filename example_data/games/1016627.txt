@@ -1,0 +1,19 @@
+[Event "Biel (Switzerland)"]
+[Site "Biel (Switzerland)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Wolfram Schoen"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d5 6.O-O c6 7.Nbd2
+Na6 8.b3 Ne4 9.Bb2 f5 10.e3 Be6 11.Qe2 h6 12.Rac1 Qe8 13.Ne1
+Nxd2 14.Qxd2 Rd8 15.Nd3 dxc4 16.bxc4 g5 17.f4 g4 18.Qa5 Bc8
+19.Qa3 e6 20.Bc3 Rf7 21.Rfe1 h5 22.Ne5 Bf8 23.Qb2 Rh7 24.e4 h4
+25.exf5 Qh5 26.f6 hxg3 27.hxg3 Nc5 28.Qe2 Na4 29.Ba1 Bb4
+30.Red1 Kh8 31.Kf2 Ba3 32.Rh1 1-0

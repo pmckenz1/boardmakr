@@ -1,0 +1,20 @@
+[Event "Memorial M.Chigorin"]
+[Site "Sochi URS"]
+[Date "1976.09.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Igor Arkadievich Zaitsev"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Ne7 6.d4 exd4
+7.Nxd4 g6 8.Nb3 Qxd1 9.Rxd1 Bg7 10.Nc3 f5 11.Bf4 fxe4 12.Bxc7
+O-O 13.Bd6 Re8 14.Bxe7 Rxe7 15.Rd8+ Kf7 16.Na5 Bf6 17.Nc4 Rc7
+18.Nd6+ Ke7 19.Re8+ Kxd6 20.Nxe4+ Kd5 21.Nxf6+ Kc4 22.Rd1 Ra7
+23.Ne4 Bf5 24.Nd6+ Kb4 25.c3+ Ka5 26.Re5+ c5 27.Nxf5 gxf5
+28.Rxf5 Ka4 29.Rdd5 b5 30.Rxc5 Rxc5 31.Rxc5 Rd7 32.g4 Rd2
+33.Rc6 a5 34.b3+ Ka3 35.Rc5 1-0

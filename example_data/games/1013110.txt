@@ -1,0 +1,22 @@
+[Event "La Coruna"]
+[Site "La Coruna ESP"]
+[Date "1935.03.13"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "Juan Fernandez Rua"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7
+7. Be2 O-O 8. O-O b6 9. Be3 Bb7 10. h3 Nbd7 11. Qc2 e6
+12. Rad1 Qe7 13. Rfe1 c5 14. d5 exd5 15. cxd5 Ne5 16. Nxe5
+Qxe5 17. Bf3 Qd6 18. Qd2 Rfe8 19. Bf4 Qd7 20. Bh6 Rxe1+
+21. Rxe1 Bxh6 22. Qxh6 Qf5 23. Re7 Bxd5 24. Nxd5 Nxd5 25. Be4
+Nxe7 26. Bxf5 Nxf5 27. Qd2 Nd4 28. Kf1 Re8 29. Qf4 a5 30. g4
+Kg7 31. h4 h6 32. h5 Re6 33. hxg6 Rxg6 34. Qe5+ Kh7 35. Qe4
+Kg7 36. Kg2 Rg5 37. Kh3 h5 38. f3 hxg4+ 39. fxg4 Rg6 40. Qe5+
+Kh7 41. Kg3 Re6 1/2-1/2

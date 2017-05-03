@@ -1,0 +1,26 @@
+[Event "Continental"]
+[Site "Continental"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Dimitri Gurevich"]
+[ECO "A73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.e4
+Bg7 8.Be2 O-O 9.O-O Bg4 10.Bf4 a6 11.a4 Bxf3 12.Bxf3 Qe7 13.a5
+Nbd7 14.Na4 Ne5 15.Bxe5 Qxe5 16.Nb6 Rad8 17.Nc4 Qe7 18.Qc2 Nd7
+19.Ra3 Bd4 20.Rb3 Rb8 21.Kh1 Rfe8 22.Bg4 Ne5 23.Nxe5 Qxe5
+24.f3 Re7 25.Rb6 Rbe8 26.Qc4 f5 27.exf5 gxf5 28.Bh5 Rd8 29.f4
+Qf6 30.Qc2 Rdd7 31.Rb3 Re3 32.Rxe3 Bxe3 33.Be2 Rf7 34.Bd3 Bd4
+35.Re1 Bxb2 36.Bxf5 Qxf5 37.Re8+ Kg7 38.Qxb2+ Qf6 39.Qxf6+
+Rxf6 40.g3 Rf5 41.Re7+ Kg8 42.Rxb7 Rxd5 43.Kg2 c4 44.Rc7 Rd2+
+45.Kf3 d5 46.h3 Rd3+ 47.Kg4 c3 48.f5 d4 49.Kf4 Kf8 50.Ke5 Rd2
+51.Kf6 Re2 52.Rc4 Re1 53.g4 Ke8 54.Kg7 Ke7 55.f6+ Ke6 56.f7+
+Rf1 57.f8=Q Rxf8 58.Kxf8 Kd5 59.Rc8 Ke4 60.Kg7 Kd3 61.Kxh7 Kc2
+62.g5 d3 63.g6 d2 64.Rd8 Kb1 65.g7 c2 66.g8=Q c1=Q 67.Qb3+ Ka1
+68.Qa4+ Kb2 69.Rb8+ Kc3 70.Rb3+ Kc2 1-0

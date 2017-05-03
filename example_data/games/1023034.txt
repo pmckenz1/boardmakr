@@ -1,0 +1,22 @@
+[Event "Moscow tt"]
+[Site "1"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Vladimir Savon"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5
+h6 8.Bh4 Bg7 9.Nd2 g5 10.Bg3 Nh5 11.e3 Nxg3 12.hxg3 Nd7 13.Nc4
+Ne5 14.Nxe5 Bxe5 15.Qc2 a6 16.a4 Bg7 17.Bd3 Qe7 18.a5 O-O
+19.Bh7+ Kh8 20.Bf5 Qe5 21.g4 Rb8 22.Na4 Qxd5 23.Nb6 Bxf5
+24.gxf5 Qxg2 25.O-O-O Qf3 26.Nd5 Rfe8 27.f6 Bf8 28.Rhg1 Re5
+29.Rg3 Qf5 30.Qxf5 Rxf5 31.f3 Re8 32.e4 Rfe5 33.Kc2 R8e6
+34.Rd3 Re8 35.Rb3 Rb8 36.Kd3 Kh7 37.Nb6 Rd8 38.Nc4 Re6 39.Rxb7
+d5 40.exd5 Rxd5+ 41.Kc2 Rxf6 42.Nb6 Rd8 43.Ra7 Bd6 44.Rg2 Bb8
+45.Rxa6 Bc7 46.Ra7 Bxb6 47.axb6 Rb8 48.Rc7 Rbxb6 0-1

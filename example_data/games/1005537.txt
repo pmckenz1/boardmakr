@@ -1,0 +1,25 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "4"]
+[Result "0-1"]
+[White "Dmitry Shurkaev"]
+[Black "Karen Askarian"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "2274"]
+[PlyCount "112"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 e5 5. d5 Nd7 6. Bd3 Kf8
+7. f4 exf4 8. Bxf4 Bxc3+ 9. bxc3 Kg7 10. Nf3 f6 11. O-O Nh6
+12. Be3 Qe7 13. Bd4 Nf7 14. h3 b6 15. Qd2 Nde5 16. Ne1 Bd7
+17. Nf3 Raf8 18. Rf2 Nxf3+ 19. Rxf3 Ne5 20. Rf2 Rf7 21. Raf1
+Re8 22. Be2 Ref8 23. Bd3 Bc8 24. Rf4 Bd7 25. Kh2 c5 26. Be3 g5
+27. R4f2 Nxd3 28. Qxd3 Qe5+ 29. Kg1 Re8 30. Bd2 h6 31. Re1 Rb8
+32. h4 Bg4 33. Rf5 Qe7 34. Rf2 Bh5 35. Qg3 Bg6 36. Qg4 Re8
+37. Rfe2 Qd8 38. Re3 Rfe7 39. hxg5 hxg5 40. Kf2 Rh8 41. Rh3
+Qc8 42. Qxc8 Rxc8 43. Rhe3 Rce8 44. Kf3 Bh5+ 45. Kg3 Re5
+46. Kf2 Bg4 47. a3 R8e7 48. Kg3 Bc8 49. Kf3 Ba6 50. g4 Bxc4
+51. Rh1 b5 52. Rb1 a5 53. Rc1 Re8 54. Rh1 a4 55. Rh2 Bb3
+56. Bc1 Bd1+ 0-1

@@ -1,0 +1,24 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Branko Lovric"]
+[Black "Dragoljub J Zecevic"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. b3 c5 2. Bb2 Nc6 3. f4 d5 4. e3 e6 5. Nf3 f6 6. c4 Bd6
+7. Nc3 Nge7 8. g3 O-O 9. Bg2 Bd7 10. O-O Be8 11. Nh4 Bf7
+12. Qe2 a6 13. f5 Be5 14. fxe6 Bxe6 15. cxd5 Nxd5 16. Be4 Nxc3
+17. dxc3 Qe8 18. Nf3 Qh5 19. Nd4 Qxe2 20. Nxe2 Rfd8 21. Rfd1
+g5 22. Kf2 Rxd1 23. Rxd1 Rd8 24. Rxd8+ Nxd8 25. Ba3 b6 26. c4
+Nf7 27. Bc1 Nd6 28. Bc2 h6 29. Bd2 Kf7 30. Nc3 Bxc3 31. Bxc3
+Bf5 32. Bxf5 Nxf5 33. Kf3 h5 34. h3 Ke6 35. e4 Nd6 36. Bb2 Nf7
+37. Ke3 f5 38. exf5+ Kxf5 39. Kf3 g4+ 40. hxg4+ hxg4+ 41. Ke3
+Nd6 42. Bc3 b5 43. cxb5 axb5 44. Kd3 b4 45. Bd2 Nf7 46. Kc4
+Nd6+ 47. Kd5 Ne4 48. Be1 Nc3+ 49. Kxc5 Nxa2 50. Kd4 Nc1
+51. Kc4 Ke4 52. Bxb4 Kf3 53. Bd6 Ne2 54. b4 Nxg3 1/2-1/2

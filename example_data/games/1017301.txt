@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Reykjavik (Iceland)"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Lev Alburt"]
+[Black "Helgi Olafsson"]
+[ECO "A62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Bg2
+Bg7 8.Nf3 O-O 9.O-O a6 10.a4 Nbd7 11.h3 Re8 12.Nd2 Rb8 13.Nc4
+Ne5 14.Na3 Nh5 15.e4 Rf8 16.Kh2 f5 17.f4 b5 18.axb5 axb5
+19.Naxb5 fxe4 20.Na7 e3 21.Qe2 Nxg3 22.Kxg3 g5 23.f5 Bxf5
+24.Qxe3 Qd7 25.Nc6 Rbe8 26.Qxg5 h6 27.Qh5 Bg6 28.Rxf8+ Rxf8
+29.Qe2 Bd3 30.Qe3 Nxc6 31.dxc6 Qf5 32.Kh2 Be5+ 33.Kh1 Bd4
+34.Bd5+ 1-0

@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Liechtenstein"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emil Szalanczy"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 a6 5.Qd2 Nd7 6.Nf3 b5 7.a4 b4
+8.Ne2 Rb8 9.Ng3 c5 10.Bd3 cxd4 11.Nxd4 Qc7 12.O-O h5 13.Rfc1
+h4 14.Nge2 Ngf6 15.c3 b3 16.f3 d5 17.exd5 Nxd5 18.Re1 e5
+19.Bf2 O-O 20.Nxb3 Rxb3 21.Bxg6 N7f6 22.Bb1 Qb7 23.Bxh4 Rxb2
+24.Qg5 Nh7 25.Qc1 Be6 26.Bd3 Rc8 27.Bxa6 Qxa6 28.Qxb2 e4
+29.fxe4 Nxc3 30.Nxc3 Bxc3 31.Qb5 Qa8 32.a5 Bxa1 33.Rxa1 Qxe4
+34.Bf2 Bd5 35.Qf1 Ng5 36.Re1 Nf3+ 37.gxf3 Qxf3 38.Bg3 Qh1+
+39.Kf2 Rc2+ 40.Ke3 Qe4+ 0-1

@@ -1,0 +1,20 @@
+[Event "London m"]
+[Site "London ENG"]
+[Date "1886.05.27"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Henry Edward Bird"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 f5 2.e3 Nf6 3.Nf3 e6 4.Be2 b6 5.O-O Be7 6.c4 Bb7 7.Nc3
+O-O 8.Qc2 Qe8 9.d5 Na6 10.Rd1 Bb4 11.Bd2 c6 12.a3 Bxc3 13.Bxc3
+Ne4 14.dxe6 dxe6 15.Be5 Nac5 16.b4 Nd7 17.Bd6 Nxd6 18.Rxd6 c5
+19.Rad1 Nf6 20.Ne5 Qe7 21.bxc5 bxc5 22.Qb2 Bd5 23.Ra6 Rab8
+24.Qc3 Ba8 25.Qa5 Ne4 26.f3 Qg5 27.f4 Qh4 28.Qe1 Qxe1+ 29.Rxe1
+Rb3 30.Bf3 Nd2 31.Rxa7 Bxf3 32.gxf3 Rd8 33.Kf2 h5 34.Rg1 Ne4+
+35.fxe4 Rb2+ 36.Kf3 Rdd2 37.Rgxg7+ 1-0

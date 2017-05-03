@@ -1,0 +1,20 @@
+[Event "Beverwijk"]
+[Site "Beverwijk NED"]
+[Date "1965.01.20"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Hans Mueller"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 c5 5.d5 h6 6.Bh4 exd5 7.cxd5
+d6 8.e3 Nbd7 9.Bd3 O-O 10.Ne2 Ne5 11.Bc2 Ng6 12.Bg3 Nh5 13.O-O
+Nxg3 14.Nxg3 Bxc3 15.bxc3 Re8 16.Qd3 Nf8 17.Rae1 Bd7 18.f4 b5
+19.e4 c4 20.Qf3 a5 21.e5 b4 22.Ne4 Bf5 23.Nf6+ gxf6 24.Bxf5
+Ng6 25.Qg4 h5 26.Qxh5 Kg7 27.e6 Rh8 28.Qg4 Qb6+ 29.Kh1 Rh4
+30.Qg3 Rh6 31.e7 Qb5 32.Qg4 Rah8 33.h3 Rh4 34.Bd7 Qxd5 35.Qg3
+1-0

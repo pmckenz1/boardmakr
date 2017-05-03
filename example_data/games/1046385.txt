@@ -1,0 +1,24 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Oleg Korneev"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. f3 b5 8. g4 h6 9. Qd2 Nbd7 10. O-O-O Bb7 11. h4 b4 12. Nce2
+d5 13. Bh3 Ne5 14. g5 Nc4 15. Qd3 Qa5 16. Kb1 hxg5 17. hxg5
+Nxb2 18. Kxb2 dxe4 19. Qd2 Nd5 20. Nb3 Qa3+ 21. Ka1 exf3
+22. Nf4 Rd8 23. g6 Rh6 24. gxf7+ Kxf7 25. Nxd5 Rxd5 26. Bxh6
+Rxd2 27. Bxd2 Bd5 28. Bg4 Be7 29. Bc1 Bf6+ 30. Kb1 Qa4
+31. Rxd5 exd5 32. Bxf3 Qc6 33. Rd1 Qc3 34. Rd3 Qe5 35. Rxd5
+Qg3 36. Be2 g5 37. Bxa6 g4 38. Rd7+ Kf8 39. Nd4 Qe5 40. Bd2 g3
+41. Bxb4+ Kg8 42. Bb7 Qe3 43. c3 Bg5 44. Bd5+ Kh8 45. Kc2 g2
+46. Nf3 Qe2+ 47. Kb3 Qd1+ 48. Kc4 Qe2+ 49. Kb3 Qd1+ 50. Kc4
+1/2-1/2

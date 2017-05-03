@@ -1,0 +1,24 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Vasilios Kotronias"]
+[Black "Kamil Miton"]
+[ECO "B32"]
+[WhiteElo "2639"]
+[BlackElo "2491"]
+[PlyCount "104"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6
+7. Na3 b5 8. Nd5 Nce7 9. c4 Nxd5 10. exd5 bxc4 11. Nxc4 Nf6
+12. Be3 Rb8 13. Rc1 Bd7 14. a4 Ng4 15. Bd2 Qf6 16. Qe2 Be7
+17. h4 h5 18. f3 Nh6 19. Bg5 Qg6 20. Nxe5 dxe5 21. Qxe5 Qd6
+22. Qxg7 Rg8 23. Qxh6 Qg3+ 24. Kd1 Bxa4+ 25. b3 Rxb3 26. Qxa6
+Ra3+ 27. Qxa4+ Rxa4 28. Bb5+ Kd8 29. Bxe7+ Kxe7 30. Bxa4 Qf2
+31. Re1+ Kf6 32. Rc6+ Kg7 33. Bb3 Ra8 34. Rc1 Rb8 35. Rc3 Qxh4
+36. Re2 Rb4 37. Rd3 Rd4 38. Kc2 Qf4 39. Red2 Rxd3 40. Rxd3 Qd6
+41. Rd2 h4 42. Rd4 Kf8 43. Rd2 Ke7 44. Kd1 Kd8 45. Bc2 Ke7
+46. Bf5 Kf6 47. Bh3 Ke5 48. Ke1 Kf4 49. Rd4+ Ke3 50. Re4+ Kd3
+51. Bf5 Kc3 52. Bh3 52... Qxd5 1/2-1/2

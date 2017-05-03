@@ -1,0 +1,24 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.06.07"]
+[EventDate "1882.05.10"]
+[Round "23"]
+[Result "0-1"]
+[White "Adolf Schwarz"]
+[Black "James Mason"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. Nf3 Qc7 6. d4
+Bf5 7. d5 Bd7 8. O-O e6 9. dxe6 Bxe6 10. Nd4 Nf6 11. Nxe6 fxe6
+12. Bc4 e5 13. f4 Bd6 14. Re1 Nbd7 15. fxe5 Bxe5 16. g3 O-O-O
+17. Qf3 Rde8 18. Be3 Rhf8 19. Rad1 h5 20. Bf4 Bxf4 21. gxf4
+Rxe1+ 22. Rxe1 Qd6 23. Be6 Kc7 24. f5 Ng4 25. Qg3 Qxg3+
+26. hxg3 Nde5 27. Kg2 g6 28. f6 Rxf6 29. Bxg4 Nxg4 30. Re7+
+Kd6 31. Rxb7 Rf2+ 32. Kg1 Rxc2 33. Rxa7 Rxb2 34. a4 Rc2
+35. Ne4+ Ke5 36. Re7+ Kd4 37. Nd6 Ra2 38. Nb7 c5 39. Nd6 c4
+40. Nb5+ Kd3 41. Re6 Rxa4 42. Rd6+ Ke3 43. Rxg6 Ra1+ 44. Kg2
+Ra2+ 45. Kg1 Rd2 46. Nc3 Rd3 47. Nb5 c3 48. Rc6 Rd1+ 49. Kg2
+Rd2+ 50. Kg1 c2 51. Rc3+ Ke4 52. Nd6+ Kd4 0-1

@@ -1,0 +1,18 @@
+[Event "Zurich"]
+[Site "Zurich SUI"]
+[Date "1934.07.20"]
+[EventDate "1934.07.14"]
+[Round "7"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "Hans Johner"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 d5 5.a3 Bxd2+ 6.Nxd2 Nbd7
+7.cxd5 exd5 8.g3 O-O 9.Bg2 Re8 10.O-O c6 11.b3 Nf8 12.Bb2 Bf5
+13.Re1 Qd6 14.f3 Re3 15.Nf1 Re7 16.a4 b5 17.axb5 cxb5 18.Ra5
+a6 19.Qd2 b4 20.e4 Qb6 21.Rea1 Bd7 22.e5 Bb5 23.Qxb4 Rae8
+24.Rxa6 1-0

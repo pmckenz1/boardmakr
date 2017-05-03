@@ -1,0 +1,22 @@
+[Event "03, Berliner Sommer"]
+[Site "Berlin GER"]
+[Date "1995.08.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Vojko Zorman"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 Nf6 2.e5 Nd5 3.Bc4 Nb6 4.Bb3 d5 5.d4 Bf5 6.Ne2 e6 7.Ng3
+Bg6 8.h4 h6 9.h5 Bh7 10.c3 c5 11.O-O Nc6 12.Qg4 c4 13.Bd1 Qd7
+14.b3 O-O-O 15.Nd2 f6 16.f4 Bd3 17.Be2 f5 18.Qh3 Bxe2 19.Nxe2
+g5 20.hxg6 Rg8 21.Qh5 Qe8 22.Rf3 Qxg6 23.Qxg6 Rxg6 24.Rg3 Rxg3
+25.Nxg3 a5 26.Ngf1 cxb3 27.axb3 Kc7 28.Ne3 Nc8 29.Kf2 b5
+30.Nf3 Nb6 31.Ba3 Bxa3 32.Rxa3 a4 33.g4 fxg4 34.Nxg4 Rf8
+35.Nf6 Ne7 36.Nh4 Kc6 37.Kg3 Ra8 38.f5 exf5 39.Kf4 axb3
+40.Rxb3 Ra1 41.Ng2 Rf1+ 42.Ke3 Nc4+ 43.Ke2 Ra1 44.Nf4 Ra2+
+45.Ke1 Nd2 46.Rb4 Ne4 47.Rb3 Nd2 48.Rb4 Ne4 1/2-1/2

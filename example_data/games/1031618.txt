@@ -1,0 +1,22 @@
+[Event "Nassasu CC ch IC8:"]
+[Site "Nassasu CC ch IC8:"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Konstantin Dolgitser"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 d5 2.c4 Bf5 3.cxd5 Bxb1 4.Rxb1 Qxd5 5.a3 Nc6 6.e3 e5
+7.dxe5 Qxd1+ 8.Kxd1 Nxe5 9.f3 Rd8+ 10.Kc2 Ne7 11.Nh3 Nf5
+12.Nf2 Be7 13.f4 Nd7 14.g4 Nd6 15.h4 f5 16.g5 c5 17.b3 b5
+18.Bb2 Kf7 19.Bg2 Nb6 20.Nd3 Rhe8 21.Bc6 Rf8 22.h5 Rc8 23.g6+
+Kg8 24.h6 hxg6 25.hxg7 Rfd8 26.Rh6 Kf7 27.Ne5+ Kxg7 28.Nd7 Kf7
+29.Rh7+ Ke8 30.Ne5 Rxc6 31.Nxc6 Rd7 32.Ne5 Rc7 33.Rh8+ Bf8
+34.Nxg6 Rf7 35.Rd1 Ne4 36.Bg7 Nd7 37.Bxf8 Nxf8 38.Rd5 Rf6
+39.Re5+ Kf7 40.Nxf8 Kg7 41.Nd7 Rd6 42.Rd8 Rd2+ 43.Kc1 Re2
+44.Re7+ Kg6 45.Rg8+ Kh6 46.Rxe4 1-0

@@ -1,0 +1,20 @@
+[Event "Manila (Philippines)"]
+[Site "Manila (Philippines)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "22"]
+[Result "0-1"]
+[White "T Gonzalez"]
+[Black "Andras Adorjan"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 e6
+7.Bd3 Be7 8.O-O O-O 9.Qe2 b6 10.Rd1 Bb7 11.Ne5 Qc7 12.c4 c5
+13.Bf4 cxd4 14.Ng6 Bd6 15.Bxd6 Qxd6 16.Nxf8 Rxf8 17.Ne4 Bxe4
+18.Bxe4 Nc5 19.Bc2 e5 20.b4 Ne6 21.Re1 Qxb4 22.Qxe5 Nd7 23.Qd5
+Ndc5 24.Bf5 d3 25.Bxd3 Nf4 26.Bxh7+ Kxh7 27.Qf5+ Ng6 28.Re3
+Qxc4 29.Rh3+ Kg8 30.Qh5 Re8 31.Rd1 Qxa2 32.Qh7+ Kf8 33.Rf3 Qd2
+34.Rf1 Re1 35.g3 Rxf1+ 36.Kxf1 Nd3 37.Qh5 Qd1+ 0-1

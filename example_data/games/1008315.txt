@@ -1,0 +1,24 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.21"]
+[EventDate "1936.08.10"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Max Euwe"]
+[Black "Salomon Flohr"]
+[ECO "D67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 {Notes by Alekhine} d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7
+5. e3 O-O 6. Nc3 Nbd7 7. Rc1 c6 8. Bd3 dxc4 9. Bxc4 Nd5
+10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 e5 {Introduced by
+Dr. Lasker against me at Zurich, 1934. Because of Black's loss
+of that game the move had, as usual, a bad press. the present
+game shows that it is as playable as Capablanca's
+12...Qb4+.}13. O-O exd4 14. Nf5 Qd8 15. N3xd4 Ne5 16. Bb3 Bxf5
+17. Nxf5 g6 {! This is the correct move. Dr. Lasker against me
+played 17...Qb6? and lost speedily : 18 Qd6! Ned7 19 Rfd1 Rad8
+20 Qg3 g6 21 Qg5 Kh8 22 Nd6 Kg7 23 e4! Ng8 24 Rd3 f6 25 Nf5+
+Kh8 26 Qxg6 resigns.} 18. Qd4 Qxd4 19. Nxd4 1/2-1/2

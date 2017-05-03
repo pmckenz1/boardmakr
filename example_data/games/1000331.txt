@@ -1,0 +1,18 @@
+[Event "World Open Under-2200"]
+[Site "Philadelphia"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Richard Lunenfeld"]
+[Black "Oswaldo Fernandez"]
+[ECO "C40"]
+[WhiteElo "2181"]
+[BlackElo "2000"]
+[PlyCount "50"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 f5 5. d3 Nf6 6. Bg5 Bd6
+7. Nc3 O-O 8. Nd2 exd3 9. Qxd3 Qe8+ 10. Be2 Ng4 11. Nf3 Nd7
+12. O-O h6 13. Be3 Nde5 14. Nxe5 Qxe5 15. g3 f4 16. Bd4 Qh5
+17. Bxg4 Bxg4 18. f3 fxg3 19. hxg3 Bxf3 20. Qd2 Qh1+ 21. Kf2
+Qg2+ 22. Ke3 Qxg3 23. Qf2 Rae8+ 24. Kd2 Bf4+ 25. Kd3 Be2# 0-1

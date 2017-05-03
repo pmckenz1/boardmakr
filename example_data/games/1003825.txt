@@ -1,0 +1,29 @@
+[Event "Teplitz-Schönau"]
+[Site "Teplice-Sanov CSR"]
+[Date "1922.10.05"]
+[EventDate "1922.10.02"]
+[Round "4"]
+[Result "1-0"]
+[White "Borislav Kostic"]
+[Black "Heinrich Wolf"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "159"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 dxc4 5. e3 a6 6. Bxc4 c5
+7. O-O Nc6 8. Qe2 b5 9. Bd3 Bb7 10. Rd1 Qc7 11. a4 c4 12. Bc2
+b4 13. Ne4 Na5 14. Ng3 Be7 15. e4 O-O 16. e5 Nd5 17. Ng5 Bxg5
+18. Bxg5 Rae8 19. Bf6 Nf4 20. Qg4 Ng6 21. Bxg7 Kxg7 22. Nh5+
+Kh8 23. Nf6 Kg7 24. Qh5 Rh8 25. Qxh7+ Kf8 26. Nxe8 Rxh7
+27. Nxc7 Rg7 28. Bxg6 Rxg6 29. g3 Ke7 30. d5 Nb3 31. d6+ Kd7
+32. Rab1 a5 33. f3 Bxf3 34. Rf1 Nd2 35. Rbc1 Nxf1 36. Rxf1 Be4
+37. Rxf7+ Kc8 38. Na6 Rg8 39. Rc7+ Kd8 40. Rxc4 Bd5 41. Rc5
+Rg5 42. Rxa5 Rxe5 43. Nxb4 Kd7 44. Nxd5 exd5 45. Kf2 Kxd6
+46. Rb5 Re4 47. b3 d4 48. Rf5 Re8 49. b4 Rb8 50. b5 Ke6
+51. Rh5 Ra8 52. Ke2 Rxa4 53. Kd3 Kd6 54. Rg5 Rb4 55. h4 Ke6
+56. b6 Kf6 57. b7 Rxb7 58. Kxd4 Re7 59. Rg4 Re1 60. Kd3 Kf5
+61. Rg5+ Kf6 62. Kd2 Re8 63. Kd3 Re7 64. Rg4 Re1 65. Rf4+ Kg6
+66. Re4 Rg1 67. Rg4+ Kh5 68. Rg5+ Kh6 69. Ke3 Rf1 70. Rg4 Kh5
+71. Rf4 Ra1 72. Kf2 Ra2+ 73. Kf3 Rb2 74. Rf5+ Kg6 75. Kg4 Rb4+
+76. Rf4 Rb5 77. Ra4 Rb6 78. h5+ Kh6 79. Kh4 Rc6 80. g4 1-0

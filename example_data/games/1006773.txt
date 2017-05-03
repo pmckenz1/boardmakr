@@ -1,0 +1,25 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.09"]
+[EventDate "1920.08.02"]
+[Round "6"]
+[Result "1-0"]
+[White "C Wium"]
+[Black "Katarina Beskow"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.e4 e5 2.d4 exd4 3.Bc4 Nf6 4.Nf3 d5 5.exd5 Qe7+ 6.Be2 Nxd5
+7.Qxd4 Be6 8.O-O Nc6 9.Bb5 Qd6 10.Nbd2 a6 11.Bxc6+ Qxc6 12.c3
+Bc5 13.Qxg7 O-O-O 14.Ne5 Qe8 15.Ne4 Be7 16.c4 Nb4 17.Nf6 Bxf6
+18.Qxf6 Rg8 19.Bg5 Nc6 20.Rad1 Nxe5 21.Qxe5 Rxd1 22.Rxd1 Qc6
+23.Qg7 Re8 24.b3 Qe4 25.Qf6 Bd7 26.f3 Qe2 27.Qd4 Qe6 28.a4 h6
+29.Bxh6 f6 30.a5 Rg8 31.Qa7 Kd8 32.Bd2 Rxg2+ 33.Kxg2 Qe2+
+34.Kg3 Qxd1 35.Qd4 Ke8 36.Qe4+ Kd8 37.Qd4 Ke8 38.Qe3+ Kf7
+39.h4 Qf1 40.Qe4 Qg1+ 41.Kf4 Qh2+ 42.Ke3 Qg1+ 43.Ke2 Qg2+
+44.Kd1 Qf1+ 45.Kc2 Bc6 46.Qh7+ Ke6 47.Qg8+ Kd7 48.Qh7+ Ke6
+49.Qg8+ Kd7 50.Qf7+ Kc8 51.Qe6+ Kb8 52.Be3 Qe2+ 53.Kc3 Qe1+
+54.Kb2 Qe2+ 55.Ka3 b6 56.axb6 Qxf3 57.Qg8+ Kb7 58.Qg7 Qxe3
+59.Qxc7+ Ka8 60.Qc8+ 1-0

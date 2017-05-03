@@ -1,0 +1,21 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Milenko Sibarevic"]
+[Black "Vladimir Bagirov"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Bc4 Nb6 5.Bb3 Bf5 6.Qf3 Qc8 7.Nh3
+e6 8.Ng5 Be7 9.Nxf7 Rf8 10.Ng5 Bxc2 11.Qh5+ Bg6 12.Qh3 Bxg5
+13.Bxg5 d5 14.O-O Nc6 15.Qc3 Kf7 16.a4 a5 17.Na3 Kg8 18.Rac1
+Nd7 19.Nb5 Ndb8 20.f4 Na6 21.g4 Nab4 22.Qe3 Be4 23.Rc3 Rf7
+24.Qe2 Qd7 25.Rf2 Raf8 26.Qd2 Kh8 27.Rh3 Ne7 28.Nc3 Nec6
+29.Re2 Bg6 30.f5 Bxf5 31.gxf5 Rxf5 32.Rg3 Qf7 33.h3 Rf3
+34.Rgg2 Qf5 35.Ref2 Qxh3 36.Rxf3 Rxf3 37.Bd1 Rg3 38.Nb5 Nd3
+39.Bc2 0-1

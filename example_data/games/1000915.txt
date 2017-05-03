@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.22"]
+[EventDate "1911.08.21"]
+[Round "24"]
+[Result "1/2-1/2"]
+[White "Georg Rotlewi"]
+[Black "Oldrich Duras"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 c5 2.d5 d6 3.c4 g6 4.e4 Bg7 5.Bd3 Nd7 6.f4 e5 7.dxe6 fxe6
+8.Nf3 Ne7 9.O-O O-O 10.Nc3 Nc6 11.Nb5 Nb6 12.Be2 d5 13.cxd5
+exd5 14.exd5 Nd4 15.Nfxd4 cxd4 16.d6 Kh8 17.Nxd4 Qxd6 18.Nb3
+Qe7 19.Bf3 Re8 20.Bd2 Bxb2 21.Rb1 Bg7 22.Re1 Qf7 23.Rxe8+ Qxe8
+24.Rc1 Qf7 25.Bc3 Be6 26.Bxg7+ Kxg7 27.Qd6 Rc8 28.Qe5+ Kg8
+29.Rxc8+ Bxc8 30.Qb8 Qe7 31.h3 h5 32.Kh2 h4 33.Nd2 Kg7 34.Ne4
+Bf5 35.Nd6 Be6 36.Nxb7 Bd5 37.Bxd5 Nxd5 38.Qxa7 Kh7 39.Qb8 Qe3
+40.Qe5 Qg3+ 41.Kh1 Nxf4 42.Qe7+ Kh6 43.Qf8+ Kh7 44.Qe7+ Kh6
+45.Qf8+ Kh7 1/2-1/2

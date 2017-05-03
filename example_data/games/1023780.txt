@@ -1,0 +1,23 @@
+[Event "Berlin 55/115"]
+[Site "Berlin 55/115"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jan Sorensen"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 Ne4 4.Nce2 d4 5.c3 Nc6 6.Nxd4 Nxd4
+7.Qa4+ c6 8.Qxd4 Qxd4 9.cxd4 Ng5 10.Bc4 Bf5 11.Ne2 Ne6 12.d3
+Nc7 13.Ng3 Be6 14.Be3 Bd5 15.Ne4 e6 16.O-O O-O-O 17.Rac1 Be7
+18.Bg5 Bxg5 19.Nxg5 Rd7 20.Bxd5 Nxd5 21.Ne4 Kb8 22.Nd6 Nb6
+23.f4 f5 24.Rf3 a6 25.Kf2 Nc8 26.Nxc8 Kxc8 27.Rc4 Kc7 28.Rg3
+b5 29.Rc3 g6 30.Rh3 Rxd4 31.Ke3 Rd7 32.Ke2 a5 33.Rh6 Kb6 34.h4
+c5 35.h5 Rg8 36.Rc2 Kc6 37.Ke3 Kd5 38.hxg6 Rxg6 39.Rxg6 hxg6
+40.a4 bxa4 41.Rc4 Rb7 42.Rxa4 Rxb2 43.Rxa5 Rxg2 44.Ra6 Rg3+
+45.Ke2 c4 46.Rd6+ Kc5 47.dxc4 Rg4 48.Kf3 g5 49.fxg5 Kxc4
+50.Rxe6 Kd5 51.Re8 Rxg5 1/2-1/2

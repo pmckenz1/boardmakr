@@ -1,0 +1,18 @@
+[Event "Wrexham (Wales)"]
+[Site "It"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Eugene Martinovsky"]
+[Black "Nigel Rodney Davies"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 g6 2.g3 Bg7 3.Bg2 c5 4.dxc5 Na6 5.Nf3 Nxc5 6.O-O b6 7.c4
+Bb7 8.Nc3 Bxc3 9.bxc3 d6 10.a4 h5 11.a5 Nf6 12.Nd4 Bxg2
+13.Kxg2 bxa5 14.f3 Nfd7 15.e4 a6 16.Nc6 Qc7 17.Nxa5 Rb8 18.Bg5
+f6 19.Be3 Kf8 20.Rf2 Kg7 21.h3 h4 22.g4 g5 23.Kh1 Ne5 24.Qd5
+Rhc8 25.Kg2 Ned3 26.Bxc5 Nf4+ 0-1

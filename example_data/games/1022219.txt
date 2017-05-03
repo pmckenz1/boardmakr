@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Hartberg AUT"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Zlatko Basagic"]
+[Black "Alexander Baburin"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Qf3 Nb6 5.Qg3 Nc6 6.Nf3 a6
+7.d3 Nb4 8.Kd1 g6 9.Qh4 Nc6 10.Bf4 f6 11.Bh6 e5 12.Bxf8 Kxf8
+13.Qh6+ Kf7 14.Be2 Be6 15.Kc1 Qe7 16.Nh4 Nd4 17.Re1 Nd5
+18.Nxd5 Bxd5 19.Bd1 Qd6 20.Re3 c5 21.c3 Ne6 22.Bg4 Rad8
+23.Bxe6+ Bxe6 24.Rg3 c4 25.Rxg6 hxg6 26.Qxg6+ Ke7 27.Qg7+ Ke8
+28.Qxh8+ Kd7 29.Qxf6 cxd3 30.Nf3 d2 31.Nxd2 Kc7 32.Qh6 Kb8
+33.Qe3 Bf5 34.a4 Ka8 35.b3 Qc6 36.Nc4 Qxg2 37.Kb2 Qxh2 38.Nxe5
+Re8 39.Re1 Qh4 40.Qd4 Qh2 41.Nc6 1-0

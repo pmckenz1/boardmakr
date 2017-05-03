@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Krishnan Sasikiran"]
+[Black "Ponnuswamy Konguvel"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. Be3 exd4 8. Nxd4 Re8 9. f3 c6 10. Bf2 d5 11. exd5 cxd5
+12. c5 Nc6 13. O-O Nh5 14. Qd2 Be5 15. g3 Ng7 16. Bb5 Bd7
+17. Bxc6 bxc6 18. Rfe1 Nf5 19. Nxf5 Bxf5 20. Bd4 Qc7 21. Bxe5
+Rxe5 22. Rxe5 Qxe5 23. Re1 Qf6 24. Ne2 Re8 25. Rc1 h5 26. Nd4
+h4 27. Rd1 hxg3 28. hxg3 g5 29. g4 Bxg4 30. Kg2 Bd7 31. Rh1 g4
+32. Qc3 gxf3+ 33. Kf2 Re4 34. Nxf3 d4 35. Qb3 Qf4 36. Re1 Rxe1
+37. Kxe1 Bg4 38. Ng1 Kg7 39. Qc4 Qe3+ 40. Kf1 Bf5 41. Qb4 Bd3+
+42. Kg2 Be4+ 43. Kf1 Qf4+ 44. Ke1 Qg3+ 0-1

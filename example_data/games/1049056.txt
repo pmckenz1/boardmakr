@@ -1,0 +1,21 @@
+[Event "Ukrainian Team ch"]
+[Site "Ukrainian Team ch"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Geller"]
+[Black "Yuri V Nikolaevsky"]
+[ECO "B60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Qb6
+7.Nb3 e6 8.Be2 Be7 9.O-O O-O 10.Bxf6 gxf6 11.Bh5 Kh8 12.Kh1
+Bd7 13.f4 a5 14.a4 Nb4 15.Qd2 Rad8 16.Rf3 d5 17.exd5 Bc6
+18.Qf2 Nxd5 19.Nxd5 Qxf2 20.Rxf2 Bxd5 21.Nxa5 Bc5 22.Re2 b6
+23.Nb3 Bxb3 24.cxb3 Rd3 25.Rc2 Bb4 26.g3 Rxb3 27.Rd1 e5 28.Rd7
+exf4 29.Bxf7 Re3 30.Rcc7 f3 31.h4 Re1+ 32.Kh2 Re2+ 33.Kh3 Re5
+34.Bd5 Rh5 35.Bxf3 Rh6 36.Rc6 Ba5 37.Be4 Be1 38.Rd1 Bf2 39.Rf1
+Bd4 40.Bf5 Re8 41.Rfc1 Bf2 42.Rc8 Rxc8 43.Rxc8+ Kg7 44.Kg4 1-0

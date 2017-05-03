@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1939.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Georgs Bezruchko"]
+[Black "Salomon Flohr"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6
+7.Bd3 O-O 8.Qh5 g6 9.Qh6 Re8+ 10.Ne2 Nd7 11.Be3 Nb6 12.O-O-O
+Nd5 13.Bd2 Bg4 14.Ng3 f5 15.f3 Bf8 16.Qxf8+ Kxf8 17.fxg4 f4
+18.Ne4 Ne3 19.Rdg1 Qd5 20.Nf6 Qxa2 21.Nxe8 Qa1+ 22.Bb1 Nc4 0-1

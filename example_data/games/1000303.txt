@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "Vasilios Kotronias"]
+[Black "Ylon Schwartz"]
+[ECO "B60"]
+[WhiteElo "2639"]
+[BlackElo "2366"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5
+Bd7 7. Be2 a6 8. Bxf6 gxf6 9. Nf5 Qa5 10. O-O Bxf5 11. exf5
+Qxf5 12. Nd5 Kd8 13. Bg4 Qg6 14. Bh5 Qg7 15. Re1 e6 16. Nf4
+Kd7 17. c4 Rd8 18. b4 Qg5 19. a3 Ne5 20. Bxf7 Nxf7 21. Nxe6
+Qf5 22. Qa4+ Kc8 23. b5 Ne5 24. bxa6 Qxe6 25. axb7+ Kc7
+26. Qa5+ Kd7 27. Qxd8+ Kxd8 28. b8=Q+ Qc8 29. Rab1 Nd7 30. Qa7
+h5 31. Rb7 Rh7 32. Reb1 32... h4 1-0

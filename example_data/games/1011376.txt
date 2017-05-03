@@ -1,0 +1,21 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Stephen R Burns-Mannion"]
+[Black "Ketevan Arakhamia-Grant"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7
+7. N1c3 a6 8. Na3 f5 9. exf5 Bxf5 10. Bd3 Be6 11. O-O Nf6
+12. Nc2 O-O 13. Qe2 Rc8 14. Bg5 Ng4 15. Bxe7 Qxe7 16. Nd5 Qh4
+17. h3 Nf6 18. Rad1 Bxd5 19. cxd5 Ne7 20. f4 Nd7 21. fxe5 Nxe5
+22. Qe4 Rxf1+ 23. Rxf1 Qxe4 24. Bxe4 Nc4 25. Re1 Nxb2 26. Nd4
+g6 27. Bf3 Rc7 28. Ne6 Rc4 29. Rb1 Rb4 30. Rf1 h5 31. Be2 Nxd5
+32. Rf8+ Kh7 33. Rf7+ Kh6 34. Bf3 Ne3 35. Rf8 g5 36. Rf6+ Kh7
+37. Bxh5 Nd5 38. Rf7+ Kh6 39. Bf3 Nf4 40. Nf8 g4 41. h4 1-0

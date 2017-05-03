@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.21"]
+[EventDate "1900.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "M Didier"]
+[Black "Jackson Whipps Showalter"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Bb4 5.d3 d6 6.O-O O-O 7.Ne2
+Ne7 8.c3 Ba5 9.Ng3 Ng6 10.Bg5 h6 11.Bd2 c6 12.Ba4 Bb6 13.d4
+Bg4 14.h3 Bxf3 15.Qxf3 exd4 16.Nf5 Ne5 17.Qg3 Nh5 18.Qh2 Nc4
+19.Bc1 dxc3 20.bxc3 d5 21.Bd1 Bc7 22.f4 g6 23.Nxh6+ Kh7 24.Nf5
+gxf5 25.Bxh5 fxe4 26.g4 Qh4 27.Qg2 e3 28.Rb1 Bb6 29.Rxb6 axb6
+30.Qc2+ f5 31.Kh2 Kh6 32.Rf3 Qe1 33.gxf5 Kxh5 34.f6 Rxa2
+35.Qxa2 Rg8 36.Bxe3 Nxe3 37.Qf2 Rg2+ 38.Qxg2 Nxg2 39.Kxg2 Kg6
+0-1

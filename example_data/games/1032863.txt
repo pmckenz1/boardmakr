@@ -1,0 +1,21 @@
+[Event "ARG-ch Juniors 22nd"]
+[Site "Buenos Aires ARG"]
+[Date "1976.02.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Guillermo Soppe"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. O-O Nf6 6. Re1 Bg4
+7. c3 O-O 8. Bb3 h6 9. h3 Bxf3 10. gxf3 Nh5 11. f4 Nxf4
+12. Bxf4 exf4 13. Qg4 Bg5 14. Nd2 Qc8 15. Qh5 Ne7 16. Kh2 g6
+17. Qf3 Kh8 18. Rg1 c6 19. h4 Bxh4 20. Qxf4 Bg5 21. Rxg5 hxg5
+22. Qf6+ Kg8 23. Qxe7 Qd8 24. Qxd8 Raxd8 25. Rg1 Kg7 26. Rxg5
+f5 27. exf5 Rxf5 28. Rxf5 gxf5 29. Kg3 Kf6 30. Nc4 d5 31. Ne3
+Kg5 32. f4+ Kf6 33. Bc2 Re8 34. Kf3 Rh8 35. Bxf5 Rh1 36. Bc8
+Rb1 37. Bxb7 Rxb2 38. Nxd5+ 1-0

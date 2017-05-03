@@ -1,0 +1,19 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Susan Arkell Lalic"]
+[Black "Ketino Kachiani-Gersinska"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a5
+7. Nc3 Qf6 8. Qe2 Nb4 9. Nd5 Nxd5 10. exd5+ Ne7 11. h4 h6
+12. Rh3 d6 13. Rf3 Qg6 14. Rg3 Qh7 15. Be3 O-O 16. Bxb6 Nf5
+17. Bd4 Nxg3 18. fxg3 Qg6 19. Kf2 Bg4 20. Qd2 Qf5+ 21. Kg1
+Qxd5 22. Qc3 Qc6 23. Bxg7 Qxc3 24. Bxc3 b6 25. Bb5 c5 26. Bf6
+Ra7 27. Re1 Be6 28. c4 d5 29. cxd5 Bxd5 30. Re5 1-0

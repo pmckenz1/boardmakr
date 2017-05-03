@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.28"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Carlos Silva Sanchez"]
+[Black "Andras Adorjan"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O
+Be7 8.f4 Qc7 9.Kh1 O-O 10.a4 Rd8 11.Be3 b6 12.Bf3 Bb7 13.Bf2
+Nbd7 14.Bh4 Ne5 15.Qe1 Nxf3 16.Rxf3 Re8 17.Rd1 Nxe4 18.Bxe7
+Nxc3 19.Qxc3 Rxe7 20.Rg3 Qxc3 21.Rxc3 g6 22.Nc6 Rc7 23.Rxd6 b5
+24.a5 Kf8 25.Ne5 Rac8 26.Rb6 Rxc3 27.bxc3 Bd5 28.c4 Bxc4
+29.Rxa6 Bd5 30.Ra7 Rxc2 31.Rxf7+ Kg8 32.Kg1 b4 33.a6 b3 34.Rb7
+b2 35.Rb8+ Kg7 0-1

@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1929.09.02"]
+[EventDate "1929.09.01"]
+[Round "2"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Johannes Hendrik Otto van den Bosch"]
+[ECO "D04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 Bf5 4.c4 e6 5.Qb3 Qc8 6.Nc3 c6 7.Bd2
+Nbd7 8.Rc1 Be7 9.cxd5 exd5 10.Be2 O-O 11.O-O Qb8 12.Na4 b5
+13.Nc3 a6 14.Nb1 Qd6 15.a3 c5 16.dxc5 Nxc5 17.Qd1 Rac8 18.Nd4
+Bg6 19.Bb4 Qd7 20.Nc3 Nce4 21.Nxe4 Nxe4 22.Bxe7 Rxc1 23.Qxc1
+Rc8 24.Qe1 Qxe7 25.Bg4 Rc5 26.Qa5 h5 27.Be2 Qf6 28.a4 Rc1
+29.f3 Qg5 30.f4 Rxf1+ 31.Bxf1 Qh4 32.g3 Qe7 33.Qe1 bxa4 34.f5
+Bh7 35.Bd3 Qe5 36.Bxa6 Bxf5 37.Bb5 Ng5 38.Bf1 Nh3+ 39.Kh1 Be4+
+40.Bg2 Bxg2+ 41.Kxg2 Ng5 42.Qe2 Qe4+ 43.Kf2 Nh3+ 44.Ke1 Ng1
+45.Qd2 Qxd4 46.exd4 Nf3+ 47.Ke2 Nxd2 48.Kxd2 f5 49.Ke3 Kf7
+50.Kf4 Kf6 51.Kf3 g5 52.Kf2 g4 0-1

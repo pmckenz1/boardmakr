@@ -1,0 +1,23 @@
+[Event "USSR Championship"]
+[Site "Leningrad (RUS)"]
+[Date "1963.12.16"]
+[EventDate "1963.??.??"]
+[Round "14"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Iivo Nei"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O d6 5.c3 Bb6 6.d4 Qe7 7.h3
+Nf6 8.Re1 O-O 9.Bg5 h6 10.Bh4 Kh7 11.Bd3 Kh8 12.d5 Nb8 13.Nfd2
+g5 14.Bg3 h5 15.Nc4 h4 16.Nxb6 axb6 17.Bh2 g4 18.Qc1 Rg8
+19.hxg4 Bxg4 20.Be2 Rg6 21.Qe3 Nbd7 22.Nd2 Rag8 23.Kh1 Bxe2
+24.Qxe2 Rxg2 25.Rg1 R2g6 26.Nc4 Nc5 27.f3 Nh5 28.Ne3 Rxg1+
+29.Rxg1 Rxg1+ 30.Kxg1 Qg5+ 31.Kh1 Ng7 32.Bg1 Nd7 33.Qh2 Nf8
+34.Bf2 Ng6 35.Qh3 Kh7 36.Qd7 Qf4 37.Kg2 Qg5+ 38.Kh2 Qf4+
+39.Kg2 Nh5 40.Nf5 h3 41.Kf1 Qc1+ 42.Be1 Nh8 43.Qe7 Qf4 44.Kf2
+h2 45.Kg2 Qxf3+ 46.Kxf3 h1=Q+ 47.Kf2 Qxe4 48.Ne3+ Nf4 49.Bd2
+Qh1 50.Qxc7 Qh2+ 51.Kf3 Qxd2 52.Qxd6 Nhg6 53.Qd7 e4 0-1

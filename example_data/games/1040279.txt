@@ -1,0 +1,23 @@
+[Event "NY it"]
+[Site "NY it"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Calvin Blocker"]
+[Black "Roman Dzindzichashvili"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.e4 Nxc3 5.dxc3 Qxd1+ 6.Kxd1 e5
+7.Be3 Be6 8.Nf3 f6 9.Nd2 Nd7 10.Bc4 Bxc4 11.Nxc4 b5 12.Na5 Bc5
+13.Ke2 Bb6 14.Nc6 Bxe3 15.Kxe3 a5 16.b4 axb4 17.cxb4 Ra3+
+18.Ke2 Nf8 19.Rhd1 Ne6 20.Kf1 Rf8 21.Rac1 Rf7 22.Rc2 Rd7
+23.Rdc1 g5 24.h3 h5 25.Re1 Rdd3 26.Rec1 g4 27.h4 g3 28.fxg3
+Rxg3 29.Rf2 Rac3 30.Rxc3 Rxc3 31.Na7 Nf4 32.Rd2 c5 33.Nxb5
+Rc1+ 34.Kf2 cxb4 35.g3 Ne6 36.Rb2 Nc5 37.Kg2 Nxe4 38.Rxb4 f5
+39.a4 Kd7 40.Rb3 Rc2+ 41.Kg1 Nd2 42.Rd3+ Ke7 43.Rc3 Rb2
+44.Rc7+ Ke6 45.Rc6+ Kd5 46.Rh6 Ke4 47.Rc6 Kf3 48.Rc3+ Kg4
+49.Nd6 Ra2 50.Rc8 Nf3+ 51.Kf1 Nd4 52.Rg8+ Kf3 53.Ke1 e4 0-1

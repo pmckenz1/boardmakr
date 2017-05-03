@@ -1,0 +1,24 @@
+[Event "10s, Casablanca Zaragoza"]
+[Site "Zaragoza ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Patrice Etchegaray"]
+[Black "Fernando Braga"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 g6 4. Bd3 Bg7 5. Nbd2 O-O 6. O-O
+Nbd7 7. e4 c5 8. e5 Nh5 9. c3 Nf4 10. Bc2 f6 11. exf6 Bxf6
+12. Nb3 Bg7 13. dxc5 e6 14. Re1 Qc7 15. Bxf4 Qxf4 16. Rxe6 Nf6
+17. Re3 Kh8 18. g3 Qc7 19. Ne5 b6 20. cxb6 axb6 21. f4 Bb7
+22. Nd4 Rae8 23. Qe2 Ne4 24. Nef3 Qc8 25. Re1 h6 26. Nh4 Kh7
+27. Bb3 Bf6 28. Nhf3 g5 29. fxg5 hxg5 30. Nd2 Kg7 31. Nxe4
+dxe4 32. Qc4 Qxc4 33. Bxc4 Bxd4 34. cxd4 Rd8 35. d5 Bxd5
+36. Bxd5 Rxd5 37. Rxe4 Rd2 38. R4e2 Rfd8 39. Rf2 R8d6 40. Re7+
+Kg6 41. Re6+ Rxe6 42. Rxd2 Kf5 43. Rf2+ Kg4 44. Kg2 Rd6
+45. h3+ Kh5 46. Re2 b5 47. Kf3 Rd8 48. Re6 Rd3+ 49. Re3 Rd5
+50. Ke4 Rc5 51. Rb3 g4 52. h4 Kg6 53. Kf4 1-0

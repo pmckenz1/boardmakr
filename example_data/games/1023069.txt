@@ -1,0 +1,21 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Oleg Romanishin"]
+[Black "Vladimir Bagirov"]
+[ECO "B11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bh5 5.exd5 cxd5 6.Bb5+ Nc6
+7.g4 Bg6 8.Ne5 Rc8 9.d4 e6 10.Qe2 Bb4 11.h4 Ne7 12.h5 Be4
+13.O-O Bxc3 14.bxc3 a6 15.Nxc6 Nxc6 16.Bxc6+ Rxc6 17.f3 Rxc3
+18.Bd2 Rxc2 19.fxe4 dxe4 20.Rad1 Qxd4+ 21.Be3 Qb2 22.Rd2 Rxd2
+23.Qxd2 Qxd2 24.Bxd2 O-O 25.g5 h6 26.gxh6 Rd8 27.Rf2 gxh6
+28.Rg2+ Kh7 29.Bc3 e5 30.Bxe5 Rd1+ 31.Kf2 Rd5 32.Bb2 Rg5
+33.Rh2 f5 34.Bf6 Rg8 35.Rg2 b5 36.Rxg8 Kxg8 37.Ke3 Kf7 38.Bc3
+Ke6 39.Kf4 Kd5 40.Kxf5 e3 41.Be1 1-0

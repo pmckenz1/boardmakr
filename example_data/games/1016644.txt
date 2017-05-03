@@ -1,0 +1,20 @@
+[Event "Debrecen (Hungary)"]
+[Site "Debrecen (Hungary)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Iossif Davidovich Dorfman"]
+[Black "Andras Adorjan"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 c5 7.e4
+cxd4 8.e5 Ne4 9.O-O Nxd2 10.Bxd2 Bc5 11.b4 Be7 12.b5 d3 13.Bc3
+a6 14.Qxd3 axb5 15.cxb5 Ra3 16.Nd2 Qc7 17.Nc4 Bxg2 18.Kxg2 Ra4
+19.Nd6+ Bxd6 20.exd6 Qb7+ 21.Kg1 O-O 22.a3 Rg4 23.f4 h5
+24.Rac1 Rg6 25.Be5 h4 26.a4 Qa8 27.Rc4 Re8 28.Qf3 Qd5 29.Rc2
+hxg3 30.hxg3 f6 31.Qxd5 exd5 32.f5 Rg5 33.Bf4 Rxf5 34.g4 Rxf4
+35.Rxf4 Kf7 36.Rd4 Rh8 37.Rxd5 Ke6 38.Rd3 Ke5 39.Kg2 1-0

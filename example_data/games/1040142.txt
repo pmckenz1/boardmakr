@@ -1,0 +1,17 @@
+[Event "Buenos Aires (Clarin)"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.25"]
+[EventDate "1978.11.14"]
+[Round "9"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Eugenio Torre"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.Nf3 c5 2.c4 g6 3.d4 Bg7 4.e4 Nc6 5.d5 Nd4 6.Nxd4 cxd4 7.Na3
+Qb6 8.Bd3 d6 9.c5 Qxc5 10.Bb5+ Kf8 11.O-O Nf6 12.Bd3 Ng4
+13.Nc4 Ne5 14.Nxe5 Bxe5 15.Bh6+ Bg7 16.Qd2 Qb6 17.a4 a5 18.Bb5
+e5 19.Qg5 Kg8 20.Qe7 Bd7 21.Bxg7 1-0

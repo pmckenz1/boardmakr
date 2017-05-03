@@ -1,0 +1,19 @@
+[Event "14, Beverwijk"]
+[Site "Beverwijk NED"]
+[Date "1965.01.23"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Heinz Lehmann"]
+[Black "Vladimir Bagirov"]
+[ECO "D16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.c4 Nf6 2.Nf3 c6 3.d4 d5 4.Nc3 dxc4 5.a4 Na6 6.e4 Bg4 7.Bxc4
+e6 8.Be2 Nb4 9.O-O Be7 10.Be3 O-O 11.a5 c5 12.dxc5 Qxd1
+13.Raxd1 Rfc8 14.e5 Nfd5 15.Nxd5 Nxd5 16.b4 Nxb4 17.Rd4 Bxf3
+18.Bxf3 Bxc5 19.Rd7 Nd5 20.Bxd5 exd5 21.Rxb7 d4 22.Bf4 Rc6
+23.Rc1 Rac8 24.Kf1 h6 25.Ke2 d3 26.Kxd3 Bxf2 27.Rxc6 Rxc6
+28.Be3 Bxe3 29.Kxe3 Ra6 30.Rb5 1/2-1/2

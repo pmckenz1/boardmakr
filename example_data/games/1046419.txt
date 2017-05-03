@@ -1,0 +1,23 @@
+[Event "CZE-chT 9394"]
+[Site "CZE-chT 9394"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Jan Votava"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. a4 Na6
+7. Be2 Nb4 8. O-O e6 9. d6 Ne8 10. a5 Nc6 11. Be3 Nxa5
+12. Bxc5 b6 13. Ba3 Bb7 14. Qd3 f5 15. exf5 gxf5 16. Nd4 Nf6
+17. Bf3 Qc8 18. Ndb5 Bxf3 19. Qxf3 Qc4 20. b3 Qh4 21. Bc1 Ng4
+22. h3 Ne5 23. Qf4 Qxf4 24. Bxf4 Nf7 25. b4 Nc4 26. Ra6 Ncxd6
+27. Nxd6 Bxc3 28. Nb5 Bxb4 29. Rd1 e5 30. Bc1 Rac8 31. c3 Bxc3
+32. Ba3 d6 33. Rxa7 Rfd8 34. Rc1 Bd4 35. Rxc8 Rxc8 36. Rxf7
+Bxf2+ 37. Kf1 Kxf7 38. Nxd6+ Ke6 39. Nxc8 Bc5 40. Bxc5 bxc5
+41. Ke2 Kd5 42. Ke3 f4+ 43. Kf3 c4 44. Nb6+ Kd4 45. Nxc4 Kxc4
+46. Ke4 1-0

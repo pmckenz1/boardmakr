@@ -1,0 +1,16 @@
+[Event "Sousse Interzonal"]
+[Site "Sousse TUN"]
+[Date "1967.10.16"]
+[EventDate "1967.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vlastimil Hort"]
+[Black "Istvan Bilek"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+c6 8.Be2 Be6 9.Qd3 Bg4 10.Be3 Nbd7 11.Rd1 Qa5 12.O-O Rfd8
+13.Qc2 Nb6 14.Ne5 Bxe2 15.Qxe2 Nfd7 16.Ng4 Nf6 17.Ne5 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Tibor Fogarasi"]
+[Black "Alexander Baburin"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.a4 a5
+8.O-O O-O 9.h3 Bf5 10.Qe2 d5 11.Nbd2 Na6 12.c3 c5 13.Nh4 Bd7
+14.f4 e6 15.Nhf3 Qe8 16.Qd1 Rc8 17.Rf2 cxd4 18.cxd4 Bxa4
+19.Bxa4 Nxa4 20.Rf1 b5 21.Nb3 Qd8 22.Nxa5 Qxa5 23.b3 N6c5
+24.dxc5 Qc3 25.Qd4 Qxd4+ 26.Nxd4 Nxc5 27.Ba3 Rfd8 28.b4 Ne4
+29.Nxb5 Bf8 30.Rfc1 Rxc1+ 31.Rxc1 Rb8 32.Nd4 Bxb4 33.Rb1 Bd6
+34.Rxb8+ Bxb8 35.h4 Ba7 36.Bb2 Ng3 37.Kh2 Bxd4 38.Bxd4 Ne2
+39.Be3 d4 40.Bd2 d3 0-1

@@ -1,0 +1,16 @@
+[Event "Botvinnik - Smyslov World Championship Rematch"]
+[Site "7"]
+[Date "1958.03.22"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Vasily Smyslov"]
+[Black "Mikhail Botvinnik"]
+[ECO "B58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3
+Bg7 8.h4 O-O 9.h5 d5 10.hxg6 fxg6 11.exd5 Nxd5 12.Nxd5 Qxd5
+13.Bf3 Qc4 14.c3 Nxd4 15.cxd4 Be6 16.Qb3 1/2-1/2

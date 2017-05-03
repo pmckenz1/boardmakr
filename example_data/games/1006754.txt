@@ -1,0 +1,21 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.06"]
+[EventDate "1920.08.02"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Sven Johan Bjurulf"]
+[Black "T C Jensen"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d5 2.Nf3 e6 3.c4 c5 4.g3 Nc6 5.Bg2 dxc4 6.Be3 cxd4 7.Nxd4
+Bb4+ 8.Nc3 Nge7 9.O-O Bxc3 10.bxc3 O-O 11.Qa4 Nxd4 12.Bxd4 Qc7
+13.Rab1 Nf5 14.Rfd1 Bd7 15.Qb4 Bc6 16.Qxc4 Nxd4 17.Rxd4 Rac8
+18.e4 a6 19.Rb3 Qa5 20.Qe2 Qg5 21.e5 Bxg2 22.Kxg2 Qe7 23.Rh4
+Rc7 24.Rbb4 f5 25.exf6 Rxf6 26.Qd3 h6 27.Rbd4 Rf8 28.Rhe4 Kh8
+29.c4 Kg8 30.Rd6 Rc6 31.Rd7 Qc5 32.f3 Rb6 33.Rg4 Rb2+ 34.Kh1
+Rf7 35.Rd8+ Rf8 36.Qg6 Rb1+ 37.Kg2 Rb2+ 38.Kh1 Rxh2+ 39.Kxh2
+Qf2+ 1/2-1/2

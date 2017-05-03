@@ -1,0 +1,22 @@
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "William Hartston"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 c5 8. Be3 O-O 9. Rc1 Qa5 10. Qd2 e6 11. d5 exd5
+12. exd5 Nd7 13. Bd3 b5 14. c4 Qxd2+ 15. Nxd2 bxc4 16. Bxc4
+Nb6 17. O-O Rd8 18. Bb3 Nxd5 19. Bg5 f6 20. Rxc5 Be6 21. Ne4
+Kf7 22. Re1 h6 23. Nxf6 Bxf6 24. Bxf6 Rdc8 25. Bd4 Rxc5
+26. Bxc5 a5 27. Rd1 Nf6 28. Bxe6+ Kxe6 29. h3 Ne4 30. Be3 h5
+31. Rc1 a4 32. f3 Nd6 33. Rc6 Kd7 34. Rc5 Nf5 35. Bf4 Re8
+36. Rc7+ Ke6 37. Ra7 Rc8 38. Rxa4 Rc2 39. Bg5 h4 40. Bxh4 Nxh4
+41. Rxh4 Rxa2 42. Rb4 1-0

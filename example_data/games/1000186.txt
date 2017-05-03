@@ -1,0 +1,24 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Jerome B Hanken"]
+[Black "Juan M Santa Torres"]
+[ECO "A20"]
+[WhiteElo "2200"]
+[BlackElo "2360"]
+[PlyCount "68"]
+
+1. c4 e5 2. g3 d6 3. Bg2 f5 4. e3 Nf6 5. Nc3 Be7 6. Nge2 O-O
+7. O-O c6 8. d4 Qe8 9. b3 Na6 10. Ba3 e4 11. Qd2 d5 12. cxd5
+cxd5 13. Bxe7 Qxe7 14. Nf4 Be6 15. Nxe6 Qxe6 16. Rfc1 Rf7
+17. Bf1 Nc7 18. Rc2 Qe8 19. Rac1 19... Ne6 {#} 20. Qe2 $2
+(20. Nb5 {I feared Ng4 but after 21. Qe2 leaves Black unable
+to save the Exchange! Therefor, it is impossible to keep White
+from penetrating on c7 and he gets a great end game!})
+20... a6 21. Na4 Nd7 22. Nc3 Nf6 23. Na4 Nd7 24. f4 Rd8
+25. Qd2 g5 26. Qa5 gxf4 27. gxf4 Rg7+ 28. Rg2 Rxg2+ 29. Bxg2
+Nf6 30. h3 Qe7 31. Qe1 Kh8 32. Nc5 Nxc5 33. Rxc5 Rg8 34. Kh2
+Qd8 1/2-1/2

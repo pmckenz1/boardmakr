@@ -1,0 +1,25 @@
+[Event "Taxco Interzonal"]
+[Site "Taxco de Alarcón MEX"]
+[Date "1985.06.20"]
+[EventDate "1985.06.10"]
+[Round "8"]
+[Result "1-0"]
+[White "Saeed-Ahmed Saeed"]
+[Black "Yuri Balashov"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 O-O 5.g3 d6 6.Bg2 Nbd7 7.O-O
+e5 8.e4 a6 9.Qc2 exd4 10.Nxd4 Ng4 11.Nde2 Nc5 12.b4 Ne6 13.Bb2
+Ne5 14.Nd5 c6 15.Ne3 Qb6 16.Bc3 f6 17.Rab1 Bh6 18.c5 dxc5
+19.Bxe5 fxe5 20.Nc4 Qa7 21.Nxe5 cxb4 22.Rxb4 Bg7 23.Nd3 c5
+24.Rbb1 b5 25.e5 Rb8 26.Bd5 Kh8 27.f4 Rd8 28.Bxe6 c4 29.Nf2
+Bxe6 30.Rbd1 Bf5 31.Qb2 Qc5 32.Rd4 Rxd4 33.Qxd4 Bf8 34.Rd1 b4
+35.e6 Qxd4 36.Nxd4 Rd8 37.g4 Bxg4 38.Nxg4 Bc5 39.Kf1 b3
+40.axb3 cxb3 41.Ne5 Re8 42.Nxb3 Be3 43.Nd3 Rxe6 44.Re1 Rb6
+45.Rxe3 Rxb3 46.Ke2 Rb7 47.Re5 Kg7 48.Ra5 Rb6 49.Kf3 h6 50.Ke4
+Rc6 51.Nc5 Kf7 52.h4 Rc7 53.Nd3 Ra7 54.Ne5+ Kg7 55.Rd5 a5
+56.Nc6 Rc7 57.Nxa5 Rc1 58.Rd7+ Kf6 59.Rd6+ Kg7 60.Nc6 Re1+
+61.Kf3 Rf1+ 62.Ke3 g5 63.fxg5 hxg5 64.hxg5 Rf5 65.Nd4 1-0

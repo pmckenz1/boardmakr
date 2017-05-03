@@ -1,0 +1,15 @@
+[Event "blind sim"]
+[Site "San Sebastian ESP"]
+[Date "1944.11.12"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "De Cassio"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Ne7 4. d3 Nbc6 5. Qh5 O-O 6. Bg5
+Qe8 7. Nf3 Ng6 8. Nd5 Bb6 9. Nf6+ gxf6 10. Bxf6 1-0

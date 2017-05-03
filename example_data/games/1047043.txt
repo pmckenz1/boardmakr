@@ -1,0 +1,24 @@
+[Event "Cup Russia"]
+[Site "St. Petersburg (Russia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Andrey Orlov"]
+[Black "Alisa Galliamova"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Bd2 Rb8 7.Qc1 b5
+8.h3 b4 9.Nd1 Nd4 10.f4 a5 11.c3 Nc6 12.Ne2 Ba6 13.Nf2 Qb6
+14.O-O f5 15.c4 Nf6 16.Be3 Bc8 17.Qd2 O-O 18.Kh2 e5 19.Rae1
+Rb7 20.Nd1 Re7 21.fxe5 Nxe5 22.exf5 Bxf5 23.Nf4 h5 24.b3 Kh7
+25.d4 cxd4 26.Bxd4 Qd8 27.Ne3 Bc8 28.Ned5 Nxd5 29.Bxd5 Ree8
+30.Qg2 Bh6 31.Bxe5 dxe5 32.Nd3 h4 33.Rxf8 Bxf8 34.Qf3 hxg3
+35.Kg2 Bg7 36.Qxg3 Bf5 37.Nf2 Qf6 38.Ne4 Bxe4+ 39.Rxe4 Bh6
+40.Re2 Rf8 41.Rf2 Bf4 42.Qg4 Kg7 43.c5 Qf5 44.c6 Rc8 45.Re2
+Kf6 46.Be4 Qxg4+ 47.hxg4 Ke7 48.Re1 Rh8 49.Rd1 g5 50.Rd7+ Ke6
+51.Bf5+ Kf6 52.c7 e4 53.Rh7 Rxh7 54.c8=Q Rh2+ 55.Kg1 Rd2
+56.Qe6+ Kg7 57.Qe7+ Kg8 58.Be6+ Kh8 59.Qf8+ Kh7 60.Bf5+ 1-0

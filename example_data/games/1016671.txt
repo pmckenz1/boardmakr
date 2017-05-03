@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Gilles Andruet"]
+[Black "Andras Adorjan"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 b5 6.cxb5 Bxb5 7.Bg2
+Bb4+ 8.Bd2 a5 9.O-O O-O 10.Re1 Bc6 11.Ne5 Bxg2 12.Kxg2 Qc8
+13.Qc2 c5 14.dxc5 Bxc5 15.Nf3 d5 16.Nc3 Bb4 17.Qb2 Qb7 18.a3
+Be7 19.Na4 Ne4 20.Be3 Nd7 21.Kg1 e5 22.Rec1 Bf6 23.Rc2 d4
+24.Bd2 Nxd2 25.Rxd2 d3 0-1

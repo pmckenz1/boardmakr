@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Louis Weltevreede"]
+[Black "Max Euwe"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6
+7. Be3 Be7 8. O-O O-O 9. Kh1 Bd7 10. f4 Qc7 11. Ncb5 Qb8
+12. Nc3 a6 13. Bf3 Qc7 14. g4 Kh8 15. Nce2 Rac8 16. c3 Na5
+17. g5 Ng8 18. Qc2 Nc4 19. Bc1 b5 20. Rg1 g6 21. Ng3 e5
+22. Nde2 f5 23. exf5 gxf5 24. fxe5 dxe5 25. h4 Bc6 26. Bxc6
+Qxc6+ 27. Kh2 Bc5 28. Rf1 Ne7 29. b3 f4 30. Ne4 Ne3 31. Bxe3
+Bxe3 32. Nf6 Rxf6 33. gxf6 Qxf6 34. Rh1 Qxh4+ 35. Kg2 Qg4+
+36. Kh2 Rg8 0-1

@@ -1,0 +1,26 @@
+[Event "New York op"]
+[Site "New York, NY USA"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Sidney Norman Bernstein"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.O-O Nf6 5.d4 d6 6.d5 Nb8 7.Bd3
+Nbd7 8.c4 Nc5 9.Nc3 Nxd3 10.Qxd3 Bg4 11.h3 Bh5 12.Rb1 a5 13.b3
+O-O 14.a3 Qd7 15.Nh2 c6 16.Bd2 Bg6 17.g4 cxd5 18.cxd5 Rfc8
+19.f3 Ne8 20.Nd1 Nc7 21.Ne3 Bd8 22.Nc4 Ra6 23.Be3 b5 24.Nd2
+Rca8 25.Rfc1 a4 26.b4 f6 27.Rc3 Rb8 28.Rbc1 Raa8 29.Rc6 Bf7
+30.Nhf1 g6 31.Ng3 Ne8 32.Kh2 Ng7 33.Rg1 Be8 34.Rgc1 Qe7
+35.R6c3 Qb7 36.Nb1 Rc8 37.Rxc8 Rxc8 38.Rxc8 Qxc8 39.Nc3 Bd7
+40.Nge2 Qb7 41.Kg2 f5 42.Ng1 h5 43.gxf5 gxf5 44.Nge2 f4 45.Bf2
+h4 46.Ng1 Nh5 47.Nge2 Kg7 48.Ng1 Kh6 49.Nge2 Bg5 50.Ng1 Ng3
+51.Be1 Kh5 52.Bf2 Bd8 53.Nge2 Be8 54.Ng1 Bc7 55.Nge2 Bb8
+56.Bg1 Qg7 57.Kh2 Ba7 58.Bxa7 Qxa7 59.Kg2 Qg7 60.Kf2 Nh1+
+61.Ke1 Qd7 62.Ng1 Qa7 63.Nge2 Qb6 64.Nd1 Qa7 65.Qc3 Kg5 66.Qc8
+Qd7 67.Qxd7 Bxd7 1/2-1/2

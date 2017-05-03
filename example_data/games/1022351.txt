@@ -1,0 +1,18 @@
+[Event "Berliner Sommer 9402"]
+[Site "Berliner Sommer 9402"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Ulf von Herman"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.cxd5 exd5 6.Qc2 Na6 7.a3
+Nc7 8.Bg5 Be7 9.e3 Ne6 10.Bxf6 Bxf6 11.Bd3 g6 12.O-O O-O 13.b4
+b6 14.b5 c5 15.Nxd5 cxd4 16.Be4 Bg7 17.Nb4 Bd7 18.Bxa8 Qxa8
+19.Qe2 Qe8 20.a4 Nf4 21.Qc4 Nxg2 22.Kxg2 Qe4 23.Qc7 dxe3
+24.Qxd7 Bxa1 25.Rxa1 Qxb4 26.Qd4 Qb3 27.Qxe3 1-0

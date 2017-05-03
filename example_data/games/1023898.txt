@@ -1,0 +1,21 @@
+[Event "Berliner Sommer"]
+[Site "Berliner Sommer"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Bernd Donner"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.b3 e5 2.Bb2 d6 3.g3 Nf6 4.Bg2 g6 5.c4 Bg7 6.Nf3 Nc6 7.d3 O-O
+8.O-O Re8 9.Nc3 Nd7 10.Nd2 Ne7 11.e4 Nc5 12.Qc2 f5 13.Rae1 g5
+14.exf5 Bxf5 15.Nde4 Ne6 16.Qd2 Nc6 17.Nd5 Rf8 18.b4 g4 19.f3
+gxf3 20.Rxf3 Ncd4 21.Rf2 c6 22.Ne3 Bg6 23.Rxf8+ Qxf8 24.Rf1
+Qe7 25.Bc1 Rf8 26.Qd1 Bh6 27.h4 Ng7 28.Rxf8+ Qxf8 29.Nf6+ Kh8
+30.Nfg4 Ngf5 31.Nxh6 Qxh6 32.Nxf5 Qxc1 33.Qxc1 Ne2+ 34.Kf1
+Nxc1 35.Nxd6 Bxd3+ 36.Ke1 Nxa2 37.Kd2 Nxb4 38.Kc3 a5 39.Nxb7
+e4 40.Nxa5 e3 41.Bf3 e2 42.Bxe2 1-0

@@ -1,0 +1,25 @@
+[Event "Montreal Internat"]
+[Site "09"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Henry Zurowski"]
+[Black "Lawrence Day"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Nc3 Nf6 5.Be2 O-O 6.O-O b6 7.Re1
+Bb7 8.Bf1 c5 9.d5 Na6 10.Bf4 Nc7 11.Qd2 Qd7 12.a4 a6 13.Rad1
+Rfe8 14.g3 b5 15.b3 b4 16.Nb1 Nxe4 17.Rxe4 Bxd5 18.Qe2 Qc6
+19.Re3 e5 20.Bg5 h6 21.Bh4 e4 22.Nfd2 g5 23.Bxg5 hxg5 24.c4
+bxc3 25.Nxc3 Be6 26.Ncxe4 g4 27.Bg2 d5 28.Ng5 Bf5 29.h3 gxh3
+30.Nxh3 Rxe3 31.Qxe3 Re8 32.Qf3 Qd7 33.Qf4 Bg4 34.Nf3 d4
+35.Re1 d3 36.Rxe8+ Nxe8 37.Kh2 Be6 38.Nd2 Qd6 39.Be4 Bc3
+40.Nb1 Bg7 41.Qxd6 Nxd6 42.Bxd3 Bxb3 43.Bxa6 Bxa4 44.Nd2 Bc2
+45.f4 Bc3 46.Nc4 Ne4 47.Kg2 Be1 48.g4 Bd3 49.Ng1 Nf6 50.Kf3
+Nd5 51.Ne2 Bh4 52.Nc1 Bf1 53.Nb3 Nc7 54.Nbd2 Bd3 55.Bb7 Bf6
+56.Ke3 Bc2 57.Be4 Bd4+ 58.Ke2 Ba4 59.g5 Ne6 60.Kf3 Bd1+ 61.Kg3
+Kg7 1/2-1/2

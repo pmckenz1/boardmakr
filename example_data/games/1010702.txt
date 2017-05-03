@@ -1,0 +1,20 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Evgeny Khaskelman"]
+[Black "Nikolai Nasikan"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Bb4 6. Bc4
+Qc7 7. Qb3 Ba5 8. O-O a6 9. g3 b5 10. Be2 Nc6 11. Bf4 Qd8
+12. e5 Nge7 13. Ne4 O-O 14. a4 Nd5 15. axb5 Nxf4 16. gxf4 Rb8
+17. Qa4 axb5 18. Bxb5 Bc7 19. Rfd1 Bb7 20. Nc5 Ra8 21. Qc4
+Rxa1 22. Rxa1 Ba8 23. Ng5 g6 24. Rxa8 Qxa8 25. Nxd7 Qa1+
+26. Kg2 Na7 27. Nxf8 Nxb5 28. Nfxh7 Qa5 29. Nf6+ Kh8 30. Qc6
+Kg7 31. Qe8 Qa8+ 32. Qxa8 Bxe5 33. Qg8+ 1-0

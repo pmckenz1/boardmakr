@@ -1,0 +1,17 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Jay McKeen"]
+[Black "Wesley Ward"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6
+7. Ndf3 Qb6 8. Ne2 cxd4 9. Nexd4 Nc5 10. b3 Bd7 11. Bb2 Rc8
+12. Bd3 Nxd4 13. Nxd4 Na4 14. Qd2 Nxb2 15. Qxb2 Rxc3 16. Kd2
+Qxd4 0-1

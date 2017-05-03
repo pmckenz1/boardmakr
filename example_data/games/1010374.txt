@@ -1,0 +1,16 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Venkatachalam Saravanan"]
+[Black "Praveen Mahadeo Thipsay"]
+[ECO "B48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6
+7. Qd2 Nf6 8. f3 b5 9. g4 d6 10. Nxc6 Qxc6 11. O-O-O Be7
+12. Ne2 Bb7 13. Nd4 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Prestwich UENGO"]
+[Site "01"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Gary Quillan"]
+[Black "Alisa Galliamova"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.e4 c5 2.Nf3 Nc6 3.b3 e5 4.Bb2 d6 5.Bb5 a6 6.Bxc6+ bxc6 7.O-O
+Nf6 8.Re1 Ra7 9.h3 g6 10.c3 Bg7 11.d4 Nd7 12.dxc5 Nxc5 13.Na3
+Be6 14.Qe2 O-O 15.Rad1 f5 16.exf5 Rxf5 17.c4 Qf8 18.Bc1 Raf7
+19.b4 Nb7 20.Ng5 Re7 21.Nxe6 Rxe6 22.Nc2 Ref6 23.Rf1 Rf7
+24.Ne3 Rf4 25.a4 a5 26.b5 cxb5 27.axb5 Nc5 28.Nd5 Re4 29.Qc2
+Bh6 30.Ba3 Rd4 31.Rxd4 exd4 32.Bxc5 dxc5 33.Qe4 a4 34.b6 Kh8
+35.Qc2 Qa8 36.Ra1 a3 37.Qb3 Qf8 38.Ra2 Bc1 39.Nc7 Bb2 40.Qg3
+Qb8 41.Qe5+ Kg8 42.Qxc5 d3 43.Qe3 d2 44.Qxd2 Qxb6 45.Nb5 Qc5
+46.Qe2 Re7 47.Qd2 Rf7 48.Qe2 Rf4 49.g3 Rxc4 50.Qe8+ Kg7
+51.Qd7+ Kh6 52.Qd2+ g5 53.Qd7 Rc1+ 54.Kg2 Qe5 55.Qd3 Qe6
+56.Nd6 Qxa2 57.Nf5+ Kg6 58.Nd4 Kf6 59.Nb3+ Re1 60.Qd6+ Re6
+61.Qf8+ Kg6 62.Qg8+ Kf6 63.Qf8+ Ke5 64.Qc5+ 1/2-1/2

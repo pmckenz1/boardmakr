@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Baden-Baden (Germany)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Hartmut Porth"]
+[Black "Gerardo F Barbero"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 Bg4 4.Nf3 e6 5.Be2 Nc6 6.h3 Bh5 7.Nbd2
+Bd6 8.c3 O-O 9.O-O Re8 10.Ne5 Bxe2 11.Qxe2 Nd7 12.Nxd7 Qxd7
+13.Bxd6 Qxd6 14.f4 Ne7 15.e4 c5 16.dxc5 Qxc5+ 17.Kh2 dxe4
+18.Nxe4 Qc7 19.g3 a6 20.c4 Nf5 21.Rfd1 e5 22.Qg4 Ne3 23.Nf6+
+Kh8 24.Qh4 h6 25.Nxe8 Qxc4 26.Rg1 Qc2+ 27.Kh1 Qe4+ 28.Kh2 Rc8
+29.Nc7+ Qc2+ 30.Kh1 Rxc7 31.Qd8+ Kh7 32.Rad1 Nxd1 33.Rxd1 Qe4+
+34.Kg1 Qe3+ 35.Kh1 Qf3+ 0-1

@@ -1,0 +1,21 @@
+[Event "SWIFT Blitz"]
+[Site "Brussels BEL"]
+[Date "1987.04.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Gennady Sosonko"]
+[Black "Eugenio Torre"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 c5 2.d5 d6 3.c4 e5 4.Nc3 Be7 5.e4 Bg5 6.Nf3 Bxc1 7.Qxc1
+Nh6 8.Be2 O-O 9.O-O f5 10.exf5 Bxf5 11.Ng5 Qe7 12.Bf3 Nd7
+13.Re1 Nf6 14.Be4 Nxe4 15.Ncxe4 Ng4 16.f3 Nf6 17.Nxf6+ gxf6
+18.Ne4 Kh8 19.Qh6 Rf7 20.Ng3 Bd7 21.f4 Rg8 22.fxe5 fxe5 23.Rf1
+Rg6 24.Rxf7 Qxf7 25.Qh4 Qf6 26.Qxf6+ Rxf6 27.Ne4 Rg6 28.Rf1
+Kg7 29.g3 b5 30.b3 a5 31.Kg2 b4 32.a3 bxa3 33.Ra1 Bf5 34.Nd2
+Rg4 35.Rxa3 Rd4 36.Nf1 Rd3 37.Rxa5 Rxb3 38.Ra6 Bd3 39.Ne3 Be4+
+40.Kf2 Rb2+ 1/2-1/2

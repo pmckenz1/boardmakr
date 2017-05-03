@@ -1,0 +1,20 @@
+[Event "Lvov zt"]
+[Site "Lvov zt"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Efim Geller"]
+[Black "Gennadi Kuzmin"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O Bg4 7.Be3
+Nc6 8.Qd2 e5 9.d5 Ne7 10.Rad1 Nd7 11.Ne1 Bxe2 12.Qxe2 f5 13.f4
+exf4 14.Bxf4 Bxc3 15.bxc3 fxe4 16.Qxe4 Nc5 17.Qc4 Qd7 18.Nd3
+Qa4 19.Qxa4 Nxa4 20.c4 Rae8 21.Rde1 Nf5 22.c5 Nc3 23.Rxe8 Rxe8
+24.g4 Nd4 25.cxd6 Nde2+ 26.Kh1 Nxf4 27.Nxf4 cxd6 28.Rf3 Rc8
+29.a3 b5 30.Kg1 a5 31.Kf1 b4 32.axb4 a4 33.Ne2 Nb5 34.Ke1 Rxc2
+35.Re3 a3 36.Re8+ Kf7 37.Ra8 a2 0-1

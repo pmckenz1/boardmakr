@@ -1,0 +1,19 @@
+[Event "Stockholm it, SWE"]
+[Site "Stockholm SWE"]
+[Date "1937.01.20"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Ernst Holm"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. e3 c6 6. Bd3 Bd6
+7. O-O O-O 8. e4 dxe4 9. Nxe4 Nxe4 10. Bxe4 Qc7 11. Qe2 Re8
+12. Re1 Nf8 13. Bd2 Bd7 14. Bc3 Rac8 15. Rad1 Ng6 16. Ne5 f5
+17. Bc2 Nxe5 18. dxe5 Be7 19. g4 Rf8 20. gxf5 exf5 21. e6 Be8
+22. Rd7 Qf4 23. Qe3 Qh4 24. Qg3 Qxg3+ 25. hxg3 Bf6 26. Bxf6
+Rxf6 27. Rxb7 c5 28. Rxa7 Bc6 29. Ba4 Be4 30. e7 1-0

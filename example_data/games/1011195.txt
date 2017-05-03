@@ -1,0 +1,18 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Artur Jakubiec"]
+[Black "Miroslav Grabarczyk"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3
+b5 7. c3 c5 8. Nc2 Ne7 9. d4 cxd4 10. cxd4 exd4 11. Nfxd4 c5
+12. Nb3 Qxd1 13. Rxd1 c4 14. Na5 Ng6 15. Be3 Be7 16. Nc6 Bf6
+17. Bd4 Bxd4 18. Rxd4 O-O 19. N2b4 Re8 20. a4 Bb7 21. axb5
+axb5 22. Rxa8 Rxa8 23. g3 f6 1/2-1/2

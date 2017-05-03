@@ -1,0 +1,21 @@
+[Event "Vinkovci"]
+[Site "Vinkovci CRO"]
+[Date "1995.04.17"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Davor Rogic"]
+[Black "Lubomir Ftacnik"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Be7 8. f4 O-O 9. Kh1 Nc6 10. Be3 Bd7 11. a4 Nxd4
+12. Qxd4 Bc6 13. Bf3 Nd7 14. a5 e5 15. Qd2 exf4 16. Bxf4 Ne5
+17. Nd5 Bxd5 18. Qxd5 Qc7 19. c3 Bf6 20. Be2 Rac8 21. Rfd1
+Rfd8 22. Ra4 Qe7 23. Qd2 Rc6 24. Rd4 h6 25. Rd5 Re8 26. Rxd6
+Nc4 27. Bxc4 Rxc4 28. e5 Bxe5 29. Rd7 Qe6 30. Bxe5 Qxe5 31. h3
+Re4 32. Qd5 Re1+ 33. Rxe1 Qxe1+ 34. Kh2 Qf2 35. Rd8 Qf4+
+36. Kh1 Qf2 1/2-1/2

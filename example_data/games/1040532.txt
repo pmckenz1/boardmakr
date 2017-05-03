@@ -1,0 +1,18 @@
+[Event "Ch USA"]
+[Site "Philadelphia (USA)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Roman Dzindzichashvili"]
+[Black "Mark Izrailovich Dvoretsky"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e6 2.d3 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.Re1
+d6 8.c3 e5 9.a3 O-O 10.b4 h6 11.bxc5 dxc5 12.c4 f5 13.Nc3 f4
+14.Nd5 g5 15.h3 g4 16.Nh4 h5 17.Bb2 f3 18.Bf1 Qd6 19.Qd2 Nxd5
+20.exd5 Bh6 21.Qxh6 Qxh6 22.dxc6 Re8 23.c7 Qd6 24.Re3 Qxc7
+25.Ng6 Qb6 0-1

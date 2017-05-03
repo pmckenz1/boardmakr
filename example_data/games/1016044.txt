@@ -1,0 +1,19 @@
+[Event "It (cat.10)"]
+[Site "Riga (Latvia)"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Alvis Vitolinsh"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.c4 e6 2.Nc3 Bb4 3.e4 c5 4.Nb5 d6 5.a3 Ba5 6.b4 a6 7.Qg4 Kf8
+8.bxa5 axb5 9.cxb5 e5 10.Qf3 Qxa5 11.Bc4 Nf6 12.Ne2 Nbd7
+13.Qb3 Qa4 14.Qd3 d5 15.Bxd5 Nxd5 16.Qxd5 Qxb5 17.Nc3 Qc6
+18.O-O Qxd5 19.Nxd5 b6 20.Rb1 Ba6 21.Re1 Rb8 22.a4 Bc4 23.Ba3
+Bxd5 24.exd5 Ra8 25.Rxb6 Nxb6 26.Bxc5+ Ke8 27.Bxb6 Kd7 28.Rxe5
+Rhb8 0-1

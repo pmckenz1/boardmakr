@@ -1,0 +1,17 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Goran Cechi"]
+[Black "Bojan Medak"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 c6 6. a4 Qb6
+7. Qd2 e5 8. dxe5 dxe5 9. fxe5 Ng4 10. Nf3 O-O 11. O-O-O Be6
+12. Nd4 Na6 13. Nxe6 fxe6 14. Bc4 Nc5 15. Rhf1 Bxe5 16. h3 Nf2
+17. Rde1 Ncxe4 18. Rxe4 Nxe4 19. Rxf8+ Rxf8 20. Nxe4 Qg1+ 0-1

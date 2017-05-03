@@ -1,0 +1,18 @@
+[Event "Westchester NY"]
+[Site "Westchester NY"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Jay R Bonin"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 Bb4+ 4.Bd2 a5 5.Nc3 Bxc3 6.Bxc3 Ne4
+7.Qc2 Nxc3 8.Qxc3 O-O 9.e4 d6 10.O-O-O Qe7 11.Bd3 Nd7 12.e5
+dxe5 13.dxe5 Nc5 14.Bc2 b6 15.Qe3 Bb7 16.Nd4 Rad8 17.f4 f5
+18.Rhg1 Rd7 19.g4 fxg4 20.Rxg4 Rfd8 21.f5 Kh8 22.Rf1 exf5
+23.Nxf5 Qe6 24.Rgf4 Nd3+ 25.Bxd3 Rxd3 26.Nd6 1-0

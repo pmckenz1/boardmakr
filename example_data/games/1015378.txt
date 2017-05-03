@@ -1,0 +1,23 @@
+[Event "Sakthi Madras (INA)"]
+[Site "Sakthi Madras (INA)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "N Sudhakar Babu"]
+[ECO "B71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.Nf3 d6 2.e4 c5 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 Nc6 7.Nxc6
+bxc6 8.e5 dxe5 9.Qxd8+ Kxd8 10.fxe5 Nd5 11.Bd2 Bg7 12.O-O-O
+Kc7 13.Nxd5+ cxd5 14.Ba5+ Kc6 15.c4 dxc4 16.Bxc4 Be6 17.Bxe6
+fxe6 18.Rhe1 Rhf8 19.Re2 Kb5 20.Bc3 Rad8 21.Rxd8 Rxd8 22.Kc2
+Kc6 23.b4 Rf8 24.Kb3 h5 25.Kc4 a6 26.a4 Rf1 27.b5 axb5 28.axb5
+Kb7 29.Bd4 Rc1+ 30.Kd3 Rd1+ 31.Ke4 Bh6 32.Ra2 Re1+ 33.Kf3 Rd1
+34.Bf2 Rd5 35.Ra7+ Kc8 36.b6 Rxe5 37.Rxe7 Rf5+ 38.Ke2 Re5+
+39.Kd3 Bf4 40.g3 Bg5 41.Rg7 Rf5 42.Bd4 Rd5 43.Rxg6 e5 44.Rxg5
+e4 45.Kxe4 Rxg5 46.Be3 Rg4+ 47.Bf4 Rg6 48.Bc7 Rf6 49.h3 Rf1
+50.g4 Rh1 51.g5 Rxh3 52.g6 Rh1 53.Kf5 Rg1 1/2-1/2

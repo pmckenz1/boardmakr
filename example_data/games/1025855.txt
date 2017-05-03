@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.19"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "L Quendro"]
+[Black "Gerardo F Barbero"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 b6 5.e4 Bxc3+ 6.bxc3 O-O
+7.Bd3 d6 8.e5 dxe5 9.dxe5 Ng4 10.Bxh7+ Kh8 11.Be4 c6 12.Ba3 f5
+13.Rd1 Qe8 14.Bxf8 Qxf8 15.Qe2 Nxe5 16.Nf3 Ng6 17.Ng5 1-0

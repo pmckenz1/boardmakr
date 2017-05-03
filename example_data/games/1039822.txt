@@ -1,0 +1,27 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.03.12"]
+[EventDate "1909.02.15"]
+[Round "19"]
+[Result "0-1"]
+[White "Jacques Mieses"]
+[Black "Oldrich Duras"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 {Notes by Lasker.} e5 2.Nc3 Bc5 3.g3 Nf6 4.Bg2 c6 {Here
+Black might very well play 4...d5. The slower line of play
+selected by Duras, is answered quite correctly on the part of
+Mieses by the isolation of the d-pawn.} 5.Nge2 d5 6.exd5 Nxd5
+7.Nxd5 cxd5 8.d4 exd4 9.Nxd4 O-O 10.O-O Bb6 11.Be3 Nc6 12.Qd2
+Ne5 13.b3 Bh3 14.Rad1 Bxg2 15.Kxg2 Rc8 16.Rfe1 {A regrettably
+gross blunder, which throws away the fruit of his consistent
+and logical play. 16.Ne2 would have been very strong; e.g.:
+16...Bxe3 (Ne4 would probably be a little better) 17.Qxe3 Nc6
+18.c4 Re8 19.Qf3 d4 20.Nf4. He should change the Black KB, in
+order to secure the position of the Knight at d4.} Ba5 17.b4
+Nc4 18.Qc1 Bxb4 19.c3 Ba3 20.Qc2 Qd7 21.Qb3 Bc5 22.Nc2 Qf5
+23.Bxc5 Rxc5 24.Re7 Na5 25.Qa3 b6 26.Ne3 Qc8 27.Rxa7 Rxc3
+28.Qd6 Rxe3 29.Qxb6 Nc4 30.Qb5 Re2 31.Kf1 Rfe8 32.Kg1 Qh3 0-1

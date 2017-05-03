@@ -1,0 +1,24 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.13"]
+[EventDate "1907.??.??"]
+[Round "18"]
+[Result "1-0"]
+[White "Georg Salwe"]
+[Black "Johann Nepomuk Berger"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Bc5 4. Nc3 Nc6 5. d3 d6 6. Be3 Bb6
+7. O-O O-O 8. h3 Be6 9. Bb3 Ne7 10. d4 Bxb3 11. axb3 Ng6
+12. Qd3 Qe7 13. Rfe1 c6 14. Na4 Nd7 15. c4 c5 16. dxc5 Nxc5
+17. Bxc5 Bxc5 18. g3 Qe6 19. Kg2 f5 20. Nxc5 dxc5 21. Qd5 Qxd5
+22. exd5 e4 23. Nd2 Ne5 24. f3 Nxf3 25. Nxf3 exf3+ 26. Kxf3
+Rf7 27. Re6 g6 28. Kf4 Rd7 29. Ke5 Kf7 30. Ra5 b6 31. Rxb6
+Re8+ 32. Re6 Rb8 33. Ra3 Rdb7 34. g4 fxg4 35. hxg4 Rxb3
+36. Rxa7+ R8b7 37. Rxb7+ Rxb7 38. d6 h5 39. gxh5 gxh5 40. Kd5
+Rxb2 41. Rh6 Rh2 42. Kxc5 Kg7 43. d7 Kxh6 44. d8=Q Ra2
+45. Qf6+ Kh7 46. Kb6 Rg2 47. c5 Rg6 48. Qxg6+ Kxg6 49. c6 Kf5
+50. c7 h4 51. c8=Q+ Kf4 52. Qh3 1-0

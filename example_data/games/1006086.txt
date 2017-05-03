@@ -1,0 +1,30 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "1-0"]
+[White "Einar Kristinn Einarsson"]
+[Black "Dagur Arngrimsson"]
+[ECO "E01"]
+[WhiteElo "2111"]
+[BlackElo "?"]
+[PlyCount "157"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. d4 Be7 5. Nc3 O-O 6. Nf3 c5
+7. cxd5 Nxd5 8. Nxd5 Qxd5 9. O-O Nc6 10. dxc5 Bxc5 11. Bf4 Rd8
+12. Qxd5 exd5 13. Rac1 Bd6 14. Be3 f6 15. Rfd1 Be6 16. Bc5
+Rac8 17. Bxd6 Rxd6 18. Rc5 b6 19. Rcc1 Rcd8 20. Nd4 Nxd4
+21. Rxd4 Kf7 22. b4 a6 23. Rc3 Ke7 24. a4 R8d7 25. Kf1 Kd8
+26. Ke1 Rc7 27. Rcd3 Rcd7 28. e4 Rc7 29. Kd2 Rdc6 30. exd5
+Rc2+ 31. Ke3 Bf5 32. d6 R7c4 33. Rxc4 Rxc4 34. Rd4 Rc3+
+35. Kd2 Rc2+ 36. Ke3 Rc3+ 37. Ke2 Rc2+ 38. Ke3 Rc3+ 39. Kf4
+Bd7 40. Bb7 Bxa4 41. Bxa6 g5+ 42. Kf5 Rf3+ 43. Ke6 Rxf2 44. h4
+h6 45. Kf7 f5 46. Kg6 gxh4 47. gxh4 f4 48. b5 Bc2+ 49. Kxh6 f3
+50. Bb7 Rf1 51. Bc6 Rd1 52. Rf4 Rxd6+ 53. Kg5 Bd3 54. Rxf3
+Rg6+ 55. Kh5 Rd6 56. Rf8+ Ke7 57. Re8+ Kf6 58. Kg4 Bf5+
+59. Kf4 Rd4+ 60. Ke3 Rxh4 61. Rb8 Ke5 62. Rxb6 Rh3+ 63. Kf2
+Be4 64. Bd7 Rh2+ 65. Ke3 Bf5 66. Bxf5 Kxf5 67. Kd4 Rd2+
+68. Kc5 Ke5 69. Rc6 Rb2 70. Kb6 Kd5 71. Rc1 Rb3 72. Ka6 Kd6
+73. b6 Rb2 74. Ka7 Ra2+ 75. Kb8 Kd7 76. Rc7+ Kd8 77. Ra7 Rb2
+78. b7 Rb3 79. Ka8 1-0

@@ -1,0 +1,25 @@
+[Event "6th Anglo-American Cable Match"]
+[Site "London ENG / New York USA"]
+[Date "1901.04.19"]
+[EventDate "1901.04.19"]
+[Round "1.1"]
+[Result "1-0"]
+[White "Harry Nelson Pillsbury"]
+[Black "Joseph Henry Blackburne"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 Bb4
+7.a3 Bxc3+ 8.Nxc3 d5 9.Bg5 d4 10.Ne2 Qa5+ 11.Bd2 Qb6 12.Ng3 h5
+13.Bd3 h4 14.Ne2 h3 15.g3 e5 16.Nc1 Be6 17.b4 Ne7 18.Rb1 Nc8
+19.Nb3 Bxb3 20.Rxb3 Nd6 21.Qe2 Kf8 22.O-O Re8 23.Rc1 Qc6 24.b5
+Qd7 25.c4 b6 26.c5 bxc5 27.Rxc5 Nb7 28.Rc2 Rc8 29.Rbb2 Kg8
+30.Rxc8+ Qxc8 31.Rc2 Qd7 32.a4 Kh7 33.Bb4 Rc8 34.f3 Ne8
+35.Rxc8 Qxc8 36.Qc2 Qxc2 37.Bxc2 Nc7 38.Bd3 Ne6 39.a5 Nbc5
+40.Bc4 Kg6 41.b6 axb6 42.axb6 Nb7 43.Bd5 Nec5 44.Kf1 f5
+45.Bxc5 Nxc5 46.b7 Na6 47.Be6 fxe4 48.fxe4 Kf6 49.Bxh3 Ke7
+50.Kf2 Kd6 51.Bf1 Nb8 52.Bc4 Kc7 53.Bd5 Nd7 54.h4 Nf6 55.Kf3
+Kb8 56.g4 Kc7 57.g5 Nh5 58.Bf7 Nf4 59.h5 g6 60.h6 Nh3 61.Kg4
+Nf2+ 62.Kh4 1-0

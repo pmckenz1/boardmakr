@@ -1,0 +1,19 @@
+[Event "Kischinev"]
+[Site "Kischinev"]
+[Date "1964.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Anatoly A Kudriashov"]
+[Black "Vladimir Bagirov"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d4
+Nxd4 8.Bxf7+ Kxf7 9.Nxe5+ Kg8 10.Qxd4 c5 11.Qd1 Qe7 12.Nf3
+Qxe4 13.Nc3 Qg6 14.Bg5 Rd8 15.Bh4 d5 16.Ne5 Qf5 17.f4 d4
+18.Ne2 Qh5 19.Qe1 Be7 20.Ng3 Qxh4 21.Nf3 Qxf4 22.Qe6+ Kf8
+23.Ne5 Qe3+ 24.Kh1 Bd5 25.Qf5 g6 26.Nd7+ Kg7 27.Nh5+ Nxh5
+28.Qxd5 Nf6 29.Qc6 Nxd7 0-1

@@ -1,0 +1,24 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Viark"]
+[Black "Aivars Gipslis"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 d6 2.c4 e5 3.dxe5 dxe5 4.Qxd8+ Kxd8 5.g3 Be6 6.Bg2 c6
+7.Nf3 f6 8.Nbd2 Nd7 9.O-O Nb6 10.b3 a5 11.Ne4 Kc7 12.Be3 Ne7
+13.Nc5 Bc8 14.Ne4 Nf5 15.Bd2 Bb4 16.Bxb4 axb4 17.Rfd1 Ra5
+18.Ne1 Be6 19.e3 Rha8 20.Nd3 Rxa2 21.Rxa2 Rxa2 22.Nec5 Bc8
+23.Nxb4 Ra5 24.Ne4 Ra3 25.Nc5 Ne7 26.Kf1 Bg4 27.f3 Bf5 28.e4
+Nd7 29.Nc2 Ra2 30.Nb4 Ra7 31.Nbd3 Nxc5 32.Nxc5 b6 33.Nd3 Be6
+34.f4 Bg4 35.Rd2 exf4 36.gxf4 Ra3 37.Rb2 Bd1 38.c5 b5 39.Kf2
+Bxb3 40.e5 Bd5 41.exf6 gxf6 42.Nb4 Bxg2 43.Kxg2 Ng6 44.f5 Ne5
+45.Rd2 Rb3 46.Rd4 Nc4 47.Nd3 Ne3+ 48.Kf2 Nxf5 49.Rf4 Rxd3
+50.Rxf5 Rd5 51.Rxf6 Rxc5 52.Rf7+ Kb6 53.Rxh7 b4 54.Rh8 Kb5
+55.h4 b3 56.Ke2 Kc4 57.Kd2 0-1

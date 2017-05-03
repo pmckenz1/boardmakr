@@ -1,0 +1,27 @@
+[Event "Cup World (open)"]
+[Site "Palma de Majorca (Spain)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lluis Comas Fabrego"]
+[Black "Istvan Bilek"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 f5 5.exf5 Bxf5 6.Bd3 Bxd4
+7.Bxf5 Bxc3+ 8.bxc3 gxf5 9.Qh5+ Kd7 10.Qxf5+ e6 11.Qh3 Qf6
+12.Ne2 Ne7 13.O-O Nbc6 14.c5 Qf5 15.Qxf5 Nxf5 16.Rb1 b6
+17.cxd6 cxd6 18.Rd1 Rac8 19.Kf1 Rhg8 20.Rb5 Na5 21.h3 d5
+22.Rb4 Nc4 23.Nf4 Nfd6 24.f3 Rcf8 25.Kf2 Rf7 26.Re1 Re8 27.Kg1
+Ref8 28.Nd3 Rf5 29.Bh6 R8f6 30.Bc1 e5 31.Nb2 Kc6 32.Nxc4 Nxc4
+33.Rb1 Rf7 34.Kh2 Rd7 35.h4 Re7 36.Bg5 Ref7 37.Rbd1 Rf8 38.Bc1
+R8f7 39.Rd3 Rf8 40.Kh3 R8f7 41.Red1 Rd7 42.g4 Rf8 43.h5 b5
+44.g5 Rdf7 45.Kh4 e4 46.fxe4 dxe4 47.Rd8 Rxd8 48.Rxd8 Rf1
+49.g6 hxg6 50.hxg6 Rg1 51.Bg5 Ne5 52.g7 Nf3+ 53.Kh5 Rxg5+
+54.Kh6 Kc5 55.g8=Q Rxg8 56.Rxg8 Kc4 57.Re8 Kd3 58.Kh5 e3
+59.Kg4 Nd2 60.Kg3 a5 61.Rb8 e2 62.Kf2 Ne4+ 63.Ke1 Nxc3 64.Ra8
+a4 65.a3 Kc2 66.Rc8 Kb2 67.Rc5 Kb3 68.Rc8 Nb1 69.Kxe2 Nxa3
+70.Kd1 Nb1 0-1

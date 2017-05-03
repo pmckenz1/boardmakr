@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "1-0"]
+[White "Julen Luis Arizmendi Martinez"]
+[Black "Johann Ragnarsson"]
+[ECO "B12"]
+[WhiteElo "2445"]
+[BlackElo "2129"]
+[PlyCount "73"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6
+7. Nf4 Bf7 8. Qe2 Qe7 9. Nd3 Nd7 10. h4 h5 11. g5 f5 12. g6
+Bxg6 13. Bg5 Qf7 14. Nf4 Bb4 15. a3 Ba5 16. Qe3 Nh6 17. f3 Ng8
+18. b4 Bc7 19. Na4 Ne7 20. c4 Bh7 21. Rg1 Ng6 22. cxd5 Nxf4
+23. Bxf4 cxd5 24. Nc3 Rc8 25. Nxd5 O-O 26. Bh6 Bg6 27. Rxg6
+Bd8 28. Nf4 Bxh4+ 29. Kd2 Nb6 30. Rxg7+ Qxg7 31. Bxg7 Kxg7
+32. Qg1+ Kf7 33. Qg6+ Ke7 34. Qxe6+ Kd8 35. Ng6 Bg5+ 36. f4
+Bh4 37. Nxf8 1-0

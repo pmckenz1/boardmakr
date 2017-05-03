@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.08"]
+[EventDate "2000.04.05"]
+[Round "4"]
+[Result "0-1"]
+[White "Hendrik Marks"]
+[Black "Oskar Bjarnason"]
+[ECO "D02"]
+[WhiteElo "2085"]
+[BlackElo "2218"]
+[PlyCount "70"]
+
+1. d4 d5 2. Nf3 c6 3. g3 Bg4 4. Nbd2 e6 5. Bg2 Nf6 6. O-O Nbd7
+7. b3 Be7 8. Bb2 O-O 9. c4 a5 10. a3 b5 11. Ne5 Nxe5 12. dxe5
+Nd7 13. h3 Bh5 14. g4 Bg6 15. cxb5 cxb5 16. e4 dxe4 17. Nxe4
+Bxe4 18. Bxe4 Rc8 19. Qe2 Nc5 20. Rad1 Qc7 21. Bb1 Qb7 22. Rd4
+Rfd8 23. Rfd1 Rxd4 24. Rxd4 g6 25. Qe3 Qc7 26. h4 a4 27. h5
+Nxb3 28. Rf4 Bg5 29. hxg6 fxg6 30. Rf8+ Rxf8 31. Qxg5 Qc5
+32. Qh4 Nd2 33. Ba2 Nf3+ 34. Kh1 Nxh4 35. Bxe6+ Kg7 0-1

@@ -1,0 +1,17 @@
+[Event "Portugal"]
+[Site "Portugal"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Adrian Mikhalchishin"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7 6.Qb3 Nc6
+7.Bxc6+ bxc6 8.Nf3 f6 9.d3 e5 10.Be3 Ne6 11.Rc1 Nd4 12.Bxd4
+cxd4 13.Ne4 Bd7 14.O-O Rb8 15.Qa4 Qc7 16.Nfd2 Be7 17.Nb3 Rb4
+1/2-1/2

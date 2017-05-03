@@ -1,0 +1,20 @@
+[Event "USSR 5/282"]
+[Site "USSR 5/282"]
+[Date "1968.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Igor Arkadievich Zaitsev"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.Nc3 Bg4 8.Qe2 Nd7 9.h3 Bh5 10.g4 Bg6 11.d4 f6 12.Rd1 Bd6
+13.dxe5 Nxe5 14.Nh4 Qe7 15.Bf4 O-O-O 16.Bg3 Rhe8 17.Kg2 Nf7
+18.f3 Bxg3 19.Kxg3 Nd6 20.Rd2 f5 21.exf5 Qg5 22.Rxd6 Rxe2
+23.Rxd8+ Qxd8 24.Nxe2 Bf7 25.Nc3 Qd2 26.Rf1 Qxc2 27.Rf2 Qd3
+28.Ng2 b5 29.a3 a5 30.Nf4 Qc4 31.Re2 c5 32.Re5 Qd4 33.Re2 Bc4
+34.Re7 Qg1+ 35.Kh4 Qf2+ 36.Kg5 Qxb2 37.Re8+ Kd7 38.Re3 Qd2 0-1

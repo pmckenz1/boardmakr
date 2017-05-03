@@ -1,0 +1,20 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alexander Riazantsev"]
+[Black "Daniel Hausrath"]
+[ECO "E81"]
+[WhiteElo "2385"]
+[BlackElo "2400"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5
+7. Nge2 cxd4 8. Nxd4 Nc6 9. Be2 Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6
+12. O-O a5 13. Rfd1 a4 14. Rac1 Nd7 15. Be3 Nc5 16. Nd5 Re8
+17. Rb1 Qa5 18. Qxa5 Rxa5 19. Bg5 Kf8 20. Kf1 h6 21. Bd2 Ra7
+22. Be3 Ra5 23. Rd2 Rc8 24. Nb6 Re8 25. Bd1 g5 26. Nd5 Rc8
+27. Be2 Ra6 28. Nb4 Ra5 29. Rc2 Bd7 30. Bd2 f5 31. Nd3 fxe4
+32. Nxc5 Raxc5 33. fxe4 Be6 34. Be3 R5c6 35. Rbc1 1/2-1/2

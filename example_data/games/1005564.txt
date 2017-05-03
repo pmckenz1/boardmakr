@@ -1,0 +1,16 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Valery Shalimov"]
+[Black "Alexander Zubarev"]
+[ECO "E14"]
+[WhiteElo "2400"]
+[BlackElo "2476"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O
+7. b3 d5 8. Bb2 c5 9. Nc3 Nc6 10. Rc1 Rc8 11. dxc5 dxc4
+12. Bxc4 Bxc5 1/2-1/2

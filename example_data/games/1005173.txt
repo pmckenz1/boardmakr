@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Gyorgy Jamrich"]
+[Black "Pham Minh Hoang"]
+[ECO "B22"]
+[WhiteElo "2270"]
+[BlackElo "2355"]
+[PlyCount "81"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6
+7. Bb3 d5 8. exd6 Qxd6 9. O-O Be6 10. Na3 a6 11. Bxe6 Qxe6
+12. Nxd4 Nxd4 13. Qxd4 Rd8 14. Qh4 Qc6 15. Nc2 e6 16. Nd4 Qd5
+17. Qg3 h5 18. h4 Nc4 19. Re1 Bd6 20. Qxg7 Be5 21. Qg5 Bxd4
+22. cxd4 Qxd4 23. Bf4 Rd5 24. Qg3 Qxb2 25. Rab1 Qa3 26. Rxe6+
+Kf8 27. Rb3 Qxa2 28. Rxb7 Qa1+ 29. Kh2 fxe6 30. Bh6+ Ke8
+31. Bg7 Qa3 32. Qg6+ Kd8 33. Bxh8 Qd6+ 34. g3 Kc8 35. Rf7 Rd2
+36. Bc3 Ra2 37. Bb4 Qb6 38. Bc5 Ne5 39. Rf8+ Kb7 40. Qe4+ Qc6
+41. Qxe5 1-0

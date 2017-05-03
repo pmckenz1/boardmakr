@@ -1,0 +1,23 @@
+[Event "Breslau"]
+[Site "Breslau GER"]
+[Date "1889.07.26"]
+[EventDate "1889.07.15"]
+[Round "16"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Emil Schallopp"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 d6 6.Ne2 Bg4 7.c3
+Nh5 8.d4 exd4 9.cxd4 Bb6 10.Bb5 Ba5+ 11.Kf1 f6 12.Be3 Bb6
+13.Ne1 g6 14.f3 Bd7 15.Nc3 Ne7 16.Kf2 Ng7 17.Qb3 Nc6 18.Qd1
+Na5 19.Be2 O-O 20.Rf1 f5 21.Kg1 Be6 22.Bf2 Bf7 23.Na4 Qe7
+24.Qd3 Nc6 25.Nxb6 axb6 26.d5 Nb4 27.Qc4 c5 28.a3 Rfe8 29.Rd1
+Na6 30.Bd3 Nc7 31.Qc1 Qf6 32.Be3 Rf8 33.Nc2 Be8 34.Bd2 f4
+35.Bc3 Qg5 36.b3 Bd7 37.Qd2 Rae8 38.a4 Re7 39.Na3 h6 40.Nc4 b5
+41.Nxd6 c4 42.bxc4 bxc4 43.Nxc4 Bxa4 44.d6 Rd7 45.dxc7 Bxd1
+46.Rxd1 Qc5+ 47.Kf1 Qxc7 48.Ne5 Rfd8 49.Nxd7 Rxd7 50.Bb2 b5
+51.Qb4 Qb6 52.Bc4+ 1-0

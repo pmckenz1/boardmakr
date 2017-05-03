@@ -1,0 +1,17 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.28"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Ljubomir Ljubojevic"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.Nf3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4
+Bb4 8.O-O Nbd7 9.Qe2 Bg6 10.Bd3 Bxd3 11.Qxd3 O-O 12.Rd1 c5
+13.d5 exd5 14.Nxd5 Nxd5 15.Qxd5 Nf6 16.Qxd8 Rfxd8 17.Bd2 Bxd2
+18.Nxd2 Rd3 19.Kf1 Rad8 20.Ke2 Ng4 1/2-1/2

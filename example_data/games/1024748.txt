@@ -1,0 +1,16 @@
+[Event "Toluca Interzonal"]
+[Site "Toluca de Lerdo MEX"]
+[Date "1982.08.19"]
+[EventDate "1982.08.10"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Lev Polugaevsky"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O
+dxc4 8.Bxc4 cxd4 9.exd4 b6 10.Bg5 Bb7 11.Rc1 Nbd7 12.Qe2 Bxc3
+13.Rxc3 Qb8 14.Bh4 Qf4 15.Bg3 Qe4 16.Rfc1 1/2-1/2

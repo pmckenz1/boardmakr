@@ -1,0 +1,18 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Nora Medvegy"]
+[Black "Adrienn Csoke"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nb3 Be6 8. Qd2 Nbd7 9. f3 Be7 10. g4 h6 11. O-O-O b5 12. h4
+b4 13. Nd5 Bxd5 14. exd5 Nb6 15. Bxb6 Qxb6 16. Kb1 a5 17. Qd3
+Nd7 18. Nd2 O-O 19. Qf5 Nc5 20. h5 Bg5 21. Bd3 Nxd3 22. Qxd3
+Bxd2 1/2-1/2

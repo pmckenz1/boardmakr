@@ -1,0 +1,15 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vasily Chichkin"]
+[Black "Alexandar G Panchenko"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 Bxc3 6. Bxc3
+Ne4 7. Qc2 Nxc3 8. Qxc3 d6 9. e3 Qe7 1/2-1/2

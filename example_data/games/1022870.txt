@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Kharkov URS"]
+[Date "1967.??.??"]
+[EventDate "1967.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Naum L Levin"]
+[Black "Vladimir Bagirov"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.Nf3 d5 2.c4 c6 3.d4 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3
+Bb4 8.Nxc4 c5 9.dxc5 Qxd1+ 10.Kxd1 Bxc5 11.e4 Bg6 12.Nb5 Kd7
+13.Ne5+ Kd8 14.Bf4 Nbd7 15.Nd3 a6 16.Nd6 Bxd6 17.Bxd6 Ne8
+18.Ba3 Nc7 19.Rc1 Rc8 20.g3 f5 21.Nf4 fxe4 22.Bd6 Bf7 23.fxe4
+e5 24.Nd3 Re8 25.Kd2 Re6 26.Ba3 Rh6 27.Be2 Bb3 28.a5 Be6
+29.Ke3 Ra8 30.Rhd1 Nb5 31.Nxe5 Nxa3 32.bxa3 Ke8 33.Nf3 Bb3
+34.Rd4 Nf6 35.Rc7 Rd8 36.Rxd8+ Kxd8 37.Rxg7 Nd7 38.h4 1-0

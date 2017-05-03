@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.21"]
+[EventDate "1911.08.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Charles Jaffe"]
+[Black "Hugo Suechting"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.d4 d5 2.Nf3 Nf6 3.Nbd2 Bf5 4.c4 e6 5.Qb3 Nc6 6.a3 Rb8 7.e3
+Be7 8.Bd3 O-O 9.cxd5 Na5 10.Qc2 Bxd3 11.Qxd3 exd5 12.Ne5 Qd6
+13.b4 Nc6 14.Bb2 Nd7 15.f4 f6 16.Nef3 Rfe8 17.O-O Bf8 18.Nh4
+Qe6 19.Rf3 Bd6 20.Nf1 Ne7 21.Ng3 Nf8 22.Re1 Qf7 23.Ngf5 Nxf5
+24.Nxf5 Qd7 25.h4 Ne6 26.Kf2 Kh8 27.h5 Bf8 28.Rh1 c6 29.Rg3
+Rbd8 30.Nh4 Kg8 31.h6 g5 32.Nf3 Bd6 33.Ne5 Qe7 34.Rg4 Kh8
+35.f5 Nf8 36.Nf3 Nd7 37.Nd2 Nb6 38.g3 Qf7 39.e4 dxe4 40.Rxe4
+Qd5 41.Rf1 Qxf5+ 42.Kg1 Qg6 43.Rxe8+ Qxe8 44.Rxf6 Nd5 45.Rf2
+Qe1+ 46.Kg2 Ne3+ 47.Kh3 g4 48.Kh4 Be7+ 0-1

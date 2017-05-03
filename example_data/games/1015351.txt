@@ -1,0 +1,24 @@
+[Event "Jakarta (Indonesia)"]
+[Site "It"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ronny Gunawan"]
+[Black "Utut Adianto"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 Bb4+ 4.Nbd2 d5 5.a3 Be7 6.Qc2 O-O 7.e4
+dxe4 8.Nxe4 Nc6 9.Be3 Nxe4 10.Qxe4 f5 11.Qd3 f4 12.Bd2 e5
+13.dxe5 Bg4 14.Bc3 Qe8 15.Be2 Bf5 16.Qd5+ Kh8 17.O-O-O a6
+18.Qd2 b5 19.Bd3 Rd8 20.Qe2 Rxd3 21.Rxd3 b4 22.axb4 Nxb4
+23.Bxb4 Bxb4 24.Rhd1 Qa4 25.Nd4 Bg6 26.Nc2 Be7 27.Qd2 f3
+28.gxf3 Qxc4 29.Rc3 Qa2 30.Rxc7 Rb8 31.Qd4 Qa5 32.Qd7 Bg5+
+33.Kb1 Rg8 34.Rc8 Qxe5 35.Rxg8+ Kxg8 36.Qd5+ Qxd5 37.Rxd5 Bf4
+38.h4 h6 39.b4 Kf7 40.Kb2 Ke6 41.Ra5 Be5+ 42.Kc1 Bd3 43.Kd2
+Bf1 44.Ke3 Bf6 45.Nd4+ Kd7 46.Ne2 Bxh4 47.Ra1 Bxe2 48.Kxe2 Be7
+49.Rxa6 Bxb4 50.Ra7+ Ke6 51.Rxg7 Kf5 52.Rf7+ Kg6 53.Rb7 Bc5
+54.f4 Bd4 55.Kf3 h5 56.Rb4 Ba7 57.Ra4 Bc5 58.Ra6+ 1-0

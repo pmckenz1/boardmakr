@@ -1,0 +1,24 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Wayne Rohricht"]
+[Black "Aviv Friedman"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. b3 d5 2. Bb2 c5 3. Nf3 f6 4. e3 e5 5. d4 cxd4 6. exd4 e4
+7. Nfd2 f5 8. c4 Nf6 9. Nc3 Be6 10. Rc1 Nc6 11. cxd5 Nxd5
+12. Bb5 Be7 13. O-O O-O 14. Bxc6 bxc6 15. Nc4 Nxc3 16. Bxc3
+Bd5 17. Bd2 Bg5 18. Bxg5 Qxg5 19. Ne5 Rf6 20. Qe2 Re8 21. Kh1
+Rh6 22. Rc3 e3 23. fxe3 Rxe5 24. dxe5 Qg3 25. Kg1 Rxh2 26. e4
+Qh4 27. Rh3 Qxh3 28. gxh3 Rxe2 29. exd5 cxd5 30. Rxf5 Rxa2
+31. e6 Re2 32. Rxd5 Rxe6 33. Rd7 a6 34. Ra7 Rb6 35. Kg2 h5
+36. b4 Kh7 37. Kg3 Kg6 38. Rc7 Kf6 39. Rc4 g6 40. Kf4 g5+
+41. Ke4 Ke6 42. Ke3 Kd6 43. Kd3 Rb5 44. Ke3 Rf5 45. Rc2 Rb5
+46. Ra2 Rb6 47. Ra5 h4 48. Rxg5 Rxb4 49. Rg6+ Ke5 50. Rxa6
+Rb3+ 51. Kf2 1/2-1/2

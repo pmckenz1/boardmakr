@@ -1,0 +1,21 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.24"]
+[EventDate "?"]
+[Round "25"]
+[Result "1-0"]
+[White "David Graham Baird"]
+[Black "George Hatfeild Gossip"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Nxe5 Nxe5 8.dxe5 Bb7 9.Bb3 Be7 10.Bd5
+Bxd5 11.Qxd5 Nc5 12.Be3 c6 13.Qd2 O-O 14.Nc3 {? An error that
+loses his best pawn.} f6 15.exf6 Rxf6 16.Bxc5 {!}Bxc5 17.Ne4
+Rf5 18.Rad1 {!} Be7 19.Qxd7 Rd5 20.Rxd5 cxd5 21.Qe6+ Kh8
+22.Rd1 d4 23.Qe5 Rc8 24.Rxd4 Qa5 25.Rd1 Bf8 26.Ng5 Rc5 {He
+could do no good whatever he did, but his game goes to pieces
+in a few moves.} 27.Nf7+ Kg8 28.Qe6 g6 29.Ne5 Kh8 30.Qf6+ 1-0

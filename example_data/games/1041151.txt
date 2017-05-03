@@ -1,0 +1,25 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Erich Eliskases"]
+[Black "Samuel Schweber"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1 Ne8 10.Nd3 f5 11.exf5 gxf5 12.f4 e4 13.Nf2
+c5 14.dxc6 bxc6 15.Be3 d5 16.Bd4 Bxd4 17.Qxd4 Qb6 18.Qxb6 axb6
+19.cxd5 cxd5 20.Rfd1 Nc7 21.Nh3 Rd8 22.Nb5 Nxb5 23.Bxb5 d4
+24.Bc4+ Kg7 25.Rac1 h6 26.Bb3 Ra7 27.Rc4 d3 28.Rc3 Rd6 29.Re1
+Bd7 30.Nf2 Nc6 31.Nd1 Nd4 32.Ne3 Ne2+ 33.Rxe2 dxe2 34.Kf2 Rd2
+35.Nc4 e1=Q+ 36.Kxe1 Rxg2 37.Nxb6 Rxh2 38.Rg3+ Kf6 39.Nd5+ Kf7
+40.Nc7 Ke7 41.Rg7+ Kd6 42.Ne8+ Kc5 43.Nf6 Kd4 44.Rxd7+ Rxd7
+45.Nxd7 Ke3 46.Kf1 Rxb2 47.Ne5 Rb1+ 48.Kg2 Kxf4 49.Nc6 Ke3
+50.Ne7 Rb2+ 51.Kh3 Kf4 52.Nd5+ Kf3 53.Nc3 e3 54.Bd1+ Kf2
+55.Bh5 e2 56.Nxe2 Rxe2 57.Bxe2 Kxe2 58.Kg3 Ke3 59.Kg2 h5 60.a4
+Kd4 61.Kg3 Kc5 62.Kf4 h4 0-1

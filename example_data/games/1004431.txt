@@ -1,0 +1,18 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Imre Korody Keresztely"]
+[Black "Kornel Havasi"]
+[ECO "E22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Nc6 5. Nf3 O-O 6. a3 Be7
+7. e3 d6 8. Be2 Re8 9. O-O Bf8 10. Qc2 a5 11. b3 Nb8 12. Bb2
+Nbd7 13. Rad1 c6 14. Na4 Qc7 15. Rc1 e5 16. Rfd1 Qb8 17. Nc3
+exd4 18. exd4 Qc7 19. Bd3 Qd8 20. Re1 Rxe1+ 21. Rxe1 h6
+1/2-1/2

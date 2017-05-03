@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Steven J Pozarek"]
+[Black "Daniel E Shapiro"]
+[ECO "E00"]
+[WhiteElo "2221"]
+[BlackElo "2330"]
+[PlyCount "92"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Qa4+ Bd7 6. Qxc4
+Nc6 7. Bg2 Na5 8. Qc2 Rc8 9. Nc3 c5 10. dxc5 Bxc5 11. O-O Nd5
+12. Bd2 Bb4 13. Qe4 Bxc3 14. Bxc3 Nxc3 15. bxc3 Bc6 16. Qd4
+Qxd4 17. cxd4 Ke7 18. Rfc1 Bb5 19. e3 b6 20. Bf1 Bxf1 21. Kxf1
+Nc6 22. Rab1 f6 23. h4 Rhd8 24. Rc2 Rd5 25. Rbc1 Kd7 26. Ke2
+Ra5 27. Ne1 Ra3 28. Kd2 a5 29. Ng2 Ne7 30. Nf4 Rxc2+ 31. Rxc2
+Nc6 32. d5 Nb4 33. dxe6+ Kd6 34. Rb2 g6 35. Ne2 Rxa2 36. Rxa2
+Nxa2 37. Nd4 Nb4 38. Kc3 Nc6 39. e7 Nxe7 40. Kc4 Nc6 41. Nb5+
+Ke5 42. Nc3 Nb8 43. e4 g5 44. h5 g4 45. Kb5 Nd7 46. Kc6 Nc5
+0-1

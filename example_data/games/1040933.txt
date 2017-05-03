@@ -1,0 +1,18 @@
+[Event "Cordoba"]
+[Site "Cordoba"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lagos"]
+[Black "Erich Eliskases"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.Bg5 Bb4 5.a3 Bxc3+ 6.bxc3 h6
+7.Bxf6 Qxf6 8.f4 d6 9.Nf3 Nd7 10.c5 e5 11.cxd6 cxd6 12.e3 exf4
+13.exf4 O-O 14.Bc4+ Kh8 15.O-O Nb6 16.Bd3 Be6 17.Re1 Rac8
+18.Rc1 Bd5 19.Re3 Rfe8 20.Qe2 Rxe3 21.Qxe3 Bxf3 22.gxf3 Nd5
+23.Qf2 Nxf4 24.Bf1 Qg5+ 0-1

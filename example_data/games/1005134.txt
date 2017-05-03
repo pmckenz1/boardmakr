@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Gagik Khechumyan"]
+[Black "Tobias Dolgener"]
+[ECO "D85"]
+[WhiteElo "2370"]
+[BlackElo "2275"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4 e5 6. dxe5
+Bb4+ 7. Bd2 Ne3 8. fxe3 Bxd2+ 9. Qxd2 Qh4+ 10. g3 Qxa4 11. Bg2
+O-O 12. Nf3 Nc6 13. O-O Bg4 14. Qc3 Rae8 15. a3 Qa6 16. h3
+Bxf3 17. exf3 Nxe5 18. e4 Qb6+ 19. Kh2 Nc6 20. Rac1 Rd8 21. f4
+Rd7 22. Rfd1 Rfd8 23. Rd5 Nd4 24. Rd1 c6 25. Rxd7 Rxd7 26. Rd2
+Qd8 27. Rf2 a5 28. h4 Ne6 29. h5 Rd3 30. Qe5 Qd4 31. Qxd4 Nxd4
+32. h6 f6 33. Bf1 Re3 34. e5 Kf7 35. Bc4+ Ke7 36. Bg8 Nf5
+37. exf6+ Kxf6 38. g4 Nxh6 39. g5+ Kg7 40. gxh6+ Kxg8 41. Rd2
+Kf7 42. Rd7+ Re7 43. Rd8 Re8 44. Rd7+ Re7 45. Rd8 1/2-1/2

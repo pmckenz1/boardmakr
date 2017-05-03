@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.16"]
+[EventDate "1897.09.13"]
+[Round "4"]
+[Result "0-1"]
+[White "Semion Alapin"]
+[Black "Horatio Caro"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 Nf6 6. Be2 h6
+7. Be3 Nbd7 8. Nf5 Bxe3 9. Nxe3 Ne5 10. Qd4 O-O 11. O-O-O Nc6
+12. Qd2 Re8 13. Bf3 Rb8 14. h3 b5 15. g4 b4 16. Ne2 Bd7
+17. Rdg1 Nxe4 18. Bxe4 Rxe4 19. h4 Ne5 20. Ng3 Nf3 21. Qd1
+Rxe3 22. fxe3 Nxg1 23. Nh5 Bc6 24. Rxg1 Qxh4 25. Qd4 Qg5
+26. Qxa7 Ra8 27. Qd4 Rxa2 28. Kb1 b3 29. cxb3 Ra5 30. Nf4 Qe5
+31. Qxe5 dxe5 32. Ne2 Be4+ 33. Kc1 Bd3 34. Kd2 Bxe2 35. Kxe2
+Rb5 36. Rc1 Rxb3 37. Kf3 Rxb2 38. Rxc7 f6 39. Ke4 Rf2 40. Rb7
+Kh7 41. Re7 Kg6 42. Rb7 Rh2 43. Kf3 h5 44. gxh5+ Rxh5 45. Kg2
+Kf5 46. Rxg7 Rg5+ 47. Rxg5+ fxg5 48. Kf3 g4+ 49. Kg3 Ke4 0-1

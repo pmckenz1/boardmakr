@@ -1,0 +1,23 @@
+[Event "Baile Herculane"]
+[Site "Baile Herculane ROU"]
+[Date "1982.02.??"]
+[EventDate "?"]
+[Round "20"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Aleksander Sznapik"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5
+7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3
+f4 13. c5 g5 14. Rc1 Ng6 15. cxd6 cxd6 16. Nb5 Rf7 17. Qc2 Ne8
+18. a4 h5 19. Nf2 Bf8 20. Nxa7 Bd7 21. Nb5 Rg7 22. h3 Nh4
+23. Qb3 g4 24. fxg4 hxg4 25. hxg4 Nf6 26. Be1 Nh5 27. Rc3 Ng3
+28. Rxg3 fxg3 29. Qxg3 Rxa4 30. Nc3 Ra1 31. Nfd1 Be7 32. Ne3
+Ng6 33. Qf2 Bh4 34. g3 Nf4 35. Kh2 Nxe2 36. gxh4 Nf4 37. g5
+Rh7 38. Nf5 Bxf5 39. exf5 Nd3 40. Qg3 Rxe1 41. Rxe1 Nxe1
+42. Kh3 Qc8 43. Qg4 Nd3 44. Ne4 Qc1 45. Qf3 Nf4+ 46. Kg4 Qg1+
+0-1

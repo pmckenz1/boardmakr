@@ -1,0 +1,27 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Alexander Veingold"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 c5
+7.cxd5 Qxd5 8.e3 Bg7 9.Nf3 Nc6 10.Be2 cxd4 11.cxd4 O-O 12.O-O
+b6 13.Qb3 Qxb3 14.axb3 e6 15.b4 Bb7 16.b5 Na5 17.Be7 Rfc8
+18.Bb4 Bf8 19.Bxa5 bxa5 20.Rxa5 Rc2 21.Bd3 Rc3 22.Rd1 Rac8
+23.Ne1 Rc1 24.Ra1 Rxd1 25.Rxd1 Bd5 26.h3 Bb4 27.Ra1 Bxe1
+28.Rxe1 Rc3 29.Bf1 Rc2 30.g4 g5 31.Rb1 Kg7 32.Bg2 Bxg2 33.Kxg2
+Ra2 34.Kg3 Kg6 35.Rc1 h5 36.Rc6 h4 37.Kf3 Kg7 38.Kg2 Rb2
+39.Rc5 Kg6 40.Kf3 Ra2 41.Rc8 Kg7 42.Rc6 Rb2 43.Rc5 Kg6 44.Kg2
+Kf6 45.Kg1 Rb1+ 46.Kh2 Rb2 47.Kg2 Kg6 48.Kf1 Rb1+ 49.Ke2 Rb2+
+50.Kf3 Kf6 51.Rc7 Rxb5 52.Rxa7 Rb2 53.Ra6 Rd2 54.Ra1 Kg6
+55.Rf1 Ra2 56.Ke4 Re2 57.Ke5 Kg7 58.e4 Kg6 59.f3 Re3 60.d5
+exd5 61.Kd4 Ra3 62.exd5 Kf6 63.Re1 Rxf3 64.d6 Rf2 65.Kc5 Rc2+
+66.Kb6 Rb2+ 67.Kc7 Rc2+ 68.Kd8 Rc3 69.d7 Rxh3 70.Ke8 Rd3
+71.d8=Q+ Rxd8+ 72.Kxd8 h3 73.Re2 Kg7 74.Ke7 Kg6 75.Rf2 1-0

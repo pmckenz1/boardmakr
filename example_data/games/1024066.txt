@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Mikhailovich Liberzon"]
+[Black "Yuri Balashov"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 exd4 6.Nxd4 g6 7.O-O
+Bg7 8.Bxc6 bxc6 9.f4 c5 10.Nde2 f5 11.exf5 gxf5 12.Ng3 Ne7
+13.Qh5+ Kf8 14.Be3 Qe8 15.Rae1 Qg6 16.Nd1 Bc6 17.Qxg6 hxg6
+18.Bd2 Rb8 19.b3 Nd5 20.c4 Bd4+ 21.Kh1 Nf6 22.Ne3 Bxe3 23.Bxe3
+Ng4 24.Bg1 Kf7 25.Re2 Rbe8 26.Rfe1 Rxe2 27.Rxe2 g5 28.Nxf5
+gxf4 29.Re7+ Kf6 30.Rxc7 Ba8 31.Nd4 Nxh2 32.Bxh2 cxd4 33.Kg1
+Rxh2 34.Kxh2 d3 35.Rd7 Ke6 0-1

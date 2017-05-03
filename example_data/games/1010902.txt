@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Beschastny"]
+[Black "Andrei Kosarev"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Nf3 Bg4 6. c3 Bd6
+7. O-O Nge7 8. Re1 Qd7 9. Nbd2 O-O-O 10. b4 Rde8 11. a4 Ng6
+12. a5 Rxe1+ 13. Qxe1 Nf4 14. Bf1 Re8 15. Qd1 Qe6 16. b5 Nb8
+17. b6 axb6 18. axb6 cxb6 19. Qb3 Qg6 20. Kh1 Qh5 21. Ba3 Bc7
+22. c4 Nc6 23. cxd5 Nxd5 24. Bb2 Re6 25. Ra8+ Kd7 26. Ne5+
+Bxe5 27. dxe5 Rxe5 28. Bxe5 Qxe5 29. Qc4 Be6 30. Nf3 Qb2
+31. Ra2 Qb1 32. Rd2 Kc8 33. Qe2 Nc3 34. Qe1 Qxe1 35. Nxe1 b5
+36. Rb2 b4 37. Nd3 Na4 38. Rd2 b3 39. Nb2 Nxb2 40. Rxb2 Kc7
+41. f4 Kd6 42. f5 Bd5 43. Rd2 Kc5 44. Kg1 Be4 45. Kf2 Bc2
+46. Ke3 Nb4 47. Rxc2+ Nxc2+ 48. Kd2 Kd4 49. Bd3 f6 50. g3 Ne3
+51. h3 Nc4+ 0-1

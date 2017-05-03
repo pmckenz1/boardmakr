@@ -1,0 +1,20 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Jacek Gdanski"]
+[Black "Robert Kempinski"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5
+7. Nf3 Nbd7 8. a4 Be7 9. Bd3 exf4 10. O-O O-O 11. Kh1 Ne5
+12. Bxf4 Qc7 13. Bg5 Be6 14. Nxe5 dxe5 15. Bxf6 Bxf6 16. Rxf6
+gxf6 17. Qh5 Rfd8 18. Rf1 Qb6 19. Nd5 Bxd5 20. exd5 Kf8 21. a5
+Qd6 22. c4 Ke7 23. Qh4 Rg8 24. Bxh7 Rg5 25. Qf2 Rc8 26. b3 Rh5
+27. Bf5 Rch8 28. h3 Rh4 29. Qa7 Qb4 30. Bc2 Rd4 31. c5 Kf8
+32. c6 bxc6 33. dxc6 Qc3 34. Rxf6 Qe1+ 35. Kh2 Rxh3+ 0-1

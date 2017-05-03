@@ -1,0 +1,18 @@
+[Event "Watermael Boitsfort BEL"]
+[Site "Watermael Boitsfort BEL"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Gary W Lane"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6
+7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Nbd2 b6 10. Nb3 Be7 11. Bd2 Bb7
+12. Rac1 O-O 13. Ne5 Ne4 14. Be2 Bf6 15. Nc4 b5 16. Nb6 Nxd2
+17. Rxd2 Ra7 18. Nd7 Bxb2 19. Rc7 Rd8 20. Nxb8 Rxb8 21. Rxb2
+1-0

@@ -1,0 +1,19 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Stephen Boyd"]
+[Black "Lawrence Day"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 Rb8 7.Nh3 Nf6
+8.Nf2 Bd7 9.g4 h5 10.h3 b5 11.g5 Nh7 12.O-O e5 13.Nd5 exf4
+14.Bxf4 Be6 15.Qc1 O-O 16.c3 b4 17.Qd2 a5 18.h4 Qd7 19.Nd1 f6
+20.gxf6 Nxf6 21.N1e3 Ng4 22.Nxg4 hxg4 23.Bh6 bxc3 24.bxc3 Bxd5
+25.exd5 Ne5 26.Bxg7 Kxg7 27.Qe2 Nf3+ 28.Rxf3 gxf3 29.Bxf3 Qh3
+30.Rf1 Qxh4 0-1

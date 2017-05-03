@@ -1,0 +1,20 @@
+[Event "New York op 93\03"]
+[Site "04"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Morgan L Pehme"]
+[Black "Jay R Bonin"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.Nf3 d6 3.Bg5 Nbd7 4.Nbd2 e5 5.Ne4 Be7 6.Nxf6+ Bxf6
+7.Bxf6 Qxf6 8.dxe5 Nxe5 9.Nxe5 Qxe5 10.c3 Bd7 11.Qd4 Bc6
+12.Qxe5+ dxe5 13.O-O-O Ke7 14.Rg1 Rhd8 15.Rxd8 Rxd8 16.g3 Kf6
+17.Bg2 Bxg2 18.Rxg2 Kf5 19.h3 Ke4 20.Rg1 h5 21.Rd1 Rxd1+
+22.Kxd1 g5 23.Kd2 g4 24.hxg4 hxg4 25.Ke1 f5 26.Kf1 f4 27.Kg2
+b5 28.b3 c5 29.a3 c4 30.bxc4 bxc4 31.a4 a5 32.Kh2 f3 33.exf3+
+Kxf3 34.Kg1 Ke2 35.Kg2 e4 36.Kg1 Kd3 0-1

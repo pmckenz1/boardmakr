@@ -1,0 +1,20 @@
+[Event "Groningen Chess Fest"]
+[Site "Groningen Chess Fest"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Vera Peicheva Juergens"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Ne4 6.Nd2 f5 7.Ndxe4
+fxe4 8.f3 Bd6 9.fxe4 Qh4+ 10.Kd2 dxe4 11.Qe1 Qe7 12.Kc2 e5
+13.Nxe4 Bb4 14.Bd2 Na6 15.Bc3 Bf5 16.Bd3 O-O 17.Nf2 Bxc3
+18.bxc3 e4 19.Be2 Qg5 20.g4 Bg6 21.Nd1 Qa5 22.Nb2 c5 23.d5 Nc7
+24.Rd1 Rad8 25.Kb1 Rd6 26.Qd2 Qa3 27.Rdf1 Rb8 28.Bd1 b5 29.Bb3
+bxc4 30.Nxc4 Rxb3+ 31.Ka1 Qa6 32.Nxd6 Ra3 33.Qb2 h6 34.Nc4 Ra4
+35.d6 Bf7 36.Rxf7 Kxf7 37.dxc7 Rxc4 38.Qb3 Ke7 39.c8=Q 1-0

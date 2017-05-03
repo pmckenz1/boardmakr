@@ -1,0 +1,21 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1935.02.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Perello + 3 players"]
+[ECO "A44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 Be7 5. f4 f6 6. Nf3 Bg4
+7. Be2 Nd7 8. O-O a6 9. a4 Qc7 10. Nh4 Bxe2 11. Qxe2 O-O-O
+12. Nf5 Bf8 13. fxe5 fxe5 14. Bg5 Ngf6 15. a5 h6 16. Bh4 g6
+17. Ne3 Be7 18. Nc4 Rdf8 19. Na4 Nxd5 20. Nab6+ N7xb6 21. axb6
+Qd7 22. Bxe7 Nxe7 23. Rfd1 Rf6 24. Nxe5 Qe6 25. Rxa6 Kd8
+26. Ra8+ Nc8 27. Nc6+ Kd7 28. e5 Kxc6 29. Ra5 c4 30. Rdd5 Rf4
+31. g3 Qg4 32. Qd2 Kxb6 33. exd6 Kc6 34. d7 b6 35. dxc8=Q+
+Rxc8 36. Rd6+ Kc7 37. Ra7+ 1-0

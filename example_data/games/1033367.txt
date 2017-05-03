@@ -1,0 +1,17 @@
+[Event "10s, Benasque op"]
+[Site "10s, Benasque op Hiarcs 7.32"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Gilberto Hernandez Guerrero"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. e3 cxd4 5. exd4 Qb6 6. Nc3
+e6 7. Nf3 Qxb2 8. Nb5 Qb4+ 9. c3 Qa5 10. Nd2 d5 11. Qh5 a6
+12. Nc4 Qd8 13. Ne5 fxe5 14. Qxe5 f6 15. Nc7+ Kd7 16. Qg3 Qxc7
+0-1

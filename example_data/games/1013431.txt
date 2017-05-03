@@ -1,0 +1,20 @@
+[Event "Lisbon"]
+[Site "Lisbon"]
+[Date "1941.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Moura / 4 players"]
+[Black "Alexander Alekhine"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3
+Nc5 7. Bg5 f6 8. Be3 d5 9. Nbd2 Bg4 10. h3 Bh5 11. g4 Bg6
+12. Bg2 Nc6 13. Nb3 Nxb3 14. axb3 O-O-O 15. Nd4 Qb4+ 16. c3
+Nxd4 17. Bxd4 Qd6 18. Rxa7 c5 19. Ra8+ Kc7 20. Rxd8 Kxd8
+21. Be3 d4 22. cxd4 cxd4 23. Bd2 Qa6 24. Qf3 Bxd3 25. Qd5+ Kc8
+26. Ba5 Bd6 27. Kd1 Bb5 28. Qf5+ Bd7 29. Qc2+ Kb8 30. Bd2 Rc8
+0-1

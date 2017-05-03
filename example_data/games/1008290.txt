@@ -1,0 +1,52 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.20"]
+[EventDate "1936.08.10"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Emanuel Lasker"]
+[Black "Mikhail Botvinnik"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. d4 {Notes by Alekhine} Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7
+5. Bg5 {The more usual 5 e3 gives White only a very slight
+positional advantage. As he plays, he allows his opponent to
+obtain the advantage of the two bishops, which, however, is
+not easy to exploit, since Black cannot without taking chances
+transform the game into an open one.} Ne4 6. cxd5 Nxg5 7. Nxg5
+e6 8. Nf3 exd5 9. e3 O-O 10. Be2 {The game, up to the 20th
+move, develops quite logically, and is easy to
+understand. White by starting the "minority attack" on the Q
+side, usual in this kind of position, finally (on the 21st
+move) compels Black to play b5 after which both sides get
+strong points at respectively c4, and c5. The only chance for
+Black after that would be in open diagonals for his bishops
+through an advance on the other wing; but that advance makes
+his king's position unsafe, and allows White to force the
+exchange of queens before the bishops become dangerous. A
+well-played but rather a dull game is the result.} c6 11. O-O
+Qe7 {Preventing for the time being b4.} 12. a3 Be6 13. Rc1 Nd7
+14. Ne1 {The knight aims at c5; but after Black's next
+cautious move the manoeuver will prove harmless.} Nb6 15. Nd3
+Rad8 16. Nc5 Bc8 17. b4 {If 17 b3 (to prevent Nc4) Black could
+at once start a counter-attack with 17...f5.} Nc4 18. Nb1 b6
+19. Nb3 Ba6 20. Re1 {A mistake would be 20 Nb1d2 for then Nb2
+21 Qe1 Nd3.} Rfe8 21. N1d2 b5 22. Ra1 Bc8 23. Bf1 {Preventing
+the promising sacrifice Nxe3, etc, - e.g., after 23 Nc5.} Qd6
+24. Nc5 Re7 25. Ndb3 Rde8 26. Qc1 {Still preparing a4 which
+here would be premature on account of 26...bxa4 27 Rxa4? Nb2.}
+f5 27. Nd3 g5 28. Qc3 f4 {Black, as already mentioned, is
+practically obliged to force matters, since otherwise White
+would take the initiative with a4.} 29. exf4 gxf4 30. Rxe7
+Rxe7 31. a4 a6 32. axb5 axb5 33. Ra8 Re8 34. Qc1 Rf8 35. Qd1
+{Not of course 35 Nxf4? for then Bh6 followed by Qxb4.} Bf5
+36. Rxf8+ Bxf8 37. Qh5 Qg6 {Otherwise-after 37...Bg6 38
+Qg5-the pressure exerted by the White queen would become
+unpleasant.} 38. Qxg6+ hxg6 39. Nxf4 Bxb4 40. Bd3 Nd2 {This
+last chance to win is sufficiently parried by White's 43rd
+move.} 41. Nxd2 Bxd2 42. Bxf5 gxf5 43. Ne6 {!} Bc3 {Or
+43...Kf7 44 Nd8+. Or 43...b4 44 Nc5. An easy draw in either
+case.} 44. Kf1 1/2-1/2

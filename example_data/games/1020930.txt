@@ -1,0 +1,16 @@
+[Event "It, Benasque (Spain)"]
+[Site "Benasque ESP"]
+[Date "1995.07.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Anthony Miles"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.Nf3 d6 2.d4 Bg4 3.e4 Nf6 4.Nbd2 e6 5.Bd3 Be7 6.O-O Nbd7
+7.Re1 O-O 8.h3 Bh5 9.Nf1 Bg6 10.Ng3 Nh5 11.Nxh5 Bxh5 12.c3 Re8
+13.Be3 c6 14.Qe2 1/2-1/2

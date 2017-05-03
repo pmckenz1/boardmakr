@@ -1,0 +1,81 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.12"]
+[EventDate "1907.??.??"]
+[Round "17"]
+[Result "1/2-1/2"]
+[White "Geza Maroczy"]
+[Black "Akiba Rubinstein"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 {Notes by Dr. Emanuel Lasker in "Lasker's Chess Magazine"
+1907. *** The most important game in the tournament, and in
+many respects the most exciting, was the encounter between the
+two leaders toward the close. Maroczy, the hero of many hard
+fights, was half a point better off than the young Rubinstein,
+but the latter had to meet weaker opponents subsequently. With
+the instinct and judgement of a veteran, with confidence in
+his ability to succeed in his remaining games, Rubinstein set
+out with a determination to draw with Maroczy. The state of
+the score would have impelled most players to take exceptional
+risks in order to depose his antagonist and take his
+place. Rubinstein is evidently au fait in all the arts of
+winning tournaments besides games. An eyewitness thus
+describes the attitude of the players at the conclusion of the
+game: "That Rubinstein was perfectly satisfied with his
+partial success was apparent from his beaming countenance;
+Maroczy looked depressed in proportion.} e6 2.d4 d5 3.Nc3 dxe4
+4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ {Under the circumstances White's
+tactics cannot be commended. By exchanging he not only does
+not simplify, but actually develops Black's game. It should be
+Black's business for that reason to find out how to develop
+the knight on d7. Far preferable would have been 6.Ng3 leaving
+Black's game cramped.} Nxf6 7.Bd3 c5 8.dxc5 Bxc5 9.O-O O-O
+10.Bg5 {White wastes time with this move, which could only be
+justified if followed up with Bxf6. Instead, 10.Bf4 is much
+better, for Black cannot reply with 10...Bd6, because of
+11.Bxd6 Qxd6 12.Bxh7+ winning the queen.} Be7 11.Qe2 Qc7
+12.Rad1 {In order to be able to advance the queenside pawns it
+would have been better to have played 12.Rfe1.} Rd8 13.c4 Bd7
+14.Bd2 Rac8 15.Bc3 Be8 16.Qc2 h6 17.Ne5 Nd7 {Black has
+cleverly anticipated all possible attacks on the kingside. The
+position is remarkable. The black king is only protected by
+pawns, and White has considerable force bearing on it, yet
+nothing tangible can be done.} 18.Nxd7 Bxd7 {If 18...Rxd7,
+with the object of doubling, White would reply 19.Qe2,
+threatening Qe4 with a very promising attack.} 19.Qe2 Bc6
+20.Qg4 Bf8 21.f4 {White should play 21.Rfe1, threatening Bf6
+with much the better game. It is impossible to give all the
+combinations that might arise, but as an instance the
+following will show a possible continuation showing why 21.Bf6
+cannot be played at once: 21...Rd7 22.Rfe1 Kh8 23.Be5 Qd8
+24.Re3 f5 25.Qg6 Qg5 26.Rg3 Qxg6 27.Rxg6 Rcd8 28.Rxh6+ Kg8
+29.Rh3 Be4 winning a piece.} Rxd3 {! As a means of winning,
+this sacrifice cannot be recommended. But taking into account
+that Black realized that his position was getting very
+difficult, this move is highly ingenious and shows great power
+of resistance. For the exchange versus a pawn Black has got
+rid of one of the most dangerous pieces.} 22.Rxd3 Be4 23.Rd2
+{If 23.Rg3 then 23...Qxc4 24.Bxg7 Bf5 25.Qh4 Bxg7 26.Qf6 Bg6
+and Black should win.} Qxc4 24.Rfd1 Bd5 25.h3 {This is an
+unnecessary defense, as Black does not threaten anything. The
+proper thing to do would be to play 25.a3 first, and so save
+this pawn. Maroczy undoubtedly labored under some delusion
+when he made the subsequent combination. Otherwise he would
+certainly have acted on the reorganized principle that a
+player with a superior force should first of all render
+everything secure.} f5 26.Qg6 {Had White played 25.a3 as
+suggested, he could have complacently played now 26.Qg3. To
+defend this pawn now and leave the other would not permit many
+winning chances.} Qxf4 27.Rxd5 {The countersacrifice nearly
+wins. At the same time, White guards against the sacrifice of
+a a second exchange, to be followed by ...Bd6.} Qe3+ 28.Kh1
+exd5 29.Qxf5 Rd8 30.Rxd5 Qc1+ 31.Kh2 Bd6+ 32.Be5 Bc7 {This
+innocent-looking move is the only one which draws easily. If
+32...Bxe5+ 33.Qxe5 Rxd5 (otherwise White plays Rd7) 34.Qxd5+
+Kh7 35.Qxb7 Qf4+ 36.g3 with a pawn to the good, though winning
+would be remote.} 33.Rxd8+ Bxd8 34.Qd7 Qg5 35.Bg3 Qe7 36.Qxe7
+Bxe7 37.Be5 Kf7 38.Kg3 g6 39.Kf4 Ke6 40.Ke4 h5 41.b3 1/2-1/2

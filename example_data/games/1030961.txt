@@ -1,0 +1,21 @@
+[Event "Aachen (German Ch.)"]
+[Site "Aachen (German Ch.)"]
+[Date "1933.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "Ludwig Rellstab"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.Nc3 d5 5.e3 O-O 6.Nb5 Na6 7.Be2
+Bg4 8.Nc3 Nb8 9.h3 Bf5 10.g4 Bc8 11.g5 Ne8 12.Qd2 c6 13.O-O-O
+Nd6 14.Bd3 Bf5 15.Bxd6 Qxd6 16.Bxf5 gxf5 17.h4 e6 18.h5 Nd7
+19.Ne2 Rfc8 20.Nf4 c5 21.Rdg1 cxd4 22.exd4 Nb6 23.Ne5 Nc4
+24.Nxc4 Rxc4 25.c3 Rac8 26.Ne2 Qc7 27.Kb1 b5 28.g6 fxg6
+29.hxg6 h6 30.Qe3 Qd7 31.Rh5 b4 32.b3 R4c6 33.cxb4 Qe7 34.Rxf5
+Qxb4 35.Rf7 a5 36.Rh1 h5 37.Rxg7+ Kxg7 38.Qe5+ Kxg6 39.Rg1+
+Kf7 40.Rg7+ 1-0

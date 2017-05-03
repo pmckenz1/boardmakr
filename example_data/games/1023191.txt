@@ -1,0 +1,20 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bukhuti Gurgenidze"]
+[Black "Vladimir Bagirov"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Bc4 Nb6
+7.Bb3 Nc6 8.Nf3 Bf5 9.d4 e6 10.O-O Be7 11.Qe2 O-O 12.Be3 Na5
+13.Bd1 Rc8 14.Ne5 Bf6 15.Re1 Nac4 16.Nxc4 Nxc4 17.Bb3 Na5
+18.Red1 Nxb3 19.axb3 a6 20.b4 Qd7 21.g3 Rfd8 22.h4 h6 23.Qf3
+Be7 24.d5 Bxb4 25.dxe6 Qxe6 26.Rxd8+ Rxd8 27.Qxb7 Bxc3 28.bxc3
+Be4 29.Qc7 Qh3 30.f3 Rd3 31.Qf4 Bd5 32.Re1 Rxc3 33.Bd4 Rxf3
+34.Re8+ Kh7 35.Rh8+ Kg6 36.h5+ Qxh5 37.Qd6+ Rf6 0-1

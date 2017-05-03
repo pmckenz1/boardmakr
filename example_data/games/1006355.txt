@@ -1,0 +1,25 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.05"]
+[EventDate "2000.03.03"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Wang Lei"]
+[Black "Kanying Qin"]
+[ECO "D85"]
+[WhiteElo "2495"]
+[BlackElo "2475"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6
+7. Be3 O-O 8. h3 e5 9. Nf3 exd4 10. Bxd4 Nc6 11. Bxg7 Kxg7
+12. Bb5 Qxd1+ 13. Rxd1 Bd7 14. O-O a6 15. Bxc6 Bxc6 16. Nd4
+Bd7 17. f4 Rfd8 18. b3 c5 19. Nf3 Bc6 20. Kf2 a5 21. Ne5 Be8
+22. Nc4 Nxc4 23. bxc4 Rd4 24. Rxd4 cxd4 25. Nd5 Rc8 26. Nb6
+Rc6 27. Rb1 Re6 28. e5 f6 29. exf6+ Rxf6 30. Nd5 Rc6 31. Rxb7+
+Bf7 32. Nb6 Kg8 33. Rb8+ Kg7 34. Rb7 Kg8 35. Ke2 Bxc4+
+36. Nxc4 Rxc4 37. Kd3 Ra4 38. g4 Rxa2 39. Kxd4 h5 40. Ke5 hxg4
+41. hxg4 Ra4 42. Ra7 Rb4 43. Rxa5 Kg7 44. Ra7+ Kh6 45. g5+ Kh5
+46. Rh7+ Kg4 47. Rh1 Rb5+ 48. Kf6 Kxf4 49. Rh4+ Kg3 50. Rc4
+Rb6+ 51. Kg7 Re6 52. Kh6 Rb6 53. Ra4 Rc6 54. Ra7 Kf4 55. Rf7+
+Kg4 56. Rf6 Rc8 57. Rxg6 Rh8+ 58. Kg7 Ra8 1/2-1/2

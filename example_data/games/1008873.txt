@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Christopher Duncan"]
+[Black "Francis Rayner"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. g3 O-O
+7. Bg2 d5 8. O-O e5 9. Nc2 Bxc3 10. bxc3 dxc4 11. Ba3 Qxd1
+12. Rfxd1 Re8 13. Ne3 Nc6 14. Rab1 e4 15. Nxc4 b6 16. Nd6 Re5
+17. c4 Bg4 18. Bb2 Bxe2 19. Bxe5 Nxe5 20. Nxe4 Nxe4 21. Bxe4
+Re8 22. Rd4 g6 23. Bd5 Kg7 24. Re1 Bh5 25. Kf1 Kf8 26. Rde4
+1-0

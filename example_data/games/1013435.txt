@@ -1,0 +1,30 @@
+[Event "Madrid"]
+[Site "Club Real Madrid, Madrid ESP"]
+[Date "1941.12.01"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Isidro Naharro"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 {Notes by Alekhine After the moves 1 e4 c6 2 Nc3 d5 3
+Nf3 dxe4 4 Nxe4 one arrives at a position analagous to the
+normal variation (with 2 d4) and Black might be tempted to
+continue in the same way, that is to say 4...Bf5. In reality
+this move is an important loss of time here and frequently
+leads to swift catas trophe.} c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4
+Bf5 5. Ng3 Bg6 {? The lesser evil would be 5...Bg4.} 6. h4 h6
+7. Ne5 {! Herein lies the difference with the variation whivh
+begins by 2 d4: White can at once attack the bishop, which can
+choose only between the square h7 and an exchange which
+weakens the pawn structure in a decisve way.} Nd7 8. Nxg6 fxg6
+9. d4 {! This prevents 9...Ne5.} e5 10. Qg4 Qf6 11. Be3 {! The
+best. Less effective would have been 11Bg5 Qf7 etc. But if
+Black castles then 12 Bg5! is played.} Ne7 {? Black should not
+lose so quickly, although strategically and in the long run
+his game could not be defended.} 12. Ne4 {Winning the queen.}
+exd4 13. Nxf6+ Nxf6 14. Qxd4 Rd8 15. Qxa7 Nf5 16. Qxb7 1-0

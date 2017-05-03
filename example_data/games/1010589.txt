@@ -1,0 +1,19 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Yuri Zhizmer"]
+[Black "Alexander Kiselev"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. Nf3
+Nc6 7. O-O g6 8. d3 Bg7 9. Be3 Nd4 10. Qd2 O-O 11. Bh6 Be6
+12. Bxg7 Kxg7 13. Na4 c4 14. Nxd4 Qxd4 15. Qb4 Rad8 16. dxc4
+b5 17. Nc3 Qxc4 18. Qxe7 Rd7 19. Qg5 Rfd8 20. Rac1 a6 21. Ne4
+Qd4 22. e3 Qxb2 23. Rxc7 h6 24. Qc5 Qxa2 25. Qe5+ Kf8 26. Qh8+
+Ke7 27. Qf6+ Ke8 28. Nd6+ Kf8 29. Rxd7 Rxd7 30. Qh8+ 1-0

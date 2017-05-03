@@ -1,0 +1,20 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jan Foltys"]
+[Black "Erich Eliskases"]
+[ECO "D56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O
+7. e3 Ne4 8. Bxe7 Qxe7 9. Bd3 Nxc3 10. bxc3 dxc4 11. Bxc4 b6
+12. O-O Bb7 13. Re1 Nd7 14. e4 Rfd8 15. Qd2 c5 16. Qf4 cxd4
+17. cxd4 Rac8 18. Bb3 b5 19. d5 Nc5 20. dxe6 Nxe6 21. Qg4 Nd4
+22. Nxd4 Rxd4 23. Bd5 Re8 24. Red1 Rxd1+ 25. Qxd1 Rd8 26. Qb3
+Bxd5 27. exd5 Qc5 28. Rd1 a5 29. g3 Rd6 30. Qd3 g6 31. Kg2 b4
+32. Qe4 Rf6 33. Rd2 1/2-1/2

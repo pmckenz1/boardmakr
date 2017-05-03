@@ -1,0 +1,23 @@
+[Event "2, Roma op (10s)"]
+[Site "Rome ITA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Michael Hennigan"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7
+7. Ng5 d5 8. h4 f6 9. exf6 exf6 10. Nh3 Nc6 11. Nf4 Na5
+12. Nc3 c6 13. Nce2 Kf7 14. c3 Nxb3 15. axb3 Bf5 16. f3 h5
+17. Ng3 Qd7 18. Nxf5 Qxf5 19. Qd3 Qxd3 20. Nxd3 Nd7 21. Kf2 a6
+22. Bf4 Rae8 23. Rae1 Rxe1 24. Rxe1 Bf8 25. b4 Be7 26. Nc1 Nf8
+27. Nb3 Ne6 28. Bh2 f5 29. Na5 Bxh4+ 30. g3 Bd8 31. Nxb7 Bc7
+32. Ra1 Rb8 33. Na5 Bxa5 34. Rxa5 Ra8 35. Ra1 g5 36. Ke3 g4
+37. fxg4 hxg4 38. Bg1 Kf6 39. Kd3 Rh8 40. Rxa6 Rh3 41. Be3
+Rxg3 42. Ke2 f4 43. Bf2 Rg2 44. Kf1 f3 45. Rxc6 Kf5 46. b5 Nf4
+47. b6 Nh3 48. Be3 Rxb2 0-1

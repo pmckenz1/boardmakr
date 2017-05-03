@@ -1,0 +1,18 @@
+[Event "10s, Gaeta"]
+[Site "10s, Gaeta Hiarcs 7.32"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Antonio Martorelli"]
+[Black "Fernando Braga"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Nbd2 Nc5 6. Nb3
+Nxb3 7. axb3 Nc6 8. Bc4 Be7 9. exd6 Qxd6 10. Qxd6 Bxd6 11. Ng5
+O-O 12. Bd3 h6 13. Ne4 Nb4 14. Nxd6 Nxd3+ 15. cxd3 cxd6
+16. Be3 Be6 17. Kd2 a6 18. b4 Bd5 19. Rac1 f5 20. Rc7 Bc6
+21. Bf4 Rad8 1/2-1/2

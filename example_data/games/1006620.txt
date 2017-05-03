@@ -1,0 +1,22 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1-0"]
+[White "Heinrich von Hennig"]
+[Black "Victor Sjoberg"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 c5 2.Nc3 e6 3.Bc4 Nc6 4.d3 Nf6 5.Bg5 Be7 6.Bxf6 Bxf6
+7.Nge2 a6 8.a4 b6 9.O-O Bb7 10.f4 Bxc3 11.Nxc3 O-O 12.Qh5 Nd4
+13.Rf2 f5 14.e5 Kh8 15.Nd1 b5 16.Ba2 bxa4 17.Ne3 Nb5 18.Nc4
+Bc6 19.Bb1 d5 20.exd6 Nxd6 21.Ne5 Be8 22.Qd1 Qb6 23.c3 Rd8
+24.Qc1 Nf7 25.Nc4 Qc7 26.Qe3 Bb5 27.Bc2 Qc6 28.Nd2 Qd6 29.Nf3
+Bxd3 30.Rd2 c4 31.Bxd3 cxd3 32.Rxa4 Rb8 33.Rd4 Qb6 34.R4xd3
+Rfe8 35.Qxb6 Rxb6 36.Rd7 Kg8 37.Ra7 Nd6 38.Ne5 h6 39.c4 Nb7
+40.Rd7 Rb8 41.c5 Rxb2 42.c6 Rb1+ 43.Kf2 Rb2+ 44.Kg3 Rb3+
+45.Kh4 g5+ 46.Kh5 1-0

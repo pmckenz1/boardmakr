@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Liechtenstein"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ronald Bancod"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nge2 a6 5.a4 Nc6 6.Be3 e5 7.a5
+exd4 8.Nxd4 Nf6 9.f3 O-O 10.Bc4 Ne5 11.Bb3 c5 12.Nde2 Nc6
+13.O-O Re8 14.Qd2 Nxa5 15.Rfd1 Nxb3 16.cxb3 Be6 17.Qxd6 Bxb3
+18.Qxd8 Raxd8 19.Rxd8 Rxd8 20.Bxc5 Rd2 21.Be3 Rxb2 22.Bc1 Rc2
+23.Rb1 Bc4 24.Rxb7 Bxe2 25.Nxe2 Rxe2 26.Rb8+ Bf8 27.Bh6 Nd7
+28.Rd8 Rb2 29.Bf4 Rb7 30.Ra8 Rb6 31.Rd8 Nc5 32.Be3 Rc6 33.g4
+Ne6 34.Ra8 Kg7 35.Kg2 Rc2+ 0-1

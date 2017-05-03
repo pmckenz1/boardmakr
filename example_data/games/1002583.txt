@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1896.10.22"]
+[EventDate "1896.10.04"]
+[Round "13"]
+[Result "0-1"]
+[White "Josef Noa"]
+[Black "Georg Marco"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qf3 Nc6 4. c3 Bc5 5. d3 d6 6. h3 Be6
+7. Bb5 d5 8. Bg5 a6 9. Ba4 h6 10. Bxf6 gxf6 11. Nd2 b5 12. Bc2
+d4 13. Ne2 dxc3 14. bxc3 b4 15. Ba4 Bd7 16. Nb3 Be7 17. O-O
+O-O 18. Qh5 Kh7 19. f4 bxc3 20. Bxc6 Bxc6 21. fxe5 Qxd3
+22. Qf5+ Kh8 23. exf6 Bd6 24. Rf2 Bxe4 25. Qh5 Kh7 26. Nxc3
+Qxc3 27. Qg4 Bg6 28. h4 h5 29. Qg5 Qg3 30. Rf3 Qh2+ 31. Kf2
+Rfe8 32. Rh3 Qe5 33. g4 Qe2+ 34. Kg1 Qxg4+ 0-1

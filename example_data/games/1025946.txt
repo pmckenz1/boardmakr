@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Jaca (Spain)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Malau Eston"]
+[Black "Gerardo F Barbero"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 c6 5.d4 d5 6.exd5 Nxd5
+7.Nxd5 cxd5 8.Bb5+ Nc6 9.Qe2+ Be7 10.Bxf4 O-O 11.Nf3 Bb4+
+12.Kf2 Re8 13.Qd3 Re4 14.Bg3 Nxd4 15.Nxd4 Bc5 16.c3 Qf6+
+17.Qf3 Bxd4+ 18.Kf1 Qxf3+ 0-1

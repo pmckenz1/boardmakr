@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Andorra"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Manuel Rivas Pastor"]
+[Black "John Fedorowicz"]
+[ECO "B26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 e5 7.Qd2
+Nge7 8.h4 h5 9.Nh3 Nd4 10.f4 exf4 11.gxf4 Bg4 12.Qf2 Qd7
+13.Ng5 O-O 14.Nf3 Nxf3+ 15.Bxf3 f5 16.Bxg4 fxg4 17.O-O-O b5
+18.Ne2 b4 19.Kb1 a5 20.d4 Qc6 21.dxc5 dxc5 22.Ng3 Rac8 23.Qd2
+a4 24.Qd7 Qxd7 25.Rxd7 Nc6 26.e5 Nxe5 27.fxe5 Rf3 28.Bg5 Rxg3
+29.Bf6 Bxf6 30.exf6 Rf3 31.Rg7+ Kh8 32.Rxg6 Kh7 33.Rg5 Kh6
+34.Kc1 Rxf6 35.Rd1 Rg6 36.Rxg6+ Kxg6 37.Rd5 Kf6 38.Kd2 g3
+39.Rg5 Rd8+ 40.Ke3 Rd4 41.Rxg3 Rxh4 42.Rg8 Rc4 43.Kd3 Rd4+
+44.Ke3 h4 45.Rh8 Rc4 46.Kd3 Rg4 47.Ke3 Ke5 48.Rh5+ Kd6 49.Rh6+
+Kd5 50.Rh5+ Kc6 51.Rh6+ Kb5 52.Rh5 Rg3+ 53.Kf2 a3 54.bxa3 Rxa3
+0-1

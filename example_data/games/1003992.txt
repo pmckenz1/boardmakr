@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Hermanis Karlovich Mattison"]
+[Black "Geza Nagy"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Kf8 5. e5 c5 6. a3 Qa5
+7. Bd2 cxd4 8. Qxd4 Nc6 9. Qf4 d4 10. Nce2 Nge7 11. Bxb4 Nxb4
+12. O-O-O Nbc6 13. Nxd4 Qxe5 14. Qh4 g5 15. Nxc6 Nxc6 16. Qh6+
+Qg7 17. Qh3 Qf6 18. Bb5 Nd4 19. Qc3 e5 20. Qc5+ Kg7 21. Re1
+Bf5 22. Qxe5 Rac8 23. Kb1 Nxc2 0-1

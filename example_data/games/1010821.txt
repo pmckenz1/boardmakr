@@ -1,0 +1,26 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Viktor Ponomarenko"]
+[Black "Andrei Deviatkin"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. g3 O-O 6. Bg2 dxc4
+7. Ne5 c5 8. e3 Nbd7 9. Nxc4 Rb8 10. a4 b6 11. O-O Bb7
+12. Bxb7 Rxb7 13. Qf3 Qa8 14. Rd1 cxd4 15. exd4 Rc7 16. Qxa8
+Rxa8 17. Ne3 Bb4 18. Bd2 a6 19. f3 Rd8 20. Ne2 Be7 21. Bc3 Nb8
+22. Kg2 g5 23. Rd2 Nd5 24. Nxd5 Rxd5 25. Rc1 Kf8 26. Rdc2 Ke8
+27. Be1 Rxc2 28. Rxc2 Kd7 29. Bf2 f5 30. Nc3 Rd6 31. Rd2 Kc6
+32. Re2 Bf6 33. g4 Kd7 34. gxf5 exf5 35. Rd2 Nc6 36. Ne2 b5
+37. axb5 axb5 38. Ng3 Ne7 39. Nh5 Bh8 40. h4 Rh6 41. Ng3 gxh4
+42. Ne2 Bf6 43. Kh3 Bg5 44. f4 Bf6 45. Rc2 b4 46. Rc4 Nd5
+47. Rc5 Kd6 48. Ra5 Bd8 49. Ra8 Kd7 50. Ra7+ Bc7 51. b3 Re6
+52. Ng1 Nxf4+ 53. Kxh4 Nd3 54. Ra2 Nxf2 55. Rxf2 Rh6+ 56. Kg5
+Rg6+ 57. Kxf5 Rxg1 58. Ke4 Re1+ 59. Kd5 Bd6 60. Rf6 Be7
+61. Rh6 Re3 62. Rxh7 Rxb3 63. Rh6 Rc3 64. Rb6 b3 0-1

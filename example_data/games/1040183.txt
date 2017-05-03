@@ -1,0 +1,15 @@
+[Event "03, Manhattan CC"]
+[Site "New York, NY USA"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Roman Dzindzichashvili"]
+[Black "Jon Loftur Arnason"]
+[ECO "D14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bf4 Bf5 7.e3
+e6 8.Bb5 Nd7 9.Ne5 Ndxe5 10.Bxe5 Rc8 11.O-O 1/2-1/2

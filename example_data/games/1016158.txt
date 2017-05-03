@@ -1,0 +1,19 @@
+[Event "It (cat.8)"]
+[Site "Gladsaxe/Farum (Denmark)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Lars Karlsson"]
+[ECO "A27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 exd4 5.Nxd4 Bg7 6.Nxc6 bxc6
+7.g3 Ne7 8.Bg2 O-O 9.O-O Rb8 10.Qa4 a6 11.Rd1 Re8 12.Qa5 d6
+13.b3 Bf5 14.Bg5 h6 15.Be3 Bd7 16.Bd4 Bxd4 17.Rxd4 c5 18.Re4
+c6 19.Qa3 Be6 20.Rd1 Nf5 21.Qc1 g5 22.h4 Nd4 23.hxg5 hxg5
+24.Re3 Qf6 25.Ne4 Qe5 26.f4 gxf4 27.gxf4 Qxf4 28.Rxd4 cxd4
+29.Rg3+ Qxg3 30.Nxg3 c5 31.Qh6 1-0

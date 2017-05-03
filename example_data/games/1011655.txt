@@ -1,0 +1,28 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Marko Filipovic"]
+[Black "Dinko Brumen"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "148"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O Bd7
+7. Qc2 dxc4 8. a4 Bc6 9. Qxc4 a5 10. Nc3 Na6 11. Bf4 Nb4
+12. Rac1 Ra6 13. Rfe1 Nfd5 14. Nxd5 exd5 15. Qb3 Qe8 16. Ra1
+Bd6 17. Ne5 Rb6 18. Nxc6 bxc6 19. Bd2 Qb8 20. Rab1 f5 21. Rec1
+Qb7 22. Qe3 Na2 23. Rc2 Bb4 24. Qb3 Bxd2 25. Qxa2 Bg5 26. Rxc6
+Kh8 27. Rxb6 Qxb6 28. Qxd5 Be7 29. e3 Qb4 30. b3 Bd6 31. Bh3
+Qd2 32. Qc4 g5 33. Rc1 f4 34. exf4 gxf4 35. Qc3 Qxc3 36. Rxc3
+Re8 37. Kg2 Re2 38. Rd3 Kg7 39. Kf3 Rb2 40. gxf4 Kf6 41. Bd7
+Bb4 42. Bb5 Be1 43. Ke4 Rxf2 44. Rh3 Kg7 45. Ke5 Bb4 46. Bd3
+h6 47. Rh4 Bd6+ 48. Kf5 Rd2 49. Ke4 Rf2 50. Rg4+ Kf6 51. h3
+Rh2 52. Rh4 Kg7 53. Rh5 Bb4 54. f5 Bd2 55. Kd5 Be3 56. Ke5 Bg5
+57. d5 Rd2 58. Bc4 Bf6+ 59. Ke6 Bg5 60. Kd7 Bf4 61. Rh4 Bd6
+62. Rg4+ Kf6 63. Rg6+ Kxf5 64. Rxh6 Rg2 65. Rxd6 Rg7+ 66. Kc6
+cxd6 67. Kxd6 Rg6+ 68. Kc5 Ke5 69. Kb5 Rh6 70. Kxa5 Rxh3
+71. Kb5 Kd6 72. a5 Rh8 73. a6 Rb8+ 74. Ka5 Kc5 1/2-1/2

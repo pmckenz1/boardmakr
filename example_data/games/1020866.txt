@@ -1,0 +1,15 @@
+[Event "Rubinstein Memorial 30th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1993.08.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Sergey Dolmatov"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 d5 5.e3 O-O 6.Bd3 Nbd7
+7.O-O c5 8.c3 Qb6 9.Rb1 Re8 10.Re1 1/2-1/2

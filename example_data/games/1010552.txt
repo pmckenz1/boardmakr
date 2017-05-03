@@ -1,0 +1,21 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Arnold Zakharchenko"]
+[Black "Alexander Oglobilia"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6
+7. Be3 Bf5 8. Nc3 e6 9. Nf3 Bg4 10. Qd2 Qd7 11. O-O-O O-O-O
+12. h3 Bxf3 13. gxf3 Ne7 14. Bg5 h6 15. Bh4 g5 16. Bf2 Nf5
+17. c5 Nd5 18. Bb5 c6 19. Bd3 h5 20. Ne4 h4 21. Kb1 Bh6
+22. Nd6+ Kb8 23. Bxf5 exf5 24. Qc2 Qe6 25. a3 f4 26. Rde1 Bf8
+27. Re4 Qd7 28. Qd1 a6 29. Qg1 Bxd6 30. cxd6 Qf5 31. Ka1 Qg6
+32. Qg2 Rhg8 33. Rhe1 f5 34. R4e2 Qe6 35. Rc2 Rg6 36. Qf1 Rh8
+37. Qd3 Rh7 38. Rd1 Kc8 39. Rcd2 Kd7 40. Qf1 Kc8 1/2-1/2

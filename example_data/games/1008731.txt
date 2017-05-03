@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Bogdan Lalic"]
+[Black "Christopher Ward"]
+[ECO "A70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6
+7. h3 a6 8. a4 Qe7 9. Bg5 Nbd7 10. e3 Ne5 11. Nd2 h6 12. Bh4
+Bf5 13. e4 g5 14. Bg3 Bg6 15. Be2 Bg7 16. O-O O-O 17. Re1 Nfd7
+18. Nf1 f5 19. exf5 Bxf5 20. Nd2 Kh8 21. a5 Qd8 22. Nce4 Qc7
+23. b4 cxb4 24. Qa4 Nc5 25. Rac1 Qd7 26. Qxd7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Jayson Gonzales"]
+[Black "Richard N Bauer"]
+[ECO "D31"]
+[WhiteElo "2370"]
+[BlackElo "2270"]
+[PlyCount "43"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4
+7. Bd2 a5 8. axb5 Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. d5 Nf6
+12. bxc4 b4 13. Bxf6 Qxf6 14. Qa4+ Nd7 15. Nd4 Ke7 16. d6+
+Kxd6 17. Rd1 Rhd8 18. c5+ Nxc5 19. Qb5 Rac8 20. Nc6+ Kc7
+21. Qxa5+ Kxc6 22. Bb5# 1-0

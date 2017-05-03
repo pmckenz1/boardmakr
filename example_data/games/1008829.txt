@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Odion Aikhoje"]
+[Black "Melanie H Buckley"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. Nf3 Nf6 2. d4 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 cxd4
+7. exd4 Bb7 8. O-O O-O 9. Re1 d6 10. Qe2 Nbd7 11. a4 a6 12. c3
+h6 13. Bh4 Nh5 14. Bg3 Nxg3 15. hxg3 Nf6 16. Nc4 b5 17. Ne3
+bxa4 18. Rxa4 Qb6 19. Nc4 Qc7 20. Rea1 Rfb8 21. Na5 d5 22. Ne5
+Nd7 23. Ng4 Bc8 24. Ne3 Bf8 25. Nd1 e5 26. dxe5 Nxe5 27. Bc2
+Bd7 28. Rd4 Rb5 29. b4 Re8 30. Qd2 Be6 31. Ba4 Rc8 32. Bxb5
+axb5 33. Qe2 Nc4 34. Nxc4 dxc4 35. Ne3 Qb7 36. Rdd1 g6 37. Nc2
+Bf5 38. Nd4 Bd3 39. Qe5 Bg7 40. Qxb5 Qe4 41. Re1 Qg4 42. Re8+
+Kh7 43. Rxc8 Qxc8 44. Qd5 Qc7 45. Nb5 Qe5 46. Qxf7 Qxb5
+47. Ra7 Qe5 48. b5 Qxc3 49. b6 Be4 50. b7 Bxb7 51. Rxb7 Qd4
+52. Rd7 Qc3 53. f4 1-0

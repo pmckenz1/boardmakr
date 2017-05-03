@@ -1,0 +1,19 @@
+[Event "Eastbourne ch-GB (04)"]
+[Site "Eastbourne ch-GB (04)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael John Basman"]
+[Black "Jonathan W Rogers"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. h3 b5 2. e3 Bb7 3. Nf3 b4 4. b3 e6 5. Bb2 Nf6 6. c4 d5
+7. d3 Bd6 8. Nbd2 Nbd7 9. Be2 a5 10. O-O O-O 11. a3 Qe7
+12. axb4 axb4 13. Qc2 c5 14. Rxa8 Rxa8 15. Ra1 Qd8 16. cxd5
+exd5 17. d4 Rxa1+ 18. Bxa1 Qa8 19. Qb1 Ne4 20. Nxe4 dxe4
+21. Nd2 Nb6 22. Bb2 Nd5 23. dxc5 Bxc5 24. Nxe4 Nc3 25. Nxc3
+bxc3 26. Bxc3 Bxg2 27. Qf5 Qe4 28. Qxc5 Bxh3 29. Qg5 1-0

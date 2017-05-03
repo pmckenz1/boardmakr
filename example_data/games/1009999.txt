@@ -1,0 +1,24 @@
+[Event "Ch World FIDE, Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Karen Asrian"]
+[Black "Matthew Sadler"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. O-O Be6 9. f4 Qc7 10. f5 Bc4 11. Bg5 Nbd7 12. a4
+O-O 13. Bxc4 Qxc4 14. a5 h6 15. Bh4 Rfc8 16. Ra4 Qc6 17. Qd3
+b5 18. axb6 Nxb6 19. Rxa6 Rxa6 20. Qxa6 Nc4 21. Qxc6 Rxc6
+22. Rb1 Rc8 23. Bxf6 Bxf6 24. Nd5 Ra8 25. Kf2 Ra2 26. Ke2 Bg5
+27. g3 h5 28. h4 Bh6 29. f6 g6 30. Nc3 Rxb2 31. Rxb2 Nxb2
+32. Na5 g5 33. Nb5 gxh4 34. gxh4 Bf8 35. Nc6 Kh7 36. Ne7 Nc4
+37. Kd3 Nb6 38. Nxd6 Nd7 39. Nxf7 Nxf6 40. Nc6 Kg7 41. Nfxe5
+Bd6 42. Nf3 Bg3 43. e5 Ng4 44. Ke4 Kf7 45. c4 Ke8 46. Ncd4
+Nxe5 47. Nxe5 Bxh4 48. Nf5 Bf6 49. Nf3 Kd7 50. Kd5 Bd8 51. c5
+1-0

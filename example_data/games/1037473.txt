@@ -1,0 +1,19 @@
+[Event "Quebec op"]
+[Site "Montreal CAN"]
+[Date "1975.10.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Kevin Spraggett"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.c4 Nf6 7.N5c3
+Be7 8.Be2 O-O 9.O-O b6 10.Bf4 Bb7 11.Nd2 Rc8 12.Re1 Qc7 13.Rc1
+Qb8 14.Bg3 Rfd8 15.b3 Nd4 16.Bd3 a6 17.Nf1 b5 18.Nd5 exd5
+19.exd5 Kf8 20.Bb1 Qa7 21.Bf4 bxc4 22.bxc4 Nxd5 23.cxd5 Rxc1
+24.Bxc1 Qc5 25.Qd3 Qxd5 26.Ne3 Nf3+ 27.gxf3 Qxf3 28.Kf1 Qh3+
+29.Kg1 Qf3 30.Kf1 Qh1+ 31.Ke2 Qf3+ 1/2-1/2

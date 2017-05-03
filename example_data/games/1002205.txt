@@ -1,0 +1,23 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.12"]
+[EventDate "?"]
+[Round "17"]
+[Result "0-1"]
+[White "James Mason"]
+[Black "Jean Taubenhaus"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Nc6 4.d3 Bb4 5.Nf3 d6 6.h3 O-O 7.Bg5
+Bxc3+ 8.bxc3 Qe7 9.Nd2 Nd8 10.Qf3 Ne6 11.Bxf6 Qxf6 12.Qxf6
+gxf6 13.Nf1 Ng7 14.g4 Be6 15.Bb3 Rfd8 16.Ne3 c6 17.f3 Kf8
+18.Ke2 Bd7 19.Kd2 Ne6 20.Ng2 Ke7 21.Ke3 Rg8 22.c4 Nc5 23.Rh2
+h5 24.c3 Rh8 25.Rah1 Rh7 26.d4 Na6 27.Kf2 Rah8 28.Kg3 hxg4
+29.fxg4 Nc7 30.d5 Ne8 31.Ne3 Ng7 32.Rg1 Rg8 33.Kf2 Rgh8 34.Rg3
+Ne8 35.Bd1 Nc7 36.Bf3 cxd5 37.exd5 Na6 38.Be4 Rh6 39.Bf5 Rc8
+40.h4 Nc5 41.Bc2 Rhh8 42.Kf3 b6 43.h5 Nb7 44.h6 Na5 45.Bd3 b5
+46.g5 Nxc4 47.Bxc4 bxc4 48.Rg1 fxg5 49.Rxg5 Rh7 50.Rgh5 f6
+51.Ke4 Rg8 0-1

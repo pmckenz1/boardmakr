@@ -1,0 +1,26 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.01"]
+[EventDate "1922.07.31"]
+[Round "2"]
+[Result "0-1"]
+[White "Davide Marotti"]
+[Black "Efim Bogoljubov"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 {Notes by Geza Maroczy} e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
+5.Nc3 f6 6.d4 exd4 7.Qxd4 Qxd4 8.Nxd4 Bd7 9.Nb3 {White treats
+the opening badly, the knight had temporarily a better place
+on d4; Be3 followed by O-O was worth consideration.} O-O-O
+10.Be3 b6 11.O-O-O {Castling on the queen-side is faulty,
+White has got the majority on the king-side and in order to
+utilise it the king ought to remain there. After the move in
+the text Black gets the advantage.} Ne7 12.a3 Ng6 13.f3 h5
+14.h4 Bd6 15.Ne2 c5 16.Nd2 Be6 17.f4 {A gross oversight. White
+loses his most useful pawn, and with this the game is
+decided.} Bg4 18.Nf3 Rhe8 19.f5 Rxe4 20.fxg6+ Rxe3 21.Nc3 Bf5
+22.Nd5 Re2 23.Rd2 Rxd2 24.Nxd2 Bxg6 25.Re1 Bf7 26.Ne7+ Kb7
+27.Nf5 Bf4 28.Re2 g6 29.Ng7 Bh6 0-1

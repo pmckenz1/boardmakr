@@ -1,0 +1,16 @@
+[Event "It (cat.13), Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1988.01.17"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Gennady Sosonko"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 dxc4 5.e3 a6 6.Bxc4 b5 7.Be2
+Bb7 8.O-O c5 9.a3 Nbd7 10.dxc5 Bxc5 11.b4 Be7 12.Bb2 O-O
+13.Nd4 Rc8 14.Nb3 Nd5 15.Nxd5 Bxd5 16.Bf3 1/2-1/2

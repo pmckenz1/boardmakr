@@ -1,0 +1,21 @@
+[Event "Esbjerg (Denmark)"]
+[Site "Esbjerg DEN"]
+[Date "1982.07.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Heikki Westerinen"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. g3 c6 6. e4 a6
+7. Bg2 b5 8. O-O Bb7 9. Re1 b4 10. Na4 c5 11. d5 g6 12. Nd2
+Bh6 13. f4 O-O 14. Nf3 exf4 15. Bxf4 Bxf4 16. gxf4 Nh5 17. Qd2
+Qf6 18. e5 Qf5 19. exd6 Nxf4 20. Re7 Nxg2 21. Qxg2 Rad8
+22. Qg3 Bc8 23. Rf1 Qf6 24. b3 Qg7 25. Qf4 h6 26. Ne5 g5
+27. Qf5 Nxe5 28. Qxe5 Qg6 29. Nxc5 Bh3 30. Re1 Qc2 31. Qg3 Bf5
+32. d7 Qxa2 33. Qf2 Qxf2+ 34. Kxf2 Kg7 35. Ne6+ Bxe6 36. R1xe6
+a5 37. Ra6 Rb8 38. c5 1-0

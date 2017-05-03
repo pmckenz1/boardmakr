@@ -1,0 +1,19 @@
+[Event "Berlin Thaelmann"]
+[Site "East Berlin GDR"]
+[Date "1989.04.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Uwe Boensch"]
+[Black "Vladimir Bagirov"]
+[ECO "D95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 e6 7.Be2 b6
+8.cxd5 exd5 9.a4 a5 10.O-O Bb7 11.Bd2 Nc6 12.Rfc1 Ne4 13.Be1
+Nb4 14.Na2 Nxa2 15.Qxa2 Qd6 16.Qa3 Qxa3 17.Rxa3 Rfc8 18.Rb3
+Nd6 19.Nd2 f5 20.g3 Kf7 21.f3 Ke7 22.Bf2 Kd7 23.Nb1 Ba6
+24.Bxa6 Rxa6 25.Na3 c6 26.Kf1 Re8 27.Rc2 Rb8 28.h3 h5 29.h4
+1/2-1/2

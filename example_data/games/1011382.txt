@@ -1,0 +1,24 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Alan Minnican"]
+[Black "Jonathan I M Grant"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. c3 d6 6. Bd3 e5
+7. Ne2 g6 8. O-O Bg7 9. Nd2 O-O 10. f4 exd4 11. Nxd4 Nc6
+12. Nb5 Qd8 13. Qe1 a6 14. Na3 b5 15. Nf3 Rb8 16. Nc2 a5
+17. Ncd4 Nxd4 18. cxd4 c5 19. Qg3 cxd4 20. h4 Be6 21. h5 Bc4
+22. Rad1 f5 23. Qxg6 Rf6 24. Bxc4+ bxc4 25. Qg3 d3 26. e5 Rf8
+27. b3 Qb6+ 28. Kh1 d5 29. Nh4 a4 30. Qf3 Qd4 31. g4 fxg4
+32. Qxg4 axb3 33. axb3 Rxb3 34. Qe6+ Kh7 35. Ng6 Qe4+ 36. Kg1
+Rf5 37. Ne7 Rf8 38. Nxd5 Rb2 39. Qg6+ Qxg6+ 40. hxg6+ Kxg6
+41. f5+ Kh7 42. f6 Rd8 43. Nf4 Bxf6 44. exf6 Rb6 45. Nxd3 c3
+46. f7 c2 47. Rc1 Kg7 48. Rxc2 Rg6+ 49. Rg2 Rxg2+ 50. Kxg2 Rf8
+51. Ne5 Rd8 52. Nd7 1-0

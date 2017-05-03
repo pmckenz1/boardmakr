@@ -1,0 +1,20 @@
+[Event "Extra League 1996/97, Czech Republic"]
+[Site "Extra League 1996/97, Czech Republic"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Daniel Kotek"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. g3 c6 5. Nbd2 Nbd7 6. Bg2 Bd6
+7. O-O O-O 8. Qc2 Qe7 9. Re1 e5 10. cxd5 cxd5 11. dxe5 Nxe5
+12. Nxe5 Qxe5 13. Nf3 Qh5 14. Qb3 Re8 15. Bg5 Ne4 16. Be3 b6
+17. Nd4 Bb7 18. Nb5 Be5 19. Rac1 Re7 20. Qa3 Rae8 21. Qxa7 d4
+22. Bxd4 Nxg3 23. fxg3 Bb8 24. Qxb6 Bxg2 25. Kxg2 Qd5+ 26. e4
+Rxe4 27. Rxe4 Qxe4+ 28. Kg1 h5 29. Qc6 Qe2 30. Nc3 Qe7 31. Nd5
+Qe4 32. Bf2 Re6 33. Nf6+ 1-0

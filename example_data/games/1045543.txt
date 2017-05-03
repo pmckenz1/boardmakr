@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.30"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Philip Michael Short"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 h6
+7. Bh4 b6 8. Rc1 Bb7 9. Bd3 Nbd7 10. O-O dxc4 11. Bxc4 c5
+12. Qe2 Nd5 13. Bg3 cxd4 14. Bxd5 Bxd5 15. Nxd5 exd5 16. Nxd4
+Bc5 17. Rfd1 Re8 18. Nb3 Qg5 19. Qf3 Re4 20. h4 Qe7 21. Rxd5
+Re8 22. Qf5 Nf6 23. Nxc5 Nxd5 24. Nxe4 Qxe4 25. Qxe4 Rxe4
+26. Rc8+ Kh7 27. Kf1 Rb4 28. Rd8 Nf6 29. b3 Kg6 30. f3 Rb5
+31. Rc8 a5 32. e4 Nd7 33. Rd8 Nc5 34. Be1 Na6 35. Bf2 Nc5
+36. Rb8 f6 37. a4 1-0

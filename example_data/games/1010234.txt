@@ -1,0 +1,22 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Zoltan Almasi"]
+[Black "Zoltan Varga"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. d5 c6 5. c4 Nbd7 6. Nc3 Nc5
+7. Bc2 a5 8. Nge2 Be7 9. O-O cxd5 10. cxd5 O-O 11. Ng3 g6
+12. Bh6 Re8 13. h3 b5 14. a3 Bd7 15. b4 axb4 16. axb4 Na6
+17. Na2 Bf8 18. Bd2 h5 19. Nc1 h4 20. Nge2 Nh5 21. Nb3 Qf6
+22. Bd3 Reb8 23. Ra5 Nf4 24. Nxf4 exf4 25. Qf3 g5 26. Rfa1 Nc7
+27. Rc1 Ne8 28. Bc3 Qh6 29. Nd4 Rxa5 30. bxa5 b4 31. Bb2 Bg7
+32. a6 Ra8 33. Be2 Be5 34. Qb3 Qf6 35. Qxb4 f3 36. Bxf3 Rxa6
+37. Qb7 Ra2 38. Qxd7 Qf4 39. Qxe8+ Kh7 40. Ne2 Qh2+ 41. Kf1
+1-0

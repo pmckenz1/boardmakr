@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Odessa (RUS)"]
+[Date "1929.09.10"]
+[EventDate "1929.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Pyotr Izmailov"]
+[Black "Mikhail Botvinnik"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Bg5 Nbd7 5.Nc3 c6 6.e3 Qa5 7.Qc2
+Bb4 8.Nd2 O-O 9.Be2 b6 10.O-O Bxc3 11.bxc3 Ba6 12.Bf4 Rac8
+13.Bd6 c5 14.Bxf8 1-0

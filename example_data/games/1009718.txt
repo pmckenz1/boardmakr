@@ -1,0 +1,24 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "David Smerdon"]
+[Black "Joel Harp"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Nh6 6. Bxh6 gxh6
+7. Be2 Qb6 8. Qd2 cxd4 9. cxd4 Bd7 10. Nc3 Rc8 11. O-O Na5
+12. Rac1 Nc4 13. Bxc4 Rxc4 14. b3 Rc8 15. Na4 Qb4 16. Rxc8+
+Bxc8 17. Qc2 Bd7 18. Qc7 Be7 19. Nc5 Bc6 20. Rc1 Qb6 21. Qxb6
+axb6 22. Nd3 Kd7 23. Nf4 Rg8 24. Nh5 Rg6 25. h3 Bb5 26. Nh2
+Ba3 27. Rc2 Bd3 28. Rd2 Bb1 29. Ng4 Ke7 30. Ngf6 Kd8 31. Nxh7
+Rg8 32. N7f6 Rf8 33. Ng4 Ke7 34. Nxh6 Rc8 35. Ng4 Rc1+ 36. Kh2
+Bb4 37. Re2 Bc3 38. Nhf6 Bxd4 39. h4 Rc8 40. h5 Bc3 41. f4 d4
+42. Rf2 d3 43. Rf1 Bxa2 44. h6 Rh8 45. Rd1 d2 46. Ne4 Bb4
+47. Nxd2 Bxd2 48. Rxd2 Bxb3 49. Kg3 b5 50. Nf6 Bd5 51. Kg4 b4
+52. Kg5 b3 53. h7 b2 54. Rxb2 Kf8 55. Kh6 Bc6 56. Rd2 1-0

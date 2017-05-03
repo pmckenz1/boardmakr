@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Costas Harris"]
+[Black "R Alan Barton"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 e6 4. d3 f5 5. O-O Nf6 6. c4 Be7
+7. Nc3 O-O 8. Qc2 Qe8 9. Nb5 Na6 10. a3 c6 11. Nc3 d6 12. Nd4
+Nc7 13. Ncb5 cxb5 14. Bxb7 Rb8 15. Bc6 Qh5 16. Bg2 Rf7
+17. cxb5 Bf8 18. Nc6 Ra8 19. a4 g5 20. f4 gxf4 21. Rxf4 e5
+22. Rh4 Qg6 23. e4 fxe4 24. dxe4 Ne6 25. Bh3 Ng5 26. Bxg5 Qxg5
+27. Be6 Qe3+ 28. Kh1 Bh6 29. Qb3 d5 30. Qxe3 Bxe3 31. Nxe5 Kg7
+32. Nxf7 dxe4 33. Nd6 Bg5 34. Rh3 e3 35. g4 Rd8 36. Nf5+ Kf8
+37. Re1 Nxg4 38. Rxh7 Rd2 39. Rh8# 1-0

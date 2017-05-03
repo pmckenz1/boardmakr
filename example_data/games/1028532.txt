@@ -1,0 +1,16 @@
+[Event "Caracas"]
+[Site "Caracas VEN"]
+[Date "1970.07.11"]
+[EventDate "?"]
+[Round "17"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Lubomir Kavalek"]
+[ECO "D90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 d5 4.Nf3 Bg7 5.Qa4+ Bd7 6.Qb3 Bc6 7.e3
+e6 8.Ne5 dxc4 9.Bxc4 Bxg2 10.Rg1 Bc6 11.Bxe6 fxe6 12.Qxe6+ Qe7
+13.Qc8+ Qd8 14.Qe6+ Qe7 15.Qc8+ Qd8 16.Qe6+ 1/2-1/2

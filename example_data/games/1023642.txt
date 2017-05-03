@@ -1,0 +1,23 @@
+[Event "04, Ter Apel"]
+[Site "Ter Apel NED"]
+[Date "1990.02.15"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Helmut Pfleger"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6 7.Bd3
+Nbd7 8.Nge2 O-O 9.Qc2 Re8 10.O-O a5 11.f3 Nf8 12.Rae1 b6
+13.Kh1 Ra7 14.Bh4 Ng6 15.Bf2 Bd6 16.h3 Bb8 17.e4 dxe4 18.fxe4
+Be6 19.e5 Nd5 20.Nxd5 Bxd5 21.Nc3 Be6 22.Bg1 Rc7 23.a3 Rd7
+24.Be4 Qc7 25.Qe2 Rc8 26.Qh5 Qd8 27.Bf5 Qe8 28.Ne4 Nf8 29.Qg5
+Kh8 30.Qg4 Rcd8 31.Ng5 Kg8 32.Qh4 h6 33.Ne4 Bxf5 34.Rxf5 Ng6
+35.Qg4 Qe6 36.Ref1 Re8 37.Qh5 a4 38.Rf6 Qd5 39.Rxg6 Qxe4
+40.Rg4 Qh7 41.Rf6 Kf8 42.Rxc6 Bc7 43.Be3 f6 44.Rxf6+ gxf6
+45.Bxh6+ Ke7 46.Rg7+ Qxg7 47.Bxg7 fxe5 48.Qg5+ Ke6 49.Qg6+ Ke7
+50.Qf6+ 1-0

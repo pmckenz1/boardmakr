@@ -1,0 +1,18 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Csaba Horvath"]
+[Black "Istvan Csom"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. Qc2 c6
+7. e3 Bg4 8. Bd3 Nbd7 9. Nge2 Bxe2 10. Bxe2 O-O 11. O-O Ne4
+12. Bxe7 Qxe7 13. Nxe4 dxe4 14. b4 Nf6 15. Rab1 a6 16. a4 Rfd8
+17. b5 cxb5 18. axb5 a5 19. Rfc1 Nd5 20. Bc4 Nb4 21. Qb3 b6
+1/2-1/2

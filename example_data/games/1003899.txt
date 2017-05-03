@@ -1,0 +1,24 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.26"]
+[EventDate "1923.11.16"]
+[Round "6"]
+[Result "0-1"]
+[White "F Fischer"]
+[Black "Ernst Gruenfeld"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 Nf6 2. d3 c5 3. c3 Nc6 4. Nf3 d6 5. Be2 g6 6. h3 Bg7
+7. Be3 O-O 8. Nbd2 b6 9. Qc2 Bb7 10. Rd1 Rc8 11. Qb1 Ne8
+12. Nf1 d5 13. Ng3 d4 14. Bd2 dxc3 15. bxc3 h6 16. O-O e5
+17. Nh2 Nc7 18. Qc1 Kh7 19. f4 exf4 20. Rxf4 Ne6 21. Rf2 Qh4
+22. Nh1 Ne5 23. Rdf1 Rcd8 24. Nf3 Nxf3+ 25. Rxf3 Qe7 26. Ng3
+Ng5 27. R3f2 c4 28. Bxg5 hxg5 29. d4 f6 30. Bf3 b5 31. a3 Bc8
+32. Re1 Rfe8 33. Qb2 Bd7 34. Nf1 Qd6 35. Ne3 Bc6 36. Ng4 f5
+37. Nh2 fxe4 38. Bg4 Rf8 39. Rfe2 Rf7 40. Qb4 Qc7 41. Nf1 Bf8
+42. Qb2 Qd6 43. Ra1 Be7 44. Nd2 Qg3 45. Nf1 Qd6 46. Ne3 Rf6
+47. Ree1 Rdf8 48. Qb4 Qc7 49. Qb2 Qf4 50. Qe2 Qg3 51. Nf1 Qxc3
+0-1

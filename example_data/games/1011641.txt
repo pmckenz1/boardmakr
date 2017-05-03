@@ -1,0 +1,23 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Zoran Jovanovic"]
+[Black "Armin Kekic"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7
+7. c3 d6 8. O-O O-O 9. Rd1 Na5 10. Bc2 c5 11. d4 Qc7 12. d5
+Bd7 13. b3 Nb7 14. Nbd2 Rfc8 15. a4 bxa4 16. bxa4 Na5 17. Rb1
+Rcb8 18. Ba3 Bc8 19. Nc4 Rxb1 20. Rxb1 Nxc4 21. Qxc4 Rb8
+22. Re1 Nd7 23. Nd2 Bf6 24. Nf1 g6 25. Bc1 Bg7 26. Ne3 Qa5
+27. Bd2 Qd8 28. Qa2 Bf8 29. Bd3 Qc7 30. Rf1 Bg7 31. a5 Nf8
+32. Nc4 Nd7 33. f4 Rb5 34. f5 Rb8 35. Bg5 f6 36. Bd2 Nf8
+37. g4 g5 38. h4 h6 39. hxg5 hxg5 40. Kg2 Bd7 41. Nb6 Bb5
+42. Bxb5 axb5 43. Rb1 Nd7 44. Rxb5 Nxb6 45. axb6 Rxb6 46. Qa5
+1-0

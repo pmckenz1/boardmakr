@@ -1,0 +1,26 @@
+[Event "10s, IGC2"]
+[Site "10s, IGC2 Hiarcs 7.32"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Zenon Franco Ocampos"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 Qa5+ 5. Nbd2 cxd4 6. O-O
+Nc6 7. Nb3 Qc7 8. Nbxd4 a6 9. c4 d6 10. e4 Be7 11. b3 Bd7
+12. Re1 O-O 13. Bb2 b6 14. Rc1 Rfd8 15. a3 Rac8 16. Qe2 Nxd4
+17. Nxd4 Qb8 18. b4 Ne8 19. f4 b5 20. cxb5 axb5 21. Bf1 Qb6
+22. Kh1 Rxc1 23. Rxc1 Rb8 24. h3 Nf6 25. Bg2 Re8 26. Kh2 Bd8
+27. e5 dxe5 28. Qxe5 Be7 29. Qc7 Qxc7 30. Rxc7 Bd6 31. Rb7 e5
+32. Ne2 exf4 33. Nxf4 Bxf4 34. gxf4 Re2 35. Rb8+ Ne8 36. Kg3
+Rxb2 37. Rd8 Rb3+ 38. Kf2 Rb2+ 39. Kg3 Rb3+ 40. Kf2 Rb2+
+41. Kg3 Rd2 42. Bc6 Bxc6 43. Rxd2 Kf8 44. Kf2 Ke7 45. Ke3 Nc7
+46. f5 g6 47. fxg6 hxg6 48. h4 Ne6 49. Rh2 f5 50. h5 gxh5
+51. Rxh5 Kf6 52. Rh8 Ke5 53. Rb8 Nd4 54. Kd3 f4 55. Rh8 Be4+
+56. Kd2 f3 57. Rf8 Nf5 58. Ke1 Kd4 59. Kf2 Ne3 60. Rf7 Ng4+
+61. Kg3 Ne5 62. Re7 Nd3 0-1

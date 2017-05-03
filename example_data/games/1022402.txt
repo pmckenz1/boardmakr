@@ -1,0 +1,18 @@
+[Event "Simul, Dublin"]
+[Site "Simul, Dublin"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Danny Roberts"]
+[Black "Alexander Baburin"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 c5 7.d5 e6
+8.Nc3 exd5 9.cxd5 c4 10.Nf3 Bg4 11.Qd4 Bxf3 12.gxf3 Bb4
+13.Bxc4 O-O 14.Bh6 gxh6 15.Rg1+ Kh8 16.e6 f6 17.O-O-O Bd6
+18.Bd3 Na6 19.Qh4 Nc5 20.Bf5 Qe7 21.Nb5 Nc8 22.Rg4 a6 23.Rdg1
+Bf4+ 24.Rxf4 axb5 25.Qxh6 Nd6 26.Bxh7 1-0

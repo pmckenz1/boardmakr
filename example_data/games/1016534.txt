@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Reykjavik (Iceland)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Gudmundur Gislason"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.b3
+O-O 8.Bb2 d6 9.e3 Nbd7 10.d4 a6 11.d5 e5 12.a4 Ne8 13.Qc2 g6
+14.Nd2 f5 15.f4 Bf6 16.Rae1 Ng7 17.Bh3 Re8 18.e4 exf4 19.exf5
+Bd4+ 20.Kg2 Rxe1 21.Rxe1 fxg3 22.fxg6 gxh2 23.Nf3 Ne5 24.gxh7+
+Kh8 25.Rxe5 dxe5 26.Ne4 Qf8 27.Neg5 Qf6 28.Kxh2 Re8 29.Qd2
+Bxb2 30.Qxb2 Qf4+ 31.Kh1 Re7 32.Qh2 Qf6 33.Qxe5 Ne8 34.Qxf6+
+Nxf6 35.Ne5 Nxh7 36.Ng6+ Kg7 37.Nxe7 Nxg5 38.Bc8 Bxc8 39.Nxc8
+Ne4 40.d6 Nf6 41.Nxb6 Kf7 42.Kg2 Ke8 43.Kf3 Kd8 44.Kf4 1-0

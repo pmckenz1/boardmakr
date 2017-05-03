@@ -1,0 +1,16 @@
+[Event "It (cat.11)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Pablo Zarnicki"]
+[Black "Nick DeFirmian"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 d6 6.Qxd4 e6 7.Nbd2
+Nc6 8.Bb5 Bd7 9.Bxc6 Bxc6 10.Ne4 dxe5 11.Nxe5 Nb4 12.Qxd8+
+Rxd8 13.Nxc6 Nxc6 14.Be3 Be7 15.Ke2 1/2-1/2

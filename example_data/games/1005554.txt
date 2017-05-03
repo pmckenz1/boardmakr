@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "1-0"]
+[White "Alexander Kovalenko"]
+[Black "Alexander Aniskovitch"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "2111"]
+[PlyCount "80"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 Nge7 6. d3 O-O
+7. Nge2 d6 8. O-O Bf5 9. a3 Qd7 10. b4 Bh3 11. Bb2 Bxg2
+12. Kxg2 h5 13. Nd5 h4 14. Nec3 Nxd5 15. Nxd5 Nd8 16. e4 c6
+17. Ne3 Ne6 18. Qg4 Qe7 19. f4 exf4 20. Bxg7 Nxg7 21. gxf4 Kh8
+22. f5 Qf6 23. Kh3 Qd4 24. f6 Qxe3+ 25. Rf3 Qd4 26. fxg7+ Kxg7
+27. Raf1 Rad8 28. Kg2 d5 29. cxd5 cxd5 30. Qxh4 dxe4 31. dxe4
+Rc8 32. Qe7 Rc2+ 33. Kh1 Qc4 34. Qe5+ f6 35. Rxf6 Rxf6
+36. Qxf6+ Kh7 37. Qe7+ Kh6 38. Qf8+ Kh5 39. Qh8+ Kg4 40. Rg1+
+Kf3 1-0

@@ -1,0 +1,17 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "0-1"]
+[White "Michail Kolkin"]
+[Black "Yury Poluektov"]
+[ECO "A00"]
+[WhiteElo "2206"]
+[BlackElo "2257"]
+[PlyCount "32"]
+
+1. g4 d5 2. Bg2 e5 3. c4 d4 4. h3 c5 5. e4 Be7 6. d3 Bg5
+7. Bxg5 Qxg5 8. Qd2 Qxd2+ 9. Nxd2 Nc6 10. a3 Nge7 11. Ne2 Ng6
+12. O-O Nf4 13. Nxf4 exf4 14. Nb3 b6 15. e5 Bb7 16. Rfe1 Na5
+0-1

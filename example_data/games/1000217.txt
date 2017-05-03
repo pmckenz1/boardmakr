@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Mark Knecht"]
+[Black "Tim Redman"]
+[ECO "A48"]
+[WhiteElo "2112"]
+[BlackElo "2012"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 d6 4. h3 c5 5. c3 Nbd7 6. e3 Bg7
+7. Be2 O-O 8. O-O b6 9. a4 Bb7 10. Nbd2 h6 11. a5 Re8 12. Bh2
+e5 13. dxe5 dxe5 14. Nc4 Ne4 15. axb6 axb6 16. Rxa8 Bxa8
+17. Qa4 Ng5 18. Rd1 Nxf3+ 19. Bxf3 Bxf3 20. Rxd7 Qg5 21. Bg3
+Bh5 22. Nd6 Rf8 23. Bh4 1-0

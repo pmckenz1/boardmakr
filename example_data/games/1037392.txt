@@ -1,0 +1,18 @@
+[Event "Chess Olympiad Final-A"]
+[Site "Lugano SUI"]
+[Date "1968.10.26"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Theodor Ghitescu"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.Nh3 Bg7 6.O-O e6 7.d3
+Nge7 8.Be3 O-O 9.Qd2 Nd4 10.Bh6 e5 11.Bxg7 Kxg7 12.f4 f6
+13.Nd1 Be6 14.c3 Ndc6 15.Ne3 Qd7 16.Nf2 d5 17.fxe5 Nxe5 18.d4
+cxd4 19.cxd4 N5c6 20.Rad1 Rad8 21.Qc3 dxe4 22.d5 Nxd5 23.Nxd5
+Bxd5 24.Nxe4 Qe7 25.Nxf6 Rxf6 26.Bxd5 Qe5 27.Rxf6 Qxf6 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1-0"]
+[White "Leif Erlend Johannessen"]
+[Black "Ralf Schnabel"]
+[ECO "A81"]
+[WhiteElo "2431"]
+[BlackElo "2233"]
+[PlyCount "83"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b3 c6
+7. Bb2 Qe8 8. c4 d6 9. Qc2 h6 10. Nbd2 Na6 11. Rae1 Qf7 12. e4
+Nb4 13. Qc3 fxe4 14. Nxe4 Nxe4 15. Rxe4 Bf5 16. Rf4 Nxa2
+17. Qa5 g5 18. Rxf5 Qxf5 19. Qxa2 Qd3 20. Ne1 Qd2 21. Qb1 a5
+22. Qc2 Qxc2 23. Nxc2 Ra6 24. Re1 Rb6 25. Re3 Bf6 26. Bh3 Rd8
+27. Ba3 Ra6 28. Be6+ Kg7 29. Rd3 b5 30. Ne3 b4 31. Bb2 a4
+32. Nf5+ Kg6 33. bxa4 d5 34. c5 Rxa4 35. g4 Rh8 36. Rb3 Rb8
+37. Kf1 Ra7 38. Ke2 Rab7 39. Kd3 h5 40. gxh5+ Kxh5 41. Ne3 Rf8
+42. f3 1-0

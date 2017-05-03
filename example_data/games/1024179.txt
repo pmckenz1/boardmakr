@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1971.12.04"]
+[EventDate "1971.11.24"]
+[Round "8"]
+[Result "1-0"]
+[White "Vladimir Borisovich Tukmakov"]
+[Black "Yuri Balashov"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.Be3
+Qe7 8.d5 Ng4 9.Bg5 f6 10.Bh4 Nh6 11.Nd2 Nf7 12.O-O h5 13.f3 a5
+14.a3 Bh6 15.Rb1 Na6 16.b4 axb4 17.axb4 Bd7 18.Bd3 Bg5 19.Bf2
+f5 20.Qe2 b6 21.Qd1 Bh4 22.Bxh4 Qxh4 23.Qe2 Nb8 24.Ra1 Rxa1
+25.Rxa1 Qg5 26.Nb3 Kh7 27.Ra7 Rc8 28.Qd2 Qf6 29.Qe3 Nh6 30.c5
+bxc5 31.bxc5 dxc5 32.Nxc5 Qb6 33.Rb7 Qa5 34.Nb5 Qa1+ 35.Bf1
+Bxb5 36.Rxb5 f4 37.Qf2 Nf7 38.Ne6 Nd7 39.Rb7 Nd6 40.Qh4 Re8
+41.Rxc7 1-0

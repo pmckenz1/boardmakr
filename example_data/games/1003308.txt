@@ -1,0 +1,21 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Milan Vidmar"]
+[Black "Arthur Sartori"]
+[ECO "B41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 Qc7
+7. O-O Nc6 8. Be3 Bb4 9. f3 Bxc3 10. bxc3 d5 11. Rb1 b5
+12. Nxc6 Qxc6 13. e5 Nd7 14. Bd4 O-O 15. Qd2 f5 16. f4 Nc5
+17. Rf3 Ne4 18. Qe3 Bd7 19. h3 Rab8 20. g4 g6 21. Kh2 Kh8
+22. a3 Rg8 23. g5 Rgc8 24. h4 Kg7 25. h5 Rh8 26. Rh3 Qc7
+27. Kg2 Qa5 28. Bc5 Kf7 29. Rbh1 Rhg8 30. hxg6+ hxg6 31. Rh7+
+Rg7 32. Rxg7+ Kxg7 33. Qh3 Nxg5 34. fxg5 Kf7 35. Qh7+ Ke8
+36. Qe7# 1-0

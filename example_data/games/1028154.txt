@@ -1,0 +1,32 @@
+[Event "03.08 R02 GBR London"]
+[Site "London ENG"]
+[Date "1892.03.08"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Henry Edward Bird"]
+[Black "Emanuel Lasker"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "203"]
+
+1.f4 d5 2.Nf3 Nf6 3.e3 g6 4.d4 Bg7 5.Bd3 O-O 6.O-O c5 7.c3
+Nbd7 8.Bd2 Qb6 9.Qc1 Ne4 10.Be1 Nd6 11.Nbd2 Re8 12.a4 c4
+13.Bc2 Nf6 14.a5 Qc7 15.Bg3 Bf5 16.Nh4 e6 17.Nxf5 exf5 18.Re1
+Re6 19.Nf3 Nde4 20.Ng5 Re7 21.Bh4 Nxg5 22.Bxg5 Rc8 23.Bd1 Rd7
+24.Bxf6 Bxf6 25.Bf3 Rd6 26.Qc2 Bd8 27.g3 Rd7 28.Qg2 Qc6 29.g4
+Kh8 30.gxf5 Bh4 31.Re2 Rg8 32.Qh3 gxf5 33.Rg2 Rxg2+ 34.Bxg2
+Qf6 35.Rf1 Rd8 36.Kh1 Rd6 37.Qf3 Qg6 38.Bh3 Bd8 39.Rg1 Qe6
+40.Qh5 Qe4+ 41.Bg2 Qe6 42.Bh3 Qe4+ 43.Bg2 Qe6 44.Rf1 Qg6
+45.Qf3 Qg4 46.Qf2 Bh4 47.Qc2 Rh6 48.Bf3 Qh3 49.Qg2 Qxg2+
+50.Kxg2 Rd6 51.Ra1 Bd8 52.Ra4 Rd7 53.Rb4 a6 54.Ra4 Kg7 55.Kf2
+Kf6 56.Bg2 Ke6 57.Bh3 Re7 58.e4 dxe4 59.Rxc4 Rc7 60.Ra4 Rd7
+61.Ke3 Rd5 62.b4 Bf6 63.Bf1 Rd8 64.b5 axb5 65.Bxb5 Rc8 66.c4
+Ra8 67.c5 Kd5 68.Bc4+ Kc6 69.Bxf7 Kb5 70.Ra2 Rd8 71.Rd2 Kxa5
+72.Be6 Kb5 73.Bxf5 b6 74.cxb6 Kxb6 75.Bxh7 Kb5 76.Bxe4 Kc4
+77.d5+ Kc5 78.Rc2+ Kd6 79.Rc6+ Ke7 80.Kf3 Rh8 81.Kg2 Rg8+
+82.Kf3 Rh8 83.Rc2 Kd6 84.Ra2 Bd8 85.Ra6+ Ke7 86.Re6+ Kf7
+87.Bg6+ Kg7 88.Kg3 Bf6 89.Be4 Kf7 90.Bf3 Rg8+ 91.Bg4 Rd8
+92.Ra6 Be7 93.h4 Bd6 94.h5 Kg7 95.Bf3 Kf6 96.Be4 Kg7 97.Ra7+
+Kf6 98.h6 Rg8+ 99.Kf3 Rg1 100.h7 Rh1 101.Ra8 Kg7 102.Rg8+ 1-0

@@ -1,0 +1,23 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Jerry Simon"]
+[Black "Jacob Chudnovsky"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5
+7. e4 Nxc3 8. bxc3 Bxe4 9. Ne5 c6 10. Qe2 Bg6 11. h4 Qd5
+12. Rh3 Qe4 13. Be3 Bd6 14. Nc4 Be7 15. f3 Qc2 16. Bd2 h5
+17. Qe5 Qf5 18. Qc7 Qd5 19. Ne5 Nd7 20. Bc4 Qd6 21. Qxd6 Bxd6
+22. Nxg6 fxg6 23. Bxe6 Ke7 24. Bb3 Rhe8 25. Kf2 Nf6 26. Rhh1
+Kf8 27. a4 Re7 28. Rhe1 Rae8 29. Rxe7 Rxe7 30. c4 c5 31. d5
+Be5 32. Ra2 a5 33. Bg5 Bd4+ 34. Kf1 Be3 35. Bc2 Kf7 36. Bxe3
+Rxe3 37. Rb2 Rc3 38. Bb3 Rc1+ 39. Kf2 Ne8 40. Re2 Nd6 41. Re6
+Nxc4 42. Bxc4 Rxc4 43. Rxb6 Rxa4 44. Rb5 Ra2+ 45. Kg3 Rd2
+46. Rxc5 a4 47. Ra5 a3 48. Rxa3 Rxd5 49. Kf4 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Jesper Hall"]
+[Black "Christopher Lutz"]
+[ECO "B53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. c4 Nc6 6. Qd2 g6
+7. b3 Bg7 8. Nc3 Nf6 9. Bb2 O-O 10. Be2 Bg4 11. h3 Bxf3
+12. Bxf3 Rb8 13. O-O b5 14. Nd5 e6 15. Nxf6+ Bxf6 16. cxb5
+Bxb2 17. Qxb2 axb5 18. Rac1 Rb6 19. Be2 b4 20. f4 Ne7 21. Rcd1
+d5 22. Qd4 Rb8 23. exd5 Qxd5 24. Bf3 Qa5 25. Qf2 Rbd8 26. Rc1
+Rc8 27. Rc4 Nf5 1/2-1/2

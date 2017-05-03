@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Holger Eng"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 Bb4
+7. e3 O-O 8. Rc1 Nc6 9. Qb3 a5 10. cxd5 a4 11. Qd1 exd5 12. a3
+Bxc3+ 13. Rxc3 Bg4 14. Be2 Qd6 15. Qc2 f5 16. Rc5 Kh8 17. h3
+Bh5 18. Ne5 Bxe2 19. Nxc6 bxc6 20. Kxe2 f4 21. Rxc6 fxe3
+22. Rxd6 Rxf2+ 23. Kd3 Rxc2 24. Rxh6+ gxh6 25. Kxc2 Rg8 26. g4
+Kg7 27. Re1 Re8 28. Kd3 Rb8 29. Kxe3 Rxb2 30. Rc1 Rb3+ 31. Kf4
+Rxh3 32. Rxc7+ Kf6 33. Rc6+ Kg7 34. Rc7+ Kf6 35. Rc6+ Kg7
+1/2-1/2

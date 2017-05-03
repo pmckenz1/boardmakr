@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1975.08.28"]
+[EventDate "1975.08.17"]
+[Round "11"]
+[Result "0-1"]
+[White "Michael John Basman"]
+[Black "Andras Adorjan"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 g6 2.Nc3 Bg7 3.f4 c5 4.Nf3 Nc6 5.Bb5 Nd4 6.Bd3 d6 7.Nxd4
+cxd4 8.Ne2 Nf6 9.O-O O-O 10.c3 e5 11.cxd4 exd4 12.b3 Re8
+13.Ng3 h5 14.f5 h4 15.Ne2 Nxe4 16.Bxe4 Rxe4 17.d3 Re5 18.fxg6
+Bg4 19.gxf7 Kh7 20.Rf4 Bxe2 21.Qe1 Bh5 22.Qxh4 Qxh4 23.Rxh4
+Bf6 24.Rf4 Kg7 25.Ba3 Re6 26.Raf1 Rf8 27.Bb2 Rxf7 28.g4 Be5
+29.Bxd4 Rxf4 30.Rxf4 Bg6 31.Bxe5+ dxe5 32.Ra4 a6 33.Rb4 b5
+34.d4 e4 35.Kf2 e3 36.Ke1 Bd3 0-1

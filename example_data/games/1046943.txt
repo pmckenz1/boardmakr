@@ -1,0 +1,19 @@
+[Event "Russia"]
+[Site "x"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Georgy Timoshenko"]
+[ECO "E48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2
+Re8 8.O-O Bf8 9.Nf4 b6 10.f3 Bb7 11.Bc2 g6 12.Re1 Na6 13.Ba4
+Re7 14.Nd3 c5 15.Ne5 Rc8 16.Bd2 Bg7 17.Ne2 Ne8 18.Bc3 Nd6
+19.dxc5 bxc5 20.Ng4 Nf5 21.Bxg7 Kxg7 22.Ng3 Nxg3 23.hxg3 Qd6
+24.e4 h5 25.Ne3 d4 26.Nf1 c4 27.Rc1 Nb4 28.Bb5 d3 29.Ne3 d2
+30.Rf1 dxc1=Q 31.Nf5+ gxf5 32.Qxd6 0-1

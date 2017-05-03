@@ -1,0 +1,20 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Manila PHI"]
+[Date "1992.06.11"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Eliska Klimova-Richtrova"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nb6 8.Nc3 Nc6 9.d5 Na5 10.e4 c6 11.Bg5 h6 12.Bf4 cxd5 13.Nxd5
+Nac4 14.Nc7 Rb8 15.Nb5 e5 16.Bc1 Qd7 17.Nxa7 Rd8 18.Qe1 Ra8
+19.Nxc8 Nxc8 20.Qe2 Qd3 21.Qxd3 Rxd3 22.b3 N4d6 23.Bb2 f6
+24.Rfe1 g5 25.Re2 Nb5 26.Rc2 Ncd6 27.Ne1 Nd4 28.Nxd3 Nxc2
+29.Rc1 Nd4 30.Bxd4 exd4 31.a4 Re8 32.Rc7 Bf8 33.Kf1 b5 34.a5
+b4 35.a6 Rc8 36.a7 1-0

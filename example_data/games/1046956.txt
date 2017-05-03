@@ -1,0 +1,20 @@
+[Event "Kstovo URUSO"]
+[Site "04"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Lazar Kapeljus"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 e6 2.c4 d5 3.Nf3 c6 4.Nc3 dxc4 5.e3 b5 6.a4 Qb6 7.Bd2 Nf6
+8.axb5 cxb5 9.b3 a5 10.bxc4 b4 11.c5 Qb7 12.Na4 Nbd7 13.Bd3
+Qc6 14.O-O Ba6 15.Nb2 Bxd3 16.Nxd3 Be7 17.Nfe5 Qc8 18.Qb3 O-O
+19.Nc6 Bd8 20.Ncxb4 Bc7 21.Nc6 Qa6 22.Bxa5 Qxd3 23.Bxc7 Rxa1
+24.Rxa1 Qc3 25.Qd1 Nd5 26.Bd6 Re8 27.e4 N5f6 28.Ne7+ Kh8 29.e5
+Ne4 30.Qa4 Rd8 31.Qa5 Re8 32.Qxc3 Nxc3 33.c6 Nb6 34.c7 g5
+35.Ra6 Ncd5 36.Nxd5 Nxd5 1-0

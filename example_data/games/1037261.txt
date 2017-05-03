@@ -1,0 +1,25 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Tibor Tolnai"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.e3 Bg7 5.d4 d6 6.h3 Nf6 7.d5 Na5
+8.Bd3 O-O 9.e4 b6 10.Bg5 h6 11.Be3 e6 12.Qd2 Kh7 13.b3 a6
+14.dxe6 Bxe6 15.O-O Nc6 16.Rad1 Ra7 17.Nh2 Re8 18.f4 Bc8
+19.Nf3 Rae7 20.Bf2 Bb7 21.Bb1 Qc8 22.Rfe1 Kg8 23.Re2 Re6
+24.Rde1 Qb8 25.Nd5 b5 26.g4 bxc4 27.bxc4 Ne7 28.Bc2 Qc8 29.Bg3
+Nexd5 30.exd5 Nxd5 31.cxd5 Rxe2 32.Rxe2 Rxe2 33.Qxe2 Bxd5
+34.f5 Qc6 35.Nd2 gxf5 36.gxf5 Bxa2 37.Qe7 Bf8 38.Qe2 d5 39.Be5
+f6 40.Qg2+ Bg7 41.Bf4 Kh8 42.Qg6 c4 43.Bxh6 Qb6+ 44.Kf1 Bxh6
+45.Qxh6+ Kg8 46.Nf3 Qb2 47.Qg6+ Kf8 48.Ba4 Bb1 49.Qe8+ Kg7
+50.Qg6+ Kf8 51.Bd7 Ke7 52.Qe8+ Kd6 53.Qe6+ Kc7 54.Qc6+ Kd8
+55.Be6 Qb5 56.Qd6+ Ke8 57.Bxd5 c3 58.Kf2 Qb2+ 59.Kg3 Bxf5
+60.Qxf6 1-0

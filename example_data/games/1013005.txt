@@ -1,0 +1,25 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1933.05.23"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alekhine / Mme De Gosselin"]
+[Black "Tartakower / Lucien De Villeneuve"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Nc3 Be7
+7. Bd3 Nc6 8. Be3 O-O 9. Qh5 g6 10. Qd1 Nb4 11. Be2 Bf5
+12. Rc1 Bg5 13. a3 Nc6 14. f4 Re8 15. fxg5 Rxe3 16. Nf3 Bg4
+17. O-O Bxf3 18. Bxf3 Qxg5 19. Nd5 Nxd5 20. cxd5 Nxd4 21. Qxd4
+Rxf3 22. Rfe1 Rf5 23. Rxc7 Rxd5 24. Qc4 b5 25. Qc6 Rf8
+26. Rxa7 Qd2 27. Qc3 Qxc3 28. bxc3 Rd3 29. Rb1 Re8 30. Rf1 f5
+31. Rb1 Re2 32. h4 Rg3 33. Rxb5 Rgxg2+ 34. Kf1 Ref2+ 35. Ke1
+Rb2 36. Rxb2 Rxb2 37. a4 Rh2 38. a5 Rxh4 39. a6 Ra4 40. Ke2 h5
+41. Kf3 g5 42. Kg3 f4+ 43. Kh3 g4+ 44. Kh4 f3 45. Ra8+ Kg7
+46. Ra7+ Kg6 47. Ra8 Ra1 48. a7 Kg7 49. Rb8 Rxa7 50. Rb1 Rf7
+51. Rf1 f2 52. c4 Kg6 53. Kg3 Kg5 54. Kg2 h4 55. Kh2 Rf3
+56. Kg2 h3+ 57. Kh2 Kh4 0-1

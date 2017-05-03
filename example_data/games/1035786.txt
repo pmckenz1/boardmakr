@@ -1,0 +1,16 @@
+[Event "San Mateo CA USA"]
+[Site "San Mateo, CA USA"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Burt Izumikawa"]
+[Black "Thomas Brownscombe"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nc3 e6 3.Nge2 a6 4.g3 b5 5.Bg2 Bb7 6.O-O Nf6 7.d3 d5
+8.exd5 Nxd5 9.Ne4 Be7 10.d4 Nd7 11.b3 Qc7 12.c4 N5f6 13.Bf4 e5
+14.Nxf6+ Bxf6 15.dxe5 Bxe5 16.Bxe5 1/2-1/2

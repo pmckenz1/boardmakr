@@ -1,0 +1,23 @@
+[Event "Bs As KONEX op"]
+[Site "Bs As KONEX op"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Andres Rodriguez Vila"]
+[Black "Gustavo Mahia"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6
+7.Nd5 Nxd5 8.exd5 Ne7 9.c4 Nf5 10.Bd3 Be7 11.O-O O-O 12.Kh1
+Nh4 13.f4 f5 14.c5 dxc5 15.Bc4 Bf6 16.d6 Kh8 17.fxe5 Bxe5
+18.Qd5 Bf6 19.Qxc5 Bd7 20.Nc7 Rc8 21.Bd5 Ng6 22.Bxb7 Rb8
+23.Bf3 Be5 24.Be3 Qh4 25.Bg1 Rxb2 26.Rae1 Qf6 27.Rxe5 Qxe5
+28.Qxe5 Nxe5 29.Bd4 Nxf3 30.Bxb2 Nd2 31.Rd1 Ne4 32.Bd4 a5
+33.Rb1 Kg8 34.Be5 h6 35.Nd5 Kf7 36.Rb7 Ke6 37.Nf4+ Kxe5
+38.Ng6+ Kxd6 39.Nxf8 Bc6 40.Rxg7 h5 41.Rh7 Be8 42.Rh6+ Ke7
+43.Ng6+ Kf6 44.Nf4 Kg5 45.Re6 Bf7 46.Nh3+ Kg4 47.Ra6 Bxa2
+48.Rg6+ Kh4 49.Nf4 Ng5 50.g3 Kg4 51.Kg2 1-0

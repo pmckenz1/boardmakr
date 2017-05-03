@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Bagyashree Sathe Thipsay"]
+[Black "Andrew Greet"]
+[ECO "B74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be2 Bg7
+7. Be3 O-O 8. O-O Nc6 9. Nb3 Be6 10. f4 Rc8 11. Kh1 Na5 12. f5
+Bc4 13. Bd3 a6 14. Qe2 Bxd3 15. cxd3 Nxb3 16. axb3 d5 17. Bg5
+d4 18. Nb1 Nd7 19. Nd2 h6 20. Bh4 Ne5 21. Nc4 Rc6 22. Nxe5
+Bxe5 23. Rac1 Rxc1 24. Rxc1 Qd6 25. h3 Kg7 26. Bf2 Rd8 27. Be1
+Qf6 28. fxg6 Qf4 0-1

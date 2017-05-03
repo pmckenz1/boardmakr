@@ -1,0 +1,18 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Veniamen Shtyrenkov"]
+[ECO "E71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 h6 7.Be3 e5
+8.d5 Nbd7 9.Bd3 Nh5 10.g3 c6 11.Qd2 Nc5 12.Bc2 cxd5 13.cxd5
+Kh7 14.Nge2 Bd7 15.g4 Nf6 16.b4 Na6 17.Rb1 Nc7 18.Bd3 Ng8
+19.Kf1 Bf6 20.Kg2 Bg5 21.Ng3 Rc8 22.Rbc1 a6 23.Rc2 Na8 24.Rhc1
+Bxe3 25.Qxe3 Qb6 1/2-1/2

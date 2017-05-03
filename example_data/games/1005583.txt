@@ -1,0 +1,18 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "6"]
+[Result "0-1"]
+[White "Evgeny Maratkanov"]
+[Black "Anastazia Karlovich"]
+[ECO "C55"]
+[WhiteElo "2140"]
+[BlackElo "2242"]
+[PlyCount "50"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5
+7. exf6 dxc4 8. Re1+ Be6 9. Ng5 g6 10. Qg4 Qd5 11. Bf4 Kd7
+12. Qg3 Bd6 13. Nd2 Rae8 14. Bxd6 cxd6 15. Nde4 h6 16. Nxe6
+Rxe6 17. f3 Qa5 18. Qh3 Kd8 19. Qh4 Rhe8 20. c3 d5 21. cxd4
+dxe4 22. fxe4 g5 23. Qxh6 Rxe4 24. Rxe4 Rxe4 25. Qf8+ Re8 0-1

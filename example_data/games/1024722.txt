@@ -1,0 +1,20 @@
+[Event "Moscow ch"]
+[Site "11"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Anatoly S Lutikov"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 g6 7.Be2
+Bg7 8.O-O O-O 9.Be3 Nc6 10.f4 d5 11.e5 Ne8 12.Nb3 Nc7 13.Bb6
+e6 14.a5 f6 15.exf6 Bxf6 16.Bg4 Rf7 17.Qe2 e5 18.Bxc8 Rxc8
+19.fxe5 Bxe5 20.Rxf7 Kxf7 21.Rf1+ Kg7 22.Qg4 h5 23.Qh3 Qe8
+24.Kh1 d4 25.Ne4 Nd5 26.Bc5 Ne3 27.Rf8 Qxf8 28.Bxf8+ Rxf8
+29.Nbd2 Rf5 30.Qh4 Nxc2 31.Ng3 Rf7 32.Nf3 Bf6 33.Qe4 Ne3 34.h3
+Re7 35.Qf4 d3 36.Ne4 Nd5 37.Qd6 Rxe4 1/2-1/2

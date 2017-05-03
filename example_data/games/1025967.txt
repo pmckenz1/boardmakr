@@ -1,0 +1,29 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Daniel Summermatter"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "162"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6
+7.Bg5 Bb7 8.f3 h6 9.Bh4 d5 10.e3 Nbd7 11.cxd5 exd5 12.Bd3 Qe7
+13.Ne2 c5 14.Bf2 a5 15.O-O Ba6 16.Ng3 cxd4 17.exd4 Rfc8 18.Qd2
+Bxd3 19.Qxd3 g6 20.Be3 Kg7 21.Rfe1 Qd8 22.Bf4 Ng8 23.Ne2 Nf8
+24.Be5+ Kh7 25.Nc3 Qd7 26.Nb5 Rc6 27.Re2 Rac8 28.Rae1 Ne6
+29.a4 Ne7 30.g4 Rc1 31.Nd6 Rxe1+ 32.Rxe1 Rf8 33.Qb5 Qxb5
+34.axb5 Nc8 35.Rc1 Na7 36.Bf6 g5 37.Kf2 Kg6 38.Be7 Rh8 39.Ke3
+h5 40.h3 hxg4 41.hxg4 Rh2 42.b3 f6 43.Nf5 Nxb5 44.Rc6 Re2+
+45.Kxe2 Nexd4+ 46.Kd3 Nxc6 47.Bd6 Kf7 48.Bh2 Ne5+ 49.Ke2 Nc3+
+50.Ke3 b5 51.Bg3 a4 52.Be1 Nd1+ 53.Ke2 Nb2 54.Bc3 Nbd3 55.Nd6+
+Ke7 56.Nxb5 axb3 57.Kd2 Nf4 58.Nd4 Nc4+ 59.Kd1 b2 60.Kc2 Nd3
+61.Nb5 Ke6 62.Kb1 Ke7 63.Ka2 Nc1+ 64.Kb1 Ne2 65.Bxb2 Nxb2
+66.Kxb2 Ng1 67.Nd4 Kd6 68.Kc3 Ke5 69.Kd3 Kf4 70.Ne6+ Kxf3
+71.Nc7 Kxg4 72.Nxd5 Kf5 73.Ke3 Ke5 74.Nb4 Nh3 75.Kf3 f5
+76.Nc6+ Kf6 77.Nd4 Nf4 78.Ke3 Ne6 79.Nc6 g4 80.Nb4 Kg5 81.Nd5
+Kh4 0-1

@@ -1,0 +1,19 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Vitaly Malykin"]
+[Black "Alexander Suglobov"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Qc2 O-O 6. Bg5 b6
+7. Bxf6 Bxf6 8. e4 dxe4 9. Qxe4 c6 10. Bd3 g6 11. O-O-O Re8
+12. h4 e5 13. dxe5 Bg7 14. Rhe1 Bf5 15. Qe2 Bxd3 16. Qxd3 Na6
+17. Qxd8 Raxd8 18. Rxd8 Rxd8 19. e6 Bf6 20. e7 Re8 21. Ne4 Kg7
+22. Nd6 Rxe7 23. Ne8+ Rxe8 24. Rxe8 Nb4 25. Kb1 Nd3 26. b3
+Nxf2 27. Rc8 Ne4 28. Kc2 Nc3 29. a3 Ne4 30. Rxc6 Bxh4 1-0

@@ -1,0 +1,16 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Bernd Voekler"]
+[Black "Joerg Gruenenwald"]
+[ECO "B91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5
+7. Nde2 Be7 8. h3 h5 9. Bg2 Nbd7 10. Be3 b5 11. a4 b4 12. Nd5
+Nxd5 13. exd5 a5 14. Qd2 1/2-1/2

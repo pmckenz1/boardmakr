@@ -1,0 +1,26 @@
+[Event "Cup Lee, Beijing (China)"]
+[Site "Cup Lee, Beijing (China)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Igor Stohl"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5
+7. e4 cxd4 8. Nxd4 Bc5 9. Nc2 Qc7 10. b4 Be7 11. Bb2 a5 12. a3
+Na6 13. O-O O-O 14. e5 Ne8 15. Bxb7 Qxb7 16. Bc3 axb4 17. axb4
+Nec7 18. Qf3 Qxf3 19. Nxf3 b5 20. c5 Nd5 21. Bd2 f6 22. Ra5
+Nac7 23. Rfa1 fxe5 24. Nxe5 Rxa5 25. Rxa5 d6 26. cxd6 Bxd6
+27. Nc6 Rf3 28. Ne3 Nxe3 29. Bxe3 Rf5 30. Kf1 Nd5 31. Bd2 Bc7
+32. Ra8+ Rf8 33. Rxf8+ Kxf8 34. Nd4 Bd6 35. Nxe6+ Kf7 36. Nd4
+Nxb4 37. Nxb5 Bc5 38. Nc3 Nc6 39. Ne4 Bb6 40. h4 h5 41. Ke2
+Ne7 42. Ng5+ Kg6 43. Be3 Ba5 44. Bd4 Nf5 45. Bc5 Kf6 46. Kf3
+Ke5 47. Nh3 g6 48. Nf4 Kf6 49. Ke4 Be1 50. Bb6 Nd6+ 51. Kd5
+Nf5 52. Bd8+ Kf7 53. Nd3 Bc3 54. Bc7 Bd4 55. Be5 Ba7 56. Bc3
+Bb8 57. Kc6 Nxg3 58. Be5 Bxe5 59. Nxe5+ Ke6 60. Nxg6 Ne4
+61. Nf4+ 1/2-1/2

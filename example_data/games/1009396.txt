@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Andrei Sokolov"]
+[Black "Philipp Schlosser"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3
+e6 7. Bc4 Nc6 8. d4 Be7 9. O-O O-O 10. Re1 Bf6 11. Ne4 b6
+12. Nxf6+ Qxf6 13. Bg5 Qg6 14. Rc1 Bb7 15. Bd3 Qh5 16. Re4 f5
+17. Rxe6 Nxd4 18. Nxd4 Qxg5 19. Nf3 Qd8 20. Qa4 Kh8 21. Qd4
+Rc8 22. Rxc8 Qxc8 23. Re1 Nf6 24. Ne5 Bd5 25. a3 Kg8 26. h3
+Rd8 27. Qf4 g6 28. Rc1 Qe6 29. Rc7 Re8 30. Qh6 Re7 31. Rxe7
+Qxe7 32. Qe3 1/2-1/2

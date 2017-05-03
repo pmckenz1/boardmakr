@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Dimo Werner"]
+[Black "Alexander Baburin"]
+[ECO "D22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.a4 Nf6 5.e3 Bg4 6.Bxc4 e6 7.O-O
+Nc6 8.Be2 Bd6 9.Nbd2 O-O 10.Nc4 Ne4 11.h3 Bh5 12.Nfd2 Bxe2
+13.Qxe2 Nf6 14.b3 Bb4 15.Ba3 Bxa3 16.Rxa3 Qe7 17.a5 e5 18.dxe5
+Nxe5 19.Ra4 Nc6 20.Rc1 Rad8 21.Nf3 Rd5 22.Qb2 Rfd8 23.Nfd2 h6
+24.Nb1 Rd1+ 25.Rxd1 Rxd1+ 26.Kh2 Ng4+ 27.Kg3 Nxf2 28.Kxf2 Qh4+
+29.g3 Qxh3 30.Ncd2 Qh2+ 31.Kf3 f5 32.Qc3 Rc1 33.Rh4 Qg1 34.Qb2
+Rf1+ 35.Ke2 Re1+ 36.Kd3 Qxe3+ 0-1

@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.06"]
+[EventDate "2000.04.05"]
+[Round "2"]
+[Result "1-0"]
+[White "Jon Arni Halldorsson"]
+[Black "Olafur Kjartansson"]
+[ECO "E92"]
+[WhiteElo "2173"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5
+7. Be3 Nc6 8. d5 Ne7 9. Nd2 Nd7 10. b4 f5 11. f3 f4 12. Bf2 g5
+13. c5 Nf6 14. Nc4 Ne8 15. a4 h5 16. cxd6 Nxd6 17. Nxd6 cxd6
+18. Nb5 a6 19. Na3 Bd7 20. Nc4 Nc8 21. Na5 Rb8 22. Rc1 Qe8
+23. Qc2 Ne7 24. Qa2 Rc8 25. O-O Qg6 26. Nxb7 g4 27. Qd2 Bh6
+28. Bh4 Rxc1 29. Rxc1 Nc8 30. Rc7 gxf3 31. Bxf3 Bg4 32. Qe2
+Rf7 33. Rxc8+ Bxc8 34. Bxh5 Qg7 35. Bxf7+ Qxf7 36. Nxd6 Qc7
+37. Qc4 Qxc4 38. Nxc4 Bd7 39. Nxe5 Bxa4 40. d6 Bg7 41. d7 1-0

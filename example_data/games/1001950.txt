@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.31"]
+[EventDate "1883.04.26"]
+[Round "16"]
+[Result "1-0"]
+[White "Josef Noa"]
+[Black "James Mortimer"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Ne7 5. O-O c6 6. Bc4 Ng6
+7. Nc3 Be7 8. Ne2 O-O 9. Ng3 d5 10. exd5 cxd5 11. Bb3 Bg4
+12. h3 Bxf3 13. Qxf3 Qd7 14. Bg5 Rad8 15. Rfe1 h6 16. Bxf6
+Bxf6 17. Nf5 Nf4 18. Qg4 Kh7 19. Ne3 g6 20. Qxd7 Rxd7 21. Ng4
+Bg7 22. Nxe5 Re7 23. d4 Rfe8 24. Ba4 b5 25. Bxb5 Rb8 26. a4 a6
+27. Bxa6 Rxb2 28. Nc6 Rxe1+ 29. Rxe1 Rxc2 30. Bb7 Ne2+
+31. Rxe2 Rxe2 32. a5 Rc2 33. a6 Rxc6 34. Bxc6 Bxd4 35. Bxd5
+Kg7 36. Kf1 Kf8 37. Ke2 Ke7 38. f3 f6 39. Kd3 Ba7 40. g4 Kd6
+41. Bf7 g5 42. Ke4 Kc7 43. Kf5 Bd4 44. Kg6 Kb6 45. Bc4 Ka7
+46. Kxh6 Ba1 47. f4 gxf4 48. h4 Bd4 49. g5 fxg5 50. hxg5 Kb6
+51. g6 1-0

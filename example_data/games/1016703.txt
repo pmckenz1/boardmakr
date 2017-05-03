@@ -1,0 +1,18 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Levente Lengyel"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Rc1
+dxc4 8.Bxc4 c5 9.Nf3 cxd4 10.exd4 Nc6 11.O-O Nh5 12.Bxe7 Nxe7
+13.Re1 Nf6 14.Ne5 Ned5 15.Bb3 b6 16.Nxd5 exd5 17.Nc6 Qd6
+18.Ne7+ Kh8 19.Rc6 Qf4 20.g3 Qg4 21.Rxc8 Raxc8 22.Qxg4 Nxg4
+23.Nxc8 Rxc8 24.Bxd5 Rd8 25.Bxf7 Rxd4 26.Bg6 Nf6 27.Rc1 1-0

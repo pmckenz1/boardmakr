@@ -1,0 +1,24 @@
+[Event "Eindhoven tt"]
+[Site "Eindhoven tt"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Rudy C Douven"]
+[Black "Efim Geller"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bxf6
+Bxf6 8.Qc2 c5 9.dxc5 Nc6 10.cxd5 exd5 11.Bb5 Bg4 12.Bxc6 bxc6
+13.Nd4 Bxd4 14.exd4 Re8+ 15.Kf1 Qf6 16.Qd2 Rab8 17.h3 Bh5
+18.Kg1 Rb7 19.a3 Rb3 20.Kh2 Qd8 21.Ra2 Qb8+ 22.g3 Bg6 23.Rd1
+Qb7 24.Qc1 h5 25.h4 Rb8 26.Rd2 Qa6 27.Qe1 Qc4 28.Qe2 Qxe2
+29.Rxe2 Bd3 30.Rd2 Bc4 31.Nd1 Re8 32.a4 Re1 33.Ra3 Rxa3
+34.bxa3 Be2 35.Ne3 Bf3 36.Ng2 Rf1 37.a5 a6 38.Rb2 f6 39.Rd2
+Kh7 40.Rb2 Kh6 41.Rd2 g5 42.hxg5 fxg5 43.Rb2 Kg6 44.Rd2 Kf6
+45.Rb2 Ke6 46.Rd2 Kd7 47.Rb2 Kc7 48.Rd2 g4 49.Rb2 Rd1 50.Rb4
+Be4 51.Rb6 Rxd4 52.Rxa6 Rc4 53.Ra7+ Kb8 54.Re7 Rxc5 55.a6 Rc1
+0-1

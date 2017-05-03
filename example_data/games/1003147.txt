@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.21"]
+[EventDate "1905.08.14"]
+[Round "7"]
+[Result "1-0"]
+[White "Wilhelm Cohn"]
+[Black "Julius Perlis"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Qe2 Bg4
+7. Be3 Bb4 8. h3 Nd4 9. Bxd4 Bxf3 10. Qxf3 exd4 11. a3 Ba5
+12. b4 dxc3 13. bxa5 O-O 14. O-O c6 15. Rfb1 d5 16. Ba2 Qxa5
+17. Rxb7 Rab8 18. Rxb8 Rxb8 19. Bb3 Qc5 20. Qf5 Qd4 21. e5 Ne8
+22. Re1 Nc7 23. Qd7 Ne6 24. Qxc6 Rxb3 25. cxb3 Qxd3 26. Re3
+Qb1+ 27. Kh2 d4 28. Qe8+ Nf8 29. e6 1-0

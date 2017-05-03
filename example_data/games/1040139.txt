@@ -1,0 +1,16 @@
+[Event "Buenos Aires (Clarin)"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.24"]
+[EventDate "1978.11.14"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Raymond Keene"]
+[Black "Roman Dzindzichashvili"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Bf5 4.f3 e5 5.e4 exd4 6.Qxd4 Nc6 7.Qd2
+Be6 8.b3 Be7 9.Bb2 O-O 10.Bd3 Nd7 11.Nge2 Bh4+ 12.Ng3 Nc5
+1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Budapest (Hungary)"]
+[Site "Zt"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Evgenij Ermenkov"]
+[Black "Andras Adorjan"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.e4 c5 2.f4 d5 3.Nc3 dxe4 4.Nxe4 Qc7 5.Nf3 Nf6 6.Nxf6+ exf6
+7.g3 Be7 8.Bg2 O-O 9.O-O Nc6 10.b3 Bg4 11.h3 Be6 12.d3 Rfd8
+13.Be3 Rac8 14.a4 b6 15.Kh2 h6 16.Qe2 f5 17.Rae1 Bf6 18.Qf2
+Re8 19.Nd2 Bc3 20.Re2 Re7 21.Nb1 Bf6 22.Ree1 Rce8 23.Bd2 Qd7
+24.Na3 Nd4 25.Be3 Bd5 26.Bxd5 Qxd5 27.Nc4 Re6 28.Bxd4 Bxd4
+29.Qd2 Qc6 30.h4 a6 31.Rxe6 Qxe6 32.Qg2 b5 33.axb5 axb5 34.Ne5
+Bxe5 35.fxe5 Qxe5 36.Rf2 b4 37.Qf3 g6 38.Qf4 Kg7 39.Qxe5+ Rxe5
+40.Kg2 g5 41.hxg5 hxg5 42.Rd2 Kg6 43.Kf3 g4 44.Kf4 Re1 45.Rh2
+f6 46.Rf2 Rg1 47.c3 bxc3 48.Rc2 Rf1+ 49.Ke3 Rf3+ 50.Ke2 Rxg3
+51.Rxc3 f4 52.Rxc5 Rg2+ 53.Kf1 Rb2 54.Rb5 f3 55.Rb8 Kg5 0-1

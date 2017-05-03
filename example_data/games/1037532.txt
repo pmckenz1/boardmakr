@@ -1,0 +1,19 @@
+[Event "Philadelphia USA"]
+[Site "Philadelphia, PA USA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Calvin Blocker"]
+[ECO "C34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d6 4.d4 g5 5.h4 g4 6.Ng1 Bh6 7.Ne2 Qf6
+8.Nbc3 Ne7 9.Qd2 Nbc6 10.g3 f3 11.Qxh6 Qxh6 12.Bxh6 fxe2
+13.Nxe2 f5 14.e5 dxe5 15.dxe5 Be6 16.Nf4 Bd5 17.Nxd5 Nxd5
+18.O-O-O Nce7 19.Rh2 c6 20.Rhd2 b5 21.c4 bxc4 22.Bxc4 Rg8
+23.h5 Kf7 24.e6 Ke8 25.Bb3 Rd8 26.Ba4 Rd6 27.Rxd5 Nxd5 28.Rxd5
+Rxe6 29.Bd2 Ke7 30.Rxf5 Rd8 31.Bg5+ 1-0

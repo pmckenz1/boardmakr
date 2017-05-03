@@ -1,0 +1,22 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.09.01"]
+[EventDate "1905.08.14"]
+[Round "17"]
+[Result "0-1"]
+[White "Julius Perlis"]
+[Black "Leo Fleischmann Forgacs"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 d5 6. Qe2
+Be7 7. Nxe4 dxe4 8. Qxe4 O-O 9. d4 Re8 10. Ne5 Nc6 11. Bc4
+Nxe5 12. dxe5 Bb4+ 13. c3 Bd6 14. f4 Qh4+ 15. g3 Qh5 16. Be2
+Bg4 17. Bxg4 Qxg4 18. Qxb7 Rab8 19. Qxa7 Bxe5 20. O-O Bf6
+21. Qf2 Re2 22. Qf3 Qe6 23. Rf2 Re1+ 24. Rf1 Re2 25. Rf2 Re1+
+26. Rf1 Re2 27. f5 Qb6+ 28. Rf2 Rbe8 29. Bf4 Rxb2 30. Kg2
+Rxf2+ 31. Qxf2 Qc6+ 32. Kh3 g5 33. fxg6 hxg6 34. Re1 Rxe1
+35. Qxe1 g5 36. Bd2 Qf3 37. Qe8+ Kg7 38. Qd7 Kg6 39. c4 Be7
+40. Qc8 Qf1+ 41. Kg4 f5+ 0-1

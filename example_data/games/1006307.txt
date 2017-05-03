@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.13"]
+[EventDate "2000.04.05"]
+[Round "9"]
+[Result "1-0"]
+[White "Stuart C Conquest"]
+[Black "Emmanuel Bricard"]
+[ECO "C03"]
+[WhiteElo "2563"]
+[BlackElo "2461"]
+[PlyCount "79"]
+
+1. e4 e6 2. d4 d5 3. Nd2 h6 4. c3 c5 5. exd5 exd5 6. Ngf3 Nc6
+7. Bb5 cxd4 8. O-O Bd7 9. Nb3 Nf6 10. Re1+ Be7 11. Bxc6 bxc6
+12. Qxd4 O-O 13. Bf4 Re8 14. h3 Qb6 15. Ne5 Rad8 16. Rad1 c5
+17. Nxd7 Rxd7 18. Qd2 Bf8 19. Rxe8 Nxe8 20. Qc2 Qe6 21. Be3
+Rc7 22. Qe2 Nf6 23. Re1 Bd6 24. Bc1 Qf5 25. Qa6 Qd7 26. Be3
+Rc6 27. Qa4 Bf8 28. Rd1 Qc8 29. Qb5 Rb6 30. Qe2 Qc6 31. Nc1
+Rb8 32. Nd3 Re8 33. Qc2 Re4 34. Nf4 Ra4 35. a3 Ra6 36. Qd3 Qb7
+37. Rd2 Bd6 38. Nxd5 Be5 39. Nxf6+ Bxf6 40. Qd7 1-0

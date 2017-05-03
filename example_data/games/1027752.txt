@@ -1,0 +1,21 @@
+[Event "Uljma (Yugoslavia)"]
+[Site "Uljma (Yugoslavia)"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "V Simic"]
+[Black "Istvan Bilek"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 d6
+7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c4 b4
+13.Nc2 a5 14.Be2 O-O 15.Qd3 Be6 16.O-O-O Bxd5 17.Qxd5 Qb6
+18.Rhf1 Rac8 19.Qd3 a4 20.Ne3 Bg5 21.Kb1 Bxe3 22.fxe3 Na5
+23.Qxd6 Qxe3 24.Qxe5 Qxe2 25.Qxa5 Qxe4+ 26.Ka1 Qxc4 27.Qd5 Qc2
+28.Qd2 b3 29.Rf2 Qc7 30.Qf4 Rfd8 31.Rdf1 Rd7 32.Qxc7 Rdxc7
+33.Kb1 f6 34.axb3 axb3 35.Rf3 Rb8 36.h4 Ra7 37.g3 h5 38.Rc1
+Kf7 39.Rcc3 Rab7 40.Kc1 Kg6 1/2-1/2

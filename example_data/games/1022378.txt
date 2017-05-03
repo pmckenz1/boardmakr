@@ -1,0 +1,19 @@
+[Event "It (op) VI Copenhagen (DEN)"]
+[Site "It (op) VI Copenhagen (DEN)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Jonny Hector"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 g6 6.Bb5+ Nbd7
+7.d6 exd6 8.d4 a6 9.Be2 Bg7 10.Bf3 O-O 11.Nge2 Nb6 12.O-O h6
+13.a4 Rb8 14.a5 Nc4 15.Qa4 d5 16.Bf4 b5 17.Qa2 Rb7 18.b3 Nd6
+19.Nxd5 Nxd5 20.Bxd5 Re7 21.Bf3 g5 22.Bg3 Nf5 23.Rad1 Rfe8
+24.h3 Rxe2 25.Bxe2 Nxd4 26.Rd2 Qd5 27.Bd1 Qc5 28.Kh1 Be6 29.f3
+Qc3 30.Re1 1/2-1/2

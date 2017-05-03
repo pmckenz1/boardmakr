@@ -1,0 +1,18 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.02.29"]
+[EventDate "2000.02.26"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Ng Tze Han"]
+[Black "Wynn Zaw Htun"]
+[ECO "B90"]
+[WhiteElo "2216"]
+[BlackElo "2524"]
+[PlyCount "51"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O 10. O-O-O b5 11. g4 b4 12. Nd5
+Bxd5 13. exd5 a5 14. Kb1 a4 15. Nc1 Qa5 16. g5 Nfd7 17. h4 Na6
+18. h5 Nac5 19. g6 b3 20. gxh7+ Kh8 21. cxb3 axb3 22. Qxa5
+Rxa5 23. Nxb3 Nxb3 24. axb3 Rb8 25. Bc4 Nf6 26. Bd2 1/2-1/2

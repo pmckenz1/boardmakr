@@ -1,0 +1,20 @@
+[Event "12, Tbilisi"]
+[Site "Tbilisi GEO"]
+[Date "1978.12.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.c4 Nf6 2.Nf3 c5 3.Nc3 d5 4.cxd5 Nxd5 5.g3 g6 6.Bg2 Bg7 7.O-O
+O-O 8.Nxd5 Qxd5 9.d3 Nc6 10.Be3 Bd7 11.Qc1 b6 12.d4 cxd4
+13.Nxd4 Nxd4 14.Bxd5 Nxe2+ 15.Kg2 Nxc1 16.Bxa8 Bxb2 17.Rb1 Bf6
+18.Rfxc1 Rxa8 19.f3 h5 20.a3 Ba4 21.Rc7 Be5 22.Rc4 b5 23.Rc5
+Bd6 24.Rc3 a5 25.Bc5 Bxc5 26.Rxc5 Rd8 27.Rb2 Rd3 28.Rc8+ Kg7
+29.Ra8 Bd1 30.Rxa5 Bxf3+ 31.Kf2 Bc6 32.Rc2 Bd7 33.Ke2 Rb3
+34.Rc7 Be6 35.Rxe7 Bc4+ 36.Kf2 Rb2+ 37.Kg1 Rb1+ 1/2-1/2

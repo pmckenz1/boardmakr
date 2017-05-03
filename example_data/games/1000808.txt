@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.11"]
+[EventDate "1911.08.21"]
+[Round "16"]
+[Result "1-0"]
+[White "Julius Perlis"]
+[Black "Abram Isaakovich Rabinovich"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 4.Nxe5 O-O 5.Nf3 Bxc3 6.dxc3 Nxe4
+7.Bd3 d5 8.h3 Nc6 9.O-O Bf5 10.Nd4 Nxd4 11.cxd4 Be6 12.Bf4 f5
+13.f3 Nd6 14.Qe1 Qf6 15.Be5 Qh6 16.Bxd6 cxd6 17.f4 Bd7 18.Qf2
+Rf7 19.Rae1 Qf6 20.c3 Re8 21.Qf3 Rxe1 22.Rxe1 Be6 23.Qe3 Re7
+24.Bc2 Kf8 25.Qf3 Bf7 26.Rxe7 Kxe7 27.Kh2 h6 28.Qd3 Be6 29.Qb5
+b6 30.Ba4 Qf8 31.Bb3 Qf7 32.Qc6 Qe8 33.Qb7+ Qd7 34.Qa8 Kf6
+35.Bxd5 Bxd5 36.Qxd5 g5 37.Qf3 Kg6 38.Qe3 Kf6 39.d5 Kg6 40.c4
+Kf6 41.b3 Kg6 42.g3 Qf7 43.fxg5 hxg5 44.Qe6+ Qxe6 45.dxe6 Kf6
+46.h4 g4 47.Kg2 Kxe6 48.Kf2 Ke5 49.Ke3 f4 50.gxf4+ Kf5 51.h5
+Kf6 52.Kf2 1-0

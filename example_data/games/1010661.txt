@@ -1,0 +1,24 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Alexey I Kosikov"]
+[Black "Oleg Gerasimchuk"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 Bg7 4. e3 d5 5. h3 O-O 6. Nbd2 c5
+7. c3 h6 8. Bd3 Nc6 9. O-O Nd7 10. Be2 e5 11. dxe5 Ndxe5
+12. Nxe5 Nxe5 13. Nf3 Nc6 14. Qb3 Na5 15. Qa3 Qb6 16. Rad1 Be6
+17. b3 Rad8 18. Be5 f6 19. Bg3 Nc6 20. Ne1 Bf7 21. Nd3 c4
+22. Nf4 Ne5 23. b4 Rd7 24. Qa4 Qc6 25. Qxa7 b6 26. Qa3 Ra8
+27. Qb2 Rda7 28. Rd2 Ra3 29. Bd1 f5 30. Ne2 Nd3 31. Qb1 R8a7
+32. Bc2 Rxa2 33. Nd4 Qa8 34. Qe1 Ra1 35. Bb1 R7a3 36. Qe2 Rxc3
+37. Bxd3 cxd3 38. Rxd3 Rca3 39. Rdd1 Qa4 40. Rxa1 Rxa1 41. Bd6
+f4 42. Rxa1 Qxa1+ 43. Kh2 fxe3 44. fxe3 Qb1 45. Qf3 Qe4
+46. Qg3 g5 47. Ne6 Be8 48. b5 Qc4 49. Be5 Bf8 50. Nd4 Qd3
+51. Qf3 Qe4 52. Qf6 g4 53. Ne6 Qb4 54. Nd4 Qb1 55. Ne6 Qb4 1-0

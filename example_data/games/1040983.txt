@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1952.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ernst Weichselbaumer"]
+[Black "Erich Eliskases"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 Nbd7 7.O-O
+e5 8.e4 c6 9.h3 Qe7 10.Be3 Kh8 11.Qc2 Nh5 12.dxe5 dxe5 13.Nh4
+Nf4 14.Nf5 gxf5 15.gxf4 Qh4 16.Ne2 Bh6 17.fxe5 f4 18.Bd4 Bg7
+19.e6 Ne5 20.Qc3 f6 21.e7 Re8 22.Bxe5 fxe5 23.Kh2 Rxe7 24.Ng1
+Be6 25.Nf3 Qh6 26.Rad1 Rg8 27.Rg1 Bf6 28.Rd3 Reg7 29.Ne1 Bh4
+30.Rf3 Bxf2 31.Rxf2 Rg3 32.Rf3 Bxh3 33.Rxg3 fxg3 34.Qxg3 Bxg2
+35.Kxg2 0-1

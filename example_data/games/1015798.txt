@@ -1,0 +1,20 @@
+[Event "Memorial M.Chigorin"]
+[Site "Sochi URS"]
+[Date "1976.09.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Vlastimil Jansa"]
+[Black "Andras Adorjan"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Na6 7.e5
+Nd7 8.Ne4 dxe5 9.Bxa6 bxa6 10.dxe5 Nb6 11.O-O f6 12.Qxd8 Rxd8
+13.b3 Nd5 14.c4 Nb4 15.Bb2 Kf7 16.Nc5 Nd3 17.Rad1 Bf5 18.e6
+Ke8 19.Nxd3 Rxd3 20.Rxd3 Bxd3 21.Rd1 Bf5 22.Rd7 Rc8 23.Ba3 Bf8
+24.Rd5 Bxe6 25.Ra5 Bh6 26.Nd4 Bd7 27.g3 e5 28.Ne2 Bg4 29.Nc3
+exf4 30.Nd5 Bf3 31.Nxf4 Bb7 32.Kf2 Kf7 33.Bc5 Rd8 34.Be3 Bf8
+35.Nd5 Rd7 0-1

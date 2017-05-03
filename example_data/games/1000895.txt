@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.21"]
+[EventDate "1911.08.21"]
+[Round "23"]
+[Result "1-0"]
+[White "Paul Saladin Leonhardt"]
+[Black "Hans Fahrni"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 e6 2.c4 d5 3.Nc3 Nf6 4.Nf3 Nbd7 5.Bg5 Be7 6.e3 c6 7.Bd3
+dxc4 8.Bxc4 Nd5 9.Bxe7 Qxe7 10.O-O O-O 11.Qd2 Nxc3 12.bxc3 b6
+13.e4 Bb7 14.Rfe1 Rfd8 15.Rad1 h6 16.Qf4 Nf8 17.h4 b5 18.Bb3
+c5 19.h5 c4 20.Bc2 Qa3 21.Re3 Qxa2 22.Bb1 Qa4 23.Rc1 Qa3
+24.Rce1 Qe7 25.Ne5 f6 26.Ng6 Nxg6 27.hxg6 e5 28.dxe5 fxe5
+29.Qg3 a5 30.Rf3 Rf8 31.Rf5 Rae8 32.Rd1 Rxf5 33.exf5 b4 34.Qg4
+e4 35.Qe2 Qc5 36.Rd4 bxc3 37.Rxc4 Qxf5 38.Rc7 Bd5 39.Rc5 Rd8
+40.Ba2 Qe6 41.Bxd5 Rxd5 42.Qxe4 Rd1+ 43.Kh2 Qd6+ 44.f4 Qf8
+45.Rxc3 Rd8 46.Rc6 Ra8 47.f5 Qb8+ 48.g3 Qa7 49.Rc7 1-0

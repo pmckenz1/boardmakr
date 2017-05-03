@@ -1,0 +1,19 @@
+[Event "Warsaw (Poland)"]
+[Site "Warsaw POL"]
+[Date "1979.01.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Adam Kuligowski"]
+[Black "Andras Adorjan"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.c4 g6 2.e4 e5 3.d4 Nf6 4.Nf3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Nxe4
+7.Qh6 exd4 8.Bd3 Nc5 9.O-O d6 10.Re1+ Be6 11.Qg7 Rf8 12.Nxd4
+Nbd7 13.Nxe6 Nxe6 14.Nc3 Ne5 15.Qxh7 Nxd3 16.Rxe6+ fxe6
+17.Qxg6+ Kd7 18.Qxd3 Qf6 19.Rf1 Rad8 20.Qe3 Qf4 21.Qe2 Rf5
+22.f3 Qd4+ 23.Kh1 Rh8 24.g3 Rfh5 25.Rf2 Rc5 26.Ne4 Rxc4 27.Qf1
+Rb4 28.Qc1 Qe5 29.Rc2 c6 30.Re2 Kc7 31.Qd2 Rd4 0-1

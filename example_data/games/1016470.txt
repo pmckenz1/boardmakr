@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Sevilla (Spain)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Antonio Palacios"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 c5 6.Nc3 cxd4 7.Nxd4
+Nc6 8.O-O Nxd4 9.Qxd4 d6 10.Qd3 Nd7 11.b3 Nc5 12.Qd2 Bf5
+13.Bb2 Qd7 14.Nd5 e5 15.Rad1 Rad8 16.Qg5 Kh8 17.Qh4 f6 18.f4
+h6 19.fxe5 fxe5 20.Bc1 Kh7 21.Bg5 Rde8 22.Nf6+ Bxf6 23.Qxh6+
+Kg8 24.Bd5+ Ne6 25.Bxf6 Qh7 26.Bg5 Rf7 27.Rf2 b6 28.Bc6 Qxh6
+29.Bxh6 Rd8 30.Bd5 Kh7 31.g4 1-0

@@ -1,0 +1,20 @@
+[Event "World"]
+[Site "World"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Yair Marcus"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nbd7 8.Be3 exd4 9.Nxd4 Re8 10.f3 c6 11.Qd2 Ne5 12.Rad1 a6
+13.Nb3 Be6 14.Qxd6 Qxd6 15.Rxd6 Bxc4 16.Na5 Bxe2 17.Nxe2 Re7
+18.Rfd1 Ne8 19.Rd8 Rxd8 20.Rxd8 Bf6 21.Nf4 Nd7 22.Nxb7 Kg7
+23.b3 Nf8 24.Nd6 Nc7 25.Nh5+ gxh5 26.Nf5+ Kg6 27.Rxf8 Re8
+28.Rxe8 Nxe8 29.Bf4 Bd8 30.Kf1 Nf6 31.Nd4 c5 32.Nc6 Bb6
+33.Ne7+ Kg7 34.Be5 Bd8 35.Nd5 1-0

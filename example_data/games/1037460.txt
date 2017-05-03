@@ -1,0 +1,17 @@
+[Event "6, Calgary CAN ch zt"]
+[Site "Calgary CAN"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Stephen Ball"]
+[Black "Lawrence Day"]
+[ECO "A66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7
+8.e5 Nfd7 9.e6 fxe6 10.dxe6 Nb6 11.Qb3 Qe7 12.Bb5+ Nc6 13.Nge2
+Bxe6 14.Qa3 O-O 15.O-O Nb4 16.Qa5 Nc4 17.Qa4 a6 18.Bxc4 Bxc4
+19.Qd1 Rae8 0-1

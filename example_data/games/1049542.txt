@@ -1,0 +1,16 @@
+[Event "Palma de Mallorca Interzonal"]
+[Site "Palma de Mallorca ESP"]
+[Date "1970.12.12"]
+[EventDate "1970.11.09"]
+[Round "23"]
+[Result "1/2-1/2"]
+[White "Dragoljub Minic"]
+[Black "Efim Geller"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3
+Be7 8.Qe2 O-O 9.O-O-O Bd7 10.Bb3 Na5 11.g4 Nxb3+ 12.axb3
+1/2-1/2

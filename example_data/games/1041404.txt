@@ -1,0 +1,24 @@
+[Event "Baku"]
+[Site "Baku AZE"]
+[Date "1980.04.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Adrian Mikhalchishin"]
+[ECO "D48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bd3 a6 9.e4 c5 10.d5 c4 11.dxe6 fxe6 12.Bc2 Qc7 13.O-O
+Bb7 14.Qe2 Bd6 15.Re1 Ne5 16.Ng5 Qe7 17.f4 Bc5+ 18.Kh1 Nd3
+19.Bxd3 cxd3 20.Qxd3 Ng4 21.Nh3 O-O 22.Qg3 h5 23.Nd1 Rad8
+24.f5 Rxd1 25.Rxd1 Bxe4 26.Bg5 Qb7 27.b4 Bb6 28.fxe6 Rf2
+29.Rg1 Bc7 30.Qxf2 Nxf2+ 31.Nxf2 Bg6 32.Rge1 Qd5 33.Bh4 Qd4
+34.Ne4 Bxe4 35.Rad1 Qxb4 36.Bf2 h4 37.e7 Bg6 38.Rd8+ Kh7
+39.e8=Q Bxe8 40.Rdxe8 Qf4 41.Bg1 h3 42.R8e4 hxg2 43.Kxg2 Qg5+
+44.Kf1 Qf5+ 45.Kg2 Qd5 46.Re2 Be5 47.h3 b4 48.Bh2 Bc3 49.Kg1
+a5 50.Be5 a4 51.Kh2 a3 52.Bxc3 bxc3 53.Rg4 Qd3 54.Rgg2 g5
+55.Ref2 Qe3 56.Rc2 Qd3 57.Rcf2 Qe3 58.Rc2 1/2-1/2

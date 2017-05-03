@@ -1,0 +1,34 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Volkmar Dinstuhl"]
+[Black "Martin Klebel"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "203"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5
+exd5 7. Qc2 Be7 8. e3 O-O 9. Bd3 Re8 10. h3 Nf8 11. O-O g6
+12. Rab1 Ne6 13. Bxf6 Bxf6 14. b4 a6 15. Na4 Ng5 16. Nxg5 Bxg5
+17. Nc5 Be7 18. Rfc1 Bd6 19. Qe2 Bc7 20. Qf3 Kg7 21. Nb3 Qd6
+22. Nd2 Qh2+ 23. Kf1 h5 24. Ke1 Re6 25. Bf1 Rf6 26. Qe2 Rxf2
+27. Kxf2 Qg3+ 28. Kg1 Qh2+ 29. Kf2 Bg3+ 30. Kf3 Bh4 31. Qd3
+Bf5 32. e4 dxe4+ 33. Nxe4 Re8 34. Re1 Rxe4 35. Rxe4 Qg3+
+36. Ke2 Qf2+ 37. Kd1 Bxe4 38. Qxe4 Qxf1+ 39. Kd2 Qf2+ 40. Qe2
+Qxd4+ 41. Kc2 Qd5 42. Rb3 Bf6 43. a3 c5 44. bxc5 Qxc5+ 45. Kd1
+Qd4+ 46. Kc2 b5 47. Qf1 Qd5 48. Qf3 Qc5+ 49. Kd2 a5 50. Qe4 a4
+51. Rf3 Bg5+ 52. Ke2 Bc1 53. Qd3 Bb2 54. Kf1 b4 55. axb4 Qxb4
+56. Qd5 Qe7 57. Rf2 a3 58. Qb3 Qe6 59. Qb4 Qd5 60. Rxb2 axb2
+61. Qxb2+ f6 62. Kg1 Qe4 63. Qc1 g5 64. Qc7+ Kg6 65. Qc8 g4
+66. Qg8+ Kf5 67. hxg4+ hxg4 68. Qc8+ Kf4 69. Qc7+ Qe5 70. Qc4+
+Kf5 71. Qc8+ Qe6 72. Qc2+ Kg5 73. Qd2+ Kg6 74. g3 f5 75. Kh2
+Kf7 76. Kg1 Qb6+ 77. Kh2 Qc5 78. Qe2 Kf6 79. Qb2+ Ke6 80. Qe2+
+Kd7 81. Qd3+ Kc7 82. Qe2 Qd5 83. Qc2+ Kd6 84. Qb2 Qd3 85. Qb4+
+Kd5 86. Qf4 Qe2+ 87. Kg1 Qd1+ 88. Kh2 Qc2+ 89. Kg1 Qe4 90. Qb8
+Qd3 91. Kf2 Kc4 92. Qc7+ Kb3 93. Qb7+ Kc2 94. Qc6+ Kb2
+95. Qb7+ Kc1 96. Qh1+ Qd1 97. Qc6+ Qc2+ 98. Qxc2+ Kxc2 99. Ke2
+Kc1 100. Ke1 Kb2 101. Kd2 f4 102. gxf4 1-0

@@ -1,0 +1,17 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.24"]
+[EventDate "1912.05.20"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Zsigmond Barasz"]
+[Black "Erich Cohn"]
+[ECO "C87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6
+7. d3 O-O 8. h3 Bd7 9. Bb3 Be6 10. d4 exd4 11. Nxd4 Nxd4
+12. Qxd4 d5 13. exd5 Bxd5 14. Be3 Bxb3 15. axb3 Qxd4 16. Bxd4
+Rfe8 17. Nd2 Nd5 18. Nf3 Bf6 19. Bxf6 Nxf6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "USA op"]
+[Site "Chicago, IL USA"]
+[Date "1973.08.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Robert Holyon"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 Nc6 5.Be3 e5 6.d5 Nce7 7.g4 Nf6
+8.f3 h5 9.g5 Nh7 10.Qd2 f6 11.gxf6 Bxf6 12.h4 c5 13.O-O-O a6
+14.Bd3 Bd7 15.Nge2 Qa5 16.Rdf1 b5 17.f4 b4 18.Nd1 Qxa2 19.f5
+gxf5 20.Bg5 f4 21.Bxf6 Nxf6 22.Nxf4 exf4 23.Qxf4 Ng4 24.Qxd6
+Rh6 25.Qf4 O-O-O 26.e5 Ng6 27.Bxg6 Rxg6 28.Qe4 Nxe5 29.Qxe5
+Qxc4+ 30.Kb1 Rg2 31.Rf2 Rxf2 32.Nxf2 Re8 33.Qxh5 b3 34.Rc1 Qa4
+35.Rxc5+ Kb8 36.Nd1 Qe4+ 37.Kc1 Qf4+ 38.Kb1 Bf5+ 0-1

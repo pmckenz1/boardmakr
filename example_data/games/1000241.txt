@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Patrick Yee"]
+[Black "Sunil Weeramantry"]
+[ECO "B06"]
+[WhiteElo "2296"]
+[BlackElo "2203"]
+[PlyCount "75"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Bc4 Nc6 5. Nge2 Nf6 6. f3 O-O
+7. Bg5 a6 8. a4 e5 9. d5 Ne7 10. Qd2 Bd7 11. O-O Ne8 12. f4 h6
+13. Bxe7 Qxe7 14. f5 Nf6 15. Ng3 Kh7 16. a5 h5 17. Qe2 Bh6
+18. Qf3 Ng4 19. Rfe1 Qh4 20. Nf1 gxf5 21. exf5 Bf4 22. g3 Nxh2
+23. Qxf4 exf4 24. gxh4 Nf3+ 25. Kf2 Nxe1 26. Rxe1 Bxf5 27. Ne4
+Bxe4 28. Rxe4 Rae8 29. Rxf4 f5 30. Bd3 Re5 31. c4 c6 32. Ne3
+Kg6 33. b4 Rf7 34. Rf3 Rf6 35. Ng2 cxd5 36. cxd5 Kf7 37. Nf4
+Kf8 38. Nxh5 1-0

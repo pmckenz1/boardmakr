@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Matthew Turner"]
+[Black "Jonathan Rowson"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. Bd3 d6
+7. Nxd4 cxd4 8. Ne2 Nf6 9. c3 dxc3 10. bxc3 O-O 11. O-O b6
+12. Bc2 Bb7 13. d3 Qc7 14. Kh1 e6 15. Bd2 Nd7 16. f5 exf5
+17. exf5 Qc6 18. Rf2 Nf6 19. Nd4 Qc5 20. Qf1 Rae8 21. Bb3 Bd5
+22. Bd1 h6 23. Nb3 Qc7 24. c4 Bb7 25. fxg6 fxg6 26. Rc1 Qd7
+27. Rf4 g5 28. Rf5 Bc8 29. Rf3 g4 30. Rf4 Nh5 31. Rxf8+ Rxf8
+32. Qe1 Qf7 33. Be2 Nf4 34. Bf1 a5 35. Be3 Bb7 36. Qg3 Nh3
+37. Be2 h5 38. Nd2 Be5 39. Qh4 Bf6 40. Qe1 Qe7 41. Ne4 Bxe4
+42. dxe4 Qxe4 43. c5 Kh8 44. Qd2 dxc5 45. Bd3 Qd5 46. Bxc5 Bg5
+47. Qc3+ Bf6 48. Qd2 Bg5 1/2-1/2

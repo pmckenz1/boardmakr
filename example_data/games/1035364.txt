@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Walter Shawn Browne"]
+[Black "Salvatore Matera"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 Nbd7 7.O-O
+e5 8.d5 a5 9.Ne1 Ne8 10.e4 f5 11.Nd3 Nc5 12.f4 exf4 13.Bxf4
+fxe4 14.Nxc5 dxc5 15.Qe2 Nd6 16.Nxe4 Re8 17.Rae1 Nxe4 18.Bxe4
+Bh3 19.Rf2 Bd4 20.Qd2 Qe7 21.Qe2 Bf5 22.Bf3 Qd7 23.Qd2 Rxe1+
+24.Qxe1 Re8 25.Qxa5 Bh3 26.d6 Qa4 27.Bd5+ Kh8 28.Qd2 Qxa2
+29.Qd1 Qb3 30.Qd2 Qxb2 0-1

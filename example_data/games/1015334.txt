@@ -1,0 +1,22 @@
+[Event "Ch Asian Cities (team)"]
+[Site "Dubai (United Arab Emirates)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Mohamed"]
+[Black "Utut Adianto"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Qc7
+13.Qe2 O-O-O 14.Ne5 Nb6 15.Ba5 c5 16.Rh4 Rd5 17.Bxb6 axb6
+18.c4 Rd8 19.Kb1 Bd6 20.f4 cxd4 21.Rxd4 Bxe5 22.fxe5 Nd7
+23.Rhg4 Nxe5 24.Rxd8+ Rxd8 25.Rxg7 Nxc4 26.Ne4 Qc6 27.Nc3 Qc5
+28.Rxf7 Qg1+ 29.Kc2 Rd2+ 30.Qxd2 Nxd2 31.Kxd2 Qxg2+ 32.Ne2
+Qd5+ 33.Ke3 Qxh5 34.Rf4 Qc5+ 35.Kd3 Qd5+ 36.Rd4 Qxa2 37.Kc2 e5
+38.Nc3 Qf7 39.Re4 Qf5 40.Kb3 h5 41.Kc4 Kd7 42.Kb5 Qf6 43.Rc4
+h4 44.Nd5 Qc6+ 0-1

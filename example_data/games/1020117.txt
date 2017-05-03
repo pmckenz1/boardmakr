@@ -1,0 +1,16 @@
+[Event "It (cat.14), Tilburg (Netherlands)"]
+[Site "Tilburg NED"]
+[Date "1982.10.14"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Robert Huebner"]
+[Black "Ulf Andersson"]
+[ECO "E39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.e3
+Nxc5 8.Bd2 b6 9.Be2 Bb7 10.O-O Nce4 11.Nxe4 Bxe4 12.Bd3
+1/2-1/2

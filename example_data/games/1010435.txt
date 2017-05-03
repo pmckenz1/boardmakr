@@ -1,0 +1,19 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Krishnan Sasikiran"]
+[Black "Devaki V Prasad"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6
+7. e4 b5 8. Bd3 Bb7 9. Bg5 cxd4 10. a4 b4 11. Nbd2 Be7 12. Re1
+Nbd7 13. e5 Nd5 14. Bxe7 Qxe7 15. Ne4 O-O 16. Qd2 h6 17. Rac1
+Rfd8 18. a5 Rac8 19. Rxc8 Rxc8 20. Nd6 Rc7 21. Nxb7 Rxb7
+22. Nxd4 Nc5 23. Bc4 Qd7 24. g3 Ne7 25. Qe3 Qc7 26. Ra1 Rb8
+27. Qe2 1/2-1/2

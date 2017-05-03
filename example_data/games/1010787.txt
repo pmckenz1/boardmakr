@@ -1,0 +1,18 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Shamsutdin Radzhabov"]
+[Black "Victor L Ivanov"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Nf6 5. f4 d5 6. e5 Ng8
+7. Nge2 Nh6 8. O-O Nf5 9. g4 Nh4 10. Bh1 g5 11. Qe1 h5
+12. gxh5 gxf4 13. Rxf4 Qg5+ 14. Qg3 Qxh5 15. Nb5 Qxe2 16. Nc7+
+Kd8 17. Nxa8 Nf5 18. Rxf5 exf5 19. Bxd5 f4 20. Qg2 Qe1+
+21. Qf1 Rg8+ 22. Bg2 Rxg2+ 0-1

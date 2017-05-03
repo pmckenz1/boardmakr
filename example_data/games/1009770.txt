@@ -1,0 +1,22 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Adrian Flitney"]
+[Black "Michael Walsh"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3
+Bg4 7. Nc3 Qd7 8. d5 Bxf3 9. gxf3 O-O-O 10. dxc6 Qxc6 11. Qe2
+e5 12. Bh3+ Kb8 13. Qe4 Qd6 14. O-O Nf6 15. Qc4 Be7 16. Nb5
+Qc6 17. Qxc6 bxc6 18. Nc3 Nd5 19. Be3 Nxe3 20. fxe3 Rd2
+21. Rf2 Rhd8 22. Ne4 Rxf2 23. Kxf2 g6 24. Ke2 f5 25. Nc3 Kb7
+26. Rd1 Rxd1 27. Nxd1 Kb6 28. Kd3 Kc5 29. e4 f4 30. Be6 Bh4
+31. Bg8 h6 32. Bf7 g5 33. Ke2 Kd4 34. Nf2 Bxf2 35. Kxf2 Kd3
+36. a4 a5 37. b4 axb4 38. a5 c5 39. a6 c4 40. a7 b3 41. a8=Q
+Kc2 42. Bxc4 b2 43. Qa2 Kc1 44. Bd3 1-0

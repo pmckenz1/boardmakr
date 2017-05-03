@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1952.03.23"]
+[EventDate "1952.03.03"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Vasily Smyslov"]
+[Black "Mikhail Botvinnik"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Qe2+ Qe7
+7.dxc5 Qxe2+ 8.Nxe2 Bxc5 9.Nb3 Bb6 10.Bd2 Bd7 11.Bc3 f6 12.O-O
+Nge7 13.Ned4 Rc8 14.Nxc6 Bxc6 15.Bxc6+ bxc6 1/2-1/2

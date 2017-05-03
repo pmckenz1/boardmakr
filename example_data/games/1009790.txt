@@ -1,0 +1,18 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andrew Allen"]
+[Black "Mark Chapman"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Be2 c5
+7. c3 Nc6 8. O-O cxd4 9. cxd4 h6 10. Bh4 g5 11. Bg3 Nh5
+12. Bc4 d5 13. Bd3 Bg4 14. Qb3 Nxg3 15. hxg3 Qd6 16. Rac1 Rab8
+17. Rc5 Rfd8 18. Rfc1 e5 19. dxe5 Nxe5 20. Nxe5 Qxe5 21. Rc7
+a5 22. Qa4 Be6 23. R1c2 d4 24. Nf3 Qd6 25. Nxd4 1/2-1/2

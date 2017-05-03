@@ -1,0 +1,16 @@
+[Event "Hoogovens"]
+[Site "Beverwijk NED"]
+[Date "1960.01.16"]
+[EventDate "1960.01.07"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Salomon Flohr"]
+[Black "Tigran Vartanovich Petrosian"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.c4 e6 2.d4 Nf6 3.Nc3 Bb4 4.Bd2 O-O 5.e3 b6 6.Nf3 Bb7 7.Be2
+d6 8.O-O Nbd7 9.a3 Bxc3 10.Bxc3 Ne4 11.Qc2 Qe7 12.b4 Nxc3
+13.Qxc3 e5 14.dxe5 Nxe5 15.Nxe5 Qxe5 16.Qxe5 dxe5 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "6/93 ICS Heid"]
+[Site "6/93 ICS Heid"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "M-Chess (Computer)"]
+[Black "Joel Benjamin"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 O-O 9.O-O Nc6 10.Be3 Qc7 11.Rc1 Rd8 12.Qd2 Qa5
+13.Rfd1 cxd4 14.cxd4 Qxd2 15.Rxd2 Na5 16.Bb5 Bd7 17.Bxd7 Rxd7
+18.Rdc2 Rad8 19.Rc7 f5 20.f3 e6 21.Nf4 Kf7 22.d5 exd5 23.Nxd5
+Nc6 24.exf5 gxf5 25.Rxd7+ Rxd7 26.Nf4 Bd4 27.Kf2 Bxe3+ 28.Kxe3
+Re7+ 29.Kd2 Rd7+ 30.Kc3 Rd4 31.g3 Ra4 32.Rb1 b6 33.Rd1 Ke7
+34.Nd5+ Ke6 35.Nc7+ Ke7 36.Kb3 Rb4+ 37.Kc2 Rc4+ 38.Kb2 Nd4
+39.Nd5+ Ke6 40.Ne3 Ra4 41.f4 b5 42.a3 a6 43.Kc3 Nc6 44.Nc2
+Rc4+ 45.Kd2 Na5 0-1

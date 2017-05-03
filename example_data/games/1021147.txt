@@ -1,0 +1,28 @@
+[Event "ANU Carbon v Silicon Match"]
+[Site "Canberra B3"]
+[Date "1994.07.15"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Tim Reilly"]
+[Black "M-Chess (Computer)"]
+[ECO "E48"]
+[WhiteElo "2355"]
+[BlackElo "2305"]
+[PlyCount "142"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5
+7. Nge2 Re8 8. O-O b6 9. f3 a5 10. Kh1 Ba6 11. Ng3 Bxd3
+12. Qxd3 Nc6 13. a3 Bf8 14. Bd2 g6 15. Rad1 Bg7 16. Bc1 Bh6
+17. Nge2 Qe7 18. e4 dxe4 19. fxe4 Bxc1 20. Rxc1 Nxe4 21. Nxe4
+Qxe4 22. Qxe4 Rxe4 23. Ng3 Rxd4 24. Rxc6 Rc8 25. Rfc1 Rd2
+26. R6c2 Rcd8 27. Kg1 c5 28. Kf1 f5 29. Ke1 R2d4 30. Re2 R8d7
+31. Rcc2 Rh4 32. Nf1 Kf7 33. Rcd2 Rxd2 34. Kxd2 Kf6 35. Kc2 b5
+36. g3 Rc4+ 37. Kd1 Rd4+ 38. Rd2 g5 39. Rxd4 cxd4 40. Kd2 Ke5
+41. a4 bxa4 42. Kd3 f4 43. gxf4+ gxf4 44. Nd2 Kd5 45. Nf3 Kc5
+46. h4 Kd5 47. h5 h6 48. Nxd4 Ke5 49. Nc6+ Kd6 50. Nxa5 Kd5
+51. Nc4 Kc5 52. Ne5 Kd5 53. Nf7 f3 54. Nxh6 Ke5 55. Ke3 Kf6
+56. Kxf3 Kg5 57. Nf7+ Kxh5 58. Nd6 Kg6 59. Ke4 Kg5 60. Kd4 Kf4
+61. Nc4 Kf3 62. Nb6 Ke2 63. Nxa4 Kd2 64. b4 Ke2 65. b5 Kf3
+66. b6 Kg4 67. b7 Kf5 68. b8=Q Kg5 69. Qf8 Kg6 70. Ke5 Kh5
+71. Qg7 Kh4 1-0

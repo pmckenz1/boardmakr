@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Laszlo Hazai"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nb3 Be7 8. Qd2 Be6 9. f3 Nbd7 10. g4 h6 11. O-O-O b5 12. h4
+Nb6 13. Kb1 Nfd7 14. Be2 Rc8 15. g5 Qc7 16. gxh6 gxh6 17. Rhg1
+Nc4 18. Bxc4 Qxc4 19. f4 Nf6 20. f5 Bd7 21. Qg2 a5 22. Nd5
+Nxd5 23. Rxd5 a4 24. Nc5 Bc6 25. b3 axb3 26. cxb3 Qb4 27. Nd3
+Qa5 28. Qg7 Bxd5 29. exd5 Qc3 30. Nc5 Rf8 31. Qxh6 dxc5
+32. Qa6 Qd3+ 33. Kb2 Qxf5 34. d6 Bxh4 0-1

@@ -1,0 +1,15 @@
+[Event "Sousse Interzonal"]
+[Site "Sousse TUN"]
+[Date "1967.10.25"]
+[EventDate "1967.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Aleksandar Matanovic"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 c6 6.c4 d5 7.Nbd2
+Nbd7 8.Qc2 Re8 9.Rd1 Nb6 10.c5 Nbd7 11.Nb3 Nh5 1/2-1/2

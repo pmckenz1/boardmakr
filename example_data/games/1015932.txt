@@ -1,0 +1,27 @@
+[Event "Riga Interzonal"]
+[Site "Riga LAT"]
+[Date "1979.09.15"]
+[EventDate "1979.09.05"]
+[Round "8"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Oleg Romanishin"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Nd5 e4 6.Ng1 O-O 7.a3
+Bd6 8.Qc2 Re8 9.Ne2 b5 10.Ng3 bxc4 11.Bxc4 Bb7 12.b4 Ne5
+13.Nxf6+ Qxf6 14.Bb2 Qg6 15.Be2 Nd3+ 16.Bxd3 exd3 17.Qc4 a5
+18.O-O Qg5 19.Bc3 axb4 20.axb4 Qd5 21.Qxd5 Bxd5 22.f3 f6
+23.Ra5 c6 24.Nf5 Bf8 25.Kf2 Rab8 26.Ra7 Red8 27.Rb1 Bc4 28.Rb2
+Ra8 29.Ra5 Rdb8 30.Rxa8 Rxa8 31.Rb1 Rb8 32.Rb2 Kf7 33.e4 g6
+34.Ne3 Be6 35.g3 Bd6 36.Ng2 h5 37.Ne1 Bc4 38.Ng2 Ra8 39.Ne3
+Bb5 40.Rb1 Ra2 41.Nd1 Bc7 42.Bb2 Bb6+ 43.Kf1 Ra4 44.Ba1 Ra8
+45.Nc3 Bc4 46.Bb2 h4 47.Kg2 Bc7 48.Nd1 Bd6 49.Bc3 Ra2 50.f4
+Be7 51.Kf2 d5 52.Rb2 dxe4 53.gxh4 Ra1 54.Ne3 Bb5 55.f5 Bd6
+56.Kg2 Bf4 57.fxg6+ Kxg6 58.Kf2 Bxh2 59.Ng4 Bg1+ 60.Kg2 f5
+61.Ne5+ Kh7 62.Rb3 Rc1 63.Ra3 f4 64.Ra8 f3 65.Kg3 Rxc3 66.dxc3
+d2 67.Ra1 f2 68.c4 Ba4 69.Ng4 d1=Q 70.Rxd1 Bxd1 71.Nxf2 Bxf2+
+72.Kxf2 Bb3 73.c5 Bc4 74.Ke3 Bd3 75.b5 Bxb5 0-1

@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.30"]
+[EventDate "1927.06.26"]
+[Round "5"]
+[Result "1-0"]
+[White "Lajos Asztalos"]
+[Black "Alfred Brinckmann"]
+[ECO "C70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. Nc3 Nxb3
+7. axb3 d6 8. Nxb5 f5 9. d3 f4 10. Nc3 c5 11. Nxe5 dxe5
+12. Qh5+ Kd7 13. Qxe5 Bd6 14. Qd5 Ne7 15. Qxa8 Nc6 16. Nd5 Qg5
+17. Bd2 Bc7 18. O-O-O Qd8 19. c3 Rf8 20. Kc2 f3 21. g3 Rf7
+22. Be3 Bd6 23. b4 Bc7 24. Bxc5 Qe8 25. Rhe1 Ke6 26. d4 Bd8
+27. Qxc8+ 1-0

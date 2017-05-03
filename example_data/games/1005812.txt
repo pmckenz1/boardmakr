@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.27"]
+[EventDate "2000.01.18"]
+[Round "8"]
+[Result "1-0"]
+[White "Boris Avrukh"]
+[Black "Silvio Danailov"]
+[ECO "D85"]
+[WhiteElo "2620"]
+[BlackElo "2462"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bb5+ c6 8. Ba4 O-O 9. Ne2 c5 10. d5 e6 11. O-O exd5
+12. exd5 Nd7 13. Be3 Qa5 14. Bb3 Ne5 15. c4 Bf5 16. Rc1 Nd3
+17. Rc2 Nb2 18. Qd2 Qxd2 19. Rxd2 b5 20. cxb5 c4 21. Nd4 c3
+22. Nxf5 cxd2 23. Ne7+ Kh8 24. Bxd2 Rfd8 25. Nc6 Rd7 26. Be3
+Bf6 27. g4 g5 28. f4 gxf4 29. Rxf4 Bg7 30. Re4 Nd3 31. Kf1 f6
+32. Re6 Ne5 33. h3 Nf7 34. Bd4 f5 35. Bxg7+ Kxg7 36. gxf5 Nd6
+37. f6+ Kf8 38. Ne5 Rdd8 39. Re7 Kg8 40. Bc2 1-0

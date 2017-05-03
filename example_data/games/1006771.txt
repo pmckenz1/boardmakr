@@ -1,0 +1,23 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.09"]
+[EventDate "1920.08.02"]
+[Round "6"]
+[Result "1-0"]
+[White "Oscar Nilsson"]
+[Black "Aage Kier"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6
+7.Bd3 d5 8.exd5 cxd5 9.O-O O-O 10.Bg5 c6 11.Qf3 Be7 12.Rae1
+Re8 13.Qg3 Be6 14.f4 Nh5 15.Qh4 g6 16.Bxe7 Qxe7 17.Qxe7 Rxe7
+18.g4 Nf6 19.f5 Nxg4 20.fxe6 fxe6 21.Rf4 Nh6 22.b4 Rae8 23.a4
+e5 24.Rf6 e4 25.Bf1 d4 26.Ne2 d3 27.Nd4 d2 28.Rd1 e3 29.Be2
+Re4 30.c3 Ng4 31.Rf3 Ne5 32.Rg3 Rf8 33.Nc2 Re8 34.Rxe3 Nf3+
+35.Bxf3 Rxe3 36.Nxe3 Rxe3 37.Kf2 Rxc3 38.Rxd2 Rc4 39.Rd8+ Kg7
+40.Rd7+ Kf6 41.Rxa7 Rxb4 42.Bxc6 h5 43.a5 g5 44.Bg2 Rb2+
+45.Kg1 Rb1+ 46.Bf1 Ra1 47.a6 Ke5 48.Rh7 h4 49.a7 g4 50.Kf2
+Ra2+ 51.Ke3 Ra3+ 52.Kd2 h3 53.Be2 Kf4 54.Bb5 1-0

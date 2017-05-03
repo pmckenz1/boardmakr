@@ -1,0 +1,15 @@
+[Event "Chess Festival Dublin IRE"]
+[Site "Chess Festival Dublin IRE"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "John William Donaldson"]
+[Black "Alexander Baburin"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.f4 Nf6 6.Nf3 Bd6 7.Bd3 O-O
+1/2-1/2

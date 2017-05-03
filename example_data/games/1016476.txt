@@ -1,0 +1,16 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Glenn Flear"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 g5 7.Bg3
+Nh5 8.e3 Nxg3 9.hxg3 Bg7 10.Qa4 Nc6 11.O-O-O g4 12.Ne1 Qg5
+13.Rd2 a6 1/2-1/2

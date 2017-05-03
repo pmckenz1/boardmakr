@@ -1,0 +1,16 @@
+[Event "Alushta"]
+[Site "Alushta"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Alexey Vyzmanavin"]
+[Black "Andras Adorjan"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 Qc7 11.Rc1 Rd8 12.Bf4 Qb6
+13.d5 Ne5 14.Bxe5 Bxe5 1/2-1/2

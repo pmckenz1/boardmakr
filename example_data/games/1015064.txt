@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Adelaide (Australia)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Oliver Fraatz"]
+[Black "Utut Adianto"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nc6 6.Nc3 Be6 7.Bb5
+Nxc3 8.Bxc6+ bxc6 9.bxc3 Qd5 10.Nf3 Qc4 11.Bd2 Bd5 12.Qe2 e6
+13.Qxc4 Bxc4 14.Be3 Rb8 15.Nd2 Bd3 16.Nb3 Ba3 17.Kd2 Bf5
+18.Ke2 h5 19.Bc1 Be7 20.Na5 Kd7 21.Rd1 Rb5 22.Nc4 Rhb8 23.Rd2
+h4 24.h3 Bg6 25.Rb2 c5 26.Rxb5 Rxb5 27.Ba3 cxd4 28.cxd4 Bxa3
+29.Nxa3 Rb2+ 30.Ke3 Bh5 31.g4 hxg3 32.fxg3 Rg2 33.Kf4 g5
+34.Kxg5 Rxg3+ 35.Kxh5 Rxh3+ 36.Kg4 Rxa3 37.Kf4 c5 38.dxc5 Kc6
+39.Kg5 Rf3 40.Kg4 Rf5 41.Re1 a5 42.Re4 Kxc5 43.Ra4 Kb5 44.Re4
+Rf2 45.a3 Rf1 46.Kh4 Rf3 47.Kg5 Kc6 48.Rc4+ Kb5 49.Re4 Rxa3
+50.Rf4 Re3 51.Rxf7 Rxe5+ 0-1

@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Yury Poluektov"]
+[Black "Oleg Matjushin"]
+[ECO "D93"]
+[WhiteElo "2257"]
+[BlackElo "2188"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5
+7. dxc5 Qa5 8. Nd2 dxc4 9. Bxc4 Qxc5 10. O-O Nc6 11. Qe2 Na5
+12. Bb3 Nxb3 13. Nxb3 Qh5 14. Qxh5 Nxh5 15. Bg5 Bxc3 16. bxc3
+f6 17. Bh4 Rd8 18. Rfd1 Be6 19. Nc5 Bd5 20. g4 Ng7 21. e4 Bc6
+22. f3 g5 23. Bf2 Kf7 24. h4 h6 25. h5 e5 26. Be3 b6 27. Nb3
+Rac8 28. c4 Ne6 29. c5 bxc5 30. Nxc5 Rxd1+ 31. Rxd1 Nxc5
+32. Bxc5 Bxe4 33. Rd7+ Ke8 34. Re7+ Kd8 35. fxe4 Rxc5 36. Rxa7
+Rc4 37. Ra8+ Ke7 38. Ra7+ Kd6 39. Ra6+ Kc5 40. Rxf6 Rxe4
+41. Rxh6 Rxg4+ 42. Kf1 Kd5 43. Rg6 Ra4 44. Rxg5 Rxa2 45. Kg1
+Ke4 46. h6 Ra8 47. h7 Rh8 48. Rh5 Kf4 1/2-1/2

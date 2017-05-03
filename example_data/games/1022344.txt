@@ -1,0 +1,33 @@
+[Event "Suisse (Switzerland)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Hansjuerg Kaenel"]
+[Black "Alexander Baburin"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "205"]
+
+1.Nf3 g6 2.d4 Bg7 3.e3 d5 4.c4 Nf6 5.b4 O-O 6.Nbd2 Bg4 7.Qb3
+a5 8.Ne5 Nc6 9.Nxc6 bxc6 10.b5 e5 11.dxe5 Nd7 12.cxd5 Nxe5
+13.dxc6 a4 14.Qa3 Qd5 15.e4 Rfe8 16.Qe3 Nxc6 17.Bc4 Qg5 18.Rb1
+Qxe3+ 19.fxe3 Ne5 20.Bd5 Nd3+ 21.Kf1 Rad8 22.Ba3 Be6 23.Bxe6
+Rxe6 24.Ke2 Nf2 25.Rhf1 Nxe4 26.Nxe4 Rxe4 27.Rf4 Re5 28.Rxa4
+Red5 29.Bc1 Rd1 30.Rc4 Be5 31.h3 Rg1 32.Kf3 Rdd1 33.Ke4 f6
+34.a4 Rxg2 35.a5 Rd8 36.b6 cxb6 37.axb6 Kf7 38.b7 Rb8 39.Rc8
+Ke6 40.Rb6+ Kd7 41.Rxb8 Bxb8 42.Rxf6 h5 43.Ba3 g5 44.Bd6 Bxd6
+45.Rxd6+ Kc7 46.Rh6 h4 47.Rh7+ Kb8 48.Kf5 Rg3 49.e4 Rxh3
+50.Kxg5 Re3 51.Rxh4 Kxb7 52.Kf6 Kc7 53.Ke6 Kd8 54.e5 Re1
+55.Rh8+ Kc7 56.Re8 Rh1 57.Rf8 Re1 58.Ra8 Re2 59.Ra6 Kd8
+60.Ra8+ Kc7 61.Rf8 Re1 62.Rf5 Kd8 63.Rf2 Ke8 64.Kf6 Kf8 65.Rd2
+Rf1+ 66.Ke6 Re1 67.Rd8+ Kg7 68.Rd5 Kf8 69.Rc5 Re2 70.Kd6 Rd2+
+71.Ke6 Re2 72.Rc1 Re3 73.Rc8+ Kg7 74.Kd6 Kf7 75.Rc7+ Ke8
+76.Ra7 Re1 77.Rh7 Re2 78.Ke6 Kf8 79.Rh6 Re1 80.Rh8+ Kg7 81.Re8
+Ra1 82.Rd8 Re1 83.Rb8 Re2 84.Rb5 Kf8 85.Kd6 Rd2+ 86.Ke6 Re2
+87.Rb1 Re3 88.Kf5 Rf3+ 89.Ke4+ Rf2 90.Rb7 Rf1 91.Kd5 Rd1+
+92.Ke6 Re1 93.Rf7+ Ke8 94.Rf2 Re3 95.Ra2 Kf8 96.Ra8+ Kg7
+97.Re8 Ra3 98.Re7+ Kf8 99.Rc7 Re3 100.Rc5 Re1 101.Kd6 Rd1+
+102.Ke6 Re1 103.Rd5 1/2-1/2

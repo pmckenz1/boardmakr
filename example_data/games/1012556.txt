@@ -1,0 +1,20 @@
+[Event "Simul, 6b"]
+[Site "Gambit Cafe, London ENG"]
+[Date "1928.06.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Alan Linnell Fletcher"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 Nc6 4. d5 Nb8 5. Nc3 d6 6. g3 g6
+7. Bg2 Bg7 8. O-O O-O 9. Bf4 h6 10. Qd2 Kh7 11. e4 Nh5 12. Be3
+Nd7 13. Rae1 Rb8 14. Nh4 Ndf6 15. h3 Ng8 16. g4 Nhf6 17. f4 e6
+18. Nf3 exd5 19. cxd5 b5 20. e5 b4 21. Nd1 Ne4 22. Qd3 f5
+23. e6 Qa5 24. gxf5 gxf5 25. Nh4 Ba6 26. Qxe4 fxe4 27. Bxe4+
+Kh8 28. Ng6+ Kh7 29. Nxf8+ Kh8 30. Ng6+ Kh7 31. Ne5+ Kh8
+32. Nf7# 1-0

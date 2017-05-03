@@ -1,0 +1,23 @@
+[Event "Olympiad"]
+[Site "Munich (Germany)"]
+[Date "1958.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Frank Ross Anderson"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.a4 a6 7.Nc3
+Nge7 8.g3 d6 9.Bg2 Ne5 10.h3 O-O 11.O-O c6 12.a5 Ba7 13.Kh2 f5
+14.f4 Nf7 15.Ra4 Qc7 16.Qh5 Bd7 17.Re1 Rae8 18.exf5 Nxf5
+19.Rxe8 Rxe8 20.Re4 Qd8 21.Qe2 Rf8 22.Qe1 d5 23.Re2 h5 24.Na4
+h4 25.g4 Ng3 26.Re7 Re8 27.Rxe8+ Bxe8 28.Nac5 Nd6 29.Bd2 Bb8
+30.Kg1 Bf7 31.Qf2 Qe7 32.Bf3 Nc4 33.Bc1 Ba7 34.Kg2 Nxa5 35.Be3
+Nxb3 36.cxb3 Bb8 37.b4 Bd6 38.Qd2 Bb8 39.f5 Qd6 40.Nxb7 Qc7
+41.Nc5 Ne4 42.Bxe4 dxe4 43.Kf1 Qg3 44.Qd8+ Kh7 45.Ke2 Bc4+
+46.Kd2 Be5 47.Nxe4 Qg2+ 48.Nf2 Bg3 49.Qe8 Qd5+ 50.Kc1 Qf7
+51.Qxf7 Bxf7 52.Ne4 1/2-1/2

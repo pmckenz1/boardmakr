@@ -1,0 +1,17 @@
+[Event "Minsk URS ch"]
+[Site "Minsk BLR"]
+[Date "1979.12.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Konstantin Zaivelevich Lerner"]
+[Black "Yuri Balashov"]
+[ECO "E52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 b6 7.O-O
+Bb7 8.cxd5 exd5 9.Bd2 Bd6 10.Ne5 c5 11.f4 Nc6 12.Qf3 cxd4
+13.Nxc6 Bxc6 14.exd4 Qd7 15.f5 Rfe8 16.Rae1 Rxe1 17.Rxe1 Re8
+18.Rxe8+ Qxe8 1/2-1/2

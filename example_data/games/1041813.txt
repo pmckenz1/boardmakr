@@ -1,0 +1,20 @@
+[Event "Shenzhen (China)"]
+[Site "it"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Weiguo Lin"]
+[Black "Eugenio Torre"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.g3 Na6 7.Bg2
+Nb4 8.O-O Bc2 9.Qd2 a5 10.Na2 Ne4 11.Qf4 Nd5 12.Qh4 Nd6 13.Ng5
+Nf5 14.Qh5 g6 15.Qf3 Nf6 16.e3 h6 17.Nh3 g5 18.g4 Nh4 19.Qg3
+Bd3 20.Re1 Ne4 21.Bxe4 Bxe4 22.Rd1 Bf3 23.Rd2 Qd7 24.Kf1 Bxg4
+25.Ng1 Bf5 26.Ke1 e6 27.f3 Bd3 28.b3 Nf5 29.Qf2 Be7 30.Bb2 g4
+31.Ne2 Bh4 32.Ng3 gxf3 33.bxc4 Rg8 34.Rxd3 Rxg3 35.hxg3 Bxg3
+36.e4 Bxf2+ 37.Kxf2 Nd6 38.Kxf3 Nxc4 39.Rg1 O-O-O 0-1

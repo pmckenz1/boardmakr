@@ -1,0 +1,20 @@
+[Event "Ch ARG"]
+[Site "Ch ARG"]
+[Date "1955.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Luis Marini"]
+[Black "Erich Eliskases"]
+[ECO "A54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 d6 4.d4 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Be2
+Re8 8.O-O c6 9.Qc2 Qc7 10.Bh4 Nf8 11.h3 Nh5 12.Bxe7 Qxe7 13.c5
+exd4 14.cxd6 Qxd6 15.Rad1 Nf6 16.Rxd4 Qe7 17.Rfd1 Ng6 18.b4
+Be6 19.Ng5 c5 20.bxc5 Qxc5 21.Nxe6 Rxe6 22.Bc4 Ree8 23.Nd5
+Rac8 24.Nxf6+ gxf6 25.Rd8 Kg7 26.Rxe8 Rxe8 27.Rd5 Qc6 28.Qb3
+Rc8 29.Rd4 Rc7 30.Bd5 Qa6 31.Rc4 Rxc4 32.Bxc4 Qc6 33.Bd5 Qc1+
+34.Kh2 b6 35.f4 Qc7 1/2-1/2

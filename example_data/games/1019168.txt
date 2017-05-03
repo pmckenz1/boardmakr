@@ -1,0 +1,19 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1864.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Gustav Richard Neumann"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Bb5+ c6 5.dxc6 bxc6 6.Bc4 Nf6 7.d4
+Bd6 8.Ne2 O-O 9.O-O Nbd7 10.c3 Nb6 11.Bb3 c5 12.a4 c4 13.Bc2
+a5 14.Na3 Bxa3 15.Rxa3 Re8 16.b3 Qd5 17.bxc4 Nxc4 18.Rb3 e3
+19.Rf3 Bd7 20.Rb1 Bc6 21.Bd3 Ng4 22.Qc2 g6 23.Rg3 Nf2 24.Bxc4
+Qxc4 25.Bxe3 Bxa4 26.Qb2 Ne4 27.Rf3 Bc6 28.f5 Nd6 29.Rh3 Nxf5
+30.Kf2 a4 31.Re1 a3 32.Qa1 a2 33.Nf4 Reb8 34.Bd2 Be4 0-1

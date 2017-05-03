@@ -1,0 +1,25 @@
+[Event "Tilburg (Netherlands)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Utut Adianto"]
+[Black "Anatoli Vaisser"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1.d4 d6 2.e4 g6 3.Nf3 Bg7 4.h3 Nd7 5.Nc3 a6 6.Be3 e6 7.Qd2 h6
+8.O-O-O Ne7 9.h4 b5 10.h5 g5 11.d5 e5 12.Nxg5 hxg5 13.Bxg5 Rh7
+14.Ne2 f6 15.Be3 f5 16.h6 f4 17.Bxf4 exf4 18.hxg7 Rxh1 19.Nxf4
+Nf6 20.Bxb5+ axb5 21.Rxh1 Neg8 22.Qd3 Qe7 23.Qxb5+ Kf7 24.Re1
+Rxa2 25.Kb1 Bd7 26.Qb7 Ra4 27.f3 Qd8 28.Ne6 Qa8 29.Qxa8 Rxa8
+30.Nxc7 Ra7 31.Ne6 Bxe6 32.dxe6 Kxe6 33.f4 Rxg7 34.e5 Nh5
+35.f5+ Kxf5 36.exd6 Ngf6 37.c4 Nf4 38.c5 Ne4 39.g4+ Rxg4 40.d7
+Ne6 41.c6 Rg8 42.Rd1 Rd8 43.Rd5+ Kf6 44.Kc2 Nc7 45.Rd1 Ke5
+46.b4 Nd6 47.Kb3 Ke6 48.Kc3 Rb8 49.Kb3 Nf7 50.Kc3 Nd8 51.Kc4
+Nxc6 52.Kc5 Nd8 53.Kc4 Ke7 54.Rd2 Nde6 55.Rd1 Nb5 56.Ra1 Kxd7
+57.Rh1 Nd6+ 58.Kb3 Nd4+ 59.Kc3 N4b5+ 60.Kb3 Kc6 61.Rh5 Rg8
+62.Rc5+ Kb6 63.Rc1 Nd4+ 64.Kb2 Rg2+ 65.Kb1 Ne4 0-1

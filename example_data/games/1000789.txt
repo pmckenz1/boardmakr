@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.09"]
+[EventDate "1911.08.21"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Erich Cohn"]
+[Black "Semion Alapin"]
+[ECO "D12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Qc7
+7.Bb5+ Bd7 8.Nc3 e6 9.Bd2 Nc6 10.Rc1 Be7 11.O-O O-O 12.Bd3
+Rfb8 13.Ne5 Be8 14.f4 Nd7 15.Rf3 Nf8 16.Rh3 Qd8 17.Qc2 f5
+18.a3 Nxe5 19.fxe5 h5 20.Rf3 g5 21.Rff1 Rc8 22.Qb3 Bf7 23.Na4
+Be8 24.Bb5 Bxb5 25.Qxb5 Qd7 26.Nc3 Rc6 27.Qe2 g4 28.Qd3 Rac8
+29.Ne2 Rxc1 30.Rxc1 Rxc1+ 31.Nxc1 Qa4 32.Qb3 Qxb3 33.Nxb3 b6
+34.Bb4 Kf7 35.Bxe7 Kxe7 36.Kf2 h4 37.Nc1 Kd7 38.Ne2 Ng6 39.Nc3
+Kc6 40.b4 a6 41.a4 Nf8 42.Ne2 Ng6 43.Nc3 Nf8 44.Ne2 Ng6 45.Nc3
+Nf8 46.Ne2 Ng6 47.Nc3 1/2-1/2

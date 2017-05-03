@@ -1,0 +1,16 @@
+[Event "09, Daugavpils"]
+[Site "09, Daugavpils"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Aivars Gipslis"]
+[ECO "E39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Bf4 Na6 7.Bd6
+Re8 8.a3 Bxc3+ 9.Qxc3 Ne4 10.Qd4 Qa5+ 11.b4 Nxb4 12.axb4 Qxb4+
+13.Kd1 Nxf2+ 14.Qxf2 Qb3+ 15.Kc1 Qc3+ 16.Kb1 1/2-1/2

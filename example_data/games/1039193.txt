@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "New York, NY USA"]
+[Date "1989.03.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Boris Gulko"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Qa4+ Nd7 8.Nf3 O-O 9.Bg5 h6 10.Bh4 c5 11.Rc1 g5 12.Bg3 Nb6
+13.Qa3 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1980.03.20"]
+[EventDate "1980.03.16"]
+[Round "5"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Steven M Odendahl"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1.Nf3 Nf6 2.d4 g6 3.Bg5 Bg7 4.Nbd2 d6 5.e4 O-O 6.c3 Nc6 7.Bb5
+Bd7 8.O-O h6 9.Bh4 Qe8 10.e5 dxe5 11.Bxc6 Bxc6 12.Nxe5 b6
+13.Nxc6 Qxc6 14.Re1 Rfe8 15.Nf3 Qb7 16.Qb3 e6 17.Ne5 Qd5
+18.Qa4 a6 19.Rad1 b5 20.Qa5 Qb7 21.Rd3 Nd5 22.Bg3 Qb6 23.Qa3
+b4 24.Qa4 Qb5 25.Qc2 bxc3 26.bxc3 Rab8 27.Rf3 Qb2 28.Qd3 Nf6
+29.Qxa6 Qd2 30.Rf1 Ra8 31.Qc6 Qxa2 32.Qxc7 Qa7 33.Qc4 Rac8
+34.Qd3 Re7 35.h3 Rec7 36.Rc1 Qa3 37.Qb1 Rxc3 38.Rcxc3 Rxc3
+39.Rxc3 Qxc3 40.Qb7 Qe1+ 41.Kh2 Qe4 42.Qxf7+ Kh7 43.Nf3 Qf5
+44.Qa7 g5 45.Be5 h5 46.Qb7 Kh6 47.Kg1 Qc2 48.Nh2 Kg6 49.Qe7
+Qc1+ 50.Nf1 Qc8 51.Ng3 Qg8 52.Qb7 Kh6 53.Qf3 h4 54.Bxf6 hxg3
+55.fxg3 Qc8 56.Bxg7+ Kxg7 57.Qg4 Qc1+ 58.Kh2 Kf7 59.h4 gxh4
+60.gxh4 Qd2 61.h5 Kf8 62.Kh3 Qc1 63.Qf3+ Ke7 64.Kg4 Qd2 65.Qe4
+Kd7 66.g3 1-0

@@ -1,0 +1,29 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.31"]
+[EventDate "1911.08.21"]
+[Round "8"]
+[Result "0-1"]
+[White "Charles Jaffe"]
+[Black "Oscar Chajes"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "166"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.c3 Bd6 5.Bg5 h6 6.Bh4 Nbd7 7.Nbd2
+e5 8.e4 exd4 9.Nxd4 g5 10.Bg3 dxe4 11.Bxd6 cxd6 12.Nc4 Nc5
+13.Nb5 d5 14.Ncd6+ Kf8 15.Qd4 Ne6 16.Qe5 a6 17.Na3 Rg8
+18.O-O-O Nf4 19.Nxe4 Nxe4 20.Qxe4 dxe4 21.Rxd8+ Kg7 22.Rd4 Bf5
+23.g3 Nd3+ 24.Bxd3 exd3 25.Nc4 Rgd8 26.Nd6 Bg6 27.f4 gxf4
+28.gxf4 Rxd6 29.Rxd6 Re8 30.Rg1 Kf8 31.Rg2 Re1+ 32.Kd2 Rb1
+33.Rb6 Be4 34.Rf2 f5 35.c4 a5 36.b3 a4 37.Rb4 axb3 38.Rxb3 Ra1
+39.Rb2 Ke7 40.Ke3 Kd6 41.Kd4 h5 42.Rb6+ Kc7 43.Rh6 Re1 44.Rd2
+Rf1 45.Rxh5 Rxf4 46.Rh7+ Kd6 47.Rh6+ Kd7 48.h4 Rf1 49.h5 Rh1
+50.Rh7+ Ke6 51.h6 Rh3 52.Rb2 Kf6 53.Rb6+ Kg5 54.Ke5 Kg4 55.Rd6
+Kf3 56.Rxb7 Ke3 57.Rb1 Rh2 58.Re1+ Kd2 59.Rxe4 fxe4 60.Kxe4
+Ke2 61.c5 d2 62.c6 Rh4+ 63.Kf5 Rxh6 64.Rxh6 d1=Q 65.Re6+ Kf3
+66.Ke5 Qd8 67.Rd6 Qa5+ 68.Ke6 Ke4 69.Kd7 Qf5+ 70.Kd8 Ke5
+71.Rd7 Ke6 72.Kc7 Qa5+ 73.Kb7 Qxa2 74.Kb6 Qa4 75.Rd8 Qb4+
+76.Kc7 Qa5+ 77.Kc8 Qa7 78.Rd1 Qa4 79.Rc1 Kd6 80.Kb7 Qb5+
+81.Kc8 Qa6+ 82.Kb8 Qb6+ 83.Ka8 Kc7 0-1

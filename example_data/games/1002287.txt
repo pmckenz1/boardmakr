@@ -1,0 +1,21 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.27"]
+[EventDate "?"]
+[Round "27"]
+[Result "1-0"]
+[White "Samuel Lipschutz"]
+[Black "Jackson Whipps Showalter"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 d6 5.Nf3 Nf6 6.Nc3 Be7
+7.Bd3 O-O 8.O-O Ng4 9.Qe2 Nge5 10.Nxe5 Nxe5 11.Nd5 Bh4 12.Bd2
+f5 13.exf5 Nxd3 14.Qxd3 Bxf5 15.Qc4 Kh8 16.g3 Bf6 17.Nxf6 Qxf6
+18.Bc3 Qg6 19.f3 Rf7 20.Rf2 Raf8 21.Re1 h5 22.Rfe2 Bd7 23.Re7
+Bc6 24.R1e3 Qg5 25.f4 Qf5 26.Qe6 Qxc2 27.Re2 Qb1+ 28.Re1 Qc2
+29.Re2 Qb1+ 30.Re1 Qc2 31.Re2 Qd1+ 32.Re1 Qc2 33.Qh6+ Kg8
+34.Qxg7+ Rxg7 35.Rxg7+ Kh8 36.Rg5 Rf6 37.Bxf6+ Kh7 38.Re7+ Kh6
+39.Bg7+ Kh7 40.Bc3 Kh6 41.Re6+ Kh7 42.Rg7+ 1-0

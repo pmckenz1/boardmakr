@@ -1,0 +1,23 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andrey Bliznyuk"]
+[Black "Benjamin Martin"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Bd6 5. Bg2 Ne7 6. Ngf3 Nbc6
+7. O-O O-O 8. Re1 Bc7 9. exd5 exd5 10. d4 c4 11. Nf1 Bg4
+12. h3 Bh5 13. Be3 f6 14. h4 f5 15. Bg5 f4 16. g4 Bxg4
+17. N1h2 Bf5 18. Ne5 Bxe5 19. dxe5 h6 20. Bxf4 Bxc2 21. Qg4
+Nf5 22. e6 Rf6 23. Rac1 Bd3 24. Nf3 Qe8 25. Ne5 Nxe5 26. Rxe5
+Ne7 27. Rce1 Rc8 28. Bd2 Bf5 29. Qd1 Rc6 30. Bb4 Rcxe6
+31. Bxe7 Qxe7 32. Qxd5 Kh8 33. Qxb7 Qxb7 34. Bxb7 Rxe5
+35. Rxe5 Bd3 36. Be4 Bxe4 37. Rxe4 Ra6 38. Rxc4 Rxa2 39. b3
+Kh7 40. Kg2 a5 41. Rc5 Kg6 42. Rb5 Ra3 43. f3 a4 44. bxa4 Rxa4
+1/2-1/2

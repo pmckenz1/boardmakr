@@ -1,0 +1,27 @@
+[Event "Kiev"]
+[Site "Kyiv UKR"]
+[Date "1978.06.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Konstantin Zaivelevich Lerner"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 f5 5. f4 Nf6 6. Nf3 Be7
+7. Be2 O-O 8. O-O Bd7 9. Ne5 Be8 10. h3 Nfd7 11. Nf3 Bh5
+12. g4 fxg4 13. Nd2 Na6 14. hxg4 Bg6 15. Nf3 Nc7 16. c5 Qb8
+17. Bd3 Bxd3 18. Qxd3 b6 19. b4 Qc8 20. Bd2 bxc5 21. bxc5 e5
+22. Nh2 e4 23. Qe2 Ne6 24. Rab1 Bd8 25. g5 Rf5 26. Kh1 Bc7
+27. Qg2 Qe8 28. Ne2 Ndf8 29. Qg4 g6 30. Ng3 Rf7 31. Qh4 Nd7
+32. Ng4 Kh8 33. Nh6 Rf8 34. Kg2 Qe7 35. Bc3 Nd8 36. Rg1 Rb8
+37. Qg4 Rxb1 38. Rxb1 Ne6 39. Bd2 Rb8 40. Rxb8+ Bxb8 41. f5
+gxf5 42. Ngxf5 Qe8 43. Be1 Ng7 44. Nxg7 Kxg7 45. Bg3 Bxg3
+46. Kxg3 Nf8 47. Qf4 Nd7 48. Kh4 Qf8 49. Nf5+ Kg6 50. Kg4 Qb8
+51. Nd6 Qf8 52. Qxf8 Nxf8 53. Nc8 a6 54. Ne7+ Kf7 55. Nxc6 Ke6
+56. Ne5 Ke7 57. Kf5 Ne6 58. Ng4 Ng7+ 59. Ke5 Ne6 60. Nf6 Nxg5
+61. Nxd5+ Kd7 62. Nf6+ Kc7 63. Nxe4 Nf7+ 64. Ke6 Nd8+ 65. Ke7
+Nb7 66. Nf6 h6 67. e4 Na5 68. e5 1-0

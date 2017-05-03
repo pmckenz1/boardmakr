@@ -1,0 +1,21 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.24"]
+[EventDate "1930.01.16"]
+[Round "7"]
+[Result "0-1"]
+[White "Massimiliano Romi"]
+[Black "Milan Vidmar"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 b6 4.Nf3 Bb7 5.Bd3 Be7 6.Nbd2 d5 7.Qe2
+c5 8.c3 Nc6 9.O-O O-O 10.Rad1 Nh5 11.Bg3 Nxg3 12.hxg3 c4
+13.Bb1 f5 14.e4 fxe4 15.Nxe4 dxe4 16.Qxe4 g6 17.Qxe6+ Kg7
+18.d5 Na5 19.Rfe1 Bf6 20.Qg4 Bc8 21.Qe4 Bf5 22.Qe2 Bxb1
+23.Rxb1 Qxd5 24.Rbd1 Qf7 25.Qc2 Rfe8 26.Qa4 Rxe1+ 27.Rxe1 Rd8
+28.g4 h6 29.Qb5 Rd5 30.Qa4 Qd7 31.Qc2 Qxg4 32.b4 cxb3 33.axb3
+Qf5 34.Qa2 Rd7 35.b4 Nc6 36.Re8 Ne7 37.Nd4 Bxd4 38.cxd4 Qf7
+0-1

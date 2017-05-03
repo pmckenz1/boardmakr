@@ -1,0 +1,22 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.26"]
+[EventDate "1905.08.14"]
+[Round "12"]
+[Result "1-0"]
+[White "Julius Perlis"]
+[Black "Hans Fahrni"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. Bc4 Nf6 5. O-O d6 6. d3 Bg4
+7. Be3 O-O 8. Ne2 d5 9. exd5 Nxd5 10. Ng3 h6 11. c3 Be7
+12. Qe2 Re8 13. h3 Be6 14. Bb5 Bd6 15. Ne4 Bd7 16. Bc4 Be6
+17. Rad1 Qe7 18. Bb3 Nxe3 19. fxe3 Bxb3 20. axb3 Qe6 21. Nh4
+Ne7 22. Qh5 f6 23. Rf3 Rf8 24. Rdf1 Kh7 25. Rg3 Kh8 26. Ng6+
+Nxg6 27. Rxg6 Qg8 28. Nxf6 Rxf6 29. Rfxf6 Bf8 30. Qxe5 Kh7
+31. Qf5 Kh8 32. Rf7 Re8 33. d4 c6 34. g4 a5 35. e4 Rd8 36. e5
+c5 37. e6 cxd4 38. e7 Bxe7 39. Rxh6+ gxh6 40. Qe5+ Bf6
+41. Qxf6+ 1-0

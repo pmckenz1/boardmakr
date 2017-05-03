@@ -1,0 +1,21 @@
+[Event "New"]
+[Site "New York, NY USA"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Daniel E Shapiro"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 exd5 6. cxd5 g6
+7. Nc3 Bg7 8. e4 O-O 9. d6 Bb7 10. Bd3 c4 11. Bc2 Na6 12. Bg5
+h6 13. Bh4 Re8 14. O-O g5 15. Nxg5 hxg5 16. Bxg5 Qc8 17. Re1
+Qc5 18. Qd2 Re6 19. Rad1 Rae8 20. Be3 Qh5 21. f3 Nh7 22. Bf4
+Kh8 23. Kh1 Rg8 24. b4 Nf8 25. Ne2 Bh6 26. Qd4+ Rg7 27. Ng3
+Qh4 28. Bxh6 Rxh6 29. Qxg7+ Kxg7 30. Nf5+ Kg8 31. Nxh4 Rxh4
+32. b5 Nc5 33. Rd4 a6 34. a4 Nfe6 35. Rxc4 Rh5 36. bxa6 Bxa6
+37. Rb4 Bd3 38. Bd1 Bxe4 39. fxe4 Nd3 40. Bxh5 1-0

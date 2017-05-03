@@ -1,0 +1,19 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.06.07"]
+[EventDate "?"]
+[Round "17"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Hugo Suechting"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.h3 Be6 7.O-O
+Qd7 8.Bb5 O-O 9.d4 exd4 10.Nxd4 a6 11.Bxc6 bxc6 12.f4 Bc4
+13.Re1 a5 14.b3 Ba6 15.Bb2 Ne8 16.Nf5 Bf6 17.Qg4 Bc8 18.Rad1
+g6 19.Qg3 Qd8 20.Nh6+ Kh8 21.Ng4 Bg7 22.e5 d5 23.Ba3 Rg8
+24.Ne4 Be6 25.Ng5 h5 26.Qh4 Bf8 27.f5 Bxa3 28.fxe6 Bc5+ 29.Kh1
+Rg7 30.exf7 Be7 31.fxe8=Q+ Qxe8 32.Nf6 1-0

@@ -1,0 +1,19 @@
+[Event "Belgrade GMA-op"]
+[Site "Belgrade YUG"]
+[Date "1988.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Milorad Danilovic"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Bc4 c6 5.Qf3 Be6 6.Nge2 Nc7
+7.Bxe6 Nxe6 8.O-O Na6 9.b4 Qd7 10.Rb1 g6 11.b5 Nac7 12.bxc6
+bxc6 13.d4 Bg7 14.Be3 O-O 15.Rb7 Rfb8 16.Rfb1 Rxb7 17.Rxb7 Qc8
+18.Qxc6 Nd8 19.Qxc7 Qxb7 20.Qc4 Rc8 21.Qa4 Ne6 22.h3 a6 23.Qa3
+Bf8 24.Qc1 Nc7 25.Bh6 Nb5 26.Nxb5 Bxh6 27.Qxh6 Qxb5 28.Ng3
+Rxc2 29.Qe3 Qd7 30.a3 Qe6 31.Ne4 a5 32.g4 Rc4 33.Nd2 0-1

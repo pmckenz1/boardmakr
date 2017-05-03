@@ -1,0 +1,18 @@
+[Event "Kecskemet (Hungary)"]
+[Site "Kecskemet (Hungary)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Nikola Stajcic"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.e3 e6 5.Nc3 Nbd7 6.Qc2 Bd6 7.Be2
+O-O 8.O-O Qe7 9.Rd1 dxc4 10.Bxc4 e5 11.h3 exd4 12.exd4 Nb6
+13.Re1 Qc7 14.Bb3 Bf4 15.Re5 Bxc1 16.Rxc1 Qd6 17.Ne4 Nxe4
+18.Qxe4 Nd7 19.Re7 Nf6 20.Qe5 Qb4 21.Rxf7 Rxf7 22.Ng5 Bd7
+23.Nxf7 Kf8 24.Nd6 a5 25.Re1 Re8 26.Nxe8+ Bxe8 27.Re3 1-0

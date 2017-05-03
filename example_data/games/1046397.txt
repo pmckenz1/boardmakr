@@ -1,0 +1,22 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Bruce Rind"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. d4 d5 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 c5 8. Rb1 O-O 9. Be2 b6 10. Be3 Bb7 11. Qd3 cxd4
+12. cxd4 Qd7 13. O-O Qa4 14. Rfc1 Qxa2 15. Bd1 Qa6 16. Qc2 Rc8
+17. Qb3 Nc6 18. d5 Na5 19. Qb4 Bf8 20. Ba4 Rc4 21. Qa3 Rxc1+
+22. Rxc1 Nc4 23. Qb3 Nxe3 24. fxe3 Rc8 25. Rxc8 Bxc8 26. Be8
+Qa1+ 27. Kf2 Bg7 28. Qc4 Qb2+ 29. Kg3 Qc3 30. Qc6 Be5+ 31. Kf2
+Qb2+ 32. Kg1 Ba6 33. Bxf7+ Kg7 34. Nxe5 Qxe5 35. Be6 Qa1+
+36. Kf2 Qf1+ 37. Kg3 Qe1+ 38. Kf4 Qf2+ 39. Kg5 Qxg2+ 40. Kf4
+Qxh2+ 0-1

@@ -1,0 +1,21 @@
+[Event "Havana"]
+[Site "Havana CUB"]
+[Date "1913.03.06"]
+[EventDate "1913.02.15"]
+[Round "14"]
+[Result "0-1"]
+[White "Juan Corzo"]
+[Black "Oscar Chajes"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 g6
+7. Be3 Bg7 8. O-O O-O 9. h3 Bd7 10. Qd2 a6 11. a4 Rc8 12. Nxc6
+Bxc6 13. Bf3 Nd7 14. Bd4 Ne5 15. Be2 Qc7 16. a5 e6 17. f4 Bh6
+18. Qe1 Nd7 19. Qh4 e5 20. Bxe5 dxe5 21. Qxh6 exf4 22. Rxf4
+Ne5 23. g4 f6 24. Raf1 Qd6 25. R4f2 Qc5 26. Kh2 Qd6 27. Qf4 g5
+28. Qg3 Kg7 29. Bd3 Rcd8 30. Rd1 Qb4 31. Rf5 Rfe8 32. Rb1 Qxa5
+33. Rbf1 Re6 34. b4 Qxb4 35. Rxf6 Rxf6 36. Qxe5 Qd6 37. Qxd6
+Rdxd6 38. Rf5 Rxf5 39. gxf5 Kf6 40. Kg3 Ke5 41. Kg4 h6 0-1

@@ -1,0 +1,26 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Tejas Bakre"]
+[Black "Guruswamy Balagurunathan Prakash"]
+[ECO "B11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d3 Nd7
+7. a3 Ngf6 8. g4 g6 9. Qg3 Bg7 10. Bg2 O-O 11. O-O dxe4
+12. dxe4 e5 13. Rd1 Qe7 14. Be3 Rfd8 15. Qf3 Ne8 16. Bf1 Nc7
+17. Bc4 Nb6 18. Bb3 Ne6 19. Bxe6 Qxe6 20. Rxd8+ Rxd8 21. Rd1
+Bf6 22. Bxb6 axb6 23. Rxd8+ Bxd8 24. Kg2 Qd6 25. Qd1 Qxd1
+26. Nxd1 b5 27. Nc3 Ba5 28. Ne2 Bd2 29. b4 Kg7 30. Kg3 Kf6
+31. f3 Kg5 32. Kg2 b6 33. Kg3 h6 34. Kg2 Kf6 35. Kg3 Kg5
+36. Kg2 c5 37. c3 h5 38. Kg3 Be1+ 39. Kg2 Kh4 40. Kh2 Bd2
+41. Kg2 Kg5 42. Kg3 Be1+ 43. Kg2 f6 44. Kf1 Bd2 45. Kg2 hxg4
+46. hxg4 Kh4 47. Kh2 f5 48. gxf5 gxf5 49. exf5 Kg5 50. Ng3 Bc1
+51. bxc5 bxc5 52. Ne4+ Kxf5 53. Nxc5 Bxa3 54. Ne4 Kf4 55. Kg2
+Ke3 56. Kg3 Kd3 57. Kg4 Ke3 58. Kg3 Kd3 59. Kg4 Bb2 60. Nd6
+Bxc3 1/2-1/2

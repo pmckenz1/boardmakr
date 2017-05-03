@@ -1,0 +1,15 @@
+[Event "Ch Hungary (team) 1993/94"]
+[Site "Hungary"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jozsef Horvath"]
+[Black "Istvan Bilek"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 c5 4.d5 b5 5.cxb5 a6 6.bxa6 Bxa6 7.Qc2
+d6 8.Bd2 Nf6 9.Bc3 O-O 10.e4 Qb6 11.Be2 Nxe4 1/2-1/2

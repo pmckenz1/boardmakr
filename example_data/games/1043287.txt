@@ -1,0 +1,15 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Stefan Djuric"]
+[Black "John Fedorowicz"]
+[ECO "E65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 c5 5.Bg2 O-O 6.O-O d6 7.Nc3
+Nc6 8.dxc5 1/2-1/2

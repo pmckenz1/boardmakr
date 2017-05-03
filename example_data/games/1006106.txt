@@ -1,0 +1,17 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.07"]
+[EventDate "2000.04.05"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Torsten Sarbok"]
+[Black "Throstur Thorhallsson"]
+[ECO "B30"]
+[WhiteElo "2285"]
+[BlackElo "2489"]
+[PlyCount "35"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5
+7. Bc2 d5 8. exd5 Qxd5 9. d4 Bb7 10. c4 bxc4 11. Nc3 Qh5
+12. dxc5 Nf5 13. Nd5 O-O-O 14. Nb6+ Kb8 15. Nd7+ Kc8 16. Nb6+
+Kb8 17. Nd7+ Kc8 18. Nb6+ 1/2-1/2

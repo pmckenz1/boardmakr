@@ -1,0 +1,19 @@
+[Event "USSR Championship"]
+[Site "Leningrad (RUS)"]
+[Date "1960.02.16"]
+[EventDate "1960.??.??"]
+[Round "14"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Eduard Gufeld"]
+[ECO "B77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+O-O 8.Qd2 Nc6 9.Bc4 Nxd4 10.Bxd4 Qa5 11.O-O-O Be6 12.Bb3 b5
+13.Kb1 Rfc8 14.Rhe1 b4 15.Nd5 Bxd5 16.exd5 Rc7 17.a4 Bf8 18.h4
+Rac8 19.Bxf6 exf6 20.Re4 Rb7 21.g4 Rbb8 22.Rde1 Qb6 23.h5 a5
+24.hxg6 hxg6 25.f4 Bg7 26.f5 g5 27.Bc4 Rb7 28.Bb5 Rbc7 29.Qh2
+Rxc2 30.Re8+ Bf8 31.Rxf8+ 1-0

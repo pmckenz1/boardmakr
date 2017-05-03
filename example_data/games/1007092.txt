@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.13"]
+[EventDate "1923.04.28"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Ernst Gruenfeld"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. d5 d6 5. Nc3 O-O 6. g3 e5
+7. Bg2 Nbd7 8. O-O a5 9. Ne1 Nc5 10. e4 Ne8 11. Be3 b6 12. Nd3
+f5 13. Nxc5 bxc5 14. Qd2 Ba6 15. Nb5 a4 16. f3 Qb8 17. b4 axb3
+18. axb3 Bxb5 19. Rxa8 Qxa8 20. cxb5 fxe4 21. fxe4 Rxf1+
+22. Bxf1 Nf6 23. b4 cxb4 24. Qxb4 Ng4 25. b6 cxb6 26. Qxb6 Qa2
+27. Bf2 Qc2 28. Bh3 Qxf2+ 29. Qxf2 Nxf2 30. Kxf2 Bh6 31. Kf3
+Kf8 32. Be6 1/2-1/2

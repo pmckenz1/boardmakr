@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "m?"]
+[Date "1851.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ernst Falkbeer"]
+[Black "Adolf Anderssen"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Bc4 Nf6 3.f4 d5 4.exd5 e4 5.Nc3 Bc5 6.d3 exd3 7.cxd3
+O-O 8.d4 Bb6 9.Nf3 c6 10.Qb3 Bg4 11.O-O Bxf3 12.Rxf3 Bxd4+
+13.Kh1 Bxc3 14.Qxc3 cxd5 15.Bd3 Ne4 16.Qc2 Nc6 17.Be3 Re8
+18.a3 Rc8 19.Qa4 d4 20.Bg1 a6 21.b4 Na7 22.Qd1 Qd7 23.Rh3 Rc3
+24.Qh5 h6 25.Rd1 Nf6 26.Qh4 Nb5 27.a4 Nd6 28.Bxd4 Nf5 29.Bxc3
+Nxh4 30.Bh7+ Kxh7 31.Rxd7 Nxd7 32.Rxh4 Re3 33.Rh3 Rxh3 34.gxh3
+Nb6 35.a5 Nd5 36.Bd2 Kg6 37.Kg2 Kf5 38.Kf3 h5 39.h4 f6 40.h3
+g6 0-1

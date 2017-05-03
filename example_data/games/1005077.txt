@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Matthias Roeder"]
+[Black "Ilija Balinov"]
+[ECO "D93"]
+[WhiteElo "2445"]
+[BlackElo "2430"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5
+7. dxc5 Qa5 8. Rc1 Rd8 9. Qa4 Qxa4 10. Nxa4 Nc6 11. Bc7
+1/2-1/2

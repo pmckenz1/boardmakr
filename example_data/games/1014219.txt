@@ -1,0 +1,25 @@
+[Event "GER-chW U15"]
+[Site "GER-chW U15"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Manuela Adam"]
+[Black "Natascha Fahrenholz"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Qe7 5.Nxf7 d6 6.Nxh8 Be6
+7.Bxe6 Qxe6 8.Nc3 O-O-O 9.d3 Be7 10.Ng6 hxg6 11.Be3 d5 12.exd5
+Nxd5 13.Nxd5 Rxd5 14.O-O Rd8 15.c4 Na5 16.Qa4 b6 17.b4 Nb7
+18.c5 bxc5 19.bxc5 Bxc5 20.Bxc5 Nxc5 21.Qxa7 Qc6 22.Rfc1 Rd5
+23.Rab1 Qa6 24.Qb8+ Kd7 25.Qg8 Qxd3 26.Qxg7+ Kc6 27.Qf6+ Kd7
+28.Qf7+ Kc6 29.Qe8+ Kd6 30.Qf8+ Kc6 31.Qe8+ Kd6 32.h3 Qf5
+33.Qb5 Qd7 34.Qxd7+ Nxd7 35.Rd1 c6 36.a4 Nc5 37.a5 Rxd1+
+38.Rxd1+ Kc7 39.Rb1 Kd6 40.g4 g5 41.Kg2 Kd5 42.Kg3 Ke6 43.h4
+Kf6 44.Rb6 Ne4+ 45.Kf3 Nd2+ 46.Ke2 Ne4 47.Rxc6+ Kf7 48.hxg5
+Nxg5 49.a6 Ne6 50.Rxe6 Kxe6 51.a7 Kf6 52.a8=Q Ke6 53.g5 Kf5
+54.Qg8 Ke4 55.g6 Kd4 56.g7 Kc5 57.Qe6 Kd4 58.g8=R Kc5 59.Rd8
+Kb5 60.Qb3+ Kc5 61.Qc2+ Kb6 62.Rd1 e4 63.Rb1+ Ka7 64.Qa2+ 1-0

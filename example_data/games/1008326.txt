@@ -1,0 +1,47 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.10"]
+[EventDate "1936.08.10"]
+[Round "1"]
+[Result "0-1"]
+[White "Conel Hugh O'Donel Alexander"]
+[Black "Mikhail Botvinnik"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 {Notes by Alekhine} c5 2. Nc3 Nc6 3. g3 {Quite a
+harmless variation, which offers Black many good possibilities
+of defence.} g6 4. Bg2 Bg7 5. Nge2 e6 {Black already having
+the control over d4 protects d5, thus obtaining a certain
+advantage in the middle. A promising strategy which could be
+successfully met only by very energetic play.} 6. d3 Nge7
+7. O-O {? Too indifferent, he should make a demonstration on
+the K-side by 7.h4 and 8.Bg5; if 7...h6 then Bf4 followed by
+Qd2 and Black would have more difficulties in completing his
+mobilisation than in the actual game.} O-O 8. Be3 {And here
+8.Bg5 or Bf4 was better. White should leave himself the
+possibility of taking the intruding Knight at d4 with his own
+Knight.} Nd4 9. Qd2 d5 10. Nf4 {Comparatively better was
+10.Nd1 in order to dislodge, as rapidly as possible, the
+powerful Knight.} dxe4 11. dxe4 Qc7 12. Rad1 {Other methods
+like 12.Rfc1 followed by Qe1 would have their inconveniences
+too. The game is already very difficult to defend.} Rd8
+13. Qc1 b6 14. Rfe1 Ba6 15. Kh1 {? This move, and not the next
+one as was generally suggested, is the decisive
+mistake. White's last chance of salvation consisted in 15.Nb1
+with the intention 16.c3, and if 15...g5 16.Nd3 h6 then 17.f4
+with some kind of counter-play. After the King's move the game
+is strategically hopeless.} Nec6 16. Nfe2 {Only shortens the
+end. The threats 16...Ne5 or eventually (in case of 16.Nb1 for
+instance) 16...Nb4 were too strong.} Nxe2 17. Rxd8+ Rxd8
+18. Nxe2 Bxe2 19. Rxe2 Bxb2 20. Qxb2 Rd1+ 21. Bf1 Rxf1+
+22. Kg2 Rd1 23. Rd2 Rxd2 24. Bxd2 Qe5 {! Forcing an endgame in
+which besides the extra Pawn he will possess a powerful Knight
+against an anemic Bishop.} 25. Qxe5 Nxe5 26. Bc3 f6 27. Bxe5
+{One has the impression that White wants to finish the game as
+rapidly as possible; the Pawn endgame does not offer, of
+course, any chance.} fxe5 28. a4 Kf7 29. Kf3 c4 30. Ke3 Ke7
+31. f4 Kd6 32. c3 Kc5 33. fxe5 b5 34. axb5 Kxb5 35. Kd2 Ka4
+0-1

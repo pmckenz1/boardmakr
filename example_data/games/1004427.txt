@@ -1,0 +1,18 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Janos Balogh"]
+[Black "Lajos Merenyi"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6
+7. O-O Nge7 8. Be3 Nd4 9. f4 O-O 10. Bf2 Nec6 11. g4 f5
+12. gxf5 gxf5 13. Nxd4 Nxd4 14. Qd2 Qe8 15. Rae1 Qh5 16. Re3
+Rf6 17. Rh3 Qxh3 18. Bxd4 Rg6 19. Bxg7 Rxg7 20. Nb5 Bd7
+21. Nxd6 Bc6 22. Kh1 Qh6 23. Qc3 b6 24. b4 1/2-1/2

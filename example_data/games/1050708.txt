@@ -1,0 +1,16 @@
+[Event "Tournament"]
+[Site "Riga (Latvia)"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Karlis Klasup"]
+[Black "Aivars Gipslis"]
+[ECO "E39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3
+Bxc3+ 8.Qxc3 Nxc5 9.e3 a5 10.Be2 a4 11.Nd2 b6 12.O-O Ba6
+13.Rd1 Rc8 14.Qb4 Nd5 0-1

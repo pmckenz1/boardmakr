@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Pula (Croatia)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Liina Vark"]
+[ECO "D74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nc6 8.Nc3 Nxc3 9.bxc3 Na5 10.Bf4 c5 11.dxc5 Qxd1 12.Raxd1 Bxc3
+13.Nd4 Bxd4 14.Rxd4 Nc6 15.Rd2 e5 16.Bh6 Re8 17.Rb1 Nd8 18.h3
+Bf5 19.Rb5 Rb8 20.g4 Be6 21.Bg5 Nc6 22.Bf6 Bc4 23.Rbb2 Ba6
+24.Rd7 e4 25.f4 Re6 26.g5 Rbe8 27.h4 Nb8 28.Rd4 Nc6 29.Rd6
+Rxd6 30.cxd6 1-0

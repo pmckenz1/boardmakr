@@ -1,0 +1,23 @@
+[Event "Ch World FIDE (play-off), Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Zubarev"]
+[Black "Hannes Stefansson"]
+[ECO "E19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. d4 O-O
+7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 c5 10. Rd1 d6 11. Bf4 Qc7
+12. dxc5 bxc5 13. Qd3 Rd8 14. Ng5 Bxg5 15. Bxg5 f6 16. Bf4
+Bxg2 17. Kxg2 Qb7+ 18. Qf3 Qxf3+ 19. Kxf3 Nc6 20. Bxd6 Nd4+
+21. Rxd4 cxd4 22. c5 a5 23. Ke4 Kf7 24. Kxd4 Ke8 25. b3 Kd7
+26. Kc4 Kc6 27. Rb1 Rd7 28. a3 Rb7 29. Rd1 Rd8 30. Rd3 e5
+31. e4 Re8 32. g4 h6 33. Rf3 Rd8 34. h4 Rh8 35. Rg3 Rb5
+36. Rd3 Rb7 37. f4 exf4 38. Bxf4 Re7 39. Rd6+ Kb7 40. Kd5 Rhe8
+41. Rb6+ Ka7 42. Bd6 Rxe4 43. b4 axb4 44. axb4 h5 45. b5 Ra4
+46. gxh5 f5 47. Rc6 f4 48. Rc7+ Ka8 49. b6 1-0

@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Roy Shankar"]
+[Black "Venkatachalam Saravanan"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. Nf3 O-O 6. Be2 e5
+7. dxe5 dxe5 8. Qxd8 Rxd8 9. Bg5 Na6 10. Nd5 Nxd5 11. cxd5 f6
+12. Bxa6 bxa6 13. Bd2 Bb7 14. Rc1 Rac8 15. Ba5 Rd7 16. Nd2 c6
+17. d6 Rxd6 18. Bb4 c5 19. Rxc5 Rxc5 20. Bxc5 Rc6 21. Nb3 a5
+22. Be3 Rc2 23. Nc5 Bc6 24. O-O Kf7 25. f3 Re2 26. Bf2 Rxb2
+27. a4 Ra2 28. h4 h5 29. Rd1 Bf8 30. Nb7 Bxa4 31. Rd5 Bb3
+32. Rd7+ Ke6 33. Rh7 a4 34. Bxa7 Rc2 35. Nd8+ Kd6 36. Bb8+ Kc5
+37. Rb7 Kd4 38. Ba7+ Kd3 39. Kf1 Bc4 40. Nc6 a3 41. Rb1 a2
+42. Re1 Kc3+ 43. Kg1 Kb2 0-1

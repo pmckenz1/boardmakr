@@ -1,0 +1,20 @@
+[Event "Bs As Wch U20"]
+[Site "Bs As Wch U20"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Hsu Li Yang"]
+[Black "Andres Rodriguez Vila"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 f5 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.b3 c6 7.Bb2 d6
+8.c4 Na6 9.Nbd2 Rb8 10.Qc2 Kh8 11.Nh4 Qe8 12.e4 fxe4 13.Nxe4
+Nxe4 14.Bxe4 Qf7 15.Rae1 Bf6 16.d5 Qg7 17.Bxf6 Rxf6 18.dxc6
+bxc6 19.f4 c5 20.Qc3 Bd7 21.Rf3 Nb4 22.Rfe3 e6 23.Qd2 Rb6
+24.a3 Na6 25.Rd3 Qe7 26.Rd1 e5 27.fxe5 Qxe5 28.Re1 Re6 29.Nf3
+Qg7 30.Ng5 Rf6 31.Bd5 h6 32.Nf7+ Rxf7 33.Bxf7 Qxf7 34.Qxh6+
+Kg8 35.Rde3 1-0

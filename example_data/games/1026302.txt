@@ -1,0 +1,19 @@
+[Event "North Shields"]
+[Site "North Shields ENG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Michael Steadman"]
+[Black "Michael John Basman"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. d4 h6 2. e4 g5 3. c4 Bg7 4. Nc3 c5 5. Be3 Qa5 6. Qd2 cxd4
+7. Bxd4 Bxd4 8. Qxd4 Nf6 9. Be2 Nc6 10. Qd2 d6 11. Nf3 Bd7
+12. O-O g4 13. Nd4 Qg5 14. Qxg5 hxg5 15. Nf5 Nxe4 16. Ng7+ Kf8
+17. Nxe4 Kxg7 18. Nxg5 Nd4 19. Bd3 Rh5 20. f4 f6 21. Ne4 Rah8
+22. Ng3 Rxh2 23. f5 Bc6 24. Rf2 Kf7 25. Be4 Bxe4 26. Nxe4 Rh1#
+0-1

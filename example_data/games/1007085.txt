@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.12"]
+[EventDate "1923.04.28"]
+[Round "12"]
+[Result "1-0"]
+[White "Savielly Tartakower"]
+[Black "Oscar Chajes"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 Bb6
+7. dxe5 h6 8. Qd5 Qe7 9. Ba3 Qe6 10. Qd3 Nxe5 11. Nxe5 Qxe5
+12. f4 Qh5 13. Nd2 d6 14. Bb5+ Bd7 15. Bxd7+ Kxd7 16. e5 Re8
+17. Nf3 Qg4 18. g3 Kc8 19. O-O-O dxe5 20. Nxe5 Qe6 21. f5 Be3+
+22. Kb2 Qb6+ 23. Bb4 Nf6 24. Nc4 Qc6 25. Nxe3 Qf3 26. Nd5 Re2+
+27. Kb3 Qxd3 28. Rxd3 Ne4 29. Re3 Nd2+ 30. Kc2 Rf2 31. Kd1 Nc4
+32. Re2 Rxe2 33. Kxe2 b6 34. Kd3 Nb2+ 35. Kc2 Nc4 36. f6 gxf6
+37. Be7 f5 38. Re1 h5 39. Bg5 f6 40. Bxf6 Rh7 41.Bg5 Nd6
+42.Re5 Rf7 43.Bf4 Kd7 44.Ne3 c6 45.c4 Rf6 46.c5 Nb7 47.cxb6
+axb6 48.Nxf5 Re6 49.Rxe6 Kxe6 50.Ng7+ Kf6 51.Nxh5+ Kf5 52.h3
+Nc5 53.g4+ Ke4 54.Bc7 b5 55.Nf6+ Kf3 56.g5 Ne6 57.g6 Ng7
+58.Be5 c5 59.Ng4 Ne6 60.g7 Nxg7 61.Bxg7 Kg3 62.Nf2 c4 63.Be5+
+1-0

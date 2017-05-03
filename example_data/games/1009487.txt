@@ -1,0 +1,24 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Soren Bech Hansen"]
+[Black "Gernot Gauglitz"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 d6 5. d3 h6 6. h3 g5
+7. Nh2 Bg7 8. Qh5 Qd7 9. Nd5 Nd4 10. c3 Ne6 11. a4 Qd8 12. Ng4
+Bd7 13. Nge3 Nf6 14. Nxf6+ Qxf6 15. g3 Nc7 16. a5 Rd8 17. O-O
+Qg6 18. Qxg6 fxg6 19. Kg2 Bc6 20. Re1 Ke7 21. Bd2 a6 22. Rab1
+d5 23. exd5 Nxd5 24. Kg1 Rhe8 25. Nxd5+ Bxd5 26. Be3 Kd6
+27. b4 Bxc4 28. dxc4 e4 29. bxc5+ Kc7 30. c6 Kxc6 31. Rb6+ Kc7
+32. Reb1 Rb8 33. Rxg6 Bxc3 34. Bb6+ Kd7 35. Rxh6 Rh8 36. Rd1+
+Ke7 37. Bc5+ Kf7 38. Rd7+ Ke8 39. Re7+ Kd8 40. Rhe6 Bxa5
+41. Rxe4 b5 42. Bd4 Rg8 43. Bf6 Kc8 44. cxb5 axb5 45. R4e5 Bb6
+46. Re8+ Rxe8 47. Rxe8+ Kb7 48. Rxb8+ Kxb8 49. h4 gxh4
+50. gxh4 Bc5 51. Bg7 b4 52. h5 b3 53. h6 Bf8 54. Be5+ 1-0

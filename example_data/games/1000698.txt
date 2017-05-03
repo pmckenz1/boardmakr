@@ -1,0 +1,27 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.31"]
+[EventDate "1911.08.21"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Amos Burn"]
+[Black "Oldrich Duras"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.exd4 Nf6 6.Nf3 Bb4+
+7.Nc3 O-O 8.O-O Bg4 9.Be3 Nc6 10.Be2 Nd5 11.Bd2 Re8 12.Re1
+Nde7 13.Bc4 Rf8 14.Be3 Nf5 15.Qd3 Nxe3 16.fxe3 Qd6 17.Rf1 Qh6
+18.Rae1 Rad8 19.Qe4 Bh5 20.Qh4 Rd6 21.a3 Ba5 22.b4 Bb6 23.Ne4
+Bxf3 24.Qxh6 Rxh6 25.Rxf3 Rg6 26.Ref1 Nd8 27.Nc5 Bxc5 28.bxc5
+b6 29.Rf5 Ne6 30.cxb6 axb6 31.d5 Nd8 32.e4 Rg4 33.Re5 Nb7
+34.Re7 Nd6 35.Bd3 f6 36.e5 Nc4 37.exf6 Rxf6 38.Rxf6 gxf6
+39.Rxc7 Ne3 40.g3 Nxd5 41.Bc4 Rd4 42.Rc6 Kg7 43.Bxd5 Rxd5
+44.Rxb6 Rd2 45.Rb4 Ra2 46.a4 Kg6 47.Rh4 h5 48.Kf1 Kg5 49.Ke1
+f5 50.Kf1 Rb2 51.Kg1 Ra2 52.Kf1 Rb2 53.Ke1 Ra2 54.Kf1 Rb2
+55.Kg1 Ra2 56.Rb4 Kf6 57.Rc4 Kg5 58.h4+ Kf6 59.Rc6+ Ke5 60.Rh6
+Rxa4 61.Kg2 Ra2+ 62.Kh3 Ra3 63.Rxh5 Kf6 64.Kh2 Ra2+ 65.Kg1
+Ra1+ 66.Kf2 Ra2+ 67.Ke1 Ra1+ 68.Kd2 Ra2+ 69.Kc1 Rg2 70.Rg5 Rh2
+71.Rg8 Kf7 72.Ra8 1/2-1/2

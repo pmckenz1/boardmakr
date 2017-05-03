@@ -1,0 +1,17 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Nikolay Novogrudsky"]
+[Black "Vladimir Kachar"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3
+7. bxc3 dxc4 8. e3 Be6 9. Qb1 b6 10. Be2 a6 11. a4 Nc6 12. O-O
+h6 13. Rd1 Na5 14. Nd2 Rc8 15. e4 O-O 16. Qc2 g5 17. Bg3 c6
+18. Nxc4 Nxc4 0-1

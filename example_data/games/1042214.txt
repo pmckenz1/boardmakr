@@ -1,0 +1,18 @@
+[Event "Holland"]
+[Site "Holland"]
+[Date "1926.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Karoly Sterk"]
+[Black "Max Euwe"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Bg4
+12. Nxe4 dxe4 13. Bd5 exf3 14. Bxc6 fxg2 15. Qxg4 gxf1=Q+
+16. Rxf1 f5 17. Qg2 f4 18. Bxf4 Rxf4 19. Bxa8 Qc8 20. Qd5+ Kh8
+21. e6 Bd6 22. Re1 Qf8 23. Re2 Rg4+ 24. Kf1 Qf4 0-1

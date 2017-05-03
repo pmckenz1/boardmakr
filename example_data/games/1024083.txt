@@ -1,0 +1,23 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1969.09.19"]
+[EventDate "1969.??.??"]
+[Round "10"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "D90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.Bd2 O-O
+7.Rc1 Nb6 8.e3 Nc6 9.Bb5 e5 10.Bxc6 exd4 11.Be4 dxc3 12.Bxc3
+Bxc3+ 13.Rxc3 Qe7 14.Qc2 Re8 15.Nd2 c6 16.O-O Be6 17.Bf3 a5
+18.Rd3 Nd7 19.Qc3 Qb4 20.a3 Qxc3 21.Rxc3 Ne5 22.Be2 Red8
+23.Ne4 Bf5 24.Ng3 Bd3 25.Bxd3 Rxd3 26.Rc5 Nd7 27.Rc2 Ra6
+28.Ne4 Kg7 29.Rb1 Rb6 30.Nd2 Rb5 31.Kf1 Nc5 32.Ke2 Rd7 33.Rd1
+Nb3 34.Nc4 Rxd1 35.Kxd1 Rd5+ 36.Ke2 Rc5 37.Rc3 b5 38.Rxb3 Rxc4
+39.Kd2 Kf6 40.Rc3 Rxc3 41.Kxc3 Ke5 42.f3 f5 43.b3 g5 44.Kd3 c5
+45.Kc3 Kd5 46.Kd3 Ke5 47.a4 c4 48.bxc4 b4 49.g3 h5 50.f4+ gxf4
+51.gxf4+ Kd6 52.e4 fxe4 53.Kxe4 Kc5 54.Kd3 b3 55.f5 1-0

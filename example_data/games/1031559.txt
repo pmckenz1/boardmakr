@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Steve Greanias"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Nf3 O-O 8.Be2 c5 9.Rb1 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O
+a5 13.Qc1 Qe6 14.Bc4 Qxe4 15.Bxf7+ Kh8 16.Ng5 Qxd4 17.Be6 Nc6
+18.Rb3 Bxe6 19.Nxe6 Qd5 20.Re3 Rfc8 21.Bc3 Bf6 22.Qa1 Qf5
+23.Rfe1 Nb4 24.Rf3 Bxc3 25.Rxc3 Rxc3 26.Qxc3+ Qf6 27.Qc4 Nc6
+28.f4 a4 29.Nc7 Ra5 30.Rd1 a3 31.Ne8 Qf8 32.Qc3+ Kg8 33.Nc7
+Qf7 34.f5 gxf5 35.Qg3+ Kf8 36.Qe3 a2 37.Ne6+ Kg8 38.Ra1 Qf6
+0-1

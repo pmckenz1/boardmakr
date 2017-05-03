@@ -1,0 +1,17 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1970.02.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Florin Gheorghiu"]
+[ECO "B61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7
+7.Qd2 a6 8.O-O-O b5 9.Nxc6 Bxc6 10.Qe3 Qa5 11.Kb1 e6 12.Bxf6
+gxf6 13.Nd5 Be7 14.Nxe7 Kxe7 15.Be2 Qb4 16.Bf3 Qc5 17.e5 Qxe3
+18.exd6 Kd7 19.Bxc6+ Kxc6 20.fxe3 1/2-1/2

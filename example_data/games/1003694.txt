@@ -1,0 +1,32 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.06"]
+[EventDate "1907.??.??"]
+[Round "13"]
+[Result "1-0"]
+[White "Rudolf Spielmann"]
+[Black "Akiba Rubinstein"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 {Notes by Carl Schlechter and Dawid Janowsky.} e5 2.Nf3
+Nc6 3.Bc4 Be7 4.Nc3 Nf6 5.d3 d6 6.h3 Na5 7.Bb3 Nxb3 8.axb3 O-O
+9.O-O c6 {Janowsky: Deserving of attention is 9...Ne8!? with
+the idea of ...f5.} 10.Ne2 Qc7 {Schlechter: Bad is the
+immediate 10...d5? because of 11.exd5 Qxd5 12.Nc3 and 13.Re1
+with the advantage.} 11.g4 d5 12.Ng3 Re8 13.Qe2 dxe4 14.dxe4
+g6 {Schlechter: Perhaps 14...Nd7!? 15.Nf5 Nf8, followed by
+...Ng6, is a preferable plan.} 15.Bg5 Be6 16.Qe3 a6 17.Ne1 Nd7
+18.Bxe7 Rxe7 19.Qh6 Rd8 {? Schlechter: Black should organize
+his defense by 19...f6!? followed by ...Rf8.} 20.Kh2 f6 21.Nd3
+Rg7 22.Rg1 Nf8 23.Nf5 {!} Bxf5 {Janowsky: If 23...gxf5 24.gxf5
+Rdd7 25.Qxf6! and White wins.} 24.gxf5 Rd4 {? Schlechter: A
+decisive waste of time. Better defensive chances are offered
+by the immediate 24...Rdd7!?.} 25.Rg4 Rdd7 26.Nc5 {?!
+Schlechter: Stronger is 26.Rag1!.} Rde7 27.Rag1 Qd6 28.Nd3 a5
+29.h4 Qc7 30.R4g3 Ref7 31.f4 {!} Qe7 {Schlechter: There is no
+defense. If 31...exf4 32.Nxf4 g5 33.Nh5 gxh4 34.Nxf6+ Kh8
+35.Qxh4 and White has a winning position.} 32.fxe5 fxe5 33.Rg5
+{!} Nd7 34.fxg6 hxg6 35.Rxg6 Nf6 36.R1g5 Nxe4 37.Rh5 1-0

@@ -1,0 +1,25 @@
+[Event "Munster"]
+[Site "06"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Markus Stangl"]
+[Black "Yuri Balashov"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d4 c5 7.cxd5
+exd5 8.Nc3 Nc6 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.Rc1 Bf8
+13.Nxc6 bxc6 14.Na4 Bd7 15.Bc5 Bxc5 16.Nxc5 Bg4 17.Re1 Qa5
+18.Qc2 Rab8 19.b3 Bh5 20.Qb2 Bg6 21.Red1 Rb5 22.Nd3 Bxd3
+23.Rxd3 Rc5 24.Rxc5 Qxc5 25.e3 Qb6 26.Qc2 Re6 27.Bf3 g6 28.Qd2
+h5 29.Rd4 Re7 30.b4 Ne4 31.Bxe4 Rxe4 32.Rxe4 dxe4 33.Qd6 Qa6
+34.Kg2 Qxa2 35.Qxc6 Qb1 36.b5 Kg7 37.Qc3+ Kg8 38.Qe5 Qd3
+39.Qb8+ Kg7 40.Qxa7 Qxb5 41.Qd4+ Kg8 42.Qxe4 Qe2 43.h3 Kg7
+44.Qd4+ Kg8 45.g4 hxg4 46.hxg4 Qb5 47.Kg3 Qb8+ 48.Kf3 Qh2
+49.Qf6 Qg1 50.Qb2 Qh2 51.Ke4 Qc7 52.f3 Qc4+ 53.Qd4 Qe6+ 54.Kf4
+f6 55.Kg3 g5 56.f4 gxf4 57.Kxf4 Kf7 58.e4 Qc8 59.Qd5+ Kg7
+60.Qd2 1/2-1/2

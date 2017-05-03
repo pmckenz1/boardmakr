@@ -1,0 +1,19 @@
+[Event "Speed"]
+[Site "Speed"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "David Bronstein"]
+[Black "Karen Ashotovich Grigorian"]
+[ECO "B97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6
+12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6 gxf6 15. Ne4 Be7 16. Be2 h5
+17. Rb3 Qa4 18. c4 f5 19. Ng3 h4 20. Nh5 Kf7 21. g4 hxg3
+22. hxg3 Ra7 23. Qc3 Qxa2 24. Qxe5 Rh7 25. Rb8 Rd7 26. Rxc8
+Qb1+ 27. Kf2 Qxh1 28. Rh8 Bc5+ 0-1

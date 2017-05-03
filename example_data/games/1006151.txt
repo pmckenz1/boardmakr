@@ -1,0 +1,17 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.08"]
+[EventDate "2000.04.05"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Gudjon Heidar Valgardsson"]
+[Black "Ingvar Thor Johannesson"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1
+Qe7 7. Nxh8 d5 8. exd5 Nd4 9. c3 Bg4 10. Qa4+ Nd7 11. Kxf2
+Qh4+ 12. g3 Qf6+ 13. Ke1 Nf3+ 14. Kd1 Nd4+ 15. Ke1 Nf3+
+16. Kd1 Nd4+ 1/2-1/2

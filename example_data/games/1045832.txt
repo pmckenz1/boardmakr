@@ -1,0 +1,23 @@
+[Event "CSSR (ch) 42/284"]
+[Site "Prague CSR"]
+[Date "1986.06.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Eduard Prandstetter"]
+[Black "Lubomir Ftacnik"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Be7 8. f4 O-O 9. Kh1 Qc7 10. Bf3 Nc6 11. Nxc6 bxc6
+12. e5 Ne8 13. Qe2 d5 14. Na4 f6 15. Bd2 a5 16. c4 fxe5
+17. fxe5 Bb4 18. Rfc1 dxc4 19. Bxb4 axb4 20. Nc5 Ra5 21. Rxc4
+Qa7 22. Rac1 Rxa2 23. Bxc6 Nc7 24. h3 Na6 25. Nd3 Qe7 26. Be4
+Bd7 27. Qg4 Ra5 28. Qg3 Rb5 29. Nf4 Be8 30. Bc6 Rc5 31. Bxe8
+Rxc4 32. Rxc4 Qxe8 33. Qd3 g5 34. Qg3 h6 35. Qg4 Rf5 36. Nh5
+Qb8 37. Nf6+ Kg7 38. Nh5+ Kg8 39. Nf6+ Kg7 40. Nd7 Rf1+
+41. Kh2 Qa7 42. Rd4 Nc5 43. Nf6 Rf5 44. Rd8 Rxe5 45. Qd4 Kxf6
+46. Rf8+ Kg6 47. Qxe5 Qe7 48. Rg8+ 1-0

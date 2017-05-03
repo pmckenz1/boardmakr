@@ -1,0 +1,17 @@
+[Event "Rubinstein Memorial 9th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1971.09.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Yakov Estrin"]
+[Black "Andras Adorjan"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3
+7.exf6 Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d5 11.Bf4 c6
+12.O-O Bf5 13.Bd3 Bxd3 14.cxd3 Kd7 15.Rfe1 Bd6 16.Bxd6 Kxd6
+17.Re3 Rhe8 18.Rae1 Kd7 19.Rxe8 Rxe8 20.Rxe8 Kxe8 1/2-1/2

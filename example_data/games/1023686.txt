@@ -1,0 +1,18 @@
+[Event "01, Gausdal Arnold Cup"]
+[Site "01, Gausdal Arnold Cup"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Klaus Berg"]
+[Black "Vladimir Bagirov"]
+[ECO "A27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 f5 4.d4 e4 5.Ng1 Bb4 6.e3 Bxc3+ 7.bxc3
+d6 8.Nh3 Nf6 9.Ba3 b6 10.c5 dxc5 11.Bb5 Bd7 12.Nf4 Na5 13.Ne6
+Qc8 14.Nxg7+ Kf7 15.Bxd7 Qxd7 16.Nh5 Qb5 17.Nf4 Rhd8 18.f3 Re8
+19.Kf2 Qc4 20.Bb2 Re7 21.Rf1 Rae8 22.fxe4 Rxe4 23.Kg1 Rxe3
+24.Nh5 Rd3 25.Qc1 Nxh5 26.Rxf5+ Kg8 1/2-1/2

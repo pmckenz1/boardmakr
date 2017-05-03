@@ -1,0 +1,25 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Aleksander Sznapik"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Bd2 f5 11. Nd3 c5 12. f4
+a6 13. a4 exf4 14. Bxf4 Bxc3 15. bxc3 fxe4 16. Ne1 Nf5 17. Qd2
+e3 18. Qc1 Qe7 19. Nc2 Qe4 20. Nxe3 Nd4 21. cxd4 Rxf4 22. Rxf4
+Qxf4 23. Nc2 Qxc1+ 24. Rxc1 cxd4 25. Nxd4 Nc5 26. a5 Bd7
+27. Rb1 Re8 28. Bf3 Kf8 29. Kf2 Re5 30. h3 Ke7 31. Rb6 Bc8
+32. Nb3 Nd7 33. Rb4 h5 34. Bd1 Nf6 35. Nd2 Kd8 36. Rb6 Kc7
+37. Bc2 Bf5 38. Nf3 Re8 39. Bxf5 gxf5 40. Nd4 Re4 41. Ne6+ Kb8
+42. Rxd6 Rxc4 43. Kf3 Ra4 44. Nf8 Ne4 45. Rd8+ Ka7 46. d6 Ng5+
+47. Ke2 Rxa5 48. h4 Ne6 49. Nxe6 Re5+ 50. Kf3 Rxe6 51. Kf4 Re2
+52. Kxf5 Rxg2 53. Re8 Rd2 54. Ke6 Re2+ 55. Kf7 Rd2 56. Ke7
+Re2+ 57. Kd8 Rd2 1-0

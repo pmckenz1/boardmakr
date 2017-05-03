@@ -1,0 +1,24 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jakob Adolf Seitz"]
+[Black "Lajos Steiner"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. h3 c5 6. c3 O-O
+7. Nbd2 b6 8. Ne5 Bb7 9. Bd3 Ne4 10. Nxe4 dxe4 11. Bc2 Qc8
+12. Qg4 f5 13. Qh5 cxd4 14. exd4 Na6 15. Ba4 Nc7 16. Bd7 Qd8
+17. O-O-O Bf6 18. Rhg1 Qe7 19. g3 Nd5 20. Bb5 Rfc8 21. Kb1 a6
+22. Ba4 b5 23. Bb3 a5 24. Qe2 Nxf4 25. gxf4 a4 26. Bc2 Bd5
+27. a3 Rc7 28. Rg3 Rac8 29. Rc1 Qd6 30. h4 Qb6 31. h5 h6
+32. Rcg1 Qa7 33. Rg6 b4 34. axb4 a3 35. Qb5 axb2 36. Qa5 Qxa5
+37. bxa5 Rxc3 38. Rxf6 Rxc2 39. Rfg6 R2c7 40. Kxb2 Rb8+
+41. Ka3 Ra7 42. Ka4 Bb3+ 43. Ka3 Bd5 44. Ka4 Bb3+ 45. Ka3
+Rxa5+ 46. Kb2 Bd5+ 47. Kc2 Ra2+ 48. Kc1 Rb7 49. R6g3 e3 50. f3
+Rd2 51. Re1 Ba2 52. Rxe3 Rh2 0-1

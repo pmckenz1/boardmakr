@@ -1,0 +1,38 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.05"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Nicholas MacLeod"]
+[Black "Max Weiss"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 {Notes by Steinitz.} e5 2.c3 d5 3.Nf3 dxe4 4.Nxe5 {4.Qa4+
+Nc6, would transform the game into a position of the Ponziani
+Opening which is more favorable for White than the line of
+play in the text.} Qd5 5.d4 exd3 6.Nxd3 {White has now a
+weakness in the center that later on becomes troublesome.} Nf6
+7.Be3 Nc6 8.Nd2 Bd6 9.Qf3 O-O 10.Be2 Bf5 11.Bg5 {The waste of
+a move here with this Bishop has serious consequenses. He
+was,however, already on the defence and his position a little
+inferior. His best plan was 11.Qxd5 Nxd5 12.Nf1.} Rfe8 12.Qxd5
+Nxd5 13.Kd1 h6 14.Bh4 {Falling into a cleverly laid trap. Be3
+was his only move, but ofcourse a Pawn was then lost. In view,
+also, of the relative strenght of the players the adverse
+victory was assured.} Rxe2 {Fine play.} 15.Kxe2 Re8+ 16.Kd1
+Bxd3 17.Re1 Rxe1+ 18.Kxe1 Nf4 19.Bg3 Nxg2+ 20.Kd1 Ne5 21.Nb3
+f5 22.Bxe5 Bxe5 23.Kd2 Be4 24.h3 Bf4+ 25.Ke2 Bd6 26.f3 Bd5
+27.Nd4 g6 28.b4 Kf7 29.a3 Nf4+ 30.Ke3 Nxh3 31.Rh1 Bf4+ 32.Ke2
+Bc4+ 33.Ke1 Bg3+ 34.Kd2 Nf2 35.Rg1 Bf4+ 36.Ke1 Nd3+ 37.Kd1 h5
+38.Kc2 h4 39.Rh1 Bg3 40.Kd2 Nf2 41.Rg1 Bf4+ 42.Ke1 Nd3+ 43.Kf1
+Be3 {Black's play from the fourteenth move is a good specimen
+of clever tactics with two minor pieces against the Rook in
+the ending, but it required no comment, as obviously the
+superiority of force and of play was on his side. At this
+point he wins easily, for wherever the Rook may move, a
+discovered check of the Knight either at f2 or f4 will cause
+its loss.} 0-1

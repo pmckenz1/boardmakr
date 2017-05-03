@@ -1,0 +1,17 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Anatoli Vaisser"]
+[Black "Yuri Balashov"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e3 h6 5.Bxf6 Qxf6 6.Nbd2 cxd4
+7.exd4 Nc6 8.c3 d5 9.Bb5 Bd6 10.O-O O-O 11.Re1 Bd7 12.Qe2 Rfd8
+13.Bd3 g6 14.Ne5 Bc7 15.Ndf3 Ne7 16.Qd2 Qg7 17.Re2 Be8 18.Rae1
+Kh8 19.h3 Ng8 20.Nh2 Rac8 21.Kh1 1/2-1/2

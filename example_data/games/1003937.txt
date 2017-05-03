@@ -1,0 +1,28 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.20"]
+[EventDate "1923.11.16"]
+[Round "3"]
+[Result "1-0"]
+[White "Lajos Steiner"]
+[Black "Siegfried Reginald Wolf"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. O-O Nf6 6. Nc3 Be7
+7. Re1 exd4 8. Nxd4 O-O 9. Bxc6 bxc6 10. b3 d5 11. e5 Bb4
+12. Bd2 Bxc3 13. Bxc3 Ne4 14. Bb2 Qh4 15. f3 Ng5 16. Qd2 c5
+17. Ne2 c6 18. Ba3 Rfe8 19. Qf4 Qh5 20. Ng3 Qg6 21. Qd2 Bf5
+22. Bxc5 Bxc2 23. Rac1 Bf5 24. Qf4 Bd7 25. Qa4 f5 26. exf6
+gxf6 27. Qa6 Ne6 28. Bd6 Nd8 29. Re7 Rxe7 30. Bxe7 Qe8 31. Re1
+Ne6 32. Bxf6 Qf8 33. Qb7 Nc5 34. Qb4 Nd3 35. Qxf8+ Rxf8
+36. Re7 Rf7 37. Re3 Nc1 38. Bd4 Nxa2 39. Bxa7 Nb4 40. Ne2 Na6
+41. Rc3 Be8 42. Be3 Rc7 43. Nd4 Bd7 44. Bf4 Rc8 45. Re3 Kf7
+46. Bd6 Re8 47. Rc3 Re1+ 48. Kf2 Rd1 49. Nxc6 d4 50. Rc4 Rd2+
+51. Kg3 d3 52. Ne5+ Ke6 53. Rd4 Bb5 54. Nc4 Rd1 55. Kf2 Be8
+56. Re4+ Kd7 57. Re7+ Kd8 58. Ra7 Ra1 59. Ne5 Ra2+ 60. Kg3 Nb4
+61. Rxa2 Nxa2 62. Nxd3 Nc3 63. Nc5 Nb5 64. Be5 Ke7 65. f4 Bc6
+66. Kf2 Kf7 67. g4 Bd5 68. f5 Na7 69. Ke3 Nc6 70. Kf4 Nb4
+71. Bc3 1-0

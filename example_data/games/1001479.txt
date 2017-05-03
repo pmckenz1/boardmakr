@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.07.01"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Frederic Deacon"]
+[Black "James Robey"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 Bg4 5.Bc4 Nf6 6.fxe5 Bxf3
+7.Qxf3 dxe5 8.d3 O-O 9.Bg5 Nbd7 10.Nd2 c6 11.O-O-O b5 12.Bb3
+a5 13.Rdf1 a4 14.Bd1 b4 15.Nc4 bxc3 16.bxc3 Qe7 17.Qg3 Ba3+
+18.Kd2 Kh8 19.Rf5 Rad8 20.Rhf1 Rfe8 21.Qh4 Qc5 22.Nxa3 Qxa3
+23.Rxf6 Qxa2+ 24.Bc2 Nxf6 25.Rxf6 Rxd3+ 26.Kxd3 Rd8+ 27.Ke3
+Qxc2 28.Qe1 Rd3# 0-1

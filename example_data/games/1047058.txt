@@ -1,0 +1,22 @@
+[Event "Olympiad (w)"]
+[Site "Yerevan ARM"]
+[Date "1996.09.18"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Fliura Khasanova"]
+[Black "Alisa Galliamova"]
+[ECO "B88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.a3
+Be7 8.Ba2 O-O 9.O-O Nxd4 10.Qxd4 b6 11.Kh1 Bb7 12.f3 Qc7
+13.Qd3 Rac8 14.Bf4 Nd7 15.Rad1 Ne5 16.Qe2 Rfd8 17.Bc1 a6 18.f4
+Nc4 19.Rd3 Bf6 20.f5 Re8 21.fxe6 Rxe6 22.Rh3 h6 23.Qg4 Bxc3
+24.Rxc3 Rxe4 25.Qf5 Qe7 26.Rg3 Rc5 27.Qf2 Kh8 28.h3 f6 29.b3
+Re2 30.Qf4 Rg5 31.Rg1 Ne5 32.b4 Ng6 33.Qc4 d5 34.Qc3 Rxg3
+35.Qxg3 Ne5 36.Bb1 d4 37.Bb2 d3 38.Bxe5 dxc2 39.Bxc2 Qxe5
+40.Qd3 f5 41.Qd8+ Kh7 42.Qxb6 Bxg2+ 43.Rxg2 Re1+ 44.Rg1 Qd5+
+45.Kh2 Re2+ 46.Kg3 Qe5+ 47.Kf3 Rxc2 48.h4 Qe4+ 0-1

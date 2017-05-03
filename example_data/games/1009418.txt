@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Francesco De Gleria"]
+[Black "Oliver Reeh"]
+[ECO "B31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5
+7. b3 O-O 8. Bb2 b6 9. Bxc6 dxc6 10. d3 Nc7 11. Nbd2 Ne6
+12. Re4 Bb7 13. Qe2 Qc7 14. Re1 Rad8 15. Qe3 Rd5 16. Rh4 Bc8
+17. Nb1 f5 18. exf6 exf6 19. Re4 Re8 20. Qc1 Rdd8 21. Nbd2 Qf7
+22. Qa1 g5 23. h3 h5 24. Nf1 Qg6 25. R4e2 Bd7 26. N3d2 h4
+27. Nh2 Nf4 28. Rxe8+ Rxe8 29. Rxe8+ Bxe8 30. Ne4 f5 31. Nf6+
+Bxf6 32. Bxf6 Nd5 33. Bb2 g4 34. hxg4 fxg4 35. Qe1 Bd7 36. Qe5
+Kf7 37. Nf1 Qf6 38. Qh5+ Qg6 39. Qxh4 Nf4 40. Ng3 Be6 41. Qd8
+Qh6 42. c4 Qf8 43. Qg5 Ke8 44. Be5 1-0

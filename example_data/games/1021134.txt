@@ -1,0 +1,21 @@
+[Event "Bs As GP"]
+[Site "Bs As GP"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Alberto Juarez"]
+[Black "Andres Rodriguez Vila"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Bd2 c6 6.Bd3 Bg4
+7.Ne4 Qh5 8.Nxf6+ gxf6 9.Ne2 Rg8 10.c3 Bf5 11.Bxf5 Qxf5 12.Ng3
+Qd5 13.Qb3 Nd7 14.O-O e6 15.c4 Qxd4 16.Be3 Qe5 17.Qxb7 Rd8
+18.Rfe1 c5 19.Rad1 Rg4 20.f4 Rxf4 21.Bxf4 Qxf4 22.Re4 Qg5
+23.Re2 Bh6 24.Ne4 Qg6 25.Nd6+ Ke7 26.Nc8+ Ke8 27.Nxa7 Qg4
+28.Qe4 Qxe4 29.Rxe4 Ra8 30.Nb5 Ke7 31.a3 f5 32.Re2 Bg7 33.Rd5
+f4 34.Rh5 h6 35.Nc7 Ra4 36.Nd5+ Kd6 37.Nxf4 Rxc4 38.Rd2+ Kc6
+39.Ne2 Nf6 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Natalia Straub"]
+[Black "Gert-Jan Ludden"]
+[ECO "E06"]
+[WhiteElo "2285"]
+[BlackElo "2263"]
+[PlyCount "104"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6
+7. Qc2 Nbd7 8. Rd1 Ne4 9. Ne5 f5 10. Nd3 Qe8 11. b4 Bf6
+12. Bb2 a5 13. a3 Nb6 14. cxd5 exd5 15. Ne5 Be6 16. Nc3 axb4
+17. axb4 Qe7 18. f3 Nd6 19. Rxa8 Rxa8 20. Ra1 Rxa1+ 21. Bxa1
+Ndc4 22. Na2 Qd8 23. Nc1 Qa8 24. Qa2 Qxa2 25. Nxa2 Nxe5
+26. dxe5 Be7 27. Bd4 Nc4 28. f4 b6 29. Bf2 Kf8 30. Kf1 Ke8
+31. Ke1 Kd7 32. Kd1 Kc7 33. Kc2 Na3+ 34. Kb2 Nc4+ 35. Kc2 Kb7
+36. e3 b5 37. Bf1 Nb6 38. Bd3 d4 39. Kb1 dxe3 40. Bxe3 Nc4
+41. Bxc4 Bxc4 42. Bc5 Bxc5 43. bxc5 Bxa2+ 44. Kxa2 Kc7 45. Kb3
+Kd7 46. Kc3 Ke6 47. Kd4 h6 48. h3 Kf7 49. Kc3 Ke7 50. Kd3 g6
+51. Kc3 Ke6 52. Kd4 Ke7 1/2-1/2

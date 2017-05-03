@@ -1,0 +1,31 @@
+[Event "Teplitz-Schönau"]
+[Site "Teplice-Sanov CSR"]
+[Date "1922.10.04"]
+[EventDate "1922.10.02"]
+[Round "3"]
+[Result "1-0"]
+[White "Paul F Johner"]
+[Black "Karel Treybal"]
+[ECO "A50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "179"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 g6 5. Bd3 Bg7 6. Nf3 O-O
+7. O-O Nbd7 8. cxd5 Nxd5 9. e4 Nc7 10. Be3 b6 11. Qd2 c5
+12. d5 Ne5 13. Nxe5 Bxe5 14. f4 Bg7 15. Bc4 a6 16. a4 Rb8
+17. a5 b5 18. Be2 c4 19. Bb6 Rxb6 20. axb6 Ne6 21. e5 Qxb6+
+22. Kh1 Nc5 23. Qe3 Na4 24. Qxb6 Nxb6 25. Rfd1 Rd8 26. Bf3 Bf8
+27. Rd2 Kg7 28. Rad1 Bb7 29. d6 Bxf3 30. dxe7 Bxg2+ 31. Kg1
+Bxe7 32. Rxd8 Bxd8 33. Rxd8 Bh3 34. Rd6 Nd7 35. Rxa6 b4
+36. Nd5 c3 37. bxc3 bxc3 38. Rc6 Bf5 39. Rxc3 Be4 40. Nc7 Kf8
+41. Kf2 Ke7 42. Ke3 Bb7 43. Kd4 Nf8 44. Rb3 Bg2 45. Rb6 Nd7
+46. Ra6 Nb8 47. Ra2 Bh1 48. Ra1 Bg2 49. Ra2 Bh1 50. Ra1 Bg2
+51. Rg1 Bf3 52. Rg3 Bh1 53. Rg1 Bf3 54. Rc1 Nc6+ 55. Ke3 Bg2
+56. Kf2 Be4 57. Ke3 Bg2 58. Rc2 Bh1 59. Rc1 Bg2 60. Kf2 Be4
+61. Ke3 Bg2 62. Rc2 Bh1 63. Rc1 Bg2 64. Rg1 Bh3 65. Nd5+ Kf8
+66. Nf6 Kg7 67. Ra1 Ne7 68. Ra7 Nf5+ 69. Kf3 Nd4+ 70. Kg3 Bc8
+71. Ra8 Nf5+ 72. Kf2 Be6 73. Rg8+ Kh6 74. Rh8 Kg7 75. Rxh7+
+Kf8 76. Rh8+ Kg7 77. Rg8+ Kh6 78. Rb8 Bc4 79. Ne4 Kg7 80. Nd6
+Be6 81. Nxf5+ Bxf5 82. Ke3 Bh3 83. Kd4 Be6 84. Kc5 Bg4 85. Kd6
+Be6 86. Ke7 Bd5 87. Rb6 Bc4 88. Rf6 Bb3 89. h4 Bc4 90. f5 1-0

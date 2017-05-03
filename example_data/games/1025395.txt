@@ -1,0 +1,19 @@
+[Event "Moscow URS ch"]
+[Site "Moscow URS"]
+[Date "1991.11.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Michail Brodsky"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 e6 4.Bd3 b6 5.O-O Bb7 6.c4 Be7 7.Nc3
+cxd4 8.exd4 d5 9.cxd5 Nxd5 10.Ne5 O-O 11.Qg4 Nf6 12.Qg3 Nh5
+13.Qh3 g6 14.Rd1 Bg5 15.Be4 Bxe4 16.Bxg5 Qxg5 17.Nxe4 Qe7
+18.Qf3 Na6 19.Nc6 Qc7 20.Rac1 f5 21.Ng5 Qd6 22.Qe2 Nc7 23.Qe5
+Qxe5 24.dxe5 Rfe8 25.Rd7 Nf4 26.Rcd1 h6 27.Nf7 Ncd5 28.Nxh6+
+Kh8 29.Nf7+ Kg8 30.g3 Rec8 31.Nd4 1-0

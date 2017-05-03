@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.29"]
+[EventDate "2000.01.21"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexander Kalinin"]
+[Black "Jonathan Rowson"]
+[ECO "D02"]
+[WhiteElo "2422"]
+[BlackElo "2499"]
+[PlyCount "74"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 c6 5. Qb3 Qb6 6. c5 Qc7
+7. Bf4 Qc8 8. Nh4 Be4 9. f3 Bg6 10. Nxg6 hxg6 11. e4 Nf6
+12. exd5 Nxd5 13. Nxd5 cxd5 14. Bxb8 Qxb8 15. Bb5+ Kd8 16. g3
+g5 17. O-O Be7 18. f4 gxf4 19. Rxf4 Bf6 20. Re1 Qc7 21. Bf1 b6
+22. Qf3 Ke7 23. Qxd5 Rad8 24. Qc4 bxc5 25. d5 Be5 26. dxe6
+Bxf4 27. exf7+ Kf8 28. gxf4 Qd6 29. Kh1 Rh6 30. Re5 Qc6+
+31. Kg1 Rg6+ 32. Kf2 Rf6 33. Rh5 Rh6 34. Qxc5+ Qxc5+ 35. Rxc5
+Rxh2+ 36. Kg3 Rxb2 37. Bc4 Rc2 1/2-1/2

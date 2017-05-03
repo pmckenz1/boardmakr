@@ -1,0 +1,16 @@
+[Event "London m"]
+[Site "London ENG"]
+[Date "1866.09.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Wilhelm Steinitz"]
+[Black "Henry Edward Bird"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ Qxf6 6.Nf3 Nc6
+7.Bg5 Qf5 8.Bd3 Qg4 9.h3 Qxg2 10.Rh2 Qxh2 11.Nxh2 Nxd4 12.Bb5+
+1-0

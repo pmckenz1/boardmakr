@@ -1,0 +1,25 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Vladimir Babionyshev"]
+[Black "K Ivanov"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. f4 d5 2. Nf3 c5 3. e3 Nc6 4. Bb5 Bg4 5. c4 Rc8 6. cxd5 Qxd5
+7. O-O a6 8. Nc3 Qd8 9. Bc4 e6 10. b3 Nf6 11. Bb2 Be7 12. Qe1
+b5 13. Be2 Bf5 14. a4 b4 15. Nd1 Qb6 16. d3 Rd8 17. Qd2 Na5
+18. Qc2 c4 19. Bd4 cxb3 20. Bxb6 bxc2 21. Bxa5 cxd1=Q
+22. Rfxd1 Nd5 23. Bxd8 Bxd8 24. Kf2 Bb6 25. d4 a5 26. Bd3 Nc3
+27. Rd2 Be4 28. Ke1 Bc6 29. Ne5 Bxa4 30. Rxa4 f6 31. Nf3 Ke7
+32. Ra1 a4 33. Rb2 b3 34. Nd2 Rb8 35. Nc4 Bc7 36. Kd2 Na2
+37. Raxa2 bxa2 38. Rxa2 Rb4 39. Kc2 e5 40. fxe5 fxe5 41. Nxe5
+Bxe5 42. dxe5 Ke6 43. Bxh7 Rh4 44. Bg8+ Kxe5 45. h3 Rb4
+46. Kc3 Re4 47. Kd3 Rb4 48. Bc4 Kd6 49. Kd4 g5 50. e4 Kc6
+51. e5 Kb6 52. Kd5 Ka5 53. e6 Rb7 54. Kd6 Rb6+ 55. Ke5 Rb7
+56. Bd5 1-0

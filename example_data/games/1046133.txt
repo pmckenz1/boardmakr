@@ -1,0 +1,20 @@
+[Event "Haninge"]
+[Site "Haninge SWE"]
+[Date "1990.05.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Gyula Sax"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 Bb7
+7. Bg2 c5 8. O-O cxd4 9. Nxd4 Bxg2 10. Kxg2 Qc7 11. N2f3 a6
+12. Bg5 Be7 13. e4 Nc6 14. Nxc6 Qxc6 15. Rfe1 h6 16. Bxf6 Bxf6
+17. e5 Be7 18. Rad1 Rc8 19. Qd3 Rc7 20. b3 O-O 21. Qe4 Qc5
+22. Re2 b5 23. Rc2 Rfc8 24. Rdc1 Qb4 25. Nd2 d5 26. exd6 Qxd6
+27. Nf3 Qc6 28. Qxc6 Rxc6 29. Nd4 Rd6 30. cxb5 Rxc2 31. Nxc2
+axb5 32. Ne3 Ra6 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Cup Lee, Beijing (China)"]
+[Site "Cup Lee, Beijing (China)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Weiguo Lin"]
+[Black "Lubomir Ftacnik"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6
+7. O-O Nc6 8. Nc3 O-O 9. d5 Na5 10. e4 c6 11. Bf4 Nac4 12. Qe2
+Bg4 13. h3 e5 14. dxe6 Bxe6 15. Rac1 h6 16. g4 g5 17. Bg3 Nd7
+18. Rfd1 Qb6 19. Rxd7 Bxd7 20. Qxc4 Qxb2 21. Na4 Qb5 22. Qc2
+c5 23. Nc3 Qc4 24. Ne5 Qe6 25. Nxd7 Qxd7 26. Nd5 Rac8 27. Rd1
+Qe6 28. Ne3 Rfd8 29. Rxd8+ Rxd8 30. Qxc5 Qxa2 31. Qc7 Re8
+32. Nf5 Qb1+ 33. Kh2 Qb6 34. Qd7 Re6 35. Ne7+ Kf8 36. Nd5 Qc6
+37. Qd8+ Qe8 38. Qa5 Be5 39. Bxe5 Rxe5 40. Qxa7 Qc6 41. Bf3
+Kg7 42. Kg2 f6 43. Ne3 Kh7 44. Nf5 Qd7 45. h4 Re8 46. Qa1 Qe6
+47. hxg5 hxg5 48. Qh1+ Kg8 49. Qh6 Re7 50. Nxe7+ Qxe7 51. Qg6+
+Kf8 52. Qf5 1-0

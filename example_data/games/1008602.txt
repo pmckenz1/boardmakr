@@ -1,0 +1,28 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Christopher Duncan"]
+[Black "Stephen P Scannell"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5
+7. dxc5 Bxc5 8. a3 b6 9. Qc2 Bb7 10. Rd1 Nbd7 11. cxd5 exd5
+12. Be2 Rc8 13. O-O Re8 14. Qb1 a6 15. Rd3 Bf8 16. b4 Ne4
+17. Qb3 Nxc3 18. Rxc3 Qf6 19. Rfc1 Rxc3 20. Rxc3 Bd6 21. Bxd6
+Qxd6 22. Qc2 Nf8 23. Bd3 g6 24. h4 Ne6 25. Be2 d4 26. Qd2 Rd8
+27. Nxd4 Nxd4 28. Qxd4 Qxd4 29. exd4 Rxd4 30. Rc7 Bd5 31. Rd7
+Re4 32. Bxa6 Be6 33. Rd6 Re1+ 34. Kh2 Ra1 35. Rxb6 Rxa3
+36. Bb7 Kf8 37. Rd6 Ke7 38. Rd4 h5 39. Bc6 Rb3 40. f3 Rb2
+41. Kg3 Kf6 42. b5 Ke5 43. Rd8 Bc4 44. Rb8 Kd6 45. Rb7 Re2
+46. f4 Be6 47. Bf3 Re3 48. Kf2 Rb3 49. Bc6 Rb4 50. Kg3 Rb3+
+51. Kf2 Rb4 52. Kg3 Rb3+ 53. Kh2 Rb4 54. g3 Rb2+ 55. Kg1 Rb3
+56. Kf2 Rb2+ 57. Ke3 Rb3+ 58. Kf2 Rb2+ 59. Kg1 Rb3 60. Kg2
+Rb2+ 61. Kf1 Rb3 62. Be8 Rxg3 63. Bxf7 Bxf7 64. Rxf7 Ke6
+65. Rf8 Rb3 66. f5+ gxf5 67. Rh8 Rxb5 68. Rxh5 Rb2 69. Rh8 Ke5
+1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Politiken Copenhagen DEN"]
+[Site "Politiken Copenhagen DEN"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Grigory Bogdanovich"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 d5 2.c4 c6 3.Nf3 e6 4.Nbd2 Nd7 5.e4 dxe4 6.Nxe4 Ngf6
+7.Bd3 c5 8.Nxf6+ Nxf6 9.dxc5 Bxc5 10.O-O Qc7 11.b4 Be7 12.Bb2
+Bd7 13.a3 a5 14.Ne5 Rd8 15.c5 Bc6 16.b5 Bd5 17.Rc1 Bxc5 18.Ng4
+Qe7 19.Qe2 Bxa3 20.Bxa3 Qxa3 21.Nxf6+ gxf6 22.Be4 Qe7 23.Bxd5
+Rxd5 24.Rc8+ Rd8 25.Rxd8+ Qxd8 26.Rd1 Qc7 27.Qb2 O-O 28.Qxf6
+Qc5 29.h3 Qxb5 30.Rd4 h5 31.Rf4 Qb1+ 32.Kh2 Qg6 33.Qe7 b5
+34.Rf3 Qh6 35.h4 b4 36.Qc5 Rd8 37.Qe7 Rf8 38.Qa7 b3 39.Qxa5
+Rb8 40.Qc7 Qf8 1-0

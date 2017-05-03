@@ -1,0 +1,18 @@
+[Event "Vladivostok"]
+[Site "07"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vadim Khavrenko"]
+[Black "Yuri Balashov"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bg7 5.g3 O-O 6.Bg2 c6 7.O-O
+Bf5 8.Nh4 Bd7 9.f4 Qb6 10.c5 dxc5 11.Na4 Qb5 12.Nxc5 Bg4
+13.Qd2 Qxe2 14.Nxb7 Nd5 15.Rf2 Qc4 16.Na5 Qxd4 17.h3 Be6
+18.Nf3 Qxd2 19.Rxd2 Ne3 20.Ng5 Bd5 21.Bxd5 cxd5 22.Re2 Nf5
+23.g4 Nd4 24.Rxe7 h6 0-1

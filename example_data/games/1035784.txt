@@ -1,0 +1,18 @@
+[Event "San Mateo CA USA"]
+[Site "San Mateo, CA USA"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Thomas Brownscombe"]
+[Black "Aaron Summerscale"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3
+Nbd7 8.f4 Nc5 9.Qf3 Be7 10.Be3 O-O 11.O-O-O Qc7 12.g4 b5 13.g5
+Nfxe4 14.Nxe4 Bb7 15.Nxe6 Nxb3+ 16.axb3 fxe6 17.Rhe1 d5 18.Ng3
+d4 19.Qg4 dxe3 20.Qxe6+ Kh8 21.Rd7 Qa5 22.Qxe3 Qa1+ 23.Kd2
+Bb4+ 24.c3 Qxb2+ 25.Kd1 Rad8 0-1

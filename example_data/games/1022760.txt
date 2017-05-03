@@ -1,0 +1,21 @@
+[Event "USSR Championship 1961b"]
+[Site "Baku URS"]
+[Date "1961.12.08"]
+[EventDate "1960.??.??"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Anatoly Lein"]
+[Black "Vladimir Bagirov"]
+[ECO "C17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3
+cxd4 8.Qxd4 Nbc6 9.Qg4 Nf5 10.Nf3 h5 11.Qh3 d4 12.O-O-O Qd5
+13.Nxd4 Nfxd4 14.Bxd4 Nxd4 15.Qc3 Qxe5 16.Rxd4 Bd7 17.Bc4 Qf6
+18.Rhd1 Bc6 19.Qb4 Qe7 20.Qe1 e5 21.Rd6 Qg5+ 22.Kb1 O-O 23.g3
+Rae8 24.Bd5 Bxd5 25.R6xd5 Qf6 26.Qe3 b6 27.Rd7 Re7 28.R1d6
+Rxd7 29.Rxf6 gxf6 30.Qh6 Rd6 31.h4 Rfd8 32.Qxh5 Kg7 33.Qg4+
+Kh6 34.Qf5 Re6 35.g4 Kg7 36.h5 Rd4 37.g5 fxg5 38.Qxg5+ Kh7
+39.Qf5+ Kg8 40.h6 Rxh6 41.Qxe5 Rdd6 42.b4 1/2-1/2

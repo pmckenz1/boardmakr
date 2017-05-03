@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.06"]
+[EventDate "2000.04.05"]
+[Round "2"]
+[Result "0-1"]
+[White "Johann Ragnarsson"]
+[Black "Arnar Gunnarsson"]
+[ECO "D60"]
+[WhiteElo "2129"]
+[BlackElo "2227"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O
+7. Bd3 c6 8. cxd5 exd5 9. Qc2 Re8 10. h3 Nf8 11. O-O b6
+12. Ne5 Bb7 13. Bf5 Nh5 14. Bxe7 Qxe7 15. Na4 c5 16. Qb3 g6
+17. Bb1 cxd4 18. exd4 Ne6 19. Nf3 Qf6 20. Nc3 Nhf4 21. a4
+Nxh3+ 22. Kh2 Nhg5 23. Nb5 a6 24. Nxg5 axb5 25. Nxe6 Rxe6
+26. Qxb5 Ba6 27. Qxd5 Rd8 0-1

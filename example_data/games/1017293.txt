@@ -1,0 +1,19 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Dimitri Gurevich"]
+[Black "Lev Alburt"]
+[ECO "A59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 g6 7.e4
+Bxf1 8.Kxf1 d6 9.Nf3 Bg7 10.g3 O-O 11.Kg2 Nbd7 12.h3 Nb6
+13.Re1 Qd7 14.Qc2 Qb7 15.Rb1 Nfd7 16.b3 f5 17.exf5 Rxf5
+18.Rxe7 Raf8 19.Bf4 Bf6 20.Rbe1 Bxe7 21.Rxe7 Nc8 22.Re3 Ndb6
+23.Bh6 Rd8 24.Qe2 Qd7 25.g4 Rf7 26.Ng5 Re7 27.Nce4 Rxe4
+28.Nxe4 Nxd5 29.Rd3 Nce7 30.Qf3 Qe6 31.Rxd5 1-0

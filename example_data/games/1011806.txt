@@ -1,0 +1,21 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1912.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alekhine / G Esser"]
+[Black "S Freiman / Levenfish"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bh4 c6 5. e3 Qb6 6. Qc1 Bf5
+7. Bd3 Nd7 8. O-O e6 9. Nbd2 Nd6 10. Be2 c5 11. c4 Rc8 12. b3
+Bg6 13. Rd1 Nf5 14. cxd5 exd5 15. Bg5 Rc6 16. Qb2 f6 17. Bf4
+Bd6 18. Bxd6 Nxd6 19. dxc5 Rxc5 20. Nd4 O-O 21. b4 Bf7
+22. Rab1 Rcc8 23. Bg4 Rfd8 24. Ne6 Re8 25. Nxg7 Kxg7 26. Bxd7
+Bg6 27. Bxe8 Bxb1 28. Nxb1 Nxe8 29. Nc3 Nc7 30. h3 Qc6 31. Ne2
+Rd8 32. Nf4 Rd7 33. Qd4 Nb5 34. Nh5+ Kf7 35. Qg4 Kf8 36. Nxf6
+Rg7 37. Qf4 1-0

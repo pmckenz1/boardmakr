@@ -1,0 +1,21 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.02"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "John Washington Baird"]
+[Black "Dionisio M Martinez"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Nc3 O-O 6.Bxc6 dxc6
+7.Nxe5 Nxe4 8.Nxe4 Qd5 9.d4 Qxe4 10.Re1 Qh4 11.Nf3 Qh5 12.Rxe7
+Bg4 13.Bf4 Rfe8 14.Rxe8+ Rxe8 15.Qd3 Bf5 16.Qb3 h6 17.Ne5 Be6
+18.Qf3 Qf5 19.Rc1 Bd5 20.Qg3 g5 21.Be3 f6 22.Ng4 Qg6 23.f4 h5
+24.f5 Qg7 25.Nf2 Qh7 26.c4 Bf7 27.Qf3 Kg7 28.Ne4 b6 29.b3 h4
+30.Nc3 Bh5 31.Qf2 h3 32.g3 Bg4 33.Rf1 Kg8 34.Bd2 Qd7 35.Re1
+Rxe1+ 36.Bxe1 Kf7 37.d5 c5 38.Ne4 Qe7 39.Nc3 Qe5 40.Bd2 a6
+41.Qe3 Qxf5 42.Qe4 Qxe4 43.Nxe4 1-0

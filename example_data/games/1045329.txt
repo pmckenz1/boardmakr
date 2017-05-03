@@ -1,0 +1,28 @@
+[Event "Kiev"]
+[Site "Kyiv UKR"]
+[Date "1978.06.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Petar Velikov"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 O-O 6. Be3 b6
+7. Bc4 e6 8. Bg5 h6 9. Bh4 Bb7 10. Qd2 g5 11. Bg3 d5 12. Bd3
+c5 13. exd5 cxd4 14. Nb5 exd5 15. O-O Ne4 16. Nbxd4 Re8
+17. Rfe1 Nc6 18. c3 Qd7 19. Qd1 a6 20. Nxc6 Bxc6 21. Nd4 f5
+22. Bh2 f4 23. Qh5 Bxd4 24. cxd4 Qg7 25. Rad1 Ba4 26. b3 Bb5
+27. Bxb5 axb5 28. h4 Rf8 29. hxg5 hxg5 30. f3 Nf6 31. Qh3 Rxa2
+32. Qe6+ Kh8 33. Re5 g4 34. fxg4 Qh7 35. Bxf4 Qc2 36. Rd2 Ra1+
+37. Kh2 Qh7+ 38. Kg3 Rh1 39. Rf2 Ne4+ 40. Rxe4 Qh4+ 41. Kf3
+dxe4+ 42. Ke2 Rxf4 43. Qe5+ Rf6 44. Qxf6+ Qxf6 45. Rxf6 Rb1
+46. Ke3 Re1+ 47. Kd2 Rb1 48. Kc2 Rg1 49. Rxb6 Rxg2+ 50. Kc3
+Rg3+ 51. Kb4 Rd3 52. Re6 Rxd4+ 53. Kxb5 Kg7 54. g5 Rd3 55. Kc4
+Re3 56. b4 Re1 57. Kd4 Rb1 58. Kc3 Rc1+ 59. Kb2 Re1 60. Kc2 e3
+61. Re4 Kg6 62. Kd3 Rd1+ 63. Kxe3 Kxg5 64. Rd4 Rc1 65. Ke4 Kf6
+66. Kd5 Rc8 67. Rc4 Rb8 68. Kd6 Kf5 69. Rc5+ Ke4 70. b5 Kd4
+71. Rh5 Kc4 72. Kc6 Rc8+ 73. Kb7 1-0

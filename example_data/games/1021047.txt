@@ -1,0 +1,23 @@
+[Event "Sao Paulo CLA ITAU"]
+[Site "Sao Paulo CLA ITAU"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Horacio Prol Medeiros"]
+[Black "Andres Rodriguez Vila"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 e6 2.b3 c5 3.Bb2 Nc6 4.f4 d5 5.exd5 exd5 6.Bb5 Qh4+ 7.g3
+Qe7+ 8.Qe2 Bg4 9.Bxc6+ bxc6 10.Qxe7+ Nxe7 11.Nc3 O-O-O 12.Nce2
+Bf5 13.d3 c4 14.O-O-O cxd3 15.cxd3 c5 16.h3 h5 17.Nf3 d4
+18.Ne5 Be6 19.Kb1 f6 20.Nc4 Bxc4 21.bxc4 Nf5 22.Rhg1 Re8
+23.Nc1 Bd6 24.Nb3 Kc7 25.Ba3 Kc6 26.Rde1 Re3 27.Rxe3 dxe3
+28.Bb2 Re8 29.Bc3 e2 30.Be1 h4 31.g4 Ng3 32.f5 Nf1 33.Nd2 Bg3
+34.Nf3 Re3 35.Bxg3 Rxf3 36.Bxh4 Rxh3 37.Rg2 Rxh4 38.Rxe2 Rxg4
+39.Re6+ Kd7 40.Ra6 Ng3 41.Rxa7+ Kc6 42.Ra6+ Kb7 43.Ra5 Kb6
+44.Rb5+ Kc6 45.a4 Nxf5 46.a5 Nd6 47.Rb8 Kc7 48.Rb2 Rg1+ 49.Ka2
+Rh1 0-1

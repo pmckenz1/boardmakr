@@ -1,0 +1,19 @@
+[Event "Lvov"]
+[Site "Lviv UKR"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Alexander Kochyev"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.Nf3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 O-O 5.g3 d6 6.d4 Nbd7 7.Bg2
+e5 8.dxe5 dxe5 9.O-O e4 10.Ne1 Qe7 11.Nc2 Rd8 12.Nc3 Nc5
+13.Qc1 c6 14.Ne3 a5 15.Rd1 Rxd1+ 16.Qxd1 Ng4 17.Qd2 a4 18.b4
+Nxe3 19.Qxe3 a3 20.Nd5 cxd5 21.Bxg7 Kxg7 22.bxc5 dxc4 23.Rc1
+Bf5 24.Rxc4 Qe5 25.Rc3 Qd5 26.g4 Bxg4 27.Rxa3 Qd1+ 28.Bf1 Bxe2
+0-1

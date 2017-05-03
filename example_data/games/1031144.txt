@@ -1,0 +1,19 @@
+[Event "Stuttgart"]
+[Site "Stuttgart FRG"]
+[Date "1952.03.27"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Theodor Schuster"]
+[Black "Efim Bogoljubov"]
+[ECO "D44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.Nf3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6
+8.Bh4 g5 9.exf6 gxh4 10.Ne5 Qxf6 11.g3 Nd7 12.f4 Nxe5 13.dxe5
+Qd8 14.Qf3 Bb7 15.Bg2 Bb4 16.Rd1 Qb6 17.Rf1 Rd8 18.Ke2 Bxc3
+19.bxc3 Qa5 20.Rxd8+ Qxd8 21.Rd1 Qa5 22.f5 b4 23.Qf4 exf5
+24.Qxf5 bxc3 25.Qd7+ Kf8 26.Qxb7 Qxe5+ 27.Kf1 Kg7 28.Qxa7 c2
+29.Rc1 Rd8 30.Bf3 Rd2 31.Kg1 Qb2 0-1

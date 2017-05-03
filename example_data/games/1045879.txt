@@ -1,0 +1,22 @@
+[Event "Szirak 42/37"]
+[Site "Szirak HUN"]
+[Date "1986.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Mihai Suba"]
+[Black "Lubomir Ftacnik"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O a6
+7. d4 cxd4 8. Qxd4 d6 9. Rd1 Be7 10. Bg5 Nbd7 11. Qd2 Rc8
+12. Bf4 Rxc4 13. Bxd6 Bxd6 14. Qxd6 Rc6 15. Qa3 Rc7 16. Nd4
+Bxg2 17. Kxg2 Qc8 18. Rac1 Nc5 19. b4 Ncd7 20. b5 Nc5 21. bxa6
+Qxa6 22. Qxa6 Nxa6 23. Ndb5 Rd7 24. Na4 O-O 25. Rd6 Rxd6
+26. Nxd6 Nd7 27. Rc6 Rb8 28. a3 Nac5 29. Nxc5 Nxc5 30. Rc7 f6
+31. Nc4 Na4 32. Ra7 Nc3 33. Kf3 h6 34. h4 h5 35. Ra6 b5
+36. Na5 e5 37. Ke3 Nd1+ 38. Kf3 Nc3 39. Ke3 Nd1+ 40. Kf3 Nc3
+1/2-1/2

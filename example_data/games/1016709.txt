@@ -1,0 +1,19 @@
+[Event "Manila (Philippines)"]
+[Site "Manila (Philippines)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "35"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Carlo Lorena"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 c6 7.b3 Bf5
+8.Bb2 Qc8 9.Re1 a5 10.Nc3 Bh3 11.e4 Bxg2 12.Kxg2 Na6 13.Qe2
+Nc7 14.e5 dxe5 15.Nxe5 e6 16.Qf3 Na6 17.Rad1 Qc7 18.Bc1 Rae8
+19.Re2 Rc8 20.h3 Nb4 21.Bg5 Ne8 22.Bf4 b6 23.h4 h5 24.a3 Na6
+25.Re3 Qb7 26.d5 cxd5 27.cxd5 exd5 28.Nxd5 Kh8 29.Ne7 Qxf3+
+30.Kxf3 Ra8 31.Nd7 Nc5 32.Nxf8 Bxf8 33.Nd5 b5 34.Nb6 1-0

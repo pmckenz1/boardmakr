@@ -1,0 +1,19 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.06.11"]
+[EventDate "1912.05.20"]
+[Round "17"]
+[Result "1-0"]
+[White "Paul Saladin Leonhardt"]
+[Black "Karel Hromadka"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. d5 Nb8 6. Bd3 Nf6
+7. c4 Nbd7 8. Nc3 O-O 9. h3 Nc5 10. Bc2 a5 11. Be3 b6 12. g4
+Kh8 13. a3 Bd7 14. b4 axb4 15. axb4 Na6 16. Rb1 Ng8 17. Ba4
+Bxa4 18. Qxa4 Nc5 19. Qc2 Nd7 20. Ne2 Ra3 21. O-O Qa8 22. Kg2
+Ra2 23. Rb2 Rxb2 24. Qxb2 Qa6 25. b5 Qa4 26. Ra1 Qxc4 27. Ng3
+Qd3 28. Ra3 Qd1 29. Nd2 Nc5 30. Bxc5 bxc5 31. Ra1 1-0

@@ -1,0 +1,16 @@
+[Event "Trnava (Czech Republic)"]
+[Site "It"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Michael Schlosser"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.g3 g6 2.Bg2 Bg7 3.c4 e5 4.Nc3 d6 5.d3 f5 6.e3 Nf6 7.Nge2 O-O
+8.O-O Kh8 9.f4 c6 10.Kh1 Na6 11.Rb1 Nc7 12.Bd2 Be6 13.b3 exf4
+1/2-1/2

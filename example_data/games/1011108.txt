@@ -1,0 +1,33 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Bjarte Leer-Salvesen"]
+[Black "Stig Tjomsland"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "189"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 exd5 5. d4 c5 6. Bg5 Be7
+7. e3 Nc6 8. dxc5 Qa5 9. Bd3 Be6 10. O-O O-O 11. Rc1 Rac8
+12. a3 h6 13. Bh4 Qxc5 14. Ne4 dxe4 15. Rxc5 Bxc5 16. Bxf6
+exd3 17. Bc3 Rfd8 18. b4 Bb6 19. Qa1 f6 20. Rd1 Kf7 21. Qb1
+Bc4 22. Ne1 Ne5 23. h3 Bc7 24. f4 Ng6 25. Nxd3 b6 26. Nf2 Ne7
+27. Rxd8 Rxd8 28. Qc2 b5 29. Bd4 a6 30. Bc5 Nd5 31. Ne4 Nb6
+32. Nd2 Bd3 33. Qb3+ Nc4 34. Bd4 Bxf4 35. Bb6 Rd5 36. exf4
+Nxb6 37. Qc3 Nc4 38. Nxc4 Bxc4 39. Qe3 Rd7 40. f5 Re7 41. Qb6
+Re1+ 42. Kh2 Re2 43. Qxa6 Ra2 44. Kg3 Kg8 45. Kh4 Kh7 46. g4
+Bf1 47. Kg3 Rg2+ 48. Kf3 Ra2 49. h4 Bc4 50. Qa7 Kh8 51. Ke3
+Re2+ 52. Kf4 Ra2 53. g5 hxg5+ 54. hxg5 fxg5+ 55. Kxg5 Rg2+
+56. Kf4 Kh7 57. f6 Rg6 58. fxg7 Rxg7 59. Qa6 Rf7+ 60. Ke5 Bf1
+61. Qa8 Kg7 62. a4 bxa4 63. Qxa4 Bg2 64. b5 Bb7 65. b6 Kf8
+66. Kd6 Bf3 67. Qh4 Kg7 68. Qg5+ Kf8 69. Ke6 Bb7 70. Qh6+ Kg8
+71. Qg6+ Rg7 72. Qe8+ Kh7 73. Kf6 Bg2 74. Qf8 Rg6+ 75. Ke7
+Rg7+ 76. Kd6 Rg6+ 77. Kc5 Rg5+ 78. Kb4 Rg7 79. Qf5+ Kg8
+80. Kb5 Bb7 81. Kc5 Rf7 82. Qe5 Rg7 83. Kd6 Rf7 84. Qh5 Rg7
+85. Ke6 Bc8+ 86. Kf6 Bb7 87. Qe8+ Kh7 88. Qe2 Kg8 89. Qd3 Kh8
+90. Qe3 Kg8 91. Qe6+ Kh7 92. Qh3+ Kg8 93. Qh6 Rf7+ 94. Ke6 Rg7
+95. Qxg7+ 1/2-1/2

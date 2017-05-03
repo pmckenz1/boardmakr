@@ -1,0 +1,16 @@
+[Event "02, Estes Park"]
+[Site "Estes Park, CO USA"]
+[Date "1986.10.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lubomir Kavalek"]
+[Black "Joel Benjamin"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.f4
+e6 8.h5 Bh7 9.Nf3 Nd7 10.Bd3 Bxd3 11.Qxd3 Qc7 12.Bd2 O-O-O
+13.Qe2 Ngf6 14.O-O-O c5 15.Ne5 Nb6 16.dxc5 1/2-1/2

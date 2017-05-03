@@ -1,0 +1,23 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Baldur Hoenlinger"]
+[Black "Ernst Ludwig Klein"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. a3 Be7 6. c5 a5
+7. Rb1 a4 8. e3 O-O 9. Ne5 Nfd7 10. Nxd7 Bxd7 11. Bd3 b6
+12. cxb6 cxb6 13. Qe2 Nc6 14. O-O Bd6 15. f4 Qe7 16. Nf3 Rfc8
+17. Bd2 Na5 18. Ne5 Be8 19. f5 f6 20. Ng4 exf5 21. Rxf5 Bf7
+22. Bxa5 Rxa5 23. Rbf1 Bg6 24. R5f3 Bxd3 25. Qxd3 Qe4 26. Nf2
+Qxd3 27. Nxd3 Rb5 28. R3f2 Rb3 29. Rd1 Kf7 30. Re2 Re8 31. g3
+Ke6 32. Kf2 Kd7 33. Nc1 Rb5 34. Na2 Ra5 35. Nc3 f5 36. Rc1 Rc8
+37. Rec2 Rc4 38. Ke2 Ke6 39. Kd3 b5 40. Nb1 Ra8 41. Nd2 Rxc2
+42. Rxc2 Kd7 43. Nf3 Rc8 44. Rxc8 Kxc8 45. Ng1 Kd7 46. Ne2 Kc6
+47. Nc3 g5 48. Ke2 h5 49. Kf3 1/2-1/2

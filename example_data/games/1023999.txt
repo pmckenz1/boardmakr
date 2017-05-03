@@ -1,0 +1,18 @@
+[Event "Jyvskyl HOF,It Ope"]
+[Site "4"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Kari Tikkanen"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 Bxc3+ 7.bxc3
+e5 8.e3 d6 9.f3 Qa5 10.Qc2 Nbd7 11.Bd3 b5 12.Bxf6 bxc4 13.Bxc4
+Nxf6 14.Ne2 O-O 15.O-O Bd7 16.a4 Rfb8 17.Nc1 Rb7 18.Nb3 Qd8
+19.a5 a6 20.Nd2 Bb5 21.Qd3 Qe7 22.e4 Rab8 23.g3 g6 24.Rf2 Kg7
+25.Kg2 Nh5 26.f4 exf4 27.gxf4 Qh4 28.Raf1 g5 29.Bxb5 1/2-1/2

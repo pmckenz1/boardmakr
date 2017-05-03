@@ -1,0 +1,64 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1924.04.02"]
+[EventDate "1924.03.16"]
+[Round "12"]
+[Result "1-0"]
+[White "Richard Reti"]
+[Black "Efim Bogoljubov"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.Nf3 {Notes by Alekhine} d5 2.c4 e6 {As for the merit of this
+system of defence, compare the game Reti vs. Yates in the
+sixth round.} 3.g3 Nf6 4.Bg2 Bd6 5.O-O O-O 6.b3 Re8 7.Bb2 Nbd7
+8.d4 {To our way of thinking, this is the clear positional
+refutation of 2...e6, which, by the way, was first played by
+Capablanca (as Black) against Marshall and is based upon the
+simple circumstance that Black cannot find a method for the
+effective development of his Queen's Bishop.} c6 9.Nbd2 {In
+the game referred to, Capablanca, in a wholly analogous
+position, played ...Ne4 and likewise obtained an advantage
+thereby. Of course, Reti's quieter development is also quite
+good.} Ne4 {If the liberating move of 9...e5, recommended by
+Rubinstein and others, is really the best here-then it
+furnishes the most striking proof that Black's entire
+arrangement of his game was faulty. For the simple
+continuation 10.cxd5 cxd5 11.dxe5 Nxe5 12.Nxe5 Bxe5 13.Bxe5
+Rxe5 14.Nc4 Re8 15.Ne3 Be6 16.Qd4, would have given White a
+direct attack against the isolated Queen's pawn, without
+permitting the opponent any chances whatsoever. Moreover, the
+move selected by Bogoljubow leads eventually to a double
+exchange of Knights, without moving the principal disadvantage
+of his position.} 10.Nxe4 dxe4 11.Ne5 f5 {Obviously forced.}
+12.f3 {The proper strategy. After Black has weakened his
+position in the center, White forthwith must aim to change the
+closed game into an open one in order to make as much as
+possible out of that weakness.} exf3 13.Bxf3 {Not 13.exf3,
+because the e pawn must be utilized as a battering ram.} Qc7
+{Also after 13...Nxe5 14.dxe5 Bc5+ 15.Kg2 Bd7 (after the
+exchange of Queens, this Bishop could not get out at all)
+16.e4, White would have retained a decisive advantage in
+position.} 14.Nxd7 Bxd7 15.e4 e5 {Otherwise would follow
+16.e5, to be followed by a break by means of d5 or g4. After
+the text move, however, Black appears to have surmounted the
+greater part of his early difficulty and it calls for
+exeptionally fine play on the part of White in order to make
+the hidden advantages of his position count so rapidly and
+convincingly.} 16.c5 Bf8 17.Qc2 {Attacking simultaneously both
+of Black's center pawns.} exd4 {Black's sphere of action is
+circumscribed; for instance, 17...fxe4 clearly would not do on
+account of the two-fold threat against h7 and e5, after
+18.Bxe4} 18.exf5 Rad8 {After 18...Re5 19.Qc4+ Kh8 20.f6, among
+other lines, would be very strong.} 19.Bh5 {The initial move
+in an exactly calculated, decisive manouver, the end of which
+will worthily crown White's model play.} Re5 20.Bxd4 Rxf5 {If
+20...Rd5 21.Qc4 Kh8 22.Bg4, with a pawn plus and a superior
+position.} 21.Rxf5 Bxf5 22.Qxf5 Rxd4 23.Rf1 Rd8 {Or 23...Qe7
+24.Bf7+ Kh8 25.Bd5 Qf6 26.Qc8, etc. Black is left without any
+defence.} 24.Bf7+ Kh8 25.Be8 {A sparkling conclusion! Black
+resigned, for, after 25...Bxc5+, he loses at least the
+Bishop. Rightfully, this game was awarded the first brilliancy
+prize.} 1-0

@@ -1,0 +1,18 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Julie Trottier"]
+[Black "Frederique Fortin"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bg4 4. Nbd2 e6 5. h3 Bh5 6. c3 Nbd7
+7. Qb3 b6 8. e3 c5 9. Ba6 Bxf3 10. Nxf3 Nh5 11. Bh2 e5
+12. dxe5 g6 13. Qxd5 Be7 14. e6 fxe6 15. Qxe6 Ng7 16. Qc6 Nf5
+17. Rd1 Rf8 18. Ne5 Nd6 19. Nxd7 Qxd7 20. Qxa8+ Kf7 21. Qd5+
+Qe6 22. Bxd6 1-0

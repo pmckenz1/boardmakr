@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Alexander Lastin"]
+[Black "Anatoly Donchenko"]
+[ECO "C35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Nh5 6. Nc3 d6
+7. O-O O-O 8. d4 g6 9. Nd5 Be6 10. Re1 dxe5 11. Rxe5 Bd6
+12. Rxh5 gxh5 13. Qd3 Nd7 14. Nxf4 Bxc4 15. Qxc4 Qf6 16. Nd3
+c6 17. Bg5 Qg6 18. Qb3 b6 19. Rf1 Rae8 20. Rf2 Re4 21. Qa4 Ne5
+22. Ndxe5 Bxe5 23. c3 c5 24. Bd2 cxd4 25. Nxe5 Rxe5 26. Qxd4
+0-1

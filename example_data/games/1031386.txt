@@ -1,0 +1,23 @@
+[Event "New York (USA)"]
+[Site "New York, NY USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Hans Ree"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O
+Nc6 8.d5 Ne7 9.b4 a5 10.bxa5 c5 11.dxc6 Nxc6 12.Bg5 Qxa5
+13.Bxf6 Qxc3 14.Qxd6 Be6 15.Bg5 Ra6 16.c5 Rxa2 17.Rxa2 Bxa2
+18.Qd2 Qxd2 19.Nxd2 Nd4 20.Bc4 Bxc4 21.Nxc4 Rc8 22.Be7 Nb3
+23.Rd1 h5 24.Nb6 Rc6 25.Rd8+ Kh7 26.Nd7 Nd4 27.Nb8 Re6 28.Bd6
+Nb5 29.Rd7 Kg8 30.Rd8+ Kh7 31.Kf1 Bf6 32.Rd7 Kg7 33.Ke2 b6
+34.c6 Nxd6 35.Rxd6 Rxd6 36.c7 Rd8 37.cxd8=Q Bxd8 38.Nc6 Bc7
+39.Kd3 Kf6 40.Kc4 Kg5 41.Nb4 Bd6 42.Nd3 f6 43.Kb5 f5 44.f3
+fxe4 45.fxe4 Bc5 46.Nxc5 bxc5 47.Kxc5 Kf4 48.Kd5 h4 49.g3+
+hxg3 50.hxg3+ Kxg3 51.Kxe5 g5 1/2-1/2

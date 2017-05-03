@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.26"]
+[EventDate "1911.08.21"]
+[Round "5"]
+[Result "0-1"]
+[White "Oldrich Duras"]
+[Black "Milan Vidmar"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Re1
+exd4 8.Nxd4 O-O 9.Bg5 Nxd4 10.Qxd4 Bxb5 11.Nxb5 Ng4 12.Bxe7
+Qxe7 13.h3 Ne5 14.Re3 a6 15.Nc3 c6 16.f4 Ng6 17.Rf1 f6 18.Ne2
+Rfe8 19.f5 Nf8 20.c4 Rad8 21.Rff3 Qe5 22.Qb6 Qc5 23.Qxc5 dxc5
+24.b3 Rd2 25.Nc3 Rd4 26.a4 b6 27.Rf4 Nd7 28.Ne2 Rd6 29.Rf1 Ne5
+30.Nf4 Nf7 31.Rfe1 a5 32.Ne6 Nd8 33.e5 fxe5 34.Rxe5 Nxe6
+35.Rxe6 Rdxe6 36.fxe6 g6 37.Rd1 Rxe6 38.Rd8+ Kf7 39.Rb8 Kf6
+40.Kf2 Ke5 41.Rxb6 Kd4 42.Kf3 h6 43.h4 h5 44.Rb8 Re3+ 45.Kf4
+Re4+ 46.Kg3 Kc3 47.Rb6 Rg4+ 48.Kh3 Kc2 49.g3 Rd4 50.Kg2 Rd3
+51.Rxc6 Kxb3 52.Rxc5 Kxa4 53.Rc6 Kb4 54.Rxg6 Kxc4 55.g4 hxg4
+56.Rxg4+ Rd4 57.Rg5 a4 58.Kh3 a3 59.Rg2 Kb3 60.Rg3+ Kb4 61.Rg2
+Kb3 62.Rg3+ Kb2 63.Rg2+ Kb1 64.Rg1+ Kc2 65.h5 a2 66.Rg2+ Kb3
+67.Rg3+ Ka4 68.Rg1 Rb4 69.Rf1 Rb1 70.Rf8 Rb5 71.Rf4+ Ka3 0-1

@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexander Riazantsev"]
+[Black "Bator Sambuev"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7
+7. e3 O-O 8. Rc1 Nbd7 9. cxd5 exd5 10. Bd3 c5 11. O-O Ne4
+12. Bxe7 Qxe7 13. dxc5 bxc5 14. Qe2 Nxc3 15. Rxc3 c4 16. Bb1
+Nc5 17. Rd1 g6 18. Nd4 a5 19. Qg4 Qf6 20. h4 Bc8 21. Qg3 Bd7
+22. e4 Nxe4 23. Bxe4 dxe4 24. Rxc4 Rac8 25. Rdc1 Rxc4 26. Rxc4
+h5 27. Qg5 Qxg5 28. hxg5 Rb8 29. b4 axb4 30. axb4 Kf8 31. Kh2
+h4 32. Nc2 Ra8 33. Rxe4 Ra2 34. Ne3 Rxf2 35. Rxh4 Re2 36. Nd5
+Bc6 37. Nf4 Re5 38. Nh3 Ke7 39. Rd4 Re2 40. Nf4 Re5 41. Rc4
+Kd6 42. Rd4+ Ke7 43. Nh3 Re2 44. Rg4 Kd6 45. Kg1 Re1+ 46. Kf2
+Rb1 47. Kg3 Rb3+ 48. Kh2 Rb2 49. Kg1 Rb1+ 50. Kh2 Rb2 1/2-1/2

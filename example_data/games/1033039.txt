@@ -1,0 +1,22 @@
+[Event "10s, Copenhagen Open"]
+[Site "Copenhagen DEN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Leon Pliester"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. a4 Na5 10. axb5 Nxb3 11. cxb3 axb5
+12. Rxa8 Qxa8 13. Nd4 c6 14. Be3 Kd7 15. Nc3 Nxc3 16. bxc3 Be7
+17. f4 f5 18. Qc2 g6 19. b4 Qa3 20. Nb3 Ra8 21. Rb1 d4
+22. Nxd4 Bd5 23. Nb3 Ke6 24. Bc1 Qa7+ 25. Nd4+ Kf7 26. h3 Qa2
+27. Rb2 Qc4 28. Bd2 Ra1+ 29. Rb1 Be4 30. e6+ Kf6 31. Rxa1 Bxc2
+32. Nxc2 Qd3 33. Be1 Qxc2 34. Bh4+ Kg7 35. Bxe7 Qxc3 36. Rf1
+Qe3+ 37. Kh2 Qxe6 38. Bc5 h6 39. h4 g5 40. hxg5 hxg5 41. fxg5
+Kg6 1/2-1/2

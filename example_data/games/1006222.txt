@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Bjorn Thorfinnsson"]
+[Black "Remi Soupizon"]
+[ECO "D00"]
+[WhiteElo "2195"]
+[BlackElo "2066"]
+[PlyCount "55"]
+
+1. d4 d5 2. Nf3 c6 3. Bg5 h6 4. Bh4 Qb6 5. b3 e6 6. e3 Ne7
+7. Bd3 Nf5 8. Bg3 Nxg3 9. hxg3 Nd7 10. c4 e5 11. cxd5 Bb4+
+12. Kf1 cxd5 13. dxe5 O-O 14. a3 Be7 15. Nc3 Qe6 16. Nxd5 Nxe5
+17. Nf4 Qd6 18. Nxe5 Qxe5 19. Rh5 Qb2 20. Nd5 Bd6 21. Rb1 Qxa3
+22. Qf3 f5 23. g4 fxg4 24. Qe4 Qa2 25. Qh7+ Kf7 26. Qg6+ Kg8
+27. Ne7+ Bxe7 28. Bc4+ 1-0

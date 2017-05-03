@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.30"]
+[EventDate "1923.11.16"]
+[Round "9"]
+[Result "1-0"]
+[White "Ernst Gruenfeld"]
+[Black "Lajos Steiner"]
+[ECO "D95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Qb3 c6
+7. Bd2 dxc4 8. Bxc4 Nbd7 9. O-O Nb6 10. Be2 Be6 11. Qc2 Bf5
+12. e4 Bg4 13. Be3 Nfd7 14. Rad1 Qe8 15. h3 Bxf3 16. Bxf3 Rc8
+17. Qb3 c5 18. d5 Qd8 19. a4 c4 20. Qa3 Ne5 21. Be2 Qd6
+22. Qxd6 exd6 23. a5 Nbd7 24. Nb5 a6 25. Nxd6 Rc7 26. f4 Nd3
+27. Bxd3 cxd3 28. e5 Rd8 29. Rxd3 Bxe5 30. Nxf7 Kxf7 31. fxe5+
+Ke8 32. Bg5 Rdc8 33. d6 Rc5 34. Bf4 g5 35. Bg3 Nf8 36. e6 1-0

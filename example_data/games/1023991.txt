@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Haarlem (Netherlands)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Andre Breedveld"]
+[Black "Vladimir Bagirov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.Nf3 d5 2.d4 c6 3.c4 e6 4.Nc3 dxc4 5.e3 b5 6.a4 Bb4 7.Bd2 Qe7
+8.axb5 Bxc3 9.Bxc3 cxb5 10.d5 Nf6 11.d6 Qb7 12.b3 O-O 13.bxc4
+Ne4 14.Qd4 Nxc3 15.Qxc3 b4 16.Qe5 Nc6 17.Qb5 a6 18.Qxb7 Bxb7
+19.c5 Rfc8 20.Be2 Nb8 21.Ra5 Nd7 22.O-O Rxc5 23.Rxc5 Nxc5
+24.Rc1 Rc8 25.Ne5 b3 26.Bf3 Nd7 27.Rxc8+ Bxc8 28.Nd3 a5 29.Bc6
+Nb6 30.Nb2 Bd7 31.Bxd7 Nxd7 32.Kf1 Kf8 33.Ke2 Nc5 0-1

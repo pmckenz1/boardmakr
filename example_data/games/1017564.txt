@@ -1,0 +1,19 @@
+[Event "Ch USA"]
+[Site "Portland , OR USA"]
+[Date "1987.08.13"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Lev Alburt"]
+[Black "Walter Shawn Browne"]
+[ECO "A62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nf3
+Bg7 8.Bg2 O-O 9.O-O a6 10.a4 Nbd7 11.Re1 Qc7 12.Bf1 c4 13.h3
+Rb8 14.e4 Re8 15.Bf4 Nh5 16.Be3 Nc5 17.e5 Nb3 18.g4 Nxa1
+19.Qxa1 dxe5 20.gxh5 Bf5 21.h6 Bh8 22.a5 Qc8 23.Ng5 Bf6
+24.Nge4 Be7 25.d6 Bh4 26.Kh2 Rd8 27.Bb6 Rd7 28.Qd1 Qf8 29.Qd5
+Re8 30.Be3 Be6 31.Qxe5 f5 32.Bd4 fxe4 33.Qh8+ 1-0

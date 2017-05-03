@@ -1,0 +1,17 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1906.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Julius Perlis"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 d5 2.c4 e6 3.Nc3 a6 4.cxd5 exd5 5.Nf3 b6 6.Bf4 Bb7 7.e3
+Bd6 8.Ne5 Nd7 9.Qg4 Bxe5 10.dxe5 Kf8 11.O-O-O Nc5 12.e4 d4
+13.Be3 Ne6 14.Bc4 Bc8 15.f4 Qe7 16.f5 dxc3 17.fxe6 Qb4 18.Rd8+
+Ke7 19.Bg5+ f6 20.exf6+ 1-0

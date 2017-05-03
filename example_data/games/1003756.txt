@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.16"]
+[EventDate "1907.??.??"]
+[Round "20"]
+[Result "1/2-1/2"]
+[White "Johann Nepomuk Berger"]
+[Black "Paul F Johner"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. d4 d5 2. e3 e6 3. Nf3 Nd7 4. Nbd2 f5 5. Bd3 Qf6 6. c4 c6
+7. Qc2 Nh6 8. b3 Bd6 9. Bb2 O-O 10. h3 e5 11. dxe5 Nxe5
+12. O-O Bd7 13. Nxe5 Bxe5 14. Bxe5 Qxe5 15. Nf3 Qf6 16. cxd5
+cxd5 17. Qc5 Rad8 18. Qd4 Qxd4 19. Nxd4 f4 20. Rac1 fxe3
+21. fxe3 Rfe8 22. Rf3 Rc8 23. Rxc8 Rxc8 24. e4 dxe4 25. Bxe4
+b6 26. Bd5+ Kh8 27. g4 g6 28. Bc4 Kg7 29. a3 Re8 30. Kf2 Re4
+31. Rd3 Nf7 32. Bxf7 Kxf7 33. Nf3 Re7 1/2-1/2

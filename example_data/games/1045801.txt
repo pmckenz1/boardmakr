@@ -1,0 +1,19 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Karel Mokry"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 O-O
+7. Bh3 Na6 8. Bxc8 Qxc8 9. Nf3 Nc7 10. a4 a6 11. a5 Rb8
+12. O-O b5 13. axb6 Rxb6 14. Nd2 Qh3 15. Qe2 Nh5 16. Ra3 Rfb8
+17. Nd1 g6 18. f4 Qd7 19. fxe5 dxe5 20. Nf2 Nf6 21. Nd3 Qd6
+22. Qf2 R6b7 23. b3 Rf8 24. Ra5 Qb6 25. Nxe5 Ng4 26. Nxg4 Qxa5
+27. e5 Ne8 28. Ne4 Rxb3 29. d6 Bd8 30. Nh6+ Kg7 31. Qxf7+ 1-0

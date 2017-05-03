@@ -1,0 +1,17 @@
+[Event "Orebro"]
+[Site "Orebro SWE"]
+[Date "1937.01.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Reuben Fine"]
+[Black "Pettersson"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 Nbd7
+7. Nxc4 Qc7 8. g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Qb3 Be6
+12. e3 Nf3+ 13. Kd1 Qd8 14. Kc1 Nc5 15. Qd1 Qxd1+ 16. Kxd1
+O-O-O+ 17. Ke2 Bg4 18. h3 Rd2+ 0-1

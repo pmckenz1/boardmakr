@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Steven F Mayer"]
+[Black "Anthony Flores"]
+[ECO "A15"]
+[WhiteElo "2226"]
+[BlackElo "1551"]
+[PlyCount "47"]
+
+1. c4 Nf6 2. g3 d5 3. cxd5 Nxd5 4. Bg2 g6 5. Qb3 c6 6. Nc3
+Nxc3 7. Qxc3 f6 8. Nf3 Na6 9. O-O Bd7 10. d4 e6 11. e4 Qe7
+12. Be3 Qb4 13. Qc2 Bd6 14. a3 Qa5 15. b4 Qd8 16. Rad1 Bc7
+17. Rfe1 Bb6 18. Nd2 Nc7 19. Nc4 Ke7 20. d5 Bxe3 21. d6+ Kf7
+22. dxc7 Bxf2+ 23. Qxf2 Qxc7 24. Rxd7+ 1-0

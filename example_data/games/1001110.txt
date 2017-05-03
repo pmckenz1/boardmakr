@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana CUB"]
+[Date "1913.02.26"]
+[EventDate "1913.02.15"]
+[Round "9"]
+[Result "0-1"]
+[White "Juan Corzo"]
+[Black "Abraham Kupchik"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Qd6 5. Bb5 Bd7 6. exd5
+Qxd5 7. O-O O-O-O 8. Bc4 Qd6 9. Ng5 Nh6 10. d3 Qg6 11. Be3 Be7
+12. Ne4 f5 13. Nc5 f4 14. Nxd7 Rxd7 15. Bd2 f3 16. g3 Qg4
+17. Qd1 Rf8 18. Be6 Qxe6 0-1

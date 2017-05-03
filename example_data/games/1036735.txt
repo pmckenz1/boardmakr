@@ -1,0 +1,25 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1929.09.07"]
+[EventDate "1929.09.01"]
+[Round "6"]
+[Result "1-0"]
+[White "David Przepiorka"]
+[Black "Edgar Colle"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.d4 d5 2.Nf3 Nc6 3.b3 Bg4 4.Bb2 e6 5.e3 Bb4+ 6.c3 Bd6 7.Be2
+Nf6 8.O-O Bxf3 9.Bxf3 e5 10.dxe5 Bxe5 11.Qe2 Qe7 12.Na3 O-O-O
+13.c4 Bxb2 14.Qxb2 Ne5 15.Be2 h5 16.Rac1 Nfg4 17.h3 Nf6
+18.cxd5 Nxd5 19.Nc4 f6 20.Rfd1 Kb8 21.Qb1 g5 22.Qe4 c6 23.Nxe5
+fxe5 24.g3 Rdf8 25.Bf1 g4 26.h4 Rf6 27.Rd2 Rhf8 28.Bc4 Nb6
+29.Bf1 Nc8 30.Rcd1 Nb6 31.Bg2 a6 32.Qc2 R6f7 33.Be4 Rf6 34.Qd3
+Qf7 35.Rf1 Qe6 36.Qc3 Nc8 37.Rfd1 R8f7 38.Qc5 Qe7 39.Qxe7 Nxe7
+40.Rd8+ Kc7 41.R1d7+ Kb6 42.Rb8 Rxf2 43.Rbxb7+ Ka5 44.Rxe7
+Rf1+ 45.Kh2 R7f2+ 46.Bg2 Rc1 47.Rxe5+ c5 48.Re4 Rxa2 49.Ra4+
+Rxa4 50.bxa4 c4 51.Rh7 c3 52.Rxh5+ Kb4 53.Rh8 Re1 54.Be4 Re2+
+55.Kh1 Rxe3 56.Bg6 Re6 57.h5 c2 58.Bxc2 Re1+ 59.Kg2 Re2+
+60.Kg1 Rxc2 61.Rg8 Rc4 62.h6 Kc3 63.h7 Kd3 64.Rd8+ 1-0

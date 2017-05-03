@@ -1,0 +1,23 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lev Alburt"]
+[Black "Igor Vasilievich Ivanov"]
+[ECO "E02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Bd7 6.Qxc4 Bc6
+7.Nf3 Nbd7 8.Nc3 Nb6 9.Qb3 Be7 10.O-O O-O 11.Rd1 a5 12.Qc2
+Nbd5 13.Ne5 Nb4 14.Nxc6 Nxc2 15.Nxd8 Raxd8 16.Rb1 Nxd4 17.Bf4
+Bb4 18.Bxc7 Rd7 19.Be5 Bxc3 20.bxc3 Nxe2+ 21.Kf1 Rxd1+ 22.Rxd1
+Ng4 23.Bd6 Nxc3 24.Rd3 Rc8 25.Bxb7 Rc4 26.Bc7 h5 27.Bxa5 Nxa2
+28.h3 Ne5 29.Rd8+ Kh7 30.Bd2 Nb4 31.f4 Ng6 32.Rd7 f6 33.h4 Nc6
+34.Rc7 Nce5 35.Rc8 Ne7 36.Re8 Rc7 37.Be4+ f5 38.Bb1 Ng4 39.Rd8
+Ra7 40.Bd3 Ra1+ 41.Ke2 Rg1 42.Kf3 Rh1 43.Rd7 Ng6 44.Ke2 Rh2+
+45.Ke1 Rg2 46.Bc3 Rxg3 47.Rxg7+ Kh6 48.Rd7 Re3+ 49.Kd2 Nxf4
+50.Bb5 Nd5 51.Bg7+ Kg6 52.Bh8 Ngf6 53.Rg7+ Kh6 54.Rg5 Ne4+ 0-1

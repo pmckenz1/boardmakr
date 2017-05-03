@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Stefan Djuric"]
+[ECO "E52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Nf3 O-O 6.Bd3 d5 7.O-O
+Bb7 8.Qe2 dxc4 9.Bxc4 c5 10.Rd1 Qe7 11.Bd2 Ne4 12.Nxe4 Bxe4
+13.dxc5 Bxc5 14.Bc3 a6 15.Rac1 Ra7 16.Nd2 Bg6 17.Nb3 Bd6
+18.Bd3 Rc7 19.Bxg6 hxg6 20.Rd3 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Clock simul, 4b"]
+[Site "Basle SUI"]
+[Date "1922.03.02"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fleissig / A Staehelin/ H Staehelin"]
+[Black "Alexander Alekhine"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb6 6. c3
+Nge7 7. Be2 O-O 8. O-O d6 9. Nd2 f5 10. exf5 Bxf5 11. Re1 Nxd4
+12. Bxd4 Bxd4 13. cxd4 Kh8 14. Nf3 c6 15. Rc1 Ng6 16. Rc3 Qf6
+17. Bd3 Nf4 18. Bc2 Bg4 19. Rce3 Nh3+ 20. Kf1 Qh4 21. Qe2 Qh5
+22. Qd3 Nf4 23. Qe4 Nxg2 0-1

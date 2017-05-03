@@ -1,0 +1,23 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Herman Steiner"]
+[Black "Sandor Boros"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. Nf3 d6 3. Nc3 g6 4. Bf4 Bg7 5. Qd2 O-O 6. Bh6
+Nbd7 7. Bxg7 Kxg7 8. O-O-O c5 9. h4 h5 10. e4 cxd4 11. Nxd4
+Nc5 12. f3 Rh8 13. Qg5 Rh7 14. e5 dxe5 15. Ne6+ Nxe6 16. Rxd8
+Nxg5 17. hxg5 Nd7 18. Nd5 Rh8 19. Rxh8 Kxh8 20. Nxe7 Kg7
+21. Nd5 Nc5 22. Nf6 Ne6 23. Ne4 Bd7 24. Bc4 Bc6 25. Bxe6 Bxe4
+26. fxe4 fxe6 27. Kd2 Rd8+ 28. Ke3 Kf7 29. c3 Kg7 30. g3 Rd7
+31. Ke2 Kf7 32. Rf1+ Kg7 33. Rd1 Rc7 34. Rd8 a6 35. Kd3 Rf7
+36. Ke2 Rc7 37. Ke3 Re7 38. c4 Rc7 39. Kd3 Rf7 40. c5 Rf3+
+41. Kc2 Rf2+ 42. Rd2 Rf7 43. b4 Kf8 44. Rd8+ Ke7 45. Rb8 Rf3
+46. Rxb7+ Kd8 47. a4 Ra3 48. a5 1-0

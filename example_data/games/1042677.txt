@@ -1,0 +1,25 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1948.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Reginald Joseph Broadbent"]
+[Black "Max Euwe"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Qe2 O-O 11. Nbd2 Nc5
+12. Nd4 Nxb3 13. N2xb3 Qd7 14. Nxc6 Qxc6 15. Be3 f6 16. exf6
+Bxf6 17. Bd4 Rae8 18. Rae1 Bf5 19. Qd2 Be4 20. f3 Bg6 21. Rxe8
+Bxe8 22. Re1 Bh4 23. g3 Bd8 24. Nc5 Bd7 25. Nxd7 Qxd7 26. Bc5
+Rf6 27. Qe2 Kf7 28. Bd4 Rh6 29. f4 Bf6 30. Bxf6 Rxf6 31. Qh5+
+Kg8 32. Re8+ Rf8 33. Rxf8+ Kxf8 34. Qxh7 d4 35. Qd3 c5
+36. cxd4 Qd5 37. b3 cxd4 38. h4 Qc5 39. Kf2 Qc3 40. Ke2 Qb2+
+41. Qd2 Qb1 42. h5 Qe4+ 43. Kf2 Qh1 44. Qxd4 Qh2+ 45. Kf3
+Qxh5+ 46. Ke3 Qh2 47. Qd8+ Kf7 48. Qd5+ Kf8 49. Qf5+ Kg8
+50. g4 Qxa2 51. Qe6+ Kh7 52. g5 Qc2 53. Qh3+ Kg6 54. Qe6+ Kh7
+55. Qh3+ Kg6 56. Qe6+ 1/2-1/2

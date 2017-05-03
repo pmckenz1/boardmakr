@@ -1,0 +1,16 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN "]
+[Date "1976.12.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Ivan Farago"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Nf3
+Bd7 8.a4 Qa5 9.Bd2 Nbc6 10.Be2 Qc7 11.O-O f6 12.Bb5 fxe5
+13.Bxc6 Nxc6 14.Nxe5 O-O 15.Nxc6 1/2-1/2

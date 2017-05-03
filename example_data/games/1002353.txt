@@ -1,0 +1,31 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.05.13"]
+[EventDate "?"]
+[Round "36"]
+[Result "1-0"]
+[White "James Moore Hanham"]
+[Black "Jackson Whipps Showalter"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 {Notes by Steinitz.} d5 2.f4 Nf6 3.e3 Bf5 4.Nf3 e6 5.c3
+c6 6.Nbd2 Bd6 7.Be2 Nbd7 8.Ne5 O-O {Ne4 was the correct play
+in order to keep possession of the hole in the center, and
+also to prepare driving off the hostile Knight by f6.} 9.O-O
+c5 {Black thus qualifies his fifth move as loss of time, and
+in trying to rectify the omission on the Q wing, he loses
+sight of the danger to which his K side is exposed. Again Ne4
+was the proper play.} 10.g4 Be4 11.g5 Ne8 12.Nxe4 dxe4 {Of
+course a blunder which costs the exchange, but his game was
+already bad even after 12...Bxe5 13.dxe5 dxe4 14.Qc2 f5 15.Bc4
+Nc7 16.Qb3, etc.} 13.Nxd7 cxd4 {If 13...Qxd7 14.dxc5 wins a
+clear piece.} 14.Nxf8 d3 15.Bxd3 exd3 16.Nxe6 fxe6 17.Qxd3 Qe7
+18.e4 e5 19.f5 Bc5+ 20.Kh1 Rd8 21.Qf3 Bb6 22.h4 a5 23.f6 Qf7
+24.Qe2 gxf6 25.gxf6 Nd6 26.Be3 Bc7 27.Bh6 Bb6 28.Rad1 Ne8
+29.Qb5 Rxd1 30.Rxd1 Bc7 31.Rg1+ Kh8 32.Bg7+ {32.Qd5 Qxd5
+33.exd5 Nxf6 (or 33...Nd6 34.f7 Nxf7 35.Bg7+ Kg8 36.Bxe5+ and
+wins) 34.Bg7+, etc, would have won more quickly.} Nxg7 33.fxg7
+Kg8 34.Qd5 Qxd5 35.exd5 1-0

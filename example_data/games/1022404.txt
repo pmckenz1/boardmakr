@@ -1,0 +1,20 @@
+[Event "5 Cork congress"]
+[Site "5 Cork congress"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Mel O'Cinneide"]
+[ECO "D26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.Qe2 a6 7.dxc5
+Bxc5 8.O-O O-O 9.e4 b5 10.Bd3 Nbd7 11.e5 Nd5 12.Bxh7+ Kxh7
+13.Ng5+ Kg8 14.Qe4 g6 15.Qh4 N5f6 16.exf6 Nxf6 17.Nc3 Bb7
+18.Be3 Rc8 19.Rad1 Qe7 20.Bxc5 Qxc5 21.Rd7 Rc7 22.Rd3 Qc4
+23.Rd4 Qc5 24.Rfd1 Kg7 25.Qg3 b4 26.Rxb4 Nh5 27.Qh4 Qe5 28.Qd4
+Qxd4 29.Rbxd4 Nf6 30.h4 Rc5 31.Rd7 Nxd7 32.Rxd7 Bd5 33.Nxd5
+Rxd5 34.Nxe6+ Kf6 35.Nxf8 Rxd7 36.Nxd7+ 1-0

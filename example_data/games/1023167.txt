@@ -1,0 +1,28 @@
+[Event "Kirovakan"]
+[Site "Kirovakan ARM"]
+[Date "1978.08.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Zbigniew Szymczak"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nb6 8.Nc3 Nc6 9.d5 Na5 10.Ng5 c6 11.dxc6 Nxc6 12.Nge4 h6
+13.Nc5 Nd7 14.Nd3 Nde5 15.Nxe5 Qxd1 16.Rxd1 Nxe5 17.b3 Nc6
+18.Bb2 Bg4 19.Bxc6 bxc6 20.f3 Bxc3 21.Bxc3 Be6 22.Rd4 Rfd8
+23.Rad1 Rxd4 24.Rxd4 Rc8 25.Ra4 Rc7 26.Be5 Rd7 27.Bd4 a6
+28.Be3 g5 29.Rxa6 Rd1+ 30.Kf2 Rh1 31.Rxc6 Rxh2+ 32.Ke1 Rh1+
+33.Kd2 Ra1 34.Rc2 f6 35.Bd4 Rb1 36.g4 Bf7 37.Rc8+ Kg7 38.Rc7
+e5 39.Bc3 Kg6 40.Kc2 Rh1 41.Rb7 h5 42.gxh5+ Rxh5 43.a4 Rh2
+44.Kd3 g4 45.fxg4 Be6 46.Rb6 Kf7 47.g5 e4 48.Kxe4 fxg5 49.e3
+g4 50.Be5 Ra2 51.Rb7+ Kg6 52.Rb6 Kf7 53.Rb7+ Kg6 54.Bd6 Rd2
+55.Rb6 Bf5+ 56.Ke5 g3 57.e4 Re2 58.Be7 Kf7 59.Kxf5 Rf2+
+60.Ke5+ g2 61.Bc5 g1=Q 62.Rf6+ Ke8 63.Bxf2 Qg5+ 64.Rf5 Qg7+
+65.Kf4 Qb2 66.Be3 Qxb3 67.a5 Qa2 68.Kf3 Qb1 69.Bb6 Qd3+ 70.Kf4
+Qf1+ 71.Ke5 Qb5+ 72.Kd6 Qd7+ 73.Ke5 Qb5+ 74.Kd4 Qb4+ 75.Kd5
+Qb5+ 1/2-1/2

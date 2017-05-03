@@ -1,0 +1,15 @@
+[Event "03, Manhattan CC"]
+[Site "New York, NY USA"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "John Fedorowicz"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.Be2 O-O 7.O-O
+Bg4 8.a4 Na6 9.Be3 Nc7 10.h3 1/2-1/2

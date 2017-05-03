@@ -1,0 +1,17 @@
+[Event "Sao Paulo (Brazil)"]
+[Site "Zt"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Bernardo Wexler"]
+[Black "Julio Bolbochan"]
+[ECO "D59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bh4 b6
+8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5
+13.dxc5 bxc5 14.Bb5 Rc8 15.O-O Qb7 16.b3 a6 17.Be2 Nd7 18.Qa5
+Qb6 19.Qxb6 Nxb6 1/2-1/2

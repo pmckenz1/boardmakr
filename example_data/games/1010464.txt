@@ -1,0 +1,26 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Sergei Priemov"]
+[Black "Semen Yakovlevich Gershman"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 g6
+7. Bg2 Nxd4 8. Qxd4 Bg7 9. O-O O-O 10. Bg5 h6 11. Bd2 Be6
+12. Kh1 Ng4 13. Qd3 Ne5 14. Qe3 Nc4 15. Qe1 Nxb2 16. Nd5 Rc8
+17. Rc1 Bd7 18. Bc3 Na4 19. Bxg7 Kxg7 20. c4 e6 21. Ne3 Bc6
+22. Qd2 Nc5 23. f3 Qe7 24. Ng4 h5 25. Qh6+ Kg8 26. Nf2 Qf6
+27. Rfd1 Rcd8 28. Rd2 Qg7 29. Qf4 e5 30. Qh4 Ne6 31. Rcd1 Nd4
+32. g4 Qh6 33. Rd3 Ba4 34. R1d2 b5 35. g5 Qg7 36. cxb5 Bxb5
+37. Re3 Rc8 38. Re1 Rc3 39. Nd1 Rc2 40. Qf2 Rxd2 41. Qxd2 f6
+42. Nc3 Bc6 43. f4 fxg5 44. fxg5 Qe7 45. Rf1 Rxf1+ 46. Bxf1
+Nf3 47. Nd5 Qf7 48. Qc1 Bxd5 49. exd5 Nxg5 50. Bg2 Qe7 51. Qe3
+Kg7 52. a4 Nh7 53. a5 Nf6 54. a6 e4 55. Kg1 Qc7 56. h3 h4
+57. Bf1 Qc5 58. Qxc5 dxc5 59. d6 Kf7 60. Bc4+ Ke8 61. Be6 Kd8
+0-1

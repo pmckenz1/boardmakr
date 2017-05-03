@@ -1,0 +1,26 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Vladimir Vukovic"]
+[Black "Paul F Johner"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 d5 6. Qd3 c5
+7. a3 Bxc3+ 8. bxc3 Qa5 9. Bd2 Qa4 10. cxd5 c4 11. Qb1 exd5
+12. Nf3 Ne4 13. Ng5 f5 14. Nxe4 fxe4 15. f3 exf3 16. Bxf3 Qc6
+17. O-O Bf5 18. Qe1 Nd7 19. g4 Bg6 20. Bg5 Rae8 21. Qg3 Nf6
+22. Bxf6 Rxf6 23. Qg2 Be4 24. Rf2 Bxf3 25. Rxf3 Rxf3 26. Qxf3
+Qe6 27. Rf1 Qe3+ 28. Qxe3 Rxe3 29. Rf5 Rxc3 30. Rxd5 Rxa3
+31. Rc5 c3 32. Kf2 b6 33. Rc7 b5 34. d5 b4 35. Rc4 Ra5
+36. Rxb4 Rc5 37. d6 Kf7 38. Re4 c2 39. d7 Rd5 40. Rc4 Rxd7
+41. Rxc2 a5 42. Ke3 a4 43. Ra2 Ra7 44. Ra3 Ke6 45. Kd4 Kd6
+46. h3 g5 47. Kc4 Ke5 48. Kb5 Ra8 49. Kc6 Rc8+ 50. Kb5 Rb8+
+51. Kc4 Ra8 52. Kc5 Ke4 53. Kc6 Rc8+ 54. Kd7 Rc4 55. Ke7 Ke5
+56. Re3+ Re4 57. Ra3 Rb4 58. Re3+ Kd4 59. Ra3 h6 60. Kf8
+1/2-1/2

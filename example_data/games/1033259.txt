@@ -1,0 +1,25 @@
+[Event "9, Las Palmas op (10s)"]
+[Site "9, Las Palmas op Hiarcs 7.32 (10s)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jose Castellano Ojeda"]
+[Black "Fernando Braga"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4
+exd4 7. Nxd4 c5 8. Ne2 Qxd1 9. Rxd1 Bd7 10. Nbc3 O-O-O 11. Bf4
+Ne7 12. Rd2 g6 13. Rad1 Bg7 14. Nd5 Nxd5 15. Rxd5 Be6
+16. Rxd8+ Rxd8 17. Rxd8+ Kxd8 18. b3 Kd7 19. Be3 c4 20. Nf4
+cxb3 21. axb3 Bf7 22. Bd4 Kd6 23. g4 c5 24. Bb2 c4 25. bxc4
+Bxc4 26. Nd3 a5 27. Kf1 b5 28. Ke1 g5 29. Kd2 Ke7 30. Bd4 Kf7
+31. Bc5 Kg6 32. Nb2 Be6 33. f3 h5 34. h3 h4 35. Kd3 Kf7 36. c4
+Bd7 37. cxb5 Bxb5+ 38. Nc4 Bf8 39. Bd4 Bb4 40. Bb2 Bc5 41. Kc3
+Ke6 42. Nxa5 Bf1 43. Nb3 Bf2 44. Nd4+ Ke5 45. Nf5 Kf4 46. Kd2
+Kxf3 47. Bxf6 Kf4 48. e5 Bxh3 49. Ke2 Bxg4+ 50. Kxf2 Bxf5
+51. Kg2 Be6 52. Kh2 Kg4 53. Be7 Kh5 54. Bc5 Kg6 55. Be3 Kf5
+56. Bd2 Kg4 57. Be3 Kh5 58. Bd2 g4 59. Be1 Bd5 60. Bf2 1/2-1/2

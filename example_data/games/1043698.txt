@@ -1,0 +1,17 @@
+[Event "New York, USA"]
+[Site "New York USA"]
+[Date "1931.06.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Reuben Fine"]
+[Black "Arthur William Dake"]
+[ECO "E43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nge2 Bxg2
+7. Rg1 Be4 8. Bxe4 Nxe4 9. Rxg7 Nxf2 10. Qc2 Qh4 11. Kf1 Ng4
+12. Ng3 Qf6+ 13. Kg1 Qxg7 14. Nb5 Na6 15. Qa4 c6 16. Qxa6 cxb5
+17. Qb7 Rd8 0-1

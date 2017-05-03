@@ -1,0 +1,21 @@
+[Event "Merlo jr"]
+[Site "Merlo ARG"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Andres Rodriguez Vila"]
+[Black "Marco Pardo"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2 Bg7 5.h4 c6 6.h5 gxh5 7.Qd3
+Nbd7 8.Bxh5 Qa5 9.Be2 e5 10.Bh6 Rg8 11.Bxg7 Rxg7 12.g3 d5
+13.Kf1 exd4 14.Qxd4 c5 15.Qd3 d4 16.Nd5 Qd8 17.Nf3 b6 18.c3
+dxc3 19.Qxc3 Kf8 20.Rh4 Bb7 21.Rd1 Nxd5 22.exd5 Qf6 23.Rf4
+Qxc3 24.bxc3 Rd8 25.Rf5 f6 26.Bb5 Rf7 27.g4 Kg7 28.Kg2 Nf8
+29.Kg3 Ng6 30.Rh5 Bc8 31.Rdh1 Nf8 32.Bd3 Kg8 33.Nh4 Rg7 34.f3
+Rd6 35.Ng2 Bb7 36.Ne3 Bc8 37.Rh6 Rf7 38.R1h5 a6 39.Nc4 Rd8
+40.Nxb6 Bb7 41.Be4 1-0

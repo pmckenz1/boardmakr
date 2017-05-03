@@ -1,0 +1,22 @@
+[Event "10s, Roma"]
+[Site "10s, Roma Hiarcs 7.32"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Curt Hansen"]
+[ECO "D82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5
+7. Qa4+ Qxa4 8. Nxa4 Ne4 9. f3 Bd7 10. fxe4 Bxa4 11. cxd5 Bxb2
+12. Rb1 Bc3+ 13. Kf2 Nd7 14. Rc1 Nxc5 15. Kf3 Bb4 16. Rc4 a5
+17. a3 Bd1+ 18. Be2 Bxe2+ 19. Nxe2 Nb3 20. Rc2 Bxa3 21. Rb1 a4
+22. Nd4 b6 23. Nxb3 axb3 24. Rxb3 Bc5 25. Bc7 O-O 26. Bxb6 Bd6
+27. Bc7 Ra7 28. Rbc3 Rc8 29. Bxd6 Rxc3 30. Rxc3 exd6 31. Rc6
+Rd7 32. e5 dxe5 33. Ke4 Kg7 34. Kxe5 Ra7 35. e4 Ra2 36. d6
+Ra5+ 37. Kd4 Kf6 38. Rc5 Ra2 39. e5+ Ke6 40. Rc7 Rd2+ 41. Ke3
+Rd5 42. Re7+ Kf5 43. g4+ 1-0

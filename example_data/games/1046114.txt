@@ -1,0 +1,26 @@
+[Event "BL 8990 ;BL"]
+[Site "BL 8990 ;BL"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Soenke Maus"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Be7 8. O-O b5 9. Qf3 Qc7 10. Bg5 O-O 11. e5 dxe5
+12. Bxf6 gxf6 13. Nf5 exf5 14. Qxa8 Bb7 15. Nd5 Qd7 16. Qa7
+Bxd5 17. Qxd7 Nxd7 18. Bxd5 Nb6 19. Bb3 e4 20. Rfd1 Rc8 21. c3
+f4 22. Bd5 f5 23. Bb7 Rb8 24. Bxa6 Nc4 25. a4 Nxb2 26. Rdb1
+bxa4 27. Rxa4 Nxa4 28. Rxb8+ Kg7 29. Rc8 Bf6 30. c4 Be7
+31. Rc6 e3 32. Kf1 Bb4 33. g3 fxg3 34. hxg3 exf2 35. Kxf2 Nc5
+36. Bc8 Nb3 37. Kg2 Nd4 38. Rc7 Kf6 39. Rd7 Ne6 40. Rb7 Be7
+41. Bxe6 fxe6 42. Rc7 Bb4 43. Rxh7 Ke5 44. Rd7 Ke4 45. Kf2
+Bc5+ 46. Ke2 Bb4 47. Rd3 Bc5 48. Rd8 Bd4 49. Re8 Ke5 50. Kd3
+Bf2 51. Rd8 Kf6 52. Rd7 e5 53. Ke2 Ke6 54. Rg7 Bd4 55. Rg6+
+Ke7 56. Rc6 e4 57. Rg6 Be5 58. Ke3 Kf7 59. Rg5 Kf6 60. Rg8 Kf7
+61. Rd8 Bxg3 62. c5 Ke7 1/2-1/2

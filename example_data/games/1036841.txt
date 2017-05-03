@@ -1,0 +1,22 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.12"]
+[EventDate "1904.04.25"]
+[Round "11.6"]
+[Result "1-0"]
+[White "Eugene Delmar"]
+[Black "Albert Whiting Fox"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.f4 d5 2.e3 c5 3.Nf3 Nc6 4.b3 Nf6 5.Bb2 e6 6.Be2 d4 7.Bd3 Nd5
+8.Qe2 Qb6 9.Na3 dxe3 10.dxe3 Qb4+ 11.Kf2 Be7 12.Nc4 O-O 13.a3
+Qb5 14.h4 f5 15.Rag1 Nf6 16.Bxf6 Bxf6 17.g4 Ne7 18.gxf5 Nxf5
+19.h5 Qe8 20.Nce5 b6 21.Be4 Rb8 22.Rd1 Bb7 23.Bxf5 Bxf3
+24.Bxh7+ Kxh7 25.Nxf3 e5 26.fxe5 Bxe5 27.Qd3+ Kh8 28.Qg6 Rf6
+29.Qxe8+ Rxe8 30.Rd7 Ref8 31.Rh3 a5 32.Ke2 Bb2 33.a4 Bc1
+34.Rg3 Bb2 35.e4 Re6 36.Rg4 Ref6 37.Nh4 Rf2+ 38.Kd3 c4+
+39.bxc4 R8f6 40.Rgxg7 R6f3+ 41.Nxf3 Bxg7 42.Ng5 Bf6 43.Nf7+
+Kg7 44.e5 Bh4 45.Nd6+ Kf8 46.h6 Bg5 47.h7 Rh2 48.Rf7# 1-0

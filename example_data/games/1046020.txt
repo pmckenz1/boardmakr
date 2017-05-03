@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.27"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Johann Hjartarson"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4
+7. Bd2 Bf6 8. O-O O-O 9. Rc1 d5 10. cxd5 exd5 11. Bf4 Na6
+12. Qa4 c5 13. Be5 Re8 14. Bxf6 Qxf6 15. e3 Nxc3 16. Rxc3 Qe7
+17. Rfc1 c4 18. Ne5 f6 19. Nf3 Nc7 20. b3 b5 21. Qa5 Qd6
+22. Nd2 b4 23. Rxc4 dxc4 24. Bxb7 Rab8 25. Nxc4 Qd7 26. Ne5
+Rxe5 27. Qxc7 Qxc7 28. Rxc7 Ra5 29. d5 Rxa2 30. d6 Rd8
+31. Bd5+ Kf8 32. Rf7+ Ke8 33. Re7+ 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexey Dreev"]
+[Black "Alexander Khalifman"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 h5 4.Nf3 h4 5.Nxh4 Rxh4 6.gxh4 Qxh4
+7.Bg2 Bc5 8.O-O Nf6 9.Qf3 d6 10.Qg3 Qh7 11.d3 Nd4 12.Be3 Bd7
+13.b4 Bb6 14.Rac1 Nh5 15.Qh4 c6 16.f3 Nf5 17.exf5 Bxe3+ 18.Kh1
+Bxc1 19.Rxc1 Bxf5 20.Re1 Kd7 21.Ne2 Rh8 22.d4 g5 23.Qf2 Nf4
+24.Bf1 Bxc2 25.Nxf4 exf4 26.d5 Ba4 27.b5 c5 28.Qe2 Kc8 29.Qg2
+Bc2 30.Re7 Bf5 31.b6 axb6 32.Qb2 Bd7 33.Kg1 g4 34.Bd3 Qh4
+35.Rxd7 Kxd7 36.Bf5+ Kc7 37.fxg4 Qe1+ 38.Kg2 f3 39.Kxf3 Qf1+
+0-1

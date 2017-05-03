@@ -1,0 +1,20 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.07.17"]
+[EventDate "1905.06.12"]
+[Round "25"]
+[Result "1-0"]
+[White "Paul Saladin Leonhardt"]
+[Black "Amos Burn"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6
+7.Nf3 b6 8.Bb5+ c6 9.Bc4 Nd7 10.Qe2 Bb7 11.O-O-O Qc7 12.Kb1
+O-O-O 13.Rhe1 Kb8 14.Bb3 Rhg8 15.Ng3 f5 16.Nxf5 Bb4 17.c3 Bxc3
+18.bxc3 exf5 19.g3 Nf6 20.Ne5 Rge8 21.Qc2 c5 22.Qxf5 c4 23.Ba4
+b5 24.Qxf6 bxa4 25.Qxf7 Qb6+ 26.Kc2 Ka8 27.Rb1 Qa6 28.a3 Bd5
+29.Qxh7 Qd6 30.Rb4 Re7 31.Qf5 Rb7 32.Rxb7 Kxb7 33.Nf7 Bxf7
+34.Qxf7+ Rd7 35.Qxc4 1-0

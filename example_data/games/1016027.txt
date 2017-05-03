@@ -1,0 +1,16 @@
+[Event "New York (USA)"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Ron W Henley"]
+[ECO "A26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.d3 h5 7.h4 Nd4
+8.Nce2 Ne6 9.Nf3 Ne7 10.Ng5 f6 11.Nxe6 Bxe6 12.Be3 c6 13.O-O
+f5 14.Bg5 Qd7 15.Rc1 1/2-1/2

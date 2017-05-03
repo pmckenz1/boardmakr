@@ -1,0 +1,21 @@
+[Event "07, CAN zt"]
+[Site "07, CAN zt"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Joe Horton"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 bxc6
+7.O-O e5 8.Nd2 Nf6 9.b3 Bc5 10.Bb2 d6 11.h3 O-O 12.Kh1 g5
+13.Nc4 Kh8 14.g4 Be6 15.Qe2 Kg8 16.Rad1 Qc7 17.f3 Nd7 18.Bc3
+f6 19.Ba5 Qa7 20.Nxd6 Kg7 21.Bc4 Bg8 22.Nf5+ Kg6 23.Bxg8 Rxg8
+24.b4 Bf8 25.Qc4 Rh8 26.Qxc6 Nb8 27.Qd5 h5 28.Kg2 hxg4 29.hxg4
+Bg7 30.c4 Bf8 31.c5 Qf7 32.Bb6 Nc6 33.a3 Nd4 34.Rh1 Ne6 35.Kg3
+Be7 36.Nxe7+ Qxe7 37.Qd7 Qxd7 38.Rxd7 Rxh1 39.a4 Rah8 40.c6
+R1h2 0-1

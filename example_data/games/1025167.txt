@@ -1,0 +1,16 @@
+[Event "URS-OT56 Uzhgorod"]
+[Site "URS-OT56 Uzhgorod"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Lasha Janjghava"]
+[ECO "E43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O
+Bxc3 8.bxc3 Be4 9.Qc2 Bxd3 10.Qxd3 d6 11.e4 Nfd7 12.Ba3 Re8
+13.Rad1 Nc6 14.Rfe1 1/2-1/2

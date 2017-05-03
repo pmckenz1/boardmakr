@@ -1,0 +1,27 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.09"]
+[EventDate "1904.04.25"]
+[Round "9.5"]
+[Result "1/2-1/2"]
+[White "Jackson Whipps Showalter"]
+[Black "Albert Whiting Fox"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "148"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nge2 d6 6.h3 h5 7.d3 Nf6
+8.Be3 Qb6 9.Qd2 Nd4 10.Bxd4 cxd4 11.Na4 Qa6 12.b3 Bd7 13.Nb2
+e5 14.a4 Rc8 15.O-O O-O 16.Nc4 Be6 17.f4 Bxc4 18.bxc4 Qc6
+19.f5 Kh7 20.Qg5 Ng8 21.g4 Bh6 22.Qh4 Be3+ 23.Kh1 g5 24.Qg3 h4
+25.Qf3 Nf6 26.Rfb1 Kg7 27.Nc3 Qd7 28.Nd5 Nxd5 29.exd5 f6
+30.Rb3 Rc5 31.Qe2 Rb8 32.a5 Qc7 33.Qe1 Qe7 34.Be4 Qd8 35.Kg2
+Kh6 36.Kf3 Kh7 37.Ke2 Qe8 38.Qb4 Qd7 39.Qa3 Bf4 40.Rab1 Be3
+41.Rb5 Rxb5 42.Rxb5 Rc8 43.Qb4 Rc7 44.Kd1 Qe7 45.Qb3 Kg7 46.c5
+a6 47.cxd6 Qxd6 48.Rb6 Qc5 49.Qc4 Qxc4 50.dxc4 d3 51.cxd3 Rd7
+52.Re6 Bc5 53.Kc2 Kf7 54.Kc3 Bf2 55.Kb4 Be1+ 56.Ka4 Bf2 57.Kb4
+Be1+ 58.Ka4 Bf2 59.d6 Bc5 60.Bd5 Rd8 61.Rxe5+ Kf8 62.Re6 Rxd6
+63.Rxd6 Bxd6 64.Bxb7 Bc5 65.Bxa6 Ke7 66.Kb5 Kd6 67.Bb7 Be3
+68.Bg2 Bc5 69.Bh1 Bd4 70.Kb4 Bc5+ 71.Kc3 Ke5 72.Bg2 Bd4+
+73.Kb4 Kd6 74.Kb5 Be3 1/2-1/2

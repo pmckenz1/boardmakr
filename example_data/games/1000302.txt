@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Joshua E Friedel"]
+[Black "Andrew Karklins"]
+[ECO "B57"]
+[WhiteElo "2152"]
+[BlackElo "2356"]
+[PlyCount "78"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4
+Bd7 7. Bg5 e6 8. Qd2 a6 9. Bb3 h6 10. Be3 Ng4 11. Nxc6 bxc6
+12. Bf4 e5 13. Bg3 Be7 14. O-O-O Bg5 15. f4 exf4 16. Bxf4 Bxf4
+17. Qxf4 Qg5 18. Qxg5 hxg5 19. Rxd6 Ke7 20. Rd2 Ne5 21. Na4 a5
+22. Nc5 Be8 23. h3 g4 24. Nd3 a4 25. Nxe5 axb3 26. a3 gxh3
+27. Rxh3 Rxh3 28. gxh3 Ra4 29. Re2 bxc2 30. Kxc2 f6 31. Nf3
+Bh5 32. Re3 Bxf3 33. Rxf3 Rxe4 34. Kd3 Rh4 35. b4 Ke6 36. Kc3
+f5 37. Kb3 f4 38. a4 Kd5 39. a5 Ke4 0-1

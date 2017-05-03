@@ -1,0 +1,16 @@
+[Event "07, Estes Park ch-USA"]
+[Site "Estes Park, CO USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Boris Markovich Kogan"]
+[Black "Joel Benjamin"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.Nf3 d6 3.g3 Bg4 4.Bg2 c6 5.O-O Nbd7 6.c4 e5 7.Nc3
+Be7 8.h3 Bxf3 9.Bxf3 O-O 10.b3 Re8 11.Bb2 Qc7 12.Bg2 a6 13.Rc1
+Rac8 14.d5 c5 1/2-1/2

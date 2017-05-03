@@ -1,0 +1,19 @@
+[Event "National"]
+[Site "National"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nick DeFirmian"]
+[Black "Richard Wade"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3
+Nbd7 8.a4 Be7 9.Bd3 Qb6 10.a5 Qc7 11.O-O Nc5 12.Kh1 Bg4 13.Qe1
+Rc8 14.fxe5 dxe5 15.Qg3 Bxf3 16.Rxf3 Nxd3 17.cxd3 h5 18.Bg5
+Qd6 19.Raf1 Rc5 20.Bxf6 Bxf6 21.Nd5 Rxd5 22.exd5 Qxd5 23.Rc1
+Qxa5 24.d4 Qd2 25.Rfc3 Qxd4 26.Rc8+ Bd8 27.Qxg7 Rf8 28.Rxd8+
+Kxd8 29.Qxf8+ Kd7 1-0

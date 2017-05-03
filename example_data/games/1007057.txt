@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.07"]
+[EventDate "1923.04.28"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Frederick Dewhirst Yates"]
+[Black "Oscar Chajes"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Bc5 6. c3 b5
+7. Bb3 d6 8. O-O Bg4 9. d3 Qe7 10. Bg5 Nd8 11. h3 h5 12. d4
+exd4 13. cxd4 Bxd4 14. hxg4 hxg4 15. Nxd4 Qe5 16. g3 Qxg5
+17. Nf5 Ne6 18. Bxe6 fxe6 19. Qe3 Qg6 20. Nd2 Kd7 21. Nh4 Qh5
+22. f4 gxf3 23. Ndxf3 Rag8 24. Qg5 Nxe4 25. Qxh5 Rxh5 26. g4
+Rh6 27. Rfe1 Ng5 28. Kg2 Nf7 29. Kg3 g5 30. Ng2 Rgh8 31. Ne3
+c5 32. Rac1 c4 33. b3 d5 34. bxc4 bxc4 35. Nxc4 dxc4 36. Red1+
+Ke7 37. Rxc4 Kf6 38. Rf1 Ne5 39. Ng1+ Ke7 40. Rc7+ Kd8 41. Ra7
+Rh4 42. Ra8+ Kd7 43. Ra7+ Kc6 44. Rxa6+ Kb5 45. Ra3 Rxg4+
+46. Kf2 Rh2+ 47. Ke1 Re4+ 48. Kd1 Nc4 49. Nf3 Rg2 50. Re1 Rf4
+51. Rb3+ Kc5 52. Re2 Rfg4 53. a4 Kd6 54. Ke1 R2g3 55. Rd3+ Ke7
+56. Rh2 Rh4 57. Nxg5 Rg1+ 58. Kf2 Rxh2+ 59. Kxg1 Ra2 60. Rf3
+e5 61. Rf7+ Kd6 62. Ne4+ Ke6 63. Rf6+ Ke7 64. Ra6 Ne3 1/2-1/2

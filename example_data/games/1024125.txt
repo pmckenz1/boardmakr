@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1970.12.20"]
+[EventDate "1970.??.??"]
+[Round "17"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Mark Danilovich Tseitlin"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.a4 Bb7 11.axb5 axb5 12.Rxa8 Bxa8
+13.Na3 Na5 14.Ba2 e4 15.Ne5 Bd6 16.d4 Bxa3 17.bxa3 Qh4 18.Bd2
+Nf6 19.Re3 Qh5 20.Qf1 Nc6 21.f4 Ne7 22.Rh3 Qf5 23.Bb1 Ned5
+24.a4 c6 25.Rh4 Qc8 26.g4 e3 27.Be1 c5 28.g5 cxd4 29.gxf6 Nxf6
+30.Qh3 dxc3 31.Nd7 c2 32.Bxc2 Qxc2 33.Nxf6+ gxf6 34.Rg4+ Qg6
+35.f5 Qg5 36.Rxg5+ fxg5 37.Qxe3 h6 38.axb5 Bd5 39.Qe5 1-0

@@ -1,0 +1,24 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Joerg Schwalfenberg"]
+[Black "Jakob Heissler"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. d5 d6 6. g3 e5
+7. Bg2 a5 8. O-O Na6 9. e4 c6 10. dxc6 bxc6 11. b3 Qe7 12. Ba3
+Nb4 13. Ne1 Rd8 14. Nc2 Rb8 15. Qd2 Be6 16. Rfd1 Bh6 17. Qe2
+Qa7 18. h3 Bf8 19. Bc1 Nd7 20. Nd5 Bxd5 21. Nxb4 Rxb4 22. exd5
+c5 23. Be4 Bg7 24. Bd2 Rbb8 25. Bc3 Re8 26. g4 Qb6 27. Qd2 Ra8
+28. Re1 Qd8 29. Re2 Bf6 30. Rae1 Bg5 31. Qd3 Bf4 32. Qf3 Qg5
+33. Kh1 Nf6 34. Bc2 Kg7 35. a3 Rh8 36. Rg1 Rhb8 37. Be1 Nd7
+38. a4 Nf6 39. Qg2 Ne8 40. f3 Qd8 41. h4 h6 42. Qf2 g5 43. Bc3
+gxh4 44. Re4 Kf8 45. Rxf4 exf4 46. Qh2 Rb7 47. Be1 Qf6
+48. Bxh4 Qc3 49. Be4 Rxb3 50. g5 h5 51. g6 Qe5 52. gxf7 Ng7
+53. Bg5 Rb2 54. Qh4 Ra7 55. Bf6 Nf5 56. Bxe5 1-0

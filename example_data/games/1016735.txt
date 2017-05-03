@@ -1,0 +1,20 @@
+[Event "Zalaegerszeg"]
+[Site "Zalaegerszeg"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Friso Nijboer"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nbd7 7.Nc3
+e5 8.h3 a6 9.dxe5 dxe5 10.Be3 c6 11.Qb3 Qe7 12.Rfd1 h6 13.Rac1
+Kh7 14.Kh2 Ne8 15.Na4 f5 16.Nb6 Nxb6 17.Qxb6 Rg8 18.b3 a5
+19.a4 Bf6 20.Ne1 Qe6 21.Nd3 Ra6 22.Qc5 g5 23.Qa3 e4 24.Nc5 Qe7
+25.b4 axb4 26.Qxb4 Ra8 27.Rb1 Rg7 28.Qd2 Be5 29.Bd4 Nf6
+30.Bxe5 Qxe5 31.Qd6 Re7 32.Nxb7 Rxa4 33.Qxc6 Bxb7 34.Qxa4 f4
+1-0

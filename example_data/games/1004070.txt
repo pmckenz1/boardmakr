@@ -1,0 +1,30 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.27"]
+[EventDate "1928.09.21"]
+[Round "6"]
+[Result "0-1"]
+[White "Lajos Merenyi"]
+[Black "Hans Kmoch"]
+[ECO "B29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "160"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7
+6. Bxd7+ Qxd7 7. O-O Nxc3 8. bxc3 Nc6 9. Re1 e6 10. d3 Be7
+11. Rb1 O-O 12. Qe2 Bf6 13. Bd2 b6 14. Qe4 Rac8 15. Re2 c4
+16. d4 Ne7 17. Bg5 Qd5 18. Qg4 Qf5 19. Qxf5 Nxf5 20. Bd2 Ne7
+21. g3 Rfd8 22. Rb5 Nd5 23. Ne1 a6 24. Rb1 b5 25. a3 Be7
+26. Ra1 Nb6 27. Ng2 Rd7 28. Ne3 Na4 29. f4 g6 30. Ng4 h5
+31. Ne3 Kg7 32. Kg2 Bd8 33. Kf3 Ba5 34. Nd1 Rd5 35. h3 Rh8
+36. Rc1 Kf6 37. Ra1 Ke7 38. Rc1 Kd8 39. Rb1 Kc7 40. Be1 Kc6
+41. Bd2 Rd7 42. Be1 Bc7 43. Ne3 Bd6 44. Ra1 Nb6 45. Bd2 a5
+46. Ree1 Ra7 47. Reb1 Rha8 48. Be1 Na4 49. Bd2 Rb7 50. g4
+hxg4+ 51. Nxg4 Rh8 52. Rh1 Nb6 53. Nf6 Nd5 54. Ne4 Rbb8
+55. Ng5 Rh4 56. Rhf1 Bxf4 57. Bxf4 Rxf4+ 58. Kg3 Rxf1 59. Rxf1
+Nxc3 60. Rxf7 Ne2+ 61. Kf2 Nxd4 62. c3 Nc2 63. Nxe6 Nxa3
+64. Nd4+ Kd5 65. Rd7+ Ke4 66. Nc6 Rf8+ 67. Ke2 Nb1 68. Rd4+
+Kf5 69. Ne7+ Kf6 70. Nd5+ Ke5 71. Rd1 Rd8 72. Rxb1 Rxd5
+73. Rg1 Kf5 74. h4 Kf6 75. Rf1+ Kg7 76. Ra1 b4 77. cxb4 axb4
+78. Ra4 Rb5 79. Ra7+ Kh6 80. Ra8 b3 0-1

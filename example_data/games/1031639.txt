@@ -1,0 +1,20 @@
+[Event "Leningrad 1st cat"]
+[Site "Leningrad 1st cat"]
+[Date "1925.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "J Zverev"]
+[ECO "D92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d5 5.Bf4 c6 6.e3 Ne4 7.cxd5
+Nxc3 8.bxc3 Qxd5 9.Bd3 Bf5 10.O-O Bxd3 11.Qxd3 Qf5 12.Qc4 O-O
+13.Rab1 b5 14.Qe2 Nd7 15.Bg3 e5 16.e4 Qh5 17.d5 cxd5 18.Rxb5
+dxe4 19.Qxe4 Rae8 20.Qc6 Nb8 21.Qb7 a6 22.Rc5 Bf6 23.Nxe5 Re7
+24.Qd5 Bxe5 25.Bxe5 Rfe8 26.f4 Rd7 27.Qc4 Rd2 28.Rc7 Rf8
+29.Bd4 Qg4 30.Qd5 Qe2 31.f5 Rd1 32.Qf3 Qxf3 33.gxf3 Rd2
+34.fxg6 hxg6 35.Rf2 Rd1+ 36.Rf1 Rd2 37.Rf2 Rd1+ 38.Kg2 1-0

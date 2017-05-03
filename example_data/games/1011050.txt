@@ -1,0 +1,19 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Stig Tjomsland"]
+[Black "Flemming Christenson"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. dxe5 d4 5. Ne4 Qa5+ 6. Bd2 Qxe5
+7. Ng3 Nf6 8. Nf3 Qd6 9. Qc2 Be7 10. O-O-O O-O 11. e3 dxe3
+12. fxe3 Qc7 13. Bc3 c5 14. Nf5 Nc6 15. a3 Bxf5 16. Qxf5 g6
+17. Qf4 Qxf4 18. exf4 Ne4 19. Rd7 Bd6 20. g3 Nxc3 21. bxc3
+Rad8 22. Rxd8 Rxd8 23. Bg2 Na5 24. Nd2 Re8 25. Ne4 Re6
+26. Nxd6 Rxd6 27. Rd1 Rxd1+ 28. Kxd1 Kf8 1/2-1/2

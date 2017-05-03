@@ -1,0 +1,24 @@
+[Event "London ;HCL 34"]
+[Site "sf"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Edward Lowe"]
+[Black "George Webb Medley"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.f4 d5 2.Nf3 c5 3.e3 e6 4.Bb5+ Nc6 5.O-O Bd6 6.d3 Ne7 7.e4
+O-O 8.Nc3 a6 9.Bxc6 bxc6 10.Ne2 f6 11.Nh4 Ng6 12.Nxg6 hxg6
+13.Ng3 f5 14.e5 Bc7 15.c3 Kf7 16.Ne2 Rh8 17.Rf3 Bd7 18.Be3 Bb6
+19.Qe1 Rb8 20.Qf2 c4 21.d4 Ba7 22.Ng3 Qh4 23.h3 Rb7 24.Rd1
+Rhb8 25.Rd2 a5 26.a3 a4 27.Re2 Rb3 28.Bc1 R3b5 29.Kh2 c5
+30.Nxf5 Qxf2 31.Nd6+ Kg8 32.Rfxf2 Rb3 33.Be3 cxd4 34.Bxd4 Bxd4
+35.cxd4 c3 36.bxc3 Rxc3 37.Rb2 Rbb3 38.Rfc2 Kf8 39.Rxc3 Rxc3
+40.Rb7 Ke7 41.Nb5 Rb3 42.Nd6 Rxb7 43.Nxb7 Bc6 44.Nc5 Kd8
+45.Nxe6+ Kc8 46.Nxg7 Kb7 47.Ne6 Kb6 48.Kg3 Kb5 49.Kf3 Kc4
+50.g4 Kb3 51.Nd8 Be8 52.Nb7 Kxa3 53.Nc5 Kb4 54.Nxa4 Bxa4 55.f5
+gxf5 56.gxf5 Bc2 57.Kf4 Kc4 58.e6 Kxd4 59.f6 1-0

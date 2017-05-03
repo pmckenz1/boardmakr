@@ -1,0 +1,18 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Jaroslav Ulko"]
+[Black "Alexander Cherniaev"]
+[ECO "E44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 c5 6. a3 Ba5
+7. Rb1 Qe7 8. Bd2 Na6 9. Ng3 Bb7 10. f3 O-O 11. Bd3 d5 12. Qe2
+Nb8 13. cxd5 Bxc3 14. bxc3 exd5 15. e4 cxd4 16. cxd4 Nc6
+17. e5 Ne8 18. Nf5 Qe6 19. O-O g6 20. Nh6+ Kh8 21. Bb4 Nxb4
+22. axb4 f5 23. exf6 Qxe2 1/2-1/2

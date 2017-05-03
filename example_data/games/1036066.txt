@@ -1,0 +1,25 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.03.12"]
+[EventDate "1909.02.15"]
+[Round "19"]
+[Result "1/2-1/2"]
+[White "Amos Burn"]
+[Black "Fyodor Ivanovich Dus Chotimirsky"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 Nf6 5.d3 fxe4 6.dxe4 d6 7.Bg5
+Be7 8.Qe2 O-O 9.Qc4+ Kh8 10.Bxc6 bxc6 11.Qxc6 Rb8 12.O-O-O Bd7
+13.Qc4 Qc8 14.Kb1 a5 15.Bc1 Be6 16.Qe2 c6 17.h3 Nd7 18.Ka1 Qb7
+19.Na4 Nb6 20.Nxb6 Qxb6 21.Qe3 Qa6 22.Rhe1 Rb4 23.Nd2 Rfb8
+24.Nb1 Qb5 25.b3 d5 26.exd5 cxd5 27.Bb2 Bf6 28.Qd3 Qxd3
+29.Rxd3 Re8 30.Rde3 d4 31.R3e2 Rc8 32.Nd2 a4 33.Ne4 axb3
+34.axb3 d3 35.cxd3 Be7 36.Nd2 Ra8+ 37.Kb1 Bf5 38.Rxe5 Bxd3+
+39.Kc1 Rc8+ 40.Nc4 Bxc4 41.bxc4 Rcxc4+ 42.Kb1 Bf8 43.Re8 Rf4
+44.f3 Rb6 45.R1e6 Rxe6 46.Rxe6 Kg8 47.Kc2 Rf7 48.Rc6 Rd7
+49.Bc3 Kf7 50.Be5 Be7 51.Rc7 Rxc7+ 52.Bxc7 Ke6 53.Kd3 Kd5
+54.Ke3 g6 55.f4 h5 56.g4 hxg4 57.hxg4 Ke6 58.Ke4 Ba3 59.Be5
+Bc1 60.Bb8 Bb2 61.Be5 Bc1 62.f5+ gxf5 63.gxf5+ Kf7 1/2-1/2

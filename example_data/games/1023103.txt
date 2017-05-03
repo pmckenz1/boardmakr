@@ -1,0 +1,18 @@
+[Event "03, Baku"]
+[Site "03, Baku"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.b4 Be6 7.c5 Bg4
+8.Bb2 Nbd7 9.Be2 c6 10.O-O Qc7 11.Qc2 Rfe8 12.Rad1 Bxf3
+13.gxf3 e5 14.dxe5 Nxe5 15.Kg2 Re7 16.Na4 Rae8 17.Bd4 Ned7
+18.f4 Ne4 19.Bxg7 Kxg7 20.Qb2+ Kg8 21.Nc3 Nxc3 22.Qxc3 Re6
+23.Bg4 Re4 24.Bf3 R4e6 25.Bg4 Re4 26.Bf3 R4e6 1/2-1/2

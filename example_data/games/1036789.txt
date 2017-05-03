@@ -1,0 +1,18 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.04.28"]
+[EventDate "1904.04.25"]
+[Round "3.2"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Albert Whiting Fox"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d3 g6 6.Be3 Qa5 7.Ne2
+Bg7 8.O-O Nf6 9.h3 Bd7 10.Nc1 c4 11.dxc4 O-O-O 12.Nd3 h5 13.a4
+Ng4 14.hxg4 hxg4 15.c5 Qc7 16.Bf4 e5 17.Be3 Be6 18.Re1 Qe7
+19.g3 Qf6 20.Nb1 Qf3 21.Qxf3 gxf3 22.Nd2 Bg4 23.Red1 Rh3
+24.Ne1 Rdh8 25.Nexf3 f5 26.Kg2 Bxf3+ 27.Nxf3 fxe4 28.Nh4 1-0

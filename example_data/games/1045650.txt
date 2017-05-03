@@ -1,0 +1,22 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Axel Otto Ornstein"]
+[Black "Lubomir Ftacnik"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7
+7. d4 cxd4 8. Qxd4 d6 9. Rd1 a6 10. Ng5 Bxg2 11. Kxg2 Nc6
+12. Qf4 O-O 13. b3 Ra7 14. Bb2 Rd7 15. Nce4 Ne8 16. Rac1 h6
+17. Nf3 Qb8 18. Kg1 Qb7 19. Qd2 d5 20. cxd5 Rxd5 21. Qc3 Nb4
+22. Rxd5 Qxd5 23. Qd4 Nxa2 24. Rc8 f6 25. Ned2 Qb5 26. Nc4 Bc5
+27. Qd1 a5 28. Nh4 Nd6 29. Rxf8+ Kxf8 30. Ng6+ Kf7 31. Qxd6
+Kxg6 32. Qxe6 Kh7 33. Nd2 a4 34. Bxf6 gxf6 35. bxa4 Qb2
+36. Ne4 Kg7 37. Qd7+ Kf8 38. Qd8+ Kf7 39. Qd7+ Kf8 40. Qd8+
+Kf7 1/2-1/2

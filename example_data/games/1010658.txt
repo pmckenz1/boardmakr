@@ -1,0 +1,23 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Konstantin Maliszewski"]
+[Black "Feodosi J Docenko"]
+[ECO "B95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. Qd2 Nbd7 8. O-O-O Qc7 9. f3 b5 10. Bxb5 axb5 11. Ndxb5 Qb8
+12. Nxd6+ Bxd6 13. Qxd6 Qxd6 14. Rxd6 h6 15. Be3 Ke7 16. Rhd1
+Ra6 17. e5 Ne8 18. R6d2 f6 19. exf6+ Nexf6 20. a4 Bb7 21. b3
+Rc8 22. Kb2 Bc6 23. Bd4 Rb8 24. Ka3 g5 25. Re1 Kf7 26. Rde2
+Re8 27. Ne4 Nd5 28. c4 Nf4 29. Rd2 Raa8 30. Nc3 Reb8 31. b4
+Nb6 32. Bxb6 Rxb6 33. b5 Be8 34. Kb4 Rbb8 35. g3 Ng6 36. Rd6
+Nf8 37. c5 Nd7 38. Rdxe6 Nf6 39. Re7+ Kg6 40. R1e6 Bf7 41. Rd6
+Rd8 42. b6 Rxd6 43. cxd6 Bd5 44. Ne4 Bc6 45. Re6 Rxa4+ 46. Kc5
+Bxe4 47. fxe4 Rxe4 48. Rxe4 Nxe4+ 49. Kc6 1-0

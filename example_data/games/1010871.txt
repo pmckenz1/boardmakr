@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Rushan Bogaudinov"]
+[Black "Alexander Gelman"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5
+7. h3 Nc6 8. Be3 Bd7 9. O-O exd4 10. Nxd4 Re8 11. Qd2 Nxd4
+12. Bxd4 c5 13. Be3 Bc6 14. Rad1 Nxe4 15. Nxe4 Bxe4 16. Bxe4
+Rxe4 17. Qxd6 Qxd6 18. Rxd6 Bxb2 19. Bxc5 Ra4 20. Rfd1 Rxa2
+21. Rd8+ Rxd8 22. Rxd8+ Kg7 23. Bf8+ Kf6 24. Rd6+ Ke5 25. Rd7
+b5 26. Rxf7 a5 27. Rxh7 b4 28. Rc7 Ke6 29. Re7+ Kd5 30. Re2
+Bc3 31. Kf1 a4 32. Kg2 b3 0-1

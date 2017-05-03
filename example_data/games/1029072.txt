@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1884.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Sutton"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 {Notes by Blackburne.} e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 f5
+{Although a favorite defence of mine I do not recommend it to
+the young amateur.} 5.Nc3 {Qe2 is stronger.} Nf6 6.d3 g5 7.Nf3
+Qh5 8.h4 h6 9.Kg1 g4 10.Ne5 Rh7 11.Ne2 {An attack on the Queen
+persistently followed up in White,s succeeding play.} fxe4
+12.Bxf4 Qf5 13.Qc1 d5 14.Bb3 Nbd7 15.Ng3 Bc5+ 16.Kh2 Nxe5
+17.Nxf5 {Now White has attained his object, but the fruit is
+of the Dead Sea.} g3 18.Bxg3 {Any other move is equally
+fatal.} Neg4+ 19.Kh3 Ne3 20.Bf4 Bxf5+ 21.Kh2 Neg4+ 22.Kh3 Nf2+
+23.Kh2 N6g4+ 24.Kg1 Nxd3 25.Kf1 Nxc1 26.Rxc1 O-O-O 0-1

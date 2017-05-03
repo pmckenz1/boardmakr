@@ -1,0 +1,21 @@
+[Event "New York MCC 43"]
+[Site "06"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Leonid M Sokolin"]
+[Black "Jay R Bonin"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Nbd7 5.g3 dxc4 6.Bg2 c5 7.O-O
+cxd4 8.Qxd4 a6 9.Rd1 Bc5 10.Qxc4 Qc7 11.Qd3 O-O 12.a3 Ba7
+13.Be3 Nc5 14.Qc2 Nce4 15.Bxa7 Rxa7 16.Rac1 Nxf2 17.Kxf2 Ng4+
+18.Kg1 Qb6+ 19.Rd4 Bd7 20.e3 e5 21.Rxd7 Qxe3+ 22.Kf1 e4
+23.Nxe4 f5 24.Qc3 Nxh2+ 25.Nxh2 fxe4 26.Nf3 Qh6 27.Qc4+ Kh8
+28.Rf7 Raa8 29.Ne5 Qg5 30.Qc5 Kg8 31.Rc2 Rfe8 32.Qc4 Kh8
+33.Nd7 e3 34.Bf3 Qg6 35.Kg2 b5 36.Qe2 Rad8 37.Bh5 Qe4+ 38.Kh2
+Re7 39.Rxe7 Qxe7 40.Bg4 1-0

@@ -1,0 +1,22 @@
+[Event "Benasque/SW,35,14"]
+[Site "Benasque/SW,35,14"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Antonio Hernando Garcia"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.c4 c5 3.d5 a6 4.Qc2 d6 5.e4 e5 6.Nc3 Be7 7.g3 O-O
+8.Bg2 Ne8 9.Nge2 g6 10.O-O Ng7 11.a3 Bd7 12.b4 cxb4 13.axb4
+Qc7 14.Nb1 b5 15.Na3 Rc8 16.Bd2 bxc4 17.Rfc1 Ra7 18.Qxc4 Qxc4
+19.Nxc4 Bb5 20.Na3 Rxc1+ 21.Nxc1 Bd7 22.Ne2 Rc7 23.f3 f6
+24.Bf1 Ne8 25.Nc3 Rb7 26.Nc2 Nc7 27.Kf2 Bd8 28.f4 Nb5 29.Nxb5
+Bxb5 30.Bxb5 Rxb5 31.Na3 Rb7 32.Nc4 Bc7 33.Ke2 Kf7 34.Kd3 Ke7
+35.Kc3 Rb5 36.fxe5 dxe5 37.Be3 Rb7 38.Bc5+ Kd7 39.g4 Bd8 40.g5
+fxg5 41.Nxe5+ Kc8 42.Nc4 Rc7 43.Kd4 g4 44.e5 h5 45.Rf1 h4
+46.Nd6+ 1-0

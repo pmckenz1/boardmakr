@@ -1,0 +1,30 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.19"]
+[EventDate "?"]
+[Round "21"]
+[Result "1-0"]
+[White "Nicholas MacLeod"]
+[Black "John Washington Baird"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "177"]
+
+1.e4 e5 2.d3 Bc5 3.Nf3 d6 4.Be2 Nf6 5.Nc3 h6 6.a3 O-O 7.h3 Nc6
+8.Nh2 Nh7 9.Be3 Bxe3 10.fxe3 Qh4+ 11.Kd2 f5 12.Qe1 Qd8 13.Rf1
+fxe4 14.Rxf8+ Qxf8 15.Nxe4 d5 16.Ng3 Qc5 17.Rd1 b5 18.b4 Qb6
+19.Bf3 Be6 20.Ke2 a5 21.Kf1 Ne7 22.Qc3 Qd6 23.Bg4 axb4 24.axb4
+c6 25.Bxe6+ Qxe6 26.Ng4 Ng6 27.e4 Nf6 28.exd5 cxd5 29.Nxf6+
+Qxf6+ 30.Kg1 Nf4 31.Qc5 Qg5 32.Kh2 h5 33.Rg1 h4 34.Ne2 Rb8
+35.Nxf4 Qxf4+ 36.Kh1 Qf7 37.Re1 Qe6 38.Qc7 Re8 39.Qb7 Rc8
+40.Qxb5 Rxc2 41.Qb8+ Rc8 42.Qxe5 Qxe5 43.Rxe5 Rc1+ 44.Kh2 Rb1
+45.Rxd5 Rxb4 46.d4 Kf7 47.Kg1 Ke6 48.Re5+ Kd6 49.Re4 g5 50.Rg4
+Rb5 51.Kf2 Rf5+ 52.Ke3 Kd5 53.Kd3 Kd6 54.Kc4 Kc6 55.Re4 Kd6
+56.Re2 Ra5 57.Kd3 Rf5 58.Ke3 Rf8 59.Ra2 Rf5 60.Rf2 Ra5 61.Ke4
+Ke6 62.Rc2 Ra3 63.Rd2 Ra4 64.Rf2 Rb4 65.Rd2 Ra4 66.Rc2 Ra3
+67.d5 Kd6 68.Kf5 Kxd5 69.Kxg5 Ra4 70.Rf2 Re4 71.Rf4 Re2 72.Rg4
+Ke6 73.Kxh4 Kf6 74.Kh5 Re8 75.Rg6+ Kf7 76.h4 Rh8+ 77.Rh6 Ra8
+78.g4 Kg7 79.g5 Ra4 80.Rb6 Ra7 81.Rb4 Ra8 82.Rb7+ Kh8 83.Kh6
+Ra6+ 84.g6 Ra8 85.h5 Rc8 86.Rb5 Ra8 87.Kg5 Rc8 88.h6 Ra8 89.h7
+1-0

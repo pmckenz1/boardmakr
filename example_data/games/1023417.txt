@@ -1,0 +1,21 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Viktor Kupreichik"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.Nf3 dxc4 5.e3 b5 6.a4 c6 7.Bd2 Nf6
+8.axb5 Bxc3 9.Bxc3 cxb5 10.b3 O-O 11.bxc4 bxc4 12.Bxc4 Qc7
+13.Qd3 a5 14.O-O Bb7 15.Rfc1 Nc6 16.Bb5 Nb4 17.Qe2 Rfc8 18.h3
+Qb6 19.Ne5 Ne4 20.Bb2 Rxc1+ 21.Rxc1 Na2 22.Rc2 Nb4 23.Rc1 a4
+24.Ra1 Nd5 25.Rxa4 Rxa4 26.Bxa4 Qb4 27.Be8 f6 28.Nd3 Qa5
+29.Qh5 Qc7 30.Nc5 Nxc5 31.dxc5 g6 32.Qg4 Bc8 33.Qd4 Qa5 34.e4
+Nc7 35.Bc6 e5 36.Qd8+ Kg7 37.Qxc8 h5 38.Qd7+ Kh6 39.Bc1+ g5
+40.Be3 1-0

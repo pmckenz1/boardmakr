@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eugenio Torre"]
+[Black "Tom Wedberg"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O a6 6.Bb3 d6 7.c3
+Ba7 8.Nbd2 O-O 9.Re1 Ng4 10.Re2 Kh8 11.h3 Nh6 12.Nf1 f5
+13.Bxh6 gxh6 14.exf5 Bxf5 15.Bd5 Ne7 16.Be4 Ng6 17.Bxf5 Rxf5
+18.Re4 Nf4 19.Ng3 Qg8 20.d4 Raf8 21.Kh2 R5f6 22.Ne1 Ng6 23.f3
+d5 24.Rg4 exd4 25.cxd4 Rf4 26.Nc2 c6 27.Ne2 Rxg4 28.hxg4 h5
+29.Ne3 Bb8+ 30.Kh1 Nh4 31.Qd2 Qg5 32.Nf1 Qxd2 33.Nxd2 hxg4
+34.Rf1 gxf3 35.Nxf3 Nxf3 36.Ng1 Kg7 37.Nxf3 Bg3 38.Rd1 Re8
+39.Rd2 Kf6 40.Kg1 Kf5 41.Kf1 Re3 42.Rd1 a5 43.Ng1 a4 44.Ne2
+Bh4 45.a3 Rb3 46.Rd2 Bg5 47.Rc2 Rd3 48.Rc5 Rd1+ 49.Kf2 Rd2
+50.Ra5 Rxb2 51.Rxa4 Ke4 52.Kf1 Kd3 0-1

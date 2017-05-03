@@ -1,0 +1,17 @@
+[Event "Santiago Copiapo"]
+[Site "Santiago Copiapo"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Cristobal Valiente"]
+[Black "Andres Rodriguez Vila"]
+[ECO "A83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 Nc6 5.d5 Ne5 6.Qd4 Nf7
+7.Bxf6 exf6 8.Nxe4 f5 9.Ng3 g6 10.Nf3 Be7 11.Bc4 O-O 12.O-O-O
+Bf6 13.Qd3 b5 14.Bxb5 Rb8 15.c3 Qe7 16.Bc4 Qc5 17.Rd2 Nd6
+18.Bb3 Rb6 19.Qe3 Qa5 20.Ne5 Bxe5 21.Qxe5 f4 22.Nh5 1/2-1/2

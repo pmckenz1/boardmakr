@@ -1,0 +1,28 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.10"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Abdo Somev"]
+[Black "Antoine Al Halabi"]
+[ECO "C00"]
+[WhiteElo "2140"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1. e4 e6 2. d4 b6 3. Bd3 Bb7 4. Be3 c5 5. c3 d5 6. e5 f5 7. g4
+g6 8. gxf5 exf5 9. h4 c4 10. Bc2 Ne7 11. h5 Rg8 12. Nh3 Nec6
+13. Ng5 Qe7 14. hxg6 hxg6 15. Rh7 Rg7 16. Rh8 Na6 17. Na3 Nc7
+18. Qd2 O-O-O 19. O-O-O Re8 20. Rdh1 Qd7 21. Nb1 Be7 22. f3
+Nd8 23. Qh2 Nde6 24. Qh6 b5 25. Rxe8+ Qxe8 26. Nxe6 Nxe6
+27. Bxf5 Bf8 28. Bg4 Kc7 29. Qh8 Bc8 30. Na3 a6 31. Nc2 a5
+32. Rh7 Qf7 33. Rxg7 Qxg7 34. Qxg7+ Nxg7 35. Bxc8 Kxc8 36. Bh6
+Ne6 37. Bxf8 Nxf8 38. Ne3 Ne6 39. Nxd5 Kd7 40. Kd2 g5 41. Ke3
+Kc6 42. Ne7+ Kd7 43. Ng6 b4 44. Ke4 Nc7 45. d5 Nb5 46. Nf8+
+Ke8 47. Ne6 bxc3 48. bxc3 Nxc3+ 49. Kd4 Nxa2 50. Kxc4 a4
+51. Nxg5 Nc1 52. Kb4 Nd3+ 53. Kxa4 Nxe5 54. Kb5 Kd7 55. Kc5
+Nd3+ 56. Kd4 Nf4 57. Ke4 Ne6 58. f4 Kd6 59. Nf7+ Ke7 60. Ne5
+Nf8 61. f5 Nh7 62. Nc4 Nf6+ 63. Kd4 Ne8 64. Ke5 Nf6 65. d6+
+Kf7 66. Nb6 Ng4+ 67. Kf4 Nf6 68. Nc4 Nd7 69. Ne5+ Ke8 70. Nxd7
+Kxd7 71. Ke5 Ke8 72. Ke6 Kd8 73. d7 1-0

@@ -1,0 +1,23 @@
+[Event "Ch Hungary"]
+[Site "Budapest (Hungary)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Ivan Farago"]
+[Black "Andras Adorjan"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Qd2 a6
+13.a4 Bd7 14.Qa2 Be8 15.Qa3 b5 16.Ba2 b4 17.cxb4 cxd4 18.Bd2
+Qd6 19.Rc5 a5 20.Bd5 axb4 21.Qc1 Ra6 22.Bf4 e5 23.Bg5 Rb8
+24.Bc4 Ra5 25.Bb5 Na7 26.Nxd4 Qxd4 27.Be3 Nxb5 28.Bxd4 Nxd4
+29.Qc4 Rxa4 30.Rc8 Raa8 31.Rxb8 Rxb8 32.Qc7 Ra8 33.Qb7 Bc6
+34.Qxb4 Bxe4 35.Qc4 h5 36.f4 Bf5 37.fxe5 Bxe5 38.Qd5 Re8
+39.Re1 Nc6 40.Kh1 Re6 41.Qd7 Kg7 42.Qd5 Nb4 43.Qf3 Nc2 44.Rf1
+Bf6 45.h3 Be4 46.Qf4 Ne3 47.Rf2 Bc6 48.Qc7 Nxg2 49.Rxg2 Re1+
+50.Kh2 Be5+ 0-1

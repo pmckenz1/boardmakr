@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nona Gaprindashvili"]
+[Black "Gennadi Timoshchenko"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6
+7.Bg5 a6 8.Na3 b5 9.Nd5 Qa5+ 10.Bd2 Qd8 11.Bg5 Be7 12.Bxf6
+Bxf6 13.c3 O-O 14.Nc2 Bg5 15.Nce3 Bb7 16.Be2 Bxe3 17.Nxe3 Ne7
+18.Bf3 d5 19.exd5 Qd6 20.g4 Rad8 21.Qd3 Rd7 22.O-O-O Rfd8
+23.Nf5 Qf6 24.Nxe7+ Qxe7 25.Rhe1 Bxd5 26.Bxd5 Rxd5 27.Qxd5
+Rxd5 28.Rxd5 Qg5+ 29.Re3 h5 30.Rxe5 Qxg4 31.Kc2 Qf4 32.h3
+Qxf2+ 33.Kb3 h4 34.Rd3 Qf4 35.Re8+ Kh7 36.Rd4 Qg3 37.Ree4 g5
+38.Re7 Kg6 39.Ra7 Qxh3 40.Rxa6+ f6 0-1

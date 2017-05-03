@@ -1,0 +1,17 @@
+[Event "SUI-LTU (03, Luzern WchT"]
+[Site "SUI-LTU (03, Luzern WchT"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jean-Luc Costa"]
+[Black "Vladimir Bagirov"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 d5 2.c4 c6 3.Nf3 e6 4.e3 f5 5.g3 Bd6 6.Bg2 Nf6 7.O-O O-O
+8.b3 b6 9.Qc2 Qe7 10.Bb2 Bb7 11.Nc3 Nbd7 12.Rfd1 Ne4 13.Nd2
+Rac8 14.Rac1 Ndf6 15.f3 Nxc3 16.Qxc3 c5 17.Qd3 Rcd8 18.cxd5
+exd5 19.Re1 g6 20.f4 h6 21.dxc5 Bxc5 22.Nf3 Kh7 1/2-1/2

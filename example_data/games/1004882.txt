@@ -1,0 +1,26 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Teodor Regedzinski"]
+[Black "Franciszek Sulik"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 Be7
+7. O-O O-O 8. b3 b6 9. Bb2 Bb7 10. Qe2 c5 11. Ne5 dxc4
+12. bxc4 Bd6 13. f4 a6 14. Kh1 Qc7 15. Qf2 Rfd8 16. a4 Nf8
+17. a5 bxa5 18. Qc2 Rab8 19. Na4 Qe7 20. Nxc5 Bxc5 21. dxc5
+Qxc5 22. Bd4 Qc7 23. Qa4 Ne4 24. Qxa5 Qxa5 25. Rxa5 f6 26. Nf3
+Rbc8 27. Kg1 Nd7 28. Rb1 Ba8 29. Rb4 Nec5 30. Be2 Kf7 31. Nd2
+Rc7 32. Nb3 Nxb3 33. Rxb3 Rb8 34. Rba3 Rb1+ 35. Kf2 Bb7 36. h4
+Rc1 37. Ra2 Rh1 38. Kg3 Nf8 39. c5 Rc1 40. Bxa6 Bd5 41. R2a3
+Nd7 42. Bd3 Nxc5 43. Bxc5 R1xc5 44. Rxc5 Rxc5 45. Bxh7 f5
+46. Ra7+ Kf8 47. Bg6 Rc2 48. Rf7+ Kg8 49. h5 Rxg2+ 50. Kh3 Rb2
+51. Rd7 Rb8 52. Bxf5 Bg2+ 53. Kxg2 exf5 54. Rd5 Rf8 55. Kg3
+Kh7 56. Kh4 Kh6 57. Rd6+ Rf6 58. Rd8 g6 59. Rh8+ Kg7 60. Kg5
+gxh5 61. Rxh5 Rf7 62. Rh1 Re7 63. Re1 Rf7 64. Ra1 1-0

@@ -1,0 +1,19 @@
+[Event "Leningrad tt"]
+[Site "Leningrad tt"]
+[Date "1925.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "N Liutov"]
+[Black "Mikhail Botvinnik"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bc4 Nf6 5.d3 Bc5 6.Be3 Bxe3
+7.fxe3 d5 8.exd5 Nxd5 9.Bxd5 Qxd5 10.Nc3 Qd6 11.O-O Bg4 12.Qe2
+O-O 13.Ne4 Qh6 14.Kh1 f5 15.Ng3 f4 16.exf4 exf4 17.Ne4 Rf5
+18.Ned2 Rh5 19.Qf2 Nb4 20.Ne4 Nd5 21.Rfe1 Ne3 22.Rac1 Bf5
+23.Ned2 g5 24.Nf1 Nxf1 25.Rxf1 g4 26.Nh4 Rxh4 27.Qxf4 Qxf4
+28.Rxf4 Bd7 0-1

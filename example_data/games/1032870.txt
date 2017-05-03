@@ -1,0 +1,21 @@
+[Event "10s, Mar del Plata m"]
+[Site "Mar del Plata ARG "]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Victor Brond"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c6 2. Ne2 d5 3. e5 c5 4. d4 Nc6 5. c3 cxd4 6. cxd4 Bf5
+7. Ng3 Bg6 8. Nc3 e6 9. h4 h5 10. Be3 Be7 11. Be2 Bxh4
+12. Nxh5 Bxh5 13. Bxh5 Nh6 14. g3 Bg5 15. f4 Be7 16. Bf3 Qb6
+17. Qd2 O-O-O 18. Kf2 Nf5 19. Ne2 Kb8 20. Rxh8 Rxh8 21. Rh1
+Rxh1 22. Bxh1 f6 23. b3 fxe5 24. fxe5 Nxe5 25. Bf4 Bd6 26. Kf1
+Ng4 27. Bxd6+ Qxd6 28. Qg5 a6 29. Kg1 Nf6 30. g4 Ng3 31. Nc3
+Nxh1 32. Kxh1 Qc7 33. Ne2 Ka7 34. Kg2 Qc2 35. Qe3 Ne4 36. Kf3
+Qd1 37. Kg2 Qe1 38. a4 g5 39. Qf3 Qd2 40. Kh3 a5 0-1

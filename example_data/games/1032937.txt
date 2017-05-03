@@ -1,0 +1,25 @@
+[Event "10s, Graz WCh-Jr-tt"]
+[Site "Graz AUT"]
+[Date "1981.08.20"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Moritz Wittwer"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 d5
+7. Bd3 Be7 8. h3 Nbd7 9. O-O O-O 10. Bf4 c6 11. Re1 Re8
+12. Qd2 Nf8 13. Bh2 Ne6 14. Re2 Bd6 15. Be5 Bxe5 16. Rxe5 Qc7
+17. Rae1 Bd7 18. Ne2 Nf8 19. Nf4 Ng6 20. Nxg6 hxg6 21. Ng5
+Rxe5 22. dxe5 Nh7 23. e6 Nxg5 24. Qxg5 Bxe6 25. Bxg6 Re8
+26. Bd3 Bd7 27. Rxe8+ Bxe8 28. Qf5 g6 29. Qg5 Qd7 30. h4 Qe6
+31. Kf1 Kg7 32. h5 f6 33. Qg3 Qe5 34. Qg4 Qxh5 35. Qxh5 gxh5
+36. b4 Bg6 37. Be2 Bxc2 38. Bxh5 b6 39. Bf3 Be4 40. Bg4 f5
+41. Bh5 Kf6 42. f3 Bb1 43. a3 f4 44. g3 fxg3 45. Kg2 c5
+46. bxc5 bxc5 47. Kxg3 c4 48. Kf2 d4 49. Be8 c3 50. Ke2 d3+
+51. Ke3 Bc2 52. f4 d2 53. Bh5 d1=Q 54. Bxd1 Bxd1 55. Kd3 c2
+0-1

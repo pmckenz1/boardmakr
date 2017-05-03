@@ -1,0 +1,26 @@
+[Event "Tilburg Interpolis"]
+[Site "Tilburg NED"]
+[Date "1977.10.02"]
+[EventDate "1977.09.23"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Gennady Sosonko"]
+[Black "Yuri Balashov"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.Nf3 O-O 7.Be2 e6
+8.O-O Re8 9.Bf4 exd5 10.exd5 Na6 11.Qd2 Nc7 12.Rfe1 Bf5 13.h3
+Ne4 14.Nxe4 Bxe4 15.Ng5 h6 16.Nxe4 Rxe4 17.Bd3 Rxe1+ 18.Rxe1
+g5 19.Bg3 Qf6 20.b4 Na6 21.b5 Nc7 22.Re4 b6 23.Qe2 Kf8 24.Qg4
+Rd8 25.Kh2 Ne8 26.Re3 Qd4 27.Qf5 Be5 28.Rxe5 dxe5 29.Bxe5 Qh4
+30.g3 Qh5 31.g4 Qg6 32.Qf3 Qg8 33.d6 Rxd6 34.Bxd6+ Nxd6 35.Qf6
+Ne8 36.Qxh6+ Ke7 37.h4 gxh4 38.Qxh4+ f6 39.Qg3 Nd6 40.Qe3+ Kd7
+41.Qf4 Ke7 42.Kg3 Qe6 43.g5 fxg5 44.Qxg5+ Qf6 45.Qxf6+ Kxf6
+46.Kf4 Ke6 47.Be2 Kf6 48.Bf1 Ke6 49.Be2 Kf6 50.Bd3 Ke6 51.f3
+Kf6 52.Ke3 Kg5 53.f4 Kf6 54.Kf3 Ke6 55.Kg4 Kf6 56.Bf1 Ne4
+57.Bg2 Nd6 58.Bd5 Nf5 59.Kf3 Nd6 60.Bg8 Kg7 61.Be6 Kf6 62.Bd5
+Kf5 63.Bg8 Kf6 64.Kg4 Nf5 65.Kf3 Nd6 66.Ke3 Kg7 67.Bd5 Kf6
+68.Kf3 Kf5 69.a3 Kf6 1/2-1/2

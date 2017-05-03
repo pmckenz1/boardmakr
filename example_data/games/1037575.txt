@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.12.04"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Ylvi Pustina"]
+[Black "Lawrence Day"]
+[ECO "A55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.e4 e5 5.Nf3 Be7 6.Be2 O-O 7.O-O
+c6 8.h3 a6 9.Be3 Re8 10.Qc2 Bf8 11.d5 c5 12.Ne1 b6 13.a3 Be7
+14.Nd3 Rf8 15.b4 Ne8 16.Rab1 g6 17.Bh6 Ng7 18.bxc5 bxc5 19.Rb3
+Bg5 20.Bxg5 Qxg5 21.Qc1 Qe7 22.f4 exf4 23.Qxf4 f5 24.Bf3 g5
+25.Qd2 f4 26.Nd1 a5 27.N1f2 a4 28.Rb2 h5 29.Re1 Ne5 30.Nxe5
+Qxe5 31.Reb1 Ba6 32.Qd3 Kf7 33.Rb6 Rh8 34.Qc2 Bc8 35.Qb2 Qxb2
+36.R1xb2 Ne8 37.e5 dxe5 38.Nd3 Nf6 39.Nxe5+ Kg7 40.Rc6 Ra7
+41.Rb8 Re7 42.Rcxc8 Rxc8 43.Rxc8 Rxe5 44.d6 g4 45.Bc6 Re3
+46.d7 Nxd7 47.Bxd7 g3 48.Kf1 Rxa3 49.Bc6 Ra2 50.Ke1 a3 51.Ra8
+Kf6 52.Kd1 Ke5 53.Kc1 Kd4 54.Kb1 Rb2+ 55.Ka1 Kxc4 56.Rf8 Rf2
+57.Kb1 Kb4 58.Ra8 c4 59.Bd5 Kc5 60.Bf3 Kd4 61.Re8 Kd3 62.Rd8+
+Kc3 63.Bc6 Rf1+ 64.Ka2 Rf2+ 65.Kxa3 Rd2 66.Rf8 Rd6 67.Ba4 Rd4
+68.Rf6 Kd2 69.Rf5 h4 70.Rc5 f3 71.gxf3 Ke3 0-1

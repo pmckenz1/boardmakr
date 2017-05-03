@@ -1,0 +1,27 @@
+[Event "Yerevan ARM,32nd ol"]
+[Site "Yerevan ARM"]
+[Date "1996.09.27"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "John van der Wiel"]
+[Black "Vladimir Bagirov"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 g6 6.Bc4 c6 7.O-O
+Bg7 8.Re1 O-O 9.c3 Be6 10.Nd2 Nd7 11.Nxd7 Qxd7 12.Ne4 b6
+13.Ng5 Bf5 14.h3 f6 15.Nf3 Rae8 16.Bf1 Be6 17.c4 Nc7 18.Bf4
+Bf7 19.Qa4 Ne6 20.Be3 Rc8 21.Rad1 Rfd8 22.b4 Rb8 23.Qc2 Qb7
+24.a4 a6 25.b5 axb5 26.axb5 cxb5 27.d5 Nc7 28.Nd4 Rd7 29.Nc6
+Re8 30.Rb1 bxc4 31.Rxb6 Qa8 32.Bxc4 Nxd5 33.Qb3 e6 34.Ra6 Qc8
+35.Na7 Qb8 36.Qa4 Rb7 37.Nb5 Bf8 38.Ba7 Qd8 39.Bd4 Nb6 40.Bxb6
+Rxb6 41.Qa2 Rxa6 42.Qxa6 Qd7 43.Re3 Bc5 44.Rd3 Qc8 45.Qa2 Qc6
+46.Rd1 Kg7 47.Qe2 Re7 48.Nd4 Qb6 49.Nb3 Bb4 50.Nd4 e5 51.Nc2
+Bxc4 52.Qxc4 Bc5 53.Qe2 Ra7 54.Ne3 h5 55.Kh2 Bd4 56.Rd2 Qb1
+57.Nc2 Bc5 58.Qc4 Qb6 59.Kg1 Rc7 60.Qa4 Qc6 61.Qxc6 Rxc6 62.g4
+Kh6 63.Kg2 Bb6 64.Nb4 Re6 65.Rd7 h4 66.Nd5 Rc6 67.Rf7 Kg5
+68.Rg7 Bc5 69.Rc7 Rxc7 70.Nxc7 Bd6 71.Ne6+ Kh6 72.g5 fxg5
+73.Kf3 Ba3 74.Kg4 Bc1 75.Nc5 1/2-1/2

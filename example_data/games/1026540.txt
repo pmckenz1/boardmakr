@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joel Benjamin"]
+[Black "Markus Klostermann"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 Nbd7 6.e3 Qa5 7.cxd5
+Nxd5 8.Qd2 N7b6 9.Bd3 Nxc3 10.bxc3 Na4 11.O-O Qxc3 12.Qe2 Bd6
+13.Nd2 Qa5 14.Nc4 Bxh2+ 15.Kxh2 Qxg5 16.Nd6+ Ke7 17.Ne4 Qh6+
+18.Kg1 f5 19.Nd2 Nb6 20.f4 g5 21.fxg5 Qxg5 22.e4 fxe4 23.Nxe4
+Qg7 24.Qf2 Nd5 25.Qh4+ Ke8 26.Ng5 Ne7 27.Rf7 Qg8 28.Raf1 1-0

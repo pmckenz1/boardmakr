@@ -1,0 +1,21 @@
+[Event "Ch USA"]
+[Site "USA"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jonathan David Tisdall"]
+[Black "Walter Shawn Browne"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 bxc4 5.Nc3 g6 6.e4 d6 7.Bxc4
+Bg7 8.O-O O-O 9.Bf4 Nbd7 10.h3 Nb6 11.Be2 Nfd7 12.Qd2 Bb7
+13.Bh6 Nf6 14.Rad1 Qc7 15.Qg5 Rad8 16.Nh4 e6 17.Bxg7 Kxg7
+18.f4 h6 19.Qg3 exd5 20.f5 g5 21.Nf3 Rg8 22.exd5 Kf8 23.h4 Qe7
+24.hxg5 Qe3+ 25.Rf2 hxg5 26.Bf1 Nbxd5 27.Nxd5 Bxd5 28.Rd3 Ne4
+29.Rxe3 Nxg3 30.Bb5 Nxf5 31.Ra3 Be6 32.Rxa7 g4 33.Nd2 Nd4
+34.Bc4 d5 35.Bd3 c4 36.Bb1 g3 37.Rf6 Kg7 38.Rg6+ Kf8 39.Rh6
+Rb8 0-1

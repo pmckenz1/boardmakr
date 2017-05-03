@@ -1,0 +1,24 @@
+[Event "Nikolina Gora"]
+[Site "Nikolina Gora"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viacheslav Ragozin"]
+[Black "Mikhail Botvinnik"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.Qg4 Ne7 7.Qxg7
+Rg8 8.Qxh7 cxd4 9.b4 dxc3 10.bxa5 Nd7 11.Nf3 Qc7 12.Bf4 Nf8
+13.Bb5+ Bd7 14.Bxd7+ Qxd7 15.Qd3 Rg4 16.g3 Nfg6 17.Be3 Nc6
+18.h3 Rc4 19.O-O Ncxe5 20.Nxe5 Nxe5 21.Qh7 O-O-O 22.Bxa7 Nf3+
+23.Kg2 Nd2 24.Rfe1 d4 25.f3 f5 26.Qxd7+ Kxd7 27.Re5 Ke7
+28.Rae1 Rc6 29.Rb5 d3 30.Rc1 Nc4 31.Rxb7+ Kf6 32.cxd3 Rxd3
+33.Rb3 Rd2+ 34.Bf2 c2 35.a6 Rxa6 36.Rc3 Nxa3 37.f4 Rd1
+38.R1xc2 Nxc2 39.Rxc2 Ra4 40.Rb2 Rc4 41.Be3 Rd3 42.Kf2 Rcc3
+43.Re2 Ke7 44.Kf3 Kd6 45.g4 Ke7 46.Re1 Kf7 47.Re2 Rb3 48.Re1
+Rdc3 49.Re2 Rc4 50.gxf5 exf5 51.Ra2 Re4 52.Re2 Kg6 53.Re1 Kh5
+54.h4 Ra4 55.Rg1 Raa3 56.Re1 Ra2 57.Rh1 Rc2 58.Rg1 Rh2 0-1

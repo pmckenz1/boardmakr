@@ -1,0 +1,17 @@
+[Event "Riga URS ch"]
+[Site "12"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Borisovich Tukmakov"]
+[Black "Yuri Balashov"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.a4
+Nc6 8.Qe2 cxd4 9.Rd1 Be7 10.exd4 O-O 11.Nc3 Nb4 12.Bg5 Nfd5
+13.Nxd5 Nxd5 14.Bxd5 Bxg5 15.Be4 Bf6 16.Ne5 Rb8 17.Ra3 g6
+18.g3 Qd6 19.Bg2 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "03, Dieren op"]
+[Site "Dieren NED"]
+[Date "1990.07.19"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Gert-Jan de Boer"]
+[Black "Vladimir Bagirov"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.c4 c6 5.cxd5 cxd5 6.Nc3 e6 7.Qa4
+Bxf3 8.Bxf3 Ngf6 9.O-O Be7 10.d4 O-O 11.Bg5 a6 12.Rfd1 b5
+1/2-1/2

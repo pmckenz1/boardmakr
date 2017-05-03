@@ -1,0 +1,21 @@
+[Event "EUR-chT (Men) 8th"]
+[Site "Plovdiv BUL"]
+[Date "1983.06.29"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Paul van der Sterren"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5
+Bxc5 8.a3 Nc6 9.Be2 dxc4 10.Qc2 Bd7 11.Rd1 Be7 12.Bxc4 Qa5
+13.O-O Rfd8 14.Qb3 Be8 15.Nb5 Rac8 16.Nd6 Bxd6 17.Bxd6 Ne4
+18.Bxe6 Nxd6 19.Bxc8 Nxc8 20.Qxb7 Nd6 21.Qb3 Ne7 22.Rd4 Qc7
+23.Rfd1 Rb8 24.Qd3 Nec8 25.Ng5 g6 26.Ne4 Nxe4 27.Qxe4 Nb6
+28.Qd3 Qe5 29.Rd8 Rxd8 30.Qxd8 Nc4 31.Qa8 Nxb2 32.Rd4 Nc4
+33.h4 Nd6 34.Qb8 Nc4 35.Qa8 Nd6 36.h5 Kg7 37.Qb8 Nc4 38.Qb4
+Nb6 39.h6+ Kxh6 40.Qf8+ Kh5 41.g4 Kh4 42.Qh6+ 1-0

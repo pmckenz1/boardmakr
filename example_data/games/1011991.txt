@@ -1,0 +1,20 @@
+[Event "Tarnopol"]
+[Site "Tarnopol UKR"]
+[Date "1916.??.??"]
+[EventDate "1916.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "M von Feldt"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 {Played in the hospital of Tarnopol (Poland). Alekhine
+was a driver of Red Cross vehicles and was wounded during a
+rescue operation.} e6 2. d4 d5 3. Nc3 Nf6 4. exd5 Nxd5 {?!
+4... exd5} 5. Ne4 f5 {?!} 6. Ng5 Be7 7. N5f3 c6 8. Ne5 O-O
+9. Ngf3 b6 10. Bd3 Bb7 11. O-O Re8 12. c4 Nf6 13. Bf4 Nbd7
+14. Qe2 c5 15. Nf7 {!!} Kxf7 {15... Bxf3 16. Qxe6} 16. Qxe6+
+{!} Kg6 {16... Kxe6?? 17. Ng5#} 17. g4 {!} Be4 18. Nh4# 1-0

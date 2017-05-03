@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Valletta MLT"]
+[Date "1980.11.25"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Vaidyanathan Ravikumar"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 g6 4.Bb5 Bg7 5.Bxc6 bxc6 6.d3 d6 7.O-O
+Rb8 8.Nc3 Nh6 9.Qe1 f5 10.e5 O-O 11.Kh1 Qc7 12.Nd1 Nf7 13.Bd2
+Qd7 14.Bc3 Qe6 15.b3 d5 16.Qf2 d4 17.Bd2 Qd5 18.Qh4 Qd8 19.Nb2
+Be6 20.Na4 Rb5 21.Bc1 Bd5 22.Ba3 g5 23.Nxg5 Nxg5 24.Qxg5 Kh8
+25.Rf2 Rg8 26.Qxf5 Bh6 27.Rg1 1-0

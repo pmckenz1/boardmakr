@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Buesum FRG"]
+[Date "1969.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mathias Gerusel"]
+[Black "Istvan Bilek"]
+[ECO "E75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.d4 g6 2.e4 Bg7 3.c4 d6 4.Nc3 Nf6 5.Be2 O-O 6.Bg5 c5 7.d5 Qa5
+8.Bd2 a6 9.a4 e6 10.Nf3 exd5 11.cxd5 Re8 12.O-O Qc7 13.Qc2 Bg4
+14.h3 Bxf3 15.Bxf3 Nbd7 16.a5 Rac8 17.Ra4 Qd8 18.g3 h5 19.Bg5
+Nf8 20.Nd1 N8h7 21.Bd2 Nd7 22.Bg2 Bd4 23.Bc3 h4 24.g4 g5
+25.Kh1 Nhf8 26.f4 gxf4 27.Rxf4 Ng6 28.Rf5 Bxc3 29.bxc3 c4
+30.Qa2 Nde5 31.Rf1 Qg5 32.Qf2 Rc7 33.Qb6 Rd7 34.Qe3 Qd8 35.Qh6
+f6 36.Qd2 Nf7 37.Rxc4 Qxa5 38.Rxf6 Nfe5 39.Rb4 Qd8 40.Rf1 Rf8
+41.Rf5 Qa5 42.Ne3 Qa1+ 43.Kh2 Rc8 44.Rb3 Rg7 45.Rf6 Qa4 46.Qb2
+Nd3 47.Qb1 Nc5 48.Rb4 Qe8 49.Rf5 Ne5 50.Kh1 b5 51.Rf1 Qg6
+52.Nf5 Rh7 53.c4 Nxc4 54.Rxc4 bxc4 55.e5 dxe5 56.Ne7+ Rxe7
+57.Qxg6+ Rg7 58.Qf5 1-0

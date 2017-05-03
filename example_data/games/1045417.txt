@@ -1,0 +1,17 @@
+[Event "Hradec Kralove"]
+[Site "Hradec Kralove"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Jan Smejkal"]
+[Black "Lubomir Ftacnik"]
+[ECO "D14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4
+Bf5 7. e3 e6 8. Bd3 Bxd3 9. Qxd3 Bd6 10. Bg3 a6 11. O-O Bxg3
+12. hxg3 O-O 13. Rfc1 Qd6 14. Na4 Nd7 15. a3 Rfc8 16. b4 b5
+17. Nc5 Nb6 18. Rcb1 Rcb8 1/2-1/2

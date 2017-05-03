@@ -1,0 +1,21 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bird & H Chesire"]
+[Black "Blackburne / Horace Chapman"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.g3 f5 5.d4 Nf6 6.Bg5 O-O 7.Bg2
+Nc6 8.c3 h6 9.Bxf6 Qxf6 10.Nd2 Bd7 11.Qb3+ Kh8 12.O-O-O Qg5
+13.Qd5 Rae8 14.Nh3 Qe3 15.Rhe1 g5 16.Qf3 Qe7 17.Nf2 Qf7 18.Nb3
+a5 19.Kb1 f4 20.gxf4 gxf4 21.Nd3 Re3 22.Qf2 Bf5 23.Bf3 Qh7
+24.Nc1 a4 25.Qh4 Na5 26.Rg1 c5 27.Ka1 cxd4 28.cxd4 a3 29.bxa3
+Qc7 30.Qxh6+ Bh7 31.Rd2 Bxa3 32.Rc2 Qd7 33.Rg5 Re6 34.Qh5
+Qxd4+ 35.Kb1 Nc4 36.Nb3 Rb6 37.Rg6 Rc8 38.Rxc4 Rxc4 39.Rg8+
+Kxg8 40.Bd5+ Kg7 41.Qf7+ Kh6 0-1

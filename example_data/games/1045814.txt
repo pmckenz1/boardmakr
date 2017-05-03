@@ -1,0 +1,19 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice CSR"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Goran Dizdar"]
+[Black "Lubomir Ftacnik"]
+[ECO "A05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. Nf3 Nf6 2. g3 g6 3. b4 Bg7 4. Bb2 c6 5. c4 a5 6. bxa5 Qxa5
+7. Bg2 O-O 8. O-O d6 9. d3 Nbd7 10. Qc2 Nc5 11. Nc3 Na4
+12. Nxa4 Qxa4 13. Rfc1 Bd7 14. Bc3 Rfd8 15. Nd4 Qxc2 16. Nxc2
+Ne8 17. Bxg7 Kxg7 18. Ne3 Ra7 19. Nd1 Nc7 20. Nc3 Ne6 21. Rab1
+Rda8 22. f4 Bc8 23. Kf2 Ra3 24. Rb2 Nc5 25. Rcc2 h6 26. h4 f5
+27. d4 Na4 28. Nxa4 R8xa4 29. Bf1 Kf6 1/2-1/2

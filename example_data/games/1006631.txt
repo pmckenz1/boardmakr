@@ -1,0 +1,24 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.05"]
+[EventDate "1920.08.02"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Walter John"]
+[Black "Karl Berndtsson Kullberg"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bc5 5.a3 d6 6.e3 O-O 7.d3 Re8
+8.b4 Bb6 9.Na4 Ne7 10.Ne2 c6 11.Nxb6 axb6 12.Bb2 Ng6 13.O-O
+Be6 14.Qc2 Qd7 15.Rfe1 Bh3 16.Bh1 Qf5 17.e4 Qh5 18.f3 Re6
+19.Qd2 Nd7 20.Bc1 h6 21.Nc3 Nh4 22.Re3 Rf6 23.Qf2 Re8 24.Ne2
+Ree6 25.f4 exf4 26.gxf4 Rg6+ 27.Rg3 Nf5 28.Bf3 Nxg3 29.Nxg3
+Qh4 30.f5 Rgf6 31.Bb2 Ne5 32.Bxe5 Rxe5 33.Nh5 Qg5+ 34.Qg3
+Qxg3+ 35.hxg3 Rfxf5 36.exf5 Bxf5 37.d4 Re3 38.Kf2 Rc3 39.Be2
+Bd3 40.Nf4 Bxc4 41.Bxc4 Rxc4 42.Ne2 c5 43.Rc1 Rxc1 44.Nxc1 c4
+45.Ne2 g5 46.g4 f5 47.gxf5 Kf7 48.Kf3 h5 49.Nc3 Ke7 50.a4 Kf6
+51.Ne4+ Kxf5 52.Nxd6+ Ke6 53.Nxc4 b5 54.axb5 Kd5 55.Na5 b6
+56.Nc6 h4 57.Kg4 Kc4 58.Kh3 Kd5 59.Kg4 1/2-1/2

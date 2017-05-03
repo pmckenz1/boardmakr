@@ -1,0 +1,22 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Giorgi Chokhonelidze"]
+[Black "A Evchenko"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6
+7. g5 Nd7 8. Be3 a6 9. h4 Qc7 10. Qe2 Nxd4 11. Bxd4 b5
+12. O-O-O Bb7 13. Rg1 Rc8 14. Bh3 Nb6 15. Nd5 Nxd5 16. exd5
+Bxd5 17. b3 Bf3 18. Qd3 Bxd1 19. Rxd1 d5 20. Kb1 Bd6 21. Bxg7
+Rg8 22. Bf6 Rg6 23. h5 Rxf6 24. gxf6 Be5 25. Rg1 Bxf6 26. Rg8+
+Ke7 27. Rxc8 Qxc8 28. Qxd5 Qc3 29. Qb7+ Ke8 30. Qb8+ Bd8
+31. Qd6 Qxh3 32. Qc6+ Kf8 33. Qxa6 Qf1+ 34. Kb2 Bf6+ 35. c3
+Bxc3+ 36. Kxc3 b4+ 37. Kxb4 Qxa6 38. a4 Qb6+ 39. Ka3 Ke8
+40. b4 Qxf2 41. b5 Qc5+ 0-1

@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1917.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Abram Isaakovich Rabinovich"]
+[Black "Alexander Alekhine"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. f4 Bc5 5. Bxf7+ Kxf7 6. fxe5
+Ne8 7. Qh5+ Kg8 8. Nf3 Qe7 9. Nd5 Qf7 10. Qh4 Be7 11. Qg3 Qg6
+12. Qf4 h6 13. O-O Bg5 14. Nxg5 hxg5 15. Qf3 d6 16. exd6 cxd6
+17. d4 Be6 18. Ne7+ Nxe7 19. Qf8+ Kh7 20. Qxe7 Qxe4 21. Qxg5
+Qxd4+ 22. Be3 Qg4 23. Qb5 Nf6 24. Rf4 Qg6 25. Rd1 Qxc2
+26. Rxd6 Qb1+ 27. Rf1 Qe4 28. Bd4 Bd5 0-1

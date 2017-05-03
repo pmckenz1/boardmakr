@@ -1,0 +1,27 @@
+[Event "10s, Wijk aan Zee II"]
+[Site "10s, Wijk aan Zee II Hiarcs 7.32"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Rudy C Douven"]
+[Black "Fernando Braga"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Nbd7 5. Bg5 Bb4 6. cxd5
+exd5 7. e3 c5 8. Bb5 O-O 9. O-O Bxc3 10. bxc3 c4 11. Bxd7 Qxd7
+12. Bxf6 gxf6 13. Nd2 f5 14. a4 b6 15. Re1 Bb7 16. Nf1 Bc6
+17. Ng3 Qe6 18. Qf3 Bd7 19. Nh5 Bc6 20. a5 b5 21. Rab1 Rab8
+22. Rb4 Kh8 23. Qf4 Rg8 24. Ng3 Bd7 25. Qe5+ f6 26. Qxe6 Bxe6
+27. Nh5 Bf7 28. Nf4 a6 29. Kf1 Rge8 30. Ke2 Rb7 31. Kd2 Kg8
+32. Kc2 Kf8 33. Kb2 Ke7 34. Ka3 Kd6 35. Rbb1 Rbe7 36. Kb4 Rg8
+37. Rh1 Rg4 38. Rbe1 Rg8 39. Ra1 Rg4 40. Rhe1 Rg8 41. Rab1 Rg4
+42. Ka3 Rg8 43. Kb2 Rb8 44. Kc2 Reb7 45. Rb4 Rg8 46. Kd2 Re7
+47. Ke2 Be8 48. f3 Bf7 49. Kf2 Kc6 50. Rb2 Rb8 51. Rb4 Rg8
+52. g3 Rge8 53. Re2 Rg8 54. Ng2 Rb8 55. Ne1 Rbe8 56. Nc2 Kd6
+57. Rb2 Be6 58. Nb4 Bc8 59. Rb1 Rg8 60. Rg1 h5 61. Ree1 Rge8
+62. h3 Rg8 63. Rg2 Rge8 64. Nc2 Rg8 65. Reg1 Reg7 66. Nb4 Rg5
+67. Rh2 R5g7 68. g4 h4 69. Rhg2 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Ch Czechoslovakia, Marianske Lazne (Czech Repub"]
+[Site "Marianske Lazne CSR"]
+[Date "1978.05.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Jan Ambroz"]
+[Black "Lubomir Ftacnik"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6
+7. Qd2 Bxf3 8. gxf3 e6 9. O-O-O Qa5 10. Kb1 Nd7 11. e5 d5
+12. Ne4 Qxd2 13. Nd6+ Kf8 14. Rxd2 Rb8 15. Rg2 Ne7 16. Bd3 Nb6
+17. Rhg1 Nbc8 18. f5 Nxd6 19. exd6 Nxf5 20. Bxf5 exf5 21. Re1
+h6 22. Rge2 Bf6 23. Bf4 Kg7 24. Re7 Bxe7 25. Rxe7 Rhe8
+26. Be5+ Kf8 27. Kc1 Rbd8 28. Rxb7 Re6 29. Rxa7 g5 30. a4 Ke8
+31. a5 f6 32. f4 fxe5 33. fxe5 Rd7 34. Ra8+ Kf7 35. Rh8 Kg7
+36. Rc8 f4 37. Rxc6 g4 38. Kd1 g3 39. hxg3 fxg3 40. Ke1 Rf7
+41. Rc7 Rg6 0-1

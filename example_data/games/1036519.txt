@@ -1,0 +1,22 @@
+[Event "Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1900.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Allies"]
+[Black "Mikhail Chigorin"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Nd7 6. Nc3 Be7
+7. Nd5 O-O 8. c3 Ndb8 9. Ne3 Bf6 10. dxe5 Nxe5 11. Nd4 Ng6
+12. f4 Bd7 13. Bd3 Nc6 14. Ndf5 Nge7 15. g4 Nxf5 16. exf5 g5
+17. Nd5 gxf4 18. g5 Bxg5 19. f6 Ne5 20. Bxf4 Bg4 21. Qd2 Bxf6
+22. Bxe5 Bxe5 23. Qh6 f5 24. h3 c6 25. Ne3 Bg7 26. Qe6+ Kh8
+27. Nxg4 fxg4 28. Qe4 Qh4 29. Qxg4 Qh6 30. Rae1 Be5 31. Rxf8+
+Rxf8 32. Kh1 Qd2 33. Qe2 Rf2 34. Qxd2 Rxd2 35. Bb1 Rxb2 36. c4
+c5 37. Be4 b6 38. Rf1 Kg7 39. Bd5 Rxa2 40. Rf7+ Kg6 41. Rd7 h6
+42. h4 a5 43. Rb7 a4 44. Rxb6 a3 0-1

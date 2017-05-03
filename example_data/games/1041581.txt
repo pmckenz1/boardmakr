@@ -1,0 +1,18 @@
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee NED"]
+[Date "1984.01.21"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Alexander Beliavsky"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.d3 Nd7 8.Nbd2 O-O 9.Nc4 f6 10.Nh4 Nc5 11.Be3 Ne6 12.Nf5 Bc5
+13.Bxc5 Nxc5 14.Ng3 Ne6 15.Ne2 c5 16.a4 Nd4 17.Ne3 a5 18.b3
+Be6 19.f4 Qd7 20.Qd2 b6 21.Rf2 f5 22.exf5 exf4 23.Rxf4 Bxf5
+24.Nxd4 1/2-1/2

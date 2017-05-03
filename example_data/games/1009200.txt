@@ -1,0 +1,29 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Hans-Joachim Vatter"]
+[Black "Francesco De Gleria"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "148"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O h6 9. Be3 Be7 10. f3 Nxd4 11. Bxd4 b5
+12. Bxf6 Bxf6 13. Qxd6 Qxd6 14. Rxd6 Ke7 15. Rd3 Bb7 16. Be2
+Rhc8 17. Rhd1 Rc7 18. a3 Rac8 19. Kb1 Ke8 20. Re3 Bxc3
+21. Rxc3 Rxc3 22. bxc3 Rxc3 23. Kb2 Rc5 24. Kb3 Ke7 25. Rd4
+Rh5 26. h3 Rg5 27. Bf1 a5 28. c3 Bc6 29. Rd2 Rc5 30. c4 bxc4+
+31. Bxc4 g5 32. Rb2 Kd6 33. Rd2+ Ke5 34. Rd8 Kf4 35. Rh8 Ke3
+36. Rxh6 Kd4 37. Ba6 a4+ 38. Kb4 Rc2 39. Rf6 Rxg2 40. Rxf7
+Rb2+ 41. Ka5 Rb3 42. Bc8 Ke5 43. Re7 Kd6 44. Rxe6+ Kc7
+45. Rxc6+ Kxc6 46. Kxa4 Rxf3 47. Kb4 Rf8 48. Bg4 Rb8+ 49. Kc4
+Ra8 50. Kb3 Rb8+ 51. Ka2 Kd6 52. Bf5 Ke5 53. a4 Kd4 54. Ka3
+Kc3 55. a5 Rb1 56. Ka4 Kc4 57. Be6+ Kc5 58. Bg4 Rb4+ 59. Ka3
+Rxe4 60. a6 Kb6 61. Kb3 Kxa6 62. Kc3 Kb5 63. Kd3 Rb4 64. Ke3
+Rf4 65. Bf3 Kc5 66. Kf2 Kd4 67. Kg3 Ke3 68. Bc6 Rf1 69. Kg4
+Rg1+ 70. Kh5 Kf4 71. Bd7 Ra1 72. Bg4 Ra5 73. Bd7 g4+ 74. Kh4
+g3 0-1

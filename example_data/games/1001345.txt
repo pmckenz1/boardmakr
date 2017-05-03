@@ -1,0 +1,16 @@
+[Event "London m ;HCL 34"]
+[Site "London ENG"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Hugh Alexander Kennedy"]
+[Black "Edward Lowe"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 d6 2.c4 f5 3.e4 fxe4 4.Nc3 Bf5 5.Qc2 Nc6 6.Be3 Nf6 7.f3
+e5 8.d5 Nd4 9.Bxd4 exd4 10.Nxe4 Nxe4 11.fxe4 Qh4+ 12.Kd2 Qf4+
+13.Ke1 Bxe4 14.Bd3 Qe3+ 15.Qe2 Bxd3 16.Qxe3+ dxe3 0-1

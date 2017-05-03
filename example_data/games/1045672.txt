@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "1984.07.24"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Fernand Gobet"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6
+7. O-O b5 8. Bb3 Be7 9. Qf3 Qb6 10. Be3 Qb7 11. a3 O-O
+12. Rfe1 Nbd7 13. Qg3 Nc5 14. Bh6 Ne8 15. Nf5 Bf6 16. Rad1
+Nxb3 17. e5 dxe5 18. Ne4 Qxe4 19. Rxe4 exf5 20. Rxe5 Bxe5
+21. Qxe5 Na5 22. Rd3 Nc4 23. Qd4 Be6 24. b3 Nxa3 25. Rg3 f6
+26. h4 Nxc2 27. Qc5 Rc8 28. Qe7 Bf7 29. h5 Nd4 30. Bxg7 Nxg7
+31. h6 Nde6 32. hxg7 Rfd8 33. Qxf6 f4 34. Rg4 h5 35. Qh6 1-0

@@ -1,0 +1,28 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.12"]
+[EventDate "1927.06.26"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lajos Steiner"]
+[Black "Hans Kmoch"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Bd7
+7. c3 Be7 8. d4 O-O 9. Nbd2 Be8 10. h3 Nd7 11. Nf1 f6 12. Nh4
+Kh8 13. Nf5 Bf7 14. g4 Nb6 15. Bc2 Re8 16. N1g3 Bf8 17. Kh2
+exd4 18. Nxd4 Nxd4 19. cxd4 d5 20. e5 c5 21. f4 cxd4 22. Qxd4
+fxe5 23. fxe5 Qc7 24. Bf5 Bc5 25. Qf4 Be6 26. Bd2 Nc4 27. Bc3
+Qb6 28. b3 Na3 29. Rad1 Nb5 30. Bb2 Na7 31. Rf1 Rad8 32. Nh5
+Be3 33. Qg3 d4 34. Nf4 Bxf4 35. Qxf4 Nb5 36. a4 Bxb3 37. axb5
+Bxd1 38. Bd7 Bb3 39. e6 Qc5 40. Bxd4 Qe7 41. Bxe8 Rxe8 42. Qf7
+Qxf7 43. exf7 Rf8 44. bxa6 bxa6 45. Rc1 h6 46. Rc6 Rxf7
+47. Rxh6+ Kg8 48. Rxa6 Rd7 49. Be5 Re7 50. Ra5 Rd7 51. Kg3
+Rd3+ 52. Kh4 Rd5 53. Ra8+ Kh7 54. Re8 Rd7 55. Kg5 Bf7 56. Rf8
+Re7 57. Bb8 Re8 58. Rxf7 Rxb8 59. h4 Rb5+ 60. Rf5 Rb6 61. h5
+Ra6 62. Rb5 Rc6 63. Rb4 Rc5+ 64. Kh4 Kh6 65. Rb6+ Kh7 66. Rb4
+Kh6 67. Re4 Rc1 68. g5+ Kh7 69. Kg4 Rg1+ 70. Kf5 Rf1+ 71. Ke6
+Rh1 1/2-1/2

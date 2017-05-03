@@ -1,0 +1,25 @@
+[Event "12, Wijk Aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1970.01.27"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Robert G Hartoch"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.e4 g6 2.d4 Bg7 3.c4 c5 4.d5 d6 5.Nc3 Nf6 6.Be2 O-O 7.Nf3 e6
+8.O-O exd5 9.exd5 Re8 10.h3 Ne4 11.Nxe4 Rxe4 12.Bd3 Re8 13.Bg5
+Bf6 14.Qd2 Bxg5 15.Nxg5 f6 16.Nf3 Nd7 17.Nh2 Ne5 18.Be2 f5
+19.f4 Nf7 20.Bd3 Qf6 21.Nf3 Bd7 22.Rfe1 b6 23.Kf2 h6 24.Qc3
+Qxc3 25.bxc3 Rxe1 26.Rxe1 Re8 27.Rb1 Nd8 28.g4 fxg4 29.hxg4
+Kg7 30.g5 Nf7 31.Rg1 Rg8 32.gxh6+ Kxh6 33.f5 g5 34.f6 Bh3
+35.Kg3 g4 36.Kf4 Kh5 37.Nd2 Ng5 38.Nf1 Rf8 39.Ng3+ Kh6 40.Nf5+
+Kh5 41.Nxd6 Rxf6+ 42.Nf5 Nf7 43.d6 Nxd6 44.Ke5 Ne8 45.Ng7+ Kg5
+46.Nxe8 Rf2 47.Nd6 Rxa2 48.Ne4+ Kh4 49.Rg3 a5 50.Rg1 Rb2
+51.Kf4 Bg2 52.Nd6 Kh3 53.Rb1 Rxb1 54.Bxb1 a4 55.Nf5 Bf3 56.Bc2
+a3 57.Bb1 Bd1 58.Ba2 Bc2 59.Ng3 Bg6 60.Ne2 Bf7 61.Ke5 Kg2
+62.Bb3 Kf2 63.Nf4 Ke3 64.Nd5+ Kd2 65.Kf4 Kc1 66.Ne3 Kb2 0-1

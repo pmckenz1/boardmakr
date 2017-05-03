@@ -1,0 +1,22 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexander Rustemov"]
+[Black "Alexander Cherniaev"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 b5 6. Bg2 d6
+7. Na3 a6 8. Nc2 a5 9. a4 b4 10. Ne3 Nbd7 11. Nf3 Nb6 12. Nd2
+Be7 13. b3 O-O 14. Bb2 Ng4 15. Nxg4 Bxg4 16. h3 Bc8 17. O-O
+Bf6 18. Bxf6 Qxf6 19. Re1 Ba6 20. Rc1 Rfc8 21. e3 c4 22. bxc4
+Nxc4 23. Ne4 Qe7 24. g4 Nb2 25. Qd4 Nd3 26. Rxc8+ Rxc8 27. Rd1
+Nc5 28. Nxc5 Rxc5 29. e4 f6 30. f4 Qc7 31. Rd2 Rc1+ 32. Kh2
+Bc8 33. e5 fxe5 34. fxe5 dxe5 35. Qb2 Qc3 36. Qxc3 Rxc3 37. d6
+Bd7 38. Rd5 Rc2 39. Kg3 Rc3+ 40. Kh4 h6 41. Rxe5 Rd3 42. g5
+Rxd6 43. Rxa5 Rd4+ 44. Kg3 hxg5 1/2-1/2

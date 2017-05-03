@@ -1,0 +1,22 @@
+[Event "Dubai Asian Cities"]
+[Site "Dubai Asian Cities"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "Rogelio Antonio Jr"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Nc3 O-O 7.Bg2
+Bxc3 8.Bxc3 Ne4 9.Rc1 d6 10.d5 Nxc3 11.Rxc3 Nb8 12.dxe6 fxe6
+13.O-O Kh8 14.Qd2 Nc6 15.Nd4 Bd7 16.Rb3 e5 17.Nxc6 Bxc6 18.Bd5
+Qd7 19.Qe3 a5 20.Rd3 a4 21.Rc1 Ra5 22.Qe4 Rc5 23.Rcc3 g6
+24.Bxc6 Qxc6 25.Qh4 e4 26.Rd5 a3 27.Qe7 Re8 28.Qf6+ Kg8
+29.Rxc5 axb2 30.Rxc6 b1=Q+ 31.Kg2 bxc6 32.Rb3 Qe1 33.Re3 Qa5
+34.a3 Qc5 35.Qc3 Re5 36.Qb4 Qxb4 37.axb4 Kf7 38.f4 Re8 39.Kf2
+Rb8 40.Rxe4 Rxb4 41.Kf3 c5 42.g4 Kf6 43.Re8 Rxc4 44.g5+ Kf7
+45.Rc8 Rc3+ 46.e3 d5 47.Rxc7+ Ke6 48.Ke2 d4 1/2-1/2

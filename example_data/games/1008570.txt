@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Alex Averbukh"]
+[Black "Todd Lunna"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 cxd4
+7. cxd4 Qb6 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1 Ne7
+12. f4 g6 13. Qe2 Qb6 14. Be3 Qd8 15. Bf2 h5 16. Bh4 Bc6
+17. Bf6 Rg8 18. b4 Qb6 19. b5 axb5 20. Nxb5 Bxb5 21. Bxb5+ Nc6
+22. Rab1 Ba3 23. Rb3 Ra7 24. Qc2 Kd7 25. Bh4 d4 26. Rd1 Bc5
+27. Rc1 Ba3 28. Ba4 Qc5 29. Rxa3 Qxc2 30. Rxc2 Kc7 31. Be7
+Rga8 32. Bxc6 Rxa3 33. Bxa3 bxc6 34. Bd6+ Kd7 35. Kg1 Ra5
+36. Kf2 Rd5 37. Rc5 f6 38. Rxd5 exd5 39. Bc5 fxe5 40. fxe5 1-0

@@ -1,0 +1,22 @@
+[Event "Quebec op"]
+[Site "01"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gilbert Cabana"]
+[Black "Lawrence Day"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 b6 2.d4 Bb7 3.Nc3 e6 4.a3 d6 5.Nf3 Nd7 6.Be2 a6 7.O-O g6
+8.Re1 Bg7 9.Bg5 Qb8 10.Qd2 h6 11.Bh4 g5 12.Bg3 Ngf6 13.e5 Nh5
+14.exd6 Nxg3 15.fxg3 cxd6 16.d5 Qc7 17.dxe6 fxe6 18.Bd3 Qc5+
+19.Qe3 g4 20.Qxc5 Nxc5 21.Bg6+ Ke7 22.Nh4 Bd4+ 23.Kh1 Bxc3
+24.bxc3 Kd7 25.Rab1 b5 26.Bh5 Be4 27.Bxg4 Bxc2 28.Ra1 Rhe8
+29.Bf3 Rac8 30.g4 d5 31.Re3 Nd3 32.h3 Rxc3 33.Kh2 Kd6 34.Bd1
+Bxd1 35.Rxd1 Nb2 36.Rxc3 Nxd1 37.Rc2 Ne3 38.Rc1 d4 39.Nf3 e5
+40.Kg1 Nc4 41.Nh4 d3 42.Nf5+ Ke6 43.Nxh6 Rd8 44.g5 d2 45.Rd1
+Ne3 0-1

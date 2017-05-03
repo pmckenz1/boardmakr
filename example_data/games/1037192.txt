@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Anatoly Trubman"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 c5 4.e3 Nc6 5.Ne2 Nf6 6.Nbc3 O-O 7.d4
+cxd4 8.exd4 d6 9.O-O e5 10.h3 Nd7 11.Be3 f5 12.Qd2 Nf6 13.Rad1
+Qe7 14.f4 e4 15.d5 Nb4 16.Nb5 Nd3 17.Nxa7 Bd7 18.b3 Rfb8
+19.Nc1 Nxc1 20.Rxc1 b6 21.Nb5 Bxb5 22.cxb5 Qf7 23.Rfd1 Ra3
+24.Bf1 Rba8 25.Rc2 Nd7 26.Qf2 Nc5 27.Bc1 R3a7 28.Bc4 h6 29.Be3
+Kh7 30.b4 Nd7 31.Bb3 g5 32.Rf1 Rf8 33.Rc6 gxf4 34.Bxf4 Ne5
+35.Qxb6 Rb7 36.Qe3 Qh5 37.Kg2 Nxc6 38.dxc6 Rxb5 39.Bxd6 Rc8
+40.c7 Qg6 41.Rd1 h5 42.Bf4 Qf6 43.Qe2 1-0

@@ -1,0 +1,25 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Monika Grabics"]
+[Black "Ticia Gara"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 a6 8. Qd2 b5 9. dxc5 Bxc5 10. Bxc5 Nxc5 11. Qf2 Qb6
+12. Bd3 b4 13. Ne2 Na4 14. Qxb6 Nxb6 15. Ned4 Nxd4 16. Nxd4
+Bb7 17. b3 Ke7 18. a3 a5 19. Kd2 Nd7 20. Bb5 Nc5 21. axb4 axb4
+22. Bc6 Rhb8 23. Rxa8 Bxa8 24. Ra1 Bb7 25. Ra7 Kd8 26. Bxb7
+Rxb7 27. Rxb7 Nxb7 28. Nc6+ Kc7 29. Nxb4 Nc5 30. Ke3 Kb6
+31. Kd4 Kb5 32. Nd3 Nd7 33. f5 Nb8 34. g4 Nc6+ 35. Ke3 h6
+36. h3 g5 37. fxg6 fxg6 38. Nf4 Nxe5 39. Nxe6 Kb6 40. Kf4 Nd7
+41. Nd8 Kc5 42. Nf7 h5 43. Ne5 Nf8 44. gxh5 gxh5 45. Kg5 Kd4
+46. Nc6+ Kc3 47. b4 Kxc2 48. b5 Kc3 49. b6 Ne6+ 50. Kxh5 Nc5
+51. Kg6 Kc4 52. h4 Kb5 53. Nd4+ Kxb6 54. h5 Nd3 55. h6 Nf4+
+56. Kf5 1-0

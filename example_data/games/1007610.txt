@@ -1,0 +1,25 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.22"]
+[EventDate "1926.03.07"]
+[Round "12"]
+[Result "0-1"]
+[White "Arpad Vajda"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Nc6
+7. Be3 Nd7 8. g4 e5 9. d5 Ncb8 10. Rg1 a5 11. Bd3 Na6 12. Rc1
+Ndc5 13. Bb1 Qe7 14. Rg3 Bd7 15. Qd2 Nb4 16. Nh4 Kh8 17. Bh6
+Rg8 18. Kf1 Raf8 19. Kg2 f6 20. Kh2 Qf7 21. Bxg7+ Rxg7
+22. Rcg1 Rfg8 23. Nd1 g5 24. Nf5 Bxf5 25. gxf5 b6 26. a3 Nba6
+27. b4 Nb7 28. Bd3 axb4 29. axb4 Nb8 30. Nc3 Qe8 31. Bc2 Nd8
+32. Bd1 Qe7 33. Bb3 Nd7 34. Nb5 Nf8 35. f3 h5 36. Ra1 Nf7
+37. Bd1 g4 38. fxg4 Ng5 39. Qe3 hxg4 40. Bxg4 Rh7 41. Ra7 Rh4
+42. Rxc7 Nd7 43. Ra7 Rc8 44. Rc7 Ra8 45. Ra7 Rg8 46. Ra2 Nf8
+47. Ra6 Nfh7 48. Ra7 Qf8 49. Rd7 Nf7 50. Qxb6 Nh6 51. Bf3 Rxg3
+52. Kxg3 Qg8+ 53. Kf2 Rxh3 54. Rd8 Nf8 55. Ke2 Qg3 56. Rxf8+
+Kg7 57. Rf7+ Nxf7 58. Qe3 Ng5 0-1

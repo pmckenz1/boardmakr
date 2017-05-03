@@ -1,0 +1,20 @@
+[Event "Miedzybrodzie"]
+[Site "03"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Valeri Yandemirov"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 d5 6.Nbd2 Nbd7 7.e4
+dxe4 8.dxe4 e5 9.Qe2 Qe7 10.b3 b6 11.a4 Rd8 12.a5 Bb7 13.Ba3
+Qe8 14.b4 Nb8 15.axb6 axb6 16.Bb2 Nbd7 17.Qc4 Rab8 18.Ra7 Qe7
+19.Re1 Ne8 20.Qb3 Nd6 21.Nc4 Ra8 22.Rxa8 Bxa8 23.Nxd6 Qxd6
+24.Bf1 Qe7 25.Bc4 Bb7 26.Rd1 Bf6 27.Bd3 Nf8 28.Ra1 Bc8 29.Kg2
+Ne6 30.Ra7 Qd7 31.Bxe5 Ng5 32.Nxg5 Bxe5 33.Nxf7 Qh3+ 34.Kg1
+Be6 35.Ng5+ 1-0

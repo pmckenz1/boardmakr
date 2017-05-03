@@ -1,0 +1,20 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Eddy Levi"]
+[Black "Phillip Viner"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 d5 6. e5 Ne7
+7. O-O Nf5 8. c4 Be7 9. Nc3 O-O 10. Re1 Rb8 11. b3 Nd4 12. Bf4
+Rb7 13. Rc1 f6 14. Nxd4 cxd4 15. Ne2 c5 16. Bg3 Rb6 17. exf6
+Rxf6 18. Nf4 dxc4 19. dxc4 Rh6 20. Rc2 Bd7 21. Nd3 a5 22. Rce2
+a4 23. Re4 axb3 24. axb3 Be8 25. Nf4 Bf7 26. h3 Bd6 27. Nd3
+Bxg3 28. fxg3 Qc7 29. Re5 Rc6 30. Qa1 Bg6 31. Rxe6 Rxe6
+32. Rxe6 Bxd3 33. Qa8+ 1-0

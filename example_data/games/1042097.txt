@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.01.04"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Henri Weenink"]
+[ECO "A82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 f5 2. e4 d6 3. exf5 Bxf5 4. Qf3 Qc8 5. Bd3 Bxd3 6. Qxd3
+Nc6 7. Nf3 e6 8. O-O Qd7 9. c4 O-O-O 10. Re1 Nf6 11. Bd2 Re8
+12. Na3 Be7 13. b4 Rhf8 14. b5 Nd8 15. Nc2 Nh5 16. a4 g5
+17. a5 g4 18. Ng5 d5 19. b6 cxb6 20. axb6 a6 21. c5 Bxg5
+22. Bxg5 Nc6 23. Reb1 Qg7 24. Be3 Kd7 25. Nb4 Nxb4 26. Rxb4
+Rc8 27. Rxa6 bxa6 28. b7 Rb8 29. Qxa6 Qe7 30. Bg5 Qxg5
+31. Qd6+ Ke8 32. Qxb8+ Kf7 33. Qxf8+ Kxf8 34. b8=Q+ 1-0

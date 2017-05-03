@@ -1,0 +1,25 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Leonid Kernazhitsky"]
+[Black "Vladimir Iljenchenko"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 e6 5. Nf3 c5 6. d4 Nc6
+7. Be3 a6 8. Qd2 cxd4 9. Nxd4 Nxd4 10. Bxd4 Bc5 11. O-O-O Bxd4
+12. Qxd4 Qb6 13. Be2 Qxd4 14. Rxd4 h5 15. Re1 g6 16. Bf3 Kf8
+17. Ne2 b5 18. a4 Nb8 19. axb5 axb5 20. Rb4 Bd7 21. Nd4 Ke7
+22. Re3 Na6 23. Rbb3 b4 24. Rbd3 Nc5 25. Rd1 Ra2 26. b3 Rc8
+27. Kd2 Rca8 28. Ree1 Kd8 29. Ke3 Kc7 30. Kf2 Kb6 31. Kg3 Nb7
+32. Kh4 Nd8 33. Be2 Nc6 34. Nxc6 Bxc6 35. Bd3 Bb5 36. Bxb5
+Kxb5 37. Rd2 Kb6 38. Kg5 Rc8 39. Ree2 Ra1 40. h3 Rh1 41. Kf6
+Rc7 42. Re3 Rf1 43. Kg5 Kb5 44. Ree2 Kc5 45. g4 Rg1 46. Rd3
+Kb5 47. Kh4 hxg4 48. hxg4 Rc1 49. Rdd2 Rc3 50. Kg5 Rh1 51. Kf6
+Rc7 52. Rf2 Kc5 53. Rd3 Rg1 54. g5 d4 55. Rh3 Ra1 56. Rh8 Raa7
+57. Rd2 Kd5 58. Rd8+ Rd7 59. Rh8 Ke4 60. Rh4 d3 1-0

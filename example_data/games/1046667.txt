@@ -1,0 +1,26 @@
+[Event "It (open), Hamburg (Germany)"]
+[Site "It (open), Hamburg (Germany)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Hans-Joerg Jantzen"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6
+7. a4 a5 8. Bf4 Na6 9. Qd2 Nb4 10. Rac1 Qc7 11. Bh6 e5
+12. Bxg7 Kxg7 13. dxe5 dxe5 14. Qg5 Re8 15. Nh4 Qe7 16. Qg3
+Bd7 17. f4 Rad8 18. f5 Bc8 19. Qe3 Nd7 20. Qg3 Kh8 21. Rf3 Rg8
+22. fxg6 fxg6 23. Rcf1 Rdf8 24. Kh1 Nxc2 25. Bc4 Rxf3 26. Rxf3
+Rg7 27. Rf1 Nd4 28. Ba2 b6 29. Qh3 Qe8 30. Qe3 Ba6 31. Rf2 Nc5
+32. Qh6 Nce6 33. Rf6 Kg8 34. Qg5 Rf7 35. Qxe5 Rxf6 36. Qxf6
+Qf7 37. Qxf7+ Kxf7 38. Nf3 Ke7 39. Kg1 Nxf3+ 40. gxf3 Kd6
+41. Kf2 Nf4 42. Bg8 h6 43. Ke3 g5 44. Bf7 Nd3 45. Nd1 Ke7
+46. Bg8 Kf6 47. Ba2 Nb4 48. Bb3 Ke5 49. Nf2 Bc8 50. h4 Bd7
+51. hxg5 hxg5 52. Bf7 Nc2+ 53. Kd2 Nd4 54. Nd3+ Kf6 55. Bh5 c5
+56. e5+ Ke7 57. Bg4 Bxa4 58. f4 Bd7 59. Bxd7 Kxd7 60. fxg5
+Nf3+ 0-1

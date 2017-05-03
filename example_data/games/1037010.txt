@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Saint John (Canada)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vereslav Eingorn"]
+[Black "Nigel Rodney Davies"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.Nh3 Nf6 6.Nc3 c6 7.Bg5 h6
+8.Bxf6 Qxf6 9.e3 g5 10.Be2 Bg7 11.Bh5+ Kd8 12.O-O Qe7 13.Kh1
+Nd7 14.b4 Nf6 15.Rc1 Be6 16.d5 cxd5 17.Nxd5 Nxd5 18.cxd5 Bd7
+19.Ng1 Rc8 20.Qb3 Qe5 1/2-1/2

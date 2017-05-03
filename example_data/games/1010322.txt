@@ -1,0 +1,21 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Anup Deshmukh"]
+[Black "Venkatachalam Saravanan"]
+[ECO "E71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 Na6
+7. Nf3 e5 8. d5 h6 9. Be3 Nc5 10. Nd2 a5 11. a3 Qe8 12. b4 Na6
+13. c5 Qe7 14. cxd6 cxd6 15. Nc4 axb4 16. axb4 Nc7 17. Rc1 Nd7
+18. Na4 Rb8 19. Na5 Ne8 20. Bd3 f5 21. f3 Nef6 22. O-O Nh5
+23. Rc7 Ng3 24. Re1 Qh4 25. Ba7 Ra8 26. Bf2 f4 27. Nxb7 Nf6
+28. Rxc8 Rfxc8 29. Nxd6 Rcb8 30. Qb3 Bf8 31. Nb5 Kh8 32. d6
+Nd7 33. Nc5 Nxc5 34. bxc5 Qf6 35. Qd5 g5 36. Bc4 Bg7 37. c6 h5
+38. c7 Rf8 39. d7 g4 40. Qxa8 Rxa8 41. c8=Q+ Qd8 42. Qxd8+ 1-0

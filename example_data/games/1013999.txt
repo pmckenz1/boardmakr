@@ -1,0 +1,15 @@
+[Event "Oakham"]
+[Site "Oakham"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Michael Adams"]
+[Black "David Norwood"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 c6 5.Qd2 b5 6.f3 Nd7 7.h4 h5
+8.O-O-O Qa5 9.Kb1 Nb6 10.Nce2 Qxd2 1/2-1/2

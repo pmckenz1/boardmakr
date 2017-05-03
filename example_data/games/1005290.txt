@@ -1,0 +1,20 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.09"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Suzan Mouradian"]
+[Black "Abdo Somev"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "2140"]
+[PlyCount "62"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 e5 4. Be3 exd4 5. Qxd4 Nf6 6. Nc3
+Qa5 7. Nf3 Nc6 8. Qd1 Bb4 9. Bd2 O-O 10. Be2 Bg4 11. O-O Rad8
+12. Qc1 Rfe8 13. a3 Bxc3 14. Bxc3 Qh5 15. Bxf6 gxf6 16. Re1
+Re4 17. c4 Rde8 18. Bd3 Bxf3 19. Bxe4 Rxe4 20. Rxe4 Bxe4
+21. Qf4 Qe5 22. Qg4+ Kh8 23. Qc8+ Kg7 24. Qxb7 Qg5 25. g3 Qf5
+26. Qb3 Qh3 27. f3 Nd4 28. Qd1 Nxf3+ 29. Kf2 Qxh2+ 30. Ke3 Ng5
+31. Qg4 Qxb2 0-1

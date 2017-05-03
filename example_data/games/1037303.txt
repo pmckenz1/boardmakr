@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Oslo (Norway)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Frode Elsness"]
+[Black "Nigel Rodney Davies"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 d6 2.c4 e5 3.d5 g6 4.Nc3 Bg7 5.e4 Na6 6.Nge2 c6 7.Ng3 h5
+8.Be2 Nh6 9.O-O h4 10.Nh1 f5 11.exf5 gxf5 12.f4 h3 13.g3 Qb6+
+14.Nf2 Nf7 15.Bh5 e4 16.Kh1 Qd4 17.Qe2 Nc5 18.Be3 Qf6 19.Bxc5
+dxc5 20.Nfxe4 fxe4 21.Nxe4 Qxb2 22.Nf6+ Kd8 23.Qxb2 Rxh5
+24.dxc6 1-0

@@ -1,0 +1,17 @@
+[Event "Caracas"]
+[Site "Caracas VEN"]
+[Date "1939.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "J Garcia"]
+[ECO "D23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+ c6 5. Qxc4 e6 6. Qc2
+Nfd7 7. e4 Bb4+ 8. Nc3 h6 9. Be2 Qa5 10. O-O Bxc3 11. bxc3 e5
+12. Nd2 exd4 13. cxd4 Qb4 14. Nc4 Qe7 15. Ba3 Qe6 16. d5 cxd5
+17. Nd6+ Kd8 18. Rac1 1-0

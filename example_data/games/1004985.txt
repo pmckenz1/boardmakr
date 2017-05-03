@@ -1,0 +1,16 @@
+[Event "Belfort Comtois"]
+[Site "FRA"]
+[Date "1999.12.19"]
+[EventDate "1999.12.13"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexei Fedorov"]
+[Black "Vadim Zvjaginsev"]
+[ECO "B47"]
+[WhiteElo "2659"]
+[BlackElo "2652"]
+[PlyCount "29"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6
+7. Bg2 Nf6 8. O-O Bc5 9. Nb3 Ba7 10. a4 h6 11. Qe2 O-O 12. Be3
+Bxe3 13. Qxe3 d5 14. Rad1 dxe4 15. Nxe4 1/2-1/2

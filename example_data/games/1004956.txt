@@ -1,0 +1,21 @@
+[Event "Margate"]
+[Site "Margate ENG"]
+[Date "1939.04.13"]
+[EventDate "1939.04.12"]
+[Round "2"]
+[Result "0-1"]
+[White "George Shorrock Ashcombe Wheatcroft"]
+[Black "George Alan Thomas"]
+[ECO "B91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Nc6
+7. Bg2 Bg4 8. f3 Bd7 9. Be3 g6 10. O-O Bg7 11. Nd5 O-O 12. Rf2
+Nxd5 13. exd5 Ne5 14. b3 Qc7 15. c4 b5 16. Rc1 bxc4 17. bxc4
+Rac8 18. Rfc2 Ba4 19. f4 Bxc2 20. Rxc2 Nd7 21. Nc6 Rce8
+22. Bh3 Nc5 23. Re2 f5 24. Bg2 Kh8 25. Bxc5 dxc5 26. Re6 Bf6
+27. Ne5 Rb8 28. Rc6 Qb7 29. d6 exd6 30. Rxd6 Qb1 31. Nd7 Bd4+
+32. Rxd4 cxd4 33. Bf3 Qxd1+ 34. Bxd1 Rb1 35. Nxf8 Rxd1+
+36. Kf2 Rd2+ 37. Ke1 Rxa2 0-1

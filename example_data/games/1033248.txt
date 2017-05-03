@@ -1,0 +1,18 @@
+[Event "10s, Cadiz op"]
+[Site "10s, Cadiz op Hiarcs 7.32"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Jesus Seoane Sepulveda"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 Nbd7 4. Nf3 e5 5. Bc4 Be7 6. O-O O-O
+7. Re1 c6 8. a4 a5 9. h3 Qc7 10. Ba2 h6 11. Be3 Re8 12. Nh4
+Nf8 13. Qf3 Be6 14. Nf5 Bxa2 15. Rxa2 Ng6 16. Raa1 Nd7 17. Qg3
+Bf8 18. Rad1 Rad8 19. h4 Kh7 20. Qf3 exd4 21. Bxd4 Nge5
+22. Qg3 Nc5 23. f4 g6 24. fxe5 gxf5 25. Qf2 1-0

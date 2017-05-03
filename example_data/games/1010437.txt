@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Praveen Mahadeo Thipsay"]
+[Black "Neeraj-Kumar Mishra"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2
+Nge7 7. Be3 Nxd4 8. Qxd4 b5 9. f4 Nc6 10. Qd2 Be7 11. O-O O-O
+12. Rad1 Qc7 13. Kh1 Na5 14. f5 Bf6 15. Bf4 Be5 16. f6 gxf6
+17. Nd5 exd5 18. Bxe5 Qxe5 19. Rf5 Nc6 20. Rxe5 Nxe5 21. Qxd5
+Rb8 22. Qd6 Bb7 23. Qxf6 Rfe8 24. Bd3 Re6 25. Qf5 Kh8 26. Re1
+Rg8 27. Re3 Rgg6 28. Kg1 Kg7 29. Be2 d6 30. Bh5 Rgf6 31. Qg5+
+Ng6 32. Bf3 Re5 33. Qg3 d5 34. Qe1 dxe4 35. Be2 Ref5 36. Bg4
+Rg5 37. Rg3 Ne5 38. Bc8 Bxc8 39. Rxg5+ Ng6 40. Qxe4 Be6
+41. Qd4 1-0

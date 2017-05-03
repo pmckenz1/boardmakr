@@ -1,0 +1,20 @@
+[Event "BL 9495"]
+[Site "BL 9495"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andrei Kovalev"]
+[Black "Lubomir Ftacnik"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bxd7+
+Qxd7 7. O-O Nc6 8. d3 e6 9. Be3 Nge7 10. Qd2 O-O 11. Qf2 f5
+12. Rae1 e5 13. Qh4 Nd4 14. Rf2 fxe4 15. dxe4 Rae8 16. fxe5
+Nxf3+ 17. Rxf3 Bxe5 18. Ref1 Rxf3 19. Rxf3 Qe6 20. Rh3 h5
+21. Qg5 Rf8 22. Nd5 Nxd5 23. exd5 Qf5 24. Qxf5 Rxf5 25. b3 b5
+26. c4 bxc4 27. bxc4 Rf7 28. Bf2 Rf4 29. Rh4 Rf7 30. Re4 Bxh2+
+31. Kxh2 Rxf2 32. Re6 Rxa2 1/2-1/2

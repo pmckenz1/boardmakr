@@ -1,0 +1,19 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Mikhail Podgaets"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg5 O-O 5.e3 c5 6.Nf3 d6 7.Be2 h6
+8.Bh4 cxd4 9.Nxd4 Nc6 10.O-O Bd7 11.Rc1 a6 12.Qd2 Rb8 13.Rfd1
+b5 14.Bxf6 Bxf6 15.Nd5 Bg7 16.Nxc6 Bxc6 17.cxb5 Bxb5 18.Bxb5
+axb5 19.Rc2 Rb7 20.Nb4 Qd7 21.Rdc1 Ra8 22.h3 d5 23.Qxd5 Qxd5
+24.Nxd5 Rxa2 25.Nc3 Bxc3 26.bxc3 Rxc2 27.Rxc2 Rc7 28.Rb2
+1/2-1/2

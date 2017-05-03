@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.25"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Eliahu Shvidler"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Nbd7 6.e3 c6 7.Bd3
+Nb6 8.Nge2 Be7 9.Qc2 h6 10.Bh4 Nh5 11.Bxe7 Qxe7 12.O-O-O Be6
+13.Kb1 O-O-O 14.Rc1 Kb8 15.Rhd1 Rhe8 16.Ka1 Bc8 17.Ng3 Nxg3
+18.hxg3 Qf6 19.Rf1 Bg4 20.Nb1 Nc8 21.Nd2 Nd6 22.Qa4 Bf5 23.Be2
+Be4 24.Nxe4 Nxe4 25.Qc2 Qe7 26.Bd3 f5 27.Rb1 Qf6 28.b4 Rc8
+29.Rfc1 g5 30.Qb2 b5 31.a4 a6 32.Bxe4 fxe4 33.Rc3 Rc7 34.Rbc1
+Re6 35.axb5 axb5 36.Ra3 Ree7 37.Rcc3 Ra7 38.Ra5 Qd6 39.Kb1
+Rxa5 40.bxa5 Kb7 41.Rc5 Re6 42.Qd2 1/2-1/2

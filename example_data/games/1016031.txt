@@ -1,0 +1,18 @@
+[Event "New York Edward Lasker Turnier"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Jonathan David Tisdall"]
+[ECO "D33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.c4 e6 2.Nc3 c5 3.Nf3 Nc6 4.d4 d5 5.cxd5 exd5 6.g3 c4 7.Bg2
+Bb4 8.O-O Nge7 9.e4 O-O 10.exd5 Nxd5 11.Bg5 f6 12.Nxd5 Qxd5
+13.Be3 Qf7 14.d5 Rd8 15.dxc6 Rxd1 16.Rfxd1 Ba5 17.Nd4 a6 18.b4
+Bxb4 19.Rab1 a5 20.a3 bxc6 21.axb4 axb4 22.Nxc6 Bg4 23.Nxb4
+1-0

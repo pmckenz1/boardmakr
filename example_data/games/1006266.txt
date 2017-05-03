@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.12"]
+[EventDate "2000.04.05"]
+[Round "8"]
+[Result "0-1"]
+[White "Saevar Bjarnason"]
+[Black "Emmanuel Bricard"]
+[ECO "D61"]
+[WhiteElo "2305"]
+[BlackElo "2461"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O
+7. Qc2 b6 8. cxd5 exd5 9. Be2 Bb7 10. O-O c5 11. dxc5 bxc5
+12. Rfd1 Qb6 13. Rac1 Rac8 14. b3 Rfd8 15. Ne1 Qe6 16. Bf3 Ne5
+17. Be2 d4 18. Nb5 Ne4 19. Bxe7 Qxe7 20. exd4 cxd4 21. Qb2
+Rxc1 22. Qxc1 Rc8 23. Qb2 Nc3 24. Nxc3 dxc3 25. Qc1 Ng6
+26. Bc4 Ne5 27. Qxc3 Nxc4 28. bxc4 Ba6 29. c5 Qe2 0-1

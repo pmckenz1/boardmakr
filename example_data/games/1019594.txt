@@ -1,0 +1,16 @@
+[Event "Dortmund"]
+[Site "Dortmund FRG"]
+[Date "1973.05.24"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Drazen Marovic"]
+[Black "Ulf Andersson"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.e4 d6 7.f3
+Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.Be2 Rfc8
+13.b3 a6 14.Nd5 Qxd2+ 1/2-1/2

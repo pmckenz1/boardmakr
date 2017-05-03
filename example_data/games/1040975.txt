@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1952.03.18"]
+[EventDate "?"]
+[Round "21"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Edward Lasker"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.Nf3 d5 2.d4 c5 3.dxc5 Nf6 4.e3 Nbd7 5.c4 dxc4 6.c6 bxc6
+7.Bxc4 g6 8.Qb3 e6 9.O-O Qb6 10.Qc2 Bg7 11.b3 O-O 12.Bb2 c5
+13.Nbd2 Bb7 14.Be2 Qc7 15.Rad1 Rfd8 16.h3 Rac8 17.Nc4 Ne8
+18.Bxg7 Kxg7 19.Rd2 f6 20.Rfd1 Nf8 21.Qc3 Rd5 22.Ne1 Rcd8
+23.Bf3 Rxd2 24.Rxd2 Rxd2 25.Nxd2 Bxf3 26.Nexf3 e5 27.Qc4 Nd6
+28.Qd5 Nd7 1/2-1/2

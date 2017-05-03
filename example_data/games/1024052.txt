@@ -1,0 +1,21 @@
+[Event "Hastings 1966/67"]
+[Site "Hastings ENG"]
+[Date "1967.01.03"]
+[EventDate "1966.12.28"]
+[Round "6"]
+[Result "0-1"]
+[White "Raymond Keene"]
+[Black "Yuri Balashov"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 d5 4.O-O Be7 5.c4 O-O 6.b3 c5 7.Bb2
+Nc6 8.e3 b6 9.Nc3 Ba6 10.d3 Qc7 11.Qe2 Rad8 12.Rfd1 d4 13.exd4
+Nxd4 14.Nxd4 cxd4 15.Nb1 Rfe8 16.Nd2 e5 17.a3 Bb7 18.Bxb7 Qxb7
+19.Rab1 Nd7 20.b4 f5 21.Qf3 Qxf3 22.Nxf3 a5 23.Bc1 axb4
+24.axb4 h6 25.Ne1 Bf6 26.Bb2 g5 27.Ra1 Ra8 28.f3 Nf8 29.g4
+fxg4 30.fxg4 Ne6 31.Kg2 Be7 32.b5 Rxa1 33.Rxa1 Bb4 34.Kf3 Nc5
+35.Nc2 Nxd3 36.Ke4 Nf2+ 37.Kf5 Bc5 38.Kg6 d3 39.Ra7 Re6+
+40.Kf5 Re7 0-1

@@ -1,0 +1,22 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Karl-Heinz Podzielny"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6
+7. Nd2 Bg7 8. Nc4 O-O 9. Bg5 h6 10. Bf4 Ne8 11. Qc1 g5 12. Bd2
+f5 13. h4 f4 14. hxg5 hxg5 15. e3 Bf5 16. exf4 Qe7+ 17. Be2 b5
+18. Ne3 b4 19. Nxf5 Rxf5 20. Nd1 gxf4 21. Kf1 Nf6 22. Bxf4
+Nbd7 23. g3 Nxd5 24. Qc2 Qf7 25. Bg4 Rxf4 26. gxf4 Nxf4
+27. Qh7+ Kf8 28. Bxd7 Qxd7 29. Qe4 Qb5+ 30. Kg1 Ne2+ 31. Kg2
+Re8 32. Qf5+ Kg8 33. Qd5+ Kf8 34. Qxd6+ Kf7 35. Rh5 Qd3
+36. Qxd3 Nf4+ 37. Kf3 Nxd3 38. Rd5 c4 39. Rb1 Ke6 40. Rxd3
+cxd3 41. Rc1 Kd7 42. Rc5 Kd6 43. Rg5 Bd4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Debrecen UHUNO"]
+[Site "Debrecen <HUN>"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Christine Flear"]
+[Black "Alisa Galliamova"]
+[ECO "D23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.g3 Nc6 5.Nc3 a6 6.Bg2 Rb8 7.d5
+Na7 8.Ne5 e6 9.Be3 Nb5 10.Qa4 exd5 11.O-O-O c6 12.Nxc4 Nxc3
+13.bxc3 b5 14.Qb3 Nd7 15.Nb2 Bd6 16.Bd4 O-O 17.e4 b4 18.c4 c5
+19.Be3 d4 20.Bd2 a5 21.f4 Nb6 22.e5 Be7 23.Be4 Bb7 24.Bxb7
+Rxb7 25.Qf3 Ra7 26.f5 f6 27.e6 a4 28.a3 Qc8 29.Kb1 Qa6 30.Rc1
+Rb8 31.Ka2 bxa3 32.Qxa3 Nc8 33.Qf3 a3 34.Nd1 Rb2+ 35.Nxb2 axb2
+36.Kb1 Qa2+ 37.Kc2 b1=Q+ 0-1

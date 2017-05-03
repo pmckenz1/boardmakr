@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lothar Vogt"]
+[Black "Vladimir Bagirov"]
+[ECO "B05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 c6 6.c4 Nb6 7.Nbd2
+dxe5 8.Nxe5 Be6 9.Ne4 f6 10.Nc5 Bg8 11.Nf3 Qc7 12.b3 e5 13.Ne4
+N8d7 14.dxe5 Nxe5 15.O-O Bf7 16.Bb2 Nxf3+ 17.Bxf3 Be7 18.c5
+Nd5 19.Nd6+ Bxd6 20.cxd6 Qxd6 21.Re1+ Kf8 22.Qd4 h5 23.a4 Kg8
+24.Ba3 Qd8 25.Bc5 b6 26.Ba3 Rc8 27.Rad1 Rc7 28.b4 Qc8 29.Qd3
+Nf4 30.Qd6 Ng6 31.Be4 h4 32.Bc1 c5 33.Bf5 Qb7 34.Bf4 Rc6
+35.Qd3 c4 36.Qe4 Kh7 37.Rd7 Re8 38.Rxb7 Rxe4 39.Bxe4 Re6 1-0

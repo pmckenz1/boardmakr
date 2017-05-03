@@ -1,0 +1,22 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Yury Dobrovolsky"]
+[Black "Alexey Mazurok"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d3 e5 2. e4 Nc6 3. c3 d6 4. Nf3 g6 5. Be2 Bg7 6. Bg5 Nf6
+7. Nbd2 h6 8. Bxf6 Qxf6 9. h4 h5 10. Qc2 a5 11. Nc4 Nd8
+12. Ne3 Ne6 13. g3 a4 14. Bd1 Bd7 15. Qe2 b5 16. a3 c6 17. Kf1
+O-O 18. Kg2 Rfd8 19. Bc2 Be8 20. Rad1 d5 21. Bb1 d4 22. Nc2 c5
+23. Ba2 Bc6 24. c4 Rdb8 25. cxb5 Rxb5 26. Rb1 Rab8 27. Na1 Qe7
+28. b3 axb3 29. Rxb3 c4 30. Rxb5 Bxb5 31. Bxc4 Bxc4 32. dxc4
+Qxa3 33. Rd1 Nc5 34. Ne1 Rb2 35. Qf3 Qa2 36. Kg1 Qxc4 37. Nac2
+Rxc2 38. Nxc2 Qxc2 39. Re1 d3 40. Qd1 Qxd1 41. Rxd1 Bh6
+42. Kg2 d2 43. f3 Na4 44. f4 exf4 45. Rxd2 f3+ 0-1

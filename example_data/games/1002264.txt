@@ -1,0 +1,35 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.23"]
+[EventDate "?"]
+[Round "24"]
+[Result "1-0"]
+[White "William Henry Krause Pollock"]
+[Black "Henry Edward Bird"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 {Notes by Steinitz.} c5 2.d4 {Out of its usual turn which
+is generally on the third move, but it makes no difference
+excepting if Black should accept the continuation 2...cxd4
+3.Nf3 e5 , after which White, although he dare not play 4.Nxe5
+on account of the rejoinder ...Qa5+, winning the knight, will
+yet obtain a good attack by 4.c3} cxd4 3.Nf3 Nc6 4.Nxd4 d6
+5.Be3 g6 6.Nc3 Bg7 7.Be2 Nf6 8.Qd2 h5 9.h3 O-O 10.O-O-O Bd7
+11.f4 Nxd4 12.Bxd4 Bc6 13.Bd3 Qa5 14.Kb1 e5 15.Be3 Rfd8 16.f5
+{Premature and misjudging the position which required Qf2 to
+be played first.} d5 17.Bh6 dxe4 18.Bxg7 Kxg7 19.Nxe4 Qxd2
+20.Nxd2 e4 21.Bc4 gxf5 22.Kc1 b5 {Black, after having won a
+pawn by hard play, commences an artificial line of attack that
+in the end involves him in difficulties, whereas the simple e3
+at this juncture, with the view of entering soon with the
+Knight at e4, would have won in an easy manner.} 23.Be2 Nd5
+24.Rdf1 Ne3 25.Rf4 Kg6 26.Re1 Kg5 27.Rf2 Nd5 28.g4 {Excellent
+and practically decisive, as it recovers the pawn, with much
+the superior game.} hxg4 29.hxg4 e3 30.Rxf5+ Kg6 31.Nf3 f6
+32.Nh4+ Kg7 33.g5 Rh8 34.gxf6 Nxf6 35.Rg1+ Kf7 36.Rg6 {The
+telling blow. It wins a piece.} Rxh4 37.Rgxf6+ Ke7 38.Rxc6 Rh2
+39.Bxb5 Rh1+ 40.Rf1 Rxf1+ 41.Bxf1 Rf8 42.Be2 Rf2 43.Kd1 Rg2
+44.Ke1 1-0

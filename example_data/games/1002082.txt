@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.03.28"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "John Washington Baird"]
+[Black "Eugene Delmar"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 b5 7.Bb3
+O-O 8.d3 d6 9.h3 Na5 10.Nh2 Nxb3 11.axb3 b4 12.Ne2 d5 13.exd5
+Qxd5 14.Ng3 Bb7 15.f3 Bc5+ 16.Kh1 Bb6 17.Bg5 Qe6 18.Bxf6 Qxf6
+19.Ne4 Qg6 20.Qd2 f5 21.Nf2 Qg3 22.Rae1 Rf6 23.Nd1 Rg6 24.Ne3
+Rf8 25.Nc4 Bd4 26.Re2 Bc5 27.Rxe5 Bd6 28.Nxd6 Qxe5 29.Nc4 Qb5
+30.Re1 Bd5 31.Re5 Re6 32.f4 Rfe8 33.Nf3 Bxf3 34.Rxb5 Re1+
+35.Kh2 axb5 36.Ne5 Re2 37.Qxb4 Rxg2+ 38.Kh1 Rxe5 0-1

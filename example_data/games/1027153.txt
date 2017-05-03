@@ -1,0 +1,19 @@
+[Event "Philadelphia (USA)"]
+[Site "Philadelphia, PA USA"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Harold Bogner"]
+[Black "Anthony Saidy"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.c4 Nf6 2.Nf3 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.d4 c6 7.O-O
+Qa5 8.h3 Be6 9.Qd3 Qa6 10.b3 d5 11.Ne5 dxc4 12.Nxc4 Rd8 13.e4
+Nbd7 14.Rd1 Nb6 15.Nxb6 Qxd3 16.Rxd3 axb6 17.Be3 Bxb3 18.Rd2
+b5 19.Rb1 Bc4 20.Bf1 Bxf1 21.Kxf1 Ra3 22.Rc2 Ne8 23.e5 Nc7
+24.Bc1 Ra7 25.Rcb2 Nd5 26.Ne4 Rda8 27.Ra1 Ra4 28.Be3 Bxe5
+29.Nc5 Rxd4 30.Nxb7 Nxe3+ 31.fxe3 Rd7 0-1

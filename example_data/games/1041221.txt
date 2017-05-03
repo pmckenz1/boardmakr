@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "11"]
+[Date "1964.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Bernardo Wexler"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c6 6.d4 d5 7.Na3
+dxc4 8.Nxc4 Be6 9.Nce5 Bd5 10.Be3 Nbd7 11.Nxd7 Qxd7 12.Qc1 Ng4
+13.Bf4 Bxf3 14.Bxf3 Bxd4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1972.01.24"]
+[EventDate "1972.01.11"]
+[Round "11"]
+[Result "1-0"]
+[White "Arturo Pomar Salamanca"]
+[Black "Andras Adorjan"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 g6 2.Nf3 Bg7 3.g3 Nf6 4.Bg2 O-O 5.O-O d6 6.b3 Nbd7 7.Bb2
+e5 8.dxe5 Ng4 9.c4 dxe5 10.h3 Nh6 11.e4 c6 12.Nc3 Re8 13.Qd2
+f6 14.Rad1 Nf7 15.Nh2 a6 16.Ne2 b5 17.Qc2 b4 18.f4 a5 19.Kh1
+Qe7 20.Nc1 Nc5 21.f5 Bd7 22.Nd3 Rad8 23.Ng4 Nxd3 24.Rxd3 Bc8
+25.Bc1 Rd4 26.Be3 c5 27.Bxd4 exd4 28.fxg6 hxg6 29.Nxf6+ Bxf6
+30.Rdf3 Kg7 31.Rxf6 Qxf6 32.Rxf6 Kxf6 33.Qd2 Kg7 34.Kg1 Bd7
+35.Kf2 Re5 36.h4 Re8 37.Qf4 Re5 38.Bf3 a4 39.g4 axb3 40.axb3
+g5 41.hxg5 Rxg5 42.Qc7 Be6 43.Qe7 Bc8 44.Qe8 Bxg4 45.Bxg4 Rxg4
+1-0

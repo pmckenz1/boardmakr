@@ -1,0 +1,25 @@
+[Event "Balassagyarmat (Hungary)"]
+[Site "Balassagyarmat HUN"]
+[Date "1990.09.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Markus Stangl"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.c4 g6 2.d4 Bg7 3.Nf3 d6 4.Nc3 Bg4 5.g3 Bxf3 6.exf3 c6 7.Bg2
+Nf6 8.d5 cxd5 9.cxd5 Nbd7 10.Be3 O-O 11.O-O a6 12.Re1 Rc8
+13.Bd4 b5 14.f4 Nb6 15.a4 Rc4 16.axb5 Rxd4 17.Qxd4 Nfxd5
+18.Qd3 Nxc3 19.bxa6 Nca4 20.a7 Qd7 21.Qa6 d5 22.Rxa4 Qxa4
+23.Qxa4 Nxa4 24.Rxe7 Nb6 25.Rb7 Bd4 26.Rb8 Na8 27.Rb7 Nb6
+28.b4 Kg7 29.Rb8 Na8 30.Bxd5 Bxa7 31.Rxa8 Rxa8 32.Bxa8 Kf6
+33.Bd5 Ke7 34.Kf1 Bb6 35.Ke2 Ba7 36.Ba2 Bb6 37.Bb3 Ba7 38.h3
+Bb6 39.Bd5 Ba7 40.Ba2 Bb6 41.Bb1 Ke6 42.g4 h6 43.b5 g5 44.Ba2+
+Ke7 45.fxg5 hxg5 46.f4 f6 47.Kd3 Kd6 48.Bf7 Ba5 49.Ke4 Bb6
+50.Be8 Ba5 51.Kf5 Bd8 52.Bc6 Kc5 53.Ke6 Kb6 54.Kd6 Bc7+ 55.Ke7
+Bxf4 56.Kxf6 Kc7 57.Bf3 Be3 58.Kg6 Kd6 59.Kh5 Ke5 60.h4 gxh4
+61.Kxh4 Ke6 62.Kh5 1-0

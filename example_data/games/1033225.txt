@@ -1,0 +1,23 @@
+[Event "8, Leon ESP (10s)"]
+[Site "Leon ESP"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Francisco Javier Sanz Alonso"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 f5 2. g3 c6 3. Bg2 d6 4. Nc3 d5 5. Bg5 Qb6 6. Na4 Qa5+
+7. c3 e6 8. b4 Qc7 9. Bf4 Bd6 10. Bxd6 Qxd6 11. Nf3 Nd7
+12. O-O Ngf6 13. Nc5 b6 14. Nd3 O-O 15. Qb3 a5 16. a4 Ba6
+17. Nfe5 Bxd3 18. Nxd3 Ne4 19. Rfd1 c5 20. bxc5 bxc5 21. dxc5
+Ndxc5 22. Qa3 Rab8 23. Rab1 Rfc8 24. f3 Nxd3 25. Qxd6 Nxd6
+26. exd3 Kf7 27. Rxb8 Rxb8 28. c4 dxc4 29. dxc4 Nxc4 30. Bf1
+Ne3 31. Rd7+ Ke8 32. Rxg7 Rb1 33. Kf2 Nxf1 34. Rxh7 Nd2 35. h4
+Rb3 36. g4 Nxf3 37. g5 Nxh4 38. Rxh4 Kf7 39. Rh7+ Kg6 40. Ra7
+Kxg5 41. Rxa5 Ra3 42. Ra8 Kf4 43. a5 Ra2+ 44. Kg1 e5 45. a6 e4
+46. a7 e3 0-1

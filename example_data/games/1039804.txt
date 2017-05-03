@@ -1,0 +1,33 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.03.01"]
+[EventDate "1909.02.15"]
+[Round "11"]
+[Result "0-1"]
+[White "Georg Salwe"]
+[Black "Oldrich Duras"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "212"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Bb5 Nd4 5.Bc4 Bxc3 6.bxc3 Nxf3+
+7.Qxf3 Qf6 8.d4 d6 9.Rb1 a6 10.O-O b5 11.Bd5 Qxf3 12.gxf3 Rb8
+13.f4 exd4 14.cxd4 Be6 15.c4 Ne7 16.Bxe6 fxe6 17.Be3 d5
+18.cxd5 exd5 19.f3 Kd7 20.Kf2 Rb6 21.Rg1 g6 22.Rgc1 Re6 23.e5
+Rc6 24.Rxc6 Kxc6 25.Bd2 Nf5 26.Rc1+ Kb7 27.Be3 c6 28.Ke2 Rf8
+29.Rg1 Rf7 30.Bf2 a5 31.Kd3 Kb6 32.Rg5 Ng7 33.Be3 Ne6 34.Rg4
+Rf5 35.h4 b4 36.Kc2 Kb5 37.Kd3 a4 38.Rg1 Rh5 39.Rh1 Rf5 40.Rc1
+Rh5 41.Rh1 Rf5 42.Rc1 Rf8 43.Rh1 c5 44.dxc5 d4 45.Bd2 Rd8
+46.h5 Nxc5+ 47.Kc2 b3 48.axb3 axb3 49.Kb1 Nd3 50.hxg6 hxg6
+51.Rh7 b2 52.Rb7+ Kc4 53.Kc2 Ra8 54.e6 Ra1 55.Rc7+ Kd5+ 56.Rb7
+Kc4 57.Rc7+ Kd5+ 58.Rb7 Kxe6 59.Kxd3 b1=Q+ 60.Rxb1 Rxb1
+61.Kxd4 Rd1 62.Ke3 Kd5 63.Ba5 Rb1 64.Bd8 Rb8 65.Bf6 Rb6 66.Bd8
+Rb1 67.Bf6 Rb4 68.Bg7 Rc4 69.Bf6 Rc1 70.Bg7 Rc2 71.Bf6 Rh2
+72.Be7 Rh7 73.Bd8 Rh8 74.Bf6 Rh1 75.Bd8 Ke6 76.Bg5 Kd5 77.Bf6
+Rb1 78.Bd8 Rb8 79.Bf6 Rb6 80.Bg7 Ra6 81.Bb2 Re6+ 82.Kd3 Re7
+83.Bf6 Re1 84.Bc3 Rf1 85.Ke2 Rc1 86.Bg7 Kc4 87.Be5 Kb3 88.Kd3
+Rd1+ 89.Ke2 Kc2 90.Bf6 Rd7 91.Be5 Re7 92.Ke3 Kd1 93.Kf2 Rd7
+94.Ke3 Ke1 95.Ke4 Rf7 96.Ke3 Kf1 97.Bd6 Kg2 98.Ke4 Kf2 99.Bc5+
+Ke2 100.Bd4 Rd7 101.Bc5 Rc7 102.Bf8 Rc4+ 103.Ke5 Kxf3 104.Bh6
+Kg4 105.Kf6 Kh5 106.Bg5 Rc5 0-1

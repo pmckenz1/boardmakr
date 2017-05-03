@@ -1,0 +1,23 @@
+[Event "It (cat.4)"]
+[Site "Vrnjachka Banja (Yugoslavia)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Milan Drasko"]
+[Black "Nigel Rodney Davies"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c6 7.Nc3
+Bf5 8.Qb3 Qc7 9.Ne1 e5 10.e4 Bd7 11.Nc2 Na6 12.Rd1 Ng4 13.h3
+exd4 14.Nxd4 Ne5 15.Nce2 c5 16.Nb5 Bxb5 17.cxb5 c4 18.Qa3 Nc5
+19.Nc3 Ned3 20.Nd5 Qd7 21.Bh6 f5 22.Bxg7 Qxg7 23.exf5 Rxf5
+24.Rd2 Rxf2 25.Rxf2 Nxf2 26.Rc1 Nfd3 27.Rxc4 Nxb2 28.Rf4 Nbd3
+29.Rf6 Rf8 30.Rxd6 Qe5 31.Ne7+ Qxe7 32.Rxd3 Qe1+ 33.Kh2 Nxd3
+34.Qxd3 Qf2 35.Qc4+ Kg7 36.h4 b6 37.Kh3 Qf5+ 38.g4 Qe5 39.Qd3
+Rf7 40.Bf3 Re7 41.Kg2 Qe3 42.Qd5 Qe6 43.Qd2 Rd7 44.Qc2 Qe3
+45.Qc6 Qd2+ 46.Kh3 Rf7 47.a4 Qe3 48.Kg2 Qf4 49.Qd5 Rc7 50.g5
+Rc2+ 51.Kf1 Qc4+ 0-1

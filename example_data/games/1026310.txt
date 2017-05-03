@@ -1,0 +1,22 @@
+[Event "London open"]
+[Site "London open"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Michael John Basman"]
+[Black "Sukh Dave Singh"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. g4 d5 2. h3 e5 3. Bg2 c6 4. d4 e4 5. c4 Bd6 6. Nc3 Ne7
+7. Qb3 O-O 8. Bd2 Na6 9. Rc1 Bb4 10. Nxe4 dxe4 11. Bxb4 c5
+12. Bxc5 Nxc5 13. dxc5 f5 14. gxf5 Bxf5 15. h4 Ng6 16. Qc3 Nf4
+17. Bf1 Qc7 18. h5 Rad8 19. h6 Nd3+ 20. exd3 exd3 21. Nf3
+Rde8+ 22. Kd1 Bg4 23. Bxd3 Rxf3 24. Kc2 Bf5 25. Rcd1 Rd8
+26. Rhg1 g6 27. Bxf5 Rxc3+ 28. bxc3 Rxd1 29. Be6+ Kf8 30. Rxd1
+Qxc5 31. Rd4 Qe5 32. Bg4 Qg5 33. f3 Qxh6 34. Rd8+ Ke7 35. Rd7+
+Kf6 36. Rxb7 Qh2+ 37. Kb3 h5 38. Bd7 Qf2 39. Rb5 Qxf3 40. Kb4
+Qd1 41. Rd5 Qb1+ 42. Kc5 0-1

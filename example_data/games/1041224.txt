@@ -1,0 +1,23 @@
+[Event "Tel Aviv Bd1"]
+[Site "Tel Aviv ISR"]
+[Date "1964.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alfredo Olivera"]
+[Black "Erich Eliskases"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.e3 O-O 5.Be2 d6 6.h3 b6 7.O-O
+Bb7 8.Nbd2 Nbd7 9.c3 Re8 10.Qb3 e5 11.dxe5 Nxe5 12.Rfd1 Nfd7
+13.Nxe5 Bxe5 14.Bxe5 Nxe5 15.Qa4 Qg5 16.Bf1 Nd3 17.h4 Qf5
+18.Bxd3 Qxd3 19.Nf1 Qe4 20.Qxe4 Rxe4 21.Rd4 f5 22.Rad1 Rae8
+23.Ng3 R4e5 24.Ne2 R8e7 25.Nf4 Kf7 26.R1d2 Re4 27.a3 h6 28.Ne2
+Kf6 29.Rxe4 Rxe4 30.Rd4 g5 31.Rxe4 Bxe4 32.hxg5+ hxg5 33.f4 g4
+34.Kf2 c5 35.g3 Ke6 36.Nc1 Kd5 37.Ke2 a5 38.Nb3 Bf3+ 39.Kf2
+Be4 40.Nd2 Bd3 41.Ke1 c4 42.Kd1 Kc5 43.Kc1 Kb5 44.Kd1 d5
+45.Kc1 Ka4 46.Kd1 b5 47.Kc1 b4 48.axb4 axb4 49.b3+ Ka3 50.bxc4
+dxc4 51.Nb1+ Bxb1 52.Kxb1 b3 0-1

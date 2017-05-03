@@ -1,0 +1,33 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "1-0"]
+[White "Carol-Peter Gouw"]
+[Black "Hendrik A Happel"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "2215"]
+[PlyCount "193"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7
+7. d3 O-O 8. e4 d6 9. h3 Nc6 10. a3 Nd7 11. Kh2 Bf6 12. Ng1
+Nd4 13. Nce2 Nxe2 14. Nxe2 Ne5 15. f4 Nc6 16. f5 Nd4 17. Nxd4
+Bxd4 18. Qg4 exf5 19. Qxf5 Qe7 20. Ra2 a6 21. b3 b5 22. Bb2
+Be5 23. Bc1 Bc6 24. b4 Bd7 25. Qh5 g6 26. Qd1 Be6 27. Rc2 Rac8
+28. Qe2 Rb8 29. bxc5 dxc5 30. Bf4 Qd6 31. cxb5 Rxb5 32. Bxe5
+Qxe5 33. Rfc1 Rc8 34. Qe3 Kg7 35. a4 Ra5 36. Qf2 Rxa4 37. Rxc5
+Rxc5 38. Qxc5 Qxc5 39. Rxc5 Rd4 40. Bf1 Bd7 41. Kg2 Bb5
+42. Rc3 a5 43. Kf2 a4 44. Ke3 Rb4 45. Be2 Kf6 46. Bd1 Rb1
+47. Bc2 Rg1 48. e5+ Ke7 49. Rc7+ Kd8 50. Rxf7 Rxg3+ 51. Kd4
+Rxh3 52. Kc5 Bxd3 53. Bxa4 Bf5 54. Bb5 Rh2 55. Bc6 Kc8 56. Kd6
+Rd2+ 57. Bd5 Kb8 58. Rb7+ Kc8 59. Rxh7 Kb8 60. Rb7+ Kc8
+61. Rg7 Kb8 62. Rg8+ Ka7 63. Ra8+ Kb6 64. Rb8+ Ka7 65. Rb4 Ka6
+66. e6 Bxe6 67. Kxe6 g5 68. Kd6 Rh2 69. Kc5 Ka7 70. Ra4+ Kb8
+71. Ra8+ Kc7 72. Ra7+ Kb8 73. Rg7 Rc2+ 74. Kd6 Rh2 75. Rg8+
+Ka7 76. Bc6 Kb6 77. Rb8+ Ka7 78. Rb4 Rh6+ 79. Kc7 Rh7+ 80. Bd7
+Rh6 81. Bc6 Rh7+ 82. Kd6 Rh6+ 83. Kc5 Rh2 84. Ra4+ Kb8 85. Kb6
+Rb2+ 86. Bb5 Rf2 87. Re4 Rf8 88. Bd7 g4 89. Ra4 Rf2 90. Rxg4
+Rb2+ 91. Bb5 Rc2 92. Rg8+ Rc8 93. Rg7 Rc2 94. Rg8+ Rc8 95. Rg3
+Rf8 96. Bd7 Rh8 97. Bc6 1-0

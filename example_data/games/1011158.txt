@@ -1,0 +1,25 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Buenaventura Bong Villamayor"]
+[Black "Ben Flores"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. Bg5 d5 5. e3 Nbd7 6. Nbd2 h6
+7. Bh4 g5 8. Bg3 Nh5 9. Be5 f6 10. Bg3 Nxg3 11. hxg3 Bg7
+12. c4 O-O 13. cxd5 exd5 14. dxc5 Nxc5 15. Rc1 Ne6 16. Qb3 f5
+17. Be2 b6 18. O-O Kh8 19. Rfd1 Bb7 20. Qa3 Qf6 21. Ba6 Bxa6
+22. Qxa6 Nc5 23. Qa3 Qxb2 24. Qxb2 Bxb2 25. Rc2 Bg7 26. Nb3
+Nxb3 27. axb3 Rfd8 28. Rc7 Kg8 29. Rdc1 Rf8 30. Nd4 Bxd4
+31. exd4 Rf7 32. R7c6 Re8 33. Rd6 Re4 34. Rxd5 f4 35. f3 Re3
+36. gxf4 gxf4 37. b4 Re2 38. Rc8+ Kh7 39. Rdd8 Rg7 40. Rh8+
+Kg6 41. Rc6+ Kf5 42. Rf8+ Kg5 43. Rff6 h5 44. Kh2 Rb2 45. Kh3
+Rxb4 46. Rfd6 Rb5 47. Rd8 Rg6 48. d5 Rb1 49. g3 fxg3 50. f4+
+Kxf4 51. Rxg6 Rh1+ 52. Kg2 Rh2+ 53. Kg1 h4 54. Rf8+ Ke5
+55. Rg5+ Kd6 56. Rf6+ Kc5 57. d6+ Kc6 58. d7+ Kc7 59. Rd6 1-0

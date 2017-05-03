@@ -1,0 +1,16 @@
+[Event "Ch URS 1 liga"]
+[Site "40"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Zurab Azmaiparashvili"]
+[Black "Adrian Mikhalchishin"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6
+7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Qa5+ 11.Bd2 Qd8 12.Bg5 Qa5+
+13.Bd2 Qd8 14.Bg5 Qa5+ 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Stefan E S Kindermann"]
+[Black "Ognjen Cvitan"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bxd7+
+Qxd7 7. O-O Nc6 8. d3 f5 9. Qe2 Nh6 10. Bd2 O-O 11. Rae1 Rae8
+12. Qd1 e6 1/2-1/2

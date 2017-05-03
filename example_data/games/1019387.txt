@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1873.08.16"]
+[EventDate "1873.07.21"]
+[Round "8.3"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.Bb5 Nd4 {Mr Bird's
+favorite defence.} 4.Nxd4 exd4 5.d3 c6 6.Bc4 Nf6 7.O-O d5
+8.exd5 Nxd5 9.Nd2 Be6 10.Ne4 Be7 11.Qe2 O-O 12.Bd2 Qd7 13.Rae1
+Rae8 14.f4 {Tempting as it looks, this is the weak move of
+White's game.} f5 15.Ng3 Bc5 16.Qf3 Ne3 17.Bxe3 dxe3 18.Qe2
+Bxc4 19.dxc4 Rf6 20.Rd1 Rd6 21.Rxd6 Qxd6 22.Nxf5 {This was no
+gift.} Qf6 23.g4 Rd8 24.Re1 Qxb2 25.g5 Qc3 26.Kh1 Qd2 27.Qxd2
+{If 27.Nxe3 Qxe2 Rxe2 28.Re1 and wins.} exd2 28.Rd1 Bb4 29.Kg2
+Re8 30.c3 Bxc3 31.Kf2 c5 {Re1 followed by this move, was
+equally good.} 0-1

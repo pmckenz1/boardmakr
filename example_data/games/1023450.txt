@@ -1,0 +1,24 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Viacheslav Dydyshko"]
+[ECO "E46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 Re8 6.a3 Bf8 7.d5
+exd5 8.cxd5 c5 9.Ng3 d6 10.Be2 a6 11.a4 g6 12.O-O Nbd7 13.e4
+h5 14.Bg5 Bg7 15.Qd2 Nf8 16.f3 N8h7 17.Be3 h4 18.Nh1 Nh5
+19.Nf2 f5 20.exf5 gxf5 21.f4 Ng3 22.Rfe1 Nxe2+ 23.Rxe2 Bd7
+24.a5 b5 25.axb6 Qxb6 26.Nfd1 Qb4 27.Qe1 Nf6 28.Qxh4 Qc4
+29.Qg3 Nxd5 30.Rd2 Nxc3 31.Nxc3 Rxe3 32.Qxe3 Bd4 33.Rxd4 cxd4
+34.Qg3+ Kf7 35.Nd1 Bb5 36.Nf2 Rg8 37.Qh3 Qd5 38.Qh5+ Rg6
+39.Qh7+ Rg7 40.Qh5+ Kg8 41.g4 Bc6 42.Qh3 d3 43.Ra3 d2 44.Rd3
+Rxg4+ 45.Kf1 Bb5 46.Ke2 Bxd3+ 47.Qxd3 Qxd3+ 48.Nxd3 Rg2+
+49.Kd1 Rxh2 50.Nb4 Kf7 51.Nxa6 Rf2 52.Nc7 Rxf4 53.Kxd2 Rc4
+54.Nb5 Ke6 55.Kd3 Rb4 56.Nxd6 Rxb2 57.Ke3 Rb4 0-1

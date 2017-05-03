@@ -1,0 +1,20 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.23"]
+[EventDate "1912.05.20"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Erich Cohn"]
+[Black "Oldrich Duras"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 a6 5. Bg5 Be7 6. e3 dxc4
+7. Bxc4 b5 8. Bd3 Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rad1 c4
+12. Bc2 b4 13. Na4 Qa5 14. Bxf6 Nxf6 15. Ne5 Rc8 16. f3 Qb5
+17. Rde1 Bd6 18. f4 O-O 19. b3 cxb3 20. axb3 Qxe2 21. Rxe2 Ne4
+22. Nc4 Be7 23. Ra1 Rc7 24. Bd3 f5 25. Rc2 Nf6 26. Rac1 Rfc8
+27. Nab6 Rb8 28. Na4 Nd5 29. Kf2 Rbc8 30. Nab6 Nxb6 31. Nxb6
+1/2-1/2

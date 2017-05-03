@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Vladimir Savon"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nf3 Qc7 8. Bg5 Nbd7 9. a4 b6 10. Nd2 h6 11. Bh4 Bb7 12. Bc4
+g5 13. Bg3 Nc5 14. Qe2 Bg7 15. h4 O-O-O 16. hxg5 hxg5 17. Rxh8
+Rxh8 18. O-O-O Kb8 19. f3 Nh5 20. Bf2 Nf4 21. Qf1 Nfe6 22. Nb3
+Nxb3+ 23. cxb3 Ka7 24. Bxe6 fxe6 25. a5 Kb8 26. Bxb6 Qd7
+27. Qd3 d5 28. exd5 exd5 29. Nxd5 Rc8+ 30. Kb1 g4 31. Ka2 gxf3
+32. gxf3 Bh6 33. Nc3 Qxd3 34. Rxd3 Bf8 35. Ne4 Bb4 36. Nf6 Ka8
+37. Nd5 Be1 38. Ka3 Rc1 39. Nc7+ Kb8 40. Rd8+ Bc8 41. Nxa6+
+Ka8 42. b4 1-0

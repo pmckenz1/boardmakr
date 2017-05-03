@@ -1,0 +1,23 @@
+[Event "02, Tallinn"]
+[Site "02, Tallinn"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Magaram Magomedov"]
+[Black "Vladimir Bagirov"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.Ng5
+d5 8.O-O h6 9.Nf3 Bg4 10.Nbd2 a5 11.c3 e6 12.h3 Bf5 13.Re1 a4
+14.Bc2 Bxc2 15.Qxc2 N8d7 16.Nf1 c5 17.Ne3 Qc7 18.Qe2 cxd4
+19.cxd4 Nc4 20.Nxc4 Qxc4 21.Qxc4 dxc4 22.Nd2 b5 23.Ne4 O-O
+24.Bd2 Rfb8 25.a3 Nb6 26.Bb4 Bf8 27.Nf6+ Kg7 28.Bc5 Bxc5
+29.dxc5 Nd5 30.Nxd5 exd5 31.Rad1 Rd8 32.e6 fxe6 33.Rxe6 d4
+34.Re7+ Kf6 35.Rde1 Ra6 36.Rb7 Re6 37.Rd1 d3 38.Rxb5 Rd5
+39.Kf1 Re2 40.Rb6+ Kf5 41.c6 Rc5 42.Re1 Rc2 43.c7 Rxc7 44.g4+
+Kg5 45.Ree6 Rc1+ 46.Kg2 d2 47.Rxg6+ Kf4 48.Rbd6 d1=Q 49.Rgf6+
+Ke5 50.Rfe6+ Kf4 1/2-1/2

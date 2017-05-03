@@ -1,0 +1,18 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.07"]
+[EventDate "?"]
+[Round "18"]
+[Result "1/2-1/2"]
+[White "Ediwan E Miolo"]
+[Black "Andras Adorjan"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 c5 2.Nc3 d6 3.Nf3 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 a6 7.O-O
+Be7 8.a4 O-O 9.f4 Qc7 10.Be3 b6 11.Bf3 Bb7 12.Qe2 Nc6 13.Rad1
+Rfe8 14.Qf2 Rab8 15.f5 Bf8 16.Nb3 Ba8 17.Bg5 Be7 18.Be2 exf5
+19.Qxf5 Nb4 20.Bd3 Qb7 21.Bxf6 Bxf6 22.Nd5 Nxd5 23.exd5 Qxd5
+24.Qxh7+ Kf8 25.Rd2 Qg5 26.Bxa6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Stockholm it, SWE"]
+[Site "Stockholm SWE"]
+[Date "1937.01.21"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Erik Ruben Lundin"]
+[Black "Reuben Fine"]
+[ECO "E53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. e3 c5 6. Bd3 O-O
+7. O-O a6 8. a3 cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. d5 Qc7
+12. Qe2 b5 13. Bb3 exd5 14. Bg5 Be6 15. Rac1 Qd6 16. Rfd1 Nbd7
+17. Bh4 Rfe8 18. Bg3 Qb6 19. Qf1 Qb7 20. Nxd5 Bxd5 21. Rc7
+Qxc7 22. Bxc7 Bxb3 23. Rc1 Rac8 24. Ba5 Bc4 25. Qd1 Nc5
+26. Nd4 Nd3 27. Rb1 Bc5 28. b3 Bxd4 29. bxc4 bxc4 0-1

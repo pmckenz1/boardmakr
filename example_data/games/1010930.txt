@@ -1,0 +1,18 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Dmitry Vdovin"]
+[Black "Vadim Zaitsev"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 g6 5. Na3 Bg7 6. Nb5 Na6
+7. Qa4 Bd7 8. Be3 Qe4 9. O-O-O Nf6 10. Be2 O-O 11. Bf3 Qf5
+12. Qc4 Ng4 13. Bxb7 Nxe3 14. fxe3 Bh6 15. Re1 Rab8 16. Bxa6
+Qe4 17. Qe2 Bf5 18. Na3 cxd4 19. Qf3 Qh4 20. g3 Qf6 21. Bd3
+Bxd3 22. Qxf6 exf6 23. cxd4 Rfc8+ 24. Kd2 Be4 0-1

@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Zoltan von Balla"]
+[Black "Hans Mueller"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Nxc6
+bxc6 7. Bd3 e6 8. O-O Be7 9. b3 O-O 10. Bb2 Nd7 11. Na4 Bf6
+12. Bxf6 Qxf6 13. f4 Qd4+ 14. Kh1 Nc5 15. Nxc5 Qxc5 16. Qe2 e5
+17. f5 f6 18. Rf3 a5 0-1

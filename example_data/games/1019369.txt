@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1872.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Johannes Minckwitz"]
+[Black "Anderssen / Goring / Allies"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.Nxe5 Nxe5 9.dxe5 Bb7 10.c3 Be7 11.Qg4 O-O 12.Be3 f5
+13.exf6 Nxf6 14.Qe6+ Kh8 15.Qf5 c5 16.Bc2 Qe8 17.Qd3 Bd6
+18.Qd1 Qc6 19.f3 Ng4 20.fxg4 d4 21.Qe2 dxe3 22.Na3 c4 23.Rf5
+g6 24.Rxf8+ Rxf8 25.Rf1 Rf2 26.Rxf2 exf2+ 27.Kxf2 Qxg2+ 28.Ke1
+Qg1+ 29.Qf1 Qxh2 30.Qf6+ Kg8 31.Qe6+ Kg7 32.Qd7+ Kh6 33.Qxb7
+Bg3+ 34.Kd1 Qg1+ 35.Ke2 Qf2+ 36.Kd1 Qf1+ 37.Kd2 Bf4# 0-1

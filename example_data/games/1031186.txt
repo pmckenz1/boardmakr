@@ -1,0 +1,20 @@
+[Event "Trencianske Teplice (Slovakia)"]
+[Site "Trencianske Teplice (Slovakia)"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Jan Foltys"]
+[Black "Julio Bolbochan"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 a5 10.d4 exd4 11.cxd4 a4 12.Bc2 Nb4 13.Nc3
+Nxc2 14.Qxc2 b4 15.Nxa4 Bd7 16.b3 Bxa4 17.bxa4 Qd7 18.d5 Qxa4
+19.Qxa4 Rxa4 20.Bd2 Nd7 21.Rab1 Nc5 22.Rxb4 Rxa2 23.Reb1 f5
+24.exf5 Rxf5 25.Rf4 Rxf4 26.Bxf4 Kf7 27.Be3 Ra5 28.Bd2 Ra4
+29.Be3 Ne4 30.Rc1 Nf6 31.Rxc7 Nxd5 32.Ra7 Rxa7 33.Bxa7 Bf6
+34.Kf1 1/2-1/2

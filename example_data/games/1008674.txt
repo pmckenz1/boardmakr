@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Lorin A R D'Costa"]
+[Black "James J McDonnell"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6
+7. Qd2 Be7 8. O-O-O O-O 9. Nb3 Qb6 10. f3 Rd8 11. Kb1 a6
+12. h4 Qc7 13. h5 h6 14. Bf4 Ne5 15. Qf2 b5 16. g4 Nh7 17. Bc1
+Bd7 18. f4 Nxg4 19. Qg3 b4 20. Qxg4 bxc3 21. Rd3 cxb2 22. Bxb2
+e5 23. Qg2 Bf6 24. Rg1 Kh8 25. Bc3 a5 26. Rg3 a4 27. Nd2 Be6
+28. f5 Rab8+ 29. Ka1 Bd7 30. Bc4 Ng5 31. Qe2 Bc6 32. Rd3 Rb7
+33. Ba6 Qb6 34. Rdg3 Rbb8 35. Bd3 Qc5 36. Nc4 Rdc8 37. Bb2
+Bxe4 38. Ba3 Bxd3 39. cxd3 Qd4+ 40. Bb2 Qd5 41. Ne3 Qa5 42. a3
+Rb3 43. Rb1 Be7 44. Ka2 f6 45. Rg4 d5 46. Nc2 Qb5 47. Nb4 e4
+0-1

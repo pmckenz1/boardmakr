@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexander Riazantsev"]
+[Black "Vitaly Kunin"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 d5 6. O-O Bd6
+7. b3 O-O 8. Bb2 Nbd7 9. Ne5 Ne4 10. f3 Nxd2 11. Qxd2 Nxe5
+12. dxe5 Bc5 13. Bd4 Be7 14. f4 c5 15. Bb2 f5 16. Rad1 Qc7
+17. Qe2 Bc6 18. c4 Qb7 19. cxd5 Bxd5 20. Rd2 Rad8 21. Rfd1 Qc6
+22. Bb5 Qc8 23. Ba6 Qc6 24. Bb5 Qc8 25. Ba6 Qa8 26. Bc3 Qc6
+27. Bb5 Qc8 28. Ba6 Qc6 29. Bb5 Qc7 30. Bb2 g6 31. Bc4 Bxc4
+32. Qxc4 Kf7 33. e4 Rxd2 34. Rxd2 Rd8 35. Rxd8 Qxd8 36. exf5
+Qd1+ 37. Kf2 Qd2+ 38. Kf3 gxf5 39. Qe2 Qd5+ 40. Kf2 Ke8
+41. Bc3 Kd8 42. Qf3 Kd7 43. h3 b5 44. g4 Bh4+ 45. Ke2 Kc6
+46. Ba5 Qxf3+ 47. Kxf3 Kd5 48. g5 Kd4 49. Bd8 Be1 50. Ke2 Bg3
+1/2-1/2

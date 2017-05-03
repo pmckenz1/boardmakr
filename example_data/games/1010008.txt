@@ -1,0 +1,20 @@
+[Event "Ch World FIDE, Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Alexei Fedorov"]
+[Black "Boris Gulko"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7
+7. Nf3 Qa5 8. Bd2 Nbc6 9. h4 cxd4 10. cxd4 Qa4 11. h5 Nxd4
+12. Bd3 Nec6 13. Kf1 Nf5 14. Kg1 Qg4 15. Qe2 f6 16. h6 fxe5
+17. hxg7 Rg8 18. Rxh7 e4 19. Ng5 Qxe2 20. Bxe2 Rxg7 21. Rh8+
+Ke7 22. f4 exf3 23. Bxf3 Nfd4 24. Bh5 b6 25. Re1 e5 26. c3 Nb3
+27. Bf4 Bb7 28. Rh6 Rag8 29. Bxe5 Rxg5 30. Rh7+ Ke6 31. Bh2+
+Ne5 32. Bf7+ Kf6 33. Rf1+ Ke7 34. Bxg8+ 1-0

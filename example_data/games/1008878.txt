@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Stewart Haslinger"]
+[Black "Mark Hebden"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6
+bxc6 7. Bd3 O-O 8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Rb8
+12. Bxf6 Qxf6 13. Qxf6 gxf6 14. Ne2 Bd6 15. b3 Be5 16. Rae1 a5
+17. Kh1 Re8 18. f4 Bd6 19. Ng3 Rxe1 20. Rxe1 Bg4 21. Nf5 Bxf4
+22. Ne7+ Kf8 23. Nxc6 Rc8 24. Nd4 Be5 25. Nf5 Bc3 26. Re3 Bd2
+27. Rg3 Re8 28. Kg1 h5 29. h3 Bxf5 30. Bxf5 Re1+ 31. Kf2 Re5
+32. Rf3 Be1+ 33. Kg1 h4 34. Bd3 Ke7 35. Rf5 Ke6 36. Rxe5+ fxe5
+37. Kf1 Bc3 38. Ke2 Kd6 39. Bb5 Kc5 40. Be8 f6 41. Bf7 Kd4
+42. Be6 Bb4 43. c4 dxc4 44. Bxc4 a4 45. a3 Kc3 46. bxa4 Kxc4
+47. axb4 Kxb4 48. a5 Kxa5 49. g3 hxg3 50. h4 Kb4 51. h5 Kc3
+52. h6 g2 53. Kf2 e4 54. h7 e3+ 55. Kxg2 e2 56. h8=Q e1=Q
+57. Qxf6+ Kc2 1/2-1/2

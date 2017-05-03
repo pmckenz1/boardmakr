@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.21"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Zenon Franco Ocampos"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. cxd5 exd5
+7. Be2 cxd4 8. Nxd4 Bd6 9. O-O O-O 10. Bf3 Be5 11. Qd3 Re8
+12. Rd1 Bg4 13. Bxg4 Bxh2+ 14. Kxh2 Nxg4+ 15. Kg1 Qh4 16. Qf5
+Re5 17. Qf4 Rh5 18. Kf1 Re8 19. g3 Qh3+ 20. Ke2 Nxd4+ 21. Rxd4
+Nh2 22. Rxd5 Qf1+ 23. Kd2 Rxd5+ 24. Nxd5 Qg2 25. e4 h5 26. Kc3
+Qf1 27. b3 Ng4 28. f3 Ne5 29. Qd2 Qxf3+ 30. Qe3 Qg2 31. Ba3
+Rc8+ 32. Bc5 Nc6 33. Qd2 Qxg3+ 34. Kb2 Qe5+ 35. Qc3 Qh2+
+36. Ka3 b6 37. Rg1 Ne5 38. Ne7+ Kh7 39. Nxc8 bxc5 40. Rc1 1-0

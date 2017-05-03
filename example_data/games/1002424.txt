@@ -1,0 +1,21 @@
+[Event "USA-06.Congress New York (38-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.15"]
+[EventDate "?"]
+[Round "38"]
+[Result "1/2-1/2"]
+[White "James Mason"]
+[Black "Max Weiss"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Be3 Bb6 6.Nc3 d6 7.Ne2
+Be6 8.Bb5 O-O 9.Bxc6 bxc6 10.Bg5 h6 11.Bxf6 Qxf6 12.Ng3 Qe7
+13.O-O f5 14.exf5 Bxf5 15.Nxf5 Rxf5 16.Qe2 Raf8 17.c3 Qf6
+18.Rad1 Rf4 19.Rd2 g5 20.Ne1 d5 21.Nc2 e4 22.d4 c5 23.b4 cxb4
+24.cxb4 c6 25.a4 Qd6 26.Rb1 Bc7 27.g3 Rf3 28.Rf1 Qd7 29.Kg2 h5
+30.Ne3 h4 31.b5 hxg3 32.hxg3 R8f7 33.Rc2 cxb5 34.Qxb5 Qd6
+35.Qxd5 Rxg3+ 36.fxg3 Qxg3+ 37.Kh1 Qh3+ 38.Kg1 Qxe3+ 39.Rff2
+Bf4 40.Re2 Qg3+ 41.Kf1 Qh3+ 42.Kg1 Qg3+ 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.19"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "Bertil Eriksson"]
+[Black "Katarina Beskow"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 d5 2.c4 c6 3.e3 Nf6 4.Nc3 g6 5.Nf3 Bg7 6.Bd3 O-O 7.Ne5
+Nh5 8.f4 Bxe5 9.fxe5 Ng7 10.O-O f5 11.exf6 exf6 12.e4 Be6
+13.exd5 cxd5 14.cxd5 Bxd5 15.Nxd5 Qxd5 16.Bc2 Kh8 17.Bb3 Qd6
+18.Qd3 Nc6 19.d5 Ne5 20.Qh3 Nf5 21.Bd2 Nd4 22.Rad1 Nxb3
+23.Qxb3 Ng4 24.g3 Rfe8 25.Qf3 f5 26.h3 Nf6 27.Bc3 Kg8 28.g4
+fxg4 29.hxg4 Rf8 30.Qg2 Rae8 31.g5 Nh5 32.Rxf8+ Rxf8 33.Qh2
+Qc5+ 34.Rd4 Rf4 35.Qe2 Rxd4 36.Qe8+ Kg7 37.Qe5+ Kf7 38.Bxd4
+Qc1+ 39.Kh2 Qc2+ 40.Kh3 Qf5+ 41.Qxf5+ gxf5 42.Be5 Ng7 43.Bxg7
+Kxg7 44.Kg3 Kf7 45.Kf4 Ke7 1-0

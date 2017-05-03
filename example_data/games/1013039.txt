@@ -1,0 +1,19 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1933.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wimsatt Jr. / Turover"]
+[Black "Alexander Alekhine"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3
+7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 b6
+12. O-O Bb7 13. Qf4 Nc6 14. Rfd1 Qf6 15. Qxf6 gxf6 16. Kf1
+Rfd8 17. Ke2 Nb4 18. Bd3 Rac8 19. Kd2 f5 20. exf5 Bxf3
+21. gxf3 Rxd4 22. Ke2 Nxd3 23. Rxd3 Rc2+ 24. Ke3 Rxd3+
+25. Kxd3 Rxf2 26. fxe6 fxe6 27. Ke4 Rxh2 28. Ke5 Kf7 0-1

@@ -1,0 +1,27 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.21"]
+[EventDate "1911.08.21"]
+[Round "1"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "139"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c4 g6 7.d4 exd4
+8.Nxd4 Bd7 9.Nxc6 bxc6 10.O-O Bg7 11.c5 O-O 12.Nc3 d5 13.Bg5
+h6 14.Bxf6 Bxf6 15.exd5 Bxc3 16.bxc3 cxd5 17.c6 Be6 18.Qd4 Rb8
+19.Rad1 Qd6 20.Qf6 Qc5 21.h4 h5 22.Rfe1 Kh7 23.Bc2 Rb2 24.Rc1
+Bf5 25.Re2 Rxa2 26.g4 Bxc2 27.gxh5 gxh5 28.Rexc2 Rg8+ 29.Kh1
+Ra4 30.Qxf7+ Rg7 31.Qxh5+ Kg8 32.Re2 Rf4 33.Re8+ Rf8 34.Rce1
+Qxc6 35.R1e6 Qd7 36.Kh2 Qf7 37.Rxf8+ Kxf8 38.Qh8+ Qg8 39.Qh6
+Qh7 40.Qf6+ Rf7 41.Qd8+ Kg7 42.Qg5+ Kf8 43.Qd8+ Kg7 44.Qg5+
+Kf8 45.Rxa6 Rxf2+ 46.Kg1 Rf1+ 47.Kxf1 Qd3+ 48.Kf2 Qxa6 49.Qd8+
+Kf7 50.Qxd5+ Ke7 51.Qe5+ Kd7 52.h5 Qh6 53.Qf5+ Ke7 54.Kf3 Qc1
+55.Qe5+ Kd7 56.Kg4 c6 57.Qf5+ Ke8 58.Qe6+ Kf8 59.Qf6+ Ke8
+60.Qxc6+ Ke7 61.Qe4+ Kd7 62.c4 Qg1+ 63.Kf5 Qf2+ 64.Kg5 Kd8
+65.h6 Qg3+ 66.Kh5 Qc3 67.h7 Kc7 68.Qe7+ Kc6 69.Qe8+ Kc7
+70.h8=Q 1-0

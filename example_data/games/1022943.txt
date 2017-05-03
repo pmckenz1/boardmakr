@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1970.11.30"]
+[EventDate "1970.??.??"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Aivars Gipslis"]
+[ECO "E39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Bf4 Na6 7.a3
+Bxc3+ 8.Qxc3 Ne4 9.Qd4 Naxc5 10.Rd1 d5 11.b4 Na4 12.cxd5 exd5
+13.e3 Qb6 1/2-1/2

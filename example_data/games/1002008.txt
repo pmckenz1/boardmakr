@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.06.13"]
+[EventDate "1883.04.26"]
+[Round "20.1"]
+[Result "1/2-1/2"]
+[White "James Mason"]
+[Black "Alexander G Sellman"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. d4 e6 2. Bf4 d5 3. Nf3 Bd6 4. Bg3 Nf6 5. e3 O-O 6. Bd3 b6
+7. Qe2 Bb7 8. Bh4 Nbd7 9. Nbd2 Rc8 10. c3 Qe8 11. O-O a5
+12. Bxf6 Nxf6 13. Ne5 Bxe5 14. dxe5 Ne4 15. f4 Nxd2 16. Qxd2
+f5 1/2-1/2

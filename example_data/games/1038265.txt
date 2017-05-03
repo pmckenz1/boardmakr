@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nick DeFirmian"]
+[Black "Guillermo Garcia Gonzales"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3
+Qa5 8.Bd2 Qc7 9.Bd3 b6 10.O-O Ba6 11.Re1 h6 12.dxc5 bxc5
+13.Rb1 Bxd3 14.cxd3 O-O 15.c4 Rd8 16.Qa4 Nbc6 17.Qb5 dxc4
+18.dxc4 Rd3 19.Qxc5 Qd8 20.Be3 Rc8 21.a4 Nf5 22.Kf1 Ncd4
+23.Qxa7 Nxf3 24.gxf3 Qh4 25.Rb8 Rxb8 26.Qxb8+ Kh7 27.Qb4 Qxh2
+28.Qb1 Rxe3 29.Qxf5+ exf5 30.Rxe3 Qf4 0-1

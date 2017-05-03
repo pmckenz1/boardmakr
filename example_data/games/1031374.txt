@@ -1,0 +1,20 @@
+[Event "USA New York"]
+[Site "New York, NY USA"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Craig William Pritchett"]
+[Black "Jay R Bonin"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.h3 Nf6 6.e5 Ne4 7.Bd3
+Nxc3 8.bxc3 c5 9.O-O Nc6 10.a4 c4 11.Be2 f6 12.exf6 exf6
+13.Ba3 Kf7 14.Qd2 Qc7 15.Rfe1 h5 16.Qd1 Qa5 17.Bc5 b6 18.Bd6
+Rd8 19.Bc7 Rd7 20.Bf4 Qxc3 21.Bd2 Qb2 22.Rb1 Qa3 23.Nh4 Re7
+24.Bxh5 Rxe1+ 25.Bxe1 gxh5 26.Qxh5+ Ke6 27.Qe8+ Kd6 28.Qf7
+Qxa4 29.Bd2 Qxc2 30.Bf4+ Ne5 31.Re1 Kc6 32.dxe5 fxe5 33.Bg5
+Qh7 34.Ng6 Bxh3 35.Ne7+ 1-0

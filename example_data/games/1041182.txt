@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1960.04.04"]
+[EventDate "1960.03.29"]
+[Round "6"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Olicio Gadia"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bc4 Bg4 5.f3 Bf5 6.Nc3 c6
+7.dxc6 Nxc6 8.Nge2 Qb6 9.Ng3 Bg6 10.Bb5 e5 11.Qe2 Bd6 12.Na4
+Qc7 13.O-O O-O 14.Bxc6 Qxc6 15.Nc3 Bxc2 16.d3 Ba4 17.Nf5 Bc5+
+18.Be3 Bb5 19.Rac1 Ba6 20.Kh1 Rfd8 21.Bxc5 Qxc5 22.Nd5 Qf8
+23.Nxf6+ gxf6 24.Rfd1 Rac8 25.Rxc8 Rxc8 26.Qe4 Kh8 27.d4 Rc6
+28.dxe5 fxe5 29.Qxe5+ f6 30.Qe3 Bc4 31.h3 Be6 1-0

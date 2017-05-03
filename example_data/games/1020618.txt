@@ -1,0 +1,16 @@
+[Event "Clermont-Ferrand"]
+[Site "Clermont-Ferrand FRA"]
+[Date "1989.07.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Jesus Nogueiras"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.cxd5 Qxd5 12.Nf4 Qb7
+13.Be3 Na6 14.Rc1 Rfd8 1/2-1/2

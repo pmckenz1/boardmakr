@@ -1,0 +1,27 @@
+[Event "Asztalos Memorial"]
+[Site "Szombathely HUN"]
+[Date "1966.??.??"]
+[EventDate "1966.07.04"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Kavalek"]
+[Black "David Bronstein"]
+[ECO "B16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2
+Bf5 7. Nf3 Nd7 8. O-O e6 9. c4 Bg6 10. d5 e5 11. Nd2 Qc7
+12. Nb3 Bd6 13. Bh6 c5 14. h4 f5 15. f4 e4 16. h5 f6 17. g3
+O-O-O 18. Rf2 Be8 19. Bf1 Rg8 20. Kh2 Rg4 21. Be2 Bxh5 22. Kh1
+Nb6 23. Rh2 Qf7 24. Qf1 Nd7 25. Qh3 Bg6 26. Nd2 Re8 27. Nf1 e3
+28. Re1 Qg8 29. Bf3 Bf7 30. Bxg4 fxg4 31. Qg2 Nb6 32. Qc2 Nxc4
+33. Kg1 Bxd5 34. b3 Nb6 35. Rxe3 Kc7 36. Rd2 Kc6 37. Qf5 c4
+38. bxc4 Bxc4 39. Qxf6 Nd5 40. Rxd5 Kxd5 41. Re5+ Bxe5
+42. Ne3+ Kc5 43. fxe5 Qe6 44. Qf4 b5 45. Bf8+ Kb6 46. Bd6 Ka6
+47. Nc2 Qg6 48. Qd2 Qe4 49. Bc5 Qxe5 50. Bf2 Rc8 51. a4 Kb7
+52. Qa5 Ra8 53. Nd4 Qc7 54. Qe1 Qd7 55. axb5 Re8 56. Qa1 Ka8
+57. Nc6 Bxb5 58. Nxa7 Ba4 59. Qc3 Qd1+ 60. Kh2 Rf8 61. Qc5 Qf3
+62. Bg1 Qe2+ 63. Kh1 Qe4+ 64. Kh2 Qc2+ 65. Qxc2 Bxc2 66. Nb5
+Be4 67. Nc3 Bc6 68. Ne2 Rf1 0-1

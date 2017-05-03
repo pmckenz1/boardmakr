@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.13"]
+[EventDate "2000.04.05"]
+[Round "9"]
+[Result "1-0"]
+[White "Helgi Olafsson"]
+[Black "Torsten Sarbok"]
+[ECO "D55"]
+[WhiteElo "2491"]
+[BlackElo "2285"]
+[PlyCount "81"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. e3 c6
+7. Qc2 Nbd7 8. Rd1 h6 9. Bh4 a6 10. c5 b6 11. cxb6 Qxb6
+12. Be2 c5 13. O-O cxd4 14. exd4 Qb8 15. a3 Nb6 16. Ne5 Bd7
+17. f4 Rc8 18. Qd3 Be8 19. f5 exf5 20. Qxf5 Nc4 21. Nxd5 Nxd5
+22. Bxc4 Bxh4 23. Bxd5 Ra7 24. Nxf7 Bxf7 25. Bxf7+ Kh8 26. Bd5
+Re7 27. Be4 Rxe4 28. Qxe4 Bf6 29. b4 Qb6 30. Kh1 Rc3 31. Rf3
+Rc4 32. Qe8+ Kh7 33. Rfd3 Qd6 34. Qe4+ Kh8 35. R3d2 Rc3
+36. Rc2 Rxc2 37. Qxc2 a5 38. Qc5 Qf4 39. bxa5 Qg4 40. Qc2 Bxd4
+41. Qa4 1-0

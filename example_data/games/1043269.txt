@@ -1,0 +1,17 @@
+[Event "It (cat.8)"]
+[Site "London (England)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Daniel John King"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3
+Qc7 8.a4 Be7 9.a5 O-O 10.Be2 Nbd7 11.Nd2 b5 12.axb6 Nxb6
+13.Bxb6 Qxb6 14.Nc4 Qc6 15.O-O Be6 16.Ne3 Rfb8 17.Ncd5 Bxd5
+18.exd5 Qc5 19.b3 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "It (cat.11)"]
+[Site "Rishon LeZion ISR"]
+[Date "1994.11.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Boris Kantsler"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2 Nbd7 6.Nf3 Qa5 7.Bd3
+Bg7 8.O-O O-O 9.Bh6 e5 10.Rfe1 Qd8 11.a4 Re8 12.Bxg7 Kxg7
+13.a5 Nf8 14.h3 Nh5 15.Bc4 1/2-1/2

@@ -1,0 +1,28 @@
+[Event "New York rapid"]
+[Site "New York rapid"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Fritz (Computer)"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "153"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.exd4 Bb4+ 6.Nc3 Nf6
+7.Nf3 O-O 8.O-O Bg4 9.Bg5 h6 10.Bh4 c6 11.a3 Bxf3 12.Qxf3 Qxd4
+13.Bxf6 gxf6 14.Bxf7+ Rxf7 15.axb4 Qxb4 16.Ra4 Qxb2 17.Rg4+
+Kh8 18.Qf4 Nd7 19.Qxh6+ Rh7 20.Qe3 Ne5 21.Rg3 b5 22.Ne4 Nc4
+23.Qf3 a5 24.h4 Rxh4 25.Nxf6 Rf8 26.Rh3 Rxh3 27.Qxh3+ Kg7
+28.Nh5+ Kg6 29.Qg4+ Kh7 30.Nf4 Qf6 31.Ne6 Ra8 32.Qe4+ Qg6
+33.Qxc6 Rg8 34.Qc7+ Kh8 35.Qh2+ Qh7 36.Qf4 Rc8 37.Qf6+ Kg8
+38.Rd1 Nd2 39.Qg5+ Kh8 40.Qxd2 b4 41.Qb2+ Kg8 42.Rd5 Qh6
+43.Rg5+ Kf7 44.Rg7+ Kxe6 45.Qe2+ Kd5 46.Rd7+ Kc6 47.Qa6+ Kxd7
+48.Qxh6 Rc5 49.f4 Kc7 50.f5 Rc4 51.f6 b3 52.f7 b2 53.Qh7 Rc1+
+54.Kh2 b1=Q 55.Qxb1 Rxb1 56.f8=Q Rb5 57.g4 Kd7 58.Qf7+ Kd6
+59.g5 Re5 60.g6 Rh5+ 61.Kg3 Rg5+ 62.Kh4 Rg1 63.g7 Rh1+ 64.Kg5
+Rg1+ 65.Kh4 Rh1+ 66.Kg3 Rg1+ 67.Kf2 Rxg7 68.Qxg7 Kc5 69.Ke3 a4
+70.Ke4 Kc4 71.Qc7+ Kb4 72.Kd4 Kb3 73.Qc3+ Ka2 74.Qb4 a3 75.Kc3
+Ka1 76.Kc2 a2 77.Qd4+ 1-0

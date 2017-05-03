@@ -1,0 +1,19 @@
+[Event "Dortmund op"]
+[Site "03"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Hansjoerg Himmel"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 c5 2.Nc3 e6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Be3 d6 7.f4 Nge7
+8.Nf3 O-O 9.O-O Nd4 10.e5 Nef5 11.Bf2 Nxf3+ 12.Qxf3 Nd4 13.Qd1
+dxe5 14.fxe5 Qc7 15.Ne4 Qxe5 16.c3 Nc6 17.Bxc5 Rd8 18.d4 Qc7
+19.Qe2 h6 20.Nf6+ Kh8 21.Qf3 Ne7 22.g4 Ng8 23.Nxg8 Kxg8 24.Rf2
+e5 25.Raf1 exd4 26.cxd4 Be6 27.Qxb7 Qxb7 28.Bxb7 Rab8 29.d5
+Bxd5 30.Bxd5 Rxd5 31.Bxa7 Rxb2 1/2-1/2

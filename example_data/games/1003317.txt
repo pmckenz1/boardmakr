@@ -1,0 +1,17 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Frederik Benima"]
+[Black "Oldrich Duras"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Qc2 Qa5
+7. cxd5 Nxd5 8. O-O-O Nxc3 9. bxc3 Qxg5 10. Nf3 Qa5 11. Bc4 b5
+12. Bb3 Ba3+ 13. Kb1 Qb6 14. Qe4 Nf6 15. Qf4 Nd5 16. Bxd5 cxd5
+17. Ne5 O-O 18. h4 b4 19. c4 b3 20. Rd2 bxa2+ 21. Kxa2 Rb8 0-1

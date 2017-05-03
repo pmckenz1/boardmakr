@@ -1,0 +1,21 @@
+[Event "Montevideo open"]
+[Site "Montevideo open"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Guillermo Soppe"]
+[Black "Andres Rodriguez Vila"]
+[ECO "E22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 Qe7 5.Nf3 a5 6.g3 c5 7.a3 a4
+8.Qc2 Bxc3+ 9.bxc3 d6 10.Bg2 O-O 11.O-O Nc6 12.Rb1 e5 13.d5
+Na5 14.Nd2 Bd7 15.e4 Rfb8 16.Qd3 b5 17.cxb5 c4 18.Qc2 Bxb5
+19.Rb4 Qc7 20.Re1 Qc5 21.Nf1 Nd7 22.Be3 Qc7 23.Reb1 Nb3 24.Nd2
+Ndc5 25.Bxc5 dxc5 26.Rxb5 Rxb5 27.Nxc4 Rab8 28.Rd1 Rd8 29.Bh3
+Qb8 30.Qd3 f6 31.Bf1 Rb7 32.d6 Qa7 33.Bh3 Kh8 34.d7 h6 35.Qd6
+Rbb8 36.Qe6 Qc7 37.Nd6 Rf8 38.Nf7+ Kh7 39.Qe7 Qb7 40.Bf5+ Kg8
+41.Nxh6+ 1-0

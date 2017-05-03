@@ -1,0 +1,19 @@
+[Event "Wageningen Caltex"]
+[Site "Wageningen NED"]
+[Date "1958.11.02"]
+[EventDate "1958.11.01"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Hans Bouwmeester"]
+[Black "Mikhail Botvinnik"]
+[ECO "A37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.Nf3 g6 2.g3 Bg7 3.c4 c5 4.Bg2 Nc6 5.Nc3 d6 6.O-O Nh6 7.d3
+Rb8 8.Bd2 a6 9.a4 Bd7 10.Nd5 Nf5 11.Bc3 O-O 12.Bxg7 Kxg7 13.e3
+b5 14.axb5 axb5 15.b3 bxc4 16.bxc4 e6 17.Nc3 Nb4 18.Na2 Bc6
+19.Nxb4 Rxb4 20.Ra7 Qf6 21.Nd2 Bxg2 22.Kxg2 d5 23.Rc7 Rb2
+24.Qc1 Ra8 25.cxd5 exd5 26.Nf3 Raa2 27.Rxc5 d4 {27...Rb1!! -+}
+28.exd4 Nxd4 29.Qe3 Ne6 30.Re5 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.06"]
+[EventDate "2000.04.05"]
+[Round "2"]
+[Result "0-1"]
+[White "Jon Viktor Gunnarsson"]
+[Black "Hannes Stefansson"]
+[ECO "B47"]
+[WhiteElo "2400"]
+[BlackElo "2566"]
+[PlyCount "75"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6
+7. Bg2 Nf6 8. O-O Be7 9. Be3 O-O 10. Nb3 d6 11. a4 b6 12. f4
+Bb7 13. g4 Rfe8 14. g5 Nd7 15. Rf3 Nb4 16. Rh3 g6 17. Qd2 Bf8
+18. Rd1 Rac8 19. Qf2 f5 20. gxf6 Nxf6 21. Bf3 d5 22. e5 Ne4
+23. Bxe4 dxe4 24. Bxb6 e3 25. Qh4 Qf7 26. Rxe3 Nxc2 27. Red3
+Nb4 28. Rd7 Re7 29. Rd8 Rxd8 30. Rxd8 Nc6 31. Rd3 Qf5 32. Nc5
+Rf7 33. Rd1 g5 34. Qg3 Rg7 35. Nxb7 gxf4 36. Qxg7+ Bxg7
+37. Rd6 Qg4+ 38. Kf1 0-1

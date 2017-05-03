@@ -1,0 +1,21 @@
+[Event "It (cat.8)"]
+[Site "Gladsaxe/Farum (Denmark)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jonathan David Tisdall"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.c4 e6 2.Nc3 b6 3.d4 Bb7 4.a3 Nf6 5.d5 g6 6.g3 Bg7 7.Bg2 O-O
+8.Nh3 exd5 9.O-O c6 10.cxd5 c5 11.Qa4 d6 12.Qh4 Nbd7 13.Bg5
+Re8 14.e4 Ba6 15.Rfe1 Re5 16.f4 h6 17.Bxf6 Bxf6 18.Qg4 Re8
+19.e5 Bg7 20.e6 Nf6 21.exf7 Kxf7 22.Qf3 Bb7 23.Nf2 Kg8 24.Qd3
+Kh7 25.h4 Bc8 26.Qf3 a6 27.Bf1 Ra7 28.Bd3 Rae7 29.Rxe7 Qxe7
+30.h5 Bf5 31.g4 Bxd3 32.Qxd3 Qf7 33.Rf1 c4 34.Qc2 Nd7 35.Nfe4
+Bxc3 36.bxc3 Rg8 37.Nxd6 Qxd5 38.Ne4 Qd3 39.Qxd3 cxd3 40.hxg6
+1/2-1/2

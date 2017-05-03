@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.05.11"]
+[EventDate "?"]
+[Round "35"]
+[Result "1-0"]
+[White "Jackson Whipps Showalter"]
+[Black "Amos Burn"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 a6 6.Bxc6 dxc6
+7.Qe2 Bf5 8.Nc3 Nxc3 9.Qxe5+ Be6 10.bxc3 Qd6 11.Qg5 h6 12.Qe3
+Be7 13.Ne5 O-O 14.Qg3 Kh7 15.Bf4 Qd5 16.Qd3+ Kh8 17.c4 Qd8
+18.Rad1 Qc8 19.Rfe1 Bf5 20.Qd2 Qd8 21.Bxh6 gxh6 22.Qxh6+ Bh7
+23.Rd3 Bg5 24.Qh5 Qf6 25.Rh3 Qg7 26.Re4 f6 27.Ng6+ Kg8 28.Ne7+
+Kh8 29.Ng6+ Kg8 30.Ne7+ Kh8 31.Nf5 Qf7 32.Re7 Kg8 33.Qxh7+
+Qxh7 34.Rhxh7 1-0

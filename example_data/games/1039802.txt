@@ -1,0 +1,26 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1908.04.06"]
+[EventDate "1908.03.23"]
+[Round "11"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Paul F Johner"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c4 g6 7.Nc3 Bg7
+8.h3 O-O 9.Be3 Bd7 10.Qd2 Re8 11.Bxc6 bxc6 12.Bh6 Bh8 13.Nh2
+d5 14.O-O-O Be6 15.Qe2 Qe7 16.Ng4 Qc5 17.Qf3 Nd7 18.cxd5 cxd5
+19.exd5 Bf5 20.Be3 Qa5 21.Nh6+ Kf8 22.Nxf5 e4 23.Bh6+ Kg8
+24.dxe4 Ne5 25.Qg3 Rab8 26.Rd4 c5 27.dxc6 Nxc6 28.Rd2 Rec8
+29.Rhd1 Rxb2 30.Rxb2 Bxc3 31.Rb3 Be5 32.Nd6 Bxg3 33.Nxc8 Bc7
+34.Rd2 g5 35.Kd1 f6 36.f3 Kf7 37.Rb7 Ke6 38.Rc2 Kd7 39.Nb6+
+Kd8 40.Rxc6 Bxb6 41.Rbxb6 Qxa2 42.Rc2 Qa1+ 43.Ke2 Qg1 44.Rb8+
+Kd7 45.Rb7+ Kd8 46.Bf8 Qxg2+ 47.Kd1 Qxf3+ 48.Kc1 Qe3+ 49.Rd2+
+Kc8 50.Rb4 a5 51.Rc4+ Kb7 52.Bc5 Qxh3 53.Rb2+ Kc6 54.Ba3 Kd7
+55.Rb7+ Kd8 56.Rb8+ Kd7 57.Rb7+ Kd8 58.Be7+ Ke8 59.Rcc7 Qe3+
+60.Kb2 Qd4+ 61.Ka2 Qxe4 62.Bxf6+ Qd5+ 63.Ka3 Qd6+ 64.Ka4 Qf4+
+65.Kxa5 Qf5+ 66.Rb5 1-0

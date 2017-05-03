@@ -1,0 +1,22 @@
+[Event "10s, Graz WCh-Jr-tt"]
+[Site "Graz AUT"]
+[Date "1981.08.25"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Ilias Kourkounakis"]
+[Black "Fernando Braga"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 e5 4. Nc3 d6 5. Rb1 a5 6. e3 f5
+7. Nge2 Nf6 8. O-O O-O 9. d3 Nc6 10. a3 Be6 11. Nd5 Bf7
+12. Nec3 Nxd5 13. Nxd5 Nb8 14. b4 c6 15. Nc3 axb4 16. axb4 Nd7
+17. Bb2 g5 18. Ra1 Rxa1 19. Qxa1 Qb6 20. Rb1 Bg6 21. c5 dxc5
+22. bxc5 Qc7 23. Qa7 Rb8 24. Ba3 Qc8 25. Qa4 Ra8 26. Qb3+ Bf7
+27. Qb4 Bf8 28. d4 b6 29. Qb2 bxc5 30. dxc5 Nxc5 31. Bxc5 Bxc5
+32. Qc2 Bf8 33. Na4 e4 34. g4 f4 35. exf4 gxf4 36. Bxe4 Qxg4+
+37. Kh1 Bg7 38. Qxc6 Rd8 39. Bf3 Qh4 40. Qc7 Re8 41. Qc5
+1/2-1/2

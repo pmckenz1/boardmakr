@@ -1,0 +1,24 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.08"]
+[EventDate "1926.03.07"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Frederick Dewhirst Yates"]
+[Black "Hans Kmoch"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 c5 5. d3 Nc6 6. Nf3 e6
+7. Nc3 d5 8. exd6 Bxd6 9. Ne4 Be7 10. O-O O-O 11. Be3 Nd4
+12. c3 Nxb3 13. Qxb3 Qc7 14. Rad1 Bd7 15. Qa3 Ba4 16. b3 Bc6
+17. Bxc5 Bxe4 18. Bxe7 Bxf3 19. gxf3 Rfe8 20. Bc5 Nd7 21. Bd4
+e5 22. Be3 Re6 23. Qa4 Nf6 24. Kh1 Qxc3 25. Qb5 Qc6 26. Qxc6
+Rxc6 27. Rc1 Rac8 28. Rxc6 Rxc6 29. Bxa7 Ra6 30. Bb8 Rxa2
+31. Bxe5 Rd2 32. Rc1 h6 33. Rc8+ Kh7 34. Rc7 Rxd3 35. Bxf6
+gxf6 36. Rxf7+ Kg6 37. Rxb7 Rxf3 38. Kg2 Rc3 39. Rb8 Kf5
+40. b4 Rb3 41. h3 Kf4 42. Rb6 Kg5 43. Rb8 h5 44. b5 Kf4 45. b6
+f5 46. b7 Rb1 47. h4 Rb2 48. Kh3 Rb3+ 49. Kh2 Kf3 50. Rf8 Rxb7
+51. Rxf5+ Kg4 1/2-1/2

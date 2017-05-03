@@ -1,0 +1,27 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.29"]
+[EventDate "1926.03.07"]
+[Round "17"]
+[Result "0-1"]
+[White "Karel Treybal"]
+[Black "Hans Kmoch"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Be3 Be7
+7. Bd3 Nc6 8. Nc3 O-O 9. a3 d5 10. cxd5 Nb8 11. Nh3 N8d7
+12. Nf4 Nf6 13. h3 Bd6 14. O-O Bxf4 15. Bxf4 Nfxd5 16. Be5 Be6
+17. Rc1 Nxc3 18. Rxc3 Qh4 19. Bg3 Qf6 20. Rc5 Nd5 21. Re1 c6
+22. Qh5 h6 23. Be5 Qg5 24. Qf3 Rfe8 25. Qe4 f5 26. Qf3 Rad8
+27. Kh2 Rd7 28. b4 Ree7 29. Bc2 Qd2 30. Re2 Qg5 31. a4 Nxb4
+32. Bf4 Qg6 33. Rxe6 Rxe6 34. Bxf5 Qf7 35. Bxe6 Qxe6 36. Re5
+Qg6 37. Re4 Nd5 38. Qe2 Kh7 39. Bd2 Qd6+ 40. Kg1 Nf6 41. Rh4
+Nd5 42. Rg4 Re7 43. Qd3+ Kg8 44. h4 Qe6 45. Qg3 Kh7 46. h5 Qf5
+47. Be3 Qxh5 48. Qf3 Nf6 49. Rf4 Qxf3 50. Rxf3 Rd7 51. Rf4 Rd5
+52. Bd2 Kg6 53. Kf1 Kf7 54. Rh4 Ke6 55. Ke2 Rh5 56. Rf4 Rf5
+57. Rh4 Rh5 58. Rf4 Rg5 59. g3 Rg4 60. a5 Rxf4 61. Bxf4 Nd5
+62. Be5 g5 63. Kd3 b5 64. axb6 Nxb6 65. Bc7 Nd5 66. Ba5 h5
+67. Kc4 Kd6 68. Bd8 Ne7 0-1

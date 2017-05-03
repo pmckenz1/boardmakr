@@ -1,0 +1,19 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1956.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jose Luis Alvarez del Monte"]
+[Black "Erich Eliskases"]
+[ECO "E52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 b6 6.Bd3 d5 7.a3
+Bxc3+ 8.bxc3 Ba6 9.Nd2 c5 10.O-O Nc6 11.f4 cxd4 12.exd4 Rc8
+13.Qe2 dxc4 14.Nxc4 Nxd4 15.cxd4 Bxc4 16.Bb2 Qd5 17.Rae1 Rc6
+18.Qd2 Bxd3 19.Qxd3 Rfc8 20.Re5 Qa2 21.Re2 Qc4 22.Qf3 Qd5
+23.Qd3 Qf5 24.Qf3 h6 25.h3 Rc2 26.Rff2 Rxe2 27.Rxe2 Nd5 28.Rf2
+Rc2 29.g4 Rxf2 0-1

@@ -1,0 +1,18 @@
+[Event "St John op-1"]
+[Site "St John op-1"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Guil Russek-Libni"]
+[Black "Lawrence Day"]
+[ECO "C60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 a6 6.Ba4 d6 7.d4 Bd7
+8.Bg5 f6 9.Be3 Nh6 10.Nbd2 Ng4 11.Qe2 O-O 12.Rfe1 Nxe3 13.Qxe3
+Qe8 14.d5 Nd8 15.Bxd7 Qxd7 16.c4 Nf7 17.c5 Bh6 18.Qa3 Rac8
+19.Rac1 c6 20.Rcd1 cxd5 21.exd5 f5 22.Nc4 Rxc5 23.Ncxe5 Nxe5
+24.Nxe5 Qb5 25.b4 Rc2 26.Qb3 Re2 27.a4 Rxe1+ 1/2-1/2

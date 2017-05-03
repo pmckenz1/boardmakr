@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.23"]
+[EventDate "1882.05.10"]
+[Round "11"]
+[Result "0-1"]
+[White "Bernhard Fleissig"]
+[Black "Philipp Meitner"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 d6 5. c3 a6 6. Bxc6+
+bxc6 7. d4 exd4 8. e5 d3 9. Qxd3 Nd7 10. Qe2 Be7 11. O-O O-O
+12. Rd1 Re8 13. Bf4 Nf8 14. Qc2 Ne6 15. Bg3 Bb7 16. Nbd2 c5
+17. Ne1 Qd7 18. exd6 cxd6 19. Nc4 Qc6 20. Bxd6 Bxd6 21. Rxd6
+Nd4 22. Qxh7+ Kxh7 23. Rxc6 Nxc6 0-1

@@ -1,0 +1,23 @@
+[Event "Toluca Interzonal"]
+[Site "Toluca de Lerdo MEX"]
+[Date "1982.08.11"]
+[EventDate "1982.08.10"]
+[Round "2"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Jorge Alberto Rubinetti"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Bxc6
+Bxc6 8.Qd3 exd4 9.Nxd4 Bd7 10.Bg5 O-O 11.Rad1 h6 12.Bh4 Re8
+13.Rfe1 Ng4 14.Bxe7 Qxe7 15.Nd5 Qh4 16.Qg3 Qxg3 17.hxg3 Rac8
+18.f3 Ne5 19.b3 f6 20.c4 c6 21.Ne3 Rcd8 22.Re2 g6 23.Red2 Nf7
+24.Kf2 h5 25.b4 Bc8 26.b5 Bd7 27.a4 Kg7 28.Nb3 b6 29.Nd4 Rc8
+30.Ra1 Re5 31.a5 cxb5 32.axb6 axb6 33.cxb5 Rcc5 34.Ra7 Bxb5
+35.Nxb5 Rxb5 36.Nc4 Kf8 37.Nxe5 fxe5 38.Rc2 Rc5 39.Rb2 Rc6
+40.Rb7 Nd8 41.R7xb6 Rxb6 42.Rxb6 Ke7 43.Ke3 g5 44.Kd3 h4
+45.gxh4 gxh4 46.Kc4 Ne6 47.Rb7+ Kf6 48.Rd7 Nf4 49.Rxd6+ Kg5
+50.Rd8 1-0

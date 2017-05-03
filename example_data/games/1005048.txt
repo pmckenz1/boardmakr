@@ -1,0 +1,17 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Csaba Horvath"]
+[Black "Ilija Balinov"]
+[ECO "D19"]
+[WhiteElo "2520"]
+[BlackElo "2430"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6
+7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 11. e5 Nd5
+12. Nxd5 cxd5 13. Bd3 Be7 14. Bd2 a6 15. a5 Rc8 16. Rfc1 Nb8
+1/2-1/2

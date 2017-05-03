@@ -1,0 +1,22 @@
+[Event "32nd olm Yerevan ARM"]
+[Site "Yerevan ARM"]
+[Date "1996.09.20"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Victorio Riego Prieto"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 d6 2.Nc3 g6 3.f4 Bg7 4.Nf3 c5 5.Be2 Nc6 6.O-O Nf6 7.Qe1
+O-O 8.d3 Nd4 9.Bd1 Bg4 10.Qf2 Qd7 11.Kh1 Bxf3 12.Bxf3 Ng4
+13.Bxg4 Qxg4 14.Be3 b5 15.Rae1 Qd7 16.Nd1 b4 17.c3 Nc6 18.f5
+Ne5 19.Qd2 Qb5 20.c4 Qb7 21.Bh6 Ng4 22.Bxg7 Kxg7 23.Rf4 h5
+24.Ref1 Nf6 25.R4f3 Rh8 26.Ne3 h4 27.Nd5 Raf8 28.b3 Rh5
+29.fxg6 fxg6 30.Qb2 Re5 31.Qf2 h3 32.Nxf6 hxg2 33.Kxg2 exf6
+34.Rxf6 Rg5+ 35.Kh1 Rf5 36.Rxf5 Rxf5 37.Qb2+ Re5 38.Rf3 Qe7
+39.Kg2 Kg8 40.Qd2 Kg7 41.Qf4 Rg5+ 42.Kf2 Rh5 43.Ke3 a5 44.h3
+Rh4 45.Qg3 Rh5 46.Qf4 1/2-1/2

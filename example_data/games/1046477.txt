@@ -1,0 +1,19 @@
+[Event "Passau"]
+[Site "Passau"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ivan Farago"]
+[Black "Lubomir Ftacnik"]
+[ECO "D82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5
+7. cxd5 Nxd5 8. Qxd5 Bxc3+ 9. bxc3 Qxc3+ 10. Ke2 Qxa1 11. Be5
+Qb1 12. Bxh8 Be6 13. Qd3 Qxa2+ 14. Kf3 f6 15. Kg3 Kf7 16. Nf3
+Nd7 17. Qc3 Qd5 18. h4 Nxc5 19. Ng5+ Qxg5+ 20. hxg5 Ne4+
+21. Kf4 Nxc3 22. Rxh7+ Kg8 23. Rh6 Rf8 24. Bd3 a5 25. Bxg6 a4
+26. Bd3 a3 27. gxf6 exf6 28. Rh1 a2 29. Bh7+ Kf7 0-1

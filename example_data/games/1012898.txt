@@ -1,0 +1,22 @@
+[Event "Tokyo"]
+[Site "Tokyo"]
+[Date "1932.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Kimuto / Allies"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. O-O O-O 6. d3 d6
+7. Bg5 Bxc3 8. bxc3 Qe7 9. Re1 Nd8 10. d4 Ne6 11. Bc1 Rd8
+12. Nh4 Nf8 13. Qe2 Ne8 14. Nf5 Bxf5 15. exf5 f6 16. f4 c6
+17. Bd3 Nd7 18. g4 Kh8 19. c4 b6 20. g5 Nc7 21. g6 h6 22. fxe5
+dxe5 23. Qh5 Re8 24. dxe5 Nxe5 25. Rxe5 Qf8 26. Rxe8 Rxe8
+27. Bf4 Na6 28. Kh1 Rd8 29. Rg1 Rd7 30. c5 b5 31. Bd6 Qe8
+32. Qf3 Rd8 33. Be4 Rc8 34. Rg2 Qd7 35. Re2 Nb4 36. a3 Nd5
+37. Bxd5 cxd5 38. Qxd5 Re8 39. Rxe8+ Qxe8 40. Qe6 Qa8+ 41. Kg1
+a5 42. Qf7 1-0

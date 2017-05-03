@@ -1,0 +1,21 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.06"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "James Mason"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Nc3 d6 6.d4 exd4
+7.Nxd4 Bd7 8.Nxc6 Bxc6 9.Qe2 Qd7 10.Bd3 O-O 11.Be3 a6 12.Rad1
+Qc8 13.f4 Bd7 14.f5 Bc6 15.Rf3 Re8 16.Rh3 b5 17.Bd4 Bb7 18.Rf1
+c5 19.Bxf6 Bxf6 20.Qh5 h6 21.Rf4 c4 22.Be2 Qc5+ 23.Kf1 Rad8
+24.Qf3 Rd7 25.Rg4 Kf8 26.Qg3 Qd4 27.Bf3 Qd2 28.Ne2 Qxc2 29.Qf4
+Qxb2 30.Kf2 Bd4+ 31.Ke1 Qa1+ 32.Kd2 c3 33.Kc2 Qxa2+ 34.Kd3
+Qc4+ 35.Kc2 Be5 36.Qc1 b4 37.Kd1 b3 38.Rxh6 b2 39.Rh8+ Ke7
+40.Qg5+ Bf6 41.Rxe8+ Kxe8 0-1

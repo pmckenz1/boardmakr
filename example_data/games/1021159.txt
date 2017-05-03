@@ -1,0 +1,23 @@
+[Event "ANU Carbon v Silicon Match"]
+[Site "Canberra B3"]
+[Date "1994.07.15"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "HIARCS (Computer)"]
+[Black "Tim Reilly"]
+[ECO "B09"]
+[WhiteElo "2215"]
+[BlackElo "2355"]
+[PlyCount "89"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6
+7. O-O c5 8. d5 Bg4 9. Bxa6 bxa6 10. h3 Bd7 11. Be3 Rb8
+12. Rb1 Bc8 13. e5 Nd7 14. Qe2 Qa5 15. Bf2 Qb4 16. a3 Qa5
+17. Bh4 f6 18. e6 Re8 19. exd7 Bxd7 20. Nd2 f5 21. Nc4 Qc7
+22. Rfe1 Ra8 23. Rbd1 Rab8 24. Kh2 Ra8 25. Qe3 Rab8 26. Bg5
+Ra8 27. Qd3 Rab8 28. Bxe7 Bf8 29. Bxf8 Rxf8 30. Re7 Rbe8
+31. Qe3 Qd8 32. Re1 Rxe7 33. Qxe7 Qxe7 34. Rxe7 Rf7 35. Rxf7
+Kxf7 36. Nxd6+ Ke7 37. Nb7 Bc8 38. Nxc5 Kd6 39. b4 a5 40. Nb5+
+Kxd5 41. Nxa7 Be6 42. c4+ Kd6 43. Nb5+ Ke7 44. Nxe6 Kxe6
+45. bxa5 1-0

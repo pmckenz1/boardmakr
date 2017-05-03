@@ -1,0 +1,26 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.09"]
+[EventDate "1900.??.??"]
+[Round "11.2"]
+[Result "1/2-1/2"]
+[White "Jackson Whipps Showalter"]
+[Black "James Mason"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.a4 Rb8 9.axb5 axb5 10.dxe5 Be6 11.c3 Be7 12.Nbd2 O-O
+13.Bc2 f5 14.Ra6 Qd7 15.Nb3 Ra8 16.Rxa8 Rxa8 17.Nfd4 Nxe5
+18.Nxe6 Qxe6 19.Nd4 Qf7 20.f3 Nd6 21.Re1 Ng6 22.Bb3 Nc4
+23.Nxb5 Bc5+ 24.Kh1 Ra1 25.Bxc4 dxc4 26.Qd8+ Bf8 27.Nxc7 h6
+28.Qd5 Qxd5 29.Nxd5 Bd6 30.f4 Bc5 31.g3 Ra2 32.Kg2 Kf7 33.Kf3
+Nf8 34.Re2 Ne6 35.Be3 Ra5 36.Bxc5 Rxc5 37.Re5 g6 38.Ne3 Ng5+
+39.Kg2 Rxe5 40.fxe5 Ke6 41.Nxc4 Kd5 42.h4 Ne4 43.Nd6 Nd2
+44.Nf7 Ke6 45.Nxh6 Nc4 46.b4 Kxe5 47.Nf7+ Ke4 48.b5 f4 49.gxf4
+Kxf4 50.Nh8 g5 51.h5 Kg4 52.h6 Kh5 53.Nf7 Kg6 54.Nxg5 Kxh6
+55.Nf3 Kg6 56.Nd4 Kf6 57.Kf3 Ke5 58.Ke2 Kd5 59.Kd3 Kc5 60.Ke4
+Nd6+ 61.Ke5 Nc4+ 62.Ke6 Na3 63.Ke5 Nc4+ 64.Ke4 Nd6+ 65.Kd3
+1/2-1/2

@@ -1,0 +1,19 @@
+[Event "London (England)"]
+[Site "It"]
+[Date "1892.04.06"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "Emanuel Lasker"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.Nh3 c6 7.Ne2
+Be7 8.d3 Nc5 9.a3 O-O 10.Be3 Nbd7 11.Bxc5 Nxc5 12.Nhf4 Qb6
+13.b4 Nd7 14.d4 a5 15.Rb1 axb4 16.axb4 Bxb4+ 17.c3 Bxc3+
+18.Nxc3 Qxd4 19.Nfe2 Qxe5 20.Qf4 Qf6 21.Nd4 Nc5 22.Qd2 Ne4
+23.Nxe4 fxe4 24.Qe3 Ra4 25.Nc2 Ra2 26.Rc1 Bg4 27.Be2 Bxe2
+28.Kxe2 Qb2 29.Kd1 Qb5 30.Re1 Rb2 31.Qe2 Qd3+ 32.Qxd3 exd3 0-1

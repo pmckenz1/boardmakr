@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Joyce Fongers"]
+[Black "Sandra Ulms"]
+[ECO "B53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Bd7 5. c4 Nc6 6. Qd1 g6
+7. Be2 Bg7 8. O-O Nf6 9. Nc3 O-O 10. h3 Rc8 11. Be3 Na5
+12. Nd2 Be6 13. Nd5 b6 14. Rc1 Nd7 15. b3 Nc6 16. Nb1 Nc5
+17. Nbc3 f5 18. exf5 Bxf5 19. Bg4 Ne5 20. Bg5 Bxg4 21. hxg4
+Bf6 22. Nxf6+ exf6 23. Bh6 Rf7 24. f4 Ned3 25. Rc2 Qe8 26. Qf3
+Ne1 27. Qe2 Nxc2 28. Qxc2 Qe3+ 29. Kh2 Qd3 30. Qc1 Ne4 31. Rf3
+Qd4 32. Nb5 Qc5 33. Qe1 d5 34. Re3 dxc4 35. Nc3 Nd6 36. b4 Qc6
+37. Re6 Qd7 38. Nd5 Re8 39. Nxf6+ Rxf6 40. Rxf6 Nf7 41. Qh4 c3
+42. f5 Qc7+ 43. Kh3 Nxh6 44. Qxh6 c2 45. Qc1 Qc3+ 0-1

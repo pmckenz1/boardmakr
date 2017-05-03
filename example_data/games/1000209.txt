@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.28"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Julian Michael Hodgson"]
+[Black "Paul Saint-Amand"]
+[ECO "A45"]
+[WhiteElo "2659"]
+[BlackElo "2245"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. c3 d6 6. Bd3 Nd7
+7. Ne2 g6 8. O-O Bg7 9. f4 Qe7 10. e5 O-O 11. Nd2 b6 12. Qe1
+Bb7 13. Qg3 dxe5 14. fxe5 Qg5 15. Qxg5 hxg5 16. Be4 Bxe4
+17. Nxe4 Bh6 18. g4 c5 19. Rf2 cxd4 20. cxd4 Rac8 21. N2c3 a6
+22. Raf1 Rc7 23. Nd6 Nb8 24. Nce4 Re7 25. Rc2 b5 26. Rfc1 Ra7
+27. Nf6+ Kh8 28. Rc8 Nd7 29. Nxd7 Rxd7 30. Rxf8+ Bxf8 31. Rc8
+Kg8 32. Kf2 f6 33. Ke3 fxe5 34. dxe5 Kg7 35. Rc7 Re7 36. Rxe7+
+Bxe7 37. Ne8+ Kf7 38. Nc7 Bc5+ 39. Ke4 Ke7 40. Nxa6 Bg1
+41. Nc7 Bxh2 42. Nxb5 Kd7 43. Nd4 1-0

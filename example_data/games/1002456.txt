@@ -1,0 +1,19 @@
+[Event "USA-06.Congress NY (25-1)"]
+[Site "New York, NY USA"]
+[Date "1889.04.24"]
+[EventDate "?"]
+[Round "25"]
+[Result "1/2-1/2"]
+[White "Samuel Lipschutz"]
+[Black "Max Weiss"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 c5
+7.d4 cxd4 8.cxd4 Qh4+ 9.Qf2 Bb4+ 10.Ke2 Qxf2+ 11.Kxf2 Bc3
+12.Rb1 Bxd4+ 13.Be3 Bxe5 14.Nf3 Bd6 15.Bb5+ Nc6 16.Rhd1 O-O
+17.Rxd5 Be7 18.Bxc6 bxc6 19.Ra5 Be6 20.Rb7 Bf6 21.Raxa7 Bxa2
+22.Bd4 Bxd4+ 23.Nxd4 c5 24.Nc6 Be6 25.Rc7 Rxa7 26.Nxa7 Ra8
+27.Nb5 Rc8 28.Rxc8+ Bxc8 29.Nd6 Be6 30.Ne4 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Mar del Plata (Argentina)"]
+[Site "Zt"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arturo Liebstein"]
+[Black "Julio Bolbochan"]
+[ECO "B95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Be2
+Be7 8.Qd2 Qc7 9.O-O Nbd7 10.Kh1 b6 11.f3 Bb7 12.Bd3 O-O
+13.Rae1 Rfd8 14.Qf2 b5 15.Nd1 Nc5 16.Bd2 Rac8 17.Ne3 Nfd7
+18.b4 Nxd3 19.cxd3 Ne5 20.Qe2 d5 21.Nb3 dxe4 22.dxe4 Nd3
+23.Rd1 Nxb4 24.Rc1 Qd7 25.Rxc8 Rxc8 26.Bxb4 Bxb4 27.Ng4 Qc7
+28.Qe3 h5 29.Nf2 Qc2 30.Qa7 Rd8 31.Kg1 Rd7 32.Qb8+ Kh7 33.Qe5
+g6 34.g4 Qc7 35.Qf6 Bc3 36.Qh4 Qf4 37.Nh3 Bf6 38.Nxf4 Bxh4
+39.gxh5 gxh5 40.Nc5 Rc7 41.Nxb7 Rxb7 42.Nxh5 Rc7 43.Ng3 Rc3
+44.Kg2 Rc2+ 45.Rf2 Rxf2+ 46.Kxf2 e5 47.Ke2 Bxg3 48.hxg3 a5
+49.Kd3 Kg7 50.Kc2 Kf8 51.Kc3 Ke7 52.Kc2 Kd6 53.Kd3 Kc5 54.f4
+f6 55.Kc3 Kd6 56.Kd2 Ke7 57.Kd3 Kf7 58.Kd2 Kg6 59.Ke3 Kh5
+60.Kf3 b4 61.g4 Kg6 62.fxe5 fxe5 63.Ke3 Kg5 64.Kd3 Kxg4 65.Kc4
+Kf3 66.Kb5 Kxe4 67.Kxa5 Kd3 68.Kxb4 e4 69.Kb5 e3 70.a4 e2 0-1

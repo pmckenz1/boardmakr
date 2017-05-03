@@ -1,0 +1,19 @@
+[Event "It (cat.9)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Anthony Cornelis Kosten"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7
+7.e3 O-O 8.Bd3 Ne4 9.Qc2 f5 10.O-O Rf6 11.Nd2 Rh6 12.f3 Qh4
+13.fxe4 Qxh2+ 14.Kf2 Rg6 15.Rg1 fxe4 16.Bxe4 Bxe4 17.Qxe4 Nc6
+18.Rf1 Rd8 19.Ke2 d5 20.cxd5 Rxd5 21.Rf2 Qd6 22.Nc4 Qd7 23.Bd2
+e5 24.Raf1 Rf6 25.Rxf6 gxf6 26.Rxf6 exd4 27.Qf4 Qe8 28.Qg4+
+Kh8 29.Qf3 Kg7 30.Qxd5 Kxf6 31.e4 1-0

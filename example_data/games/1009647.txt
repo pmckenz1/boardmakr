@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Marta I Litinskaya-Shul"]
+[Black "Petra Schulz"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. c4 Nf6 2. Nf3 g6 3. d4 Bg7 4. g3 d6 5. Nc3 Nbd7 6. Bg2 O-O
+7. O-O e5 8. e4 c6 9. b3 Qe7 10. h3 exd4 11. Nxd4 Nc5 12. Re1
+Ne6 13. Be3 Bd7 14. Rc1 a6 15. Qd2 Rfd8 16. Nf5 gxf5 17. exf5
+Qf8 18. fxe6 fxe6 19. Rcd1 d5 20. Bb6 Re8 21. Na4 Qf7 22. Nc5
+Bc8 23. Qf4 Bf8 24. Nd3 Nd7 25. Bc7 dxc4 26. bxc4 Qxf4
+27. Nxf4 Nf6 28. Re2 Kf7 29. Nd3 Nd7 30. Bf3 Kf6 31. Bh5 Re7
+32. Bd8 b5 33. Rde1 Nb8 34. Nf4 1-0

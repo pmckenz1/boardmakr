@@ -1,0 +1,26 @@
+[Event "It (open)"]
+[Site "New York"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Duong Thanh Nha"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 c6 5.Qc2 Ne4 6.Bg2 f5 7.O-O Bd6
+8.b3 Qe7 9.Bb2 O-O 10.Nbd2 b6 11.Rac1 Bb7 12.Ne1 Na6 13.Nd3 c5
+14.e3 Rac8 15.Nf3 Nb4 16.Qb1 Ba6 17.dxc5 bxc5 18.Rfd1 dxc4
+19.bxc4 Rb8 20.Nde5 Qc7 21.Qa1 Bb7 22.a3 Nc6 23.Nxc6 Bxc6
+24.Be5 Bxe5 25.Nxe5 Ba4 26.Rd3 Rfd8 27.g4 Rxd3 28.Nxd3 Rd8
+29.Nf4 Qd6 30.Qb2 Bc6 31.Qe2 g5 32.Nh5 Nd2 33.f4 Bxg2 34.Qxg2
+Qd3 35.Re1 Qc3 36.Rd1 Qc2 37.Re1 Qc3 38.Rd1 Qb3 39.Re1 Ne4
+40.gxf5 exf5 41.fxg5 Qc3 42.Qf1 Kh8 43.Ng3 Nxg5 44.Kh1 Qc2
+45.Qxf5 Qxf5 46.Nxf5 Rd2 47.Rg1 Ra2 48.h4 Ne4 49.h5 Nf2+
+50.Kg2 Nd3 51.Kg3 Ne5 52.Kf4 Nxc4 53.Rc1 Rf2+ 54.Kg5 Nd2
+55.Kf6 c4 56.Ke6 Rh2 57.Rc2 h6 58.Nxh6 Nf3 59.Rxc4 Rxh5
+60.Nf5+ Ng5+ 61.Kf6 Nh7+ 62.Ke5 Kg8 63.Rc8+ Kf7 64.Rc7+ Ke8
+65.Rxa7 Nf8 66.e4 Rh3 67.Nd6+ 1-0

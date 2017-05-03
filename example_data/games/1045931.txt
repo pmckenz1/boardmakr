@@ -1,0 +1,22 @@
+[Event "New York (open) 43/481 (Ftacnik,L)"]
+[Site "New York (open) 43/481 (Ftacnik,L)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Vitaly F Zaltsman"]
+[ECO "D29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 e6 5. Bxc4 Nf6 6. O-O c5
+7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Be7 10. Nc3 O-O 11. e4 cxd4
+12. Nxd4 Qc7 13. Bg5 h6 14. Bh4 Nxe4 15. Nxe6 fxe6 16. Bxe7
+Rxf2 17. Qg4 Qxe7 18. Nxe4 Rf8 19. Rac1 Kh8 20. Nc5 Nc6
+21. Qxe6 Qxe6 22. Nxe6 Rf6 23. Nc5 Na5 24. Nxb7 Nxb7 25. Rd7
+Nd6 26. h3 Raf8 27. Bd5 Nf5 28. Rf1 Ne3 29. Rxf6 Rxf6 30. Rd8+
+Kh7 31. Be4+ g6 32. Rd3 Nc4 33. Rd7+ Kg8 34. b3 Ne5 35. Ra7
+Rd6 36. Kf2 Kf8 37. Ke3 g5 38. Bb7 b4 39. Rxa6 Rd7 40. Be4 Kg7
+41. Ra4 1-0

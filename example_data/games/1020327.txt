@@ -1,0 +1,17 @@
+[Event "Banco di Rome"]
+[Site "Rome ITA"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Gyula Sax"]
+[Black "Ulf Andersson"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.Bb5 cxd4 6.Nxd4 Bd7
+7.Nxc6 Bxc6 8.Qe2 Nf6 9.O-O Be7 10.exd5 Qxd5 11.Bxc6+ Qxc6
+12.c4 O-O 13.b3 Rfd8 14.Bb2 Rd7 15.Nf3 Qe4 16.Rfe1 Qxe2
+17.Rxe2 Rad8 18.g3 1/2-1/2

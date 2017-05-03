@@ -1,0 +1,21 @@
+[Event "Palma de Mallorca GMA op"]
+[Site "Palma de Mallorca ESP"]
+[Date "1989.12.07"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Elmar Magerramov"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7
+8.O-O O-O 9.Be3 Nd4 10.e5 Qb6 11.Rb1 Nef5 12.Bf2 Nxf3+ 13.Qxf3
+Nd4 14.Qd1 dxe5 15.fxe5 Bd7 16.Ne4 Ba4 17.b3 Bc6 18.b4 Qd8
+19.bxc5 Bxe5 20.c3 Nb5 21.d4 Bg7 22.Qe2 Qa5 23.Be1 Rad8 24.Rb3
+Qa6 25.Nf6+ Kh8 26.Bxc6 bxc6 27.g4 e5 28.dxe5 Qc8 29.Rb4 Qe6
+30.g5 Qe7 31.Qe3 h5 32.Rh4 Qe6 33.Rxh5+ gxh5 34.Qf3 Qg4+
+35.Nxg4 hxg4 36.Qxg4 Rde8 37.g6 fxg6 38.Qxg6 Rxf1+ 39.Kxf1
+Rxe5 40.Qxc6 Rf5+ 41.Kg2 Rg5+ 42.Kf3 1-0

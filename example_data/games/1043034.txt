@@ -1,0 +1,15 @@
+[Event "New York (USA)"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Jonathan David Tisdall"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.O-O Bg7 5.c4 dxc4 6.Na3 O-O
+7.Nxc4 Nc6 8.d3 1/2-1/2

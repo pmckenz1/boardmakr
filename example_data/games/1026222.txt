@@ -1,0 +1,19 @@
+[Event "Mlada Boleslav (Czechoslovakia)"]
+[Site "Mlada Boleslav (Czechoslovakia)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Martin Jacek"]
+[Black "Gerardo F Barbero"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.Na3
+Nc6 8.Nc2 cxd4 9.Ncxd4 Bc5 10.Be3 O-O 11.O-O Rad8 12.Qc2 Nxd4
+13.Bxd4 Bxd4 14.Nxd4 e5 15.Bxg4 Nxg4 16.Nf3 e4 17.Rfd1 Qe6
+18.Re1 f5 19.h3 Qh6 20.Nd4 Ne5 21.Qb3+ Rf7 22.Rad1 Nd3 23.Re3
+Qf6 24.Ne6 Rd6 25.Nd4 h6 26.Rd2 a6 27.Qc4 b5 28.Qc8+ Kh7
+29.Qb8 b4 30.Nxf5 bxc3 31.bxc3 Rb6 32.Qg3 Qxf5 0-1

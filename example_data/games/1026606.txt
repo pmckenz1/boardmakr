@@ -1,0 +1,15 @@
+[Event "Ch Manhattan Chess Club"]
+[Site "New York, NY USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "18"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Joel Benjamin"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O e5 7.d3
+Nc6 8.Rb1 a5 9.a3 Nd4 1/2-1/2

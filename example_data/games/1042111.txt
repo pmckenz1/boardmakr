@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Johan Christiaan Reeders"]
+[Black "Max Euwe"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 d6 6. Bb5
+Bd7 7. O-O Be7 8. f4 O-O 9. Nxc6 bxc6 10. Bd3 Re8 11. Qf3 Bf8
+12. b3 g6 13. Rb1 Bg7 14. f5 Qe7 15. fxg6 fxg6 16. Bg5 Rf8
+17. Qg3 Rae8 18. Rbe1 Qe5 19. Bc4+ Kh8 20. Bf4 Qd4+ 21. Kh1
+Nh5 0-1

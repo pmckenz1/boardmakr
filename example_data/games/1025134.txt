@@ -1,0 +1,20 @@
+[Event "Nabereznye Chelny"]
+[Site "05"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Zigurds Lanka"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 c5 5.c3 cxd4 6.cxd4 O-O
+7.e3 d6 8.Be2 h6 9.Bh4 Nc6 10.O-O Kh8 11.Rc1 g5 12.Bg3 Bf5
+13.a3 Bg6 14.b4 a5 15.b5 Nb8 16.Ne1 Nbd7 17.Bd3 Bh5 18.Qb3 a4
+19.Qb1 Nb6 20.Nc2 Nfd5 21.e4 Be2 22.Ne3 Bxf1 23.exd5 Bxd3
+24.Qxd3 Rc8 25.Rf1 Qc7 26.Nf3 Qd7 27.h4 f5 28.hxg5 f4 29.Qg6
+Qe8 30.Qxe8 Rcxe8 31.gxh6 Bxh6 32.Ng4 fxg3 33.Nxh6 Kg7 34.Ng4
+gxf2 35.Nxf2 Nxd5 36.Re1 Rc8 0-1

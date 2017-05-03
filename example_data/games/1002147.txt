@@ -1,0 +1,29 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.05"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Max Judd"]
+[Black "Amos Burn"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "166"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Bg5 Bb4 7.O-O
+Bxc3 8.bxc3 Ne7 9.Rb1 Nd7 10.Nh4 Nb6 11.Bb3 O-O 12.Nf5 Bxf5
+13.exf5 Qd7 14.g4 d5 15.f4 f6 16.Bh4 Nc6 17.fxe5 Nxe5 18.Bg3
+Rae8 19.h3 Kh8 20.Bf2 Nc8 21.Bc5 Rf7 22.Rf4 b6 23.Bf2 c6
+24.Qf1 Nd6 25.a4 Qc7 26.Bg3 Qc8 27.Rf2 Qd8 28.Re1 Rfe7 29.Rfe2
+Nef7 30.Qf2 Ng5 31.Kg2 Ngf7 32.Re3 Nb7 33.R1e2 Nc5 34.Qe1 Rxe3
+35.Rxe3 Rxe3 36.Qxe3 h6 37.Bf2 Nd6 38.Qe2 Ndb7 39.h4 Qd7
+40.Bd4 Kh7 41.Bf2 Qd8 42.Qe1 Qd7 43.Qe2 Kh8 44.Kf1 Kh7 45.Ke1
+Qd6 46.Kd1 Qf4 47.Be3 Qg3 48.h5 Nd6 49.Bf2 Qh3 50.Bxc5 bxc5
+51.Kc1 c4 52.Ba2 cxd3 53.cxd3 Nf7 54.c4 Ne5 55.cxd5 Nxd3+
+56.Kb1 Nf4 57.Qd1 Qc3 58.Qc2 Qe1+ 59.Kb2 cxd5 60.Ka3 Qg3+
+61.Bb3 Qxg4 62.a5 Qg1 63.Qc3 Ne2 64.Qd2 Qc5+ 65.Kb2 Nd4 66.Qg2
+Nxb3 67.Qg6+ Kg8 68.Qe8+ Qf8 69.Qe6+ Qf7 70.Qc8+ Kh7 71.Kxb3
+Qxh5 72.Qd7 Qd1+ 73.Kb4 Qd4+ 74.Kb3 Qc4+ 75.Ka3 Qc5+ 76.Ka4 a6
+77.Qb7 Qc4+ 78.Ka3 d4 79.Qe4 Qc5+ 80.Kb3 Qb5+ 81.Kc2 Qc4+
+82.Kb1 Qb4+ 83.Ka2 Qxa5+ 0-1

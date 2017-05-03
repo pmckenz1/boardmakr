@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.28"]
+[EventDate "2000.01.21"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Carol-Peter Gouw"]
+[Black "Ted Barendse"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "2198"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 d5 6. Bg2 e5
+7. Nb5 a6 8. N5a3 d4 9. O-O Nc6 10. e3 Bc5 11. exd4 exd4
+12. Bg5 O-O 13. Nd2 Be7 14. Re1 Be6 15. Qa4 Qd7 16. Rad1 Bg4
+17. Rc1 h6 18. Bxf6 Bxf6 19. Bxc6 bxc6 20. c5 Rfe8 21. Nac4
+Rxe1+ 22. Rxe1 Re8 23. Ne4 Bf3 24. Ncd2 Rxe4 25. Rxe4 Bxe4
+26. Nxe4 d3 27. Nxf6+ gxf6 28. Kf1 Qe6 29. Qd1 Qxa2 30. Qg4+
+Kf8 31. Qc8+ Kg7 32. Qg4+ Kh7 33. Qf5+ Kg8 34. Qc8+ Kg7
+35. Qg4+ Kh7 36. Qf5+ Kg7 1/2-1/2

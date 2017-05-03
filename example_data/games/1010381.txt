@@ -1,0 +1,20 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Roy Shankar"]
+[Black "Anup Deshmukh"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bc4 h6 5. O-O d6 6. d4 Qc7
+7. dxe5 dxe5 8. Nbd2 Nf6 9. Re1 a6 10. a4 Be7 11. Nf1 O-O
+12. Ng3 Na5 13. Ba2 c4 14. Nh4 Rd8 15. Qe2 Bg4 16. Qc2 Nd7
+17. Nhf5 Nc5 18. Bxh6 Bxf5 19. Nxf5 gxh6 20. Nxh6+ Kf8 21. Qe2
+Qb6 22. Nf5 Nd3 23. Qh5 Ke8 24. Re3 Bf8 25. Qh8 Qc5 26. Rd1
+Nf4 27. Ng7+ Ke7 28. Qh4+ f6 29. Nf5+ Ke6 30. Ree1 Rd3 31. Qg4
+Kf7 32. g3 Rxd1 33. Rxd1 Ng6 34. Qh5 1-0

@@ -1,0 +1,24 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.24"]
+[EventDate "1911.08.21"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Oscar Chajes"]
+[Black "Georg Salwe"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.c4 e6 2.d4 d5 3.e3 Nf6 4.Nc3 c5 5.Nf3 Nc6 6.a3 cxd4 7.exd4
+Be7 8.Bd3 O-O 9.O-O dxc4 10.Bxc4 b6 11.Be3 Bb7 12.Rc1 Rc8
+13.Ba2 Rc7 14.Qe2 Rd7 15.Rfd1 Re8 16.b4 Bf8 17.Rc2 Ne7 18.Ne5
+Rc7 19.Bg5 Ng6 20.h4 Qc8 21.Rdc1 Ba6 22.Qd1 Nxe5 23.dxe5 Rd8
+24.Qe1 h6 25.Bxf6 gxf6 26.exf6 Bd3 27.Rb2 h5 28.Ne2 Bxe2
+29.Rxc7 Qxc7 30.Rxe2 Qf4 31.g3 Qxf6 32.Re5 Bg7 33.Re3 Bh6
+34.Qc3 Rd1+ 35.Kg2 Qd8 36.Rf3 Bg7 37.Qe3 Qd7 38.Bb3 Rd4 39.Qg5
+Rd3 40.Qxh5 Qb7 41.Bc2 Qxf3+ 42.Qxf3 Rxf3 43.Kxf3 Bb2 44.a4 a5
+45.bxa5 bxa5 46.Ke4 Bc3 47.g4 Be1 48.Ke3 Kg7 49.h5 Bb4 50.f4
+Ba3 51.g5 Bb2 52.h6+ Kf8 53.Bb3 e5 54.fxe5 Bxe5 55.Ke4 Bb2
+1/2-1/2

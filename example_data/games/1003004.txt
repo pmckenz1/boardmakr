@@ -1,0 +1,21 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.18"]
+[EventDate "1905.08.14"]
+[Round "5"]
+[Result "1-0"]
+[White "Semion Alapin"]
+[Black "Johann Nepomuk Berger"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Na4 exf4 6. d4 Bb6
+7. Nxb6 axb6 8. Bd3 Nc6 9. Bxf4 Nb4 10. O-O Nxd3 11. Qxd3 h6
+12. Bg3 O-O 13. Bh4 Ra5 14. a3 Rh5 15. Rae1 g5 16. Bg3 Nh7
+17. e5 g4 18. Nd2 dxe5 19. Bxe5 Rg5 20. Ne4 Rg6 21. Ng3 Nf6
+22. Re2 Be6 23. Bxc7 Qc8 24. b3 Bxb3 25. cxb3 Qxc7 26. Nf5 Re8
+27. Nh4 Rxe2 28. Qxe2 Qd6 29. Nxg6 fxg6 30. Qe5 Qxe5 31. dxe5
+Nd5 32. Rd1 Ne7 33. Rd7 Kf7 34. Rxb7 Ke6 35. Rxb6+ Kxe5 36. a4
+Kd5 37. b4 Nc6 38. Rxc6 1-0

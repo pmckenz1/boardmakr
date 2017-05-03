@@ -1,0 +1,20 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.11"]
+[EventDate "1925.04.16"]
+[Round "19"]
+[Result "0-1"]
+[White "George Alan Thomas"]
+[Black "Carl Johan Margot Carls"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Ne2 e6 7.Ng3
+Nf6 8.Qe2 Be7 9.O-O h5 10.Re1 h4 11.Nf1 Bd7 12.a4 Kf8 13.Nbd2
+Nh5 14.Nf3 Nf4 15.Bxf4 Qxf4 16.h3 Bd6 17.Ne5 Nxe5 18.dxe5 Bc7
+19.Bb5 Bxb5 20.Qxb5 Bxe5 21.Qxb7 Rb8 22.Qxa7 Rxb2 23.Rab1 Rxb1
+24.Rxb1 g5 25.Rb4 Qf6 26.Ne3 Bf4 27.Ng4 Qxc3 28.Rb1 Kg7 29.a5
+d4 30.Rd1 d3 31.a6 d2 32.Qd7 Ra8 33.a7 Qc5 34.Nh2 Rxa7 35.Qd3
+Qc1 0-1

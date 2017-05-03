@@ -1,0 +1,19 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Phillip Viner"]
+[Black "Kuan Kuan Tian"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. c4 g5 2. d4 Bg7 3. Nc3 g4 4. e3 d6 5. Bd3 Nc6 6. Bd2 e5
+7. d5 Nce7 8. h3 h5 9. hxg4 hxg4 10. Rxh8 Bxh8 11. f3 Nf5
+12. Bxf5 Qh4+ 13. Kf1 Bxf5 14. e4 Bd7 15. Ke2 Nf6 16. Kd3 c6
+17. Kc2 cxd5 18. cxd5 b5 19. a3 Qf2 20. Qe2 Qb6 21. Qe3 Qxe3
+22. Bxe3 Ke7 23. Nge2 Bg7 24. Rh1 a5 25. b4 axb4 26. axb4 Rg8
+27. Rh2 Ne8 28. Kd3 1/2-1/2

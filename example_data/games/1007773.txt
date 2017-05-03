@@ -1,0 +1,31 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.12"]
+[EventDate "1927.06.26"]
+[Round "7"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Karl Gilg"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. e4 { Notes by Raymond Keene. } c5 2. Nf3 Nc6 3. Bb5 {This
+line was strongly recommended in Chess Praxis where
+Nimzowitsch writes of 'the triumph of the bizarre and ugly
+move' (Siegeszug being translated as 'triumph', but it
+actually means triumph in the sense of a Roman triumph --
+perhaps 'victory march' is a better translation). This game is
+an amusing example of the victory march in progress. Note that
+this move seems to plan the exchange of bishop for knight at
+great speed. } 3...Qc7 {Modern theory centres around 3...g6,
+which gives Black about equal chances.} 4. c3 a6 5. Ba4 {A
+change of heart? } 5...Nf6 6. Qe2 e5 7. O-O Be7 8. d4 cxd4
+{Better 8...d6. Now Black is in a bad way. } 9. cxd4 Nxd4
+10. Nxd4 exd4 11. e5 d3 {Or 11...Nd5 12 e6 fxe6 13 Qxe6 Nb6 14
+Bg5 Qd8 15 Bxe7 Nxa4 16 Qb3 Qxe7 17 Qxa4. } 12. Qe3 Nd5
+13. Qg3 g6 14. Bb3 Nb4 15. Bxf7+ Kd8 16. Bh6 Nc2 17. Nc3 Nd4
+{If 17...Nxa1 then 18 Nd5 Qc6 19 Be3 d6 20 Bb6+ Kd7 21 e6
+mate. } 18. Qxd3 Qxe5 19. Rfe1 Qf6 20. Rxe7 {20...Kxe7 21 Nd5+
+or 20...Qxe7 21 Qxd4.} 1-0

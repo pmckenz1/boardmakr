@@ -1,0 +1,17 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1985.01.23"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Kevin Spraggett"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bb3 Nc6
+7. Nf3 Bg4 8. Bxf7+ Kxf7 9. Ng5+ Ke8 10. Qxg4 Qxd4 11. Qxd4
+Nxd4 12. Na3 e6 13. Be3 Bb4+ 14. Kf1 Be7 15. Bxd4 Bxg5 16. h4
+Be7 17. Nb5 Nd5 18. Rc1 Kd7 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "It (cat.14), Tilburg (Netherlands)"]
+[Site "Tilburg NED"]
+[Date "1984.10.15"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Gennady Sosonko"]
+[Black "Ulf Andersson"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.Bg2 Nbd7
+7.Nf3 c6 8.b3 O-O 9.O-O b6 10.Qb2 Bb7 11.Nbd2 c5 12.Rfd1 Qe7
+13.Rac1 1/2-1/2

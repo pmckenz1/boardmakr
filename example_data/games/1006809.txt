@@ -1,0 +1,24 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.17"]
+[EventDate "1920.08.02"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Katarina Beskow"]
+[Black "T C Jensen"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.a3 a6 7.Be2
+Qc7 8.O-O Nxd4 9.Qxd4 Bd6 10.h3 Be5 11.Qd3 Qc6 12.Bf3 b6
+13.Re1 Bb7 14.Bd2 Rc8 15.Rad1 Qc7 16.Qe2 O-O 17.Qe3 Ne8 18.g4
+Nd6 19.Bc1 Nc4 20.Qd3 Rfd8 21.Bg2 Nxb2 22.Bxb2 Bxc3 23.Bxc3
+Qxc3 24.Re2 Qxd3 25.Rxd3 Rc4 26.f3 Kf8 27.Red2 Bc6 28.Bf1 Rc5
+29.Rb3 b5 30.Rb2 Ke7 31.Rd3 f6 32.h4 d5 33.exd5 Bxd5 34.Kf2
+Rdc8 35.Rd2 Rc3 36.Bd3 h6 37.f4 Rxa3 38.g5 fxg5 39.fxg5 hxg5
+40.hxg5 Rcc3 41.Rb4 Bc4 42.Be4 Rh3 43.Bg2 Rhg3 44.Rb1 Rxg5
+45.Rbd1 Bd5 46.Bxd5 Rxd5 47.Rxd5 exd5 48.Rxd5 Ra2 49.Rd2 b4
+50.Ke3 b3 51.Rg2 bxc2 52.Rxg7+ Kd6 53.Kd2 Kc5 54.Rc7+ Kb4
+55.Rxc2 Kb3 56.Rxa2 Kxa2 57.Kc1 a5 1/2-1/2

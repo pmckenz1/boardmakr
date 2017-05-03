@@ -1,0 +1,15 @@
+[Event "Izt"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Johann Hjartarson"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 h6 4.Bxf6 Qxf6 5.Nbd2 d6 6.c3 Nd7 7.e3
+Qd8 8.Be2 Be7 9.O-O O-O 10.Qc2 b6 1/2-1/2

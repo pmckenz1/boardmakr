@@ -1,0 +1,17 @@
+[Event "Kecskemet (Hungary)"]
+[Site "Kecskemet (Hungary)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Dejan Antic"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.c4 g6 2.Nf3 Bg7 3.d4 Nf6 4.g3 d5 5.Bg2 dxc4 6.O-O O-O 7.Na3
+Na6 8.Nxc4 c5 9.b3 Bf5 10.Bb2 Be4 11.Rc1 Rc8 12.Bh3 Rc7
+13.dxc5 Rxc5 14.Qxd8 Rxd8 15.Ba3 Rc7 16.Nce5 e6 17.Ng5 Bd5
+18.Rxc7 Nxc7 19.Rd1 Nb5 20.Nxe6 1/2-1/2

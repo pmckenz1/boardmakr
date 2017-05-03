@@ -1,0 +1,18 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jon Loftur Arnason"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.c4 e5 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.d3 Ne7 6.e4 c5 7.Rb1 Nbc6
+8.a3 a5 9.Nge2 Rb8 10.O-O O-O 11.Nb5 Be6 12.Nec3 f5 13.exf5
+gxf5 14.Bg5 Qd7 15.Bxe7 Nxe7 16.b4 axb4 17.axb4 cxb4 18.Rxb4
+d5 19.Nxd5 Nxd5 20.cxd5 Bxd5 21.Bxd5+ Qxd5 22.Qb3 Rfd8 23.Rb1
+Rd7 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Andrei Deviatkin"]
+[Black "Igor Moizhess"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6
+7. Qe4 b6 8. Bd3 Bb7 9. O-O Nde7 10. Na3 Ng6 11. Qe2 Bxa3
+12. bxa3 O-O 13. a4 d6 14. Bxg6 hxg6 15. Ba3 Na5 16. Bxd6 Bxf3
+17. Qxf3 Re8 18. Rad1 Rc8 19. Rd4 Rc4 20. Rfd1 Qa8 21. Qd3 Qc6
+22. Bb4 Rxd4 23. Qxd4 Nc4 24. Re1 a5 25. Bd6 Rd8 26. Qe4 Qxa4
+27. h4 Qxa2 28. h5 gxh5 29. Qh4 Rc8 30. Qxh5 Qc2 31. Be7 Qf5
+32. Qd1 Nxe5 33. Qd6 Ng6 34. Bd8 Rxc3 35. Bxb6 Rc8 36. Qa3 Ra8
+37. Ra1 a4 38. Qb4 Qf4 39. Qb5 Qe5 40. Qb1 Nf4 41. Ra3 Qd5
+42. Rf3 e5 43. Be3 a3 44. Bxf4 a2 45. Qa1 exf4 46. Rc3 Qd2
+47. Rc5 Rb8 48. Qe5 Rd8 49. Ra5 Qxa5 0-1

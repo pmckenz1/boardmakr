@@ -1,0 +1,20 @@
+[Event "Voronezh (Russia)"]
+[Site "Voronezh (Russia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Evgeny Pigusov"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Nd2
+Bg7 8.e4 O-O 9.Be2 Ne8 10.O-O f5 11.exf5 Bxf5 12.Nc4 Na6
+13.Bf4 Nac7 14.Qd2 b5 15.Na5 Qd7 16.a4 b4 17.Nb5 Be4 18.Nc4
+Nxb5 19.axb5 Bd4 20.Be3 Bxe3 21.Nxe3 Qb7 22.Ra6 Nc7 23.Rxd6
+Nxb5 24.Re6 Rae8 25.Rxe8 Rxe8 26.f3 Bf5 27.Nxf5 gxf5 28.Bxb5
+Qxb5 29.d6 Kh8 30.d7 Rd8 31.Rd1 c4 32.Qd4+ Kg8 33.Qxa7 c3
+34.Qc7 1-0

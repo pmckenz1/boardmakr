@@ -1,0 +1,20 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Miroslav Grabarczyk"]
+[Black "Jacek Gdanski"]
+[ECO "E64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 Nf6 4. g3 c5 5. Bg2 Qa5+ 6. Bd2 Qb6
+7. dxc5 Qxc5 8. Qb3 d6 9. Nc3 O-O 10. O-O Nbd7 11. Rac1 Qh5
+12. Bg5 h6 13. Bxf6 Nxf6 14. Nd5 Nxd5 15. cxd5 e6 16. Rfd1 Rb8
+17. Rc7 exd5 18. Rxd5 Be6 19. Rxh5 Bxb3 20. Ra5 Be6 21. Rxa7
+Bxb2 22. Rcxb7 Rxb7 23. Rxb7 Bf6 24. Rb6 Rc8 25. Nd2 Rc1+
+26. Nf1 d5 27. Bxd5 Bxd5 28. Rxf6 Bxa2 29. Rd6 Re1 30. Rd4
+Rxe2 1/2-1/2

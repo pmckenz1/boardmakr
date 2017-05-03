@@ -1,0 +1,16 @@
+[Event "It (cat.9)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Levente Lengyel"]
+[Black "Gerardo F Barbero"]
+[ECO "A26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 f5 7.Nge2
+Nge7 8.O-O O-O 9.Nd5 Be6 10.Be3 Qd7 11.Qd2 Rf7 12.f4 Raf8
+13.Rf2 Nc8 14.Raf1 fxe4 15.dxe4 exf4 1/2-1/2

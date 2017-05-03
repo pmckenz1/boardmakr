@@ -1,0 +1,19 @@
+[Event "URS chI 24/205"]
+[Site "URS chI 24/205"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Pereszupkin"]
+[Black "Vladimir Bagirov"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5
+exd5 8.Qa4+ Nc6 9.Bb5 O-O 10.O-O Qa5 11.Bd2 Qxa4 12.Bxa4 Bf5
+13.Bxc6 bxc6 14.Na4 Bd6 15.Rfc1 Rfc8 16.Be3 Nd7 17.Nd2 Rab8
+18.h3 h5 19.b3 Ba3 20.Re1 Nb6 21.Nc5 a5 22.Bf4 Ra8 23.Nf3 Nd7
+24.Na4 Be4 25.Ne5 Nxe5 26.Bxe5 Re8 27.Bc7 Bb4 28.Re3 Bf5
+29.Bf4 Rxe3 30.Bxe3 Bd3 31.Rc1 Bb5 32.Nc3 1/2-1/2

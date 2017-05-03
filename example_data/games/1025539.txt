@@ -1,0 +1,18 @@
+[Event "Kstovo op"]
+[Site "05"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Dmitri Saulin"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 c5 2.Ne2 d6 3.g3 Nc6 4.Bg2 g6 5.c3 Bg7 6.d4 Bg4 7.f3 Bd7
+8.Be3 cxd4 9.cxd4 d5 10.e5 Nh6 11.g4 f6 12.exf6 exf6 13.Nbc3
+Be6 14.Nf4 Bf7 15.Qd2 f5 16.O-O-O fxg4 17.Nh5 gxh5 18.Bxh6 O-O
+19.fxg4 hxg4 20.Rhg1 Qd6 21.Bxg7 Kxg7 22.Bf3 h5 23.h3 Bg6
+24.hxg4 h4 25.Bxd5 Nb4 26.Qg5 Rac8 27.Bb3 Nxa2+ 0-1

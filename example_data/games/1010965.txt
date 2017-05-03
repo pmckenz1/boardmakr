@@ -1,0 +1,21 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Beschastny"]
+[Black "Robertas Zubrickas"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. dxe5 dxe5 8. Qxd8 Rxd8 9. Bg5 Re8 10. Nd5 Nxd5 11. cxd5 c6
+12. Bc4 cxd5 13. Bxd5 Nc6 14. O-O-O Bg4 15. Kb1 Rac8 16. Rc1
+Be6 17. Bxc6 Rxc6 18. Rxc6 bxc6 19. Rc1 Rc8 20. Rc5 f6 21. Be3
+a6 22. b3 Kf7 23. Kc2 Rc7 24. Kc3 Bc8 25. Ne1 Bf8 26. Ra5 Rb7
+27. Nd3 Rb5 28. Rxb5 cxb5 29. Bc5 Bh6 30. Bb6 Ke6 31. Nc5+ Kd6
+32. b4 f5 33. Bd8 Bg7 34. a3 fxe4 35. Nxe4+ Kd5 36. f3 Bf5
+37. Bf6 Bh6 38. Bg5 1/2-1/2

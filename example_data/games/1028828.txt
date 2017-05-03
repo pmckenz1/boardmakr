@@ -1,0 +1,21 @@
+[Event "BFX Manchester"]
+[Site "BFX Manchester"]
+[Date "1863.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Butterfield"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 {Notes by Blackburne.} e5 2.f4 Bc5 3.Nf3 d6 4.c3 Bg4
+5.Bc4 Bxf3 6.Qxf3 Nc6 7.b4 Bb6 8.a4 a6 9.Na3 Qf6 10.d3 exf4
+11.d4 Nge7 12.Bxf4 Ng6 13.Be3 Qxf3 14.gxf3 Nh4 15.Ke2 Rf8
+16.Rhg1 Ng6 17.f4 f5 18.e5 Nce7 19.Be6 dxe5 20.dxe5 Rd8
+21.Rad1 Rxd1 22.Rxd1 Nc6 23.Nc4 Ke7 24.Nxb6 Kxe6 25.Nd7 Rd8
+26.Nc5+ Kf7 27.Rxd8 Nxd8 28.a5 Ne7 29.b5 Nd5 30.Nxb7 Nxc3+
+31.Ke1 {Because if ...Nxb7, then bxa6 and the Pawn cannot be
+stopped.} 1-0

@@ -1,0 +1,19 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1929.05.21"]
+[EventDate "1929.05.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Charles Fenton Bolland"]
+[Black "Harold Saunders"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bb5 Nf6 6. O-O
+Bg4 7. Bf4 e6 8. c3 Bd6 9. Bg5 Qc7 10. h3 Bh5 11. Nbd2 a6
+12. Ba4 h6 13. Be3 g5 14. Qc2 b5 15. Bb3 g4 16. hxg4 Nxg4
+17. a4 Bg6 18. Qd1 Bd3 19. Re1 Bh2+ 20. Kh1 Bf4 21. Bxd5 Bxe3
+22. Bxc6+ Qxc6 23. Qb3 Nxf2+ 24. Kh2 Qd6+ 25. Ne5 Bxd2 26. Rf1
+Ng4+ 27. Kh1 Nxe5 28. dxe5 Qxe5 29. Rfd1 Qh5+ 0-1

@@ -1,0 +1,24 @@
+[Event "Suisse (Switzerland)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Claude Landenbergue"]
+[Black "Alexander Baburin"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3
+Qc7 8.a4 Be7 9.Be2 O-O 10.O-O Nbd7 11.Bg5 h6 12.Bh4 b6 13.Re1
+Bb7 14.Bf1 Rfe8 15.Nd2 d5 16.exd5 Nxd5 17.Nxd5 Bxd5 18.Bxe7
+Rxe7 19.Ne4 Bxe4 20.Rxe4 Nc5 21.Re3 Rd8 22.Qg4 Rd4 23.Qe2 a5
+24.b3 Qd6 25.Re1 e4 26.c3 Rd2 27.Qc4 Qf6 28.R1e2 Red7 29.b4
+axb4 30.cxb4 R2d4 31.Qb5 Nd3 32.a5 bxa5 33.bxa5 Nf4 34.Rc2 Rd1
+35.Rxe4 Nh3+ 36.gxh3 Qg6+ 37.Rg4 Qxc2 38.a6 Qc1 39.Kg2 Qc7
+40.Be2 R1d5 41.Qb2 g6 42.Qf6 R7d6 43.Qf3 Kh7 44.Qg3 Qe7 45.Bf1
+h5 46.Rf4 Ra5 47.h4 Rf6 48.Rxf6 Qxf6 49.Qb3 Rf5 50.Qg3 Rf4
+51.h3 Qc6+ 52.Kg1 Ra4 53.Qb3 Qd7 54.Bb5 Ra1+ 55.Kg2 Qf5 56.Bd3
+Qf6 57.Qd5 Kg7 58.Bc4 Ra3 59.Qb7 Kh6 1/2-1/2

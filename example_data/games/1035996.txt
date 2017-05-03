@@ -1,0 +1,18 @@
+[Event "Munich"]
+[Site "Munich GER"]
+[Date "1900.08.08"]
+[EventDate "1900.07.23"]
+[Round "13"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Alexander Halprin"]
+[ECO "D08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.a3 a5 5.Nf3 Bc5 6.Nbd2 Nc6 7.Nb3
+Ba7 8.c5 Bg4 9.Bg5 Qd5 10.Nbxd4 Nxd4 11.Qa4+ Nc6 12.Qxg4 Bxc5
+13.Bf4 Nge7 14.e3 h5 15.Qh3 Qb3 16.Rc1 Rd8 17.Bc4 Qxb2 18.O-O
+Bxa3 19.Ng5 Nd5 20.e6 Qf6 21.exf7+ Ke7 22.Rcd1 Nxf4 23.exf4
+Rxd1 24.Rxd1 Bd6 25.Re1+ Kd8 26.Ne6+ Kc8 27.Nf8 1-0

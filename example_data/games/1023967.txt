@@ -1,0 +1,16 @@
+[Event "mem S.Furman XII St Petersburg RUS"]
+[Site "mem S.Furman XII St Petersburg RUS"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Viacheslav Osnos"]
+[Black "Vladimir Bagirov"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 d5 2.c4 c6 3.Nf3 dxc4 4.a4 e6 5.e3 b5 6.b3 Bb4+ 7.Bd2
+Bxd2+ 8.Nfxd2 cxb3 9.axb5 b2 10.Ra2 Ne7 11.Rxb2 O-O 12.Qc2 Bb7
+13.Bd3 h6 14.O-O cxb5 1/2-1/2

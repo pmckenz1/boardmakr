@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1942.06.05"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Max Euwe"]
+[Black "Arnoldus Johannes van den Hoek"]
+[ECO "E33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 e5 6. d5 Ne7
+7. Bd3 O-O 8. Nge2 a5 9. O-O d6 10. a3 Bc5 11. Na4 Ba7 12. b4
+axb4 13. axb4 b5 14. Nac3 bxc4 15. Bxc4 Bf5 16. e4 Bg6 17. Bg5
+Ng4 18. Ba6 f5 19. Bh4 fxe4 20. Nxe4 Qd7 21. Bb7 Bxf2+
+22. Bxf2 Rxa1 23. Rxa1 Nxf2 24. N2g3 Nxe4 25. Nxe4 Qg4 26. Re1
+Rf4 27. h3 Rxe4 28. Ra1 Re2 0-1

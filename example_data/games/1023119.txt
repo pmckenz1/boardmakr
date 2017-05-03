@@ -1,0 +1,19 @@
+[Event "4, Leningrad URS ch"]
+[Site "4, Leningrad URS ch"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Iossif Davidovich Dorfman"]
+[Black "Vladimir Bagirov"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.c4 c6 2.d4 d5 3.Nf3 Nf6 4.Qc2 g6 5.Bf4 Bf5 6.Qb3 Qb6 7.e3
+Bxb1 8.Rxb1 Nbd7 9.Bd3 e6 10.O-O Nh5 11.Be5 f6 12.Bf4 Nxf4
+13.exf4 Qxb3 14.axb3 Bd6 15.g3 Kf7 16.Rbe1 Rhe8 17.h4 h5
+18.Re3 a6 19.Rfe1 Nf8 20.Kg2 Rad8 21.Bc2 Bb4 22.Ra1 Bd6 23.Rd1
+Re7 24.Rde1 Bb4 25.R1e2 Rde8 26.Kf1 Rd8 27.Bd3 Ree8 28.Rc2 Re7
+29.Rce2 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.12"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Samer Mourad"]
+[Black "Antoine Al Halabi"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. Nbd2 Bb7 5. e3 a6 6. Bd3 c5
+7. c3 Be7 8. O-O d5 9. Ne5 c4 10. Bc2 Nbd7 11. Ndf3 Nh5
+12. Nxf7 Kxf7 13. Ng5+ Bxg5 14. Qxh5+ g6 15. Qxg5 Qxg5
+16. Bxg5 Nf6 17. f3 Kg7 18. e4 Rhf8 19. Rae1 h6 20. Bf4 Nd7
+21. Bd6 Rf7 22. exd5 Bxd5 23. Be4 Nf6 24. Bxd5 exd5 25. Re6
+Nd7 26. Rfe1 b5 27. Be5+ Nxe5 28. R1xe5 Rd7 29. Rb6 Raa7
+30. Ree6 Rdb7 31. Rxg6+ Kf7 32. Rxh6 Rxb6 33. Rxb6 Ke7 34. Kf2
+Kd7 35. f4 Kc7 36. Rh6 a5 37. Rh7+ Kb6 38. Rxa7 Kxa7 39. h4 b4
+40. a4 Ka6 41. h5 1-0

@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Andrei Sokolov"]
+[Black "Eduardas Rozentalis"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6
+7. O-O Be7 8. c4 Nf6 9. Nc3 O-O 10. h3 Nb4 11. Be2 Bf5 12. a3
+Nc6 13. Be3 dxc4 14. Bxc4 Ne4 15. Re1 Bf6 16. Nd5 Nd6 17. Ba2
+Be4 18. Rc1 Bxd5 19. Bxd5 Ne7 20. Ba2 c6 21. Bf4 Nb5 22. Be5
+Ng6 23. Qb3 Nxd4 24. Bxd4 Bxd4 25. Rcd1 c5 26. Nxd4 cxd4
+27. Re4 Rc8 28. Rexd4 Qg5 29. Qxb7 Rb8 30. Bxf7+ Kh8 31. Qd5
+Qxd5 32. Bxd5 Rxb2 33. R4d2 Rxd2 34. Rxd2 Nf4 35. Bc4 g6
+36. h4 Rc8 37. Rd4 Nh5 38. g4 Nf6 39. Kg2 h6 40. g5 hxg5
+41. hxg5 Nh7 42. f4 Nf8 43. Kf3 Kg7 44. Ke3 Rc7 45. Re4 Rc5
+46. a4 1-0

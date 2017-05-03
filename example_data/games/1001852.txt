@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.05"]
+[EventDate "1883.04.26"]
+[Round "4.2"]
+[Result "1/2-1/2"]
+[White "James Mason"]
+[Black "Josef Noa"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Nf6 6. O-O
+O-O 7. c3 Bg4 8. Bg5 Nbd7 9. Nbd2 c6 10. Qc2 Qc7 11. Rfe1 Rfe8
+12. Bh4 h6 13. Bg3 Bxg3 14. hxg3 Rxe1+ 15. Rxe1 Re8 16. Rxe8+
+Nxe8 17. Nh4 Qd6 18. Nf1 Ndf6 19. Ne3 Qe7 20. Nf3 Bxf3
+21. gxf3 Nd6 22. Qe2 Kf8 23. Qf1 Qd7 24. Kg2 g6 25. Qd1 Kg7
+26. Qa4 a6 27. Qc2 Qe7 28. Qe2 Ng8 29. f4 Nf6 30. f3 Nh5
+31. Nf1 Qxe2+ 32. Bxe2 f6 33. Bd3 Kf7 34. Ne3 Ng7 35. Kf2 h5
+36. Bf1 Ngf5 37. Ng2 Ng7 38. Bd3 1/2-1/2

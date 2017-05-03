@@ -1,0 +1,18 @@
+[Event "Dos Hermanas, Cat.16"]
+[Site "Dos Hermanas, Cat.16"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Ivan Morovic-Fernandez"]
+[Black "Manuel Rivas Pastor"]
+[ECO "B06"]
+[WhiteElo "2605"]
+[BlackElo "2505"]
+[PlyCount "51"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.f4 Qb6 5.Be2 e5 6.fxe5 dxe5 7.dxe5
+Nfd7 8.Nf3 Na6 9.Bc4 Bb4 10.a3 Bxc3+ 11.bxc3 Nac5 12.Qd4 Nf8
+13.a4 Nfe6 14.Qe3 O-O 15.a5 Qc7 16.O-O Bd7 17.Ba3 b6 18.Bxe6
+Bxe6 19.axb6 axb6 20.Bxc5 bxc5 21.Qxc5 Ba2 22.Nd4 Rfe8 23.Qxc6
+Qxe5 24.Qd7 Rad8 25.Qa7 Bc4 26.Nc6 1-0

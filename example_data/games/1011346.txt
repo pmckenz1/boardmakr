@@ -1,0 +1,20 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Mark Orr"]
+[Black "Walter F Buchanan"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 O-O 6. Bg2
+Bxd2+ 7. Qxd2 d6 8. O-O e5 9. Nc3 Re8 10. e4 Bg4 11. d5 Bxf3
+12. Bxf3 Nbd7 13. b4 Rf8 14. a3 g6 15. Bd1 Kh8 16. Bc2 Nh5
+17. Qe2 Qg5 18. Qe3 Qe7 19. Na4 f5 20. exf5 gxf5 21. Nc3 a6
+22. Kh1 Qf7 23. f4 exf4 24. gxf4 Qf6 25. Qh3 Rae8 26. Rad1 Qh6
+27. Rf3 Re7 28. Bxf5 Ndf6 29. Rdf1 Rfe8 30. Be6 Rg7 31. f5 Qg5
+32. Ne2 Ng4 33. Rg1 Nf4 34. Nxf4 Nf2+ 0-1

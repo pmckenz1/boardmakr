@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.15"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Vladimir Akopian"]
+[Black "Michael Adams"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.Bc4 Bf5 8.O-O e6 9.Ne5 Bd6 10.c3 Qc7 11.Qe2 O-O-O 12.Re1 Kb8
+13.Bf4 Nd5 14.Bg3 h5 15.Bxd5 cxd5 16.Nf3 Bxg3 17.hxg3 Bg4
+18.Qe5 Bxf3 1/2-1/2

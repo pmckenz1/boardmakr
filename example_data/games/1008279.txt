@@ -1,0 +1,21 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.11"]
+[EventDate "1936.08.10"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "George Alan Thomas"]
+[Black "Conel Hugh O'Donel Alexander"]
+[ECO "E44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. f3 d5
+7. Qb3 Bd6 8. c5 Be7 9. Nf4 O-O 10. Bd2 Bc6 11. cxb6 cxb6
+12. Rc1 Bb7 13. Bd3 Nc6 14. Na4 Rc8 15. O-O Bd6 16. Ne2 Bb8
+17. f4 Qe7 18. Rf3 Ne4 19. Bxe4 dxe4 20. Rg3 Rfd8 21. Qd1 Nb4
+22. Rxc8 Rxc8 23. Nac3 Nd3 24. Qb3 Qd7 25. Rg5 Ba6 26. Nxe4
+Qe7 27. Bc3 f6 28. Rg3 Bc4 29. Qd1 Nb4 30. Nxf6+ Qxf6 31. Bxb4
+Bxe2 32. Qxe2 Rc1+ 33. Kf2 Bxf4 34. exf4 Qxd4+ 35. Re3 Qxf4+
+36. Qf3 Qh4+ 37. Qg3 1/2-1/2

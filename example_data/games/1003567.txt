@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.08.20"]
+[EventDate "1907.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Oldrich Duras"]
+[Black "Carl Schlechter"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Be3 Bb6
+7. h3 Be6 8. O-O O-O 9. Bg5 Ne7 10. Nh4 Ng6 11. Nxg6 hxg6
+12. Kh2 Qd7 13. Bxf6 gxf6 14. f4 exf4 15. Rxf4 Bd4 16. Bxe6
+Qxe6 17. Rf3 Kg7 18. Qd2 Rh8 19. Raf1 c6 20. Ne2 Be5+ 21. Kg1
+d5 22. Nf4 Qd6 23. exd5 cxd5 24. d4 Bxf4 25. Qxf4 Qxf4
+26. Rxf4 f5 27. Re1 Rae8 28. Rxe8 Rxe8 1/2-1/2

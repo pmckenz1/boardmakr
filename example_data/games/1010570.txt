@@ -1,0 +1,22 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Vladimir Prudnikov"]
+[Black "Feodosi J Docenko"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 a6 5. Be2 Nge7 6. O-O Nd4
+7. d3 Nec6 8. Be3 Be7 9. Qd2 O-O 10. Nd1 d5 11. c3 Nxe2+
+12. Qxe2 dxe4 13. dxe4 b6 14. Nf2 Qc7 15. Ng4 Bb7 16. f5 exf5
+17. exf5 Bd6 18. f6 Rfe8 19. Qf2 Bc8 20. h3 Bg3 21. Qd2 Bxg4
+22. hxg4 Rad8 23. Qc1 Qd7 24. fxg7 Qxg4 25. Ng5 Ne5 26. Qc2
+Qh5 27. Nh3 Ng4 28. Bg5 Rd6 29. Rf3 Rde6 30. Raf1 Nh2 31. Rxg3
+Nxf1 32. Nf4 Qh2+ 33. Kxf1 Qh1+ 34. Kf2 Qe1+ 35. Kf3 Re3+
+36. Kg4 Rxg3+ 37. Kh5 Qh1+ 38. Nh3 Re5 39. Qd2 Kxg7 40. Kh4
+Rexg5 0-1

@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.12.04"]
+[EventDate "1923.11.16"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "F Fischer"]
+[Black "Siegfried Reginald Wolf"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nf6 6. O-O
+O-O 7. c3 c6 8. Bg5 Bg4 9. Nbd2 Nbd7 10. Qc2 Qc7 11. Rfe1 Rfe8
+12. h3 Bh5 13. Rxe8+ Rxe8 14. Re1 Rxe1+ 15. Nxe1 Bg6 16. Nef3
+Kf8 17. Nh4 Bf4 18. Nxg6+ hxg6 19. Bxf4 Qxf4 20. Nf3 Kg8
+21. Qd2 Qxd2 22. Nxd2 Kf8 23. Kf1 Kg8 24. Kg1 Kf8 25. Kf1
+1/2-1/2

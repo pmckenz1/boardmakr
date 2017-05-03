@@ -1,0 +1,16 @@
+[Event "New York simul"]
+[Site "New York, NY USA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Edward W Formanek"]
+[Black "Jay R Bonin"]
+[ECO "E86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6
+8.Qd2 a6 9.Rd1 exd4 10.Nxd4 Re8 11.Be2 d5 12.Nb3 b5 13.cxd5 b4
+14.Na4 Nxe4 15.fxe4 Qh4+ 16.Bf2 Qxe4 17.O-O 1-0

@@ -1,0 +1,23 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Sergei Priemov"]
+[Black "Anatolij Chistiakov"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 Bg4 6. h3 Bxf3
+7. Qxf3 c6 8. Be3 e6 9. O-O-O b5 10. e5 Nd5 11. Ne4 dxe5
+12. fxe5 O-O 13. Bg5 Qc7 14. Kb1 Nd7 15. Bd3 a5 16. c3 Rab8
+17. Rd2 c5 18. Nf6+ Kh8 19. Nxd5 exd5 20. Be7 Nxe5 21. Qxd5
+Qxe7 22. dxe5 Rfd8 23. Qe4 c4 24. Re1 cxd3 25. Rxd3 Rxd3
+26. Qxd3 Bxe5 27. Qd5 f6 28. Rd1 b4 29. c4 a4 30. c5 Qc7
+31. c6 Rc8 32. Qe6 a3 33. Rd7 Qxc6 34. Rd8+ Rxd8 35. Qxc6 axb2
+36. Qc2 Bc3 37. Qe2 Be5 38. Qc2 Kg7 39. Qa4 Kh8 40. Qc2 b3
+41. Qxb3 Rc8 42. Qe3 Rc1+ 43. Qxc1 bxc1=Q+ 44. Kxc1 f5 45. Kd2
+Kg7 46. Kd3 Kf6 47. Kc4 Kg5 48. Kd5 Bc3 0-1

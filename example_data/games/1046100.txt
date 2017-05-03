@@ -1,0 +1,23 @@
+[Event "Praha 48/585"]
+[Site "Praha 48/585"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Petr Haba"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O
+7. e3 b6 8. Be2 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O Nd7
+12. Qb3 c6 13. Rfe1 Re8 14. Rad1 Nf8 15. e4 g6 16. a4 Ne6
+17. exd5 cxd5 18. a5 Re7 19. a6 Bc6 20. Bb5 Bxb5 21. Qxb5 Nxd4
+22. Nxd4 Rxe1+ 23. Rxe1 Bxd4 24. Nxd5 Kg7 25. g3 Rc8 26. Nf4
+Rc5 27. Qd3 Qf6 28. b4 Rc3 29. Qd2 Rc4 30. Qe2 b5 31. Qe8 Rc2
+32. Re2 Rxe2 33. Qxe2 Qxa6 34. Nd5 Qc6 35. Nf4 Bc3 36. Qe3 Qc4
+37. Qxa7 Bxb4 38. Ne6+ Kf6 39. Nc7 Qc1+ 40. Kg2 Qc6+ 41. Kg1
+Qc1+ 42. Kg2 Qc6+ 43. Kg1 Bc3 44. Na6 Kg7 45. h4 h5 46. Nc5
+Qd5 47. Qe7 Bf6 48. Qc7 Bd4 0-1

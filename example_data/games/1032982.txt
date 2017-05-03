@@ -1,0 +1,17 @@
+[Event "8, La Habana-B (10s)"]
+[Site "Havana CUB"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Kenneth Frey Beckman"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5
+7. Bb3 O-O 8. d4 d6 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Rd1 Qe8
+12. a4 Bb7 13. Nc3 c6 14. Qf3 Rd8 15. Be3 Rxd1+ 16. Rxd1 Qb8
+17. Bg5 Rd8 18. h3 1/2-1/2

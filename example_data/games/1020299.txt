@@ -1,0 +1,19 @@
+[Event "USSR vs. Rest of the World"]
+[Site "London ENG"]
+[Date "1984.06.27"]
+[EventDate "1984.06.24"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Anatoly Karpov"]
+[Black "Ulf Andersson"]
+[ECO "D67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Rd8 12.Qc2 Nxc3
+13.Qxc3 b6 14.b4 Bb7 15.Be2 Rdc8 16.Qb2 h6 17.Rfd1 Rc7 18.Rc3
+Nf6 19.Rdc1 Rac8 20.h3 Nd5 21.Rb3 Ba8 22.Ne5 c5 23.bxc5 bxc5
+{Karpov's analysis: 24.Rb8 Nb6 25.Rxc8+ Rxc8 26.Qa3 Qg5 27.Bf3
+cxd4 28.Rxc8+ Nxc8 29.Qc5 Nb6 30.Bxa8 Nxa8 31.Qc8+} 1/2-1/2

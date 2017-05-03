@@ -1,0 +1,28 @@
+[Event "Toronto op"]
+[Site "05"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kevin Spraggett"]
+[Black "Lawrence Day"]
+[ECO "C91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.d4 Bg4 10.Be3 exd4 11.cxd4 Na5 12.Bc2 c5 13.dxc5
+dxc5 14.Nbd2 Nc6 15.Rc1 Nd7 16.Bb1 Qc7 17.h3 Bh5 18.Qe2 Rfe8
+19.Qf1 c4 20.Nh2 Rac8 21.f4 f6 22.Qf2 Bg6 23.Nhf3 Bd6 24.Nh4
+Bf7 25.Nf5 Bf8 26.Kh1 Qb7 27.Qh4 Nb4 28.Rcd1 Nd3 29.Bxd3 cxd3
+30.Bd4 Bxa2 31.Re3 Bf7 32.Rxd3 Nc5 33.Nh6+ Kh8 34.Nxf7+ Qxf7
+35.Re3 Ne6 36.Nf3 Nxd4 37.Nxd4 Bc5 38.e5 Rcd8 39.Red3 Bxd4
+40.Rxd4 Rxd4 41.Rxd4 fxe5 42.fxe5 Rxe5 43.Rd6 a5 44.Ra6 a4
+45.Ra8+ Re8 46.Qf4 Qg8 47.Ra7 h6 48.Qc7 Qf8 49.Rb7 Qf6 50.Rb8
+Rf8 51.Kh2 Qf5 52.Rb7 Qg5 53.Qc3 Re8 54.Kh1 Qe5 55.Qc2 Qd5
+56.Qc7 Re1+ 57.Kh2 Qe5+ 58.Qxe5 Rxe5 59.Kg1 Rc5 60.Kh2 Kh7
+61.Rb6 h5 62.Kg3 g5 63.Kf3 Re5 64.g3 Kg7 65.h4 Kf7 66.hxg5
+Rxg5 67.Kf2 Ke7 68.Ke1 Rd5 69.Ke2 Kd7 70.Ke3 Kc7 71.Rg6 Kb7
+72.g4 hxg4 73.Rxg4 Kb6 74.Rh4 Rd1 75.Rg4 Kc5 76.Rh4 Rb1 77.Rh2
+Kc4 0-1

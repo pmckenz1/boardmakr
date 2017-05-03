@@ -1,0 +1,24 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Vasily Chichkin"]
+[Black "Evgeny Khaskelman"]
+[ECO "A90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 c6 5. Nf3 d5 6. O-O Bd6
+7. b3 Qe7 8. a4 O-O 9. Ba3 b6 10. Bxd6 Qxd6 11. a5 Ba6
+12. Nbd2 Nbd7 13. e3 Ne4 14. Qc2 Rfc8 15. Rfd1 h6 16. Qb2 Rcb8
+17. Bf1 Qc7 18. Rdc1 bxa5 19. cxd5 Bxf1 20. dxe6 Bh3 21. exd7
+Nxd2 22. Nxd2 Qxd7 23. Rxa5 Rb5 24. Qc3 Qd5 25. e4 fxe4
+26. Rxb5 cxb5 27. Qe3 Rd8 28. Nxe4 Qxd4 29. Qxd4 Rxd4 30. f3
+Be6 31. Nc5 Bd5 32. Kf2 Rd2+ 33. Ke3 Rxh2 34. Rd1 Bf7 35. Rd8+
+Kh7 36. Rd7 Rc2 37. b4 Bc4 38. Rxa7 Rb2 39. Ne4 Rxb4 40. Nf6+
+Kg6 41. Ne8 Bf7 42. Nd6 Bd5 43. f4 h5 44. Kd2 Rd4+ 45. Ke3 Rd1
+46. Nxb5 Rg1 47. Kd4 Bc6 48. Ra6 Rxg3 49. Rxc6+ Kf5 50. Rc5+
+Kxf4 51. Rxh5 1/2-1/2

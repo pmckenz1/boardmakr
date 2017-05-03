@@ -1,0 +1,21 @@
+[Event "Beijing"]
+[Site "Beijing"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Rongguang Ye"]
+[Black "Utut Adianto"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.c4 c5 2.Nc3 b6 3.e3 Bb7 4.d4 cxd4 5.exd4 Nf6 6.d5 g6 7.Nf3
+Bg7 8.Be2 O-O 9.O-O d6 10.Be3 Nbd7 11.Qd2 Re8 12.h3 a6 13.Rac1
+Qc7 14.Rfd1 Rac8 15.b3 Nc5 16.Bh6 Bh8 17.Ng5 Rcd8 18.Qf4 a5
+19.Bg4 Bc8 20.Nb5 Qb7 21.Bf3 Bd7 22.Nd4 Qc8 23.Qh4 e5 24.dxe6
+fxe6 25.Ne2 Bc6 26.Bxc6 Qxc6 27.Nf4 Rd7 28.Qg3 Nfe4 29.Qf3 Qa8
+30.Nxe4 Qxe4 31.Qxe4 Nxe4 32.Re1 Nc5 33.Rcd1 Kf7 34.h4 Bf6
+35.g3 Rb8 36.Nh3 d5 37.cxd5 Rxd5 38.Nf4 Rxd1 39.Rxd1 Rd8
+40.Rxd8 1/2-1/2

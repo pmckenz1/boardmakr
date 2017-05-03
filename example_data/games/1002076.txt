@@ -1,0 +1,25 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.03.28"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "James Mason"]
+[Black "Samuel Lipschutz"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.d4 d5 2.Bf4 e6 3.e3 Nf6 4.Nf3 b6 5.Bd3 Bb7 6.Nbd2 Nbd7 7.O-O
+Be7 8.Ne5 O-O 9.Nxd7 Qxd7 10.Be5 c5 11.c3 Ne8 12.Qh5 g6 13.Qe2
+c4 14.Bc2 f6 15.Bg3 f5 16.Nf3 Bd8 17.Ne5 Qg7 18.f3 Bc7 19.e4
+f4 20.Bf2 Nf6 21.exd5 exd5 22.Rfe1 Rae8 23.Ba4 Re7 24.Qd2 a6
+25.Qxf4 b5 26.Bc2 Nd7 27.Qd2 Nxe5 28.dxe5 Rxe5 29.Bd4 Rxe1+
+30.Rxe1 Qf7 31.Qh6 Bf4 32.Qh4 Re8 33.Kf1 Rxe1+ 34.Kxe1 Bd6
+35.Qd8+ Qf8 36.Qxf8+ Kxf8 37.h4 Bg3+ 38.Bf2 Be5 39.h5 Kg7
+40.hxg6 hxg6 41.Bc5 Bc8 42.Kf2 Bf5 43.Bxf5 gxf5 44.g3 f4
+45.gxf4 Bxf4 46.Be3 Bd6 47.Bd4+ Kg6 48.Ke3 Kf5 49.Bb6 Bh2
+50.Ke2 Bf4 51.Be3 Be5 52.a3 Bd6 53.Bd2 Bc5 54.Be1 Bd6 55.Bd2
+Bc5 56.Be3 Bd6 57.Kd2 a5 58.a4 bxa4 59.Bb6 a3 60.bxa3 Bxa3
+61.Bxa5 Bc5 62.Bc7 1/2-1/2

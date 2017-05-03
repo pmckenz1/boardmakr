@@ -1,0 +1,20 @@
+[Event "Jakarta (Indonesia)"]
+[Site "It"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Denny Juswanto"]
+[Black "Utut Adianto"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c3 Nc6 5.Nf3 a6 6.Bf4 Bg4 7.Nbd2
+e6 8.Qb3 Na5 9.Qc2 Bf5 10.Bd3 Bxd3 11.Qxd3 Ne7 12.b4 Nac6
+13.b5 Na5 14.bxa6 bxa6 15.Qc2 Ng6 16.Bg3 Qd7 17.h4 h5 18.Ne5
+Nxe5 19.Bxe5 Rc8 20.O-O f6 21.Bg3 Kf7 22.Rab1 Qc6 23.Rfe1 g6
+24.Bf4 Be7 25.Re3 Rce8 26.Qb2 Bd8 27.Qa3 Re7 28.Rb8 Nb7 29.c4
+Rhe8 30.c5 e5 31.dxe5 fxe5 32.Bg5 Re6 33.Bxd8 Nxd8 34.Nf3 Qc7
+35.Ng5+ Kg8 36.Qb3 Rc6 37.Qxd5+ Kg7 38.Rd3 e4 39.Qd7+ 1-0

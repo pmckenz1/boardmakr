@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "James Hannah"]
+[Black "Thomas Wilson Barnes"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.Bc4 Nc6 6.Nxc6 bxc6
+7.Qf3 e6 8.O-O Ne7 9.Nc3 O-O 10.Bf4 d5 11.Rad1 Bd7 12.Bb3 h5
+13.Bd6 Re8 14.Rd3 Bc8 15.Bxe7 Qxe7 16.exd5 cxd5 17.Re1 Bxc3
+18.Rxc3 Bb7 19.Qe3 a5 20.Ba4 Red8 21.Qg3 Qb4 22.Rxe6 Ra6
+23.Re8+ Rxe8 24.Bxe8 Re6 25.Bxf7+ Kxf7 26.Rf3+ Kg7 27.h4 d4
+28.c3 Qc5 29.Rd3 dxc3 30.Rxc3 Qb4 31.Rc7+ Kg8 32.Rd7 Bc6
+33.Rd8+ Kg7 34.Qc7+ Qe7 35.Qc8 Re1+ 36.Kh2 Qxh4+ 37.Qh3 Qxh3+
+38.Kxh3 Re2 39.f3 Rxb2 40.Rd6 Bb5 41.Rd5 a4 42.a3 Bf1 43.Rg5
+Kf6 44.f4 Rb3+ 45.Kh2 Rxa3 0-1

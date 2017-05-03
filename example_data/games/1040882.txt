@@ -1,0 +1,21 @@
+[Event "ARG"]
+[Site "Mar del Plata"]
+[Date "1941.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ludwig Engels"]
+[Black "Erich Eliskases"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nc3 Bg4 6.Be2 Bxe2
+7.Ngxe2 e6 8.O-O Be7 9.Bf4 O-O 10.Qd3 Nbd7 11.Rad1 Qa5 12.a3
+Qh5 13.Ng3 Qg6 14.Nce4 Nd5 15.Bc1 N5f6 16.Bf4 Nd5 17.Bc1 N7f6
+18.f3 Bd8 19.c4 Ne7 20.Ne2 Nxe4 21.fxe4 f6 22.Nf4 Qf7 23.Qh3
+f5 24.d5 exd5 25.exd5 cxd5 26.cxd5 Bb6+ 27.Kh1 Rfd8 28.Ne6
+Rxd5 29.Ng5 Qg6 30.Rde1 f4 31.Rxe7 Rxg5 32.Bxf4 Rf5 33.Qb3+
+Kh8 34.Qf3 Raf8 35.g3 Qf6 36.Qe4 h6 37.Rd1 Qxb2 38.Rxb7 Qb5
+39.a4 Re8 40.axb5 Rxe4 41.Rdd7 Bd4 42.Kg2 h5 1/2-1/2

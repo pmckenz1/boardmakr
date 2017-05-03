@@ -1,0 +1,21 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "1-0"]
+[White "Neelotpal Das"]
+[Black "Anup Deshmukh"]
+[ECO "B70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7
+7. O-O O-O 8. Re1 Nc6 9. Bb3 Bd7 10. Bg5 h6 11. Bh4 Rc8
+12. Nxc6 bxc6 13. Qd2 Qc7 14. Bxf6 exf6 15. Rad1 Rfd8 16. Qxd6
+Qxd6 17. Rxd6 Be8 18. Rxd8 Rxd8 19. Rd1 Rb8 20. Ne2 Kf8 21. c3
+Ke7 22. Rd2 Rb7 23. f4 h5 24. Kf2 Bd7 25. h3 Bh6 26. Ba4 Rb6
+27. b4 a5 28. bxa5 Ra6 29. Bb3 Be8 30. Rd4 Rxa5 31. g4 h4
+32. Kf3 Ra7 33. Nc1 Bd7 34. Nd3 Bf8 35. Ne1 Ke8 36. Ng2 g5
+37. f5 Ba3 38. Ne3 Ke7 1-0

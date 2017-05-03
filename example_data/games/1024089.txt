@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1969.09.26"]
+[EventDate "1969.??.??"]
+[Round "14"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Semyon Abramovich Furman"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bh4 c5 4.f3 g5 5.fxe4 gxh4 6.e3 Qb6 7.Nf3
+Qxb2 8.Nbd2 Qc3 9.Bd3 Bh6 10.O-O Bxe3+ 11.Kh1 Bxd2 12.Nxd2 Nc6
+13.Rxf7 h5 14.e5 Qxd4 15.Nf3 Qe3 16.Bg6 Kd8 17.Qf1 Qh6 18.Be4
+Ke8 19.Nxh4 Qe6 20.Bf5 Qd5 21.Rd1 Qxa2 22.e6 d6 23.Ng6 Rg8
+24.Qb5 Rxg6 25.Bxg6 Kd8 26.Be4 Qxe6 27.Rf8+ Kc7 28.Bxc6 a6
+29.Qa4 Qh6 30.Re8 Qf6 31.Rb1 bxc6 32.Qa5+ Kd7 33.Qd8+ Ke6
+34.Rxe7+ Kd5 35.Rd1+ Kc4 36.Re4+ Qd4 37.Rexd4+ 1-0

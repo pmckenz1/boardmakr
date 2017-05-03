@@ -1,0 +1,19 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "0-1"]
+[White "Luben S Popov"]
+[Black "Dejan Stojanovski"]
+[ECO "A34"]
+[WhiteElo "2354"]
+[BlackElo "2279"]
+[PlyCount "60"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. d3 e5
+7. Nf3 Nc6 8. O-O Be7 9. Be3 O-O 10. Nd2 Bd7 11. Nc4 f6 12. a4
+Ne6 13. Nd5 Rb8 14. f4 exf4 15. gxf4 Ned4 16. Rf2 Be6 17. Nc3
+Nb4 18. Bd2 f5 19. Bf1 Bf6 20. Rg2 Ndc2 21. Rb1 Bxc4 22. dxc4
+Qd4+ 23. Kh1 Rbd8 24. Nd5 Qxc4 25. Nxf6+ Rxf6 26. e3 Qe4
+27. Qe2 Nd5 28. Rd1 Ndxe3 29. Bxe3 Rxd1 30. Qxd1 Nxe3 0-1

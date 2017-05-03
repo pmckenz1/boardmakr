@@ -1,0 +1,21 @@
+[Event "Chicago action"]
+[Site "Chicago action"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Mephisto (Computer)"]
+[ECO "D26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.dxc5 Qxd1+
+7.Kxd1 Bxc5 8.Ke2 a6 9.Nbd2 Nbd7 10.Bd3 O-O 11.Nc4 b5 12.Na5
+e5 13.Ng5 Bb6 14.Bd2 Nc5 15.Bc2 h6 16.Nf3 Bg4 17.h3 Bh5 18.g4
+Bg6 19.Bxg6 fxg6 20.Nc6 e4 21.Nfd4 Nd3 22.f4 Nd5 23.b3 g5
+24.f5 Rac8 25.a4 b4 26.a5 Bc5 27.h4 Rf6 28.hxg5 hxg5 29.Rh5
+Rcxc6 30.Nxc6 Rxc6 31.Rah1 Nc3+ 32.Kf1 Ne5 33.Rh8+ Kf7 34.Rg1
+Nd5 35.Ke2 Bxe3 36.Bxe3 Rc2+ 37.Bd2 e3 38.Rd1 Nc3+ 39.Kxe3
+Nxd1+ 40.Ke2 Nc3+ 41.Ke3 Nd5+ 0-1

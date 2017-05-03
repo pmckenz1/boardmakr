@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Kurt W Stein"]
+[Black "Andrew Karklins"]
+[ECO "B33"]
+[WhiteElo "2249"]
+[BlackElo "2356"]
+[PlyCount "72"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7
+12. Nc2 Nxd5 13. Qxd5 Rb8 14. Nb4 Bb7 15. Qd3 O-O 16. h4 a5
+17. Nd5 Bxd5 18. Qxd5 b4 19. g3 bxc3 20. bxc3 Qc7 21. Qd3 d5
+22. c4 dxe4 23. Qxe4 Rfd8 24. Be2 Rd4 25. Qe3 Be7 26. O-O Bc5
+27. Qf3 e4 28. Qf4 Qxf4 29. gxf4 Rb2 30. Bg4 e3 31. Rab1 Rxb1
+32. Rxb1 Rxf4 33. Rb8+ Bf8 34. Be2 Rxf2 35. Bd3 Rd2 36. Be4
+Rd1+ 0-1

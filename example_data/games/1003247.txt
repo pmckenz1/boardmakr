@@ -1,0 +1,19 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "R K Kieseritsky"]
+[Black "Arthur Sartori"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 b6
+7. cxd5 exd5 8. Bd3 Bb7 9. O-O O-O 10. Rc1 Ne4 11. Bf4 c5
+12. Bb1 f5 13. dxc5 Ndxc5 14. a3 Kh8 15. Ba2 Nf6 16. b4 Nce4
+17. Nd4 Qd7 18. Ncb5 Bd6 19. Bxd6 Nxd6 20. Rc7 Qd8 21. Ne6 Qe8
+22. Nxd6 Qxe6 23. Nxb7 Qe4 24. Qc2 Rab8 25. Qc6 h5 26. Qd6 Kg8
+27. Rd1 1-0

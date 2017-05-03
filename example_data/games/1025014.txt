@@ -1,0 +1,21 @@
+[Event "Minsk"]
+[Site "10"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Ronny Gunawan"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4
+O-O 8.Nf3 Nbc6 9.Bd3 f5 10.exf6 Rxf6 11.Bg5 Rf7 12.Qh4 h6
+13.Bxe7 Rxe7 14.O-O c4 15.Bg6 Bd7 16.Rfe1 Be8 17.Bxe8 Qxe8
+18.Ne5 Nxe5 19.Rxe5 Qd7 20.Rae1 Rae8 21.f4 Qa4 22.f5 Qxc2
+23.Qg3 Rf8 24.fxe6 Rf6 25.h3 Qb3 26.Rxd5 Rfxe6 27.Rd8+ Kh7
+28.Rf1 Re8 29.Rxe8 Rxe8 30.Rf7 Qb1+ 31.Kh2 Qg6 32.Rxb7 Qxg3+
+33.Kxg3 Re3+ 34.Kf4 Rxc3 35.Rxa7 Kg6 36.Ra6+ Kf7 37.a4 Rc1
+38.Ke5 1-0

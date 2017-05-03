@@ -1,0 +1,22 @@
+[Event "t"]
+[Site "t"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Zurab Azmaiparashvili"]
+[Black "Alexander Kochyev"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.c4 Nf6 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.e3 O-O 6.Nge2 e5 7.O-O
+c6 8.d4 Qe7 9.e4 exd4 10.Nxd4 Nbd7 11.h3 Re8 12.Bf4 a5 13.Re1
+Ne5 14.b3 Nfd7 15.Be3 Nc5 16.Bf1 a4 17.f4 axb3 18.fxe5 Qxe5
+19.Bf2 Ne6 20.Nxe6 Bxe6 21.Re3 b2 22.Rb1 Ra3 23.Nd5 Rea8
+24.Re2 Rxa2 25.Nc7 Bxc4 26.Rexb2 Bxf1 27.Qxf1 Rxb2 28.Nxa8 h5
+29.Rxb2 Qxb2 30.Nb6 Bd4 31.Nc4 Qc3 32.Kg2 Bxf2 33.Kxf2 Qd4+
+34.Kf3 d5 35.exd5 Qxd5+ 36.Kf2 Qd4+ 37.Ne3 h4 38.gxh4 Qxh4+
+39.Ke2 Qd4 40.Qf3 Kg7 41.Qg3 Qb2+ 42.Kd3 Qb5+ 43.Kd2 Qc5
+44.Qf4 Qa5+ 45.Kd3 Qa3+ 46.Kd2 Qb2+ 1/2-1/2

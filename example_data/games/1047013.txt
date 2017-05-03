@@ -1,0 +1,21 @@
+[Event "Rostov on Don URUSO"]
+[Site "05"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Natascha Bojkovic"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.e3
+c5 8.cxd5 exd5 9.Bb5+ Nc6 10.O-O Bxc3 11.bxc3 c4 12.e4 dxe4
+13.Nd2 O-O 14.Nxe4 Qf5 15.Qb1 Na5 16.Qb4 a6 17.Nd6 Qg6 18.Nxc8
+Rfxc8 19.Qxa5 b6 20.Qb4 axb5 21.Qxb5 Ra3 22.Qb4 Ra5 23.a4 Rg5
+24.g3 h5 25.Rae1 h4 26.Re3 Qc6 27.Qe7 Rh5 28.Ra1 hxg3 29.fxg3
+Rf5 30.Qe4 Qd7 31.Kg2 Ra5 32.Rf3 Rxa4 33.Rxa4 Qxa4 34.Qb7 Rf8
+35.Qxb6 Qc2+ 36.Kg1 Qc1+ 37.Kg2 Qc2+ 38.Kh3 Qh7+ 39.Kg2 Qc2+
+1/2-1/2

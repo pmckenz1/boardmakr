@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1936.05.27"]
+[EventDate "1936.05.14"]
+[Round "10"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Viacheslav Ragozin"]
+[ECO "E40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.Qa4+ Nc6 6.Nf3 O-O 7.Bd2
+Bd7 8.Qc2 Re8 9.Rd1 Bd6 10.Bc1 a5 11.a3 a4 12.c5 Bf8 13.Bb5
+Ne4 14.Nxe4 dxe4 15.Qxe4 Ra5 16.Bd3 f5 17.Qf4 Be7 18.h4 Bf6
+19.Bd2 Ra8 20.Bc3 Ne7 21.g4 Bc6 22.g5 Nd5 23.Qg3 Be7 24.Bd2
+Rf8 25.O-O Be8 26.Ne5 b6 27.c6 Bd6 28.Rc1 Kh8 29.f3 Ne7 30.Bb5
+f4 31.exf4 Nf5 32.Qg2 Nxd4 33.Bd3 Bxe5 34.fxe5 Nb3 35.Rc3 Bxc6
+36.Be3 Nd4 37.Bxd4 Qxd4+ 38.Qf2 Qd7 39.Qe3 Bd5 40.Qd4 c5
+41.Qg4 Qf7 42.f4 h5 43.gxh6 gxh6 44.Bg6 Rg8 45.Rg3 Qg7 46.Kh2
+Rad8 47.Rfg1 Bc4 48.f5 Rd2+ 49.Kh3 Be2 50.Qf4 Rd4 51.Qe3 Bd3
+52.f6 Qxg6 53.Rxg6 Bf5+ 54.Kh2 Rxh4+ 55.Kg3 Rh3+ 56.Kf2 Rxg6
+57.Qxh3 1-0

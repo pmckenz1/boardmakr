@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.06"]
+[EventDate "2000.04.05"]
+[Round "2"]
+[Result "1-0"]
+[White "Bragi Thorfinnsson"]
+[Black "Kristjan Edvardsson"]
+[ECO "E41"]
+[WhiteElo "2260"]
+[BlackElo "2170"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 cxd4
+7. exd4 d5 8. O-O O-O 9. Bg5 dxc4 10. Bxc4 Be7 11. Re1 b6
+12. Rc1 Bb7 13. a3 Rc8 14. Ba2 Nd5 15. Bd2 Nxc3 16. Bxc3 Bf6
+17. d5 exd5 18. Bxd5 h6 19. h3 Bxc3 20. Rxc3 Na5 21. Rd3 Bxd5
+22. Rxd5 Qf6 23. Ne5 Rfe8 24. Re3 Red8 25. Rf3 Qg5 26. g3 Rc1
+27. Rxd8+ Kh7 28. Nxf7 Rxd1+ 29. Rxd1 Qe7 30. Nd6 Qe6 31. Kg2
+Qe2 32. Rdd3 Qxb2 33. Rf7 Qe5 34. Nf5 Kg6 35. Rdd7 Qe4+
+36. Kh2 Qe2 37. Rxg7+ Kxf5 38. Rdf7+ Ke4 39. Re7+ Kd3 40. Rxe2
+Kxe2 41. Kg2 1-0

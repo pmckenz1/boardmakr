@@ -1,0 +1,19 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "Lajos Merenyi"]
+[Black "Karoly Sterk"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6
+7. f4 b5 8. a3 Bb7 9. Bf3 Qc7 10. O-O Nbd7 11. Kh1 Rc8 12. Qe1
+Qb8 13. e5 dxe5 14. fxe5 Bxf3 15. Nxf3 Ng4 16. Bf4 Rc4 17. Qg3
+h5 18. Rad1 b4 19. axb4 Qxb4 20. Ng5 Nh6 21. Nxe6 fxe6
+22. Qg6+ Kd8 23. Qxe6 Rc7 24. Nd5 Qb5 25. Bg5+ Kc8 26. Qe8+
+Kb7 27. Nxc7 Bd6 28. Nxb5 Rxe8 29. Nxd6+ 1-0

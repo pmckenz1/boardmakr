@@ -1,0 +1,21 @@
+[Event "Rio de Janeiro Interzonal"]
+[Site "Rio de Janeiro BRA"]
+[Date "1979.09.27"]
+[EventDate "1979.09.23"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Guillermo Garcia Gonzales"]
+[Black "Yuri Balashov"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6
+8.Rc1 Bb7 9.Bxf6 Bxf6 10.cxd5 exd5 11.Be2 Qe7 12.O-O Rd8
+13.Qd2 Nd7 14.Rfd1 c5 15.Qe1 Nf8 16.Qf1 Ne6 17.Ba6 Bc6 18.b3
+cxd4 19.exd4 Qd6 20.Kh1 Nc7 21.Bd3 Bd7 22.h3 Rac8 23.Rc2 Ne6
+24.Ba6 Rb8 25.a4 Re8 26.g3 Nc7 27.Bd3 Re7 28.Kh2 Rd8 29.Rdd2
+Ne6 30.Bb5 Ng5 31.Nxg5 Bxg5 32.f4 Bf6 33.Bxd7 Qxd7 34.Qd3 h5
+35.Kg2 g6 36.Re2 Rxe2+ 37.Rxe2 Rc8 38.f5 Kg7 39.fxg6 fxg6
+40.Qf3 Rd8 41.Qf4 Qd6 42.Qxd6 Rxd6 43.Nb5 Rd7 44.Rc2 1/2-1/2

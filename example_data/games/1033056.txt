@@ -1,0 +1,23 @@
+[Event "10s, Hastings"]
+[Site "Hastings ENG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Harold James Plaskett"]
+[Black "Fernando Braga"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. a4 b4 9. d4 d6 10. dxe5 Nxe5 11. Nbd2 Bb7
+12. Nxe5 dxe5 13. Qf3 Bc5 14. Nf1 Qc8 15. Ng3 Qg4 16. Qd3 Rad8
+17. Qf3 Qg6 18. h3 Kh8 19. Nf5 Nxe4 20. Rxe4 Rd4 21. Nxd4 Bxe4
+22. Qg4 Bxd4 23. Qxg6 Bxg6 24. Bd2 Bxb2 25. Bxb4 Bxa1 26. Bxf8
+Bc3 27. Kf1 Kg8 28. Be7 Bf5 29. Ke2 Ba5 30. g4 Be4 31. h4 c6
+32. Bd6 Bc3 33. f3 Bd5 34. Bxd5 cxd5 35. Kd3 Ba1 36. c3 f6
+37. f4 exf4 38. Bxf4 Kf7 39. Kc2 Ke6 40. Be3 Ke5 41. g5 fxg5
+42. hxg5 Kf5 43. Kb3 Ke4 44. Bd4 h5 45. Bxg7 h4 46. g6 Kf5
+47. Be5 Kxg6 48. a5 Kf5 49. Bc7 h3 50. Kc2 Ke4 0-1

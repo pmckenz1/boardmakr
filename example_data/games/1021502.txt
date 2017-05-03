@@ -1,0 +1,21 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Viktor Gavrikov"]
+[Black "Zurab Azmaiparashvili"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 dxc4 7.Qc2
+a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bf4 Nd5 11.Nc3 Nxf4 12.gxf4 Nd7
+13.Rfd1 Qc8 14.Ne4 c5 15.Nxc5 Nxc5 16.dxc5 Qxc5 17.Qxc5 Bxc5
+18.Ne5 Bxg2 19.Kxg2 Rfc8 20.Rac1 Rc7 21.e3 Rac8 22.Rd7 a5
+23.b3 f6 24.Rxc7 Rxc7 25.Nf3 Kf7 26.Nd4 b4 27.Nb5 Rc6 28.Kf3
+Ke7 29.f5 exf5 30.Nd4 Rc7 31.Nxf5+ Kf7 32.Ke4 g6 33.Nd4 Re7+
+34.Kd3 Re5 35.f4 Rh5 36.Nf3 Ke7 37.Rc2 Kd7 38.Nd2 Rd5+ 39.Ke4
+Rh5 40.Nc4 Ke6 41.Kf3 Be7 1/2-1/2

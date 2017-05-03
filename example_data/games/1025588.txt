@@ -1,0 +1,21 @@
+[Event "Vladivostok"]
+[Site "08"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Dmitry D Kaiumov"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 c5 4.g3 Nc6 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Be7 8.b3 Nxc3 9.dxc3 Qxd1 10.Rxd1 Bd7 11.Ng5 Rd8 12.Be3 f6
+13.Bxc6 bxc6 14.Ne4 f5 15.Nxc5 Bxc5 16.Bxc5 a6 17.Rd6 Rf8
+18.Rad1 Rf7 19.f4 Rb8 20.R1d4 Rb5 21.b4 Rb8 22.a4 h6 23.h4 h5
+24.Kf2 Ra8 25.a5 Rc8 26.c4 Rc7 27.Rd3 Rc8 28.Re3 Ra8 29.Re5
+Rf6 30.Ke1 Rf7 31.b5 cxb5 32.cxb5 axb5 33.Bb4 Bc8 34.Rxb5 Rc7
+35.Rbb6 Rc4 36.Kd2 Kf7 37.Rd8 Ra7 38.Bc3 Rac7 39.Be5 R7c5
+40.a6 Rc2+ 41.Ke3 Ra2 42.Rb7+ Bxb7 43.axb7 1-0

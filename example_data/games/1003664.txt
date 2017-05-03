@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.02"]
+[EventDate "1907.??.??"]
+[Round "10"]
+[Result "1-0"]
+[White "Milan Vidmar"]
+[Black "Jacques Mieses"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Nf3 Nc6 5. e3 Nf6 6. a3 a6
+7. dxc5 dxc4 8. Qxd8+ Nxd8 9. Bxc4 Bxc5 10. b4 Ba7 11. O-O Bd7
+12. Bb2 Rc8 13. Bd3 Nc6 14. Rfd1 Bb8 15. Na4 Ne5 16. Nb6 Nxf3+
+17. gxf3 Rd8 18. Nxd7 Nxd7 19. Be4 b6 20. Bb7 a5 21. Bc3 Be5
+22. Rac1 Ke7 23. bxa5 Bxc3 24. Rxc3 Nc5 25. Rxd8 Kxd8 26. axb6
+Nxb7 27. Rc7 Nd6 28. a4 Ne8 29. Rxf7 Kc8 30. a5 g6 31. Re7 Nd6
+32. a6 Kb8 33. Rxe6 Rd8 34. Re7 Nc4 35. Rxh7 Ka8 36. Ra7+ Kb8
+37. Rg7 Ne5 38. f4 Nd7 39. Rxg6 Nc5 40. f5 Nxa6 41. f6 Rf8
+42. e4 Nc5 43. e5 Kc8 44. Rg7 Nd7 45. b7+ 1-0

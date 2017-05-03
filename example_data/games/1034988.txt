@@ -1,0 +1,22 @@
+[Event "Ch Argentina"]
+[Site "Argentina"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ariel Sorin"]
+[Black "Luis Marcos Bronstein"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3
+7. bxc3 Qxd5 8. e3 Bg7 9. Nf3 Nc6 10. Be2 cxd4 11. cxd4 b6
+12. Nd2 Bb7 13. Bf3 Qd7 14. Rc1 Na5 15. Bxb7 Qxb7 16. Qa4+ Qd7
+17. Qa3 O-O 18. Bxe7 Rfe8 19. Bb4 Qb5 20. Bxa5 Bf8 21. Qb3
+Qxa5 22. Ke2 Rac8 23. Rc4 b5 24. Rc2 Ba3 25. Rb1 Rxc2 26. Qxc2
+Qa6 27. Qd3 Rb8 28. Ne4 Be7 29. Nc3 Qa5 30. Rb2 Rc8 31. Nd5
+Bd6 32. Rc2 Rd8 33. Qe4 b4 34. g3 Kg7 35. Qh4 Qb5+ 36. Ke1
+Qxd5 37. Qxd8 b3 38. Rc5 bxa2 39. Ke2 a1=Q 40. Rxd5 Qa2+
+41. Kf1 Qxd5 42. Qd7 Qc4+ 43. Kg2 Qd5+ 44. f3 Qa2+ 0-1

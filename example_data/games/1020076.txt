@@ -1,0 +1,18 @@
+[Event "Moscow (Russia)"]
+[Site "Moscow URS"]
+[Date "1981.04.16"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Anatoly Karpov"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2
+a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bg5 Nbd7 11.Bxf6 Nxf6 12.Nbd2 Rc8
+13.Nb3 Be4 14.Qc3 Nd5 15.Qc1 c5 16.Nxc5 Qb6 17.Qd2 Bxc5
+18.dxc5 Rxc5 19.Rfc1 Rfc8 20.Rxc5 Qxc5 21.Ne1 Bxg2 22.Kxg2 Qe7
+1/2-1/2

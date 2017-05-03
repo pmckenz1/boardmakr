@@ -1,0 +1,19 @@
+[Event "ARG-ch"]
+[Site "Quilmes ARG"]
+[Date "1980.06.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Hector Decio Rossetto"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Be3 Nd7
+7. Qd2 a6 8. a4 O-O 9. g4 c5 10. O-O-O Qa5 11. dxc5 dxc5
+12. e5 Qb4 13. Qd6 Nc6 14. h4 Re8 15. h5 Bf8 16. Qd2 Nb6
+17. hxg6 fxg6 18. Qh2 Re7 19. Ng5 h6 20. Nce4 Nxa4 21. Nf6+
+Kh8 22. Qxh6+ Bxh6 23. Rxh6+ Kg7 24. Rh7+ Kf8 25. Rh8+ Kg7
+26. Rg8+ Kh6 27. Nf7+ 1-0

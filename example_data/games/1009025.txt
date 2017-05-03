@@ -1,0 +1,27 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Anh Dung Nguyen"]
+[Black "Konstantin Chernyshov"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 Qa5
+12. Kb1 Rd8 13. Bc4 Be7 14. Bb3 b5 15. a3 Qb6 16. Rhe1 a5
+17. Qe3 Qxe3 18. Bxe3 b4 19. axb4 axb4 20. Na2 d5 21. exd5
+Nxd5 22. Bd2 Rb8 23. Bxd5 Bxd5 24. Nxb4 Rxb4 25. Bxb4 Bxb4
+26. c3 Be7 27. Kc2 f5 28. b3 Kf7 29. c4 Bc6 30. Ra1 Rc8
+31. Ra6 g5 32. h3 h5 33. Re2 Bb4 34. Ra7+ Kf6 35. Rh7 Kg6
+36. Ra7 Kf6 37. Rh7 e5 38. Rh6+ Kg7 39. Rxc6 Rxc6 40. Rxe5 Kf6
+41. Rb5 Be1 42. g4 fxg4 43. fxg4 h4 44. Rf5+ Kg6 45. Kd3 Rb6
+46. Kc2 Rd6 47. Re5 Bb4 48. Rb5 Rd2+ 49. Kc1 Bc3 50. c5 Rh2
+51. c6 Bd2+ 52. Kd1 Bf4 53. Rc5 Bc7 54. Rc3 Kf6 55. Ke1 Ke6
+56. Kf1 Rb2 57. Rc5 Kf6 58. Rc3 Ke5 59. Kg1 Kd4 60. Rc4+ Kd3
+61. Kf1 Rxb3 62. Rc5 Ke3 63. Kg2 Rb2+ 64. Kg1 Ra2 65. Kf1 Ra5
+66. Rc2 Kd4 67. Rd2+ Kc5 68. Rc2+ Kb6 69. Kg2 Ra3 0-1

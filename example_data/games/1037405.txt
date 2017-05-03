@@ -1,0 +1,25 @@
+[Event "05, Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1970.01.18"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Goran Antunac"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nh3 e5 7.O-O
+Nge7 8.f4 exf4 9.Bxf4 O-O 10.Qd2 Nd4 11.Rae1 Rb8 12.e5 dxe5
+13.Bxe5 Bxe5 14.Rxe5 Qd6 15.Ree1 f6 16.Ne4 Qb6 17.c3 Bxh3
+18.Bxh3 Ndf5 19.Qf2 Rf7 20.g4 Nd6 21.Nxf6+ Kg7 22.Rxe7 Rxe7
+23.Nd5 Rf7 24.Nxb6 Rxf2 25.Kxf2 axb6 26.Re1 Rf8+ 27.Kg3 g5
+28.Bg2 Rf7 29.Re5 Kf6 30.Rd5 Rd7 31.d4 cxd4 32.Rxd4 Ke6
+33.Bd5+ Ke5 34.Bf3 h6 35.a4 Rc7 36.Rb4 Rc4 37.Rxb6 Rxa4
+38.Bxb7 h5 39.gxh5 Nf5+ 40.Kg2 Rg4+ 41.Kh1 Rh4 42.Rb5+ Kf6
+43.h6 Nd6 44.Rb6 Ke5 45.Ba6 Kd5 46.Rb4 Rxh6 47.Rg4 Rg6 48.Bd3
+Rg8 49.h4 Rh8 50.Rxg5+ Ke6 51.Rg4 Nf7 52.Be2 Ne5 53.Rd4 Rb8
+54.Rd2 Kf5 55.Kg2 Ke4 56.Kf2 Rf8+ 57.Ke1 Ra8 58.Kd1 Ra5 59.Kc2
+1-0

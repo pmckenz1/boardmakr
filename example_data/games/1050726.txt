@@ -1,0 +1,20 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "19"]
+[Result "1-0"]
+[White "Aivars Gipslis"]
+[Black "Valentin Kirilov"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 c5 2.Nf3 e6 3.d3 d5 4.Nbd2 Nc6 5.g3 Bd6 6.Bg2 Nge7 7.O-O
+O-O 8.Re1 f5 9.exd5 exd5 10.Ng5 h6 11.Ne6 Bxe6 12.Rxe6 Qd7
+13.Re1 f4 14.Nf3 Rae8 15.Bd2 Ng6 16.Rxe8 Rxe8 17.Qf1 Nce5
+18.Nxe5 Bxe5 19.c3 Qf7 20.Re1 Rf8 21.Bh3 Qf6 22.Qe2 Kh8 23.Bg4
+Rf7 24.Kg2 Bd6 25.Bh5 Re7 26.Qd1 Rxe1 27.Qxe1 Ne5 28.d4 f3
+29.Kg1 cxd4 30.cxd4 Nc4 31.Qe8+ Bf8 32.Bb4 Nd6 33.Qe5 a5
+34.Bc5 b6 35.Qxf6 gxf6 36.Bxb6 Nc4 37.Bd8 1-0

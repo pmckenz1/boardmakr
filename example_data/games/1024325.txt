@@ -1,0 +1,24 @@
+[Event "URS"]
+[Site "Riga LAT"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Anatoly Shmit"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.f4 e6 5.Nf3 c5 6.g3 Nc6 7.Bg2
+Be7 8.O-O a6 9.a4 Qa5 10.d3 b5 11.f5 b4 12.fxe6 fxe6 13.Ne2
+Ndxe5 14.Nxe5 Nxe5 15.Nf4 Bf6 16.Qh5+ g6 17.Qe2 Bg7 18.Nxd5
+exd5 19.Bh6 Bg4 20.Qe3 Qc7 21.Bxg7 Qxg7 22.Rae1 O-O-O 23.Qxc5+
+Qc7 24.Qxc7+ Kxc7 25.Rxe5 Rhe8 26.Rf7+ Kb6 27.Rxe8 Rxe8 28.Rf4
+h5 29.Rxb4+ Kc5 30.Rf4 Re1+ 31.Rf1 Re2 32.h3 Bd7 33.Rf2 Re1+
+34.Kh2 Bxa4 35.c3 Re6 36.b4 Kd6 37.c4 dxc4 38.dxc4 Bc6 39.Ra2
+Bxg2 40.Rxa6+ Bc6 41.b5 Re2+ 42.Kg1 Rg2+ 43.Kh1 Rxg3 44.Rxc6+
+Kd7 45.Kh2 h4 46.c5 Rg5 47.Kh1 Rg3 48.Rd6+ Kc8 49.b6 Rxh3+
+50.Kg2 Rb3 51.Rxg6 Kb7 52.Rg7+ Kb8 53.Rc7 Rc3 54.Kh2 h3 55.c6
+Rb3 56.Rb7+ Kc8 1/2-1/2

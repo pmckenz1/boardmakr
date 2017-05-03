@@ -1,0 +1,22 @@
+[Event "Belgrade (Yugoslavia)"]
+[Site "Belgrade YUG"]
+[Date "1988.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Sava Nikolic"]
+[Black "Gerardo F Barbero"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.O-O Nd7 5.d3 e5 6.Nbd2 Bd6 7.e4
+Ne7 8.Re1 O-O 9.c3 f5 10.h3 fxe4 11.dxe4 Bh5 12.g4 Bg6 13.exd5
+Nxd5 14.Nc4 Bc5 15.Ncxe5 Nxe5 16.Rxe5 Qb6 17.Nd4 Nf4 18.Bf1
+Kh8 19.b4 Bd6 20.Re1 Rad8 21.a3 Bb8 22.Bxf4 Rxf4 23.Bg2 Qc7
+24.Ne6 Rxd1 25.Raxd1 Qc8 26.Rd8+ Qxd8 27.Nxd8 Rc4 28.Re3 Bf4
+29.Rf3 h5 30.Bf1 hxg4 31.hxg4 Re4 32.Bd3 Re1+ 33.Kg2 Bxd3
+34.Rxf4 Rc1 35.Nxb7 Rxc3 36.Nc5 Rxa3 37.Rd4 Bb1 38.f4 Ba2
+39.Rd3 Bd5+ 40.Kg3 Ra1 41.f5 g5 42.Rd4 Kg7 43.Ne4 Ra4 44.Nxg5
+a5 45.Ne6+ Bxe6 46.fxe6 Rxb4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Luis Bernardo Hoyos Millan"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.O-O
+e5 8.Be3 exd4 9.Nxd4 Re8 10.Qc2 Ne5 11.Rad1 a6 12.c5 Neg4
+13.Bg5 Re5 14.Bxf6 Nxf6 15.cxd6 cxd6 16.Nf3 Rc5 17.e5 Ne8
+18.Qd2 Bf5 19.exd6 Qd7 20.Qe3 Rac8 21.Nd5 Nxd6 22.Ne7+ Kh8
+23.Nxc8 Rxc8 24.Ne5 Qe6 25.Rxd6 Qxe5 26.Rfd1 Qxe3 27.fxe3 Bxb2
+28.Rd8+ Rxd8 29.Rxd8+ Kg7 30.Bc4 b5 31.Bd5 b4 32.Ra8 Bd3
+33.Ra7 Bc3 34.Rxf7+ Kh6 35.Kf2 a5 36.Ra7 Bc2 37.Bb3 1-0

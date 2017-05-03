@@ -1,0 +1,17 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.26"]
+[EventDate "2000.01.21"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Manuel Bosboom"]
+[Black "Yge Visser"]
+[ECO "E67"]
+[WhiteElo "2461"]
+[BlackElo "2406"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7
+7. Nc3 e5 8. e4 Re8 9. Rb1 exd4 10. Nxd4 a6 11. b3 Nc5 12. Re1
+Ng4 13. Bb2 Ne5 14. Re3 c6 15. h3 a5 16. f4 Ned7 17. Nc2 Nb6
+1/2-1/2

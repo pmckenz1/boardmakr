@@ -1,0 +1,18 @@
+[Event "Match Cornwall A-Gloucestershire A"]
+[Site "Exeter ENG"]
+[Date "1985.11.30"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "W A Brown"]
+[Black "Robin F Kneebone"]
+[ECO "B89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3
+Be7 8.Qe2 O-O 9.O-O-O a6 10.Rhg1 Qc7 11.g4 Nxd4 12.Bxd4 b5
+13.Bd3 b4 14.e5 dxe5 15.Bxe5 Qa5 16.g5 Nd7 17.Bxh7+ Kxh7
+18.Qh5+ Kg8 19.Bxg7 Kxg7 20.Qh6+ Kg8 21.Nd5 exd5 22.g6 Nf6
+23.g7 Nh7 24.gxf8=Q# 1-0

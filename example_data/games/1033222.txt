@@ -1,0 +1,19 @@
+[Event "4, Leon ESP (10s)"]
+[Site "Leon ESP"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Leonid Basin"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bf4 O-O 5. h3 d6 6. Nbd2 Nbd7
+7. e4 e5 8. dxe5 dxe5 9. Be3 Qe7 10. Qc2 b6 11. O-O-O Bb7
+12. Ne1 a5 13. g4 Nc5 14. f3 Nfd7 15. h4 Rfd8 16. h5 Nf8
+17. Nd3 Nxd3+ 18. Bxd3 Rd6 19. hxg6 fxg6 20. Nc4 Rd7 21. Bxb6
+cxb6 22. Nxb6 Rc7 23. Nxa8 Bxa8 24. Qb3+ Kh8 25. Kb1 Bc6
+26. Bb5 Rb7 27. a4 Qc5 28. Qc4 Rxb5 0-1

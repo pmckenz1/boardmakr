@@ -1,0 +1,21 @@
+[Event "Blindfold simul, 8b"]
+[Site "Estoril POR"]
+[Date "1940.01.24"]
+[EventDate "1940.01.24"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Francisco Lupi"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. e3
+Nbd7 7. Ne2 a6 8. a3 Bxc3+ 9. Nxc3 Qd6 10. Be2 e5 11. O-O O-O
+12. Rd1 Qe7 13. Bf3 Rb8 14. b4 Re8 15. h3 e4 16. Be2 Nf8
+17. b5 axb5 18. Nxb5 c6 19. Nc3 Bf5 20. d5 Red8 21. dxc6 bxc6
+22. a4 Ne6 23. Ba3 Qa7 24. Rxd8+ Rxd8 25. Rd1 Rxd1+ 26. Qxd1
+Qd7 27. a5 Qxd1+ 28. Bxd1 Nc7 29. Bd6 Nfe8 30. Be5 f6 31. Bd4
+Na6 32. Bb6 Kf7 33. Ba4 Bd7 34. Nxe4 Ke6 35. Bb3+ Ke5 36. f3
+f5 37. Bd4# 1-0

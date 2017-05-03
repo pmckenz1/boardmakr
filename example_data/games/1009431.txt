@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Daniel John King"]
+[Black "Vladimir Georgiev"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Rb8 6. Nf3 Nf6
+7. O-O O-O 8. Bf4 d6 9. Qd2 b5 10. Bh6 b4 11. Nd1 e5 12. Bxg7
+Kxg7 13. Ne3 Nh5 14. c3 bxc3 15. bxc3 Ba6 16. Ng4 Kh8 17. Qh6
+f6 18. Nh4 Qe8 19. f4 Ne7 20. fxe5 dxe5 21. Rf3 Rd8 22. Raf1
+Bxd3 23. Re1 Bc4 24. Qe3 Qc6 25. a3 Be6 26. Nf2 Ng7 27. g4 g5
+28. Nf5 Ngxf5 29. gxf5 Bf7 30. Nd3 c4 31. Nf2 Qb6 32. Qxb6
+axb6 33. Ng4 Bh5 34. Rg3 Rd3 35. Rxd3 cxd3 36. h3 Rc8 37. Rd1
+Rxc3 38. Bf1 Rxa3 39. Bxd3 Nc6 40. Rc1 Bxg4 41. hxg4 Nd4
+42. Rc8+ Kg7 43. Bc4 Rg3+ 44. Kf2 Rxg4 45. Rc7+ Kh6 46. Bd5
+Rf4+ 47. Kg2 g4 48. Rf7 Ne2 0-1

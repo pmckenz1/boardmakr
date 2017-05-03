@@ -1,0 +1,24 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.08"]
+[EventDate "1925.04.16"]
+[Round "17"]
+[Result "1/2-1/2"]
+[White "George Alan Thomas"]
+[Black "Ilya Leontievich Rabinovich"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6
+7.O-O d5 8.e5 Nd7 9.Bf4 g6 10.Nd2 Bg7 11.Nf3 O-O 12.Qd2 Qb6
+13.b3 f6 14.Rae1 fxe5 15.Nxe5 Qd4 16.Nxd7 Qxf4 17.Qxf4 Rxf4
+18.Ne5 c5 19.g3 Rf8 20.f4 a5 21.a4 Ra7 22.Re2 Rc7 23.Bb5 Rd8
+24.Rd1 Bb7 25.Kf2 g5 26.fxg5 Rf8+ 27.Kg1 Rf5 28.Rde1 Rxg5
+29.Nf3 Rf5 30.Ne5 c4 31.bxc4 dxc4 32.h3 Bd5 33.g4 Rf4 34.Rf1
+Bxe5 35.Rxe5 Rcf7 36.Rxf4 Rxf4 37.Re3 Kf7 38.c3 Kf6 39.Bd7 Be4
+40.Bb5 Bd3 41.Kg2 Ke7 42.Bc6 Kd6 43.Bb5 e5 44.g5 e4 45.Kg3 Ke5
+46.Kg2 Rf5 47.Rg3 Kf4 48.Kf2 Be2 49.g6 hxg6 50.Rxg6 Bh5 51.Re6
+Bf7 52.Re7 Rf6 53.Rc7 Bh5 54.Rxc4 Bf3 55.Rc7 e3 56.Ke1 Be4
+1/2-1/2

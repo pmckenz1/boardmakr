@@ -1,0 +1,22 @@
+[Event "3rd General Government"]
+[Site "Warsaw POL"]
+[Date "1942.10.15"]
+[EventDate "1942.10.12"]
+[Round "4"]
+[Result "0-1"]
+[White "Hans Roepstorff"]
+[Black "Alexander Alekhine"]
+[ECO "C90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5
+7. Bb3 d6 8. c3 O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1
+d5 13. exd5 Qxd5 14. d4 cxd4 15. cxd4 exd4 16. Bg5 Be6 17. Bb3
+Qd7 18. Bxe6 fxe6 19. Qb3 Nd8 20. Rad1 Bc5 21. Re5 Rc8 22. Be3
+Nf7 23. Rxe6 Nd5 24. Nxd4 Bxd4 25. Rxd4 Qxe6 26. Rxd5 Rfe8
+27. h4 Rc4 28. Qd1 Rxh4 29. Ng3 Qg4 30. Qd3 Qc4 31. Qf5 Qxa2
+32. Rd7 Qe6 33. Ra7 Qxf5 34. Nxf5 Ra4 35. Bd4 g6 36. Ne7+ Rxe7
+37. Ra8+ Nd8 38. Rxd8+ Kf7 39. Bc5 Re1+ 40. Kh2 Rc4 41. Rf8+
+Kg7 42. Rc8 Re5 43. Bf8+ Kf7 0-1

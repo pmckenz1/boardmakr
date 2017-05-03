@@ -1,0 +1,21 @@
+[Event "Ch Russia (w)"]
+[Site "Elista (Russia)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Ludmila G Zaitseva"]
+[Black "Alisa Galliamova"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 g6 4.Bd3 Bg7 5.h3 O-O 6.Nd2 Nc6 7.c3
+Nd7 8.Bg5 Qe8 9.Ngf3 f6 10.Bh4 e5 11.Be2 Ne7 12.g4 c5 13.Qb3
+c4 14.Qa3 e4 15.Nh2 b5 16.b3 Bb7 17.Qb4 Bc6 18.a4 a5 19.Qa3
+bxa4 20.bxc4 Rf7 21.c5 f5 22.Bd1 f4 23.Bxa4 Bxa4 24.Qxa4 Bh6
+25.Bxe7 fxe3 26.fxe3 Qxe7 27.Nhf1 Qh4+ 28.Kd1 Qf2 29.Qc6 Re8
+30.Qxd5 Bxe3 31.Nxe3 Qxe3 32.Rf1 Re7 33.Rb1 Qd3 34.Rb2 Kg7
+35.Rxf7+ Rxf7 36.Kc1 e3 37.Nf3 e2 38.Rc2 Rxf3 39.Qxd7+ Rf7
+40.Qe6 Qd1+ 0-1

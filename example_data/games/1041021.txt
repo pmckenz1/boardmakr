@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Carlos Jauregui"]
+[Black "Erich Eliskases"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 e6 2.g3 c5 3.Nf3 d5 4.c4 dxc4 5.Qa4+ Nc6 6.Bg2 cxd4
+7.Nxd4 Qxd4 8.Bxc6+ Bd7 9.Be3 Bxc6 10.Qxc6+ bxc6 11.Bxd4 Bb4+
+12.Kf1 f6 13.Kg2 e5 14.Be3 Ne7 15.Rc1 Kd7 16.Rxc4 Rhb8 17.Nc3
+Bxc3 18.bxc3 Rb2 19.Rd1+ Ke8 20.Bc5 Rxe2 21.Bxe7 Kxe7 22.Rxc6
+Rb8 23.Rc7+ Ke6 24.Rxa7 Rbb2 25.Rf1 e4 26.Rxg7 e3 27.Rxh7
+Rxf2+ 28.Rxf2 Rxf2+ 29.Kg1 Rxa2 30.Rh8 Kf7 31.Kf1 Rf2+ 32.Ke1
+Rc2 33.c4 Rxc4 34.Ke2 Kg7 35.Rd8 Rc2+ 36.Kxe3 Rxh2 1/2-1/2

@@ -1,0 +1,35 @@
+[Event "Manchester"]
+[Site "Manchester ENG"]
+[Date "1981.09.10"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Michael John Basman"]
+[Black "Raymond Keene"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. g4 { Notes by Raymond Keene. I have never been quite sure
+whether this is the worst opening move or whether that dubious
+title belongs to 1 f3. At least after 1 f3 d5 White can play 2
+f4, or after 1 f3 e5 2 e4 Bc5 3 f4!?, but 1 g4 gives no such
+opportunity. One of the best ways to manhandle this miserable
+move is to play a sharp gambit against it.} 1...d5 2. h3 e5
+3. Bg2 c6 4. d4 e4 5. c4 Bd6 6. Nc3 Ne7 {! A powerful gambit,
+which casts doubt on White's whole opening.} 7. g5 {In his
+book The Killer Grob, Basman recommends instead accepting the
+gambit with 7 Qb3 O-O 8 Bg5 f6 9 cxd5 cxd5 10 Nxd5 Be6 11
+Nxe7+ Qxe7 12 d5, but then 12...Bf7 13 Be3 Na6 or 13...Nd7
+leaves White virtually lost, since he will automatically lose
+the pawn on d5 and he cannot meanwhile develop his kingside.}
+7...Be6 8. h4 Nf5 9. Bh3 {Not 9 e3 Nxh4 10 Rxh4 Qxg5 winning.}
+9...O-O 10. cxd5 cxd5 11. Nxd5 {Or 11 Bxf5 Bxf5 12 Nxd5 Qa5+
+13 Nc3 Nc6 with a decisive lead in development.} 11...Ng3
+{Basman completely overlooked this. If 12 fxg3 Bxg3+ and
+13...Bxd5, or 12 Bxe6 Nxh1 13 Bh3 Bh2! stabbing White's
+knights in the back. The rest is a slaughter.} 12. Nf6+ gxf6
+13. fxg3 Bxg3+ 14. Kf1 Nc6 15. Be3 Nb4 16. Kg2 Nd5 17. Kxg3
+Nxe3 18. Qd2 Qd6+ 19. Kf2 Qf4+ 20. Nf3 exf3 {21 Qxe3 Qxh4+ is
+hopeless for White.} 0-1

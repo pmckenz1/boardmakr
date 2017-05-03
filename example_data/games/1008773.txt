@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Jonathan Rowson"]
+[Black "Joseph G Gallagher"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nd4 4. Nxd4 cxd4 5. Ne2 d5 6. e5
+Qb6 7. c3 dxc3 8. dxc3 e6 9. Nd4 Bd7 10. Bd3 Ne7 11. Qg4 Nc6
+12. Nf3 O-O-O 13. O-O f6 14. Qg3 Qc7 15. exf6 gxf6 16. Qxc7+
+Kxc7 17. Bf4+ e5 18. Bg3 Bd6 19. Nh4 Ne7 20. Rfe1 1/2-1/2

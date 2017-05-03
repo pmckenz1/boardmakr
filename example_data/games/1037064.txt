@@ -1,0 +1,25 @@
+[Event "Preston (England)"]
+[Site "Preston ENG"]
+[Date "1989.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Julian Michael Hodgson"]
+[Black "Nigel Rodney Davies"]
+[ECO "C72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.d4 Nf6 7.Bxc6
+Bxc6 8.Re1 Be7 9.Nc3 exd4 10.Nxd4 Bd7 11.Qf3 O-O 12.h3 Re8
+13.Bg5 h6 14.Bh4 Nh7 15.Bg3 Bf6 16.Rad1 Bxd4 17.Rxd4 Qf6
+18.Qxf6 Nxf6 19.Bh4 g5 20.Bg3 Bc6 21.Re3 Nh5 22.Bh2 Re7 23.g4
+Ng7 24.Nd5 Bxd5 25.exd5 Rae8 26.Rxe7 Rxe7 27.Kf1 f5 28.Bg1 f4
+29.f3 Ne8 30.a4 a5 31.b4 axb4 32.Rxb4 b6 33.Bd4 Kf7 34.Rb5 Nf6
+35.a5 bxa5 36.Rxa5 Nd7 37.Ra6 Ne5 38.Kf2 Kg6 39.Ra4 Kf7 40.Bb2
+Nd7 41.Bd4 Ne5 42.Ra8 Kg6 43.Rc8 Nc4 44.Rg8+ Kh7 45.Rh8+ Kg6
+46.Rf8 Na3 47.c3 Nb5 48.Bh8 Re3 49.c4 Nc3 50.Rg8+ Kh7 51.Rc8
+Nd1+ 52.Kf1 Re7 53.Bd4 Kg6 54.Rg8+ Kh7 55.Rc8 Kg6 56.Rg8+ Kh7
+57.Rf8 Ne3+ 58.Bxe3 Rxe3 59.Kf2 Re7 60.h4 Kg7 61.Rf5 Kg6
+62.hxg5 hxg5 63.Rf8 1/2-1/2

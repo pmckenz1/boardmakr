@@ -1,0 +1,20 @@
+[Event "Horncastle"]
+[Site "Horncastle"]
+[Date "1880.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Henry Edward Bird"]
+[Black "Arthur Skipworth"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.f4 e6 2.e3 c5 3.Nf3 a6 4.b3 Nc6 5.Bb2 Nf6 6.Be2 d5 7.O-O Bd6
+8.Na3 O-O 9.c3 b6 10.Nc2 Qc7 11.d4 Bb7 12.Ne5 Ne4 13.Bd3 f5
+14.Bxe4 fxe4 15.Qg4 Rf5 16.c4 Raf8 17.cxd5 exd5 18.Rac1 Qe7
+19.Rfd1 Bxe5 20.dxe5 d4 21.g3 d3 22.Na3 b5 23.Rd2 Nb4 24.Qh3
+Ba8 25.g4 Rxf4 26.exf4 e3 27.Qxe3 Qb7 28.Qg3 Qh1+ 29.Kf2 Rxf4+
+30.Qxf4 Qg2+ 31.Ke1 Qg1+ 32.Qf1 Qe3+ 33.Re2 dxe2 34.Qxe2 Nd3+
+35.Kf1 Qh3+ 36.Kg1 Nf4 0-1

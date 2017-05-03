@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Martin Borriss"]
+[Black "Markus Stangl"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4
+7. Bg5 h6 8. Bh4 g5 9. Bg3 Bg7 10. Be2 h5 11. Bxg4 hxg4
+12. Nd5 Nc6 13. Nf5 Bxb2 14. Rb1 Be5 15. Bxe5 dxe5 16. Nfxe7
+Be6 17. Rxb7 Nxe7 18. Rxe7+ Kf8 19. Rb7 Rc8 20. O-O Rc4
+21. Nc7 Qe7 22. Nxe6+ Qxe6 23. Qd8+ Kg7 24. Qxg5+ Qg6
+25. Qxe5+ Qf6 26. Qxf6+ Kxf6 27. Rb6+ Ke5 28. Rxa6 Rxc2
+29. Re1 Rb8 30. Ra5+ Ke6 31. Rg5 Rbb2 32. Rf1 Rxa2 33. Rxg4
+Re2 34. h3 Ke5 35. f3 Kd4 36. Rd1+ Ke3 37. e5 1-0

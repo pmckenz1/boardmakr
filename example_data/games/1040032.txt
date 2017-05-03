@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Oleg Dementiev"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O
+O-O 8.f4 Nc6 9.Nb3 b5 10.Bf3 b4 11.Ne2 Qb6+ 12.Kh1 d5 13.e5
+Ne4 14.Bxe4 dxe4 15.Ng3 a5 16.Nxe4 a4 17.Nbd2 Ba6 18.Re1 Rfd8
+19.c3 Rd3 20.Qxa4 Rad8 21.a3 Bh4 22.Rg1 Bb5 23.Qc2 bxc3
+24.bxc3 Bf2 25.Nxf2 Qxf2 26.Qb2 Ba6 27.Ne4 Qa7 28.Qc2 h6
+29.Qa4 Ne7 30.Ra2 Nf5 31.Rd2 Rxd2 32.Bxd2 Qa8 33.Bc1 Qd5
+34.Nd6 Nxd6 35.Qxa6 Nf5 36.Qf1 Rc8 37.Qe1 Qb3 38.Bd2 Qxa3
+39.Qe4 Rd8 40.Be1 h5 41.Qf3 Qa4 42.h3 Qc4 43.g4 hxg4 44.hxg4
+Ne7 45.Rg2 Rb8 46.Bg3 Nd5 47.f5 Rb1+ 48.Kh2 Qc6 49.Qe4 Rc1
+50.Rb2 Qc8 51.fxe6 fxe6 52.Rf2 Rxc3 53.Qg6 Qd7 54.Qh5 Ne3
+55.Bf4 Nd5 56.Bg3 Rc4 57.Rf3 Ne3 58.g5 Nf5 59.Kh3 Qc6 60.Kh2
+Rc1 61.g6 Rh1+ 0-1

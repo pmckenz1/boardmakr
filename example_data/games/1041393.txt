@@ -1,0 +1,21 @@
+[Event "It (cat.12)"]
+[Site "Amsterdam NED"]
+[Date "1979.07.14"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Jan Smejkal"]
+[Black "Eugenio Torre"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c6 7.Nc3
+Bf5 8.Ne1 Qc8 9.Qb3 Na6 10.e4 Be6 11.a4 Rb8 12.Nf3 Bh3 13.Re1
+Bxg2 14.Kxg2 Nc7 15.h3 Nd7 16.Be3 Ne6 17.a5 c5 18.Nd5 Re8
+19.Red1 Ra8 20.Qc2 Nb8 21.dxc5 dxc5 22.e5 Nc6 23.Qe4 Qb8
+24.Nf4 Ned4 25.Bxd4 Nxd4 26.Nxd4 cxd4 27.Nd3 Rd8 28.b4 Qc7
+29.Rdc1 Rac8 30.b5 f6 31.c5 a6 32.c6 bxc6 33.Rxc6 Qb7 34.exf6
+exf6 35.Rac1 Kh8 36.Qf3 Rxc6 37.bxc6 Qc7 38.Rb1 Qxa5 39.Rb7
+Rc8 40.Qe4 Qd8 41.Rd7 1-0

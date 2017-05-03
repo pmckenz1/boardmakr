@@ -1,0 +1,16 @@
+[Event "Gausdal (Norway)"]
+[Site "It"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Vasilios Kotronias"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.g3 d5 2.Bg2 Nf6 3.Nf3 Bg4 4.c4 c6 5.Ne5 Be6 6.cxd5 Bxd5
+7.Nf3 c5 8.O-O e6 9.Nc3 Bc6 10.Re1 c4 11.b3 cxb3 12.Qxb3 Nbd7
+13.d4 Qb6 14.Ba3 1/2-1/2

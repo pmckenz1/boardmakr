@@ -1,0 +1,19 @@
+[Event "Jakarta zt"]
+[Site "Jakarta zt"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Weiguo Lin"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bb5+ Nd7 8.Ne2 O-O 9.O-O a6 10.Bd3 b6 11.f4 e6 12.f5 exf5
+13.exf5 Bb7 14.Nf4 Nf6 15.Ba3 Nd5 16.fxg6 hxg6 17.Nxg6 Qg5
+18.Bxf8 Nxc3 19.Qc2 Bxd4+ 20.Kh1 fxg6 21.Bc4+ Nd5 22.Qe4 Bxa1
+23.Be7 Re8 24.Qe6+ Kh8 25.Rf8+ Rxf8 26.Bxg5 Kg7 27.h4 Rf5
+28.Bd3 Rxg5 29.hxg5 Nf4 30.Qe7+ 1-0

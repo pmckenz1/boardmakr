@@ -1,0 +1,21 @@
+[Event "Oslo (Norway)"]
+[Site "Oslo (Norway)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Lars Karlsson"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.Bd2 Nc6 7.Nb5
+Bxd2+ 8.Qxd2 Nxd4 9.Nxd4 cxd4 10.Nf3 Ne7 11.Nxd4 O-O 12.O-O-O
+Nc6 13.f4 f6 14.exf6 Qxf6 15.g3 Kh8 16.Bb5 Bd7 17.Nf3 Be8
+18.Rde1 Bg6 19.Bd3 Rac8 20.Ne5 Nd4 21.Kb1 Be8 22.Bxh7 Kxh7
+23.Qxd4 Bg6 24.Re2 Be4 25.Rc1 b6 26.Qa4 Qf5 27.Qxa7 d4 28.Rd2
+Rc5 29.Qxb6 Rfc8 30.Qb3 R8c7 31.Nd3 Rc4 32.Nf2 Rc3 33.bxc3 Rb7
+34.Nxe4 Qxe4 35.Ka2 Rxb3 36.cxb3 Qe3 37.Rcc2 d3 38.Rb2 g5
+39.Rd1 gxf4 40.gxf4 Kg6 41.Rbd2 Qxf4 42.Rxd3 e5 1-0

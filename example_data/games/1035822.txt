@@ -1,0 +1,19 @@
+[Event "Cheltenham"]
+[Site "Cheltenham ENG"]
+[Date "1876.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "William Wayte"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Be7 7.h3 O-O
+8.Qe2 b5 9.Bc2 Bb7 10.Nbd2 h6 11.Nf1 Nh7 12.Ne3 Ng5 13.Nf5
+Nxf3+ 14.Qxf3 Bg5 15.Qg3 Qf6 16.O-O Bxc1 17.Raxc1 Ne7 18.Nxe7+
+Qxe7 19.f4 exf4 20.Rxf4 Qg5 21.Qf2 Rae8 22.Rf1 Re7 23.Rg4 Qe5
+24.Bb3 Bc8 25.d4 Qh5 26.Rxg7+ Kxg7 27.Qf6+ Kg8 28.Qxe7 Qg5
+29.Rxf7 1-0

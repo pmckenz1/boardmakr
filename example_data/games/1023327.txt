@@ -1,0 +1,19 @@
+[Event "01, ch URS"]
+[Site "Telavi URS"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Evgeni Vasiukov"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6
+8.Rc1 Bb7 9.cxd5 Nxd5 10.Bxe7 Qxe7 11.Nxd5 Bxd5 12.Bc4 Qb4+
+13.Qd2 Qxd2+ 14.Kxd2 Bxf3 15.gxf3 c6 16.Bd3 a5 17.Be4 Rc8
+18.f4 g6 19.h4 h5 20.Rc2 Ra7 21.Rhc1 Rac7 22.a3 Kf8 23.b4 axb4
+24.axb4 b5 25.Ra1 Ke7 26.Bf3 Nd7 27.Ra6 Nb8 28.Ra1 Nd7 29.Ra6
+Nb8 30.Ra1 Nd7 31.Ra6 1/2-1/2

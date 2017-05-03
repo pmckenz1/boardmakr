@@ -1,0 +1,22 @@
+[Event "Margate"]
+[Site "Margate ENG"]
+[Date "1939.04.14"]
+[EventDate "1939.04.12"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Vera Menchik"]
+[Black "Harry Golombek"]
+[ECO "D14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4
+Bf5 7. Qb3 Na5 8. Qa4+ Bd7 9. Qc2 Rc8 10. e3 g6 11. Bd3 Bg7
+12. O-O O-O 13. Qe2 a6 14. Rac1 b5 15. h3 Bc6 16. Ne5 Bb7
+17. Nb1 Qb6 18. Nd2 Rfd8 19. Ndf3 Nc4 20. b3 Nd6 21. a3 Nfe4
+22. Qb2 b4 23. a4 Nc3 24. Nd2 a5 25. Nb1 Nxb1 26. Bxb1 Ne4
+27. Bxe4 dxe4 28. Nc4 Qa6 29. Qe2 Bd5 30. Rc2 Rc6 31. Rfc1
+Rdc8 32. Kf1 Bxc4 33. Rxc4 Rxc4 34. bxc4 e5 35. dxe5 Rc5
+36. Qc2 Qb7 37. Rd1 h5 38. Qb3 Bxe5 39. Bxe5 Rxe5 40. Rd8+ Kh7
+41. Rd4 1/2-1/2

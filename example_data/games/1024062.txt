@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Viktor Kupreichik"]
+[ECO "B31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 Nf6 6.c3 O-O 7.d4
+cxd4 8.cxd4 d5 9.e5 Ne4 10.Nc3 Bf5 11.Nh4 Bd7 12.Bd3 f5
+13.exf6 Bxf6 14.Nxe4 dxe4 15.Rxe4 e5 16.Nf3 Bf5 17.Re1 Bxd3
+18.Qxd3 exd4 19.Bh6 Rf7 20.Re4 Qd5 21.Rae1 Re7 22.Rxe7 Nxe7
+23.Nd2 Nf5 24.Ne4 Bh8 25.Bg5 h6 26.Bd2 Kh7 27.Qh3 Bg7 28.g4
+Ne3 29.Qf3 Rf8 30.Qh1 Rf4 31.Rxe3 Rxg4+ 32.Kf1 Qxa2 33.Re2
+Qb1+ 34.Be1 Rf4 35.Qg2 d3 36.Rd2 Bd4 37.Ng3 h5 38.Qxb7+ Kh6
+39.Qb8 Rf7 40.Qd8 Rf4 41.h4 Bf6 42.Qxd3 Qxd3+ 43.Rxd3 Bxb2 1-0

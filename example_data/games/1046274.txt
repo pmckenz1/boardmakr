@@ -1,0 +1,26 @@
+[Event "Cuxhaven 54/616"]
+[Site "Cuxhaven 54/616"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Viktor Kupreichik"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. Nd2 a5 10. a3 Bd7 11. Rb1 a4 12. b4
+axb3 13. Nxb3 b6 14. Ra1 Ba4 15. Nxa4 Rxa4 16. Bd3 Qa8 17. Nd2
+Nd7 18. Nb1 Nc5 19. Nc3 Ra6 20. Bc2 Kh8 21. Nb5 Qd8 22. Bb2 f5
+23. f4 fxe4 24. fxe5 Nf5 25. Qe2 dxe5 26. Bxe4 Nd4 27. Rxf8+
+Qxf8 28. Bxd4 exd4 29. Re1 Ra8 30. Bb1 Na4 31. Nxc7 d3 32. Qe3
+d2 33. Rd1 Nb2 34. Nxa8 Nxd1 35. Qxd2 Nc3 36. Nxb6 Qc5+
+37. Kh1 Qxb6 38. Bd3 Qd4 39. Qe1 Be5 40. Qf1 Kg7 41. Qf3 Na4
+42. Bf1 Nc5 43. g3 Ne4 44. Kg2 Bd6 45. Bd3 Ng5 46. Qf1 Bxa3
+47. h4 Nf7 48. h5 Bd6 49. hxg6 hxg6 50. Be2 Ng5 51. Bf3 Qe5
+52. Qf2 Qf5 53. Qd4+ Be5 54. Qg4 Nxf3 55. Qxf3 Qc2+ 56. Kh3
+Qxc4 57. Qa3 Qxd5 58. Qe7+ Kg8 59. Qe8+ Kh7 60. Qe7+ Bg7
+61. Kh2 Kh6 62. Qe3+ Qg5 63. Qd3 Be5 64. Kg2 Qxg3+ 0-1

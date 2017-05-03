@@ -1,0 +1,16 @@
+[Event "Buenos Aires (Argentina)"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.14"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Julio Bolbochan"]
+[Black "Tigran Vartanovich Petrosian"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 e6 4.e3 cxd4 5.exd4 d5 6.Nc3 Be7 7.cxd5
+Nxd5 8.Bc4 O-O 9.O-O Nc6 10.Re1 Nf6 11.a3 b6 12.d5 Na5 13.Ba2
+exd5 14.Nxd5 Nxd5 15.Bxd5 Bb7 16.Bxb7 Nxb7 17.Bf4 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Rotterdam (03)"]
+[Site "Rotterdam NED"]
+[Date "1934.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Willem Hamming"]
+[Black "Alexander Alekhine"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. O-O cxd4 6. Qxd4 g6
+7. c4 Bg7 8. Nc3 Nc6 9. Qd3 O-O 10. e4 Rc8 11. Rb1 Ng4 12. Bd2
+Nce5 13. Qe2 Nxc4 14. Nb5 Ba6 15. a4 Nxb2 16. h3 Ne5 17. Nxe5
+Bxe5 18. Bh6 Nxa4 19. Bxf8 Nc3 20. Qb2 Bxb5 21. Qxb5 Nxb5
+22. Rxb5 Bxg3 0-1

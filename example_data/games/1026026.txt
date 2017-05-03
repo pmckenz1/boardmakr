@@ -1,0 +1,16 @@
+[Event "Lenk (Switzerland)"]
+[Site "Lenk (Switzerland)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Beat Zueger"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 c5 4.c4 cxd4 5.Nxd4 Bg7 6.Bg2 Nc6 7.Nc2
+d6 8.Nc3 O-O 9.O-O Bg4 10.b3 Qd7 11.Bb2 Bh3 12.Rb1 Bxg2
+13.Kxg2 Rfd8 14.e4 e6 15.Ne3 a6 16.a4 Rac8 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Manila Interzonal"]
+[Site "Manila PHI"]
+[Date "1990.07.09"]
+[EventDate "1990.06.29"]
+[Round "9"]
+[Result "0-1"]
+[White "Simen Agdestein"]
+[Black "Lubomir Ftacnik"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nc3 dxc4 6. Qa4+
+Nfd7 7. d5 O-O 8. Qxc4 c6 9. dxc6 Ne5 10. Qh4 Nbxc6 11. Bxc6
+bxc6 12. Bh6 Bxh6 13. Qxh6 Qb6 14. Nd1 Rd8 15. Qf4 Qa5+
+16. Kf1 Qd5 17. f3 Ba6 18. h4 f6 19. Nf2 Qd2 20. b3 Qb2
+21. Qc1 Rd2 22. Qxb2 Rxb2 23. f4 Nf7 24. Nd1 Rd2 25. Rh2 Rad8
+26. Ke1 Nh6 27. Nf3 R2d6 28. h5 Ng4 29. Rh4 Re6 30. Ng1 f5
+31. hxg6 hxg6 32. Rc1 Rd5 33. Nc3 Rc5 34. Nf3 Ne3 35. Kd2 Ng2
+36. Rh2 Rd6+ 37. Kc2 Bxe2 38. Ne5 Ne3+ 39. Kb1 Bd3+ 40. Ka1
+Nd5 41. Rch1 Rxc3 42. Rh8+ Kg7 43. R8h7+ Kf6 44. Nxg6 Ne3
+45. Nxe7 Ng4 46. Ng8+ Ke6 47. Re7+ Kd5 48. Rxa7 Kc5 49. Ne7
+Be4 50. Re1 Rd2 51. Nc8 Ne3 52. Ra5+ Kb4 0-1

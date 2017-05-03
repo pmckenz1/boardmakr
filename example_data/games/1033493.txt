@@ -1,0 +1,17 @@
+[Event "2, XXX op Mar del Plata ARG (10s)"]
+[Site "2, XXX op Mar del Plata ARG Hiarcs 7.32 (10s)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Albino Bianchi"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 e6 2. d3 c5 3. g3 g6 4. Bg2 Bg7 5. Nc3 Nc6 6. f4 d6
+7. Nf3 Nge7 8. Be3 Nd4 9. O-O O-O 10. Bf2 Rb8 11. Qd2 b6
+12. Nxd4 cxd4 13. Nb5 e5 14. Qb4 Ba6 15. Nxd6 b5 16. Qc5 Qb6
+17. b4 Rfd8 18. fxe5 Qxc5 19. bxc5 Bxe5 20. Nxf7 1-0

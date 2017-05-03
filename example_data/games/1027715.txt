@@ -1,0 +1,17 @@
+[Event "Ch Europe (team)"]
+[Site "Bath (England)"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Peter Richard Markland"]
+[Black "Istvan Bilek"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 c5 2.c3 g6 3.d4 cxd4 4.cxd4 d5 5.exd5 Nf6 6.Nc3 Bg7
+7.Bb5+ Nbd7 8.d6 exd6 9.Qe2+ Qe7 10.Bf4 Qxe2+ 11.Ngxe2 Ke7
+12.Bg5 h6 13.Bf4 Nb6 14.O-O Be6 15.Rfe1 a6 16.Bd3 Rac8 17.Ne4
+Nxe4 18.Bxe4 d5 19.Bd3 Nc4 20.b3 1/2-1/2

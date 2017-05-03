@@ -1,0 +1,27 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Christopher Ward"]
+[Black "Harriet Hunt"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "137"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4
+7. Bd3 c5 8. cxd5 exd5 9. Nge2 Nc6 10. O-O Bf5 11. f3 c4
+12. fxe4 cxd3 13. Qxd3 dxe4 14. Qe3 Bxc3 15. bxc3 Ne7 16. Ba3
+Bg6 17. Nf4 Rc8 18. Nxg6 hxg6 19. Rac1 Re8 20. Bxe7 Rxe7
+21. Qxe4 Qa5 22. Rf3 Qxa2 23. Qh4 Qd2 24. Qxe7 Qxc1+ 25. Rf1
+Qe3+ 26. Kh1 Rf8 27. Qxb7 Qxc3 28. Qxa7 Qd3 29. Qa1 Qe4 30. h3
+Ra8 31. Qb2 Qd5 32. Rf2 Rd8 33. Rd2 g5 34. Qc3 g4 35. hxg4 Qe4
+36. Qd3 Qxg4 37. Rd1 g6 38. Kg1 Rd5 39. Kf2 Kg7 40. Rd2 Qh4+
+41. Kf3 Ra5 42. Qe4 Ra3+ 43. Rd3 Qh5+ 44. Kg3 Qg5+ 45. Kh2
+Rxd3 46. Qxd3 Qf4+ 47. Kg1 g5 48. g3 Qc1+ 49. Kg2 g4 50. Qf5
+Qb2+ 51. Qf2 Qb7+ 52. Kf1 Kf8 53. Ke2 Qe4+ 54. Kd2 Ke8 55. Qf4
+Qg6 56. Ke3 Ke7 57. Qe4 Qh6+ 58. Qf4 Qg6 59. d5 Qb6+ 60. Qd4
+Qb3+ 61. Qd3 Qb4 62. Qe4 Qc3+ 63. Kf4 Qc8 64. d6+ Kd8 65. Qf5
+Qc4+ 66. Kg5 Qd4 67. Qf6+ Kc8 68. Qxf7 Qxe5+ 69. Qf5+ 1-0

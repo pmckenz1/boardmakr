@@ -1,0 +1,27 @@
+[Event "London LB (03)"]
+[Site "London LB (03)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "David Norwood"]
+[Black "Michael John Basman"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. d4 h6 2. e4 a6 3. f4 c5 4. d5 d6 5. c4 g5 6. fxg5 hxg5
+7. Bxg5 Bg7 8. Nc3 Nd7 9. Nf3 Ngf6 10. e5 dxe5 11. Bd3 b5
+12. O-O bxc4 13. Bxc4 e4 14. Nd2 Qb6 15. Qe2 Qxb2 16. Rac1 Ng4
+17. Qxg4 Bxc3 18. Qxe4 Nf6 19. Bxf6 Bxf6 20. Nf3 Rg8 21. Rc2
+Rg4 22. Qd3 Qb6 23. Re2 Qd6 24. Nd2 Bd4+ 25. Kh1 Rf4 26. Rfe1
+Ra7 27. Ne4 Qg6 28. Qg3 Be5 29. Qxg6 fxg6 30. g3 Rg4 31. Bb3
+Bf5 32. Nxc5 Bc3 33. Rc1 Bd4 34. Ne6 Kd7 35. Nxd4 Rxd4
+36. Rce1 Kd6 37. Kg1 a5 38. a3 Rb7 39. Ba2 a4 40. Kg2 Rc7
+41. h3 Rd3 42. g4 Bc8 43. Bb1 Rxa3 44. Bxg6 Rcc3 45. Bf5 Rg3+
+46. Kh2 Rxh3+ 47. Kg2 Rag3+ 48. Kf2 Rf3+ 49. Kg2 Rhg3+ 50. Kh2
+Bxf5 51. gxf5 Rg7 52. Re6+ Kd7 53. d6 exd6 54. Rd1 Rxf5
+55. Rdxd6+ Kc7 56. Rc6+ Kb8 57. Rb6+ Rb7 58. Ra6 Rb4 59. Re8+
+Kb7 60. Rea8 Rc5 61. R8a7+ Kc8 62. Ra8+ Kd7 63. R8a7+ Rc7
+64. Rxa4 1/2-1/2

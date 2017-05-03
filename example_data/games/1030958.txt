@@ -1,0 +1,21 @@
+[Event "Munich (Germany)"]
+[Site "Munich (Germany)"]
+[Date "1933.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "Siegbert Tarrasch"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Nbd2 O-O 11.Bc2 f5 12.exf6 Nxf6
+13.Nb3 Qd7 14.Nbd4 Nxd4 15.Nxd4 c5 16.Nxe6 Qxe6 17.Re1 Qf7
+18.Bf4 Rad8 19.Bc7 Rde8 20.Qf3 Bd8 21.Bd6 Rxe1+ 22.Rxe1 Re8
+23.Rxe8+ Qxe8 24.g4 Bb6 25.Qf5 h6 26.Be5 Qd7 27.h4 Qxf5
+28.Bxf5 Kf7 29.h5 Bd8 30.f4 a5 31.Kf2 Be7 32.Kf3 Bf8 33.Bg6+
+Ke6 34.Bf5+ Kf7 35.Bd3 c4 36.Bg6+ Ke6 37.Bf5+ Ke7 38.Ke3 Ne8
+39.Kd4 Nd6 40.Kxd5 Nxf5 41.gxf5 Kd7 42.a3 Ke8 1-0

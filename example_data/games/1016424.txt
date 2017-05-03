@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qa4+
+Nd7 8.Nxd5 Bxd5 9.Bg5 Be7 10.Bxe7 Qxe7 11.Rc1 O-O 12.Rxc7 Nc5
+13.Rxe7 Nxa4 14.b3 Bxb3 15.Nd2 Ba2 16.e4 Rfc8 17.h4 Kf8 18.Rd7
+Rd8 19.Rxd8+ Rxd8 20.Rh3 Rxd4 21.Rd3 Rxd3 22.Bxd3 Nc5 23.Ke2
+Ke7 24.e5 Nxd3 25.Kxd3 Bd5 26.g4 Kd7 27.f4 a5 28.Kd4 Kc6 29.f5
+b5 30.f6 gxf6 31.exf6 Kd6 32.Nf1 e5 33.Kc3 Kc5 34.Ne3 b4
+35.axb4 axb4 36.Kd3 e4 37.Kd2 Be6 38.g5 Kd6 39.Nd1 Ke5 40.Ke3
+Kf5 41.Nb2 b3 0-1

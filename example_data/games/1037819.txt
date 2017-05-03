@@ -1,0 +1,18 @@
+[Event "04, Toronto"]
+[Site "04, Toronto"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ioan Crisan"]
+[Black "Lawrence Day"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qd6 6.d3 Ne7
+7.Nbd2 f6 8.Nc4 Qe6 9.b3 c5 10.c3 Nc6 11.d4 cxd4 12.cxd4 Nxd4
+13.Nxd4 exd4 14.f4 b5 15.Nb2 Bb7 16.f5 Qd7 17.Bf4 O-O-O 18.Rc1
+Bd6 19.Nd3 Bxe4 20.Bxd6 Qxd6 21.Nc5 Rhe8 22.Qg4 Ba8 23.Ne6 Rd7
+24.Rfd1 d3 25.Rc3 Qe5 26.Qb4 Qe2 0-1

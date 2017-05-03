@@ -1,0 +1,22 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Vasily Chichkin"]
+[Black "Nikolai Nasikan"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. h4 h5 5. Bg5 dxc4 6. e4 Bg7
+7. Bxc4 Nh7 8. Be3 Nc6 9. Nge2 e5 10. d5 Ne7 11. Bc5 b6
+12. Ba3 c5 13. dxc6 Qxd1+ 14. Rxd1 Nxc6 15. Nb5 Nd4 16. Nexd4
+exd4 17. Nc7+ Kd8 18. Nxa8 Bb7 19. Bxf7 Bxa8 20. f3 Nf8
+21. Bxf8 Rxf8 22. Bxg6 Rh8 23. Kf2 Ke7 24. f4 Kf6 25. Bf5 Rd8
+26. Rhe1 Bf8 27. a3 a5 28. Bh7 Kg7 29. Bf5 Kf6 30. Bh3 d3
+31. Rd2 Bc5+ 32. Kf3 Rd4 33. g3 Bc6 34. Bf1 Bb5 35. Re3 Rd8
+36. Bxd3 Bxe3 37. Kxe3 Ba4 38. Be2 Rg8 39. Kf2 Re8 40. e5+ Kf5
+41. Rd6 b5 42. Kf3 1-0

@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Biel (Switzerland)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Bogdan Lalic"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O
+Nc6 8.e3 O-O 9.Nc3 Re8 10.d5 Na5 11.Nd4 Bd7 12.b3 Rc8 13.e4 c6
+14.Bb2 cxd5 15.Nxd5 Nc6 16.Nxc6 Bxc6 17.Bxg7 Kxg7 18.Nb4 e5
+19.Bh3 Bd7 20.Bxd7 Qxd7 21.Qxd7 Nxd7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "BL 9394 ;BL"]
+[Site "BL 9394 ;BL"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mladen Muse"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Nf3 c5 8. Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5
+12. Qd2 b6 13. f4 Bg7 14. O-O e6 15. dxe6 fxe6 16. Bc4 Kh8
+17. Qxd8 Rxd8 18. e5 Rb8 19. Be3 Bb7 20. Bxe6 Rd3 21. Bf2 Rxc3
+22. Bh4 h6 23. Rbd1 g5 24. fxg5 hxg5 25. Bxg5 Rc2 26. Bd5 Bxe5
+27. Rf7 Bxd5 28. Rxd5 Bd4+ 29. Kh1 Rf2 30. Rxf2 Bxf2 31. Bf6+
+Kh7 32. g4 Re8 33. h4 Re4 34. Rh5+ Kg6 35. Rf5 Bxh4 36. Bxh4
+Rxg4 37. Rf6+ Kg7 0-1

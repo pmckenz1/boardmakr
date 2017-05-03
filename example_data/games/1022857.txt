@@ -1,0 +1,23 @@
+[Event "Baku ch AzSSR"]
+[Site "Baku ch AzSSR"]
+[Date "1967.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "R Gasanov"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5 5.O-O Nf6 6.Nxe5 Nxe5
+7.d4 Nxe4 8.Qe2 Be7 9.Qxe4 Ng6 10.f4 O-O 11.f5 d5 12.Qd3 Nh8
+13.Nc3 c6 14.Ne2 f6 15.c3 Nf7 16.Bc2 Bd6 17.c4 dxc4 18.Qxc4 c5
+19.dxc5 Qc7 20.b4 Bxh2+ 21.Kh1 Be5 22.Bf4 Kh8 23.Nc3 Bd7
+24.Bxe5 Nxe5 25.Qf4 Bc6 26.Be4 Rad8 27.Rad1 Rxd1 28.Rxd1 Rd8
+29.Rxd8+ Qxd8 30.Bxc6 Nxc6 31.Qe4 Qe7 32.Qxe7 Nxe7 33.Ne4 Nc6
+34.a3 Kg8 35.Nd6 Nd8 36.g4 Kf8 37.Kg2 Ke7 38.Kf3 Kd7 39.Ke4 b6
+40.Kd5 bxc5 41.Kxc5 g6 42.Ne4 gxf5 43.gxf5 Kc7 44.Nxf6 Nb7+
+45.Kd5 Nd6 46.Ke6 Kc6 47.a4 h6 48.Ng4 h5 49.Ne5+ Kc7 50.Nf3
+Nb7 51.f6 Nd6 52.b5 axb5 53.axb5 Nb7 54.Ke7 Nd6 55.b6 1-0

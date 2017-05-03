@@ -1,0 +1,17 @@
+[Event "Minsk URS sf"]
+[Site "Minsk BLR"]
+[Date "1985.10.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Nukhim N Rashkovsky"]
+[Black "Yuri Balashov"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 e6 4.e4 dxe4 5.Nxe4 Be7 6.Nxf6+ Bxf6
+7.Bxf6 Qxf6 8.c3 O-O 9.Qf3 Qxf3 10.Nxf3 b6 11.g3 Bb7 12.Bg2
+Nd7 13.O-O Rfd8 14.Rfd1 c5 15.Ne5 Bxg2 16.Kxg2 Nxe5 17.dxe5
+1/2-1/2

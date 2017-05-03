@@ -1,0 +1,16 @@
+[Event "It (cat.9)"]
+[Site "Esbjerg DEN"]
+[Date "1985.07.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Curt Hansen"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2
+c5 8.dxc5 Bxc5 9.Bg5 Qc8 10.Rc1 h6 11.Bh4 O-O 12.Nxd5 exd5
+13.e3 Nc6 14.Bd3 d4 1/2-1/2

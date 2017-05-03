@@ -1,0 +1,22 @@
+[Event "Munich"]
+[Site "Munich GER"]
+[Date "1900.07.26"]
+[EventDate "1900.07.23"]
+[Round "3"]
+[Result "1-0"]
+[White "Jackson Whipps Showalter"]
+[Black "Amos Burn"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e6 4.Bxc4 Nf6 5.Nc3 c5 6.Nf3 Nc6 7.O-O
+Be7 8.Ne5 cxd4 9.Nxc6 bxc6 10.exd4 O-O 11.Be3 Bb7 12.Qe2 Qa5
+13.a3 Bd6 14.Rfd1 Qc7 15.h3 a5 16.Bg5 Nd7 17.Rac1 a4 18.Qg4
+Kh8 19.Qh4 Rfe8 20.Ne4 f6 21.Nxd6 Qxd6 22.Bf4 Qe7 23.Bd2 Qf7
+24.Bd3 f5 25.Be2 Nf6 26.Bf4 Rec8 27.Be5 Nd5 28.Rd3 Ba6 29.Bh5
+Qg8 30.Rg3 Ra7 31.Bg6 Bb5 32.Rg5 Nf6 33.Rc3 Qf8 34.Rcg3 Be2
+35.Bxh7 Nxh7 36.Rxg7 Rxg7 37.Rxg7 Qxg7 38.Bxg7+ Kxg7 39.Qe7+
+Kh8 40.Qxe6 Ba6 41.d5 Nf8 42.Qxf5 Kg8 43.d6 Re8 44.d7 Re1+
+45.Kh2 Nxd7 46.Qxd7 Bb5 47.h4 Re2 48.h5 Rxf2 49.h6 1-0

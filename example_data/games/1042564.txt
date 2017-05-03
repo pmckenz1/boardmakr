@@ -1,0 +1,20 @@
+[Event "Dieren"]
+[Site "Dieren NED"]
+[Date "1942.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Max Euwe"]
+[Black "Van der Camp"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2 Nc5 11. Bc2 O-O
+12. Qe2 d4 13. cxd4 Nxd4 14. Nxd4 Qxd4 15. Nf3 Qg4 16. h3 Qc4
+17. Qxc4 Bxc4 18. Re1 Rad8 19. Bg5 Bxg5 20. Nxg5 h6 21. Nf3
+Bd3 22. Rac1 a5 23. Re3 Bxc2 24. Rxc2 Ne6 25. Rc6 Rd5 26. Rec3
+Rfd8 27. g3 Rd3 28. Rxd3 Rxd3 29. Kg2 Rxf3 30. Ra6 Rd3
+31. Rxa5 Nd4 32. Ra8+ Kh7 33. Rd8 c5 34. Rd5 c4 35. b3 c3 0-1

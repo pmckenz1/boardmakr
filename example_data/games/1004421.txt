@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "14"]
+[Result "0-1"]
+[White "Gyula Lovas"]
+[Black "Janos Balogh"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Qb3 Nc6 5. Bd2 Qd7 6. e3 Nge7
+7. Na3 g6 8. cxd5 exd5 9. Ne5 Qd6 10. Nb5 Qd8 11. Nxc6 bxc6
+12. Na3 Bg7 13. Bc3 O-O 14. Nb1 Re8 15. Be2 c5 16. O-O c4
+17. Qa3 0-1

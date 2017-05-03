@@ -1,0 +1,17 @@
+[Event "Rubinstein Memorial 15th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1977.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Gennadi Kuzmin"]
+[Black "Eugenio Torre"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.h3 O-O 6.Be2 c6 7.a4
+Nbd7 8.O-O e5 9.dxe5 dxe5 10.b4 a5 11.Ba3 axb4 12.Bxb4 Re8
+13.Bc4 Bf8 14.Bxf8 Rxf8 15.Qd2 Qe7 16.Qe3 Kg7 17.Nd2 Qc5
+18.Qxc5 Nxc5 19.f3 1/2-1/2

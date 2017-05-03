@@ -1,0 +1,16 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN "]
+[Date "1976.12.??"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Ferenc Portisch"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Ngf3 Bd6
+7.O-O Ne7 8.dxc5 Bxc5 9.Nb3 Bd6 10.Bg5 O-O 11.Re1 Bg4 12.Be2
+Re8 13.c3 Qd7 14.Bxe7 Rxe7 1/2-1/2

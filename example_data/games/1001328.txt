@@ -1,0 +1,23 @@
+[Event "London ;HCL 34"]
+[Site "London ENG"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Henry Thomas Buckle"]
+[Black "John Racker Medley"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.d4 e6 2.e4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Nc3 Bd6 6.Bd3 O-O
+7.O-O Bg4 8.h3 Bxf3 9.Qxf3 h6 10.Nd1 Nc6 11.c3 Re8 12.Ne3 Ne7
+13.Ng4 Nxg4 14.Qxg4 Qc8 15.Qh5 Qe6 16.Bd2 f5 17.Rae1 Qf7
+18.Qf3 Ng6 19.Qxf5 Qxf5 20.Bxf5 Ne7 21.Bd7 Rf8 22.Re6 Rad8
+23.Ba4 Kf7 24.Rfe1 Ng8 25.Bb3 Nf6 26.c4 c6 27.c5 Bxc5 28.dxc5
+Rfe8 29.Rxe8 Rxe8 30.Rxe8 Nxe8 31.Bc2 Ke6 32.Bc3 g5 33.h4 b6
+34.hxg5 hxg5 35.b4 Nf6 36.Bxf6 Kxf6 37.Ba4 b5 38.Bb3 Ke5
+39.Kf1 Kd4 40.a3 a5 41.bxa5 Kxc5 42.Ke2 Kd6 43.a4 b4 44.Kd3 c5
+45.a6 c4 46.Bxc4 dxc4 47.Kxc4 Kc6 48.a5 Kc7 49.Kxb4 Kb8 50.f3
+Ka7 51.Kb5 Ka8 52.g3 Ka7 53.f4 1-0

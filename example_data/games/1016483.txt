@@ -1,0 +1,22 @@
+[Event "Szirak (Hungary)"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Slim Bouaziz"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d6 5.g3 O-O 6.Bg2 a6 7.O-O
+Nc6 8.b3 Rb8 9.Nd5 e6 10.Nxf6+ Qxf6 11.Bb2 e5 12.d5 Nd8 13.c5
+Qe7 14.cxd6 cxd6 15.Rc1 f5 16.Qc2 Nf7 17.Qc7 Qxc7 18.Rxc7 Rd8
+19.e4 fxe4 20.Nd2 Ng5 21.Nxe4 Nxe4 22.Bxe4 Bh3 23.Rfc1 Bh6
+24.R1c3 Rdc8 25.Ba3 Bf8 26.f3 Bd7 27.Bb4 Rxc7 28.Rxc7 Be8
+29.Bd2 b6 30.Be3 a5 31.Ra7 Bb5 32.Kf2 a4 33.bxa4 Bc4 34.a3 b5
+35.Rc7 Ra8 36.axb5 Bxb5 37.Ra7 Rxa7 38.Bxa7 Kf7 39.h4 Be7
+40.Ke3 h5 41.Bc2 g5 42.a4 Bc4 43.hxg5 Bxg5+ 44.Ke4 h4 45.gxh4
+Bxh4 46.Bd3 Bb3 47.a5 Ke7 48.a6 Kd7 1-0

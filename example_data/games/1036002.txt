@@ -1,0 +1,23 @@
+[Event "Munich"]
+[Site "Munich GER"]
+[Date "1900.08.03"]
+[EventDate "1900.07.23"]
+[Round "9"]
+[Result "0-1"]
+[White "Curt von Bardeleben"]
+[Black "Amos Burn"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6
+7.dxe5 Nf5 8.Qxd8+ Kxd8 9.b3 h6 10.Bb2 Be6 11.Nbd2 Be7 12.c4
+c5 13.a3 Kd7 14.Rfd1 Kc6 15.Bc3 Rhd8 16.Ne4 b6 17.Kf1 a6
+18.Rdc1 Rd7 19.Nfd2 a5 20.Rab1 Nd4 21.b4 axb4 22.axb4 Ra4
+23.bxc5 Bxc5 24.Nxc5 Kxc5 25.Bxd4+ Kxd4 26.Rb5 Rxc4 27.Re1 Rc5
+28.Rbb1 Rc2 29.Nb3+ Kc3 30.Na1 Rcd2 31.f4 g6 32.Rec1+ Kd3
+33.Nb3 Rc2 34.Re1 Kc3 35.Na1 Bc4+ 36.Kg1 Rcd2 37.Rec1+ Kd3
+38.Nb3 Bxb3 39.Rxb3+ Ke4 40.Re1+ Kf5 41.g3 Rc2 42.Rbe3 Ke6
+43.g4 Rdd2 44.f5+ Ke7 45.Rh3 Rg2+ 46.Kh1 Rxg4 47.Rxh6 gxf5
+48.h4 Re4 49.Rb1 Rxe5 50.Rh8 Ree2 0-1

@@ -1,0 +1,19 @@
+[Event "St.George's CC v Cit"]
+[Site "St.George's CC v Cit"]
+[Date "1881.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Johannes Zukertort"]
+[Black "Joseph Henry Blackburne"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Bb4 6.Nb5 Nf6 7.a3
+Bxc3+ 8.Nxc3 O-O 9.Be2 d5 10.exd5 exd5 11.Bg5 Re8 12.O-O d4
+13.Bxf6 Qxf6 14.Nd5 Qd6 15.Bf3 Be6 16.c4 Rad8 17.Re1 Qc5
+18.Rc1 a6 19.b4 Qd6 20.g3 Ne5 21.Bg2 b5 22.c5 Qb8 23.c6 Rxd5
+24.c7 Qc8 25.f4 Nc4 26.Bxd5 Bxd5 27.Rxe8+ Qxe8 28.Qxd4 Bb7
+29.Qd8 Qf8 30.Re1 Nd6 31.Re7 1-0

@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.06.05"]
+[EventDate "1883.04.26"]
+[Round "19"]
+[Result "1-0"]
+[White "James Mason"]
+[Black "Berthold Englisch"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 d5 2. Bf4 e6 3. Nf3 c5 4. e3 Nc6 5. c3 Nf6 6. Nbd2 Bd6
+7. dxc5 Bxc5 8. Bd3 Bd6 9. Bg5 Qb6 10. Qb3 Qxb3 11. axb3 Bd7
+12. b4 O-O 13. O-O a6 14. Nb3 Rfe8 15. Rfd1 Be7 16. Bxf6 gxf6
+17. e4 dxe4 18. Bxe4 Red8 19. b5 f5 20. Bxc6 bxc6 21. Ne5 Be8
+22. Rxd8 Bxd8 23. bxa6 Bb6 24. Nd2 f6 25. Nec4 Ba7 26. Nd6 Bd7
+27. b4 Kf8 28. Nb3 Ke7 29. Nb7 Bc8 30. N7c5 Kd6 31. Kf1 Kc7
+32. Ke2 e5 33. f3 Bxc5 34. Nxc5 Kb6 35. Kd3 Ra7 36. g3 Rg7
+37. c4 Ra7 38. Ra5 Bxa6 39. Rxa6+ Rxa6 40. Nxa6 Kxa6 41. g4 f4
+42. Ke4 h6 43. h4 Kb7 44. g5 fxg5 45. hxg5 hxg5 46. Kxe5 g4
+47. Kxf4 gxf3 48. Kxf3 Kc7 49. Ke4 Kd6 50. Kf5 Ke7 51. Ke5 Kd7
+52. Kf6 Kd6 53. c5+ 1-0

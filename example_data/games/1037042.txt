@@ -1,0 +1,21 @@
+[Event "London (England)"]
+[Site "London (England)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Paul Motwani"]
+[ECO "E04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 dxc4 5.Bg2 Bd7 6.Ne5 Bc6 7.Nxc6
+Nxc6 8.O-O Qd7 9.e3 Rb8 10.Qe2 b5 11.b3 cxb3 12.axb3 Rb6
+13.Bb2 a6 14.Rd1 Be7 15.Nd2 O-O 16.Nf1 Rd8 17.e4 Nb4 18.Ne3
+Bf8 19.d5 Qe7 20.dxe6 Rxd1+ 21.Rxd1 Qxe6 22.e5 Nd7 23.Nd5 Nxd5
+24.Bxd5 Qe7 25.Bd4 c5 26.Bc3 Rh6 27.e6 fxe6 28.Bb7 Nb6 29.Bxa6
+c4 30.bxc4 bxc4 31.Be5 Qc5 32.Bd4 Qc7 33.Rb1 Bc5 34.Be5 Qf7
+35.Rd1 Nd5 36.Bxc4 Rh5 37.Bb2 Rf5 38.Bd4 Bxd4 39.Rxd4 h6
+40.Bb3 Kh8 41.Kg2 Qb7 1/2-1/2

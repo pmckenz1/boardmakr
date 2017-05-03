@@ -1,0 +1,15 @@
+[Event "cat.10"]
+[Site "East Berlin GDR"]
+[Date "1989.04.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Zurab Azmaiparashvili"]
+[Black "Valery A Chekhov"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 a6 6.a4 c5 7.O-O
+Nc6 8.Qe2 Qc7 9.Nc3 Be7 10.Rd1 O-O 11.Bd3 Rd8 12.dxc5 1/2-1/2

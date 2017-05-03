@@ -1,0 +1,24 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.25"]
+[EventDate "1922.??.??"]
+[Round "16"]
+[Result "1-0"]
+[White "Ernst Gruenfeld"]
+[Black "Karel Treybal"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 Bf5 6. Bxc4 e6
+7. O-O h6 8. Qe2 Bb4 9. e4 Bh7 10. Bd3 O-O 11. Rd1 Nbd7
+12. Bf4 Re8 13. Rac1 Qe7 14. Bb1 Rac8 15. a3 Ba5 16. h3 c5
+17. e5 Nh5 18. Bxh7+ Kxh7 19. Bh2 Bxc3 20. Rxc3 g6 21. Rdc1
+Rc6 22. dxc5 Rxc5 23. Rxc5 Nxc5 24. g4 Ng7 25. Qc4 Na6 26. Bf4
+Nb8 27. Be3 Nc6 28. Qf4 Rh8 29. Qxh6+ Kg8 30. Qg5 Qd7 31. h4
+Qd5 32. Qf4 Ne8 33. Kh2 Nc7 34. Kg3 Qd7 35. Qe4 Nd5 36. Bg5
+Qc7 37. Kg2 Kg7 38. b4 a6 39. a4 Qb6 40. Bf6+ Nxf6 41. exf6+
+Kxf6 42. Rxc6 bxc6 43. Qe5+ Ke7 44. Qxh8 Qxb4 45. Qd4 c5
+46. Qxb4 cxb4 47. Nd2 f5 48. g5 e5 49. Kf3 Ke6 50. Ke3 f4+
+51. Ke4 1-0

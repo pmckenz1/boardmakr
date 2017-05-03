@@ -1,0 +1,21 @@
+[Event "Quadrangular Masters"]
+[Site "New York, NY USA"]
+[Date "1913.09.06"]
+[EventDate "1913.08.27"]
+[Round "3"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Oscar Chajes"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Bb4 6.cxd5 exd5
+7.Bd3 h6 8.Bh4 c5 9.Ne2 Qa5 10.dxc5 Qxc5 11.O-O O-O 12.Rc1
+Bxc3 13.Nxc3 Qb4 14.Bg3 a6 15.a3 Qe7 16.Bb1 Nb6 17.Qd4 Qe6
+18.Rfd1 Re8 19.Ba2 Bd7 20.e4 Rac8 21.exd5 Nbxd5 22.Bxd5 Nxd5
+23.Qxd5 Bc6 24.Qxe6 Rxe6 25.f3 h5 26.Rd6 Rxd6 27.Bxd6 Rd8
+28.Rd1 f5 29.Be5 Re8 30.f4 g5 31.Kf2 gxf4 32.Bxf4 Kf7 33.h4 a5
+34.a4 Kg7 35.g3 Kf7 36.Re1 Rd8 37.Re5 Kg6 38.Rxa5 Rd4 39.Rc5
+Rb4 40.Bc1 Bxa4 41.Nxa4 Rxa4 42.Rb5 1-0

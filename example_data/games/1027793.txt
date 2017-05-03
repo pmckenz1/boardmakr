@@ -1,0 +1,17 @@
+[Event "Cup World (open)"]
+[Site "Palma de Majorca (Spain)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Elisabeta Polihroniade"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.g3 e5 2.Bg2 g6 3.c4 Bg7 4.Nc3 d6 5.e3 Ne7 6.Nge2 c6 7.O-O
+O-O 8.b3 a5 9.Bb2 Na6 10.d4 f5 11.Qd2 Be6 12.Rad1 Bf7 13.e4 h6
+14.Qc1 Qc7 15.c5 exd4 16.cxd6 Qxd6 17.Nxd4 Qc7 18.exf5 Nxf5
+19.Nce2 Nxd4 20.Bxd4 Rfe8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "It (open), Mislata (Spain)"]
+[Site "It (open), Mislata (Spain)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Cesar Beso Portales"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 Bd7 6. Nf3 e6
+7. Be2 c5 8. O-O Nh6 9. a4 a6 10. a5 Qc7 11. Bf4 cxd4 12. Nxd4
+Nc6 13. Nxc6 Bxc6 14. Qd2 Nf5 15. h5 d4 16. Na4 g6 17. Nb6 Rd8
+18. Nc4 gxh5 19. Bxh5 Rg8 20. f3 Bb5 21. b3 Ne3 22. Rf2 Nxc4
+23. bxc4 Qxc4 24. Bg5 Rd7 25. Qf4 Qd5 26. Kh1 Bb4 27. Qf6 Bc6
+28. Rd1 d3 29. f4 Bxa5 30. Qh6 Bd8 31. Qxh7 Rf8 32. Bh6 dxc2
+33. Rxc2 Qxd1+ 34. Bxd1 Rxd1+ 35. Kh2 1-0

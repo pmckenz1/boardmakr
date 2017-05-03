@@ -1,0 +1,20 @@
+[Event "CSSR (ch) 26/190"]
+[Site "Marianske Lazne CSR"]
+[Date "1978.05.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Jan Sikora-Lerch"]
+[Black "Lubomir Ftacnik"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5
+7. dxc5 Qa5 8. O-O Qxc5+ 9. Kh1 Nbd7 10. Qe1 a6 11. Bd3 b5
+12. e5 dxe5 13. fxe5 Ng4 14. Be4 Rb8 15. h3 Ngxe5 16. Be3 Nxf3
+17. Rxf3 Bd4 18. Bxd4 Qxd4 19. Rd1 Qe5 20. Re3 Qc5 21. Nd5 Nf6
+22. Rc3 Qd6 23. Bxg6 Nxd5 24. Bxh7+ Kg7 25. Be4 e6 26. Qh4 Rd8
+27. Rf3 Rb7 28. Qh7+ Kf8 29. Bg6 Qc7 30. Bxf7 Ke7 31. Bxe6+
+Kxe6 32. Qf5+ 1-0

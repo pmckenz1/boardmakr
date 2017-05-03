@@ -1,0 +1,22 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "John K Shaw"]
+[Black "Elaine Rutherford Bamber"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. Be2 e6
+7. Bg5 Be7 8. O-O O-O 9. Qd2 Bd7 10. Bf4 Qb6 11. Ne5 Bc6
+12. Nc4 Qa7 13. Bxc7 Nbd7 14. Bg3 Rac8 15. a3 Rfd8 16. Qe3 Nd5
+17. Nxd5 Bxd5 18. Ne5 Rxc2 19. b4 Bf6 20. Rfc1 Rxc1+ 21. Rxc1
+Bxe5 22. Bxe5 Nxe5 23. Qxe5 Qb8 24. Qxb8 Rxb8 25. f4 Kf8
+26. Kf2 Rd8 27. g3 Ke7 28. Ke3 Rd6 29. Bd3 Rc6 30. Rc5 f5
+31. b5 axb5 32. Bxb5 Rd6 33. Rc7+ Kf8 34. Kd3 Rd8 35. Kc3 h6
+36. a4 Bf3 37. Bc4 Rd6 38. a5 Bc6 39. Kb4 Rxd4 40. a6 b5
+41. Rxc6 bxc4 42. Rc8+ Kf7 43. a7 1-0

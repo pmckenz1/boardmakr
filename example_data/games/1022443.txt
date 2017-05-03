@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Isle of Man (Great Britain)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Gerard Welling"]
+[Black "Alexander Baburin"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 g6 4.c4 Bg7 5.Nc3 O-O 6.Be2 dxc4 7.Bxc4
+a6 8.a4 c5 9.d5 Ne8 10.e4 Nd6 11.Bd3 c4 12.Bc2 Bg4 13.h3 Bxf3
+14.Qxf3 Nd7 15.a5 Nb5 16.O-O Nd4 17.Qd1 Nc5 18.Be3 e5 19.Ne2
+Re8 20.Nxd4 exd4 21.Bxd4 Nxe4 22.Bxg7 Kxg7 23.Re1 Nf6 24.Rxe8
+Qxe8 25.Qd4 Qb5 26.Be4 Re8 27.Bf3 h5 28.g3 Qd7 29.Kg2 Qd6
+30.Qxc4 g5 31.Kg1 g4 32.hxg4 hxg4 33.Bg2 Qe5 34.Qc3 Qxc3
+35.bxc3 Ne4 36.c4 Nc5 37.Rd1 Kf6 38.Rd4 Re1+ 39.Kh2 Ke5
+40.Rxg4 Ra1 41.Rf4 b5 42.cxb5 axb5 43.Rxf7 b4 44.f4+ Kd4 45.d6
+Rd1 46.Rf5 Kc4 47.a6 Ra1 48.Rxc5+ Kxc5 49.d7 1-0

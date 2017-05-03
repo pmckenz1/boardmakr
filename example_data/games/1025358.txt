@@ -1,0 +1,25 @@
+[Event "Geneva"]
+[Site "02"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Damir Levacic"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.e4 c5 2.Ne2 d6 3.g3 Nc6 4.Bg2 g6 5.c3 Bg7 6.d4 cxd4 7.cxd4
+Bg4 8.f3 Bd7 9.Be3 h5 10.h3 h4 11.g4 e5 12.Nbc3 Nge7 13.Qd2
+Qa5 14.f4 Rc8 15.fxe5 dxe5 16.d5 Nd8 17.O-O f6 18.Rad1 Nf7
+19.g5 fxg5 20.d6 Nc6 21.Bxg5 Nd4 22.Be7 Be6 23.Nxd4 exd4
+24.Nd5 Qxd2 25.Rxd2 Bxd5 26.exd5 Bh6 27.Re2 Be3+ 28.Kh2 Rc4
+29.Be4 Ne5 30.Bg5 Kd7 31.Bxe3 dxe3 32.Rxe3 Kxd6 33.Rf6+ Kc5
+34.Re6 Kd4 35.Re2 Nd7 36.Bxg6 Kc5 37.Re7 Rd8 38.Bf5 Nb6
+39.Rxb7 Nxd5 40.Rxa7 Rf4 41.Be6 Ne3 42.Ra3 Nf1+ 43.Kg2 Rd2
+44.Rc3+ Kb6 45.Rxd2 Nxd2 46.Bg4 Rd4 47.Be2 Re4 48.Kf2 Ra4
+49.Ke3 Rxa2 50.Kxd2 Rxb2+ 51.Ke3 Rb4 52.Bf3 Ra4 53.Be4 Ra7
+54.Rc6+ Kb5 55.Rh6 Kc5 56.Kf4 Rf7+ 57.Kg5 Kd4 58.Bg6 Ra7
+59.Rxh4+ Ke5 60.Re4+ Kd6 61.h4 Re7 62.Kf6 1-0

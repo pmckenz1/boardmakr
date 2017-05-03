@@ -1,0 +1,22 @@
+[Event "Scarborough (England)"]
+[Site "Scarborough (England)"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Efim Bogoljubov"]
+[Black "Victor Berger"]
+[ECO "C17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.Nb5 Bxd2+ 7.Qxd2
+O-O 8.dxc5 Nd7 9.Qc3 a6 10.Nd6 Qc7 11.Nf3 Qxc5 12.Qxc5 Nxc5
+13.Bd3 Nc6 14.O-O Rd8 15.Nxc8 Raxc8 16.a3 b5 17.Rfe1 Rc7
+18.Rad1 Rdc8 19.c3 Na5 20.Nd4 Nc4 21.Re2 Na4 22.Bxc4 bxc4
+23.f4 g6 24.g4 Rb7 25.Rdd2 Rcb8 26.Nc6 Rc8 27.Nd4 Rcb8 28.Nc6
+Re8 29.f5 Rb6 30.Nd4 Reb8 31.fxe6 fxe6 32.Kf1 Nxb2 33.Nxe6 Nd3
+34.Nc7 Rb1+ 35.Kg2 Nf4+ 36.Kf3 Nxe2 37.Rxe2 R8b2 38.Rxb2 Rxb2
+39.e6 Kf8 40.Nxd5 Rxh2 41.Ke3 h5 42.gxh5 gxh5 43.Kf4 h4 44.Ke5
+Re2+ 45.Kd6 h3 0-1

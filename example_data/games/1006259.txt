@@ -1,0 +1,21 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1-0"]
+[White "Remi Soupizon"]
+[Black "Adrian Jackson"]
+[ECO "B23"]
+[WhiteElo "2066"]
+[BlackElo "2207"]
+[PlyCount "75"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nd4 6. O-O Nxb5
+7. Nxb5 a6 8. Nc3 d6 9. d3 Nh6 10. Qe1 e6 11. f5 Ng4 12. Qg3
+Ne5 13. Bf4 Nxf3+ 14. Rxf3 Qb6 15. fxg6 Bd4+ 16. Kh1 hxg6
+17. Bxd6 e5 18. Bxe5 Qxb2 19. Raf1 Qxc3 20. Bxh8 Bxh8 21. Rxf7
+Bf5 22. Qc7 Qe5 23. Qxe5+ Bxe5 24. Rxb7 Be6 25. a4 c4 26. Rd1
+c3 27. d4 O-O-O 28. Ra7 Rxd4 29. Rxd4 Bxd4 30. Rxa6 Kd7 31. h4
+Bb3 32. Ra5 Bb6 33. Rb5 Bxc2 34. Rxb6 Bxe4 35. Rb4 c2 36. Rc4
+Kd6 37. a5 Kd5 38. Rc8 1-0

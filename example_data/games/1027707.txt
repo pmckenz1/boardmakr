@@ -1,0 +1,18 @@
+[Event "Skopje/Krusevo/Ohrid (Yugoslavia)"]
+[Site "Skopje/Krusevo/Ohrid (Yugoslavia)"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Burkhard G J Malich"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.g3 d5 2.Bg2 c6 3.d3 Nf6 4.Nd2 g6 5.Ngf3 Bg7 6.O-O O-O 7.e4
+Bg4 8.Re1 Na6 9.e5 Nd7 10.h3 Bxf3 11.Nxf3 Nc7 12.h4 f5 13.exf6
+exf6 14.Bf4 Rf7 15.Qd2 Nf8 16.Bh3 a5 17.a4 d4 18.Bxc7 Rxc7
+19.Be6+ Kh8 20.Qf4 c5 21.Bc4 Re7 22.Rxe7 Qxe7 23.Re1 Qd7
+24.Bb5 Qd5 25.Re7 Rc8 26.Bc4 Qc6 27.Ne5 g5 28.Nf7+ 1-0

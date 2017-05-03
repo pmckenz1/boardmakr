@@ -1,0 +1,15 @@
+[Event "x ,IV"]
+[Site "Dortmund GER"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Miron N Sher"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "15"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5
+7.a4 b6 8.a5 1/2-1/2

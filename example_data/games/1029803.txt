@@ -1,0 +1,23 @@
+[Event "Ch-UCZEO"]
+[Site "CZE"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "L Stratil"]
+[Black "Pavel Blatny"]
+[ECO "D39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.c4 Nf6 2.Nf3 e6 3.d4 d5 4.Nc3 Bb4 5.Bg5 dxc4 6.e3 b5 7.a4 c6
+8.Be2 Nbd7 9.O-O Qb6 10.Qc2 Bb7 11.e4 a6 12.Rad1 Bxc3 13.bxc3
+c5 14.Nd2 cxd4 15.cxd4 Rc8 16.axb5 axb5 17.e5 Nd5 18.Ne4 O-O
+19.Nd6 Rc6 20.Bf3 Rxd6 21.exd6 Qxd6 22.Rb1 Bc6 23.Rfe1 Nb4
+24.Qc3 Nd3 25.Re3 Bxf3 26.Rxf3 Qd5 27.Be7 Re8 28.Ba3 Ra8 29.h3
+e5 30.dxe5 N7xe5 31.Rg3 f6 32.Rd1 Qe4 33.Bd6 Qe2 34.Rf1 Qe4
+35.Re3 Qd5 36.Bxe5 fxe5 37.Ra1 Rf8 38.Rf1 Nf4 39.f3 Qd4 40.Kh2
+Nd3 41.Qd2 b4 42.Re4 Qd5 43.Qc2 Rc8 44.Rb1 Qc5 45.Rh4 h6
+46.Re4 Kh8 47.Ra1 b3 48.Qc3 b2 49.Rb1 Qb5 50.Re3 Qb8 51.Kh1
+Qa8 52.Qc2 Qa3 53.Kh2 Qd6 54.Kh1 Qf8 55.Rxd3 cxd3 56.Qxb2 0-1

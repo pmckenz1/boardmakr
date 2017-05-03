@@ -1,0 +1,17 @@
+[Event "Osasco mag"]
+[Site "Osasco mag"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Andres Rodriguez Vila"]
+[Black "Diego Gustavo Adla"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 d6 4.g3 g6 5.d4 cxd4 6.Nxd4 Bg7
+7.Nde2 Nf6 8.Bg2 O-O 9.O-O Rb8 10.a4 a6 11.Nd5 Nd7 12.c3 b6
+13.Ra2 e6 14.Ne3 Nf6 15.f4 Bb7 16.b4 Qc7 17.g4 a5 18.g5 Nd7
+19.Ba3 Rfd8 20.b5 1-0

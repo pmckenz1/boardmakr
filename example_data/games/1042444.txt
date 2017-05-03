@@ -1,0 +1,22 @@
+[Event "Exhibition Game"]
+[Site "Rotterdam NED"]
+[Date "1937.12.16"]
+[EventDate "?"]
+[Round "30"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Max Euwe"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. g3 Nc6
+7. Bg2 Nxd4 8. Nxd4 Nxc3 9. bxc3 cxd4 10. Qxd4 Qxd4 11. cxd4
+Bd6 12. a4 Rb8 13. Ba3 Ke7 14. Bxd6+ Kxd6 15. Kd2 Bd7 16. Rhc1
+Rhc8 17. Rxc8 Rxc8 18. Bxb7 Rc4 19. a5 Rxd4+ 20. Kc3 Kc5
+21. a6 Bb5 22. Ra2 Rc4+ 23. Kb3 Rb4+ 24. Kc3 Ba4 25. e3 Rb3+
+26. Kd2 Bb5 27. Be4 Bc4 28. Bxh7 g6 29. Kc2 Rb8 30. Rb2 Rh8
+31. Rb7 Rxh7 32. Rc7+ Kb5 33. Kc3 Rxh2 34. Rxf7 Bd5 35. Rxa7
+Rxf2 36. Rg7 Rf3 37. Rxg6 Rxe3+ 38. Kd4 Re4+ 39. Kd3 Kxa6
+40. g4 Kb5 0-1

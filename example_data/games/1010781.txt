@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Galina Nesterova"]
+[Black "Aleksandr V Leontiev"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5
+7. d5 e6 8. Nc3 exd5 9. cxd5 c4 10. Nf3 Bb4 11. Bg5 Qd7
+12. Qc2 Nxd5 13. O-O-O Bxc3 14. Bxc4 Ba5 15. Rxd5 Qc7 16. Rd8+
+Qxd8 17. Bxd8 Bxd8 18. Qe4 Nc6 19. Bd5 O-O 20. e6 Bxe6
+21. Bxe6 fxe6 22. Qxe6+ Kh8 23. Qd7 Bf6 24. h4 Rac8 25. Kb1
+Rce8 26. Qg4 Re7 27. h5 Rd8 0-1

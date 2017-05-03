@@ -1,0 +1,20 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Evgeny V Mochalov"]
+[Black "Yuri Balashov"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+Bd7 8.h3 Qc8 9.Kh2 Re8 10.e3 a6 11.Bd2 e5 12.d5 Na5 13.b3 b5
+14.Qe2 b4 15.Na4 Rb8 16.Rab1 c5 17.dxc6 Bxc6 18.Nb2 Ne4 19.Nd3
+Nxd2 20.Nxd2 e4 21.Nf4 Nb7 22.f3 Nc5 23.Nxe4 Nxe4 24.fxe4 Bxe4
+25.Bxe4 Rxe4 26.Qd3 Qe8 27.Rbe1 Qe5 28.Nd5 Re8 29.Rf4 a5
+30.Rxe4 Qxe4 31.Qxe4 Rxe4 32.Kg2 h5 33.Kf3 Re5 34.g4 hxg4
+1/2-1/2

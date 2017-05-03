@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Philadelphia (USA)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Julian Michael Hodgson"]
+[Black "Jay R Bonin"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nc3 Bg4 4.e4 e6 5.h3 Bh5 6.g4 Bg6 7.Qe2 c6
+8.h4 h5 9.g5 Nfd7 10.Be3 d5 11.Nd2 Na6 12.Bg2 Nb4 13.Rc1 dxe4
+14.Bxe4 Bxe4 15.Ncxe4 Nxa2 16.Ra1 Nb4 17.Nc4 Nb6 18.Ne5 Nd7
+19.O-O f5 20.Ng6 Rh7 21.Ng3 Be7 22.Bd2 Nxc2 23.Qxe6 Nxd4
+24.Qg8+ Nf8 25.Nxf8 Nf3+ 26.Kh1 Rh8 27.Qxh8 Qd5 28.Ng6 Kd7
+29.Qxa8 Nxd2 30.f3 1-0

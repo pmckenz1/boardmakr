@@ -1,0 +1,18 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN"]
+[Date "1974.12.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Gyula Sax"]
+[Black "Andras Adorjan"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.b3 Nd4 6.Nxd4 cxd4
+7.Bb2 a6 8.Be2 Nc6 9.c3 Bc5 10.b4 Bb6 11.a4 d5 12.b5 axb5
+13.axb5 Rxa1 14.Bxa1 Ne7 15.exd5 exd5 16.cxd4 O-O 17.Nc3 Nf5
+18.Bg4 Qd6 19.Ne2 Be6 20.Bc3 Ra8 21.Ng3 Qf4 22.Bxf5 Bxf5
+23.Nxf5 Qxf5 24.Qe2 Qe6 25.Re1 Re8 1/2-1/2

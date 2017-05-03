@@ -1,0 +1,20 @@
+[Event "It (cat.10)"]
+[Site "Vrsac (Yugoslavia)"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Stefan Djuric"]
+[Black "Andras Adorjan"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e3 e5 6.Nge2 Nge7 7.O-O
+d6 8.a3 O-O 9.b4 Be6 10.bxc5 Bxc4 11.d3 Ba6 12.Na4 d5 13.Bb2
+Qa5 14.Bc3 Qb5 15.Nc1 d4 16.exd4 exd4 17.Bd2 Ne5 18.Re1 Rfe8
+19.Ra2 Qd7 20.c6 bxc6 21.Nc5 Qc8 22.f4 Nd7 23.Bh3 f5 24.Qb3+
+Kh8 25.Nxa6 Qxa6 26.Qf7 Bf6 27.Nb3 Rab8 28.Nc5 Nxc5 29.Qxf6+
+Kg8 30.Rxe7 Rb1+ 31.Bf1 Rxe7 32.Qxe7 Nxd3 33.Be1 c5 34.Re2 Qc8
+35.Bg2 1-0

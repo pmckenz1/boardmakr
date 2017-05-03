@@ -1,0 +1,35 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.20"]
+[EventDate "1895.08.05"]
+[Round "12"]
+[Result "1-0"]
+[White "Carl Schlechter"]
+[Black "Amos Burn"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 {Notes by R. Teichmann} e6 2.d4 d5 3.Nc3 Nf6 4.exd5
+{Leading to a drawn position. This variation has been played
+so often that it is entirely exhausted, and affords no chance
+for either player to try for a win.} exd5 5.Bg5 c6 6.Nf3 Bd6
+7.Bd3 O-O 8.O-O Re8 9.Qd2 Be6 10.Ne2 Nbd7 11.Ng3 Qc7 12.Rae1
+h6 13.Bxf6 Nxf6 14.c3 Bg4 15.Rxe8+ Rxe8 16.Re1 Bxf3 17.Rxe8+
+Nxe8 18.gxf3 Nf6 19.Qe2 g6 20.Qf1 Qd7 21.Qg2 Kf8 22.Ne2 Nh5
+23.Qg4 Qc7 24.h3 Kg7 25.Kf1 Nf6 26.Qg1 Qa5 27.Bb1 {The
+mancuvres of the White King and Queen have enabled Black to
+begin an attack on the weak Queen's side Pawns, which he
+conducts with great energy. White ought now to have played a3,
+and if Qb6, then b4, followed by Kg2, in order to bring the
+Queen over to the Queen's wing again.} Qb5 28.b3 a5 29.Bc2 a4
+30.Ke1 axb3 31.axb3 c5 32.Ng3 Qa5 33.Nf5+ Kf8 34.Nxd6 Qxc3+
+35.Kf1 Qxc2 36.dxc5 d4 {...Qxc5 at once would have been much
+better White could not then have taken on b7 on account of
+Qg5+ and if 37 Qg3, then Qd4(!), followed by Nh5 and f4,
+wInning.} 37.Qg3 Qxc5 38.Qf4 Kg7 {A blunder, which loses at
+once. Qg5 would still have given him good drawing chances :
+eg., 38...Qg5 39 Qxd4 Qc1+ 40 Kg2 Nh5 41 Qh8+ Ke7 42 Qe5+ Kd7
+43 Nxb7 (or f7) Nf4+ 44 Kh2 Qf1 (!) forcing the draw.}
+39.Qxf6+ 1-0

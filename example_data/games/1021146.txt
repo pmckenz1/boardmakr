@@ -1,0 +1,19 @@
+[Event "ANU Carbon v Silicon Match"]
+[Site "Canberra B2"]
+[Date "1994.07.15"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Chess Genius (Computer)"]
+[Black "Matthias Roeder"]
+[ECO "B92"]
+[WhiteElo "2345"]
+[BlackElo "2430"]
+[PlyCount "57"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. O-O O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8
+12. a5 Qc7 13. Rfd1 Nc5 14. Nxc5 dxc5 15. Nd5 Bxd5 16. exd5
+Ne4 17. Qd3 f5 18. d6 Nxd6 19. Qd5+ Nf7 20. Qe6 Rcd8 21. Rxd8
+Bxd8 22. Qxf5 Qe7 23. Bd3 g6 24. Qe4 Kg7 25. Qd5 Bc7 26. Bxc5
+Bd6 27. Bb6 Ng5 28. Bc4 Bb8 29. Bc5 1-0

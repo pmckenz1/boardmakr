@@ -1,0 +1,23 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vytautas Barsauskas"]
+[Black "Aivars Gipslis"]
+[ECO "A54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 d6 4.d4 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Be2
+c6 8.O-O a6 9.c5 exd4 10.cxd6 Bxd6 11.Qxd4 Bc5 12.Qd2 h6
+13.Bh4 Qe7 14.Rad1 Re8 15.Bd3 Ne5 16.Nxe5 Qxe5 17.Bxf6 Qxf6
+18.Ne4 Qe7 19.Nxc5 Qxc5 20.Qc2 Qxc2 21.Bxc2 Be6 22.a3 Kf8
+23.f3 Ke7 24.Kf2 c5 25.Be4 Rab8 26.Bd5 Red8 27.Bxe6 Kxe6
+28.Ke2 b5 29.Rc1 c4 30.Rc3 Rd6 31.Rfc1 Rbd8 32.R1c2 Rd3 33.a4
+f5 34.axb5 axb5 35.h3 R8d6 36.g4 fxg4 37.hxg4 b4 38.Rxc4 b3
+39.R2c3 Rd2+ 40.Ke1 Rxb2 41.Rc6 Rxc6 42.Rxc6+ Kd5 43.Rb6 Kc4
+44.Kd1 Rf2 45.Kc1 Rxf3 46.Rg6 Rf1+ 47.Kb2 Rf2+ 48.Kb1 Kc3
+49.Rc6+ Kd3 50.Rb6 Kxe3 51.Rxb3+ Kf4 0-1

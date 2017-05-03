@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.25"]
+[EventDate "1905.08.14"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Johann Nepomuk Berger"]
+[Black "Heinrich Wolf"]
+[ECO "D60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 O-O
+7. Bd3 dxc4 8. Bxc4 a6 9. a4 c5 10. O-O Nb6 11. Ba2 cxd4
+12. exd4 Nbd5 13. Nxd5 Nxd5 14. Bxe7 Nxe7 15. Qb3 Qd6 16. Rfd1
+b6 17. Ne5 Bb7 18. Nc4 Qd5 19. Qh3 Qc6 20. Ne5 Qd6 21. Rac1
+Rac8 22. Bb1 f5 23. Ba2 Bd5 24. Bxd5 Nxd5 25. Qb3 Nf4 26. Rxc8
+Rxc8 27. Kf1 Qd5 28. Qxd5 Nxd5 1/2-1/2

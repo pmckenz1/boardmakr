@@ -1,0 +1,23 @@
+[Event "Nabereznye Chelny"]
+[Site "04"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Norik Kalantarian"]
+[Black "A Andreev"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Bg7 6.e4 Nb6 7.Be3
+O-O 8.h3 Nc6 9.Nf3 Na5 10.Qc1 Re8 11.b3 e5 12.dxe5 Nc6 13.Bg5
+Qd7 14.Bb5 a6 15.Bxc6 Qxc6 16.O-O Nd7 17.Nd5 Nxe5 18.Nxe5 Qxc1
+19.Raxc1 Bxe5 20.Rxc7 Bxc7 21.Nxc7 Be6 22.Rc1 Kf8 23.Nxa8 Rxa8
+24.Rc7 b5 25.Rc6 b4 26.Rb6 a5 27.f3 h5 28.h4 Ke8 29.Kf1 Kd7
+30.Bf4 Kc8 31.Ke2 Ra7 32.Kd3 Rd7+ 33.Bd6 Rb7 34.Ra6 Kd7 35.Bf4
+Rb5 36.Kd4 f6 37.Bd6 a4 38.bxa4 Rb7 39.Bc5 Bxa2 40.Rxf6 Be6
+41.Rxg6 Rb8 42.Ke5 b3 43.Ba3 Re8 44.Rg5 Bf7 45.Kd4 Ra8 46.a5
+Re8 47.Rc5 Rg8 48.a6 Ra8 49.Ra5 Kc6 50.a7 Kb6 51.Rf5 Bg8
+52.Rf8 1-0

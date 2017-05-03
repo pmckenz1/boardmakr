@@ -1,0 +1,19 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Karen Ashotovich Grigorian"]
+[Black "Vladimir Bagirov"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O e6
+8.Qc2 b6 9.Rd1 Bb7 10.e4 dxe4 11.Nxe4 Nxe4 12.Qxe4 Nd7 13.Bg5
+Qc7 14.Qh4 c5 15.Be7 Rfe8 16.d5 Bxb2 17.Ng5 Nf8 18.d6 Qd7
+19.Rab1 Bg7 20.Bxf8 Kxf8 21.Nxh7+ Kg8 22.Rb3 e5 23.Ng5 Rad8
+24.Bg4 Qc6 25.Qh7+ Kf8 26.Rf3 Qc7 27.Rf6 Bxf6 28.dxc7 Rxd1+
+29.Bxd1 Bxg5 30.Ba4 1-0

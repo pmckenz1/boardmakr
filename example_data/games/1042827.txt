@@ -1,0 +1,16 @@
+[Event "Zurich Candidates"]
+[Site "Zurich SUI"]
+[Date "1953.10.21"]
+[EventDate "1953.08.30"]
+[Round "29"]
+[Result "1/2-1/2"]
+[White "Gideon Stahlberg"]
+[Black "Max Euwe"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Bb4 6. Rc1 h6
+7. Bxf6 Qxf6 8. e3 O-O 9. Be2 d6 10. O-O Bxc3 11. Rxc3 Nd7
+12. Nd2 e5 13. Bf3 Bxf3 14. Nxf3 1/2-1/2

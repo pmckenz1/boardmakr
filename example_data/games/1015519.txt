@@ -1,0 +1,19 @@
+[Event "Ch Europe (team)"]
+[Site "Kapfenberg AUT"]
+[Date "1970.05.12"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Rafael Mari Sancho"]
+[Black "Andras Adorjan"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 g6 2.d4 Bg7 3.c3 d6 4.g3 Nf6 5.Bg2 O-O 6.Ne2 Nc6 7.O-O e5
+8.f3 Bd7 9.g4 d5 10.g5 Nh5 11.exd5 Ne7 12.dxe5 Bxe5 13.f4 Bd6
+14.Nd2 Bg4 15.Ne4 Nf5 16.Qd3 Re8 17.Bf3 Bxf3 18.Rxf3 c6 19.c4
+Qb6+ 20.Kf1 Rad8 21.N2c3 Bb4 22.Bd2 Bf8 23.c5 Bxc5 24.Na4 Rxd5
+25.Nxb6 Rxd3 26.Rxd3 Rxe4 27.Rd8+ Kg7 28.Nd7 Be3 29.Bc3+ Bd4
+30.Bd2 1/2-1/2

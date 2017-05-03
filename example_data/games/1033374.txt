@@ -1,0 +1,22 @@
+[Event "10s, Buenos Aires FMDA tt"]
+[Site "10s, Buenos Aires FMDA tt Hiarcs 7.32"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Pablo German"]
+[Black "Fernando Braga"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6
+bxc6 7. e5 Nd5 8. Ne4 Qc7 9. f4 Qb6 10. c4 Bb4+ 11. Ke2 Ba6
+12. Kf3 f5 13. Nf2 Ne7 14. Be3 Bc5 15. Bxc5 Qxc5 16. Qd6 Qb6
+17. b3 c5 18. Rd1 g5 19. Qxd7+ Kf7 20. Rd6 Bc8 21. Rxb6 Bxd7
+22. Rd6 Bc6+ 23. Ke2 Rad8 24. fxg5 Rxd6 25. exd6 Ng6 26. Nd3
+Rd8 27. h4 Rxd6 28. h5 Nf8 29. Nxc5 e5 30. Rh3 Ke7 31. Nd3 f4
+32. Kf2 Ke6 33. g4 Rd4 34. Bg2 f3 35. Bxf3 Rxd3 36. Bd5+ Rxd5
+37. cxd5+ Bxd5 38. Rc3 Kd7 39. Rc5 Be6 40. Rxe5 Bxg4 41. g6
+hxg6 42. hxg6 Ne6 43. g7 1-0

@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "1-0"]
+[White "Hannes Stefansson"]
+[Black "Sigurdur Dadi Sigfusson"]
+[ECO "C84"]
+[WhiteElo "2566"]
+[BlackElo "2215"]
+[PlyCount "65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. a4 b4 9. d3 d6 10. c3 Rb8 11. a5 Bg4 12. Bc4
+bxc3 13. bxc3 Nxa5 14. Rxa5 Rxb1 15. Rxa6 Qc8 16. d4 d5
+17. exd5 e4 18. Qc2 exf3 19. Qxb1 Bd6 20. Qd3 fxg2 21. Ba3 Bf5
+22. Qe2 Re8 23. Qd1 Rxe1+ 24. Qxe1 Bf4 25. Qe7 h5 26. Rxf6
+gxf6 27. d6 cxd6 28. Bxf7+ Kh8 29. Qxf6+ Kh7 30. Bxh5 Qd7
+31. Bf3 Qb5 32. Kxg2 Qd3 33. Qh4+ 1-0

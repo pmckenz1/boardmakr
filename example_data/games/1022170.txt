@@ -1,0 +1,20 @@
+[Event "URS-sf RUS-ch Gor"]
+[Site "URS-sf RUS-ch Gor"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Gennady Tunik"]
+[ECO "A73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.Nf3 g6 7.e4
+Bg7 8.Be2 O-O 9.O-O Na6 10.Bf4 Ne8 11.h3 Nac7 12.Qd2 Qe7
+13.Rfe1 a6 14.a4 Rb8 15.Bf1 f6 16.Rab1 g5 17.Bg3 g4 18.hxg4
+Bxg4 19.Nh4 b5 20.b4 cxb4 21.Rxb4 a5 22.Rbb1 b4 23.Ne2 f5
+24.f3 f4 25.Bf2 Bd7 26.Nd4 Qg5 27.Rec1 Ra8 28.Rc6 Bxc6 29.dxc6
+d5 30.Nhf5 dxe4 31.fxe4 Kh8 32.Nf3 Qg6 33.Qxf4 Qxc6 34.Rc1 Ne6
+35.Qd2 Qxe4 36.Nd6 Nxd6 37.Qxd6 0-1

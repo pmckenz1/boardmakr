@@ -1,0 +1,25 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Vasily Chichkin"]
+[Black "Leonid Kernazhitsky"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. d5 Na6 8. Bg5 h6 9. Bh4 g5 10. Bg3 Nh5 11. h4 Nxg3 12. fxg3
+gxh4 13. Nxh4 Qg5 14. O-O Nc5 15. Kh2 f5 16. exf5 Bxf5
+17. Nxf5 Rxf5 18. Rxf5 Qxf5 19. Qd2 a5 20. Rf1 Qg6 21. Qe3 Re8
+22. Bd1 Qd3 23. Qxd3 Nxd3 24. Ne4 Rf8 25. Rxf8+ Bxf8 26. b3
+Kg7 27. Kg1 Be7 28. Bc2 Nb4 29. Bb1 c6 30. a3 Na6 31. Kf2 Nc7
+32. Nc3 Bg5 33. dxc6 bxc6 34. Be4 Bc1 35. Bxc6 Bxa3 36. Bf3
+Bc5+ 37. Kf1 Ne6 38. Nb5 Ng5 39. Bd5 Kf6 40. Nc3 Kf5 41. Ke2
+e4 42. Bc6 Ke5 43. Nb5 Ne6 44. Bd7 Bb4 45. Bxe6 Kxe6 46. Nd4+
+Ke5 47. Nc6+ Kf5 48. Nd4+ Kg4 49. Ke3 Kxg3 50. Nf5+ Kxg2
+51. Nxh6 Kf1 52. Nf5 Ke1 53. Kxe4 Kd2 54. Kd5 Kc3 55. Nxd6
+Kxb3 56. c5 a4 57. Nc4 1/2-1/2

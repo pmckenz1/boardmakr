@@ -1,0 +1,15 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.27"]
+[EventDate "1923.11.16"]
+[Round "7"]
+[Result "1-0"]
+[White "Rudolf Spielmann"]
+[Black "Theodor Gruber"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. a3 dxe4 6. Bb5+ Kf8
+7. axb4 cxd4 8. Nxe4 Qd5 9. Bd3 f5 10. Ra5 1-0

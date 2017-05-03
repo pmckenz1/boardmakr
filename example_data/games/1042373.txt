@@ -1,0 +1,16 @@
+[Event "Amsterdam/Karlsbad m ;HCL 28"]
+[Site "Amsterdam/Karlsbad m ;HCL 28"]
+[Date "1932.03.31"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Salomon Flohr"]
+[Black "Max Euwe"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 d5 6. cxd5
+Nxd5 7. Ndb5 Nxc3 8. Qxd8+ Kxd8 9. Nxc3 Bg7 10. Bd2 Be6 11. g3
+Nd7 12. Bg2 Rc8 13. Rc1 Kc7 14. O-O Kb8 15. Rfd1 Rhd8 1/2-1/2

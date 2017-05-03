@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.28"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Turhan Yilmaz"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.O-O O-O 6.b3 d6 7.Bb2 e6
+8.Nbd2 a5 9.a3 Nc6 10.Re1 Ne4 11.Nc4 Ne7 12.Nfd2 a4 13.b4 Bd7
+14.Ne3 d5 15.Nxe4 fxe4 16.c4 Nf5 17.Nxf5 gxf5 18.cxd5 exd5
+19.Bc1 f4 20.Bxf4 Rxf4 21.gxf4 Qh4 22.e3 Ra6 23.f3 Rh6 24.h3
+Bxh3 25.Ra2 exf3 26.Bxf3 Qg3+ 27.Bg2 Bg4 28.Ree2 Bf3 29.Qf1
+Bxe2 30.Rxe2 Rc6 31.Qe1 Qg4 1/2-1/2

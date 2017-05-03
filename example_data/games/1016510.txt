@@ -1,0 +1,17 @@
+[Event "It (cat.11)"]
+[Site "Esbjerg (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "William Nicholas Watson"]
+[Black "Andras Adorjan"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6
+7.Qe2 Nb6 8.Bb3 h6 9.N5f3 c5 10.Bf4 Nfd5 11.Be5 c4 12.Bxc4
+Bb4+ 13.Kf1 Nxc4 14.Qxc4 O-O 15.Qd3 Be7 16.Ne2 a5 17.a4 Nb4
+1/2-1/2

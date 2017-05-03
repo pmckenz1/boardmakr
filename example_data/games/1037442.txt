@@ -1,0 +1,21 @@
+[Event "USA op"]
+[Site "Chicago, IL USA"]
+[Date "1973.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Richard L Borgen"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 d6 2.Nc3 g6 3.g3 Bg7 4.Bg2 c5 5.d3 Nc6 6.Nh3 e6 7.O-O
+Nge7 8.Be3 O-O 9.Qd2 Nd4 10.Bh6 Rb8 11.Bxg7 Kxg7 12.f4 f5
+13.Rae1 b5 14.Nd1 b4 15.Ne3 Qd7 16.g4 Bb7 17.c3 bxc3 18.bxc3
+Nb5 19.Qf2 Rfe8 20.gxf5 exf5 21.Nc4 Ba8 22.Qc2 Nc6 23.Re3 Nc7
+24.Rfe1 d5 25.exd5 Nxd5 26.R3e2 Rxe2 27.Rxe2 Re8 28.Rxe8 Qxe8
+29.Qd2 Nd8 30.Ne5 Nf7 31.d4 Nf6 32.Ng5 Nxg5 33.fxg5 Ne4 34.Qc1
+Qa4 35.Bxe4 Bxe4 36.Qd2 Bd5 37.c4 Bxc4 38.dxc5 Qb5 39.Qd6 Qb1+
+40.Kf2 Qf1+ 41.Ke3 Qe2+ 42.Kd4 Qe4+ 43.Kc3 Bf7 44.Qf6+ 1-0

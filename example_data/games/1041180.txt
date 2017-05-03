@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1960.04.13"]
+[EventDate "1960.03.29"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Rodolfo Argentino Redolfi"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.dxe5 Nxb5
+7.a4 Nbd4 8.Nxd4 Nxd4 9.Qxd4 d5 10.Nc3 c6 11.Ne2 Be7 12.c3 O-O
+13.Be3 Qc7 14.a5 Be6 15.b4 Rfc8 16.Rfb1 Qd8 17.Qf4 b6 18.axb6
+axb6 19.Rxa8 Rxa8 20.Nd4 c5 21.Nc6 Qd7 22.Nxe7+ Qxe7 23.bxc5
+bxc5 1/2-1/2

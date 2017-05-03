@@ -1,0 +1,24 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Alexander Zubarev"]
+[Black "Vladislav Borovikov"]
+[ECO "C05"]
+[WhiteElo "2476"]
+[BlackElo "2472"]
+[PlyCount "108"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7
+12. h3 O-O 13. Be3 Bd7 14. Nc3 a6 15. Rc1 Rae8 16. a3 Qb8
+17. Na4 Re7 18. Nb6 Be8 19. Ne5 Bc7 20. Nxc6 Bxc6 21. Na4 Bh2+
+22. Kh1 Bf4 23. Nc5 Bxe3 24. fxe3 Qd6 25. Qe1 Ref7 26. Kg1 Nd7
+27. Rxf7 Rxf7 28. Qh4 h6 29. Nxd7 Qxd7 30. Qg3 Qc7 31. Qxc7
+Rxc7 32. b4 Rc8 33. a4 Bd7 34. Rxc8+ Bxc8 35. a5 Bd7 36. Kf2
+Kf7 37. e4 Bc6 38. Ke3 dxe4 39. Bxe4 Bd5 40. h4 Kf6 41. Kf4
+g5+ 42. hxg5+ hxg5+ 43. Ke3 Ke7 44. g3 Kd6 45. Kd3 Kc6 46. Bg6
+Kb5 47. Kc3 Ka4 48. Be8+ Ka3 49. Bd7 Ka2 50. b5 Ka3 51. b6 Ba2
+52. Be8 Bd5 53. Bd7 Ba2 54. Bc6 Bd5 1/2-1/2

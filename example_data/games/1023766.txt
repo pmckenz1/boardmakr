@@ -1,0 +1,16 @@
+[Event "08, Podolsk"]
+[Site "08, Podolsk"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Giorgi Giorgadze"]
+[Black "Vladimir Bagirov"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.d4 e6 5.O-O Ngf6 6.b3 Bd6 7.c4
+c6 8.Bb2 Qe7 9.Ne5 Bf5 10.Nxd7 Nxd7 11.Nd2 O-O 12.e4 dxe4
+13.Nxe4 Ba3 14.Bc3 Bb4 15.Bb2 1/2-1/2

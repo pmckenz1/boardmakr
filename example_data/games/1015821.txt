@@ -1,0 +1,16 @@
+[Event "Amsterdam IBM"]
+[Site "Amsterdam NED"]
+[Date "1977.07.02"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Hans Ree"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 a6 7.g5
+Nfd7 8.h4 b5 9.a3 Bb7 10.Rg1 Nc5 11.f3 Nc6 12.Nxc6 Bxc6 13.Qd4
+e5 14.Qf2 Qb6 1/2-1/2

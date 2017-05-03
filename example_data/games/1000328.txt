@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.29"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Anatoly Lein"]
+[Black "Stanislav Ritvin"]
+[ECO "C18"]
+[WhiteElo "2501"]
+[BlackElo "2273"]
+[PlyCount "66"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7
+7. Qg4 O-O 8. Nf3 Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Ne5 cxd4
+12. cxd4 Qa5+ 13. Bd2 Qa4 14. Qh3 Qxd4 15. Qxh7+ Kf8 16. Qh8+
+Ng8 17. Nxc6 Qxf2+ 18. Kd1 bxc6 19. Bh7 Qxg2 20. Re1 Ke7
+21. Bxg8 Ba6 22. Kc1 c5 23. Rb1 d4 24. Rb3 d3 25. cxd3 Kd6
+26. d4 cxd4 27. Rb2 Kd7 28. Qh4 Qc6+ 29. Rc2 Qa4 30. Bxe6+
+(30. Bb4) 30... Rxe6 31. Rxe6 Qxa3+ 32. Kd1 Qf3+ 33. Ke1 Qf1#
+0-1

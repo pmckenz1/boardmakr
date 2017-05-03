@@ -1,0 +1,28 @@
+[Event "Extra League 1997/98, Czech Republic"]
+[Site "Extra League 1997/98, Czech Republic"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Karel Mokry"]
+[Black "Lubomir Ftacnik"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nc6
+7. Nf3 e6 8. Bd3 b5 9. O-O Be7 10. Qe2 Bb7 11. Kh1 Nd7 12. Be3
+Nb4 13. Bd4 O-O 14. Qf2 Nxd3 15. cxd3 b4 16. Nd1 e5 17. fxe5
+dxe5 18. Nxe5 Nxe5 19. Bxe5 Qxd3 20. Ne3 Bxe4 21. Bxg7 Kxg7
+22. Qg3+ Kh8 23. Qe5+ f6 24. Qxe7 Rae8 25. Qc5 Rg8 26. Rf2 Rg5
+27. Qb6 Qxe3 28. Qxe3 Bxg2+ 29. Rxg2 Rxe3 30. Rf2 Kg7 31. Raf1
+Re6 32. Rf4 a5 33. h4 Rg3 34. R1f2 Rge3 35. Kg2 R3e4 36. Kf3
+Rxf4+ 37. Kxf4 Rc6 38. Rd2 Rc4+ 39. Kg3 Rc5 40. Rd7+ Kg6
+41. Ra7 h5 42. Kf4 Rf5+ 43. Ke4 Re5+ 44. Kf4 Rb5 45. b3 Rf5+
+46. Ke4 Rf2 47. Rxa5 Rh2 48. a4 bxa3 49. Rxa3 Rxh4+ 50. Kf3
+Rb4 51. Kg2 f5 52. Kf2 Kg5 53. Kg2 Kf4 54. Kf2 h4 55. Ra1 Rxb3
+56. Ra4+ Kg5 57. Kg2 Rg3+ 58. Kh2 Re3 59. Kg2 Re4 60. Ra8 Kg4
+61. Rg8+ Kf4 62. Kf2 Rd4 63. Rh8 Rd2+ 64. Kg1 Kg3 65. Rg8+ Kf3
+66. Rh8 f4 67. Ra8 Re2 68. Ra3+ Re3 69. Ra8 Re1+ 70. Kh2 Kf2
+71. Ra2+ Re2 72. Ra1 f3 73. Rb1 Rd2 74. Kh3 Ke2 75. Rb8 f2 0-1

@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Toolsidas Dhruv"]
+[Black "William T Townsend"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. a3 Ba6 5. Nc3 Bxc4 6. e4 Bxf1
+7. Kxf1 d5 8. e5 Nfd7 9. g3 Be7 10. Kg2 c5 11. h4 Nc6 12. Re1
+O-O 13. dxc5 bxc5 14. Bf4 Nb6 15. Rh1 f6 16. Ng5 fxg5 17. hxg5
+Bxg5 18. Qh5 h6 19. Qg4 Rf5 20. Rae1 Qe7 21. Nb5 Nc4 22. Nd6
+Nxd6 23. exd6 Qf6 24. Bxg5 Rxg5 25. Qa4 Nd4 26. Re3 Rf8
+27. Rf1 Rf5 28. f4 e5 29. d7 exf4 30. Re8 Qg5 31. Rxf8+ Rxf8
+32. Rxf4 Rxf4 33. d8=Q+ Qxd8 34. gxf4 Qe7 35. Kg3 Qe3+ 36. Kg2
+Qf3+ 37. Kh2 Qxf4+ 38. Kg2 Qg4+ 39. Kh1 Qe4+ 0-1

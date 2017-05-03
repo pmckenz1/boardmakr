@@ -1,0 +1,21 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Stanimir Nikolic"]
+[ECO "D67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.Ne4 N5f6 12.Nxf6+
+Qxf6 13.O-O e5 14.d5 Nb6 15.dxc6 e4 16.Nd4 bxc6 17.Be2 Bd7
+18.Bg4 Rac8 19.Bxd7 Nxd7 20.Qg4 Nb6 21.Qxe4 c5 22.Nf5 Rfe8
+23.Qc2 Nd5 24.Rfd1 Re5 25.Ng3 Qe7 26.Rd4 g6 27.Rcd1 Nf6 28.Rd6
+h5 29.h3 h4 30.Nf1 g5 31.Nh2 Rb8 32.Nf3 Re6 33.Rxe6 Qxe6
+34.Nxg5 Qxa2 35.Qxc5 Rxb2 36.Qf5 Rb6 37.Nf3 Nh7 38.Nxh4 Rf6
+39.Qg4+ 1-0

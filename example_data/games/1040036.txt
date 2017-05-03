@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Lev Gutman"]
+[ECO "D92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.c4 Nf6 2.Nc3 d5 3.d4 g6 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 dxc4 7.e4
+c5 8.dxc5 Qa5 9.e5 Rd8 10.Bd2 Ng4 11.Bxc4 Qxc5 12.Ne4 Qb6
+13.Bxf7+ Kxf7 14.Rxc8 Rxc8 15.Nfg5+ Kg8 16.Qxg4 Qc6 17.Nd6 Qd7
+18.Qh4 h6 19.Nxc8 hxg5 20.Qc4+ e6 21.Nd6 Bxe5 22.Ne4 Nc6
+23.O-O Bxb2 24.Bxg5 Qd5 25.Qc2 Bg7 26.Nf6+ Bxf6 27.Bxf6 Kf7
+28.Rd1 Qf5 29.Qb2 b6 30.Rd7+ Ke8 31.Rc7 1-0

@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Antje Goehler"]
+[Black "Eliska Klimova-Richtrova"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 O-O 8. Be3 b6 9. Rc1 e6 10. Bd3 Bb7 11. Qc2 Qe7
+12. O-O c5 13. Rfd1 Nd7 14. Bg5 f6 15. Be3 f5 16. Bg5 Qf7
+17. e5 h6 18. Be3 g5 19. Ne1 Rac8 20. Qb3 f4 21. Bd2 Rfd8
+22. Bc4 Nf8 23. Nc2 Qf5 24. f3 h5 25. Be1 g4 26. Bh4 gxf3
+27. Bxd8 Rxd8 28. dxc5 Rxd1+ 29. Rxd1 Bxe5 30. Bxe6+ Nxe6
+31. Rd8+ Kh7 32. Rd7+ Ng7 33. Rxb7 fxg2 34. Qf7 Qg4 35. Qd7
+Qe2 36. Qf5+ Kh6 37. Rxg7 Qf1# 0-1

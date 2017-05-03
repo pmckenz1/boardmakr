@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Imre Korody Keresztely"]
+[Black "Gyula Lovas"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. e3 Ne4
+7. Bxe7 Qxe7 8. cxd5 Nxc3 9. bxc3 exd5 10. Bd3 Nd7 11. O-O b6
+12. Qa4 Bb7 13. Ba6 Bxa6 14. Qxa6 c5 15. a4 c4 16. Rfb1 Rfb8
+17. Rc1 1/2-1/2

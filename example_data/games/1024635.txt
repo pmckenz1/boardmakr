@@ -1,0 +1,18 @@
+[Event "Tyskland"]
+[Site "Tyskland"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Viktor Korchnoi"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Nbd2 O-O 11.Bc2 f5 12.Nb3 Qd7
+13.Nbd4 Nxd4 14.Nxd4 c5 15.Nxe6 Qxe6 16.f3 Ng5 17.a4 g6
+18.Bxg5 Bxg5 19.f4 Be7 20.Qf3 b4 21.Rfe1 Rfd8 22.cxb4 c4
+23.Rad1 1/2-1/2

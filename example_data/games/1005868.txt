@@ -1,0 +1,23 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.22"]
+[EventDate "2000.01.21"]
+[Round "2"]
+[Result "0-1"]
+[White "Clemens Werner"]
+[Black "Alfonso Romero Holmes"]
+[ECO "B50"]
+[WhiteElo "2314"]
+[BlackElo "2483"]
+[PlyCount "98"]
+
+1. e4 c5 2. Nf3 d6 3. g3 Nc6 4. Bg2 Nf6 5. Nc3 Bg4 6. h3 Bxf3
+7. Qxf3 g6 8. d3 Bg7 9. O-O O-O 10. Nd5 Nd7 11. c3 b5 12. Qe2
+b4 13. Qc2 e6 14. Ne3 Qa5 15. Bd2 Nb6 16. f4 Qa4 17. Rfc1 Rfc8
+18. Rab1 Qxc2 19. Rxc2 Rab8 20. Kf1 a5 21. Rd1 a4 22. Ke1 a3
+23. b3 bxc3 24. Bxc3 Bxc3+ 25. Rxc3 Nb4 26. Ra1 d5 27. Nc2 d4
+28. Nxb4 cxb4 29. Rxc8+ Rxc8 30. Kd2 e5 31. h4 Rc3 32. Bh3 f6
+33. Rf1 Rc6 34. Rc1 Rxc1 35. Kxc1 Kf7 36. Kd2 exf4 37. gxf4 h6
+38. Bg4 Ke7 39. Bd1 Na8 40. Bg4 Nc7 41. Kc2 Nb5 42. Kb1 Nc3+
+43. Ka1 g5 44. hxg5 hxg5 45. f5 Kd6 46. Bf3 Ke5 47. Bg4 Kf4
+48. Bh5 Nb5 49. Be8 Nd6 0-1

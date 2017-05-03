@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Gennadi Zaichik"]
+[Black "Andrei Zaremba"]
+[ECO "D77"]
+[WhiteElo "2588"]
+[BlackElo "2345"]
+[PlyCount "62"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. c4 dxc4
+7. Na3 c5 8. Nxc4 Na6 9. dxc5 Nxc5 10. Be3 Nce4 11. Nd4 a6
+12. Rc1 Nd6 13. Nxd6 Qxd6 14. Nb3 Ne8 15. Na5 Qb4 16. Nc4 Be6
+17. a3 Qb5 18. a4 Qb4 19. Bd2 Qc5 20. Be3 Qb4 21. Bd2 Qc5
+22. Be3 Qb4 23. Nb6 Rb8 24. b3 Nf6 25. Bc5 Qg4 26. Bxe7 Rfe8
+27. Rc7 a5 28. Bf3 Qh3 29. Bg2 Qg4 30. Bf3 Qh3 31. Bg2 Qg4
+1/2-1/2

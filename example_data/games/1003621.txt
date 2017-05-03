@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.08.27"]
+[EventDate "1907.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Adolf Georg Olland"]
+[Black "Jacques Mieses"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd3 Nc6 6. Nge2
+Bg4 7. f3 Bh5 8. Bd2 e5 9. O-O O-O-O 10. dxe5 Nxe5 11. Nf4 Bg6
+12. Ncd5 Qc5+ 13. Be3 Nxd5 14. Bxc5 Bxc5+ 15. Kh1 Nxf4 16. g3
+Nfxd3 17. cxd3 Bxd3 18. Qc1 Bb6 19. Qg5 Bxf1 20. Rxf1 Nd3
+21. Qxg7 h5 22. Qxf7 h4 23. gxh4 Nf2+ 24. Rxf2 Bxf2 25. h5
+Rhg8 26. Qe6+ Kb8 27. h4 Bc5 28. f4 Rd1+ 29. Kh2 Bg1+ 30. Kh1
+Be3+ 31. Kh2 Bxf4+ 32. Kh3 Rh1# 0-1

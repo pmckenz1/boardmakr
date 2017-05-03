@@ -1,0 +1,17 @@
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Gennadij Sagalchik"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Ne2 d5 7.cxd5
+cxd4 8.exd4 Nxd5 9.O-O Nc6 10.a3 Be7 11.Bc2 b6 12.Qd3 g6
+13.Bh6 Re8 14.Qf3 Bb7 15.Be4 Nxc3 16.bxc3 Qd7 17.Qe3 Na5
+1/2-1/2

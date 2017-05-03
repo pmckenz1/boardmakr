@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.13"]
+[EventDate "1920.08.02"]
+[Round "9"]
+[Result "1-0"]
+[White "Heinrich von Hennig"]
+[Black "Anton Olson"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.O-O b5 7.Bb3
+d6 8.a4 b4 9.Nd5 O-O 10.Re1 Rb8 11.c3 Kh8 12.h3 Nxd5 13.Bxd5
+Na5 14.d4 c6 15.Ba2 Qc7 16.cxb4 Rxb4 17.Bd2 Rxb2 18.Bc3 Rb8
+19.dxe5 Rd8 20.Qd2 Nb7 21.exd6 Bxd6 22.Bxg7+ Kxg7 23.Qg5+ Kf8
+24.e5 Be7 25.Qh6+ Kg8 26.Bb1 f5 27.exf6 Bf8 28.Ba2+ Kh8 29.Qg5
+Rd5 30.Bxd5 cxd5 31.Re7 Qc2 32.Re8 1-0

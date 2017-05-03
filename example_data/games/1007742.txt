@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.05"]
+[EventDate "1927.06.26"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Carl Ahues"]
+[Black "Lajos Steiner"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. c4 Be7 5. Nc3 O-O 6. Bd3 dxc4
+7. Bxc4 c5 8. O-O Nbd7 9. Qe2 a6 10. dxc5 Bxc5 11. a3 b5
+12. Bd3 Qc7 13. Bd2 Bb7 14. Rac1 Bxf3 15. gxf3 Ne5 16. Ne4
+Nxd3 17. Nxf6+ gxf6 18. Qxd3 Rad8 19. Qc3 Qb7 20. Qxc5 Rxd2
+21. Qc3 Qxf3 22. Qxd2 Kh8 23. Rfd1 Qh3 24. Qd6 Rg8+ 25. Qg3
+1/2-1/2

@@ -1,0 +1,28 @@
+[Event "USSR Championship"]
+[Site "Baku AZE"]
+[Date "1972.11.18"]
+[EventDate "1972.11.17"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Vladimir Borisovich Tukmakov"]
+[Black "Yuri Balashov"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "160"]
+
+1.Nf3 d5 2.d4 c5 3.c4 e6 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O
+Be7 8.Nc3 O-O 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.Rc1 Bf8
+13.Nxc6 bxc6 14.Na4 Bd7 15.Bc5 Ne4 16.Bxf8 Kxf8 17.Re1 Qe7
+18.Qd4 Qe5 19.Qxe5 Rxe5 20.f3 Nd6 21.Nc5 Be8 22.Kf2 Rb8 23.b3
+a5 24.Red1 Nb5 25.f4 Re7 26.e4 dxe4 27.Nxe4 a4 28.bxa4 Nc7
+29.Rd2 Nd5 30.Nd6 Bd7 31.Nc4 f6 32.Na5 Rb6 33.Rc5 g5 34.Nxc6
+Bxc6 35.a5 Ra6 36.Bf1 Raa7 37.Rxc6 Rxa5 38.Bc4 Nc3 39.Kf3 Kg7
+40.Rc8 f5 41.Bb3 Ne4 42.Rdc2 Raa7 43.R8c6 Rad7 44.Be6 Rd3+
+45.Kg2 Nd6 46.Rc7 Rxc7 47.Rxc7+ Kf6 48.Bb3 Rd2+ 49.Kg1 gxf4
+50.gxf4 Nb5 51.Rc2 Rd4 52.Rc5 Na3 53.Ra5 Nb1 54.Ra6+ Kg7
+55.Ra4 Rd2 56.Rc4 Re2 57.Rc2 Re4 58.Rc4 Re2 59.Rc2 Re4 60.Rc7+
+Kf6 61.Rc6+ Kg7 62.Bc2 Rd4 63.Bxf5 Nd2 64.Rg6+ Kf7 65.Rxh6
+Rxf4 66.Be6+ Kg7 67.Rh5 Kf6 68.Bd5 Nc4 69.Rh3 Ke5 70.Bg8 Nd2
+71.Kg2 Ne4 72.Bb3 Rf2+ 73.Kg1 Rb2 74.Rf3 Nd2 75.Rc3 Kd4 76.Rc2
+Rb1+ 77.Kg2 Nxb3+ 78.axb3 Rxb3 79.Re2 Kd5 80.h4 Kd6 1/2-1/2

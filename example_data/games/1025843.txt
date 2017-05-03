@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Naestved (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Jonny Hector"]
+[Black "Gerardo F Barbero"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6
+7.N1f3 Bd6 8.Qe2 h6 9.Ne4 Nxe4 10.Qxe4 Nf6 11.Qh4 Bd7 12.Bd2
+Qe7 13.Ne5 O-O-O 14.f4 c5 15.Ba5 Bc7 16.Bxc7 Kxc7 17.dxc5 Qxc5
+18.Qg3 Be8 19.O-O-O g5 20.Nxf7 Bxf7 21.fxg5 Rd6 22.gxf6 Rg8
+23.Qh3 Qg5+ 24.Kb1 Qxf6 25.Rhf1 Qg7 26.Be4 Rxd1+ 27.Rxd1 Qe5
+28.Qd3 Kb8 29.Bxb7 Kxb7 30.Qf3+ Kb6 31.Qf2+ Ka6 32.Qxf7 Rxg2
+33.Qd7 Rg7 34.Qc6+ 1-0

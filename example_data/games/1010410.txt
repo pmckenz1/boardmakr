@@ -1,0 +1,29 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Venkatachalam Saravanan"]
+[Black "Krishnan Sasikiran"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "158"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3
+e6 7. Bc4 Be7 8. O-O O-O 9. d4 Nc6 10. Re1 Bf6 11. Ne4 b6
+12. a3 Bb7 13. Qd3 Re8 14. Nxf6+ gxf6 15. Bb3 Nce7 16. Ba4 Bc6
+17. Bxc6 Nxc6 18. Bh6 Kh8 19. Rac1 Nce7 20. Nh4 Rg8 21. Qf3
+Ng6 22. Nxg6+ Rxg6 23. Bf4 Qd7 24. Be3 Rag8 25. g3 h6 26. Re2
+Kh7 27. Rec2 Rg4 28. h3 R4g6 29. Kh2 Qb5 30. Qe2 Qb3 31. Rc8
+f5 32. Rxg8 Rxg8 33. Qc2 Qxc2 34. Rxc2 h5 35. Bd2 Rd8 36. Kg2
+Rd7 37. Bf4 Kg6 38. Rc4 b5 39. Rc5 b4 40. Be3 bxa3 41. bxa3
+Rb7 42. Bc1 Rb1 43. Kf3 Rb3+ 44. Ke2 Nc3+ 45. Kf1 Ne4 46. Rc7
+a5 47. Kg2 Rd3 48. Rc4 Nc3 49. Be3 Nb1 50. a4 Ra3 51. Rc1 Nc3
+52. Bd2 Nd5 53. Rc4 Ra2 54. Bc1 Nb4 55. Rc8 Kg7 56. Bf4 Rxa4
+57. Be5+ f6 58. Rc7+ Kg6 59. Bd6 Nd5 60. Ra7 f4 61. g4 hxg4
+62. hxg4 f5 63. Kf3 fxg4+ 64. Kxg4 Rxd4 65. Be5 Re4 66. Ba1 a4
+67. Rg7+ Kh6 68. Ra7 Re2 69. Rxa4 Rxf2 70. Re4 Ne3+ 71. Kh3
+Rf1 72. Rxe6+ Kg5 73. Re5+ Kg6 74. Re6+ Kf7 75. Rf6+ Ke7
+76. Kh2 Ng4+ 77. Kg2 Rf2+ 78. Kg1 f3 79. Rf4 Rg2+ 0-1

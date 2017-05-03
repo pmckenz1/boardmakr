@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "St. Petersburg (Russia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Kalle Kiik"]
+[Black "Alisa Galliamova"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.c3 e5 3.Nf3 Nc6 4.Bc4 Qc7 5.O-O Nf6 6.Ng5 Nd8 7.f4
+h6 8.Nf3 exf4 9.e5 Ng8 10.Qe2 Ne7 11.d4 cxd4 12.cxd4 Ng6
+13.Nc3 Ne6 14.Kh1 Bb4 15.Nd5 Qa5 16.a3 Be7 17.Bd2 Qd8 18.Nxe7
+Nxe7 19.d5 Nf8 20.Bxf4 Nfg6 21.Bd2 O-O 22.d6 Nc6 23.Qe4 Kh8
+24.h4 Ngxe5 25.Nxe5 Nxe5 26.Bb3 Ng6 27.Bxf7 Nxh4 28.g3 b5
+29.Qxh4 Bb7+ 30.Kh2 Qb6 31.Bxh6 1-0

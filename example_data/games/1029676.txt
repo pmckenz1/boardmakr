@@ -1,0 +1,22 @@
+[Event "Warsaw"]
+[Site "05"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Pavel Blatny"]
+[Black "Krzysztof Dlugosz"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 d6 6.Bc4 dxe5 7.Nxe5
+e6 8.Qxd4 Nc6 9.Bb5 Bd7 10.Bxc6 Bxc6 11.O-O Nf6 12.Nxc6 bxc6
+13.Qa4 Qc7 14.Bf4 Bd6 15.Bxd6 Qxd6 16.Rd1 Qc7 17.Na3 O-O
+18.Nc4 Rfd8 19.Qa5 Qxa5 20.Nxa5 Rdc8 21.Rd6 c5 22.Rad1 Kf8
+23.Nc4 Rc7 24.Ne5 Nd5 25.Rd7 Rac8 26.Rxc7 Rxc7 27.Nc4 Ke7
+28.f3 Rd7 29.Kf2 Nb6 30.Rxd7+ Nxd7 31.Ke3 Nb8 32.b4 cxb4
+33.cxb4 f6 34.Kd4 Kd7 35.a4 Na6 36.b5 Nb4 37.Ne3 Kd6 38.Kc4
+Na2 39.Nc2 e5 40.Ne3 g6 41.Nd5 f5 42.a5 e4 43.fxe4 fxe4 44.a6
+e3 45.Nxe3 Kc7 46.Nd5+ Kc8 47.b6 axb6 48.Kb5 1-0

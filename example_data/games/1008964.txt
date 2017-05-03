@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Harriet Hunt"]
+[Black "Venkatachalam Saravanan"]
+[ECO "B95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. Be2 Nbd7 8. O-O b5 9. f4 Bb7 10. Bf3 Qc7 11. a3 Be7 12. Kh1
+h6 13. Bxf6 Nxf6 14. e5 dxe5 15. fxe5 Rd8 16. exf6 Bxf6
+17. Bxb7 Qxb7 18. Qf3 Qb6 19. Nde2 O-O 20. Rad1 Be5 21. Rxd8
+Qxd8 22. Nf4 Qb8 23. g3 b4 24. axb4 Qxb4 25. Nd3 1-0

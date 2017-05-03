@@ -1,0 +1,23 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "J B Payne"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5
+5.c3 dxc3 6.Nxc3 Bb4 7.O-O Bxc3 8.bxc3 Nge7 9.e5 h6 10.Ba3 Na5
+11.Bd3 O-O 12.Nh4 Re8 13.f4 Ng6 {Mr Payne was a strong player,
+and probably underrated his opponent, this being one of the
+first set of ten games played by me in Manchester.} 14.Nxg6
+fxg6 15.Bxg6 c6 16.Bxe8 Qxe8 17.Bd6 b6 18.Rf3 Bb7 19.Rg3 c5
+20.Qg4 Qf7 21.f5 Kh7 22.Re1 Rg8 23.e6 dxe6 24.Rxe6 {Better
+than fxe6.} Nc6 25.Bf4 {Threatening Bxh6, and if ...gxh6,
+Rxh6+ and mate follows in 2 moves.} Nd8 26.Rg6 Bc8 27.Qh5 Qf8
+28.f6 Nf7 29.fxg7 Rxg7 30.Bxh6 1-0

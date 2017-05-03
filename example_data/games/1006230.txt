@@ -1,0 +1,17 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Stefan Bergsson"]
+[Black "Olafur Kjartansson"]
+[ECO "B74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Be2 Nf6 6. Nc3 g6
+7. Be3 Bg7 8. O-O O-O 9. Nb3 Ne5 10. f3 Bd7 11. Qd2 Qc8
+12. Bg5 Re8 13. Rad1 Be6 14. Bxf6 Bxf6 15. Nd5 Bxd5 16. Qxd5
+Qxc2 17. Bb5 Reb8 18. Rd2 Qc7 19. f4 1/2-1/2

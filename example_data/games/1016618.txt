@@ -1,0 +1,19 @@
+[Event "Balassagyarmat (Hungary)"]
+[Site "Balassagyarmat HUN"]
+[Date "1990.09.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Thomas Luther"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.c4 e6 2.Nf3 Nf6 3.d4 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3
+7.bxc3 cxd4 8.cxd4 Nc6 9.Bc4 b5 10.Be2 Bb4+ 11.Bd2 Qa5 12.d5
+exd5 13.exd5 Ne7 14.O-O Bxd2 15.Nxd2 O-O 16.Nb3 Qb6 17.d6 Nc6
+18.Rc1 Be6 19.Bf3 Bc4 20.Bxc6 Rad8 21.Qd4 Qxc6 22.Rfd1 Rfe8
+23.Na5 Qb6 24.Qxb6 axb6 25.Nxc4 bxc4 26.d7 Re2 27.a4 Kf8
+28.Kf1 Re7 29.Rxc4 1/2-1/2

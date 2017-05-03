@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG (13)"]
+[Site "Buenos Aires ARG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ricardo Grinberg"]
+[Black "Gerardo F Barbero"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.a4 Bb7 9.d3 d6 10.Bd2 Na7 11.Nc3 b4 12.Nd5 Nxd5 13.exd5
+c5 14.c3 bxc3 15.bxc3 Rc8 16.Bc4 Kh8 17.Rb1 Rc7 18.Qb3 Bc8
+19.h3 Rb7 20.Qc2 f5 21.Rxb7 Bxb7 22.Rb1 Bc8 23.Rb8 h6 24.Qb3
+e4 25.dxe4 fxe4 26.Nh2 Bg5 27.Qc2 Qc7 28.Rb2 Bxd2 29.Qxd2 Bd7
+30.Qe3 Bxa4 31.Qxe4 Bb5 32.Ba2 Re8 33.Qb1 Qa5 34.Qc1 Bd3
+35.Ng4 Nb5 36.Nxh6 gxh6 37.Qxh6+ Kg8 38.Rb4 cxb4 0-1

@@ -1,0 +1,21 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Jan Ambroz"]
+[ECO "E13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7
+7. e3 Bxc3+ 8. bxc3 d6 9. Nd2 Nbd7 10. f3 e5 11. Qa4 O-O
+12. Bd3 Qe8 13. Bxf6 Nxf6 14. Qxe8 Raxe8 15. Kf2 e4 16. Bc2
+Re7 17. Rhe1 Rd8 18. Rab1 Ba6 19. a4 Kf8 20. a5 Bb7 21. Ra1
+Rb8 22. axb6 axb6 23. Ra7 Ke8 24. Rea1 Kd8 25. d5 c6 26. Nxe4
+Nxe4+ 27. Bxe4 cxd5 28. cxd5 Rc7 29. R1a3 Rc5 30. g4 Kc7
+31. h4 b5 32. R3a6 Rc4 33. Rc6+ Kd7 34. Bf5+ Ke8 35. Rb6 Rc7
+36. Bd3 Kd8 37. Bxb5 Kc8 38. Raxb7 1-0

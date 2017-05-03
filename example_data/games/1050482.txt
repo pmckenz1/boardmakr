@@ -1,0 +1,15 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Tibor Tolnai"]
+[Black "Efim Geller"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Nf3 Be7 5.O-O Qc7 6.Bb3 O-O 7.c3
+d5 8.Nbd2 Nbd7 9.Re1 Nc5 10.Bc2 1/2-1/2

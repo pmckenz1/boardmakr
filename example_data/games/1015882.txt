@@ -1,0 +1,20 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1978.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Attila Groszpeter"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.e4 Bg7 6.Be3 Nf6 7.Nc3
+O-O 8.Be2 b6 9.O-O Bb7 10.f3 d6 11.Qd2 Nxd4 12.Bxd4 e6 13.Rad1
+Qe7 14.Qg5 Rfd8 15.Rd2 Rd7 16.Rfd1 Rad8 17.Qh4 Nd5 18.Qxe7
+Bxd4+ 19.Rxd4 Nxe7 20.Nb5 Nc8 21.Kf2 Kf8 22.h4 h6 23.R4d2 Ke7
+24.g3 a6 25.Nc3 Rc7 26.g4 Rg8 27.Bd3 Rf8 28.Re1 Rg8 29.Kg3 Rf8
+30.Rh2 Na7 31.Rhe2 Kf6 32.f4 Nc6 33.Rd2 Nd4 34.Ne2 Nxe2+
+1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Joel Harp"]
+[Black "Theos Rippis"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 g6 2. g3 Bg7 3. Bg2 Nf6 4. c4 d6 5. Nc3 O-O 6. e3 Nbd7
+7. Nge2 e5 8. b3 Re8 9. h3 h5 10. O-O e4 11. Qc2 Qe7 12. a4
+Nf8 13. d5 N8h7 14. Nd4 h4 15. gxh4 a6 16. Bb2 Nh5 17. Qxe4
+Qd8 18. Qc2 Qxh4 19. Nf3 Qe7 20. Rae1 Ng5 21. Nxg5 Qxg5 22. f4
+Qh4 23. Qf2 Ng3 24. Ne2 Bxh3 25. Bxh3 Nxe2+ 26. Rxe2 Qxh3
+27. Qf3 Qxf3 28. Rxf3 Bxb2 29. Rxb2 a5 30. Rh2 Re4 31. Rfh3
+Kg7 32. Kf2 Rae8 33. Rf3 Kf6 34. Ke2 c6 35. dxc6 bxc6 36. Kd3
+d5 37. cxd5 cxd5 38. Rc2 Rb8 39. Rc6+ 1/2-1/2

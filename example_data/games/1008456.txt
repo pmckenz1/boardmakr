@@ -1,0 +1,25 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Andre Sharggin"]
+[Black "Richard Koepcke"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. d4 d5 2. Nc3 e6 3. e4 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7
+7. Nf3 Bd7 8. a4 Qa5 9. Bd2 Nbc6 10. Be2 f6 11. exf6 gxf6
+12. c4 Qc7 13. Bc3 O-O-O 14. dxc5 d4 15. Bxd4 Nxd4 16. Qxd4 e5
+17. Qc3 Qxc5 18. O-O Ng6 19. Qe3 Qa5 20. Rfd1 Bc6 21. Rxd8+
+Rxd8 22. Bf1 Kb8 23. g3 Qb4 24. Qe1 Qd6 25. Qc3 e4 26. Ne1 Ne5
+27. c5 Qe6 28. a5 a6 29. Rb1 Qa2 30. Qb4 Qd5 31. Bg2 Nd7
+32. c4 Qxc5 33. Qxc5 Nxc5 34. Nc2 Rd2 35. Nb4 Be8 36. Re1 Bg6
+37. Bf1 Bf7 38. g4 Rd4 39. Nc2 Rd2 40. Nb4 Kc7 41. Kg2 Rb2
+42. Nd5+ Bxd5 43. cxd5 Ra2 44. Kg3 Rxa5 45. Kf4 Nd3+ 46. Bxd3
+exd3 47. Ke4 d2 48. Rd1 Ra2 49. Kf5 Kd6 50. Kxf6 Kxd5 51. Kg7
+Kd4 52. f4 Ke3 53. f5 Ke2 54. Rxd2+ Rxd2 55. Kxh7 Kf3 56. g5
+Rxh2+ 57. Kg7 Kg4 58. Kg6 Rh5 0-1

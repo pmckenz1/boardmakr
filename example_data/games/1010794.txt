@@ -1,0 +1,27 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Vasilij Vdovenkov"]
+[Black "Ilya Frog"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bg5 c6 4. Nbd2 Ne4 5. Bf4 Qb6 6. Nb3
+Bf5 7. e3 a5 8. Rb1 e6 9. Bd3 a4 10. Nbd2 Nxd2 11. Qxd2 Bxd3
+12. Qxd3 a3 13. b3 Qa6 14. Ke2 Nd7 15. Qxa6 Rxa6 16. c4 Bb4
+17. c5 Nf6 18. Rbc1 O-O 19. Ne1 Bxe1 20. Rhxe1 Ra5 21. f3 Nd7
+22. Rc3 f6 23. Bc7 Rb5 24. Rb1 Rc8 25. Bg3 e5 26. Be1 Nf8
+27. b4 exd4 28. exd4 Ne6 29. Bf2 Ra8 30. g3 Ra4 31. Rcb3 b6
+32. Be3 bxc5 33. dxc5 Nc7 34. Bd2 Rb8 35. Bf4 Re8+ 36. Re3
+Rxe3+ 37. Bxe3 Nb5 38. Kd3 Kf7 39. Bd2 Ra8 40. Re1 h5 41. Bc3
+g5 42. h3 Rg8 43. g4 Rh8 44. Re3 Rh7 45. Bd4 Rh8 46. Bc3 Rb8
+47. Bd2 d4 48. Re2 Rh8 49. Rh2 Kg6 50. Re2 hxg4 51. hxg4 Kf7
+52. Be1 Rh1 53. Ke4 Rf1 54. Bd2 Ke6 55. Rg2 Ra1 56. f4 Rxa2
+57. f5+ Kd7 58. Kd3 Rb2 59. Rg1 Kc8 60. Re1 Kb7 61. Re7+ Ka6
+62. Re1 a2 63. Ra1 Kb7 64. Bc1 Rb1 65. Rxa2 Rxc1 66. Rh2 Rc3+
+0-1

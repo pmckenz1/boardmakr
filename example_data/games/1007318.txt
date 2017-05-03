@@ -1,0 +1,19 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.11"]
+[EventDate "1925.04.16"]
+[Round "19"]
+[Result "1-0"]
+[White "Frederick Dewhirst Yates"]
+[Black "Ernst Gruenfeld"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d3 O-O 11.Nbd2 Re8 12.Nf1 Bf8 13.Ng3
+Nc6 14.h3 g6 15.Bg5 Bg7 16.Qd2 Qc7 17.Bh6 Bh8 18.Qe3 Bb7
+19.Ng5 Nd8 20.f4 exf4 21.Qxf4 Ne6 22.Qh4 d5 23.e5 Nd7 24.d4
+Nxg5 25.Qxg5 cxd4 26.e6 Nc5 27.exf7 Qxf7 28.Rf1 Qe6 29.Rae1
+Qc6 30.Rxe8+ Qxe8 31.Nf5 1-0

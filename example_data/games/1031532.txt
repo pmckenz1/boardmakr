@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Chicago (USA)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Larry Remlinger"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+exd4 8.Nxd4 Re8 9.f3 c6 10.Kh1 Nbd7 11.Bg5 h6 12.Be3 a6 13.Qd2
+h5 14.Nb3 Ne5 15.Rfd1 Be6 16.Qxd6 Qxd6 17.Rxd6 Bxc4 18.Na5
+Bxe2 19.Nxe2 Red8 20.Rad1 Rxd6 21.Rxd6 Ne8 22.Rd1 b5 23.b3 Bf6
+24.h3 Rd8 25.Rxd8 Bxd8 26.Nb7 Be7 27.Bc5 Kf8 28.Nd4 g5 29.Nf5
+Bxc5 30.Nxc5 Nc7 31.h4 f6 32.Kg1 Ng6 33.b4 Kf7 34.Kf2 gxh4
+35.Ke3 Nf8 36.Nd4 Ke8 37.Nxc6 Nd7 38.Nxd7 Kxd7 39.Nd4 Na8
+40.Nf5 Nb6 41.Nxh4 Ke6 42.Nf5 Kf7 43.Kd4 Na4 44.Nd6+ Ke7
+45.Nb7 1-0

@@ -1,0 +1,23 @@
+[Event "Niendorf"]
+[Site "05"]
+[Date "1927.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Edgar Colle"]
+[Black "Alfred Brinckmann"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.d4 d5 2.Nf3 e6 3.e3 f5 4.c4 c6 5.Nc3 Bd6 6.Bd3 Nd7 7.cxd5
+cxd5 8.Bd2 a6 9.Qa4 Rb8 10.Rc1 Nh6 11.Ne5 b5 12.Nxb5 axb5
+13.Bxb5 Bxe5 14.dxe5 Rxb5 15.Qxb5 O-O 16.f4 g5 17.Ba5 Qe8
+18.Bb4 Nxe5 19.Qxe8 Rxe8 20.fxe5 Ng4 21.Kd2 Nxe5 22.b3 f4
+23.Rc7 fxe3+ 24.Kxe3 Ng4+ 25.Kd2 e5 26.Rf1 Be6 27.h3 Nh6
+28.Rf6 Nf5 29.Be7 Nd4 30.Bc5 Nf5 31.a4 Ng3 32.Rf3 Ne4+ 33.Ke1
+h5 34.a5 g4 35.hxg4 hxg4 36.Re3 Bc8 37.Rxe4 dxe4 38.Ra7 Be6
+39.b4 Bc4 40.Rc7 g3 41.Bd6 Bd3 42.Re7 Rxe7 43.Bxe7 Kf7 44.Bh4
+Ke6 45.Bxg3 e3 46.Bh4 Kf5 47.Be7 Kg4 48.Bc5 Kg3 49.Bxe3 Kxg2
+1/2-1/2

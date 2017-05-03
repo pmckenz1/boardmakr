@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1929.08.02"]
+[EventDate "1929.07.31"]
+[Round "3"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Paul F Johner"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 d5 2.e3 Nf6 3.Bd3 c5 4.c3 Nc6 5.f4 Bg4 6.Nf3 Ne4 7.Nbd2
+f5 8.Qa4 Nxd2 9.Bxd2 Bxf3 10.gxf3 e6 11.O-O-O c4 12.Bb1 Be7
+13.e4 O-O 14.Rdg1 Rb8 15.Qd1 b5 16.h4 b4 17.Qe2 bxc3 18.Bxc3
+Bd6 19.exf5 exf5 20.Qe6+ Kh8 21.Bxf5 Bxf4+ 22.Kb1 Rf6 23.Qd7
+Qf8 24.Be6 Be3 25.Rd1 Qa3 26.Ka1 Nb4 27.Bxb4 Qxb4 28.Rh2 Bxd4
+29.Rdd2 Bxb2+ 0-1

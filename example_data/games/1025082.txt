@@ -1,0 +1,17 @@
+[Event "URS-FL"]
+[Site "Sverdlovsk URS"]
+[Date "1987.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andrei V Kharitonov"]
+[Black "Yuri Balashov"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1
+a6 8.cxd5 exd5 9.Bd3 c6 10.Bb1 Re8 11.O-O Nf8 12.Ne5 N6d7
+13.Bf4 Nxe5 14.Bxe5 Bd6 15.f4 f6 16.Bxd6 Qxd6 17.Qd2 Be6 18.f5
+1/2-1/2

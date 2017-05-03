@@ -1,0 +1,22 @@
+[Event "Lvov URS ch"]
+[Site "8"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Andrei Sokolov"]
+[Black "Yuri Balashov"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Re8 10.d4 Bb7 11.a4 h6 12.Nbd2 Bf8 13.Bc2
+exd4 14.cxd4 Nb4 15.Bb1 bxa4 16.Rxa4 a5 17.Ra3 Qd7 18.Rae3 a4
+19.Nf1 d5 20.e5 Ne4 21.N3d2 c5 22.Nxe4 dxe4 23.Bxe4 cxd4
+24.Rg3 Bxe4 25.Rxe4 Qc6 26.Rxd4 Rxe5 27.Bd2 Nd5 28.Bxh6 Qxh6
+29.Rxd5 Qe6 30.Ne3 Rxd5 31.Nxd5 Rd8 32.Rd3 Rb8 33.Ne3 Qg6
+34.Rd8 Rxd8 35.Qxd8 Qb1+ 36.Nd1 Qe4 37.g3 Qe1+ 38.Kh2 Qb4
+39.Qd7 g6 40.h4 Bc5 41.Qe8+ Kg7 42.Qe5+ Kg8 43.Qe8+ Kg7
+44.Qe5+ Kg8 45.h5 gxh5 1/2-1/2

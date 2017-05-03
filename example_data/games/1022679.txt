@@ -1,0 +1,19 @@
+[Event "16, Tbilisi URS sf"]
+[Site "16, Tbilisi URS sf"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Solomon Naftalin"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 d6 2.d4 g6 3.g3 Bg7 4.Bg2 Nd7 5.c4 Ngf6 6.Nc3 O-O 7.Nge2
+c5 8.O-O cxd4 9.Nxd4 Ne5 10.b3 Bd7 11.Bb2 Qc8 12.Re1 Bh3
+13.Bh1 h5 14.Nd5 Re8 15.a4 h4 16.a5 hxg3 17.hxg3 Nxd5 18.exd5
+a6 19.Re4 Bf5 20.Nxf5 Qxf5 21.Qe2 Nf3+ 22.Bxf3 Bxb2 23.Qxb2
+Qxf3 24.Rae1 f6 25.R4e3 Qf5 26.Rxe7 Rxe7 27.Rxe7 Kf8 28.Qe2 g5
+29.g4 Qg6 30.Qe6 Re8 31.Rxe8+ Qxe8 32.Qxf6+ 1-0

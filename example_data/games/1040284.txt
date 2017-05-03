@@ -1,0 +1,17 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.12.02"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Robert Huebner"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O h6 9.Bf4 Bd7 10.Nxc6 Bxc6 11.f3 d5 12.Qe1 Bb4 13.a3
+Ba5 14.b4 Bb6 15.exd5 Bxd5 16.Nxd5 Nxd5 17.c4 Qf6 18.Be5 Be3+
+19.Qxe3 Nxe3 20.Bxf6 Nxd1 1/2-1/2

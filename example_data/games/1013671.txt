@@ -1,0 +1,25 @@
+[Event "Insbruck"]
+[Site "Insbruck"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lothe"]
+[Black "Michael Adams"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Nf3 b6 6.Bg2 Bb7 7.O-O
+Bxc3 8.bxc3 d6 9.a4 a5 10.Qb3 Nbd7 11.Be3 Qe7 12.Rab1 Rab8
+13.Rb2 e5 14.Qa3 Ba6 15.c5 bxc5 16.dxc5 Nxc5 17.Bxc5 dxc5
+18.Rfb1 Rxb2 19.Qxb2 e4 20.Nh4 Qe5 21.Bf1 Nd5 22.Rc1 Nb6
+23.Qc2 e3 24.f4 Qe6 25.Nf3 f6 26.Ne1 Rd8 27.Rd1 Rxd1 28.Qxd1
+Qd5 29.Qb1 Qe6 30.Ng2 Qe8 31.Qc1 Nc4 32.Qc2 g6 33.Qd3 Kg7
+34.Qd5 Qe7 35.Qa8 Qe6 36.Qd8 Qd6 37.Qe8 Bb7 38.Nxe3 Bc6
+39.Nxc4 Bxe8 40.Nxd6 cxd6 41.e3 Bxa4 42.Kf2 Bb3 43.Ke1 a4
+44.Kd2 a3 45.Kc1 h6 46.Bh3 Kf7 47.Bd7 Ke7 48.Bg4 Be6 49.Bf3 g5
+50.Be4 Bc4 51.Bf5 d5 52.fxg5 fxg5 53.h4 Kf6 54.Bh7 Ke5 55.Kb1
+d4 56.exd4 cxd4 57.cxd4 Kxd4 58.hxg5 hxg5 59.Ka1 Be6 60.g4 Ke5
+61.Bd3 Kf4 62.Be2 Bxg4 63.Bc4 Bf5 64.Be2 Be4 0-1

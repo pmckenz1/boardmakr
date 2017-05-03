@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Varugeese Koshy"]
+[Black "Thandalam Shanmugam Ravi"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. b3 b6
+7. Bb2 Bb7 8. e3 c5 9. Nc3 Nbd7 10. Qe2 Rc8 11. Rfd1 Qc7
+12. Rac1 Qb8 13. d4 cxd4 14. exd4 Rfd8 15. Ne5 dxc4 16. bxc4
+Bxg2 17. Kxg2 Nxe5 18. dxe5 Nd7 19. Nb5 Nc5 20. Bd4 a6 21. Nc3
+Rc7 22. Rc2 Rcd7 23. Rcd2 Qb7+ 24. Kh3 Qc6 25. Qg4 h6 26. Bxc5
+Bxc5 27. Rxd7 Rxd7 28. Rxd7 Qxd7 29. Qe2 Qd4 30. Nd1 a5
+31. Kg2 a4 32. Nb2 a3 33. Na4 Bb4 34. Kf3 h5 35. h3 h4 36. g4
+Qd7 37. Qc2 Qc6+ 38. Ke2 b5 39. Qb3 Qe4+ 40. Kf1 Qe1+ 41. Kg2
+bxa4 0-1

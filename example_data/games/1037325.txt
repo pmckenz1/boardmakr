@@ -1,0 +1,19 @@
+[Event "Wrexham (England)"]
+[Site "It"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Michael Hennigan"]
+[Black "Nigel Rodney Davies"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 bxc6 6.Bd3 Ne7
+7.Nd2 Ng6 8.Nb3 Be7 9.O-O O-O 10.f4 d6 11.Qh5 Re8 12.Nd4 Bd7
+13.Nf3 Qc8 14.f5 Nf8 15.g4 Rb8 16.Bd2 Bf6 17.Bc4 g6 18.Qh6 d5
+19.exd5 Re4 20.fxg6 hxg6 21.Ng5 Rxg4+ 22.Kh1 Bg7 23.Qxg7+ Kxg7
+24.Rxf7+ Kh6 25.Ne6 g5 26.Rf6+ Ng6 27.Bd3 Qg8 28.Nxg5 Qxd5+
+29.Nf3 Kh5 30.h3 Rg3 31.Be2 Re8 32.Rf7 Rxh3+ 33.Kg1 Rxe2 0-1

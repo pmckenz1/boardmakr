@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Venkatachalam Saravanan"]
+[Black "Christopher Duncan"]
+[ECO "B75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 Nc6 8. Qd2 Bd7 9. O-O-O Rc8 10. g4 Ne5 11. h4 O-O 12. h5
+Qa5 13. Kb1 Nxf3 14. Nxf3 Rxc3 15. h6 Nxe4 16. hxg7 Nxd2+
+17. Bxd2 Rfc8 18. Bxc3 Rxc3 19. bxc3 Bxg4 20. Bg2 h5 21. Rhe1
+Qb6+ 22. Ka1 e6 23. Rd2 Bxf3 24. Bxf3 Kxg7 25. Rd4 Qc5 26. Kb2
+b6 27. Red1 d5 28. Be2 Kh6 29. Kb3 f5 30. Bf1 a5 31. a3 b5
+32. a4 bxa4+ 33. Rxa4 g5 34. c4 d4 35. c3 dxc3 36. Kxc3 g4
+37. Bd3 h4 38. Re1 Qb6 39. Rb1 Qxb1 40. Bxb1 h3 41. Bd3 Kg5
+42. Bf1 Kf4 43. Bxh3 gxh3 44. c5+ Kg3 45. c6 h2 46. Ra1 1-0

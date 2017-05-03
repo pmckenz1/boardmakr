@@ -1,0 +1,19 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.04.17"]
+[EventDate "1925.04.16"]
+[Round "2"]
+[Result "1-0"]
+[White "Ilya Leontievich Rabinovich"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "D48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bd3 a6 9.e4 Bb7 10.e5 Nd5 11.Nxd5 cxd5 12.O-O Be7 13.Be3
+Nb6 14.b3 Rc8 15.Qd2 h6 16.Ne1 Qc7 17.Rd1 Bd8 18.Qe2 Qe7
+19.Bd2 Nd7 20.a4 Bb6 21.axb5 axb5 22.Nc2 f5 23.Bb4 Qf7 24.Bxb5
+g5 25.Na3 h5 26.Ba4 Ba7 27.Nb5 Bb8 28.Rc1 Kd8 29.Rxc8+ Bxc8
+30.Rc1 Nb6 31.Ba5 Qb7 32.Nd6 1-0

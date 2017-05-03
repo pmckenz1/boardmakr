@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.29"]
+[EventDate "1905.08.14"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Hugo Suechting"]
+[Black "Semion Alapin"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 c5 6. Ne2 Nc6
+7. Be3 e5 8. Bxc6+ bxc6 9. dxe5 Qxd1+ 10. Kxd1 Ng4 11. Nd2
+Nxe5 12. Ng3 Be6 13. Re1 O-O-O 14. Bf4 Ng6 15. Ne2 Be7 16. Bg3
+Rd7 17. Kc1 Rhd8 18. Nf1 h5 19. h3 Nh4 20. Ne3 Nf5 21. Nxf5
+Bxf5 22. Bf4 g5 23. Be3 Bg6 24. a4 f6 25. a5 a6 26. Nc3 Bd6
+27. Na4 Re7 28. Rd1 Be4 29. Rg1 Bh2 30. Rh1 Bf4 1/2-1/2

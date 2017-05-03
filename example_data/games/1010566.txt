@@ -1,0 +1,25 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Alexander Malienko"]
+[Black "Giorgi Chokhonelidze"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Qa5 5. Bb5+ Bd7 6. Bxd7+
+Nbxd7 7. O-O cxd4 8. Nxd4 g6 9. Be3 Bg7 10. f4 O-O 11. Qf3 Qh5
+12. Qg3 Nc5 13. Qf3 Qxf3 14. gxf3 Rac8 15. f5 a6 16. fxg6 hxg6
+17. Kh1 b5 18. a3 Rfd8 19. Rad1 e6 20. Nde2 d5 21. Bg5 Rd7
+22. e5 Nh7 23. Bf4 d4 24. Na2 d3 25. Nec3 dxc2 26. Rd2 Nd3
+27. Bg3 Nxb2 28. Rxc2 Nc4 29. Nb1 Rcd8 30. Re2 Rd1 31. Rfe1
+Rxe1+ 32. Rxe1 Nxe5 33. Nb4 Nxf3 34. Rf1 Nd4 35. Nxa6 e5
+36. Nc3 Rd7 37. Rb1 Ra7 38. Nc5 Rxa3 39. Nxb5 Nxb5 40. Rxb5
+Ra8 41. Kg2 Re8 42. Rb7 f5 43. Rb6 Kf7 44. Rc6 f4 45. Be1 e4
+46. Nb7 Be5 47. Bc3 f3+ 48. Kf1 Bxh2 49. Kf2 Ra8 50. Ba5 Ng5
+51. Nd8+ Kg7 52. Nb7 Bf4 53. Bc3+ Kh7 54. Nd6 Ra2+ 55. Kf1 e3
+56. Rb6 e2+ 57. Kf2 Bxd6 58. Rb1 0-1

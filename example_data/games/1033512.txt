@@ -1,0 +1,19 @@
+[Event "It (cat.5), Escaldes (Andorra)"]
+[Site "It (cat.5), Escaldes (Andorra)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Philippe Brochet"]
+[Black "Fernando Braga"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. Bf4 Qa5+
+12. Bd2 Qc7 13. Qc1 O-O 14. Bf4 Bd7 15. Bxd6 Qxd6 16. Qf4 Qb4+
+17. Qd2 Ne4 18. Bxe4 dxe4 19. a3 Qe7 20. Ne5 Nxe5 21. dxe5 Bb5
+22. O-O Qc5 23. Rad1 h6 24. Nf4 Bxf1 25. Nxe6 Qc6 26. Nxf8 Bd3
+27. Rc1 Qe8 28. Rc7 Qxe5 29. Rxb7 Rxf8 30. Rxa7 e3 0-1

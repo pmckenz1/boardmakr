@@ -1,0 +1,23 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Vladimir Iljenchenko"]
+[Black "Alexey Mazurok"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. d4 f5 2. Bg5 d5 3. e3 Nf6 4. Bxf6 exf6 5. Nf3 Be6 6. c3 c6
+7. Bd3 Bd6 8. g3 Nd7 9. Qc2 g6 10. Nbd2 b5 11. O-O O-O 12. a4
+a6 13. Nb3 Nb6 14. axb5 axb5 15. Rxa8 Qxa8 16. Ra1 Qb7 17. Nc5
+Qe7 18. b4 Ra8 19. Rxa8+ Nxa8 20. Qa2 Nc7 21. Qa7 Bf7 22. Qb7
+Be8 23. Nd2 Kf7 24. Ndb3 Ne6 25. Nxe6 Kxe6 26. Qa8 Kf7 27. Na5
+Qc7 28. Kg2 Ke7 29. h4 h5 30. Qb7 Qxb7 31. Nxb7 Bc7 32. Nc5
+Bd6 33. Kf3 Bc7 34. Nb3 Bb6 35. Nc1 Bc7 36. Ne2 Bd6 37. Nf4
+Bc7 38. Ne2 Bd6 39. Kg2 Bc7 40. f3 Bd6 41. Kf2 Bc7 42. e4 fxe4
+43. fxe4 dxe4 44. Bxe4 f5 45. Bf3 Bd6 46. Ke3 Bc7 47. Nf4 Kf6
+48. d5 Bxf4+ 49. Kxf4 cxd5 50. Bxd5 1-0

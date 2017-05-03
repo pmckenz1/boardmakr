@@ -1,0 +1,22 @@
+[Event "It (cat.11)"]
+[Site "Rishon LeZion ISR"]
+[Date "1994.11.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Yehuda Gruenfeld"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 a5 7.Bb2
+Ne4 8.Nbd2 f5 9.c4 e6 10.e3 Nf6 11.Qc2 Nc6 12.Ne1 Nd7 13.a3 e5
+14.d5 Ne7 15.Nd3 g5 16.f4 Ng6 17.Rae1 gxf4 18.exf4 e4 19.Bxg7
+Kxg7 20.Nf2 Qf6 21.Kh1 Nc5 22.b4 axb4 23.axb4 Na4 24.Nd1 h5
+25.Nb3 Bd7 26.Qd2 Nb6 27.Na5 Rfd8 28.Ne3 Na4 29.Ra1 Nb2
+30.Rfb1 Nd3 31.Bf1 h4 32.Bxd3 exd3 33.Qxd3 hxg3 34.hxg3 Rh8+
+35.Kg2 Nxf4+ 36.gxf4 Qg6+ 37.Kf3 Rh3+ 38.Ke2 Rh2+ 39.Kd1 Re8
+40.Kc1 Qg1+ 41.Nd1 Ree2 42.Nb3 Kf7 43.Ra8 Qg2 44.Na1 Rd2
+45.Qb3 Qf1 0-1

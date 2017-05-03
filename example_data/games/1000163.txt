@@ -1,0 +1,22 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.19"]
+[EventDate "1900.??.??"]
+[Round "17.1"]
+[Result "1/2-1/2"]
+[White "James Mason"]
+[Black "Jacques Mieses"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 Bb4
+7.Nd6+ Ke7 8.Nxc8+ Rxc8 9.Bd2 Bxc3 10.Bxc3 Nxe4 11.Bxg7 Qa5+
+12.c3 Rhg8 13.Bh6 Nxc3 14.bxc3 Qxc3+ 15.Bd2 Qe5+ 16.Be3 Nb4
+17.Rc1 Nxa2 18.Rxc8 Rxc8 19.Be2 Qb2 20.Qd4 Qxd4 21.Bxd4 Rc1+
+22.Bd1 Nc3 23.Kd2 Rxd1+ 24.Rxd1 Nxd1 25.Kxd1 a5 26.Bb6 a4
+27.Kc2 Kd6 28.Kc3 Kc6 29.Be3 e5 30.Bc1 d5 31.f4 f6 32.fxe5
+fxe5 33.g4 d4 34.Kb4 Kd5 35.h4 e4 36.g5 e3 37.h5 Ke4 38.g6
+hxg6 39.hxg6 Kd3 40.Bxe3 dxe3 41.g7 e2 42.g8=Q e1=Q+ 43.Kxa4
+1/2-1/2

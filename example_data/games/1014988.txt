@@ -1,0 +1,22 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.04"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Edhi Handoko"]
+[Black "Utut Adianto"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bd2 Qc7 12.O-O-O e6
+13.Ne4 O-O-O 14.Nxf6 Nxf6 15.Qe2 Bd6 16.Kb1 Rhe8 17.c4 c5
+18.Bc3 a6 19.Ne5 cxd4 20.Bxd4 Bxe5 21.Bxe5 Qc6 22.f3 Rxd1+
+23.Rxd1 Nxh5 24.Qf2 Rd8 25.Rc1 f6 26.Bh2 g5 27.b4 e5 28.b5 Qd6
+29.bxa6 Qb4+ 30.Qb2 Qxb2+ 31.Kxb2 bxa6 32.Kc3 Kc7 33.Rb1 Nf4
+34.Bxf4 gxf4 35.Rh1 Rh8 36.c5 h5 37.Kc4 Rg8 38.Rxh5 Rxg2
+39.Kd5 Rd2+ 40.Ke6 Rxa2 41.Kxf6 Rf2 42.Kf5 Kc6 43.Rh6+ Kxc5
+44.Rxa6 Kd4 45.Ra5 Kd3 46.Rd5+ 1/2-1/2

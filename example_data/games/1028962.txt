@@ -1,0 +1,21 @@
+[Event "Simpon's London"]
+[Site "Simpon's London"]
+[Date "1876.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Johannes Zukertort"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nc3 Nf6 3.f4 d5 4.d3 d4 {Bb4
+or exf4 can also be played with advantage.} 5.fxe5 dxc3 6.exf6
+Qxf6 7.bxc3 {b3 is the usual continuation.} Qxc3+ 8.Bd2 Qf6
+9.Nf3 Nc6 10.Be2 Bc5 11.c3 Bg4 12.d4 {A blunder which loses
+right off, but he had not an easy game to play. Perhaps Rb1
+would be best.} Bxf3 13.Bxf3 Nxd4 14.cxd4 Qxd4 15.Rf1 O-O-O
+16.Rb1 f5 17.Qc2 Rhe8 18.Qb2 Rxe4+ 19.Bxe4 Qxe4+ 20.Kd1 Be3
+21.Re1 Qa4+ 0-1

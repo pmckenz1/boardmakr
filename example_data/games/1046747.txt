@@ -1,0 +1,23 @@
+[Event "Moscow UURSO"]
+[Site "09"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Sergey Makarichev"]
+[Black "Alisa Galliamova"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 e6 4.e3 d5 5.d4 Nc6 6.cxd5 exd5 7.Be2
+Bd6 8.dxc5 Bxc5 9.O-O a6 10.a3 O-O 11.b4 Ba7 12.b5 d4 13.bxc6
+dxc3 14.Qb3 Be6 15.Qxc3 Rc8 16.Qb2 b5 17.a4 bxa4 18.Qb7 Bb8
+19.Rxa4 a5 20.Ba3 Bd5 21.Bxf8 Bxc6 22.Be7+ Qe8 23.Qb2 Bxa4
+24.Bxf6 gxf6 25.Qxf6 Rc5 26.Bd3 Qd7 27.Ng5 Be5 28.Bxh7+ Kf8
+29.Qf3 Bxh2+ 30.Kxh2 Rxg5 31.Rb1 Qd6+ 32.Kg1 Bc6 33.Be4 Bxe4
+34.Qxe4 Rh5 35.g3 Qd5 36.Rb8+ Kg7 37.Qxd5 Rxd5 38.Rb6 Rd2
+39.Ra6 Ra2 40.Kg2 a4 41.g4 a3 42.g5 Ra1 43.Kf3 Kh7 44.e4 Kg7
+45.Kf4 Rf1 46.f3 Ra1 47.Kf5 a2 48.f4 Kh7 49.Ra8 Kg7 50.e5 Rb1
+51.Rxa2 Rb6 52.Rd2 1-0

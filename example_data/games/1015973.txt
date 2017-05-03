@@ -1,0 +1,24 @@
+[Event "It (cat.12)"]
+[Site "Baden AUT"]
+[Date "1980.11.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jan Smejkal"]
+[ECO "C93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a3 h6 13.Ba2 Nb8
+14.Qb3 Qd7 15.Qc2 c5 16.b4 c4 17.d5 Nh5 18.Nf1 g6 19.Ng3 Nxg3
+20.fxg3 a5 21.Be3 Bg7 22.Re2 axb4 23.axb4 f5 24.Rf1 fxe4
+25.Nh4 Bxd5 26.Bb1 Qe6 27.Qd2 Kh7 28.Rd1 Ra1 29.Qb2 Ra6 30.Bf2
+Bb7 31.Rxe4 d5 32.Rg4 e4 33.Rxg6 Qf7 34.Rxa6 Nxa6 35.g4 Bc8
+36.Be3 Qf6 37.g5 hxg5 38.Nf3 Kg8 39.Nxg5 Nc7 40.Rc1 d4 41.Rf1
+Qg6 42.cxd4 Nd5 43.Bc1 Bf6 44.Qf2 Qg7 45.Qh4 Nc3 46.Qh5 Rf8
+47.Be3 Bxg5 48.Rxf8+ Kxf8 49.Bxg5 Qxd4+ 50.Kh2 Nxb1 51.Bf4 Qf6
+52.Be5 Qf5 53.Bd6+ Kg7 54.Be5+ Kf8 55.Bd6+ Kg7 56.Be5+ Kf8
+57.Bd6+ 1/2-1/2

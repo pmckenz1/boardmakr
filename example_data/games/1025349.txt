@@ -1,0 +1,22 @@
+[Event "Dortmund op"]
+[Site "06"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Istvan Demeter"]
+[Black "Yuri Balashov"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.Qe1 Nd7 8.d3 O-O 9.Nbd2 Re8 10.Nc4 Bf6 11.a4 Nf8 12.b3 Ng6
+13.Kh1 Bg4 14.Ng1 b6 15.Bb2 h6 16.h3 Bd7 17.Ne2 Be6 18.Kh2 Qe7
+19.Ne3 Nf4 20.Ng1 Qd7 21.Qd1 g6 22.Qf3 Bg7 23.Rfe1 Rad8
+24.Rad1 c5 25.Ng4 Qd6 26.g3 Bxg4 27.Qxg4 h5 28.Qf3 Ne6 29.Qe3
+Nd4 30.Bxd4 cxd4 31.Qe2 Bh6 32.Nf3 Kg7 33.Kg2 Re6 34.Nd2 Qc5
+35.Nf3 Rc6 36.Rb1 Re8 37.Rb2 Qa3 38.Reb1 Bc1 39.Rxc1 Qxb2
+40.Qd2 Qc3 41.Qe2 b5 42.axb5 axb5 43.g4 hxg4 44.hxg4 Qc5
+45.Qd2 Rh8 46.Kg3 Qe7 47.Ra1 Rf6 48.c3 Rf4 49.cxd4 Rxg4+ 0-1

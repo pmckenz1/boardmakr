@@ -1,0 +1,26 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.15"]
+[EventDate "1905.08.14"]
+[Round "2"]
+[Result "1-0"]
+[White "Arturo Reggio"]
+[Black "Alfred Ehrhardt Post"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 d6
+7. Bxc6+ bxc6 8. d4 exd4 9. Nxd4 Bd7 10. f4 O-O 11. f5 Re8
+12. Nde2 d5 13. exd5 cxd5 14. Kh1 c5 15. Ng3 Bc6 16. Nce2 Bd6
+17. Bf4 Ng4 18. Nd4 Qh4 19. Nf3 Nf2+ 20. Rxf2 Qxf4 21. Qd2 d4
+22. Qxf4 Bxf4 23. Nh5 Be3 24. Rff1 Rab8 25. b3 Be4 26. Ne1 Bd2
+27. Ng3 Bd5 28. Rd1 Ba5 29. Nd3 Rbc8 30. Nf4 Bc6 31. a3 Bb5
+32. Rg1 Bc7 33. Nd3 Bxg3 34. hxg3 Re3 35. Kh2 Re2 36. Rc1 c4
+37. Nf4 Re5 38. Rgd1 Rd8 39. a4 Bc6 40. g4 Re3 41. bxc4 Bxa4
+42. Nd5 Ra3 43. Rxd4 Kf8 44. Rd3 Rxd3 45. cxd3 Bb3 46. Rc3 Rb8
+47. Nc7 a5 48. Nb5 a4 49. Kg3 Ke7 50. Kf4 Ra8 51. Nd4 Bd1
+52. Rc1 Bb3 53. Rb1 Ba2 54. Ra1 Bxc4 55. dxc4 Kd6 56. Nb3 Rb8
+57. Nd2 Rb4 58. Ke4 g6 59. Kd4 h5 60. gxh5 gxh5 61. Kc3 Rb8
+62. Kd4 Rb2 63. Ne4+ Kc6 64. g3 Rb4 65. Nf6 1-0

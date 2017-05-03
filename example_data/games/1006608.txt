@@ -1,0 +1,19 @@
+[Event "Gothenburg"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.20"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Alexey Sergeevich Selezniev"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 d6 6.Nxc6 bxc6
+7.g3 Qc7 8.Bg2 Ba6 9.Qf3 Nd7 10.Bf4 e5 11.Bd2 Be7 12.Nd1 O-O
+13.Ne3 Bg5 14.h4 Bxe3 15.Bxe3 Rab8 16.b3 d5 17.Bh3 Nf6 18.Bf5
+Nxe4 19.Bxe4 dxe4 20.Qxe4 f5 21.Qa4 Bb5 22.Qxa7 Rb7 23.Qc5 f4
+24.Bd2 fxg3 25.fxg3 Qf7 26.O-O-O Ra8 27.Bc3 h6 28.Rhe1 Rxa2
+29.Rd8+ Kh7 30.Qxe5 Qg6 31.Bb2 h5 32.Rd6 1-0

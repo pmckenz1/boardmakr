@@ -1,0 +1,29 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Dragan Paunovic"]
+[Black "Lubomir Ftacnik"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "152"]
+
+1. c4 c5 2. Nc3 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nxc6
+bxc6 7. g3 Rb8 8. Bg2 Qa5 9. O-O Ba6 10. Qc2 Bxc4 11. Bd2 Qa6
+12. Bf4 Rc8 13. Rac1 Nf6 14. b3 Be6 15. Na4 Nd5 16. Bxd5 Bxd5
+17. e4 Be6 18. Nc5 Qb6 19. a4 Qb4 20. Nxe6 fxe6 21. Qd3 Qb7
+22. Rfd1 d5 23. exd5 exd5 24. Qe3 Qd7 25. Re1 Kf7 26. Be5 Bxe5
+27. Qxe5 Qd6 28. Qe3 Rc7 29. Qh6 e5 30. Re3 Qf6 31. Rce1 Re7
+32. Kg2 Ke8 33. Rf3 Qe6 34. Rfe3 e4 35. f3 Rf8 36. fxe4 d4
+37. Rd3 c5 38. Qc1 Qa6 39. Rd2 Qa5 40. b4 Qb6 41. Qxc5 Qxc5
+42. bxc5 Re5 43. Rxd4 Rxc5 44. Red1 Rc2+ 45. R1d2 Rxd2+
+46. Rxd2 Rf6 47. Rd5 Ra6 48. a5 Rc6 49. Rb5 Rc2+ 50. Kf3 Rxh2
+51. Rb7 h5 52. Rxa7 g5 53. a6 Ra2 54. Ra8+ Kd7 55. e5 Ra3+
+56. Ke4 h4 57. gxh4 gxh4 58. a7 h3 59. Rh8 h2 60. Rxh2 Rxa7
+61. Rh7+ Ke6 62. Rh6+ Ke7 63. Kf5 Ra1 64. Rh7+ Kf8 65. Kf6
+Rf1+ 66. Ke6 Re1 67. Rh8+ Kg7 68. Re8 Ra1 69. Rd8 Re1 70. Kd6
+Kf7 71. Rd7+ Ke8 72. Ra7 Re2 73. Re7+ Kf8 74. Kd7 Rd2+ 75. Ke6
+Re2 76. Rf7+ Ke8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1947.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Luiz Tavares Da Silva"]
+[Black "Erich Eliskases"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.a4
+Qc7 8.Bf3 Nc6 9.O-O Ne5 10.Be2 b6 11.f4 Ned7 12.g4 e5 13.Nf5
+Bb7 14.Bf3 g6 15.Ng3 exf4 16.Bxf4 Ne5 17.g5 Nfd7 18.Nd5 Bxd5
+19.Qxd5 Qc5+ 20.Qxc5 Nxc5 21.Bxe5 dxe5 22.Rfd1 Ne6 23.h4 h6
+24.Nf5 hxg5 25.Nd6+ Bxd6 26.Rxd6 Rxh4 27.c3 Nf4 28.Rad1 g4
+29.Bg2 g3 30.R1d2 Rh2 31.Rxb6 Rd8 32.Rxd8+ Kxd8 33.Rd6+ Kc7
+34.Rd2 f5 35.exf5 gxf5 36.b4 e4 37.Rc2 e3 0-1

@@ -1,0 +1,24 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden op"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Rene Libeau"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 Bb7 5. Qc2 e6 6. e4 bxc4
+7. Bxc4 exd5 8. exd5 d6 9. O-O Be7 10. Re1 O-O 11. Nc3 Nbd7
+12. Bg5 Re8 13. Rad1 a6 14. Bb3 Qb6 15. Ba4 Qc7 16. Qf5 Bc8
+17. Qf4 Bf8 18. Rxe8 Nxe8 19. Re1 Bb7 20. Be7 Ndf6 21. Qe3 h6
+22. Bxf8 Kxf8 23. Nh4 Rd8 24. Nf5 Bc8 25. Ne7 Ng4 26. Qe2 Ne5
+27. Nxc8 Qxc8 28. f4 Ng6 29. Bc6 Nf6 30. g3 Ng8 31. Ba4 Nf6
+32. Kg2 h5 33. Bc6 h4 34. Ne4 Nxe4 35. Qxe4 Kg8 36. b3 Qc7
+37. Re2 Rb8 38. Qd3 a5 39. Bb5 Kh8 40. a4 Kg8 41. Re4 Rd8
+42. Qe2 Qc8 43. Qh5 Qb7 44. Bc4 Qb4 45. f5 Ne5 46. Rxh4 Kf8
+47. Qg5 f6 48. Rh8+ Kf7 49. Qh5+ Ke7 50. Rxd8 Qd2+ 51. Kh3
+Kxd8 52. Qh8+ Kc7 53. Qxg7+ Kb6 54. Qxf6 1-0

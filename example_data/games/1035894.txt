@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau GER"]
+[Date "1889.07.16"]
+[EventDate "1889.07.15"]
+[Round "3"]
+[Result "0-1"]
+[White "Alexander Fritz"]
+[Black "Amos Burn"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.O-O Nf6 6.a4 a6 7.d4
+exd4 8.e5 d5 9.exf6 dxc4 10.Re1+ Be6 11.fxg7 Rg8 12.Ng5 Qf6
+13.Ne4 Qxg7 14.Qf3 O-O-O 15.Nf6 Nxb4 16.a5 Nxc2 17.Re5 Nxa1
+18.axb6 cxb6 19.Rg5 Qxg5 20.Bxg5 Rxg5 21.Ne4 c3 22.Nbxc3 dxc3
+23.Qxc3+ Rc5 24.Qxa1 Bb3 25.Nxc5 bxc5 0-1

@@ -1,0 +1,18 @@
+[Event "Ch URS"]
+[Site "Riga (Latvia)"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Maia Chiburdanidze"]
+[Black "Nona Gaprindashvili"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 Nd4 5.O-O Nxb5 6.Nxb5 fxe4
+7.Nxe5 Ne7 8.Qh5+ g6 9.Qh4 Bg7 10.Qf4 Rf8 11.Qxe4 d6 12.Nf3
+Bf5 13.Qc4 c6 14.Nbd4 d5 15.Qe2 Qd7 16.Nxf5 Qxf5 17.Re1 Bf6
+18.Nd4 Qd7 19.Ne6 Rf7 20.d4 Rc8 21.c3 b6 22.Bg5 c5 23.Bxf6
+Rxf6 24.Qe5 1-0

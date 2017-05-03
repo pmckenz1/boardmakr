@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Daniel Wright"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Nc6 7.e5
+dxe5 8.dxe5 Nd5 9.Bd2 Ncb4 10.Be4 Nb6 11.a3 Na6 12.Qe2 Nc5
+13.O-O-O Nxe4 14.Nxe4 Qd5 15.Bb4 Qa2 16.Nc3 Qa1+ 17.Kd2 Rd8+
+18.Ke3 Rxd1 19.Rxd1 Qxb2 20.Na4 Nxa4 21.Rd8+ Bf8 22.Bxe7 Nb6
+23.Rxf8+ Kg7 24.Rd8 Bg4 25.Bf6+ Kh6 26.Rxa8 Qc3+ 27.Kf2 Bxf3
+28.gxf3 Nxa8 29.Kg3 c6 30.Qf1 1-0

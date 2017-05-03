@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "ol Warsaw  (04)"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Jens Enevoldsen"]
+[ECO "D09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3 Be6 6.Nbd2 h6 7.Bg2
+Qd7 8.O-O O-O-O 9.Qa4 Kb8 10.Rd1 g5 11.Nb3 Nxe5 12.Qxd7 Nxf3+
+13.Bxf3 Rxd7 14.Rxd4 Rxd4 15.Nxd4 Bxc4 16.b3 Ba6 17.Bb2 f6
+18.Rd1 Bd6 19.Nf5 Rh7 20.Nxd6 Rd7 21.Ba3 f5 22.e4 cxd6
+23.Bxd6+ Kc8 24.e5 g4 25.Bd5 1-0

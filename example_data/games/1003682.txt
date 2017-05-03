@@ -1,0 +1,38 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.05"]
+[EventDate "1907.??.??"]
+[Round "12"]
+[Result "1-0"]
+[White "Akiba Rubinstein"]
+[Black "Richard Teichmann"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 {Notes by Dr. Emanuel Lasker from "Lasker's Chess
+Magazine" and Carl Schlechter from "Deutsche Schachzeitung"
+1908.} d5 2.Nf3 e6 3.c4 Nf6 4.Bg5 Be7 5.Nc3 Nbd7 6.e3 O-O
+7.Qc2 b6 {Schlechter: The best continuation is 7...c5.} 8.cxd5
+exd5 9.Bd3 Bb7 10.O-O-O {Schlechter: Deserving serious
+attention is 10.Rd1.} c5 11.h4 Rc8 {Schlechter: Weak. The
+right plan was counterplay with ...c4, ...a6, ...b5 and ...b4,
+and it is unclear who will come first.} 12.Kb1 Re8 13.dxc5
+{!?} Rxc5 {Schlechter: If 13...bxc5 then 14.Bxf6 Nxf6 15.Bc4
+is very unpleasant.} 14.Nd4 Ne4 {? Lasker: Black should have
+played here 14...a6 threatening an advance of the queenside
+pawns, which should have developed a powerful attack. The text
+move is obviously bad. *** Schlechter: Preferable was
+14...Nf8.} 15.Bxe4 dxe4 16.Ndb5 {!} Ba6 {Lasker: Necessary, as
+17.Nd6, winning the exchange, was threatened.} 17.Qa4 {!} Bxb5
+18.Nxb5 {Lasker: By a few simple strokes White has not only
+circumvented the formation of any hostile attack, but his
+pieces now virtually control the field.} Bxg5 19.hxg5 Re7
+20.Rd4 Qa8 21.b4 {!} Rc8 22.Nd6 b5 {? Schlechter: If 22...Rc7
+or 22...Rd8, then White wins simply by 23.f5.} 23.Nxc8 {!
+Lasker: In view of Black's weak position he was quite
+justified in resigning after losing the exchange. He could
+not, of course, capture the queen since White would be left
+with three pieces against the queen: 23...bxa4 24.Nxe7+ Kf8
+25.Rxd7 and wins.} 1-0

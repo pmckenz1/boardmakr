@@ -1,0 +1,21 @@
+[Event "10s, BL8990"]
+[Site "10s, BL8990 Hiarcs 7.32"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Matthias Steinbacher"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Nf3 Bd6 6. Bg5 c6
+7. Bd3 h6 8. Bh4 Qe7+ 9. Qe2 Qxe2+ 10. Kxe2 Nh5 11. Rhe1 Be6
+12. Kd2 g5 13. Bg3 Nxg3 14. hxg3 Nd7 15. Bf5 Ke7 16. Re3 Kf6
+17. Bxe6 fxe6 18. Rae1 Rae8 19. Ne5 Bxe5 20. dxe5+ Kg6 21. Ne2
+Nb6 22. b3 c5 23. c3 a5 24. Rf3 Rhf8 25. Rxf8 Rxf8 26. f3 a4
+27. Nc1 axb3 28. axb3 h5 29. Kc2 Ra8 30. Kb2 Nd7 31. Nd3 b5
+32. Nf2 c4 33. b4 Ra4 34. g4 hxg4 35. Nxg4 d4 36. cxd4 Nb6
+37. Rh1 Nd5 38. Rh6+ Kg7 39. Rxe6 c3+ 40. Kc1 Nxb4 0-1

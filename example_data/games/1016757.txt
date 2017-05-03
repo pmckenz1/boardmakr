@@ -1,0 +1,21 @@
+[Event "Ch Hungary"]
+[Site "Budapest (Hungary)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Peter Szekely"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.c4 g6 2.Nf3 Bg7 3.d4 Nf6 4.g3 d5 5.Bg2 dxc4 6.O-O O-O 7.Na3
+Na6 8.Nxc4 c5 9.b3 Bf5 10.Bb2 Be4 11.Rc1 Rc8 12.Bh3 Rc7 13.Ng5
+Bf5 14.Bxf5 gxf5 15.dxc5 h6 16.Nf3 Qxd1 17.Rfxd1 Rfc8 18.Nh4
+e6 19.Nd6 Rd8 20.Bd4 Nb4 21.Nf3 Nxa2 22.Ra1 Nb4 23.Rxa7 Rb8
+24.Ne5 Nfd5 25.Nb5 Re7 26.Nd6 Nc6 27.Rxb7 Rexb7 28.Nxc6 Rxb3
+29.Nxb8 Bxd4 30.Rxd4 Rxb8 31.Nxf5 Rb1+ 32.Kg2 Rc1 33.c6 h5
+34.e4 Nb6 35.Rd8+ Kh7 36.Nd6 Kg6 37.Rg8+ Kh7 38.Rb8 Rxc6
+39.Nxf7 Kg7 40.Ne5 Rd6 41.Rb7+ 1-0

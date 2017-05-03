@@ -1,0 +1,25 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Carlos Incutto"]
+[Black "Erich Eliskases"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 e5 7.d4
+Nbd7 8.e4 c6 9.h3 Qe7 10.d5 c5 11.Bg5 h6 12.Be3 Ne8 13.Qd2 Kh7
+14.Ne1 f5 15.Nd3 Nef6 16.Rac1 Nb6 17.exf5 Nxc4 18.fxg6 Kh8
+19.Qe2 Qe8 20.Ne1 Nb6 21.Nf3 Qxg6 22.Rcd1 h5 23.Kh2 Bf5 24.Ne1
+e4 25.Bf4 Rad8 26.Nc2 h4 27.Ne3 Bc8 28.Qc2 Rfe8 29.a4 Bh6
+30.Bxh6 Qxh6 31.g4 Nbd7 32.Nf5 Qf4+ 33.Kh1 Ne5 34.Qd2 Qxd2
+35.Rxd2 Bxf5 36.gxf5 Nf7 37.Re1 Ng5 38.Rde2 Re5 39.Nxe4 Ngxe4
+40.Bxe4 Rde8 41.f3 Nh5 42.Re3 Ng3+ 43.Kg2 Nxf5 44.Rb3 b6
+45.Kf2 Ng3 46.a5 bxa5 47.Ra1 Nxe4+ 48.fxe4 Rxe4 49.Rxa5 Rd4
+50.Rxa7 Rxd5 51.Rbb7 Rf5+ 52.Kg2 Rg5+ 53.Kf3 Rf8+ 54.Ke3 Kg8
+55.Rh7 Rb8 56.Rxh4 Rxb2 57.Rg4 Rxg4 58.hxg4 Rb4 59.Rd7 Rd4
+60.g5 d5 61.g6 Re4+ 62.Kf3 Rd4 63.Ke3 1/2-1/2

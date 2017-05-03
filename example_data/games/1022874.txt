@@ -1,0 +1,16 @@
+[Event "USSR Championship 1968/69"]
+[Site "Alma Ata (RUS)"]
+[Date "1968.12.??"]
+[EventDate "1968.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Evgeni Vasiukov"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.Nh3 g6 6.Nc3 Bg7 7.Nf4 Nh6
+8.e3 c6 9.Be2 O-O 10.b4 c5 11.Ncd5 Nc6 12.Bb2 cxb4 13.Qd2 a5
+14.a3 bxa3 15.Bxa3 Rb8 16.Rb1 b6 1/2-1/2

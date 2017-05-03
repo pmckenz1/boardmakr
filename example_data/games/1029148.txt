@@ -1,0 +1,21 @@
+[Event "?"]
+[Site "?"]
+[Date "1888.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "William Henry Krause Pollock"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 f5 {This constitutes the
+Greco-Counter Gambit. It is somewhat hazardous, but generally
+leads to a lively game.} 3.d4 {Nxe5 is given as best by the
+books.} fxe4 4.Nxe5 Nf6 5.Bg5 Be7 {This gives White a chance
+of getting up a strong attack. d6 was better.} 6.Nc3 d6 7.Bxf6
+Bxf6 8.Qh5+ g6 9.Nxg6 hxg6 10.Qxg6+ Kd7 11.Nd5 Rf8 12.Be2 c5
+13.dxc5 Bxb2 14.Qxd6+ Ke8 15.Bh5+ Rf7 16.Bxf7+ Kxf7 17.Qxd8
+1-0

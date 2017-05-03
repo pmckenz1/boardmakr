@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Stanislav Zhelesny"]
+[Black "Li"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. c4 Nbd7
+7. Nc3 e5 8. Bg5 h6 9. Bxf6 Bxf6 10. Qd2 Bg7 11. Rad1 exd4
+12. Nxd4 Nb6 13. b3 a5 14. Ndb5 Be6 15. Bxb7 Rb8 16. Bg2 a4
+17. Nd4 axb3 18. axb3 Bd7 19. Ncb5 Re8 20. Nc6 Bxc6 21. Bxc6
+Re5 22. Bf3 Rc5 23. Qe3 Nd7 24. Bg2 Rh5 25. Bf3 Rf5 26. Qa7
+Ne5 27. Bg2 Rh5 28. f4 Ng4 29. h3 Nf6 30. e4 Qc8 31. Qf2 1-0

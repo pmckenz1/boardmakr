@@ -1,0 +1,21 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.13"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Antoine Al Halabi"]
+[Black "Mahmoud Abdulaziz"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 d6 2. d4 g6 3. f4 Nf6 4. Bd3 Bg7 5. Nf3 c5 6. c3 Qa5
+7. O-O O-O 8. Bc2 Nc6 9. e5 Ne8 10. d5 Nb8 11. h3 Na6 12. a3
+b5 13. Qe2 Nac7 14. Rd1 Bb7 15. b4 Qb6 16. bxc5 dxc5 17. c4
+bxc4 18. Qxc4 Ba6 19. Qe4 Rd8 20. Nc3 f5 21. Qe1 c4+ 22. Be3
+Qb7 23. Rab1 Qa8 24. Bc5 Nxd5 25. Nxd5 Rxd5 26. Bxe7 Rf7
+27. Rxd5 Qxd5 28. Rd1 Qe6 29. Bd6 Nxd6 30. Rxd6 Qc8 31. Qa5
+Bf8 32. Rxa6 Qb7 33. Rf6 Rd7 34. Qa6 Qd5 35. Ng5 Qd4+ 36. Kh1
+Bc5 37. Qe6+ Kh8 1-0

@@ -1,0 +1,20 @@
+[Event "It (cat.10)"]
+[Site "East Berlin GDR"]
+[Date "1989.04.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Rainer F A Knaak"]
+[Black "Uwe Boensch"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6 7.Bd3
+Nbd7 8.h3 Ne4 9.Bf4 Ndf6 10.Qc2 Bf5 11.Nf3 O-O 12.Ne5 Nxc3
+13.Bxf5 Nce4 14.f3 Qa5+ 15.Kf1 Nd6 16.Bd3 Rac8 17.Rc1 c5
+18.dxc5 Nc4 19.Bxc4 dxc4 20.c6 b5 21.Rd1 Nh5 22.Bh2 Bh4 23.g4
+Ng3+ 24.Bxg3 Bxg3 25.f4 Bh4 26.g5 f6 27.Nd7 Rf7 28.Qg2 b4
+29.Qg4 Qa6 30.Rd6 c3 31.Kg2 cxb2 32.Nc5 b1=Q 33.Rxb1 Qxa2+
+34.Kf3 Qf2+ 35.Ke4 f5 36.Qxf5 Qc2+ 37.Nd3 Rxf5 0-1

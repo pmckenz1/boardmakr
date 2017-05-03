@@ -1,0 +1,16 @@
+[Event "10s, ch.Met.x Equipos"]
+[Site "10s, ch.Met.x Equipos Hiarcs 7.32"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Juan Carlos Hase"]
+[ECO "C58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+
+c6 7. dxc6 bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. Ne4
+Rb6 12. Qa8 Rb7 13. Nbc3 Nb6 14. Qxb7 Bxb7 15. O-O Be7 0-1

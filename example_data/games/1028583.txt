@@ -1,0 +1,17 @@
+[Event "Blitz"]
+[Site "New York (USA)"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Arthur Bisguier"]
+[Black "Viktor Korchnoi"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nb5 Na6 6.e3 c6 7.Nc3
+Qa5 8.Nd2 O-O 9.Nb3 Qb6 10.Be2 Nd7 11.O-O e5 12.Bg3 Re8 13.a3
+Nab8 14.Qd2 a5 15.Na4 Qa7 16.f4 b5 17.Nac5 a4 18.Nxd7 Nxd7
+19.Nc1 exd4 20.exd4 Qxd4+ 21.Qxd4 Bxd4+ 0-1

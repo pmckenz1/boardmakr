@@ -1,0 +1,19 @@
+[Event "Zurich"]
+[Site "Zurich SUI"]
+[Date "1934.07.23"]
+[EventDate "1934.07.14"]
+[Round "10"]
+[Result "0-1"]
+[White "Hans Mueller"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Bg5 Be7 5.e3 h6 6.Bf4 O-O 7.Nc3 b6
+8.cxd5 exd5 9.Bd3 c5 10.dxc5 bxc5 11.O-O Nc6 12.Rc1 Be6 13.Bb5
+Qb6 14.Qe2 a6 15.Bxc6 Qxc6 16.Ne5 Qb7 17.Rfd1 Rfd8 18.Na4 Rac8
+19.Rc3 d4 20.exd4 Nd5 21.Qf3 Qb5 22.Bc1 cxd4 23.Rxc8 Rxc8
+24.b3 Nb4 25.Qe4 Nxa2 26.Bb2 Bxb3 27.Rxd4 Bxa4 28.Nxf7 Kxf7
+29.Rxa4 Nc3 30.Rd4 Nxe4 0-1

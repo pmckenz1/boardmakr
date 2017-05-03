@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.12"]
+[EventDate "1911.08.21"]
+[Round "17"]
+[Result "1-0"]
+[White "Milan Vidmar"]
+[Black "Semion Alapin"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 d5 2.c4 c6 3.e3 Bf5 4.Qb3 Qc7 5.Nf3 e6 6.Nc3 Nd7 7.Be2
+Ngf6 8.Bd2 Rd8 9.Rc1 Qb8 10.Nh4 Bg6 11.f4 Be7 12.O-O Ne4
+13.Nxe4 Bxe4 14.Nf3 O-O 15.Be1 Rfe8 16.Nd2 Bg6 17.g4 f5 18.c5
+fxg4 19.Bxg4 Bf6 20.Bg3 Bf5 21.Bf3 Nf8 22.Qc3 Rd7 23.b4 Qd8
+24.Kh1 g6 25.Bg2 h5 26.h3 Rg7 27.Rg1 Nd7 28.Nf3 Be7 29.a4 a6
+30.Ra1 Nf6 31.Ng5 Ne4 32.Nxe4 dxe4 33.Qc2 h4 34.Be1 Qd5 35.Bf1
+Kh7 36.Bc4 Qd7 37.Bc3 Reg8 38.Ra2 g5 39.Qd1 Rg6 40.d5 Kh6
+41.d6 gxf4 42.Rxg6+ Rxg6 43.exf4 Qd8 44.Bf1 Bf6 45.Bxf6 Qxf6
+46.d7 Rg8 47.Rg2 Rd8 48.Rg5 Bg6 49.Bg2 Qf7 50.Qg4 Rxd7
+51.Qxh4+ Bh5 52.Bxe4 Rd1+ 53.Kh2 Rd2+ 54.Kg3 1-0

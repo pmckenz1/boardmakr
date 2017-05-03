@@ -1,0 +1,22 @@
+[Event "It (cat.14)"]
+[Site "Alushta (Ukraine)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alexander (Nenashev) Graf"]
+[Black "Andras Adorjan"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 Qd7
+13.d5 Ne5 14.Bxe5 Bxe5 15.f4 Bg7 16.a4 Qc7 17.Qb3 Rb8 18.Rb1
+Kh8 19.Ng3 Bd7 20.e5 a6 21.Qb6 Qxb6 22.Rxb6 Bxa4 23.Ne4 f6
+24.d6 fxe5 25.fxe5 exd6 26.Nxd6 Rd7 27.Nf7+ Kg8 28.Nd6 Kh8
+29.Bxa6 Re7 30.Nf7+ Kg8 31.Bc4 Be8 32.Nd6 Kh8 33.e6 Bxc3
+34.Rf8+ Kg7 35.Rxe8 Rbxe8 36.Nxe8+ Rxe8 37.Rxb7+ Kh6 38.g3 Bf6
+39.Rf7 Bd8 40.h4 Re7 41.Rf8 Bc7 42.Kg2 Kg7 43.Rc8 Kf6 44.Rf8+
+Ke5 45.Rf4 Bd6 46.Kf3 1/2-1/2

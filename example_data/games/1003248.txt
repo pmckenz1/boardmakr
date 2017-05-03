@@ -1,0 +1,22 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Wilhelm Kunze"]
+[Black "Janos Gajdos"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5
+Be7 7. Bf1 O-O 8. d4 Nf5 9. c3 d5 10. Nd2 Bd6 11. Ndf3 Nxe5
+12. dxe5 Be7 13. Bd3 g6 14. Qd2 Re8 15. h3 c6 16. a3 f6 17. g4
+Ng7 18. Nh4 f5 19. g5 Ne6 20. Nf3 Nc5 21. h4 Nb3 22. Qd1 Nxa1
+23. Be3 Rf8 24. Qxa1 f4 25. Bd2 Qd7 26. e6 Qd6 27. c4 b6
+28. cxd5 Qxd5 29. Ne5 Bxe6 30. Bc4 Qd6 31. Ng4 Bxc4 32. Rxe7
+Rf7 33. Nh6+ Kf8 34. Rxf7+ Bxf7 35. b4 Ke7 36. Bc3 Bd5 37. Be5
+Qe6 38. Bxf4 Rf8 39. Qg7+ Ke8 40. Bd2 Qe4 41. Kf1 Qh1+ 42. Ke2
+Bc4+ 43. Ke3 Qf3+ 44. Kd4 Qd3+ 45. Ke5 Qd5# 0-1

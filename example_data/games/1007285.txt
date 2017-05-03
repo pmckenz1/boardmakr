@@ -1,0 +1,25 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.06"]
+[EventDate "1925.04.16"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Ilya Leontievich Rabinovich"]
+[Black "Karel Treybal"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.b3 d4 5.e3 Nc6 6.exd4 Nxd4 7.Bb2
+Bc5 8.Bg2 Nxf3+ 9.Qxf3 Bd4 10.Bxd4 Qxd4 11.Qc3 Qxc3 12.Nxc3 c6
+13.d4 Bd7 14.O-O-O O-O 15.h3 Rfd8 16.g4 Be8 17.f4 Kf8 18.Rhf1
+Rd7 19.f5 exf5 20.Rxf5 h6 21.Ra5 Re7 22.Kb2 a6 23.Rd2 Rd8
+24.Rf5 Re3 25.Rf4 Bd7 26.Rdf2 Be8 27.d5 cxd5 28.cxd5 b5
+29.R4f3 Re1 30.b4 a5 31.Rf4 axb4 32.Rxb4 Re5 33.a3 Ke7 34.Rc2
+h5 35.gxh5 Rxh5 36.Re2+ Kf8 37.Rf4 Rg5 38.Bf3 Rg3 39.h4 Rc8
+40.Rc2 Rd8 41.Ne2 Rh3 42.Ng1 Rg3 43.Ne2 Rh3 44.Nc3 Ke7 45.Rg2
+Kf8 46.Rf2 Nd7 47.Bg2 Re3 48.Rd4 Ne5 49.Bf1 Rc8 50.Rc2 Nc4+
+51.Bxc4 bxc4 52.d6 Bd7 53.Nd5 Rb3+ 54.Kc1 Rxa3 55.Nb6 c3
+56.Nxd7+ Ke8 57.Nf6+ Kd8 58.Kd1 gxf6 59.Rf4 Kd7 60.Rxf6 Re8
+1/2-1/2

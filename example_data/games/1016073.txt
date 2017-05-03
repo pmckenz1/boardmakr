@@ -1,0 +1,18 @@
+[Event "Cup World"]
+[Site "Reykjavik ISL"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Boris Markovich Kogan"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nf3 Bxc3 4.dxc3 Nc6 5.g3 Nge7 6.c5 b6
+7.Be3 O-O 8.Bg2 Rb8 9.b3 f5 10.cxb6 cxb6 11.Bg5 d6 12.O-O h6
+13.Bc1 f4 14.gxf4 exf4 15.c4 Be6 16.Bb2 Ng6 17.Kh1 Qe7 18.Rg1
+Nce5 19.Nxe5 Nxe5 20.Bd5 Rf5 21.f3 Re8 22.Be4 Rg5 23.Qd4 Rc8
+24.Qf2 Bf5 25.Bd5+ Be6 26.Be4 1/2-1/2

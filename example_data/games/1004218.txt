@@ -1,0 +1,17 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Baldur Hoenlinger"]
+[Black "Frigyes Meller"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. g3 Bb7 5. Nf3 d5 6. cxd5 Nxd5
+7. Bg2 Nxc3 8. bxc3 Bd6 9. Qc2 Nd7 10. O-O c5 11. Rd1 cxd4
+12. Rxd4 Qe7 13. Bg5 f6 14. Rad1 Bd5 15. e4 Bc5 16. exd5 Bxd4
+17. Nxd4 exd5 18. Nf5 1-0

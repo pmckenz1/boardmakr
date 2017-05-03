@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Gyorgy Jamrich"]
+[Black "Laszlo Eperjesi"]
+[ECO "B12"]
+[WhiteElo "2270"]
+[BlackElo "2325"]
+[PlyCount "113"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Be7 6. O-O h5
+7. b3 Nh6 8. c4 Bg4 9. Bxh6 Rxh6 10. Nbd2 Nd7 11. h3 Bf5
+12. Nh2 Ba3 13. Bxh5 Bb2 14. Bg4 Bxa1 15. Qxa1 Qa5 16. Qb2
+Bxg4 17. Nxg4 Rh5 18. b4 Qd8 19. Rc1 Kf8 20. c5 a6 21. Nb3 Kg8
+22. Na5 Rb8 23. Qe2 Qg5 24. Rc3 Qf4 25. Qd1 Rh7 26. a4 Qg5
+27. b5 axb5 28. axb5 cxb5 29. Nxb7 Rxb7 30. c6 Rc7 31. cxd7
+Qd8 32. Rg3 Kh8 33. Qb1 Qxd7 34. Qb4 Qe8 35. Ra3 Rh5 36. Ra6
+Rc4 37. Qa5 Rc1+ 38. Kh2 Qe7 39. Qxb5 Qg5 40. Qd3 Qf4+ 41. g3
+Qe4 42. Qxe4 dxe4 43. Ne3 g5 44. Rd6 Kg7 45. d5 g4 46. Nxg4
+exd5 47. Rxd5 Rc2 48. h4 e3 49. Nxe3 Rxf2+ 50. Kh3 Rh8 51. Kg4
+Rg8 52. Rd7 Kf8+ 53. Kh3 Rg6 54. Ng4 Rf5 55. Ra7 Kg7 56. Ra3
+Re6 57. Kg2 1/2-1/2

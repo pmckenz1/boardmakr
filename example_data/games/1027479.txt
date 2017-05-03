@@ -1,0 +1,20 @@
+[Event "Ch Europe (team)"]
+[Site "Oberhausen FRG"]
+[Date "1961.06.22"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Miquel Albareda Creus"]
+[ECO "C73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.Be3
+g6 8.Qd2 Bg7 9.Nc3 Bg4 10.h4 Bxf3 11.gxf3 Ne7 12.O-O-O Qd7
+13.h5 Qe6 14.h6 Bf8 15.f4 exf4 16.Bxf4 Qf7 17.e5 fxe5 18.dxe5
+d5 19.e6 Qxe6 20.Rhe1 Qf7 21.Bxc7 Qf5 22.Bd6 Kf7 23.Kb1 Rd8
+24.Bf4 Nc8 25.Qd4 Rg8 26.Re5 Qg4 27.f3 Qh4 28.Ne4 Qxf4 29.Ng5+
+Qxg5 30.Rxg5 Be7 31.Rgg1 Bf6 32.Qc5 Ne7 33.Rge1 g5 34.Re2 Rg6
+35.Rde1 Rd7 36.Qe3 Rb7 37.c3 Rxh6 38.f4 1-0

@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.17"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Leslie M Leow"]
+[Black "Eugenio Torre"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Na6 7.e5
+Nd7 8.Be3 Nb4 9.Bc4 Nb6 10.Bb3 c6 11.O-O a5 12.a3 N4d5 13.Nxd5
+cxd5 14.Qe2 a4 15.Ba2 Bf5 16.h3 Nc4 17.c3 Qb6 18.Rf2 Rac8
+19.Raf1 Nxe3 20.Qxe3 Qb5 21.g4 Be4 22.Ng5 dxe5 23.dxe5 Bd3
+24.Rd1 Bc4 25.Bb1 Qc5 26.Qg3 Rfd8 27.Nf3 f6 28.e6 d4 29.Nxd4
+Bxe6 30.Re1 Bf7 31.f5 Bh6 32.Bc2 b5 33.Bd3 Rb8 34.Rfe2 Bf8
+35.Qf3 Rb6 36.Kg2 Bd5 37.Be4 Bc4 38.Bd3 Bd5 39.Be4 Bc4 40.Re3
+Bh6 41.fxg6 hxg6 42.Bxg6 e5 43.Nf5 Bxe3 44.Nxe3 Bd5 45.Nxd5
+Qxd5 46.Be4 Qd2+ 47.Re2 Qg5 48.Kg3 Rdd6 49.h4 Qh6 50.Qf5 Qg7
+51.Rf2 Qd7 52.Qg6+ Qg7 53.Qf5 Qd7 54.Qg6+ 1/2-1/2

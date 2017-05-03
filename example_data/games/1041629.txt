@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.19"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Jimmy Chee Meng Liew"]
+[Black "Eugenio Torre"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Be3 c6 5.h3 Bg7 6.f4 b5 7.a3 O-O
+8.Nf3 Nbd7 9.e5 Ne8 10.d5 cxd5 11.Qxd5 Nc7 12.Qd2 dxe5
+13.O-O-O exf4 14.Bxf4 Ne6 15.Bh6 a6 16.Bxg7 Kxg7 17.Qd5 Rb8
+18.Nd4 Nxd4 19.Qxd4+ e5 20.Qe3 Qh4 21.g4 Bb7 22.Rh2 Qe7
+23.Rhd2 Qc5 24.Qg3 Nf6 25.Re1 Rfe8 26.Rde2 Nd7 27.h4 b4
+28.axb4 Qxb4 29.g5 Bc6 30.Nd1 Rb5 31.Qc3 Qf4+ 32.Kb1 Rc5
+33.Qe3 Qa4 34.Nc3 Qb4 35.h5 Rb8 36.Nd1 Qa4 37.Rf2 Ra5 38.Kc1
+Qb4 39.Kb1 Ra3 40.Bd3 Qa5 41.c3 Ra1+ 42.Kc2 Ba4+ 43.Kd2 Bxd1
+0-1

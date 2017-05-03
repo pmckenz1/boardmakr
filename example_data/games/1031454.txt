@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Philadelphia (USA)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Victor J Frias Pablaza"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O
+c6 8.Bg5 Nbd7 9.Nbd2 b6 10.Qc2 Bb7 11.e4 Rc8 12.e5 Ne8 13.Bxe7
+Qxe7 14.cxd5 cxd5 15.Qa4 Bc6 16.Qb3 g6 17.Rfc1 Ng7 18.Rc3 Nf5
+19.Rac1 Nb8 20.Nf1 Bb7 21.Bh3 Nh6 22.Rxc8 Rxc8 23.Rxc8+ Bxc8
+24.Qe3 Kg7 25.Qf4 Ba6 26.Ne3 Be2 27.Ng5 Ng8 28.Bg4 Bxg4
+29.Nxg4 h6 30.Nf3 Nc6 31.Qc1 Qd7 32.Nf6 Nxf6 33.exf6 Kxf6
+34.Qxh6 Ke7 35.h4 Qd6 36.Qg5+ Kf8 37.g4 Qe7 38.Qh6+ Kg8 39.Qf4
+Kg7 40.Kg2 f6 41.Qc1 Nd8 42.g5 Nf7 43.gxf6 Qxf6 44.Qc7 Qf5
+45.Ne5 Kg8 46.Nxf7 Qxf7 47.Qxf7+ Kxf7 48.Kf3 Kf6 49.Kf4 b5
+50.f3 b4 51.b3 e5 52.dxe5 Ke6 53.Kg5 d4 54.Kf4 d3 55.Ke3 Kxe5
+56.Kxd3 Kf4 57.Kc4 1/2-1/2

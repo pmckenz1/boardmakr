@@ -1,0 +1,21 @@
+[Event "25, Lvov"]
+[Site "Lviv UKR"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Iossif Davidovich Dorfman"]
+[Black "Vladimir Bagirov"]
+[ECO "A11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.c4 c6 2.Nf3 d5 3.g3 Bg4 4.Bg2 Nd7 5.cxd5 cxd5 6.Qa4 Ngf6
+7.Nc3 Bxf3 8.Bxf3 e6 9.e4 dxe4 10.Nxe4 Be7 11.Nc3 O-O 12.d4
+Nb6 13.Qd1 Qd7 14.O-O Rac8 15.Qb3 Nfd5 16.Rd1 Rfd8 17.Bd2 Nc4
+18.Be1 Rc6 19.Rab1 a6 20.Bg2 Qc7 21.Nxd5 exd5 22.Qd3 Qb6
+23.Bc3 Rcc8 24.Bh3 Rb8 25.b3 Nd6 26.Bb2 Nb5 27.Rbc1 Na7 28.Qe3
+Bf8 29.Rd3 Qg6 30.Qf3 Nc6 31.Re3 Qd6 32.Kg2 g6 33.Rd1 Bh6
+34.Re2 Re8 35.Re5 Rbd8 36.Re2 f5 37.g4 Rxe2 38.Qxe2 fxg4
+39.Qxg4 Kg7 40.Re1 1/2-1/2

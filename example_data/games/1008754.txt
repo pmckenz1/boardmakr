@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "James E Cobb"]
+[Black "Charles H Storey"]
+[ECO "A37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. Nf3 c5 2. c4 g6 3. Nc3 Bg7 4. g3 Nc6 5. Bg2 d6 6. O-O e5
+7. a3 h5 8. b4 e4 9. Ne1 h4 10. Rb1 hxg3 11. fxg3 Bd4+ 12. e3
+Bxc3 13. dxc3 f5 14. Rb2 Ne5 15. Rd2 Nxc4 16. Rd5 Nf6 17. bxc5
+Be6 18. Qa4+ Qd7 19. Qxc4 Bxd5 20. Qd4 O-O 21. cxd6 Rac8
+22. Nd3 Qxd6 23. Ne5 Qc5 24. Nxg6 Qxd4 25. exd4 Rfe8 26. Bg5
+Kg7 27. Nh4 Be6 28. Bf4 Nd7 29. d5 Rxc3 30. dxe6 Rxe6
+31. Nxf5+ Kg6 32. Bh3 Rxa3 33. Nh4+ Kf7 34. Bc1+ Rf6 35. Bxa3
+Rxf1+ 36. Kxf1 Ne5 37. Ke2 Nc4 38. Bc1 b5 39. Bg2 Nd6 40. Bf4
+Nc4 41. Bxe4 1-0

@@ -1,0 +1,28 @@
+[Event "Cup TV"]
+[Site "Hamburg (Germany)"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eric Lobron"]
+[Black "Eugenio Torre"]
+[ECO "A38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.c4 c5 6.Nc3 Nc6 7.d3
+a6 8.a3 Rb8 9.Rb1 b5 10.cxb5 axb5 11.b4 cxb4 12.axb4 d6 13.Be3
+Bd7 14.Qd2 Ng4 15.Bf4 e5 16.Bg5 f6 17.Qa2+ Kh8 18.Bd2 Re8
+19.Rfc1 Be6 20.Qa6 Rb6 21.Qa3 Qd7 22.Rc2 d5 23.Qc1 f5 24.h3 e4
+25.hxg4 exf3 26.Bxf3 Nd4 27.gxf5 Bxf5 28.Bxd5 Nxc2 29.Qxc2 Rc8
+30.Qb3 Be6 31.Bxe6 Qxe6 32.Qxe6 Rxe6 33.Rb3 Kg8 34.Kf1 Bxc3
+35.Bxc3 Rec6 36.Bd4 Rc1+ 37.Kg2 R1c2 38.e4 Ra8 39.Bc5 Raa2
+40.Kh3 Kf7 41.Kg4 Rab2 42.Ra3 Ra2 43.Rxa2 Rxa2 44.f4 Ra3 45.d4
+Re3 46.e5 h5 47.Kh4 Rd3 48.g4 hxg4 49.Kxg4 Ke6 50.Kg5 Rg3+
+51.Kh4 Rg2 52.Kh3 Rd2 53.Kg3 Kf5 54.Kf3 Ke6 55.Ke4 Re2+ 56.Kd3
+Re1 57.Kd2 Re4 58.Kd3 Rxf4 59.Ke3 Rh4 60.Bf8 Kd5 61.Bc5 Re4+
+62.Kd3 g5 63.Be7 g4 64.Bh4 Rxd4+ 65.Ke3 Rxb4 66.Bg3 Re4+
+67.Kd3 Rxe5 68.Kc3 Re3+ 69.Kb4 Rxg3 70.Kxb5 Rc3 71.Kb4 Rc4+
+72.Kb3 g3 73.Kb2 g2 74.Kb3 g1=Q 75.Kb2 Qb6+ 76.Ka3 Rb4 77.Ka2
+Ra4+ 0-1

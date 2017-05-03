@@ -1,0 +1,23 @@
+[Event "Pinsk"]
+[Site "3"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Ryskin"]
+[Black "Yuri Balashov"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 Bf5 7.Qf3
+Bg6 8.Bxf6 Qxf6 9.Qxf6 gxf6 10.Nf3 Be7 11.Nh4 f5 12.g3 Bxh4
+13.gxh4 f4 14.Bh3 fxe3 15.fxe3 Nd7 16.Rg1 h6 17.Kd2 Nf6
+18.Raf1 Ke7 19.Rf4 Rad8 20.Ne2 Ne4+ 21.Ke1 Rd6 22.Ng3 Rf6
+23.Rxf6 Nxf6 24.Kd2 Rg8 25.Rf1 Ne4+ 26.Ke2 Nd6 27.Rf4 Bb1
+28.a3 a5 29.Rf1 Bh7 30.Rf2 a4 31.Kd2 b6 32.Rf1 c5 33.Kc3 Nb5+
+34.Kd2 cxd4 35.exd4 Nxd4 36.Bg2 Ne6 37.Kc3 Rc8+ 38.Kb4 Rc2
+39.Bxd5 Rxb2+ 40.Kc3 Rxh2 41.Rh1 Rxh1 42.Bxh1 Kd6 43.Kb4 f5
+44.Kxa4 f4 45.Nf1 Kc5 46.Kb3 Kd4 47.Kb4 Bd3 48.Nh2 Nc7 49.Nf3+
+Ke3 50.Ne5 Be2 0-1

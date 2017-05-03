@@ -1,0 +1,16 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1996.08.27"]
+[EventDate "1996.08.17"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Julian Michael Hodgson"]
+[Black "Nick DeFirmian"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.Bg5 e6 3.e4 h6 4.Bxf6 Qxf6 5.Nc3 Bb4 6.Qd2 c5 7.a3
+Bxc3 8.bxc3 d6 9.Nf3 O-O 10.Be2 Nc6 11.O-O e5 12.dxc5 dxc5
+13.Qe3 b6 14.Bc4 Bg4 1/2-1/2

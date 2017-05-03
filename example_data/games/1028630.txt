@@ -1,0 +1,16 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1978.04.06"]
+[EventDate "1978.04.02"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Kenneth S Rogoff"]
+[ECO "D42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 c5 3.e3 e6 4.Nc3 d5 5.Nf3 Nc6 6.cxd5 Nxd5 7.Bd3
+Be7 8.O-O O-O 9.Re1 b6 10.Be4 Nxc3 11.bxc3 Bb7 12.Qc2 g6
+13.Bb2 Qc7 14.d5 exd5 15.Bxd5 Bf6 16.e4 Ne5 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "open"]
+[Site "It  New York (USA) (06)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Rafail Klovsky"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 Be7 6.h3 Nbd7 7.Bd3 a6
+8.Nge2 h6 9.Ng3 g6 10.Be3 h5 11.Qd2 h4 12.Nge2 Nh7 13.a3 Bg5
+14.b4 Rb8 15.Bxg5 Qxg5 16.Qxg5 Nxg5 17.Rb1 Ke7 18.Kd2 Rf8
+19.Rb2 f5 20.f3 f4 21.Rhb1 Ra8 22.Na4 cxb4 23.axb4 b6 24.Rc1
+Nf7 25.Nec3 Rb8 26.Na2 Ra8 27.Rcc2 Rb8 28.Nc1 Rh8 29.Nb3 Rf8
+30.c5 bxc5 31.bxc5 Rb4 32.cxd6 Nxd6 33.Nbc5 a5 34.Rxb4 axb4
+35.Rb2 Nxc5 36.Nxc5 Bd7 37.Rxb4 Rc8 38.Nxd7 Kxd7 39.Bb5+ Kc7
+40.Bc6 Rb8 41.Rxb8 Kxb8 42.Kc3 Kc7 43.Kb4 Kb6 44.Ba4 Kc7
+45.Bc6 Kb6 46.Ba8 g5 47.Bc6 1-0

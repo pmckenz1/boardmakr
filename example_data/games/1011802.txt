@@ -1,0 +1,19 @@
+[Event "Moscow-St Petersburg"]
+[Site "Moscow-St Petersburg"]
+[Date "1911.05.06"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "Eugene Aleksandrovich Znosko-Borovsky"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 d5 2. Nf3 c5 3. e3 e6 4. c4 Nf6 5. Nc3 Nc6 6. a3 a6
+7. dxc5 Bxc5 8. b4 Bd6 9. Bb2 O-O 10. Rc1 dxc4 11. Bxc4 Qe7
+12. O-O Rd8 13. Qe2 b5 14. Bd3 Ne5 15. Nxe5 Bxe5 16. f4 Bb8
+17. Ne4 Nxe4 18. Bxe4 Bb7 19. Qf3 Bxe4 20. Qxe4 Ba7 21. Rf3 f5
+22. Qe5 Rac8 23. Rxc8 Rxc8 24. Rg3 Rc7 25. Kf1 Qd7 26. Ke1 Bb8
+27. Qd4 Qxd4 28. Bxd4 g6 1/2-1/2

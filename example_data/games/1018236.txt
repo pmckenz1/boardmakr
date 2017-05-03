@@ -1,0 +1,16 @@
+[Event "Muenchen (13)"]
+[Site "Muenchen (13)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Viswanathan Anand"]
+[Black "Larry Mark Christiansen"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.c4 c5 2.b3 Nf6 3.Bb2 b6 4.Bxf6 gxf6 5.g3 Bb7 6.Nf3 Nc6 7.Bg2
+Bg7 8.O-O e6 9.Nc3 f5 10.Rc1 O-O 11.e3 d6 12.d4 Qe7 13.Qd2
+Rad8 14.Rfd1 Kh8 15.d5 Ne5 16.Qe2 1/2-1/2

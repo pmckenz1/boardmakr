@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Martin Klebel"]
+[Black "Francesco De Gleria"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5
+7. Be3 c6 8. O-O exd4 9. Nxd4 Re8 10. f3 d5 11. cxd5 cxd5
+12. Qb3 Nc6 13. Rad1 Qa5 14. Qb5 Qxb5 15. Ndxb5 dxe4 16. Nc7
+exf3 17. Bxf3 Rxe3 18. Nxa8 Bf5 19. Nc7 h5 20. Rfe1 Ng4
+21. N7b5 Nb4 22. Rd8+ Kh7 23. Rxe3 Nxe3 24. Bxb7 Bf6 25. Ra8
+Be7 26. a3 Nd3 27. b4 Nc4 28. Bd5 Nd2 29. Rxa7 Bg5 30. Rxf7+
+Kh6 31. Nd1 Bg4 32. Nbc3 Bd8 33. Rb7 Bf6 34. h3 Bd4+ 35. Kh1
+Bf5 36. Ne2 Nf2+ 37. Nxf2 Bxf2 38. Rf7 h4 39. Be6 Kg5 40. Bxf5
+gxf5 41. a4 1-0

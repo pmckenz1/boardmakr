@@ -1,0 +1,25 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Christian Gabriel"]
+[Black "Gerlef Meins"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 cxd4
+7. Bb5+ Bd7 8. exd5 dxc3 9. dxe6 fxe6 10. Bxd7+ Qxd7 11. Qb3
+cxb2 12. Bxb2 Qd5 13. O-O Qxb3 14. axb3 Nc6 15. Rfe1 h6
+16. Rxe6+ Kf7 17. Re4 Bd6 18. Nh4 Rhe8 19. Nf5 Bf8 20. Rf4 Kg8
+21. Rg4 Ne5 22. Bxe5 Rxe5 23. Nxh6+ Kh7 24. Nf7 Re2 25. Ng5+
+Kg8 26. Ne4 Rb2 27. Rg3 a5 28. h4 b5 29. h5 Kh8 30. Rf3 a4
+31. bxa4 bxa4 32. Rxa4 Rxa4 33. Rxf8+ Kh7 34. Re8 Rbb4 35. f3
+Ra5 36. Ng3 Rb2 37. Re2 Rxe2 38. Nxe2 Rxh5 39. Ng3 Ra5 40. Ne4
+Kg6 41. Kf2 Kf5 42. Kg3 Ra2 43. Nf2 Ke5 44. Nd3+ Kd4 45. Nf4
+Ke3 46. Nd5+ Kd2 47. Kf2 Kd3+ 48. Kg3 Ra5 49. Nf4+ Ke3 50. Nh3
+Ke2 51. Kh4 Ra6 52. Ng5 Kf2 53. g3 Kg2 54. Kg4 Ra3 55. Kf4
+Ra4+ 56. Ne4 g5+ 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.23"]
+[EventDate "1923.11.16"]
+[Round "5"]
+[Result "1-0"]
+[White "Lajos Steiner"]
+[Black "Sandor Takacs"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 b5
+7. Bf3 Bb7 8. O-O d6 9. a4 b4 10. Na2 Nf6 11. Re1 Nbd7
+12. Nxb4 d5 13. Nxd5 exd5 14. exd5+ Kd8 15. Nc6+ Kc8 16. Re3
+Bc5 17. Rc3 Re8 18. g3 a5 19. Be3 Rxe3 20. fxe3 Ra6 21. d6 Qb6
+22. Rb3 Bb4 23. Ne7+ Kb8 24. Bxb7 Kxb7 25. Nd5 Qxd6 26. Nxb4
+axb4 27. Qxd6 Rxd6 28. Rxb4+ Ka6 29. Rd4 Re6 30. Kf2 Ne5
+31. h3 Nc6 32. Rc4 Ne4+ 33. Kg2 f5 34. Rd1 Rg6 35. g4 h5
+36. Rd5 hxg4 37. Rxf5 gxh3+ 38. Kxh3 Rh6+ 39. Kg4 Nf6+ 40. Kg3
+Ne7 41. Re5 Nfd5 42. Rc5 Rg6+ 43. Kf3 Rf6+ 44. Ke2 Rd6 45. c4
+Nb6 46. Rxe7 Nxa4 47. Rb5 Rc6 48. Kd3 1-0

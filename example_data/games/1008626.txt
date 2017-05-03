@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Robert Shaw"]
+[Black "Andrew Philip Smith"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 Bd7 6. Be2 f6
+7. O-O fxe5 8. dxe5 Qc7 9. Re1 O-O-O 10. Bf4 h6 11. Nbd2 g5
+12. Bg3 Nge7 13. Bd3 Bg7 14. c4 d4 15. Ne4 Nf5 16. Nxc5 Nxg3
+17. hxg3 g4 18. Nh4 Nxe5 19. Nxd7 Rxd7 20. Ng6 Rg8 21. Nxe5
+Bxe5 22. Re4 h5 23. Qe2 Bd6 24. Rxe6 Rdd8 25. Re4 Kb8 26. Rxd4
+Qb6 27. Rd5 Rge8 28. Qc2 Bc5 29. Rxd8+ Rxd8 30. Be4 h4
+31. gxh4 g3 32. Kf1 Bxf2 33. Rd1 Bd4 34. Bf3 Rh8 35. h5 a6
+36. b3 Bg1 37. Rd7 Kc8 38. Rxb7 Qe3 39. Qf5+ Kd8 40. Qd7# 1-0

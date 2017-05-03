@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Biel SUI"]
+[Date "1994.07.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Anatoly Donchenko"]
+[Black "Utut Adianto"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 c5 5.Nc3 g6 6.O-O Bg7 7.d4
+cxd4 8.Qxd4 Nc6 9.Qd3 Rc8 10.e4 O-O 11.Bd2 d6 12.Rac1 Nd7
+13.b3 Nc5 14.Qe2 Nb4 15.Rfd1 a5 16.Ne1 Re8 17.Bf4 Nc6 18.Be3
+Nb4 19.Nd5 Nba6 20.Qd2 e6 21.Nc3 Nb4 22.Bd4 Bxd4 23.Qxd4 Nxa2
+24.Nxa2 Nxb3 25.Qb2 Nxc1 26.Nxc1 Rxc4 27.e5 Bd5 28.Ncd3 Bxg2
+29.Kxg2 dxe5 30.Nc2 e4 31.Ne5 Qxd1 32.Nxc4 Qf3+ 33.Kh3 Qxf2
+34.N4e3 h5 35.Qe5 Rd8 36.Kh4 Rc8 37.h3 Rc5 38.Qxe4 Qf6+ 0-1

@@ -1,0 +1,26 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.06.27"]
+[EventDate "1937.06.16"]
+[Round "10"]
+[Result "1-0"]
+[White "Ludwig Rellstab"]
+[Black "Wolfgang R Hasenfuss"]
+[ECO "C87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6
+7. c3 b5 8. Bb3 Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 Bd7 12. Nf1
+Rc8 13. Ne3 O-O 14. h3 Qb8 15. b3 Rfd8 16. Bb2 Bf8 17. Qe2 Re8
+18. d5 Nh5 19. g3 g6 20. Kh2 Rc7 21. Ng2 Qc8 22. Ng1 Nb7
+23. c4 Nd8 24. Bd3 b4 25. f4 f6 26. f5 Bh6 27. Nh4 Kg7 28. Rf1
+Nf7 29. Rf2 Qd8 30. Raf1 Bc8 31. Qd1 Be3 32. Rg2 Ng5 33. Qe2
+Bxg1+ 34. Rgxg1 Rf8 35. Bc1 Qe8 36. Nf3 Nxf3+ 37. Qxf3 Kg8
+38. g4 Ng7 39. Bh6 Rcf7 40. h4 Bd7 41. Rg2 a5 42. Rfg1 Kh8
+43. g5 fxg5 44. Rxg5 Rg8 45. Qg2 Nh5 46. Be2 Nf4 47. Qf2 Qd8
+48. h5 Nxe2 49. Qxe2 Bxf5 50. exf5 Rxf5 51. R1g2 Qf6 52. Rxf5
+gxf5 53. Rxg8+ Kxg8 54. Qg2+ Kf7 55. Qg5 Qxg5 56. Bxg5 Ke8
+57. Kg3 Kf7 58. Kh4 Kf8 59. Bh6+ Kf7 60. Kg5 f4 61. Kf5 Ke7
+62. Bg5+ Kf7 63. Bf6 Ke8 64. Ke6 1-0

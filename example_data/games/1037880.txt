@@ -1,0 +1,19 @@
+[Event "32nd olm Yerevan ARM"]
+[Site "Yerevan ARM"]
+[Date "1996.09.23"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Throstur Thorhallsson"]
+[Black "Lawrence Day"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 g6 2.d4 Nf6 3.e5 Nh5 4.Be2 Ng7 5.Nf3 d5 6.Bf4 c6 7.Nbd2
+Bg4 8.h3 Bxf3 9.Nxf3 h5 10.Qd2 Nd7 11.O-O-O b5 12.Ng5 e6
+13.Qc3 Be7 14.Nf3 Rc8 15.g4 b4 16.Qd2 Qa5 17.Kb1 c5 18.dxc5
+Nxc5 19.Bd3 Nxd3 20.cxd3 Qb6 21.Rc1 Rxc1+ 22.Rxc1 hxg4 23.hxg4
+Kd7 24.Bg5 Rh3 25.Qf4 Rxf3 26.Qxf3 Bxg5 27.Qxf7+ Kd8 28.f4 Qf2
+29.Qxg7 1-0

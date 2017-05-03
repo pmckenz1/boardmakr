@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.18"]
+[EventDate "1883.04.26"]
+[Round "12.1"]
+[Result "1-0"]
+[White "James Mason"]
+[Black "James Mortimer"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Nbd2 Bd7
+7. Nf1 Be7 8. Bg5 h6 9. Bxf6 Bxf6 10. Bxc6 Bxc6 11. Ng3 g6
+12. Qe2 Qe7 13. Nf1 Bd7 14. Ne3 c6 15. c3 d5 16. exd5 O-O
+17. dxc6 Bxc6 18. O-O Bg7 19. Rfe1 f5 20. Nc4 e4 21. dxe4 fxe4
+22. Nd4 Bxd4 23. cxd4 Rf4 24. Ne5 Qf6 25. Qe3 Rf8 26. Re2 Kh7
+27. Rc1 Qe6 28. b3 R8f5 29. Nxc6 bxc6 30. Rec2 Qf7 31. h3 Rf3
+32. gxf3 exf3 33. Rxc6 Rg5+ 34. Qxg5 hxg5 35. Rc7 1-0

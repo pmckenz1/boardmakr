@@ -1,0 +1,20 @@
+[Event "Cuxhaven"]
+[Site "Cuxhaven"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Liviu Dieter Nisipeanu"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 Ne4 4.Nce2 d4 5.c3 Nc6 6.cxd4 Ng5 7.f4
+Ne6 8.Nf3 Nexd4 9.Nexd4 Nxd4 10.Qa4+ Nc6 11.Bb5 Bd7 12.e6 Bxe6
+13.Ne5 Bd7 14.Nxc6 bxc6 15.Bxc6 e6 16.O-O Be7 17.d4 Rb8 18.f5
+exf5 19.Rxf5 f6 20.Rd5 Bd6 21.Bf4 Bxc6 22.Qxc6+ Qd7 23.Re1+
+Kd8 24.Qa6 Re8 25.Rc1 Re6 26.Qxa7 Rxb2 27.Qa8+ Ke7 28.Qg8 Ree2
+29.Qxg7+ Ke8 30.Qg8+ Ke7 31.Rg5 Bxf4 32.Rg7+ Kd6 33.Rxd7+ Kxd7
+34.Qg4+ 1-0

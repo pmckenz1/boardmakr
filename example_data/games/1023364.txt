@@ -1,0 +1,20 @@
+[Event "11, Frunze"]
+[Site "11, Frunze"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Taalaibek Imanaliev"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 d6 4.g3 e5 5.Bg2 Nc6 6.d5 Nb8 7.Nc3 Nd7
+8.O-O Ngf6 9.e4 Nc5 10.Ne1 a5 11.Nd3 Nxd3 12.Qxd3 O-O 13.f4
+exf4 14.gxf4 Nd7 15.Be3 g5 16.f5 b6 17.Rac1 Bxc3 18.Rxc3 f6
+19.Qe2 Ne5 20.Bd4 Qe8 21.h4 h6 22.hxg5 hxg5 23.Rh3 Kg7 24.Kf2
+Rh8 25.Rxh8 Qxh8 26.Bxe5 dxe5 27.Rh1 Qe8 28.Bf3 Bd7 29.Kg3 Qg8
+30.Rh3 Kf8 31.d6 cxd6 32.Qh2 Kg7 33.Rh6 Be8 34.Bh5 Qxc4
+35.Rh7+ Kf8 36.Be2 1-0

@@ -1,0 +1,25 @@
+[Event "10s, Grand Prix"]
+[Site "10s, Grand Prix Hiarcs 7.32"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Rodolfo Garbarino"]
+[ECO "B04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. e6 fxe6 6. Bc4 Nb6
+7. Bd3 Nb4 8. Ng5 Nxd3+ 9. Qxd3 Qd7 10. Nxh7 Qc6 11. Qg6+ Kd7
+12. Nxf8+ Rxf8 13. Qxg7 Qxc2 14. O-O Rxf2 15. Rxf2 Qxc1+
+16. Rf1 Qxb2 17. Na3 Qxa3 18. Rf3 Qb2 19. Re1 Nd5 20. Rxe6
+Qb1+ 21. Rf1 Qxf1+ 22. Kxf1 Kxe6 23. h4 Nf6 24. h5 b6 25. h6
+Ba6+ 26. Ke1 Bd3 27. d5+ Kxd5 28. Kd2 Bb1 29. Qxe7 Nh7
+30. Qxc7 Be4 31. Qf7+ Kc5 32. Ke3 d5 33. Qc7+ Kb5 34. Kd4 a5
+35. a4+ Ka6 36. g4 Rg8 37. Qd7 Rf8 38. Qg7 Rc8 39. g5 Rc4+
+40. Ke5 Rxa4 41. g6 Ng5 42. Qg8 d4 43. Qe8 Ra3 44. g7 Bh7
+45. g8=Q Bxg8 46. Qxg8 Rc3 47. Kxd4 Rc5 48. Qe8 Kb7 49. Qe7+
+Kc6 50. Ke3 b5 51. Qf6+ Kb7 52. Qe7+ Kc6 53. Qe8+ Kd5 54. Qd7+
+Kc4 55. Qd4+ 1-0

@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Aosta (Italy)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Srdjan Panzalovic"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxg5
+7.Nxg5 e6 8.Nf3 exd5 9.e3 a5 10.Be2 O-O 11.O-O Re8 12.a3 Bf8
+13.Rc1 c6 14.Re1 Nd7 15.Bf1 Nb6 16.Ne5 Bf5 17.Bd3 Bxd3 18.Nxd3
+Nc4 19.a4 Bb4 20.Re2 Bxc3 21.Rxc3 Re7 22.Nc5 Nd6 23.Rc1 Ne4
+24.Nd3 Qb6 25.b3 Kg7 26.Qc2 Rae8 27.Qb2 Nd6 28.Rec2 Kg8 29.Qa3
+Ne4 30.Rb2 Qa6 31.Ne1 Re6 32.Rbc2 g5 33.Ra1 Qb6 34.Nd3 Rh6
+35.Ne5 Qc7 36.f3 Nd6 37.Qc1 Rhe6 38.e4 dxe4 39.Qxg5+ Kh8
+40.fxe4 f6 41.Ng6+ hxg6 42.Qh6+ Qh7 43.Qxh7+ Kxh7 0-1

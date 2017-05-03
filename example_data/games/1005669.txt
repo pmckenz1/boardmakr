@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "1-0"]
+[White "Yurij Semerij"]
+[Black "Evgeny Maratkanov"]
+[ECO "D11"]
+[WhiteElo "2240"]
+[BlackElo "2140"]
+[PlyCount "87"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nbd2 Bf5 5. g3 e6 6. Bg2 Be7
+7. O-O h6 8. b3 O-O 9. Bb2 a5 10. Ne5 Nfd7 11. e4 dxe4
+12. Nxe4 Nxe5 13. dxe5 Qxd1 14. Rfxd1 Bxe4 15. Bxe4 Re8 16. f4
+Na6 17. a3 Red8 18. g4 h5 19. gxh5 Nc5 20. Bc2 a4 21. b4 Nb3
+22. Rxd8+ Rxd8 23. Rd1 c5 24. Rxd8+ Bxd8 25. Bxb3 axb3
+26. bxc5 Be7 27. c6 bxc6 28. Kf2 Kh7 29. Ke3 Kh6 30. Kd4 Kxh5
+31. Kc3 Kg4 32. Bc1 Kf3 33. Kxb3 Ke4 34. a4 Bc5 35. a5 g6
+36. a6 Ba7 37. Kb4 Kd4 38. Ba3 Ke4 39. Ka5 Kd4 40. Bd6 Kxc4
+41. Bc7 Kc5 42. Bd8 Kd5 43. Bb6 Bb8 44. Kb4 1-0

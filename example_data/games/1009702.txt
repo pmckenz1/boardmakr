@@ -1,0 +1,22 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Curt Hansen"]
+[Black "Nikolaj Borge"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 b6 4. e4 d6 5. d4 cxd4 6. Nxd4 Bb7
+7. Qe2 e6 8. g4 Be7 9. g5 Nfd7 10. h4 a6 11. Be3 Nc6 12. Bg2
+Rc8 13. Rc1 O-O 14. O-O Nxd4 15. Bxd4 Ne5 16. f4 Nxc4 17. b3
+Na5 18. Qf2 Rc6 19. f5 e5 20. Be3 f6 21. Nd5 fxg5 22. Bxb6
+Rxb6 23. Nxe7+ Kh8 24. hxg5 Qxe7 25. Qxb6 Qxg5 26. Rce1 Qd8
+27. Qxd8 Rxd8 28. Rc1 Nc6 29. Rc3 a5 30. Rfc1 Nd4 31. Kf2 Nb5
+32. R3c2 h6 33. Ke3 d5 34. exd5 Nd6 35. Rf2 Ne8 36. Rc5 a4
+37. bxa4 Nf6 38. Rb2 Bxd5 39. Rd2 e4 40. Rd1 Ra8 41. Rcxd5
+Nxd5+ 42. Rxd5 Rxa4 1-0

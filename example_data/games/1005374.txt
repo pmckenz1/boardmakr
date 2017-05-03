@@ -1,0 +1,22 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "9"]
+[Result "1-0"]
+[White "Vladislav Borovikov"]
+[Black "Vladimir L Stoockalov"]
+[ECO "E63"]
+[WhiteElo "2470"]
+[BlackElo "2445"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6
+7. Nc3 a6 8. h3 Rb8 9. Bg5 h6 10. Be3 e5 11. dxe5 dxe5 12. Qc1
+Kh7 13. Rd1 Bd7 14. Nd5 Nxd5 15. cxd5 Ne7 16. Bc5 Re8 17. Nd2
+b6 18. Bxe7 Rxe7 19. Qc2 f5 20. e4 f4 21. Rac1 Be8 22. g4 g5
+23. Bf1 Ra8 24. Qb3 Ra7 25. a4 Bf6 26. Nc4 Rd7 27. Rd2 Bf7
+28. Rcd1 Kg7 29. Qc3 Qe8 30. b3 Rb7 31. Nb2 b5 32. Nd3 Rd6
+33. Nc5 Ra7 34. Ra1 c6 35. axb5 cxd5 36. Rxa6 Qb8 37. Rda2 Re7
+38. Rxd6 Qxd6 39. Ra6 Qb8 40. exd5 Bxd5 41. Qd3 Qg8 42. Qf5
+Qf7 43. Bc4 1-0

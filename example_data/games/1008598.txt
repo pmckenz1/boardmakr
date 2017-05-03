@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Matthew P Broomfield"]
+[Black "Bin-Sattar Reefat"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 d5 2. Nf3 c6 3. e3 e6 4. c4 f5 5. g4 fxg4 6. Ne5 Nf6
+7. h3 g3 8. f4 Be7 9. Bg2 O-O 10. Nc3 b6 11. O-O Bb7 12. Qb3
+Na6 13. Rd1 Rc8 14. e4 Bb4 15. Be3 Kh8 16. f5 exf5 17. exf5
+Bxc3 18. Qxc3 Ne4 19. Bxe4 dxe4 20. Rf1 Qe7 21. Ng4 Qh4 22. f6
+gxf6 23. Nxf6 Qxh3 24. Qd2 g2 25. Rf4 Rxf6 26. Rxf6 Qh1+
+27. Kf2 Qh4+ 0-1

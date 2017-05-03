@@ -1,0 +1,20 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "6"]
+[Result "0-1"]
+[White "Konstantin Karanda"]
+[Black "Dmitry Shurkaev"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+Ne4 7. Qc2 f5 8. Nh3 b6 9. f3 Nf6 10. e3 Bb7 11. Be2 d6
+12. O-O Qe7 13. Re1 Nbd7 14. b3 g6 15. Bb2 e5 16. dxe5 dxe5
+17. Rad1 Rad8 18. Nf2 Rfe8 19. Nd3 c5 20. Nf2 Kf7 21. Rd2 Nb8
+22. Red1 Nc6 23. g4 Rxd2 24. Rxd2 f4 25. exf4 Nd4 26. Bxd4
+exd4 27. Kg2 Qe3 28. h3 Qxf4 29. Rd3 Nd7 30. Qd2 Qxd2 31. Rxd2
+Re3 32. Bd1 Ne5 33. Ne4 Bxe4 34. fxe4 Rxe4 35. Rf2+ Ke7 0-1

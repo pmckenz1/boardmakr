@@ -1,0 +1,17 @@
+[Event "It (cat.9)"]
+[Site "Budapest HUN"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Laszlo Barczay"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nd2
+Bg7 8.e4 O-O 9.Be2 Na6 10.O-O Nc7 11.a4 b6 12.Nc4 Ba6 13.Bg5
+h6 14.Bh4 Qd7 15.Re1 Rfe8 16.f3 Nh5 17.Qd2 g5 18.Bf2 Nf4
+19.Ne3 Bxc3 20.bxc3 Nxe2+ 21.Rxe2 Bxe2 22.Qxe2 f5 1/2-1/2

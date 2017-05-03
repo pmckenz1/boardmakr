@@ -1,0 +1,19 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.06"]
+[EventDate "2000.03.03"]
+[Round "4"]
+[Result "1-0"]
+[White "Valerij Filippov"]
+[Black "Wang Lei"]
+[ECO "D44"]
+[WhiteElo "2584"]
+[BlackElo "2495"]
+[PlyCount "57"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5
+7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7
+12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15. O-O b4 16. Na4 Qb5
+17. a3 exd5 18. axb4 d4 19. Bxb7+ Kxb7 20. Re1 cxb4 21. Qxd4
+Qxg5 22. Qxc4 Nb6 23. Nxb6 axb6 24. Qxf7+ Kc6 25. Qe6+ Kb7
+26. Qf7+ Kc6 27. Qe6+ Kb7 28. Red1 Rxd1+ 29. Rxd1 1-0

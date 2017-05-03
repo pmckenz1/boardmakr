@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Anthony Campbell"]
+[Black "Carl Adamec"]
+[ECO "A22"]
+[WhiteElo "2232"]
+[BlackElo "1973"]
+[PlyCount "66"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Be7 4. Nf3 d6 5. d4 Nbd7 6. e4 O-O
+7. Bg2 a5 8. O-O exd4 9. Nxd4 Nc5 10. b3 Bd7 11. h3 Re8
+12. Re1 Qc8 13. Kh2 Ne6 14. f4 Nxd4 15. Qxd4 Bc6 16. Bb2 Bf8
+17. a3 Qb8 18. Nd5 Bxd5 19. cxd5 c5 20. Qc3 Qc7 21. e5 Nd7
+22. a4 Rac8 23. exd6 Qb6 24. h4 Rxe1 25. Rxe1 Qxd6 26. Qxa5 c4
+27. bxc4 Rxc4 28. Rc1 b6 29. Qa8 Rxc1 30. Bxc1 Nf6 31. Qc6
+Ng4+ 32. Kh3 Nf2+ 33. Kh2 Ng4+ 1/2-1/2

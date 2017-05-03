@@ -1,0 +1,25 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Thomas Mautner"]
+[Black "Vladimir Smirnov"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Nbd2 Nd7 5. Bd3 e5 6. c3 Ne7
+7. Qe2 a6 8. a4 Nc6 9. Nb3 Nf6 10. h3 Qe7 11. d5 Nb8 12. Bg5
+Nbd7 13. Nbd2 h6 14. Be3 Nf8 15. g3 N6h7 16. c4 Nd7 17. b4 O-O
+18. Nh4 Ndf6 19. Ndf3 g5 20. Ng2 g4 21. hxg4 Nxg4 22. Nfh4 Bf6
+23. f3 Nxe3 24. Nxe3 Bxh4 25. Rxh4 Qf6 26. Kf2 Kg7 27. Rah1
+Rh8 28. Rxh6 Qxh6 29. Rxh6 Kxh6 30. f4 Nf6 31. fxe5 dxe5
+32. Qf3 Kg7 33. Nf5+ Bxf5 34. Qxf5 Rh5 35. Qf3 Rah8 36. Bf1
+Rg5 37. Bg2 Nh5 38. c5 Nxg3 39. b5 axb5 40. axb5 Rh6 41. Qe3
+Rf6+ 42. Kg1 Rfg6 43. b6 cxb6 44. d6 Nxe4 45. Qxe4 Rxg2+
+46. Kf1 Rg1+ 47. Kf2 R1g2+ 48. Kf1 bxc5 49. Qxe5+ Kh7 50. Qf5
+Kg7 51. Qe5+ Kh7 52. Qe7 Rg1+ 53. Kf2 Rd1 54. Qxf7+ Kh6
+55. Qf4+ Kg7 56. Qe5+ Rf6+ 57. Qxf6+ Kxf6 0-1

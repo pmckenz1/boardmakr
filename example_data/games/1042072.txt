@@ -1,0 +1,26 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Johannes Hermanus Addicks"]
+[Black "Max Euwe"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 c5 4. dxc5 Qa5 5. e4 Nxe4 6. b4
+Qxb4 7. Rb1 Qa5 8. Rb5 Qxb5 9. Bxb5 Nc3 10. Bb2 Nxd1 11. Bxh8
+f6 12. Kxd1 b6 13. Re1 Kd8 14. cxb6 axb6 15. a4 Ba6 16. g4
+Bxb5 17. axb5 Ra1+ 18. Ke2 Rxe1+ 19. Kxe1 Ke8 20. g5 Kf7
+21. gxf6 exf6 22. Nc4 Bc5 23. Nfd2 d5 24. Ne3 Bxe3 25. fxe3
+Nd7 26. c4 Kg8 27. cxd5 Kxh8 28. Ke2 Kg7 29. Kd3 Kf7 30. Nc4
+Ke7 31. Kd4 f5 32. h4 Kf6 33. e4 fxe4 34. Kxe4 h6 35. Kf4 g5+
+36. hxg5+ hxg5+ 37. Ke4 Nc5+ 38. Kf3 Nd7 39. Ke4 Kg6 40. d6
+Kf6 41. Kd5 g4 42. Kc6 g3 43. Ne3 Ke6 44. Kc7 Ne5 45. Kxb6
+Nc4+ 46. Kc6 Nxe3 47. d7 Ke7 48. b6 g2 49. b7 g1=Q 50. d8=Q+
+Kxd8 51. b8=Q+ Ke7 52. Qe5+ Kf7 53. Qf4+ Kg6 54. Qd6+ Kg5
+55. Qe7+ Kf4 56. Qd6+ Kf3 57. Qf6+ Kg3 58. Qe5+ Kf2 59. Qb2+
+1/2-1/2

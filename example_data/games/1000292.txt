@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "8"]
+[Result "0-1"]
+[White "Stanislav Ritvin"]
+[Black "Rusudan Goletiani"]
+[ECO "B20"]
+[WhiteElo "2273"]
+[BlackElo "2425"]
+[PlyCount "84"]
+
+1. e4 c5 2. c4 e6 3. Nc3 a6 4. Nf3 b6 5. d4 cxd4 6. Nxd4 Qc7
+7. Be2 Nf6 8. O-O Bb7 9. f3 Bd6 10. g3 Nc6 11. Kg2 Nxd4
+12. Qxd4 Be5 13. Qd3 h5 14. Bg5 h4 15. Rac1 hxg3 16. hxg3 Rh5
+17. Bxf6 Bxf6 18. f4 Rh6 19. Bf3 Rg6 20. Bh5 Rh6 21. Bf3 d6
+22. b3 Ke7 23. a4 g5 24. f5 g4 25. Bxg4 Rg8 26. fxe6 fxe6
+27. Nd5+ exd5 28. cxd5 Qd8 29. Be6 Rg7 30. Qc2 Ke8 31. Rh1 Bh4
+32. Rh3 Rhg6 33. Bf5 Rxg3+ 34. Rxg3 Bxg3 35. Kf3 Be5 36. Rf1
+Qh4 37. Qf2 Qh5+ 38. Ke3 Qg5+ 39. Kd3 a5 40. Qxb6 Qg3+ 41. Ke2
+Bf4 42. Be6 Ba6+ 0-1

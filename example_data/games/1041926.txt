@@ -1,0 +1,25 @@
+[Event "Broadstairs"]
+[Site "Broadstairs ENG"]
+[Date "1921.03.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Sullivan"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6
+7. Bg5 Bxc3 8. bxc3 Be6 9. d4 Bg4 10. h3 Bh5 11. g4 Bg6
+12. Re1 Qe7 13. Rb1 Nd8 14. Bd3 c6 15. Kh2 Ne6 16. Bc1 Qc7
+17. Kh1 Rfe8 18. Qe2 Nf4 19. Bxf4 exf4 20. Nd2 Nxe4 21. Nxe4
+Bxe4+ 22. Bxe4 d5 23. Qf3 dxe4 24. Rxe4 g5 25. Rbe1 Kf8
+26. Qe2 Qd7 27. Rxe8+ Rxe8 28. Qxe8+ Qxe8 29. Rxe8+ Kxe8
+30. c4 Kd7 31. Kg2 Ke6 32. Kf3 f5 33. h4 h6 34. hxg5 hxg5
+35. d5+ cxd5 36. cxd5+ Ke5 37. d6 fxg4+ 38. Kxg4 Kxd6 39. Kxg5
+Ke5 40. c4 b6 41. f3 a6 42. a4 a5 43. Kg4 Kd4 44. Kxf4 Kxc4
+45. Ke3 Kb4 46. f4 Kxa4 47. f5 Kb3 48. f6 a4 49. f7 a3
+50. f8=Q a2 51. Qf6 b5 52. Kd3 b4 53. Qa1 Ka3 54. Kc4 b3
+55. Qc3 1-0

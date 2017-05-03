@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1982.02.09"]
+[EventDate "1982.02.08"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Carlos Garcia Palermo"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6
+7. Nf4 Bf7 8. exf6 gxf6 9. Qe2 Qe7 10. Nd3 Nd7 11. g5 fxg5
+12. Rg1 h6 13. f4 Ngf6 14. fxg5 hxg5 15. Bxg5 Bh6 16. h4 O-O-O
+17. Qe3 Rdg8 18. O-O-O Bxg5 19. hxg5 Nh7 20. g6 Bxg6 21. Bh3
+Bxd3 22. Rxg8+ Rxg8 23. Qxe6 Qg5+ 24. Rd2 Nhf6 25. cxd3 Qh5
+26. Kc2 Rg3 27. Bf5 Rf3 28. Rg2 Kc7 29. Ne2 1/2-1/2

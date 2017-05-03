@@ -1,0 +1,16 @@
+[Event "10s, Mitropa Cup Bad Woerishofen"]
+[Site "10s, Mitropa Cup Bad Woerishofen Hiarcs 7.32"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Beat Zueger"]
+[ECO "E76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Bg4
+7. Be3 Nfd7 8. Qd2 c5 9. dxc5 Nxc5 10. Bd4 Nc6 11. Bxg7 Kxg7
+12. Be2 Bxf3 13. Bxf3 e5 1/2-1/2

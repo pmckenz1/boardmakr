@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Peter Schmidt"]
+[Black "Rainer F A Knaak"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 e6 2. Nf3 d5 3. c4 c6 4. Qc2 Nf6 5. Bg5 h6 6. Bxf6 Qxf6
+7. e3 Nd7 8. Nc3 g6 9. Bd3 dxc4 10. Bxc4 Bg7 11. O-O O-O
+12. a4 a5 13. Rfd1 Qe7 14. h3 Nb6 15. Bf1 Nd5 16. e4 Nb4
+17. Qb3 b6 18. Na2 Bb7 19. Nxb4 axb4 20. Bc4 Ra5 21. Rab1 Rfa8
+22. d5 cxd5 23. exd5 Bxd5 24. Bxd5 exd5 25. Rxd5 Rxa4 26. Rdd1
+Ra2 27. Re1 Qc5 28. g3 b5 29. Kg2 Qc4 30. Re3 Ra1 31. Rxa1
+Rxa1 32. Re8+ Kh7 33. Qxc4 bxc4 34. Rc8 Rc1 35. Nd2 Rc2
+36. Nxc4 Bxb2 37. Kf3 Bg7 0-1

@@ -1,0 +1,23 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.22"]
+[EventDate "2000.01.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Dejan Stojanovski"]
+[Black "Karel van der Weide"]
+[ECO "B62"]
+[WhiteElo "2279"]
+[BlackElo "2452"]
+[PlyCount "101"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6
+7. Qd3 Be7 8. O-O-O O-O 9. Qg3 Nxd4 10. Rxd4 Qa5 11. Ra4 Qc7
+12. Rc4 Qa5 13. Ra4 Qd8 14. Be2 Nh5 15. Bxe7 Nxg3 16. Bxd8
+Nxe2+ 17. Nxe2 Rxd8 18. Rd4 Kf8 19. Rhd1 Ke7 20. e5 d5 21. c4
+b6 22. cxd5 Rxd5 23. Rxd5 exd5 24. Nd4 f6 25. Re1 g6 26. exf6+
+Kxf6 27. Re8 Bb7 28. Rxa8 Bxa8 29. Kd2 Ke5 30. Ke3 Bb7 31. f4+
+Kd6 32. b4 a5 33. a3 axb4 34. axb4 Ba6 35. g4 Bf1 36. Kf3 Bd3
+37. Kg3 Ke7 38. g5 Kd6 39. h4 Ba6 40. h5 Bc8 41. h6 Bd7
+42. Kf3 Be8 43. Ke3 Bf7 44. Nf3 Ke6 45. Ne5 Bg8 46. Ng4 Kf5
+47. Nf6 d4+ 48. Kxd4 Kxf4 49. Nxg8 Kxg5 50. Ke5 b5 51. Ke6 1-0

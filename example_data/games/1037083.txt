@@ -1,0 +1,21 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "61"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Ephraim Carmel"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.d4 Bg7 7.Nf3
+Nc6 8.e3 O-O 9.O-O e5 10.d5 Ne7 11.e4 h6 12.a4 Nc4 13.h3 Kh7
+14.Re1 Bd7 15.b3 Nd6 16.Ra2 a6 17.Ba3 Qb8 18.Rc2 b5 19.axb5
+axb5 20.Bb4 Ra6 21.Qe2 Rc8 22.Rd1 f6 23.Na2 Bf8 24.Bc5 Qa8
+25.Ne1 Nb7 26.Be3 Ng8 27.Nd3 Ra3 28.f4 exf4 29.gxf4 Rxb3 30.f5
+gxf5 31.Nac1 Ra3 32.e5 fxe5 33.Nxe5 Be8 34.Ncd3 Nf6 35.Qf1 Nd6
+36.Bc5 Ra4 37.Bxd6 Bxd6 38.Qxf5+ Kg7 39.Bf3 Be7 40.Rg2+ Kf8
+41.Nf4 Rxf4 42.Qxf4 1-0

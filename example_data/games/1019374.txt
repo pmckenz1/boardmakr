@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1873.07.29"]
+[EventDate "1873.07.21"]
+[Round "3.2"]
+[Result "1-0"]
+[White "Adolf Anderssen"]
+[Black "Samuel Rosenthal"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O
+d3 8.Qb3 Qf6 9.Re1 Nge7 10.Bg5 Qg6 11.Bxe7 Kxe7 12.e5 Kf8
+13.Nbd2 Bb6 14.Ne4 Nd8 15.Qa3+ Ke8 16.Nf6+ 1-0

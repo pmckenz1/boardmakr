@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Helgi Olafsson"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d5
+exd5 8.Nh4 c6 9.cxd5 Nxd5 10.Nf5 Nc7 11.e4 d5 12.Re1 dxe4
+13.Qg4 Bf6 14.Nc3 Bc8 15.Nxe4 Nd5 16.Bg5 Bxg5 17.Nxg5 Qf6
+18.Be4 h6 19.Nh7 Kxh7 20.Ne7 g6 21.Nxc8 Na6 22.Bxd5 cxd5
+23.Ne7 Rad8 24.Rad1 Rfe8 25.Qa4 Nc5 26.Qc6 Qd6 27.b4 Rxe7 0-1

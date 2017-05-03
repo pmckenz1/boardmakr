@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1866.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Gustav Richard Neumann"]
+[ECO "C38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.d4 d6 6.h4 h6 7.c3 Nc6
+8.Na3 g4 9.Ng1 Nf6 10.Bd3 d5 11.e5 Nh5 12.Ne2 f3 13.gxf3 gxf3
+14.Nf4 Ng3 15.Rh2 Bg4 16.Kf2 Ne4+ 17.Bxe4 dxe4 18.Qe1 Bf5
+19.Nh5 Bxe5 20.dxe5 Nxe5 21.Kg1 Rg8+ 22.Kh1 f2 23.Nf6+ Qxf6
+24.Qxf2 e3 0-1

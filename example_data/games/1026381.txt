@@ -1,0 +1,21 @@
+[Event "Kolisch Memorial"]
+[Site "Vienna AUT"]
+[Date "1890.02.16"]
+[EventDate "1890.??.??"]
+[Round "12"]
+[Result "0-1"]
+[White "Johann Hermann Bauer"]
+[Black "Georg Marco"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Bc5 7.a4
+Rb8 8.axb5 axb5 9.Nc3 b4 10.Nd5 O-O 11.d3 Nxd5 12.Bxd5 Nd4
+13.Nxd4 Bxd4 14.O-O Kh8 15.Qe1 c6 16.Bb3 f5 17.exf5 Rxf5
+18.Kh1 Qf6 19.f4 Bb7 20.c3 bxc3 21.bxc3 Bb6 22.Bd1 exf4 23.Bg4
+Re5 24.Qd1 Be3 25.d4 Re7 26.Bxe3 Rxe3 27.Qb3 Qe7 28.Rxf4 c5
+29.d5 Re8 30.Raf1 Ba6 31.d6 Qxd6 32.Qf7 Bxf1 33.Rxf1 Re1 34.h3
+Rxf1+ 35.Qxf1 Qg3 36.Be2 Qe3 37.Bf3 Qe1 38.Qxe1 Rxe1+ 39.Kh2
+Rc1 0-1

@@ -1,0 +1,20 @@
+[Event "ARG-ch"]
+[Site "04"]
+[Date "1958.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Jaime Emma"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 Nc6 2.Nc3 e5 3.Nf3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6
+7.Bd3 d5 8.exd5 cxd5 9.O-O O-O 10.Bg5 Be6 11.Qf3 Be7 12.Rfe1
+Rb8 13.Rab1 c6 14.h3 Re8 15.Ne2 h6 16.Bf4 Bd6 17.Nd4 Bxf4
+18.Qxf4 Bd7 19.Rxe8+ Qxe8 20.Nb3 Rd8 21.Nc5 Kf8 22.b4 Qe7
+23.c3 Be8 24.Kf1 a5 25.Re1 Qa7 26.Qd4 Kg8 27.bxa5 Ra8 28.a6
+Qc7 29.Kg1 Qa5 30.a4 Nd7 31.Nxd7 Bxd7 32.Re7 Be6 33.Qb4 Qd8
+34.a7 Bd7 35.Qb7 Rxa7 36.Rxd7 Qxd7 37.Qb8+ 1-0

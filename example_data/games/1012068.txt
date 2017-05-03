@@ -1,0 +1,21 @@
+[Event "Simul, 28b"]
+[Site "Riga LAT"]
+[Date "1921.05.13"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Arvids Kalnins"]
+[ECO "C28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. f4 O-O 6. Nf3 d6
+7. f5 Na5 8. Qe2 c6 9. a3 Nxc4 10. dxc4 Qb6 11. b4 Rd8 12. Be3
+Qc7 13. O-O d5 14. cxd5 cxd5 15. Nb5 Qb8 16. exd5 Nxd5 17. c4
+a6 18. cxd5 axb5 19. Bc5 Bxc5+ 20. bxc5 Rxd5 21. Ng5 h6
+22. Ne4 Bd7 23. f6 g6 24. Rad1 Rxd1 25. Rxd1 Bc6 26. Qe3 Bxe4
+27. Qxe4 Qc7 28. Rd5 Ra6 29. Qh4 Kh7 30. g4 Rxa3 31. g5 h5
+32. Qb4 Ra1+ 33. Kf2 e4 34. Rd6 Rc1 35. Qxb5 Rxc5 36. Qb3 Rc2+
+37. Ke1 Rxh2 38. Rd1 Qa5+ 0-1

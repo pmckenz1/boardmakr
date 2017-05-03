@@ -1,0 +1,21 @@
+[Event "Leningrad 2nd cat"]
+[Site "Leningrad 2nd cat"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Zbandutto"]
+[Black "Mikhail Botvinnik"]
+[ECO "C98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d4 Qc7 11.h3 O-O 12.Nbd2 Nc6 13.d5 Nd8
+14.Nf1 Nb7 15.Bg5 h6 16.Bxf6 Bxf6 17.Ne3 Bd7 18.g4 g6 19.Kg2
+Bg7 20.Rh1 c4 21.Qd2 Nc5 22.Rag1 a5 23.Kf1 Rab8 24.a3 Na6
+25.h4 b4 26.h5 g5 27.Nf5 Bxf5 28.gxf5 f6 29.Kg2 Rb6 30.Rc1
+bxa3 31.bxa3 Nc5 32.Rb1 Nb3 33.Qe3 Rfb8 34.Nd2 Bf8 35.a4 Be7
+36.Rb2 Nxd2 37.Rxb6 Rxb6 38.Qxd2 Bd8 39.Rb1 Qc5 40.Rxb6 Bxb6
+41.Bd1 Kf7 42.Kg3 Ke7 43.Qb2 1/2-1/2

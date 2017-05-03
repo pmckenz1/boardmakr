@@ -1,0 +1,22 @@
+[Event "Minsk"]
+[Site "It"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Boris Gelfand"]
+[Black "Vladimir Veremeichik"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2
+Be7 8.e4 Nxc3 9.bxc3 Nd7 10.Bd3 c5 11.O-O Rc8 12.Qe2 O-O 13.e5
+cxd4 14.cxd4 Nb8 15.Bb2 Qd5 16.Rfe1 Rfd8 17.Qe3 Rc7 18.Rad1
+Nd7 19.Qf4 Nf8 20.Rd2 Ng6 21.Qg4 Qa5 22.Rde2 Bxf3 23.Qxf3 Bxa3
+24.Bxg6 Bxb2 25.Bxh7+ Kxh7 26.Qe4+ Kg8 27.Rxb2 Qc3 28.Rbb1
+Qxd4 29.Qf3 Rcd7 30.h3 Qd3 31.Qc6 Qd5 32.Qa4 Qd4 33.Rb4 Qc3
+34.Rbe4 Qb2 35.R4e3 b5 36.Qg4 Rd3 37.h4 Rxe3 38.Rxe3 Rd4
+39.Qg3 a5 40.Kh2 Qb4 41.Kh3 Qb1 42.Kh2 Qh7 43.f4 Qf5 44.Rf3 a4
+45.Qf2 Qe4 46.h5 Kh7 47.Qh4 Qxe5 0-1

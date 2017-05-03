@@ -1,0 +1,15 @@
+[Event "Yurmala"]
+[Site "13"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Aivars Gipslis"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O c6 7.Re1
+Nbd7 8.e5 dxe5 9.Nxe5 Nxe5 10.dxe5 1/2-1/2

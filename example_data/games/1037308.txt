@@ -1,0 +1,17 @@
+[Event "It (cat.11)"]
+[Site "Rishon LeZion ISR"]
+[Date "1994.11.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Eran Liss"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O
+Nc6 8.Nc3 Nxd4 9.Nxd4 Qxd4 10.a4 Qxd1 11.Rxd1 c6 12.a5 Nc4
+13.a6 O-O 14.axb7 Bxb7 15.Rd7 Bc8 16.Rxe7 Rb8 17.Rexa7 Be6
+18.Bxc6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Elena Grechanovskaya"]
+[Black "Leonid Borodin"]
+[ECO "D61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7
+7. Qc2 c6 8. Rd1 Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7
+12. O-O Nxc3 13. Qxc3 Nf8 14. Rfe1 Bd7 15. Bd3 Red8 16. a3 Be8
+17. Bb1 f6 18. Ba2 Bf7 19. h3 Rac8 20. b4 Rc7 21. Nd2 Rcd7
+22. Nf3 e5 23. Bxf7+ Qxf7 24. Qc2 exd4 25. Nxd4 Ng6 26. Nf3
+Qe6 27. Rd4 Rxd4 28. exd4 Qd5 29. Qc5 a6 30. Qb6 Qd7 31. Qc5
+h6 32. h4 Qd5 33. Qb6 Rd7 34. Qc5 Qd6 35. g3 Kf7 0-1

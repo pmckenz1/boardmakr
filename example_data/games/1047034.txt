@@ -1,0 +1,25 @@
+[Event "Open 1, Vienna AUT"]
+[Site "05"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Hrvoje Stevic"]
+[Black "Alisa Galliamova"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Qa4+ Bd7
+7.Qb3 cxd4 8.Bc4 Qe4+ 9.Kf1 e6 10.Nxd4 Nc6 11.Nd2 Qg6 12.Qxb7
+Rb8 13.Qc7 Rc8 14.Qg3 Nxd4 15.Qxg6 hxg6 16.cxd4 Bb4 17.b3 Bc3
+18.Rb1 Bxd4 19.Bb2 Bc5 20.Rc1 Rh5 21.Nf3 Ng4 22.Rc2 Rd8 23.Rd2
+Bc6 24.Rxd8+ Kxd8 25.Nd4 Bb7 26.Be2 Rh4 27.g3 Bxd4 28.Bxd4
+Nxh2+ 29.Kg1 Rxd4 30.Rxh2 Ke7 31.Rh8 Rd8 32.Rh4 Rd7 33.Ra4 Bc6
+34.Ra6 Be4 35.a4 Kf6 36.f4 g5 37.Kf2 gxf4 38.gxf4 Rb7 39.Bc4
+Bc2 40.a5 g5 41.Bd5 Rb4 42.fxg5+ Kxg5 43.Bg2 Rxb3 44.Rxa7 f5
+45.a6 Rb2 46.Kg1 Bd3 47.Rg7+ Kf6 48.a7 Ra2 49.Rd7 Be4 50.Bxe4
+fxe4 51.Kf1 Ke5 52.Re7 Kd5 53.Rd7+ Ke5 54.Re7 Kf4 55.Rxe6 Rxa7
+56.Rb6 Kf3 57.Rf6+ Ke3+ 58.Re6 Rf7+ 59.Ke1 Rh7 60.Kf1 Rh4
+1/2-1/2

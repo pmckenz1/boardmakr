@@ -1,0 +1,21 @@
+[Event "New York (USA)"]
+[Site "New York, NY USA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Zaderman"]
+[Black "Jay R Bonin"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e6 2.d3 d5 3.Nd2 c5 4.Ngf3 Nc6 5.g3 Nge7 6.Bg2 g6 7.O-O
+Bg7 8.Qe2 b6 9.c3 Ba6 10.e5 Qc7 11.Re1 h6 12.c4 O-O-O 13.a3
+Nf5 14.Nb3 dxc4 15.dxc4 g5 16.h3 Rd7 17.Bd2 Rhd8 18.Bc3 Bb7
+19.Nbd2 Nfd4 20.Bxd4 Nxd4 21.Nxd4 Rxd4 22.Bxb7+ Kxb7 23.Nf3
+Rd3 24.Rad1 Qd7 25.Rxd3 Qxd3 26.Qxd3 Rxd3 27.Re3 Rxe3 28.fxe3
+Ka6 29.Kf2 b5 30.cxb5+ Kxb5 31.b3 c4 32.Nd4+ Kc5 33.b4 Kd5
+34.Nb5 Bxe5 35.Nxa7 c3 36.Ke2 Bb8 37.e4+ Kc4 38.Nc6 Bxg3 39.a4
+Bf4 0-1

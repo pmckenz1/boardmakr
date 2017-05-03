@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vasily Borisovich Malinin"]
+[Black "A Andreev"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3
+g6 8.g3 Bg7 9.h4 O-O 10.h5 Nxh5 11.Rxh5 gxh5 12.Qc2 Nd7 13.Bg5
+Nf6 14.Bg2 Rb8 15.O-O-O Qa5 16.Rh1 Nxd5 17.Nxd5 Rxb2 18.Nxe7+
+Kh8 19.Qxh7+ Kxh7 20.Rxh5+ Bh6 21.Rxh6+ Kg7 22.Nf5+ Kg8 23.Bf6
+Rc2+ 24.Kxc2 Qxa2+ 25.Bb2 Qc4+ 26.Bc3 f6 27.Ng5 Re8 28.Bd5+
+Qxd5 29.Rh8+ Kxh8 30.Bxf6+ Kg8 31.Nh6+ Kf8 32.Nh7# 1-0

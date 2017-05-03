@@ -1,0 +1,17 @@
+[Event "Saltsjöbaden Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1948.07.26"]
+[EventDate "1948.07.16"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Salomon Flohr"]
+[Black "Laszlo Szabo"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6
+7.Bxf6 Qxf6 8.a3 Bxc3+ 9.Qxc3 c6 10.e3 O-O 11.Nf3 Bf5 12.Be2
+Nd7 13.b4 a5 14.O-O axb4 15.axb4 Rfc8 16.Rxa8 Rxa8 17.Ra1 Qd8
+18.Rxa8 Qxa8 1/2-1/2

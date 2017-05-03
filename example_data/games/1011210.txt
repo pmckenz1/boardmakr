@@ -1,0 +1,22 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Robert Kempinski"]
+[Black "Miroslav Grabarczyk"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7
+7. Nxc4 Qc7 8. Bg5 Ne4 9. Nxe4 Bxe4 10. Qd2 Nb6 11. Nxb6 axb6
+12. f3 Bg6 13. Bf4 Qd7 14. e4 e6 15. Be2 Bd6 16. Bxd6 Qxd6
+17. Qc3 b5 18. a5 O-O 19. O-O Rfd8 20. Rfd1 f6 21. b4 Qe7
+22. Rd2 Bf7 23. Rad1 Rd7 24. f4 Rad8 25. e5 f5 26. h3 Qh4
+27. Qf3 Qe7 28. a6 bxa6 29. Qxc6 Qxb4 30. Qxa6 g5 31. fxg5
+Rxd4 32. Rxd4 Rxd4 33. Qc8+ Kg7 34. Ra1 Rd5 35. Kh1 Qc5
+36. Qb7 Qc3 37. Ra7 Qc1+ 38. Kh2 Qf4+ 39. Kg1 Qc1+ 40. Kh2
+Qf4+ 41. Kg1 Qe3+ 1/2-1/2

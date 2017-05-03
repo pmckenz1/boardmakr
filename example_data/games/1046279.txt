@@ -1,0 +1,18 @@
+[Event "CZE-chT"]
+[Site "CZE-chT"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jan Votava"]
+[Black "Lubomir Ftacnik"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6
+7. e5 Ng4 8. Bg1 c5 9. h3 Nh6 10. dxc5 bxc5 11. Bc4 Nc6
+12. Qe2 Nf5 13. O-O-O Ng3 14. Qe1 Nxh1 15. exd6 exd6 16. Ne4
+Qb6 17. c3 Rb8 18. b3 Ba6 19. Nxd6 Bxc4 20. Nxc4 Qa6 21. Bxc5
+Qxa2 22. Bxf8 Rxb3 0-1

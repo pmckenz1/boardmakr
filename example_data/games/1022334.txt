@@ -1,0 +1,26 @@
+[Event "OLNO 9293"]
+[Site "OLNO 9293"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Rolf Trenner"]
+[ECO "D74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "142"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d5 5.cxd5 O-O 6.Bg2 Nxd5 7.O-O
+b6 8.e4 Nf6 9.Nc3 Bb7 10.Qc2 Na6 11.Rd1 Qc8 12.h3 c5 13.d5 e6
+14.a3 exd5 15.exd5 c4 16.Qa4 Rd8 17.Bg5 h6 18.Bxf6 Bxf6 19.Nd4
+Nc7 20.Nc6 Bxc6 21.Qxc6 Ne8 22.d6 Qxc6 23.Bxc6 Rab8 24.d7 Nc7
+25.Rd6 Be5 26.Rd2 a6 27.Re1 Bxc3 28.bxc3 Ne6 29.a4 Kg7 30.f4
+b5 31.a5 b4 32.cxb4 Rxb4 33.Re3 Rb3 34.Rxb3 cxb3 35.Kf2 Rb8
+36.Rb2 Kf6 37.Bd5 Nc5 38.Ke3 Ke7 39.Kd4 Ne6+ 40.Kc4 Rb5
+41.Bxe6 fxe6 42.Rxb3 Rxa5 43.Rb7 Ra3 44.g4 Rxh3 45.d8=Q+ Kxd8
+46.Rg7 Rf3 47.Rxg6 Rxf4+ 48.Kb3 Kd7 49.Rxh6 Rxg4 50.Rh7+ Kc6
+51.Ra7 Kb6 52.Re7 Re4 53.Kc3 a5 54.Kd3 Re1 55.Re8 a4 56.Kd4 a3
+57.Ra8 Ra1 58.Kc4 Kc6 59.Rd8 Rf1 60.Ra8 Rf3 61.Kd4 Rh3 62.Kc4
+Kd7 63.Kd4 Ke7 64.Ke4 Rh4+ 65.Kf3 Rh1 66.Kg2 Ra1 67.Kf2 a2
+68.Kg2 Kf6 69.Ra5 e5 70.Ra4 Kf5 71.Ra8 Rd1 0-1

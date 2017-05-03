@@ -1,0 +1,23 @@
+[Event "Gothenburg"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.06"]
+[EventDate "1920.08.02"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Georg Marco"]
+[Black "Jorgen Moeller"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nge7 5.cxd4 d5 6.e5 Bg4 7.Be3
+Nf5 8.Be2 Bb4+ 9.Nc3 O-O 10.O-O f6 11.exf6 Nxe3 12.fxe3 Rxf6
+13.Qb3 Bxc3 14.bxc3 Kh8 15.Rae1 Qe7 16.Bd3 Bxf3 17.gxf3 Re6
+18.e4 Rg6+ 19.Kh1 Qg5 20.Qc2 Rf6 21.Qg2 Qxg2+ 22.Kxg2 Ne7
+23.e5 Rf4 24.Kf2 Raf8 25.Ke3 g5 26.Re2 Nf5+ 27.Bxf5 R4xf5
+28.Rg2 h6 29.h4 Kg7 30.hxg5 hxg5 31.Rg4 Kg6 32.f4 Rh8 33.Rxg5+
+Rxg5 34.fxg5 Rh3+ 35.Rf3 Rxf3+ 36.Kxf3 Kxg5 37.Ke3 Kf5 38.Kd3
+Ke6 39.Kc2 c6 40.Kb3 b6 41.a3 a6 42.Kb4 Kd7 43.Kb3 Ke6 44.Kc2
+Kf5 45.Kd3 Ke6 46.Ke3 Kf5 47.Kf3 Kg5 48.Ke3 Kf5 49.Kd3 Ke6
+1/2-1/2

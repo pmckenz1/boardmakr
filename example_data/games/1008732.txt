@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Gary W Lane"]
+[Black "Jonathan Rowson"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 g6
+7. Qf3 Bg7 8. h3 O-O 9. Be3 e5 10. Nde2 b5 11. O-O-O Nbd7
+12. a3 Bb7 13. g4 Rc8 14. g5 Nxe4 15. Nxe4 Qc7 16. c3 f5
+17. gxf6 Nxf6 18. N2g3 exf4 19. Bg2 Nxe4 20. Nxe4 fxe3
+21. Qxe3 Be5 22. Kb1 Rce8 23. Qd3 Qe7 24. Rhe1 Rd8 25. Re2 Bc8
+26. Ka1 Kh8 27. Nd2 Bf5 28. Be4 Be6 29. h4 Bg4 30. Bf3 Qxh4
+31. Qe4 Rf4 32. Qe3 Rdf8 33. Bxg4 Qxg4 34. Rh1 R4f7 35. Ka2
+Qe6+ 36. Ka1 Qg4 37. Ree1 a5 38. Ne4 b4 39. Ng5 Re7 40. Nxh7
+Rxh7 0-1

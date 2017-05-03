@@ -1,0 +1,20 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "John McCarthy"]
+[Black "Lawrence Quigley"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 d6 5. O-O O-O 6. c3 Be6
+7. Bxe6 fxe6 8. Qb3 Qd7 9. Qxb7 Bb6 10. Qxa8 Na6 11. Qxf8+
+Kxf8 12. h3 Nc5 13. d4 exd4 14. e5 dxe5 15. Nxe5 Qa4 16. Nd2
+dxc3 17. b3 Qa6 18. Ndc4 Nxb3 19. axb3 Bxf2+ 20. Kh1 Qxa1
+21. Ba3+ Qxa3 22. Nxa3 Ne4 23. Kh2 Ke8 24. Nd3 Bg3+ 25. Kg1
+Nd2 26. Rc1 Nxb3 27. Rxc3 Nd4 28. Kf1 e5 29. Nxe5 Bxe5 30. Re3
+1-0

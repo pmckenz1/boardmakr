@@ -1,0 +1,20 @@
+[Event "simul"]
+[Site "Lodz POL"]
+[Date "1928.12.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "Achilles Frydman"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 c5
+7. dxc5 Bxc5 8. O-O O-O 9. a3 a5 10. b3 Qe7 11. Bb2 d5 12. Ne5
+Rd8 13. Qc2 Nbd7 14. cxd5 Nxe5 15. Bxe5 Rac8 16. Qb2 Bxd5
+17. e4 Bb7 18. Nc4 Ng4 19. Bc3 Ba6 20. h3 b5 21. hxg4 bxc4
+22. b4 Rb8 23. Bxg7 axb4 24. axb4 Rxb4 25. Qe5 Bd4 26. Qxd4
+Rxd4 27. Bxd4 e5 28. Bc3 Rb3 29. Rfc1 Ra3 30. Rab1 Ra2 31. Ra1
+Ra3 32. Rab1 Rb3 1/2-1/2

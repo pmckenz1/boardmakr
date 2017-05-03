@@ -1,0 +1,24 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.24"]
+[EventDate "?"]
+[Round "25"]
+[Result "0-1"]
+[White "Nicholas MacLeod"]
+[Black "William Henry Krause Pollock"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 {Notes by Steinitz.} e5 2.c3 d5 3.Nf3 Nc6 4.Bb5 f6 5.Qa4
+Ne7 6.O-O dxe4 7.Qxe4 Bf5 8.Bxc6+ bxc6 9.Qa4 Bd3 10.Re1 Qd7
+11.c4 {A badly played opening further degenerates with this
+move which costs a piece.} e4 12.Re3 exf3 13.Rxf3 Qe6 14.Re3
+Qxc4 15.Qd1 Bc2 16.Qf3 Qd5 17.Qe2 Bxb1 18.Rxb1 Qxa2 19.Qd3 Qd5
+20.Qa6 Kf7 21.Qb7 Qa2 22.Qxa8 Qxb1 23.Re1 Qa2 24.Qb8 Qa5
+25.Qb3+ Qd5 26.Qb8 Qd7 27.Qxa7 Nd5 28.Qb8 Rg8 29.Qb3 Bb4
+30.Qc2 Re8 31.Rf1 Re2 32.Qxh7 Nf4 33.Qc2 Qd5 34.f3 Rxg2+
+35.Kh1 Rxh2+ {Black announced here mate in nine moves. The
+finish is worthy of a much better game.} 36.Kxh2 Qh5+ 37.Kg3
+Qg5+ 38.Kf2 Qg2+ 39.Ke3 Qe2+ 40.Kxf4 Bd6+ 41.Kg4 Qg2+ 0-1

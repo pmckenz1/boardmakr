@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kamran Shirazi"]
+[Black "Jay R Bonin"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 c5 2.Nf3 Nc6 3.b4 cxb4 4.d4 d5 5.exd5 Qxd5 6.c4 bxc3
+7.Nxc3 Qa5 8.d5 e6 9.Bd2 Bb4 10.Qc1 exd5 11.a3 Bd6 12.Bb5 Ne7
+13.Ne4 Qd8 14.Nxd6+ Qxd6 15.Bb4 Qf6 16.O-O O-O 17.Bxc6 bxc6
+18.Re1 Re8 19.Qc5 Be6 20.Bc3 Qf4 21.Nd4 Nf5 22.g3 Qd6 23.Qxd6
+Nxd6 24.Bb4 Ne4 25.Nxc6 a5 26.Nxa5 Ng5 27.Rec1 d4 28.Rc5 h6
+29.Nc6 Bh3 30.f4 Nf3+ 31.Kf2 Nxh2 32.Rh5 Bd7 33.Ne7+ Rxe7
+34.Bxe7 Ng4+ 35.Kg1 f5 36.Rd1 Rc8 37.Bb4 Rc2 38.Rh4 Ne3
+39.Rxd4 Rg2+ 40.Kh1 Bc6 41.Rd6 Bf3 42.g4 Rxg4 43.Kh2 Nf1+
+44.Kh3 Bg2# 0-1

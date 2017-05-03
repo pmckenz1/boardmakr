@@ -1,0 +1,19 @@
+[Event "Mar del Plata Argent"]
+[Site "Mar del Plata Argent"]
+[Date "1941.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Jacobo Bolbochan"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.c4 Nf6 2.Nf3 b6 3.d4 e6 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O
+d5 8.a3 Be7 9.b3 Nbd7 10.Bb2 c5 11.Qe2 Qb8 12.cxd5 Nxd5 13.Bb5
+Rd8 14.Nc4 Bf6 15.Rac1 cxd4 16.Nxd4 Ne7 17.Rfd1 Ne5 18.Nxe5
+Bxe5 19.h3 a6 20.Bd3 g6 21.b4 Bg7 22.b5 axb5 23.Bxb5 Rd5 24.e4
+Rc5 25.Rxc5 bxc5 26.Nb3 Bxb2 27.Qxb2 Bc6 28.Bxc6 Nxc6 29.Qc2
+Nd4 30.Nxd4 cxd4 31.Rxd4 Rxa3 1/2-1/2

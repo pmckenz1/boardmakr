@@ -1,0 +1,17 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nona Gaprindashvili"]
+[Black "Lydia N Mulenko"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.a4
+Nbc6 8.Nf3 Qb6 9.Bd3 Bd7 10.dxc5 Qxc5 11.O-O Qxc3 12.Rb1 b6
+13.Rb3 Qc5 14.Rb5 Nxe5 15.Rxc5 Nxf3+ 16.Qxf3 bxc5 17.Ba3 Rc8
+18.Ba6 1-0

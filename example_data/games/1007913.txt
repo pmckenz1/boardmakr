@@ -1,0 +1,28 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.24"]
+[EventDate "1930.01.16"]
+[Round "7"]
+[Result "0-1"]
+[White "Jose Joaquin Araiza Munoz"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "D67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "156"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.h4 f6 11.Bf4 Nxf4 12.exf4 Nb6
+13.Bb3 Nd5 14.g3 Qa5 15.Kf1 Bd7 16.Ne4 Be8 17.Nc5 Bf7 18.Qe2
+Bxc5 19.Rxc5 Qc7 20.h5 Rad8 21.Qe4 Kh8 22.Bc2 f5 23.Qe2 h6
+24.Ne5 Be8 25.Bb3 Qd6 26.Bxd5 exd5 27.Kg2 Kg8 28.Re1 Qf6
+29.Rc3 Bf7 30.Rb3 Qe7 31.Qd1 Qc7 32.g4 fxg4 33.Qxg4 Rd6 34.f5
+Rf6 35.Rbe3 c5 36.dxc5 d4 37.Qxd4 Rxf5 38.Qd6 Qc8 39.Rg3 Rf6
+40.Qd4 Bxh5 41.f3 Rd8 42.Qc3 Qf5 43.Ng4 Bxg4 44.Rxg4 Rd3
+45.Qc4+ Rf7 46.Re8+ Kh7 47.Rg3 Rxf3 48.Qe4 Rf2+ 49.Kg1 Qxe4
+50.Rxe4 Rxb2 51.Ra3 Rd7 52.Re1 a6 53.c6 bxc6 54.Rxa6 Rc2 55.a4
+h5 56.a5 h4 57.Rb6 Rdd2 58.Rb4 Rg2+ 59.Kh1 Rh2+ 60.Kg1 h3
+61.Rg4 Rhg2+ 62.Rxg2 Rxg2+ 63.Kh1 Ra2 64.Re5 Kh6 65.Rc5 g5
+66.Rxc6+ Kh5 67.a6 g4 68.Rc5+ Kh4 69.Rc4 Rxa6 70.Kh2 Ra2+
+71.Kh1 Re2 72.Kg1 Kg3 73.Rc3+ Kf4 74.Rc4+ Kf3 75.Rc1 g3 76.Kh1
+Rd2 77.Rc3+ Kf2 78.Rc1 Ke2 0-1

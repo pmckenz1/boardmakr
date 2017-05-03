@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Tsagaan Battsetseg"]
+[Black "Todd D Andrews"]
+[ECO "C05"]
+[WhiteElo "2256"]
+[BlackElo "2336"]
+[PlyCount "66"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 Qb6 8. Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6
+12. Bf4 Bxf4 13. Nxf4 Qxb2 14. Ng5 O-O 15. Rb1 Qxa2 16. Nxh7
+Nxh7 17. Bxh7+ Kxh7 18. Qh5+ Kg8 19. Ng6 Rf5 20. Qh8+ Kf7
+21. Ne5+ Nxe5 22. dxe5 Qa4 23. Rbc1 Qe8 24. Rc7+ Bd7 25. Rxd7+
+Qxd7 26. Qxa8 Rxe5 27. Qb8 Re4 28. Qxa7 Ra4 29. Qb8 b5 30. h3
+d4 31. Qf4+ Kg8 32. Qb8+ Kh7 33. Qe5 33... d3 0-1

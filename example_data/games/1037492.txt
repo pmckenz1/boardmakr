@@ -1,0 +1,19 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1977.03.23"]
+[EventDate "1977.03.20"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Kenneth Regan"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 b5 5.dxe6 fxe6 6.Bg2 d5 7.cxb5
+Bd6 8.Nf3 O-O 9.O-O Bb7 10.Nbd2 h6 11.Qc2 Qe8 12.e4 dxe4
+13.Nh4 Qxb5 14.Nxe4 Nxe4 15.Bxe4 Nc6 16.a4 Qb6 17.a5 Qb5
+18.Bh7+ Kh8 19.Bd3 Nd4 20.Bxb5 Nxc2 21.Ng6+ Kg8 22.Nxf8 Rxf8
+23.Be3 Nxa1 24.Rxa1 Be5 25.Bxc5 Bxb2 26.Bxf8 Bxa1 27.Bb4 Bd4
+28.Kf1 Kf7 29.Ke2 Kf6 1/2-1/2

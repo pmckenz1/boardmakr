@@ -1,0 +1,27 @@
+[Event "Yaroslav"]
+[Site "Yaroslav"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Grigorij Pres"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "144"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.d4 c5 5.f4 cxd4 6.Nce2 Nc6 7.Nf3
+d3 8.cxd3 Nb6 9.Ned4 Bg4 10.h3 Bxf3 11.Nxf3 e6 12.d4 Be7 13.g3
+Rc8 14.Bd3 Nb4 15.Bb1 Qc7 16.O-O Nc2 17.Bxc2 Qxc2 18.Qxc2 Rxc2
+19.Rf2 Rc6 20.b3 O-O 21.Bb2 Rfc8 22.g4 a5 23.Raf1 a4 24.bxa4
+Nxa4 25.f5 Rc2 26.Ba1 h6 27.h4 b6 28.Kg2 Bb4 29.fxe6 fxe6
+30.g5 Rxf2+ 31.Kxf2 Rc2+ 32.Kg3 Rxa2 33.Rc1 Ba3 34.Rc8+ Bf8
+35.Rc1 b5 36.Ne1 hxg5 37.hxg5 b4 38.Rb1 Kf7 39.Ng2 Be7 40.Rf1+
+Ke8 41.Nf4 Kd7 42.g6 b3 43.Nh5 Bf8 44.Rb1 b2 45.Bxb2 Rxb2
+46.Rf1 Ke8 47.Rf7 Nc3 48.Nxg7+ Bxg7 49.Rxg7 Kf8 50.Rf7+ Kg8
+51.Re7 Ne2+ 52.Kg4 Nxd4 53.Kg5 Rg2+ 54.Kf6 Rf2+ 55.Kg5 Rg2+
+56.Kf6 Rf2+ 57.Kg5 Rf8 58.Rc7 Nf5 59.Rc6 Ne3 60.Rxe6 Rf5+
+61.Kh4 Kg7 62.Kg3 Nc4 63.Kg4 Rxe5 64.Ra6 Kh6 65.Kf4 Rh5 66.Re6
+Rh1 67.Kf3 Rg1 68.Ke2 Rxg6 69.Re8 Kg7 70.Kd3 Kf7 71.Ra8 Rg4
+72.Ra6 Ke7 0-1

@@ -1,0 +1,18 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Vladimir Georgiev"]
+[Black "Igor Stohl"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nge2 cxd4
+7. exd4 d5 8. cxd5 Nxd5 9. O-O O-O 10. Nxd5 exd5 11. Nf4 Bd6
+12. Re1 g6 13. Bc2 Nb4 14. Bb1 Qf6 15. g3 Be6 16. Be3 Nc6
+17. Nxe6 fxe6 18. a3 Bc7 19. Qd3 Bb6 20. Rd1 Ne7 21. Bf4 Nc6
+22. Be3 Ne7 23. Bf4 Nc6 1/2-1/2

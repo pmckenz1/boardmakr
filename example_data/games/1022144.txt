@@ -1,0 +1,22 @@
+[Event "It (open) Leningrad (RUS)"]
+[Site "It (open) Leningrad (RUS)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Georgy Orlov"]
+[Black "Alexander Baburin"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bg5 c6 6.cxd5 exd5 7.e3
+Be7 8.Bd3 O-O 9.Qc2 Re8 10.O-O Nf8 11.Bxf6 Bxf6 12.b4 Bg4
+13.Nd2 Be7 14.b5 c5 15.dxc5 Bxc5 16.Bf5 Bxf5 17.Qxf5 Bb4
+18.Qd3 d4 19.exd4 Ne6 20.Ne2 Bxd2 21.Qxd2 Qd5 22.a4 Red8
+23.Rfd1 Rac8 24.Rac1 h6 25.Rxc8 Rxc8 26.h3 a6 27.bxa6 bxa6
+28.Qd3 Rc6 29.Rb1 g6 30.Rb4 Kg7 31.Qe3 Rc2 32.Nf4 Nxf4 33.Qxf4
+Rc6 34.Qe5+ Qxe5 35.dxe5 Rc1+ 36.Kh2 Re1 37.f4 Re3 38.g4 g5
+39.fxg5 hxg5 40.Rb6 Rxe5 41.Rxa6 Re2+ 42.Kg3 Re3+ 43.Kg2 Ra3
+44.a5 Kh7 45.Ra8 Kg6 46.a6 Kf6 47.Ra7 Kg7 48.Kh2 1/2-1/2

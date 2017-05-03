@@ -1,0 +1,26 @@
+[Event "Minsk"]
+[Site "11"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Iossif Davidovich Dorfman"]
+[Black "Yuri Balashov"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.Nf3 d5 2.g3 e6 3.Bg2 c5 4.O-O Nc6 5.d4 cxd4 6.Nxd4 Bc5 7.Nb3
+Bb6 8.c4 Nge7 9.cxd5 Nxd5 10.Bd2 e5 11.Nc3 Nxc3 12.Bxc3 Qe7
+13.Nd2 O-O 14.Nc4 Rd8 15.Qa4 Bd4 16.Bxd4 exd4 17.Bxc6 bxc6
+18.Nb6 Rb8 19.Nxc8 Rdxc8 20.Qxd4 Qxe2 21.b3 c5 22.Qa4 a6
+23.Rac1 Qb5 24.Qf4 h6 25.Rc4 Rb7 26.Rfc1 a5 27.Qe5 Rbc7 28.Rg4
+g6 29.h4 Qd7 30.Rgc4 Re8 31.Qf4 h5 32.Qf3 Qd6 33.Qc3 Re2
+34.Qxa5 Rce7 35.Qxc5 Qxc5 36.Rxc5 Rxa2 37.R5c2 Ra5 38.Rb2 Rb5
+39.Rc4 Kg7 40.b4 Ree5 41.Kg2 Rb6 42.Kf3 Rbe6 43.Rd2 Re1 44.Rb2
+Rf6+ 45.Rf4 Rb6 46.Kg2 Rb7 47.f3 Rd7 48.Re4 Rc1 49.b5 Rc5
+50.b6 Rb7 51.Rd4 Rc6 52.Rdb4 Re6 53.g4 hxg4 54.fxg4 Rf6 55.Kg3
+Kg8 56.Rb5 Kg7 57.R2b4 Kf8 58.g5 Re6 59.Kg4 Kg7 60.h5 gxh5
+61.Kxh5 f6 62.Rb1 fxg5 63.Kxg5 Kf7 64.Kf5 Ke7 65.Re5 Rxe5+
+66.Kxe5 Kd7 67.Kd5 Kc8 1/2-1/2

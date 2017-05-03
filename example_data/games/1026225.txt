@@ -1,0 +1,20 @@
+[Event "Olympiad"]
+[Site "Moscow RUS"]
+[Date "1994.12.03"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Dragan Jacimovic"]
+[ECO "E71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 h6 7.Be3 e5
+8.d5 Na6 9.Nf3 Nc5 10.Nd2 a5 11.Be2 Bd7 12.Qc2 Nh7 13.Nb3 Nxb3
+14.axb3 f5 15.Bd3 Kh8 16.O-O-O f4 17.Bd2 Nf6 18.Kb1 Ne8 19.Na2
+Rf7 20.b4 axb4 21.Bxb4 Bf8 22.b3 Qb8 23.Bc3 Qa7 24.Qb2 Kh7
+25.Rd2 c5 26.dxc6 bxc6 27.b4 Nc7 28.Bc2 Be6 29.Bb3 Qa6 30.Rc1
+f3 31.g3 Bxc4 32.Bxe5 Bd3+ 33.Ka1 Rd7 34.Qd4 Be2 35.Qe3 Nb5
+36.Bb2 Bg7 37.Bxg7 Rxg7 1/2-1/2

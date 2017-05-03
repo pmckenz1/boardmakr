@@ -1,0 +1,17 @@
+[Event "5, Jerusalem Wch jr"]
+[Site "Jerusalem"]
+[Date "1967.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Dumitru Ghizdavu"]
+[Black "Lawrence Day"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 g6 2.d4 Bg7 3.c3 d6 4.f4 c5 5.dxc5 Nf6 6.Nf3 O-O 7.e5 Ne4
+8.cxd6 exd6 9.Nbd2 Nxd2 10.Qxd2 dxe5 11.Qxd8 Rxd8 12.Nxe5 Re8
+13.Kf2 Bxe5 14.fxe5 Nc6 15.Be2 Nxe5 16.h3 Bf5 17.Rd1 Rad8
+18.Bg5 Nd3+ 19.Kf1 Rd5 1/2-1/2

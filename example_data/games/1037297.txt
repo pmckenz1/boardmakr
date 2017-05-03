@@ -1,0 +1,19 @@
+[Event "London (England)"]
+[Site "London (England)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Benjamin Martin"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.b3 Be7 5.Bg2 O-O 6.O-O Nbd7 7.Bb2
+c6 8.e3 b6 9.Qe2 Bb7 10.d3 c5 11.Rd1 Rc8 12.Nc3 a6 13.Rac1 Rc7
+14.cxd5 Nxd5 15.Nxd5 Bxd5 16.e4 Bb7 17.d4 cxd4 18.Nxd4 Rxc1
+19.Bxc1 Bc5 20.a3 a5 21.Bb2 Qe7 22.Nc2 Nf6 23.b4 axb4 24.axb4
+Bxb4 25.Bxf6 gxf6 26.Qg4+ Kh8 27.Nxb4 Qxb4 28.Qh4 Kg7 29.Qg4+
+Kh8 30.Qh4 Kg7 31.Qg4+ 1/2-1/2

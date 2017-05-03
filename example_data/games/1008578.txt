@@ -1,0 +1,17 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Jim Eade"]
+[Black "Marco Pardo"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 f5 2. g3 e6 3. Bg2 Nf6 4. Nh3 Be7 5. O-O O-O 6. c4 d6
+7. b4 c6 8. Qb3 a5 9. b5 a4 10. Qc2 cxb5 11. cxb5 Qb6 12. Nc3
+Bd7 13. Rd1 Rc8 14. Qd3 d5 15. Rb1 Ne4 16. Bd2 Nxd2 17. Qxd2
+Kh8 18. e3 1/2-1/2

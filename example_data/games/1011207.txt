@@ -1,0 +1,26 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Wojciech Ehrenfeucht"]
+[Black "Tomasz Markowski"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. d5 Nf6 5. Nc3 d6 6. Bb5+ Nbd7
+7. a4 O-O 8. O-O a6 9. Be2 Rb8 10. a5 Ne8 11. Nd2 b5 12. axb6
+Nxb6 13. Nb3 Nc7 14. Bg5 f6 15. Bd2 f5 16. Na5 Bd7 17. exf5
+Rxf5 18. Nc6 Bxc6 19. dxc6 Qe8 20. Bxa6 Qxc6 21. Bd3 Rf7
+22. Be4 d5 23. Bf3 Rbf8 24. Ra7 e6 25. Bg4 Nc4 26. Ra2 Bd4
+27. Bf3 Ne5 28. Ne2 Nxf3+ 29. gxf3 Bg7 30. f4 d4 31. c4 dxc3
+32. Bxc3 Bxc3 33. bxc3 Nd5 34. Qa4 Qc7 35. Qa5 Qe7 36. Ra4
+Nxf4 37. Nxf4 Rxf4 38. Rxf4 Qg5+ 39. Kh1 Qd5+ 40. f3 Rxf4
+41. Kg2 Kg7 42. h3 Kh6 43. Rf2 Qg5+ 44. Kh1 Rh4 45. Rh2 Qc1+
+46. Kg2 Rh5 47. h4 Rd5 48. Kg3 Qe1+ 49. Kh3 Qe3 50. Kg3 Qe5+
+51. Kh3 Qf4 52. Rf2 Rh5 53. Qd8 g5 54. Kg2 Rxh4 55. Kf1 Rh1+
+56. Ke2 Qe5+ 57. Kd2 Qe1+ 58. Kd3 Qxf2 59. Qf8+ Kh5 60. Qf7+
+Kh4 0-1

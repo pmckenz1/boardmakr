@@ -1,0 +1,18 @@
+[Event "Ch Moscow"]
+[Site "Moscow URS"]
+[Date "1947.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "David Bronstein"]
+[Black "Vladimir Simagin"]
+[ECO "E47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Nge2 e5
+7. O-O Bxc3 8. Nxc3 Re8 9. dxe5 dxe5 10. b3 c6 11. Ba3 Qa5
+12. Bb2 e4 13. Bc2 Na6 14. Qb1 Bf5 15. Ne2 Nb4 16. Bxf6 gxf6
+17. Ng3 Nxc2 18. Qxc2 Rad8 19. Rad1 Bg6 20. Qb2 Qe5 21. Qc2
+Qa5 22. h3 Rd3 23. Nxe4 Bxe4 24. Rxd3 Qg5 1/2-1/2

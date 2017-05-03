@@ -1,0 +1,16 @@
+[Event "Kiev ch-Ukraine"]
+[Site "Kiev ch-Ukraine"]
+[Date "1947.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Lubensky"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.c4 Bg4 9.cxd5 Nxd4 10.Re1 f5 11.h3 Nxf3+ 12.gxf3 Qh4
+13.Rxe4 fxe4 14.fxg4 Bc5 15.Qc2 Qg3+ 16.Kf1 Qxh3+ 1/2-1/2

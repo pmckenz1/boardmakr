@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "Baden-Baden (Germany)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "W Bauer"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3
+g6 8.g3 Bg7 9.Bg2 O-O 10.O-O Nbd7 11.Qc2 Qc7 12.Rd1 Rae8 13.h3
+e6 14.dxe6 fxe6 15.Ng5 Re7 16.Bf4 Ne5 17.Nge4 1-0

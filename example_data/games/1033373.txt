@@ -1,0 +1,26 @@
+[Event "6, Benidorm op (10s)"]
+[Site "6, Benidorm op Hiarcs 7.32 (10s)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Luis Galego"]
+[Black "Fernando Braga"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 Nf6 5. Qe2 d5 6. d3 Be7
+7. O-O O-O 8. e5 Nd7 9. Re1 Re8 10. h4 f6 11. exf6 Bxf6
+12. Nc3 Nf8 13. g4 Bd7 14. g5 Nd4 15. Nxd4 Bxd4 16. Nd1 g6
+17. Ne3 h5 18. gxh6 Qxh4 19. c3 Bh8 20. Ng4 g5 21. Qf3 Nh7
+22. Ne5 Rf8 23. Qg3 Qxg3 24. fxg3 Bc8 25. Ng6 Rf6 26. Nxh8
+Kxh8 27. Be3 b6 28. b4 Rxh6 29. bxc5 bxc5 30. Bxc5 Ba6 31. c4
+Rd8 32. cxd5 exd5 33. Bd4+ Kg8 34. Re7 Bxd3 35. Rg7+ Kf8
+36. Rxa7 Ra6 37. Rxa6 Bxa6 38. Re1 Kf7 39. Re5 Bc4 40. a4 Rd6
+41. a5 Kg6 42. Bc5 Rc6 43. Be3 Rd6 44. Bh3 d4 45. Bd2 Ba6
+46. Rc5 d3 47. Bf5+ Kh6 48. g4 Nf6 49. Rc7 Bb5 50. Rb7 Bd7
+51. Bxd7 Nxd7 52. Rb5 Nf6 53. Rb6 Rxb6 54. axb6 Nd7 55. b7 Kg6
+56. Kf2 Kf6 57. Be3 Ke5 58. Bxg5 Ke4 59. Be3 Ke5 60. g5 Kf5
+61. Ke1 Ke6 62. Kd2 Kd6 63. b8=Q+ 1-0

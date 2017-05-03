@@ -1,0 +1,25 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.07"]
+[EventDate "1920.08.02"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "T C Jensen"]
+[Black "Simon Krenzisky"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1.e4 e5 2.Nf3 Qe7 3.Nc3 c6 4.d3 g6 5.Be3 d6 6.Be2 Nh6 7.h3 f5
+8.Bg5 Qc7 9.exf5 Bxf5 10.g4 Be6 11.Ne4 Bg7 12.Qd2 Ng8 13.Bh4
+Bc8 14.Qb4 c5 15.Qb3 h6 16.Qd5 Kd7 17.Nxd6 Ne7 18.Bxe7 Kxe7
+19.Nxc8+ Rxc8 20.Nh4 Kf6 21.Qe4 Qf7 22.f4 exf4 23.Qxf4+ Ke6
+24.Qe4+ Kd6 25.Rf1 Qe6 26.Qxe6+ Kxe6 27.Bf3 Nc6 28.O-O-O Rc7
+29.Nxg6 Nd4 30.Rde1+ Kd6 31.Be4 c4 32.dxc4 Rxc4 33.Rd1 Re8
+34.Bd3 Rc7 35.c3 Nc6 36.Nh4 Kc5 37.Rf5+ Re5 38.Rdf1 b5 39.a3
+Kb6 40.Rxe5 Nxe5 41.Bf5 a5 42.Rd1 b4 43.axb4 axb4 44.Kc2 bxc3
+45.bxc3 Nc4 46.Rd7 Na3+ 47.Kb2 Nc4+ 48.Ka2 Rxd7 49.Bxd7 Bxc3
+50.Kb3 Bf6 51.Nf5 Ne5 52.Be6 Bg5 53.Kc3 Kc5 54.Bc8 Kd5 55.Bb7+
+Ke6 56.Kd4 Kf6 57.Ng3 Ng6 58.Bg2 Nf4 59.Bf1 Kg6 60.Ke5 h5
+61.Ne4 Nxh3 62.Bxh3 hxg4 63.Bxg4 Bc1 1/2-1/2

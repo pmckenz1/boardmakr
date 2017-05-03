@@ -1,0 +1,23 @@
+[Event "9, Sverdlovsk"]
+[Site "9, Sverdlovsk"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Mamadzhan Mukhitdinov"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 b5 7.e4 exd5
+8.exd5 O-O 9.cxb5 Qe8+ 10.Be2 Qe5 11.Bg3 Bxc3+ 12.Kf1 Qf5
+13.bxc3 c4 14.Bxc4 Bb7 15.Qf3 Qxf3 16.Nxf3 Nxd5 17.Bxd5 Bxd5
+18.Ke1 Bc4 19.Nd4 d5 20.Kd2 Nd7 21.Rhe1 f5 22.Bd6 Rf7 23.a4
+Rf6 24.Be7 Rg6 25.Rg1 a6 26.g3 Rb6 27.a5 Rb7 28.b6 Nxb6
+29.Nxf5 Nd7 30.Rgb1 Rab8 31.Rxb7 Rxb7 32.Bb4 Ne5 33.Nd6 Rd7
+34.Nxc4 dxc4 35.Ke2 Kf7 36.Bc5 Rb7 37.Ke3 g5 38.Kd4 Ke6 39.f4
+Rd7+ 40.Ke4 gxf4 41.gxf4 Ng4 42.Bd4 Nf6+ 43.Bxf6 Kxf6 44.Ra4
+Rd2 45.h4 Rh2 46.Rxc4 Rxh4 47.Rc6+ Kg7 48.Rxa6 Rh3 49.Rc6 Rh5
+50.f5 Rh2 51.Rg6+ Kh7 52.a6 h5 53.Kf4 Ra2 54.Kg5 1-0

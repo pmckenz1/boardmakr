@@ -1,0 +1,16 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Hubert Schuh"]
+[Black "Ferenc Langheinrich"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1. d4 Nf6 2. c4 c5 3. dxc5 e5 4. Nc3 Bxc5 5. e3 O-O 6. Bd3 b6
+7. Nge2 Bb7 8. O-O d5 9. cxd5 Nxd5 10. Be4 Nxc3 11. Nxc3 Qxd1
+12. Rxd1 Bxe4 13. Nxe4 Na6 14. Bd2 1/2-1/2

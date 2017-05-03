@@ -1,0 +1,29 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.31"]
+[EventDate "1912.05.20"]
+[Round "10"]
+[Result "0-1"]
+[White "Paul Saladin Leonhardt"]
+[Black "Zsigmond Barasz"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bb5 d6 5. d4 exd4 6. Nxd4
+Bd7 7. Bxc6 bxc6 8. O-O Be7 9. Qd3 O-O 10. Bg5 Re8 11. Rae1 h6
+12. Bh4 Nh7 13. Bxe7 Qxe7 14. Re3 Nf8 15. f4 Ng6 16. g3 Qf8
+17. Rfe1 Ne7 18. Nf5 Nxf5 19. exf5 Rxe3 20. Rxe3 Re8 21. Kg2
+Rxe3 22. Qxe3 Qb8 23. Na4 Bxf5 24. c4 Be6 25. b3 Kf8 26. Qf3
+c5 27. Qe4 g6 28. Nc3 Qc8 29. Kf2 Kg7 30. Nd1 Qa6 31. Nc3 Qc8
+32. Qc6 Bd7 33. Qf3 Qa6 34. g4 Bc6 35. Qe3 Qc8 36. Kg3 Qe6
+37. Qd2 Qf6 38. Nd5 Bxd5 39. cxd5 g5 40. fxg5 hxg5 41. a4 a6
+42. a5 Qe5+ 43. Kf3 f6 44. h3 Kf8 45. Qd3 Ke7 46. Qh7+ Kd8
+47. Qh8+ Kd7 48. Qg8 Qc3+ 49. Ke2 Qc2+ 50. Kf1 Qd3+ 51. Kf2
+Qc2+ 52. Kf1 Qe4 53. Kf2 Qe8 54. Qg7+ Qe7 55. Qg8 Qe5 56. Kf3
+Qc3+ 57. Ke2 Qb2+ 58. Ke1 Qe5+ 59. Kd2 Qh2+ 60. Kc1 Qe5
+61. Kd2 Qf4+ 62. Ke2 Qe4+ 63. Kd2 Qe7 64. Kd1 Qe3 65. Kc2 Qe8
+66. Qh7+ Kc8 67. Qf5+ Kb7 68. Kd3 Qb5+ 69. Kc2 Qe2+ 70. Kc3
+Qe5+ 71. Qxe5 dxe5 72. Kc4 e4 73. b4 cxb4 74. Kxb4 c5+
+75. dxc6+ Kxc6 76. Kc4 e3 77. Kd3 Kb5 0-1

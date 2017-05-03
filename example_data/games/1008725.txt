@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Miroslav Houska"]
+[Black "Martin Simons"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6
+7. f4 Bg7 8. Nf3 d6 9. e4 Bxf1 10. Rxf1 Qb6 11. e5 dxe5
+12. fxe5 Ng4 13. Qe2 Qa6 14. Qe4 f5 15. exf6 Nxf6 16. Qh4 e6
+17. Bh6 O-O 18. Bxg7 Kxg7 19. Ng5 exd5 20. Rxf6 Re8+ 21. Nge4
+Qb7 22. O-O-O dxe4 23. Rdf1 Re7 24. Rf8 Ra6 25. Rxb8 1-0

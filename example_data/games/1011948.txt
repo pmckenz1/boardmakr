@@ -1,0 +1,22 @@
+[Event "St Petersburg nt (17)"]
+[Site "St Petersburg RUS"]
+[Date "1914.01.30"]
+[EventDate "?"]
+[Round "17"]
+[Result "0-1"]
+[White "Semion Alapin"]
+[Black "Alexander Alekhine"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5
+7. Bb3 O-O 8. d4 d6 9. Be3 Na5 10. Nbd2 Nxb3 11. axb3 Bb7
+12. dxe5 dxe5 13. Rd1 Qc8 14. Bg5 Qe6 15. O-O Rfd8 16. Rfe1
+Rd7 17. Ra1 Rad8 18. b4 h6 19. Bxf6 Bxf6 20. Nf1 g6 21. Qc2
+Bg7 22. N3d2 f5 23. Nb3 Bf8 24. exf5 gxf5 25. f3 Rg7 26. Kh1
+f4 27. Nfd2 Kh8 28. Re2 Bd5 29. Nc5 Bxc5 30. bxc5 Rdg8 31. b4
+Qc6 32. c4 bxc4 33. Qc3 Qg6 34. Nxc4 e4 35. Nd2 e3 36. Qd4 c6
+37. Ne4 Bxe4 38. Qxe4 Qf6 39. Rg1 Rd7 40. Qc2 Rgd8 41. g3 fxg3
+42. Rxe3 Rd2 43. Re8+ Rxe8 44. Qxd2 Qxf3+ 45. Qg2 Re2 0-1

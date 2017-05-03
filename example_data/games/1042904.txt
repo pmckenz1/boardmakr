@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hans Ree"]
+[Black "Max Euwe"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3
+b6 7. e3 Bb7 8. Be2 c5 9. b4 d6 10. Bb2 Nbd7 11. O-O e5 12. d3
+Qe7 13. Nd2 d5 14. cxd5 Nxd5 15. Qc4 cxb4 16. Bf3 Rfc8 17. Qa2
+N7f6 18. Nc4 Nc3 19. Bxc3 bxc3 20. Bxb7 Qxb7 21. Nd6 Qd7
+22. Nxc8 Rxc8 23. Qc2 b5 24. Rfd1 a5 25. Rab1 Nd5 26. Rdc1 b4
+27. e4 Nf4 28. axb4 axb4 29. g3 Ne6 30. Rxb4 Nd4 31. Qa2 Qh3
+32. Rxd4 exd4 33. Qa4 Qh6 34. Rc2 Qb6 35. Kf1 Qb1+ 36. Ke2 h6
+37. e5 Rb8 38. Kf3 Qh1+ 39. Kg4 Qd1+ 0-1

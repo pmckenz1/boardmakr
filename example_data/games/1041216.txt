@@ -1,0 +1,19 @@
+[Event "Buenos Aires Argenti"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.09"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alfredo Olivera"]
+[Black "Erich Eliskases"]
+[ECO "E24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.Nf3 Qa5
+7.Bd2 Ne4 8.e3 Nc6 9.Bd3 Nxd2 10.Qxd2 b6 11.d5 Nd8 12.O-O exd5
+13.cxd5 Ba6 14.Rfd1 Nb7 15.e4 Bxd3 16.Qxd3 Qa4 17.c4 O-O 18.e5
+f6 19.Re1 Na5 20.Rac1 fxe5 21.Ng5 g6 22.Rxe5 Qb3 23.Qe4 Qb2
+24.Rf1 Qd4 25.Qxd4 cxd4 26.Re7 Nxc4 27.Rxd7 Rad8 28.Rc7 Rxd5
+29.Rxc4 Rxg5 30.Rxd4 1/2-1/2

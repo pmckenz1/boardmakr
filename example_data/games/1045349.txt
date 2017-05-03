@@ -1,0 +1,26 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Branko Rogulj"]
+[ECO "A79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1. c4 c5 2. Nf3 g6 3. d4 Bg7 4. d5 Nf6 5. Nc3 O-O 6. e4 d6
+7. Be2 e6 8. O-O exd5 9. cxd5 Re8 10. Nd2 Na6 11. f3 Nc7
+12. a4 b6 13. Nc4 Ba6 14. Bg5 h6 15. Be3 Qd7 16. Qd2 Kh7
+17. Rab1 Bxc4 18. Bxc4 a6 19. b4 b5 20. Be2 c4 21. Bd4 bxa4
+22. Qb2 a3 23. Qa1 Nh5 24. Bxg7 Nxg7 25. Bxc4 Nb5 26. Rf2 Rec8
+27. Bxb5 axb5 28. Rb3 Rc4 29. g3 Qc8 30. Kg2 a2 31. Nxa2 Ra7
+32. Rbb2 h5 33. Qb1 Rac7 34. h4 Ne8 35. Rbe2 Kg8 36. Qb2 f6
+37. Qd2 Kh7 38. Qf4 Qd8 39. g4 Ng7 40. Qe3 Qc8 41. Qf4 Qd8
+42. Kh2 hxg4 43. fxg4 f5 44. gxf5 gxf5 45. h5 Qf6 46. Kg1 Qa1+
+47. Kg2 Re7 48. Rf1 Rexe4 49. Rxa1 Rxf4 50. Rc1 Rxc1 51. Nxc1
+Rxb4 52. Re7 Kh6 53. Rd7 Nxh5 54. Rxd6+ Kg5 55. Nd3 Rd4
+56. Ne5 Nf4+ 57. Kf3 Nh5 58. Rg6+ Kh4 59. d6 b4 60. d7 b3
+61. Rb6 f4 62. Rb8 1-0

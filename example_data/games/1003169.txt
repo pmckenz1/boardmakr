@@ -1,0 +1,29 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.23"]
+[EventDate "1905.08.14"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "David Przepiorka"]
+[Black "A H Pettersson"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "154"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Re1 Qd7 11. Nbd2 Nc5
+12. Nd4 Nxd4 13. cxd4 Nd3 14. Re3 Nf4 15. Rc3 O-O 16. Nf3 Ng6
+17. Bg5 Bb4 18. Rcc1 h6 19. Be3 Ba5 20. a4 Bb4 21. Qc2 Rfc8
+22. axb5 Qxb5 23. Ba4 Qb6 24. Nd2 Ne7 25. Nb3 Rab8 26. Ra2 Bf5
+27. Qe2 Qg6 28. f3 Bd3 29. Qf2 Bc4 30. Raa1 Nf5 31. Rd1 Be7
+32. Na5 Nxe3 33. Qxe3 Rxb2 34. Rd2 Rxd2 35. Qxd2 Bb5 36. Bc2
+Qg5 37. f4 Qg4 38. h3 Qe2 39. Qxe2 Bxe2 40. Nc6 Kf8 41. Bb3
+Bb5 42. Bxd5 Bxc6 43. Bxc6 Bb4 44. Rxa6 Bd2 45. Kf2 Bxf4
+46. Kf3 Bg5 47. Ra7 Bd8 48. Ke4 Rb8 49. Bb7 Be7 50. Bc6 Bd8
+51. d5 Rb4+ 52. Kd3 Rb8 53. Kc4 Rb1 54. Ba4 Rb8 55. Kc5 f6
+56. e6 Rb6 57. Ra8 Ke7 58. Bc6 Rb1 59. Bb5 Rc1+ 60. Bc4 Rc2
+61. Ra2 Rc1 62. Ra4 Rc2 63. Kc6 Rd2 64. Ra2 Rd1 65. Rc2 Rb1
+66. Bb5 Rd1 67. Rc3 Rd2 68. Rg3 g5 69. Ba4 Rd4 70. Bb3 Rb4
+71. Kc5 Re4 72. h4 Rxh4 73. Rh3 Rxh3 74. gxh3 h5 75. Bd1 c6
+76. Kxc6 Ba5 77. Bxh5 Bb4 1/2-1/2

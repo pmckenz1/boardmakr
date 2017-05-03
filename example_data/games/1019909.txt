@@ -1,0 +1,16 @@
+[Event "Buenos Aires (Clarin)"]
+[Site "Buenos Aires ARG"]
+[Date "1979.12.01"]
+[EventDate "1979.11.26"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "William James Lombardy"]
+[Black "Ulf Andersson"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 e6 4.Nf3 Nge7 5.d3 d6 6.Be3 a6 7.Qd2
+Qc7 8.g3 Bd7 9.Bg2 g6 10.O-O Bg7 11.Qf2 O-O 12.g4 f5 13.h3
+Rae8 14.Kh1 b5 15.a3 Nd8 16.gxf5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Moscow Club Autumn"]
+[Site "Moscow RUS"]
+[Date "1909.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Victor Kahn"]
+[Black "Alexander Alekhine"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Bxc6 dxc6 6. Nxe5
+Bc5 7. c3 Nxe4 8. d4 Be7 9. Qf3 Nd6 10. Nd2 Be6 11. Nb3 O-O
+12. Re1 Bd5 13. Qh5 f6 14. Ng4 Nc4 15. Ne3 Nxe3 16. Bxe3 Bd6
+17. Rad1 b6 18. f3 Qd7 19. Qh4 Qf5 20. Qf2 Qh5 21. h3 f5
+22. f4 Rf6 23. Qe2 Qh6 24. c4 Be4 25. Nd2 Re8 26. Rf1 Bxg2
+27. Kxg2 Rg6+ 28. Kh2 Qg5 29. Rf3 Rxe3 30. Rxe3 Bxf4+ 31. Kh1
+Bxe3 32. Nb3 Qg3 0-1

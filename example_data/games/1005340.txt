@@ -1,0 +1,18 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Sergei Ljukin"]
+[Black "Vladimir L Stoockalov"]
+[ECO "B00"]
+[WhiteElo "2400"]
+[BlackElo "2445"]
+[PlyCount "47"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 Bg4 5. d5 Nb8 6. Be2 Bxf3
+7. Bxf3 g6 8. Be3 Bg7 9. Qd2 O-O 10. Bh6 Nbd7 11. h4 e5
+12. dxe6 fxe6 13. Bxg7 Kxg7 14. h5 Ne5 15. Be2 Nf7 16. O-O-O
+Qe7 17. f4 c6 18. g4 Rg8 19. g5 Ne8 20. Rdg1 Kf8 21. Bd3 gxh5
+22. Rxh5 h6 23. g6 Qf6 24. e5 1-0

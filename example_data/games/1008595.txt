@@ -1,0 +1,19 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "James R West"]
+[Black "Jacob Chudnovsky"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. c3 Nf6 6. b4 Bb6
+7. a4 a5 8. b5 Ne7 9. O-O O-O 10. Nbd2 Ng6 11. Bb3 c6 12. Nc4
+Bc7 13. Rb1 d5 14. b6 Bb8 15. exd5 cxd5 16. Na3 Ra6 17. Be3
+Bg4 18. h3 Bh5 19. Nc2 Qd6 20. Nce1 Nh4 21. g3 Nxf3+ 22. Nxf3
+Nd7 23. g4 Bg6 24. Bc2 Rc8 25. Rb3 f5 26. Rb5 Rxc3 27. Bb3 Bf7
+28. Re1 fxg4 29. hxg4 Nxb6 30. Ng5 1/2-1/2

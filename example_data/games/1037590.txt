@@ -1,0 +1,29 @@
+[Event "12, Montreal zt"]
+[Site "12, Montreal zt"]
+[Date "1981.05.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Jean Hebert"]
+[ECO "E77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "168"]
+
+1.e4 d6 2.d4 g6 3.c4 Bg7 4.Nc3 Nf6 5.f4 O-O 6.Nf3 c5 7.d5 e6
+8.Be2 exd5 9.e5 Ng4 10.cxd5 dxe5 11.fxe5 Nxe5 12.O-O Bf5
+13.Bf4 Nbd7 14.d6 Qb6 15.Qd2 Rad8 16.Nh4 Be6 17.Bg5 f6 18.Be3
+Qc6 19.Bb5 Qb6 20.b4 Nc4 21.Bxc4 Bxc4 22.bxc5 Qc6 23.Qd4 Bf7
+24.Rfd1 Rfe8 25.Bf2 Re5 26.Qb4 Nxc5 27.Nf3 Rh5 28.Qa5 Ne6
+29.Qa3 Bf8 30.Rac1 Bxd6 31.Qxa7 Ng5 32.Nh4 Nh3+ 33.Kh1 Re8
+34.Nf3 Ng5 35.Nd5 Bxd5 36.Rxc6 Nxf3 37.h4 bxc6 38.Qd7 Re2
+39.Qxd6 Rxf2 40.Qd8+ Kg7 41.Qe7+ Bf7 42.gxf3 Re5 43.Qc7 Rxa2
+44.Qxc6 Ree2 45.Qc7 Rec2 46.Qg3 h5 47.Qf4 Rc4 48.Qg3 Raa4
+49.Qe1 Rxh4+ 50.Kg1 Rhc4 51.Rd2 Rd4 52.Rb2 Rd7 53.Kf2 g5
+54.Qc3 Rc4 55.Qa3 Rdc7 56.Qd6 Rc2+ 57.Rxc2 Rxc2+ 58.Kg1 Rc4
+59.Qe7 Kg6 60.Qb7 Rf4 61.Qb1+ Kg7 62.Qb7 h4 63.Kg2 Kg6 64.Qd7
+Rf5 65.Qe7 Re5 66.Qc7 Bd5 67.Qc2+ Rf5 68.Kh3 Bxf3 69.Qc8 Re5+
+70.Qg8+ Kf5 71.Qc8+ Re6 72.Qc2+ Be4 73.Qc8 Bc6 74.Qg8 Bd5
+75.Qh7+ Kf4 76.Qc7+ Re5 77.Qd6 Kf5 78.Qb6 Kg6 79.Qb1+ Kg7
+80.Kg4 Re4+ 81.Kh3 Re3+ 82.Kh2 Re2+ 83.Kg1 h3 84.Qf1 h2 0-1

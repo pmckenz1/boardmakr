@@ -1,0 +1,20 @@
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Daniel Edelman"]
+[Black "Jay R Bonin"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Bd7 6.a3 c4 7.Nbd2 Nc6
+8.Be2 Na5 9.O-O Be7 10.Ne1 Nh6 11.g4 O-O-O 12.Ng2 Rhg8 13.Rb1
+f6 14.exf6 gxf6 15.Nxc4 Nxc4 16.Bxh6 f5 17.Bf4 fxg4 18.Bxc4
+dxc4 19.Qe2 Qb5 20.Ne3 Bg5 21.Bxg5 Qxg5 22.Nxc4 Qd5 23.Ne5 g3
+24.hxg3 Bb5 25.c4 Qxd4 26.Kh2 Rd5 27.f4 Rxe5 28.fxe5 Bc6
+29.Rbd1 Qc5 30.b4 Qe7 31.Rf6 Qg7 32.Qf2 Qg4 33.Rd4 Qh5+ 34.Rh4
+Qd1 35.Rf8+ Rxf8 36.Qxf8+ 1-0

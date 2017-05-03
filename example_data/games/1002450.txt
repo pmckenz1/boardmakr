@@ -1,0 +1,22 @@
+[Event "USA-06.Congress New York (33-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.08"]
+[EventDate "?"]
+[Round "33"]
+[Result "1/2-1/2"]
+[White "George Hatfeild Gossip"]
+[Black "Eugene Delmar"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.e4 e5 2.Nc3 Bc5 3.f4 d6 4.Nf3 Nc6 5.Bb5 Bg4 6.h3 Bxf3 7.Qxf3
+Nf6 8.Na4 Bb6 9.Nxb6 axb6 10.d3 Nd7 11.c3 Qf6 12.O-O Qe7 13.f5
+O-O-O 14.Be3 Nf6 15.g4 h6 16.c4 Rdg8 17.Bxc6 bxc6 18.a4 Kb7
+19.a5 bxa5 20.Rxa5 Ra8 21.Rfa1 Rxa5 22.Rxa5 Ra8 23.Rxa8 Kxa8
+24.Qd1 Kb7 25.b4 d5 26.Bc5 Qe8 27.exd5 cxd5 28.Qa1 Qc6 29.Qa7+
+Kc8 30.b5 Qb7 31.Qxb7+ Kxb7 32.Bf8 Ne8 33.f6 g6 34.Bxh6 dxc4
+35.dxc4 Nxf6 36.Bg7 Ne4 37.h4 c6 38.Kg2 cxb5 39.cxb5 Kb6
+40.Kf3 f5 41.Bxe5 Nd2+ 42.Kf4 fxg4 43.Kxg4 Kxb5 44.Bc3 Ne4
+45.Be5 Kc5 46.Kf3 Kd5 47.Ba1 Nd6 1/2-1/2

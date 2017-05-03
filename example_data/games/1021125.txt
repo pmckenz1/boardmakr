@@ -1,0 +1,22 @@
+[Event "Sao Paulo op"]
+[Site "Sao Paulo op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andres Rodriguez Vila"]
+[Black "Antonio Rocha"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 g6 2.d4 Bg7 3.h4 h5 4.c3 d6 5.Nh3 Nf6 6.Ng5 c6 7.f3 O-O
+8.Be3 Nbd7 9.Nd2 Nh7 10.a4 Ndf6 11.Bd3 Qc7 12.Qe2 Bd7 13.a5 b5
+14.axb6 axb6 15.Kf2 b5 16.b4 Ra7 17.Rxa7 Qxa7 18.Nb3 Ra8
+19.Ra1 Qb8 20.Ra5 Nxg5 21.Bxg5 Be6 22.Rxa8 Qxa8 23.Na5 Bd7
+24.Bc2 Kf8 25.Qd2 Ne8 26.e5 d5 27.Qf4 Kg8 28.Bxe7 Nc7 29.Qg3
+Ne6 30.f4 Qe8 31.Bd6 Nf8 32.f5 gxf5 33.Qg5 Qe6 34.Qxh5 Qh6
+35.Qxh6 Bxh6 36.Nb3 Ng6 37.g3 Kg7 38.Kf3 Bc8 39.Bc7 Kf8 40.Bd8
+Ne7 41.Ke2 Ke8 42.Bc7 Be6 43.Nc5 Bc8 44.Nb3 Be6 45.Nc5 Bc8
+46.Nb3 Be6 1/2-1/2

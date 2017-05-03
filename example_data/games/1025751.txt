@@ -1,0 +1,21 @@
+[Event "Plovdiv (Bulgaria)"]
+[Site "Plovdiv (Bulgaria)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jon Loftur Arnason"]
+[Black "Gerardo F Barbero"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.Be2 h6 10.Bh4 Rc8 11.Nxc6 Bxc6 12.Qe3 Be7
+13.f4 O-O 14.Rd2 b5 15.a3 Qc7 16.Bf3 Ng4 17.Qe1 Bxh4 18.Qxh4
+Ne3 19.g4 f5 20.gxf5 exf5 21.Re1 fxe4 22.Nxe4 d5 23.Rxe3 Rxf4
+24.Qe1 dxe4 25.Bxe4 Qf7 26.Bd3 Re8 27.Rxe8+ Bxe8 28.Re2 Kf8
+29.Re6 Rf6 30.Qb4+ Kg8 31.Re7 Qh5 32.Qe1 Qg5+ 33.Kb1 Bg6
+34.Bxg6 Qxg6 35.Re8+ Kh7 36.Rc8 Qg2 37.Qe8 Rf1+ 38.Ka2 Qe4
+39.b3 Qd4 40.Qg8+ Kg6 41.Qe6+ 1/2-1/2

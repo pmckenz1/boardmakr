@@ -1,0 +1,21 @@
+[Event "It (open), XI-XII"]
+[Site "Makati City (Philippines)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Rolando Nolte"]
+[Black "Eugenio Torre"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 Bg4 11.h3 Bh5 12.Bc2 Qd7 13.Re1
+Be7 14.Nf1 Rd8 15.Ng3 Bg6 16.Bg5 Ne6 17.Bxe7 Nxe7 18.a4 O-O
+19.Bxg6 hxg6 20.axb5 axb5 21.Qd2 Ra8 22.Rxa8 Rxa8 23.Ne4 Nc6
+24.Rd1 Rd8 25.Neg5 Nf8 26.Qf4 Qe7 27.Re1 Re8 28.h4 Nd8 29.Nd4
+Nde6 30.Qf3 Qd7 31.Qd3 Nxg5 32.hxg5 c5 33.Nf3 Ne6 34.g3 Rd8
+35.Rd1 Qb7 36.Re1 b4 37.cxb4 Qxb4 38.Re2 Qg4 39.Rc2 d4 40.b3
+Ra8 41.Kh2 Ra1 42.b4 cxb4 43.Rc8+ Kh7 44.Ng1 Nf4 0-1

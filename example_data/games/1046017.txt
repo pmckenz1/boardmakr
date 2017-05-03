@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.20"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Vasilios Kotronias"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 c5
+7. dxc5 Bxc5 8. Qc2 Nc6 9. a3 Qa5 10. Rd1 Be7 11. Nd2 e5
+12. Bg5 d4 13. Nb3 Qd8 14. Be2 a5 15. Na4 g6 16. Bxf6 Bxf6
+17. O-O Qc7 18. c5 Be6 19. e4 Ne7 20. Nd2 Bg5 21. Nf3 Bh6
+22. Bc4 Bg4 23. Rd3 Kh8 24. h3 f5 25. Rb3 d3 26. Qxd3 Rad8
+27. Qb1 Bxf3 28. Rxf3 Rd4 29. b3 Rxe4 30. Rd3 Nc6 1/2-1/2

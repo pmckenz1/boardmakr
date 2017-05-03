@@ -1,0 +1,19 @@
+[Event "05, Cup URS active Tallinn Estonia"]
+[Site "05, Cup URS active Tallinn Estonia"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Boris Kantsler"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.b3 d5 2.Bb2 Bg4 3.g3 Nd7 4.Bg2 Ngf6 5.h3 Bh5 6.g4 Bg6 7.g5
+Ne4 8.h4 e6 9.d3 Nd6 10.Nd2 h6 11.e4 dxe4 12.dxe4 c6 13.f4
+hxg5 14.hxg5 Rxh1 15.Bxh1 Qb6 16.Ne2 Qe3 17.Bd4 Qh3 18.Bf3
+Nxe4 19.Bxe4 Bxe4 20.Nxe4 Qh1+ 21.Kf2 Qxe4 22.Qd2 Bc5 23.Bxc5
+Nxc5 24.Rd1 Qd5 25.Qe1 Qf5 26.Qh1 Ke7 27.b4 Ne4+ 28.Ke3 Nd6
+29.Nd4 Nc4+ 30.Kf3 1/2-1/2

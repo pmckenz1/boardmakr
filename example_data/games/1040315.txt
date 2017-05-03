@@ -1,0 +1,18 @@
+[Event "Fort Worth (USA)"]
+[Site "Fort Worth (USA)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Dimitri Gurevich"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 d5 6.a3 Bd6 7.c5 Be7
+8.b4 Nbd7 9.g3 e5 10.Bg2 e4 11.f3 exf3 12.Bxf3 c6 13.O-O Re8
+14.Nf4 Nf8 15.Ra2 Ne6 16.Nxe6 Bxe6 17.g4 Ne4 18.Bxe4 dxe4
+19.Rg2 Bc4 20.Rf4 a5 21.Nxe4 axb4 22.axb4 Ra1 23.h4 Bxh4
+24.Qc2 Bd5 25.Nd6 Rxe3 26.Kh2 Bg3+ 0-1

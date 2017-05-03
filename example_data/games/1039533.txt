@@ -1,0 +1,15 @@
+[Event "It (swiss)"]
+[Site "Rostov on Don (Russia)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Stanislav Savchenko"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "16"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 Na6 7.Bd3 e5
+8.d5 Nh5 1/2-1/2

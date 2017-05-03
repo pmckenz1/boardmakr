@@ -1,0 +1,19 @@
+[Event "Scheveningen"]
+[Site "Scheveningen NED"]
+[Date "1920.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Henry Baudet"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. O-O d6 6. Nxd4
+Nf6 7. Nc3 O-O 8. b3 Re8 9. Bb2 Bf8 10. Re1 Ne5 11. Bf1 Ned7
+12. h3 Nc5 13. Qf3 Rb8 14. Rad1 Bd7 15. b4 Ne6 16. Nxe6 Bxe6
+17. Nd5 Nd7 18. a3 c6 19. Nf4 Qc7 20. Qg3 Ne5 21. Nh5 Ng6
+22. Bd3 Qc8 23. f4 d5 24. exd5 cxd5 25. f5 Bxf5 26. Rxe8 Qxe8
+27. Bxf5 Qe2 28. Bg4 Qxc2 29. Qxb8 Nh4 30. Qg3 1-0

@@ -1,0 +1,22 @@
+[Event "Vrsac (Yugoslavia)"]
+[Site "Vrsac (Yugoslavia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Dragoljub Velimirovic"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 d6 7.O-O e6
+8.Nd2 exd5 9.exd5 Na6 10.Nc4 Re8 11.Bg5 Nc7 12.a4 b6 13.Qd2
+Ba6 14.Rfe1 Qd7 15.Bf1 Ng4 16.h3 Bxc4 17.Bxc4 Ne5 18.Bf1 f5
+19.Nb5 a6 20.Nxc7 Qxc7 21.c3 c4 22.Be3 b5 23.Bd4 Qf7 24.f4 Nd7
+25.Re6 Bxd4+ 26.cxd4 Nf8 27.Rxd6 Red8 28.Rb6 Qxd5 29.Be2 Rac8
+30.Bf3 Qxd4+ 31.Qxd4 Rxd4 32.Rxa6 bxa4 33.R1xa4 Nd7 34.Rc6
+Rxc6 35.Bxc6 Nf6 36.Bb5 h5 37.Bxc4+ Kg7 38.b3 h4 39.Be2 Rd2
+40.Bf3 Rb2 41.Ra7+ Kh6 42.Rf7 Nh7 43.Rb7 Nf6 44.Rf7 Nh7 45.Rb7
+Nf6 1/2-1/2

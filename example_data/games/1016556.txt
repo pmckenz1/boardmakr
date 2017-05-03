@@ -1,0 +1,21 @@
+[Event "Vesterhavs, Esbjerg"]
+[Site "Vesterhavs, Esbjerg"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Ferdinand Hellers"]
+[Black "Andras Adorjan"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6
+7.Qe2 Nb6 8.Bd3 h6 9.N5f3 c5 10.dxc5 Bxc5 11.Bd2 a6 12.Ne5
+Nbd5 13.Ngf3 Qc7 14.O-O-O b5 15.g4 Bb7 16.g5 Nh5 17.gxh6 O-O-O
+18.Qe1 gxh6 19.Kb1 f6 20.Ng6 Rhe8 21.Rf1 Kb8 22.Ba5 Bb6
+23.Bxb6 Nxb6 24.Qe3 Nd5 25.Qe2 Nhf4 26.Nxf4 Qxf4 27.Bg6 Qb4
+28.Qe1 Nc3+ 29.Qxc3 Qxc3 30.bxc3 Bxf3 31.Rd3 Rxd3 32.cxd3 Rg8
+33.Bf7 Rg2 34.d4 e5 35.dxe5 fxe5 36.Re1 Rxh2 37.Rxe5 Rxf2
+38.Bh5 Bxh5 39.Rxh5 Rf6 40.Kb2 Kc7 41.Kb3 1/2-1/2

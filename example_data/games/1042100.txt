@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Grondman"]
+[Black "Max Euwe"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. c4 e6 2. Nc3 d5 3. cxd5 exd5 4. d4 c6 5. g3 Nf6 6. Bg2 Bd6
+7. Nf3 O-O 8. O-O Bf5 9. Bg5 Nbd7 10. Rc1 h6 11. Bxf6 Nxf6
+12. Nh4 Bh7 13. f4 Re8 14. Qd2 Ne4 15. Nxe4 dxe4 16. f5 Be7
+17. e3 Bxh4 18. gxh4 Qxh4 19. Rf4 Qg5 20. Rc5 Rad8 21. Qf2
+Rxd4 22. h4 Rd1+ 23. Kh2 Qf6 24. Rc4 Qd6 25. Kh3 Rd2 26. Qf1
+Qd7 27. Bxe4 b5 28. Rd4 Rxd4 29. exd4 Rxe4 0-1

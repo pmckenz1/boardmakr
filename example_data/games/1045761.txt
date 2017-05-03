@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Yuri Razuvaev"]
+[Black "Lubomir Ftacnik"]
+[ECO "D88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 c5 8. Ne2 O-O 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4
+12. f3 Na5 13. Bb3 Bd7 14. Rb1 e6 15. Qd2 Bb5 16. Rfd1 Nxb3
+17. axb3 Rc8 18. Nc3 Bd7 19. e5 Bc6 20. b4 a6 21. b5 axb5
+22. Nxb5 Ra8 23. Nd6 f6 24. Bh6 Bxh6 25. Qxh6 Ra2 26. Rdc1 Ra7
+27. Qe3 fxe5 28. dxe5 Qa8 29. Rb2 1/2-1/2

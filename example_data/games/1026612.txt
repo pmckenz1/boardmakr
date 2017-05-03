@@ -1,0 +1,24 @@
+[Event "It (open)"]
+[Site "Toronto CAN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Jean Hebert"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.f4 Qc7 7.Be2
+b5 8.Nxc6 Qxc6 9.Bf3 Bb7 10.e5 Qc7 11.Ne4 Rc8 12.c3 f5 13.Nf2
+Bc5 14.O-O Ne7 15.Kh1 Bxf3 16.Qxf3 Bxf2 17.Qxf2 Nd5 18.Bd2 O-O
+19.Rac1 Qb6 20.Qe2 Rc4 21.b3 Re4 22.Qd3 Qc6 23.c4 bxc4 24.Rxc4
+Rxc4 25.Qxc4 Qxc4 26.bxc4 Nb6 27.Rc1 Rc8 28.c5 Nd5 29.Kg1 Rb8
+30.Rc2 Kf7 31.Kf2 Rb1 32.Ke2 Ke7 33.c6 Kd8 34.cxd7 Kxd7 35.Kf3
+Rb6 36.Ke2 Rc6 37.Rb2 Rb6 38.Rc2 Rb5 39.h3 h5 40.Kf3 a5 41.Kg3
+g6 42.Kh4 Ke7 43.a4 Rb3 44.Bxa5 Nxf4 45.Kg5 Nd5 46.Kxg6 Ra3
+47.Bd2 Rxa4 48.Bg5+ Kd7 49.Kxh5 Re4 50.Bf6 Re3 51.Kg6 Ke8
+52.Rc8+ Kd7 53.Rd8+ Kc7 54.Rg8 Rg3+ 55.Kf7 Rxg8 56.Kxg8 Nf4
+57.g4 Nxh3 58.gxf5 exf5 59.e6 Nf4 60.Be5+ Kd8 61.Bxf4 1/2-1/2

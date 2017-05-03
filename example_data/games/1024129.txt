@@ -1,0 +1,23 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Laszlo Barczay"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+a6 8.Bf4 b5 9.Qxc7 Qxc7 10.Bxc7 Bb7 11.e5 Nd5 12.Ba5 Nf4
+13.O-O-O Nh3 14.gxh3 Bxf3 15.Be2 Bxh1 16.Rxh1 Nc6 17.Bb6 Rab8
+18.Bc5 Rfc8 19.b4 f5 20.Bd1 e6 21.Bb3 Kf7 22.Rd1 Bf8 23.Bxf8
+Rxf8 24.d5 Nxe5 25.dxe6 Ke7 26.Nd5+ Kxe6 27.Nf4+ Ke7 28.Nd5+
+Kd6 29.f4 Nc4 30.Bxc4 bxc4 31.Nb6 Ke7 32.Nd7 Rxb4 33.Nxf8 Kxf8
+34.Rd7 c3 35.Rxh7 Rxf4 36.Rc7 Rf2 37.a4 Ra2 38.h4 Rxh2 39.Rxc3
+Rxh4 40.Rc6 Kg7 41.Rxa6 Kh6 42.Kd2 Rh3 43.Ra8 Kg5 44.a5 Kg4
+45.Rc8 Ra3 46.Rc5 f4 47.Ke2 Ra2+ 48.Kf1 g5 49.Kg1 Kh4 50.Rf5
+Ra4 0-1

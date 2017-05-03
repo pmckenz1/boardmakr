@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Al Kremenietsky"]
+[Black "Vladimir M Evelev"]
+[ECO "E66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c5
+7. Nc3 Nc6 8. dxc5 dxc5 9. Qc2 Nd4 10. Nxd4 cxd4 11. Rd1 Bf5
+12. Qa4 Bd7 13. Nb5 a6 14. Bxb7 Ra7 15. Bg2 Qb6 16. Qb4 axb5
+17. c5 Qe6 18. Qxd4 Ng4 19. Qd2 Rc8 20. h3 Ne5 21. Qe3 Bc6
+22. Bxc6 Qxc6 23. a3 Rd7 24. Rxd7 Qxd7 25. Kh2 Nc4 26. Qf3
+Rxc5 27. Rb1 h5 28. Bf4 e5 29. Bg5 e4 30. Qf4 Rf5 31. Qb8+ Kh7
+32. Bf4 g5 33. Be3 Nxe3 34. fxe3 Qd2 35. Rg1 h4 0-1

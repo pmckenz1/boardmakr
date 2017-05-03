@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Odion Aikhoje"]
+[Black "Simon T Buckley"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Bd3
+Nbd7 7. Qe2 e5 8. c3 Qe8 9. Bc2 e4 10. Ng1 d5 11. c4 c6
+12. Bb3 Qe6 13. Nb1 b5 14. cxb5 cxb5 15. Nh3 Ba6 16. Qd2 b4
+17. Nf4 Qd6 18. a3 Rfc8 19. axb4 Bc4 20. Bxc4 Rxc4 21. Nc3
+Rxb4 22. Bxf6 Nxf6 23. Nfxd5 Nxd5 24. Nxd5 Rb3 25. Nc3 Rab8
+26. Ra2 f5 27. O-O Qb4 28. Qc1 Rxb2 29. Nd5 Qb3 30. Ne7+ Kf7
+31. Rxb2 Qxb2 32. Nc6 Qxc1 33. Rxc1 Ra8 34. Rc5 Bf8 35. Ra5 a6
+36. h4 Ke6 37. h5 Bd6 38. hxg6 hxg6 39. d5+ Kf6 40. f3 Bc7
+41. Ra4 exf3 42. gxf3 Bb6 43. Kf2 Re8 44. Rxa6 Bxe3+ 45. Kg2
+g5 46. Na5+ Ke5 47. d6 Ke6 48. Nc4 Bc5 49. Ra5 Bxd6 50. Nxd6
+Kxd6 51. Rxf5 Re5 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "5"]
+[Result "0-1"]
+[White "Sandor Boros"]
+[Black "Erno Gereben"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6
+7. O-O Be7 8. Kh1 O-O 9. Be3 a6 10. f4 Qc7 11. Qe1 Bd7 12. Nb3
+b5 13. a3 Rfc8 14. Qf2 Rab8 15. g4 b4 16. axb4 Nxb4 17. Bf3 d5
+18. e5 Ne4 19. Nxe4 dxe4 20. Bxe4 Bc6 0-1

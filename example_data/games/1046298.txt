@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.10"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Einar J Gausel"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Qxd2
+b6 7. g3 Bb7 8. Bg2 d6 9. O-O Nbd7 10. b3 Qe7 11. Bb2 Ne4
+12. Qc2 f5 13. Rad1 Ndf6 14. Ne1 c5 15. f3 Ng5 16. e3 Rac8
+17. Rf2 Nf7 18. dxc5 dxc5 19. Rfd2 Rcd8 20. Nd3 e5 21. Nf2
+Rxd2 22. Rxd2 Qe6 23. f4 Bxg2 24. Kxg2 Re8 25. Qd1 h6 26. h3
+Re7 27. Qf3 Kh7 28. g4 exf4 29. exf4 Kg8 30. Rd1 Kh7 31. Bc3
+a5 32. Re1 Qd6 33. Rxe7 Qxe7 34. Qd3 Ne4 35. gxf5 Nxf2
+36. Kxf2 Qh4+ 37. Kg2 Qxf4 38. f6+ Kg8 39. fxg7 Qg5+ 40. Qg3
+Qd8 41. Qf3 Qe8 42. Kf2 a4 43. b4 Nd6 44. Qd5+ Qf7+ 45. Ke2
+cxb4 46. axb4 Qxd5 47. cxd5 a3 48. Kd3 a2 49. Kc2 b5 50. Kb3
+Ne8 51. Kxa2 Nxg7 52. Bxg7 Kxg7 53. Kb3 Kf6 54. Kc3 Ke5 55. d6
+Kxd6 56. Kd4 h5 57. h4 Ke6 58. Kc5 Kf5 59. Kxb5 Kg4 60. Kc4
+Kxh4 61. b5 1-0

@@ -1,0 +1,24 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1933.09.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Isaac Kashdan"]
+[Black "Alekhine / R Wahrburg"]
+[ECO "C75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nf6
+7. Qe2 Be7 8. O-O O-O 9. d5 Nb8 10. Bc2 a5 11. c4 Na6 12. Nc3
+Nc5 13. Be3 b6 14. h3 g6 15. Bh6 Re8 16. g4 Bf8 17. Bxf8 Rxf8
+18. Nh2 Qe7 19. Qe3 h5 20. f4 hxg4 21. hxg4 exf4 22. Qxf4 Kg7
+23. Rae1 Rae8 24. Kg2 Rh8 25. Re2 Rh4 26. Ref2 Reh8 27. Kg1
+Be8 28. Qg5 Kf8 29. Rg2 Ncd7 30. Nb5 Ne5 31. Qxf6 Qxf6
+32. Rxf6 Bxb5 33. cxb5 Rxh2 34. Rxh2 Rxh2 35. Rxf7+ Kxf7
+36. Kxh2 Nxg4+ 37. Kg3 Ne5 38. b3 Kf6 39. Bd1 Nd3 40. Kf3 Ke5
+41. Ke3 Nc5 42. Bf3 g5 43. Bh1 Nd7 44. Bg2 Nf6 45. Bf3 g4
+46. Be2 Nxe4 47. Bxg4 Nc3 48. Bf3 Nxd5+ 49. Kd2 Kd4 50. a3 Nc3
+51. Bc6 a4 52. Kc2 d5 53. bxa4 Kc4 0-1

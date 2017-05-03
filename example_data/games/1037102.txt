@@ -1,0 +1,19 @@
+[Event "Vrsac (Yugoslavia)"]
+[Site "Vrsac (Yugoslavia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Branko Damljanovic"]
+[Black "Nigel Rodney Davies"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.Nf3 d6 2.d4 Bg4 3.e4 Nf6 4.Nc3 e6 5.h3 Bh5 6.Qe2 c6 7.g4 Bg6
+8.h4 h5 9.g5 Nfd7 10.Bh3 Be7 11.Be3 d5 12.Nd2 Nb6 13.f4 dxe4
+14.Ndxe4 Na6 15.O-O Bxe4 16.Nxe4 g6 17.c4 O-O 18.Rad1 Nc8
+19.d5 cxd5 20.cxd5 exd5 21.f5 Nb6 22.fxg6 fxg6 23.Be6+ Kh7
+24.Rxf8 Qxf8 25.Rf1 dxe4 26.Rxf8 Rxf8 27.Qc2 Rf3 28.Bxb6 axb6
+29.Qxe4 Bc5+ 30.Kg2 Rf2+ 31.Kg3 Nb4 32.Qxb7+ Kh8 33.Bf7 1-0

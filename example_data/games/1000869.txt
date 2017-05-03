@@ -1,0 +1,21 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.18"]
+[EventDate "1911.08.21"]
+[Round "21"]
+[Result "1-0"]
+[White "Paul Saladin Leonhardt"]
+[Black "Borislav Kostic"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.Nf3 Nc6 5.e3 Nf6 6.Bd3 Bd6 7.O-O
+O-O 8.Qe2 Qe7 9.Rd1 Rd8 10.b3 b6 11.Bb2 Bb7 12.cxd5 exd5
+13.Nb5 Nb4 14.Nxd6 Qxd6 15.dxc5 bxc5 16.Bf5 Re8 17.a3 Nc6
+18.Rac1 Na5 19.Qc2 d4 20.b4 Bxf3 21.gxf3 cxb4 22.Rxd4 Qe7
+23.axb4 Nb7 24.Rc4 Nd8 25.Rc7 Qxb4 26.Bxf6 gxf6 27.Bxh7+ Kh8
+28.Rc4 Qa5 29.Rc5 Qb4 30.Rh5 Kg7 31.Rb1 Qd6 32.Rd1 Qc6 33.Qf5
+Ne6 34.Qg4+ Kf8 35.Qb4+ Kg7 36.Be4 Qa6 37.Bxa8 Rxa8 38.Qg4+
+Ng5 39.f4 1-0

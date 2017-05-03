@@ -1,0 +1,22 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.05.23"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Oldrich Duras"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bg5 c6 6.Qd2 Be6 7.Bd3
+Nbd7 8.f4 g6 9.O-O-O Qa5 10.h3 Bb4 11.Nge2 Ne4 12.Bxe4 dxe4
+13.a3 f6 14.axb4 Qa1+ 15.Nb1 fxg5 16.fxg5 Nb6 17.b3 Nd5 18.c4
+e3 19.Qb2 Qxb2+ 20.Kxb2 Nxb4 21.Rhf1 Bf5 22.Rf3 O-O 23.Rxe3
+Rae8 24.Rxe8 Rxe8 25.Rd2 Re3 26.Nbc3 Nd3+ 27.Ka3 Ne1 28.Nd1
+Re7 29.Ng3 Bc2 30.d5 cxd5 31.cxd5 Bxd1 32.d6 Rd7 33.Rxd1 Nc2+
+34.Kb2 Nb4 35.Ne4 Rd8 36.Nc5 b6 37.Ne6 Rd7 38.Rf1 h5 39.Rf8+
+Kh7 40.Rf6 Kh8 41.Nf8 Rd8 42.Nxg6+ Kg7 43.Nf4 Kg8 44.Ne6 Rxd6
+45.g6 Rd2+ 46.Ka3 Nc2+ 47.Ka4 1-0

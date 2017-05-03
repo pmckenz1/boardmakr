@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Los Angeles, CA USA"]
+[Date "1991.08.01"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Roman Izrailevich Levit"]
+[Black "Julio Bolbochan"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Bd2 f5 9.d5 Bf6 10.Rc1 a5 11.Be1 Nxc3 12.Bxc3 Na6 13.Nd4
+Nc5 14.Qc2 Qe7 15.Rfd1 d6 16.e3 g6 17.dxe6 Bxg2 18.Kxg2 Rae8
+19.Nb5 Nxe6 20.Bxf6 Qxf6 21.h4 Rf7 22.Nc3 Nc5 23.a3 Ne4 24.b4
+axb4 25.axb4 h6 26.f3 Nxg3 27.Kxg3 f4 28.Kg2 fxe3 29.Rf1 Qxh4
+30.Ne4 Qf4 31.Kg1 Rf5 32.Qg2 Kh7 33.Rcd1 e2 34.Qxe2 Rxe4
+35.fxe4 Rg5+ 36.Qg2 Rxg2+ 37.Kxg2 Qxe4+ 38.Kg3 h5 0-1

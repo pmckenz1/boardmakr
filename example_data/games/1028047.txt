@@ -1,0 +1,23 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1880.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Henry Edward Bird"]
+[Black "Emil Schallopp"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.f4 e6 2.Nf3 Nf6 3.e3 Be7 4.b3 O-O 5.Bb2 b6 6.a4 Bb7 7.Bd3
+Nc6 8.O-O d6 9.Na3 Nb4 10.Be2 Be4 11.d3 Bg6 12.Qd2 c5 13.Nh4
+Nd7 14.Nxg6 hxg6 15.c3 Nc6 16.Nc2 Na5 17.Ra3 d5 18.b4 cxb4
+19.cxb4 Nb7 20.Nd4 Rc8 21.Ra2 a5 22.b5 Bb4 23.Qd1 Bc5 24.Kh1
+Bxd4 25.Bxd4 Nd6 26.Bg4 Qh4 27.g3 Qh6 28.h4 Nf5 29.Bxf5 gxf5
+30.g4 Qxh4+ 31.Rh2 Qxg4 32.Qe1 f6 33.Rh4 Rc1 34.Rxg4 Rxe1
+35.Rxg7+ Kxg7 36.Rxe1 Rh8+ 37.Kg2 Rc8 38.e4 fxe4 39.dxe4 dxe4
+40.Rxe4 Kf7 41.Bf2 Rc2 42.Kf3 e5 43.f5 Nc5 44.Bxc5 Rxc5 45.Rh4
+Kg7 46.Rg4+ Kf7 47.Rh4 Rc3+ 48.Ke2 Kg7 49.Rg4+ Kf8 50.Rg6 Kf7
+0-1

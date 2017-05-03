@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Paul Dempsey"]
+[Black "Martin Simons"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6
+7. Nf3 Bg7 8. Nd2 Qa5 9. f3 O-O 10. e4 Bxf1 11. Nxf1 d6
+12. Ne3 Nbd7 13. O-O Qa6 14. Qe2 Qxe2 15. Nxe2 Rfb8 16. Nc3
+Ne8 17. Ned1 Bd4+ 18. Be3 Bxe3+ 19. Nxe3 Rxb2 20. Rab1 Rxb1
+21. Rxb1 Ra3 22. Rb3 Rxb3 23. axb3 Nc7 24. Nc4 Kg7 25. Kf2 f5
+26. g4 fxg4 27. fxg4 g5 28. Kg3 Kf6 29. h4 h6 30. h5 Ne5
+31. Ne3 Nf7 32. Nc4 Na6 33. Nd1 Nb4 34. Nde3 Nd3 35. Nf5 Nc1
+36. Nd2 e6 37. dxe6 Kxe6 38. Kf3 Kd7 39. Ke3 Kc6 40. e5 dxe5
+41. Ke4 Ne2 42. Nc4 Nc3+ 43. Kd3 Nd5 44. Ke4 Nf6+ 45. Kf3 e4+
+46. Kg3 Kb5 47. Ncd6+ Nxd6 48. Nxd6+ Kb4 49. Nb7 Nd7 50. Nd6
+Kxb3 51. Nxe4 c4 52. Kf3 c3 53. Nxc3 Kxc3 54. Ke4 Kd2 55. Kf5
+Nf8 0-1

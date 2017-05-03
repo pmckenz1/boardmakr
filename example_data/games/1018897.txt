@@ -1,0 +1,20 @@
+[Event "BFX Breslau"]
+[Site "BFX Breslau"]
+[Date "1848.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Daniel Harrwitz"]
+[Black "Adolf Anderssen"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5 6.Bc4 Rh7 7.d4 f3
+8.gxf3 d6 9.Nd3 Be7 10.Bg5 Bxg5 11.hxg5 Qxg5 12.f4 Qe7 13.Nc3
+Be6 14.d5 Bc8 15.Qe2 Nd7 16.O-O-O Nb6 17.Bb3 Bd7 18.e5 O-O-O
+19.Ne4 Bf5 20.Ng3 Bxd3 21.Qxd3 Rh8 22.Qf5+ Kb8 23.Rxh5 Rxh5
+24.Qxh5 Nf6 25.Qg5 Ng8 26.Qxg4 dxe5 27.Re1 Nf6 28.Qf5 Nfxd5
+29.Rxe5 Ne3 30.Qh5 Qd6 31.Bd5 Nbxd5 32.Ne4 Qc6 33.c3 Nxf4
+34.Qf3 Nd3+ 35.Kb1 Nxe5 36.Qxe3 f5 37.Nd2 Nc4 38.Nxc4 Qxc4 0-1

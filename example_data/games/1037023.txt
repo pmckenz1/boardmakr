@@ -1,0 +1,22 @@
+[Event "It (cat.8)"]
+[Site "Vrnjachka Banja (Yugoslavia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Nukhim N Rashkovsky"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.h3 g6 5.Bd3 Bg7 6.O-O O-O 7.Bc2
+Nc6 8.Re1 Nd7 9.d4 cxd4 10.cxd4 Qb6 11.d5 Nd4 12.Nc3 Nxf3+
+13.Qxf3 Ne5 14.Qe2 Bd7 15.Rb1 Rfc8 16.Be3 Qa6 17.Qxa6 bxa6
+18.Red1 Nc4 19.Bd4 Rab8 20.Bb3 Nxb2 21.Rxb2 Bxd4 22.Rxd4 Rxc3
+23.Re2 Bb5 24.Re1 Rbc8 25.Kh2 Rc1 26.Re3 R8c3 27.Rxc3 Rxc3
+28.Rb4 g5 29.f3 Rc1 30.Kg3 Kg7 31.h4 h6 32.hxg5 hxg5 33.Ba4
+Rc5 34.Bd1 a5 35.Rb2 a6 36.a4 Bd3 37.Kf2 Rc1 38.Bb3 f5 39.Ke3
+fxe4 40.fxe4 Rb1 41.Rxb1 Bxb1 42.Kd4 Kg6 43.g3 Kf6 44.Bd1 Ba2
+45.Bc2 e6 46.dxe6 1/2-1/2

@@ -1,0 +1,57 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.28"]
+[EventDate "1936.08.10"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Mikhail Botvinnik"]
+[Black "William Winter"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. Nf3 {Notes by Alekhine} Nf6 2. c4 c6 3. Nc3 d5 4. e3 g6
+{Entering the Schlechter variation of the Slav defence, which
+according to modern theory leaves White with but an
+insignificant aqdvantage.} 5. d4 Bg7 6. Qb3 O-O 7. Bd2 b6 {The
+slight weakness at c6 occasioned by this move is not easy to
+exploit.} 8. cxd5 cxd5 9. Ne5 Bb7 10. Bb5 a6 11. Be2 Nbd7 {!
+Somewhat better than ...Nc6 as Black has now the prospect of
+playing ...b5 followed by ...Nb6.} 12. Nxd7 {? If Botvinnik
+had not intended to take the d-pawn on his next move, he
+certainly would have avoided this exchange and played 12 f4
+which was the logical sequence to 9 Ne5.} Nxd7 13. f4 {He
+realised now that 13 Nxd5 e5! would lead to complications in
+Black's favor. But also after the text-move his advantage is
+definitely gone.} e6 14. O-O f5 {Black had no reason to hurry
+with this move, which should be made only in case of
+necessity. The natural course was ...Rb8 followed by ...b5.}
+15. Bf3 Rb8 16. Rac1 b5 17. Ne2 {17 a4 would be advantageously
+answered by bxa4 as well as Bc6. the text-move prepares an
+irrelevant exchange, which, as will soon be seen, only
+facilitates Black's work of simplification.} Re8 18. Qa3 Bf8
+19. Bb4 Bxb4 20. Qxb4 Qb6 21. Rc2 Kf7 {Protecting e7 and thus
+making ready Rec8.} 22. Nc1 {? By doubling his rooks on the
+open file White could obtain an easy draw. From now on Black
+gets the initiative.} Rbc8 23. Rff2 Rc4 {! With this important
+gain of tempo Black forces his opponent to a painful retreat,
+as 24 Rxc4 dxc4 would give Black a threatening Q-side
+majority.} 24. Qe1 Rec8 25. Bd1 Rxc2 {? Instead of this
+25...b4 26 Nd3 a5 27 Ne5+ Nxe5 28 fxe5 Kg7 would maintain the
+pressure. After the text move White could retake with the
+rook, thus getting out of trouble.} 26. Bxc2 {?} a5 27. Nd3
+Ba6 28. b4 {? A comparatively better chance of equalising was
+28 Ne5+.} axb4 29. Nxb4 {29 Qxb4 was not a pleasant
+alternative.} Qa5 30. Bb3 Nf6 31. Rf1 Ne4 32. Nxa6 Qxa6
+33. Qb4 {33 Qh4 simply h5.} Rc3 34. Re1 Qc6 35. h3 Rc1 36. Kh2
+Qc3 37. Qxc3 {37 Qxb5 would not force a draw, because after
+Qxe1 the Black queen would protect h4.} Rxc3 38. Re2 {Black
+agreed to call the game a draw; but it was a very premature
+decision, to say the least. A simple plan was to bring his
+king over to b4 threatening to sacrifice the exchange. To
+prevent this white would be obliged to create new weaknesses
+in his position; e.g., after 38...Ke7 39 Bc2 followed by Bxe4
+the rook ending would be quite hopeless for White. It is a
+pity a game of such importance should have remained
+practically a torso.} 1/2-1/2

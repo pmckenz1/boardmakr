@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Ognjen Cvitan"]
+[Black "Simen Agdestein"]
+[ECO "D13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6
+7. Rc1 Bf5 8. e3 Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6
+12. Na4 O-O 13. Nc5 Rc7 14. Qa4 Rfc8 15. Rc3 Ne4 16. Nxe4 Bxe4
+17. Rfc1 Bxf3 18. Bxf3 g6 19. Rc5 Nb8 20. g3 Nd7 21. Rxc7 Rxc7
+22. Rxc7 Qxc7 23. Kg2 g5 24. Qb4 Nf6 25. Qc5 Qxc5 26. dxc5 a5
+27. a3 Kf8 28. b4 axb4 29. axb4 Ke7 30. Be2 Nd7 31. f4 gxf4
+32. gxf4 Nb8 33. Bb5 Nc6 34. Bxc6 bxc6 35. Kf3 Kd7 36. e4 Kc7
+37. f5 Kb7 38. exd5 exd5 39. f6 Ka6 40. Kf4 Kb5 41. Ke5 h5 0-1

@@ -1,0 +1,17 @@
+[Event "Warsaw"]
+[Site "Warsaw POL"]
+[Date "1979.01.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Mihail-Viorel Ghinda"]
+[ECO "A26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 e5 4.Bg2 d6 5.e4 Nf6 6.Nge2 O-O 7.O-O
+c6 8.d3 a6 9.h3 b5 10.Be3 Bb7 11.Qd2 Nbd7 12.b3 Nb6 13.Rac1
+Re8 14.Kh2 Rb8 15.f4 exf4 16.gxf4 bxc4 17.bxc4 c5 18.Rb1
+1/2-1/2

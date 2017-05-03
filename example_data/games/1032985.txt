@@ -1,0 +1,22 @@
+[Event "10, La Habana-B (10s)"]
+[Site "Havana CUB"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Rene Pilarte"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. e4 c5 2. Nf3 e6 3. b3 Nc6 4. Bb2 d6 5. d4 cxd4 6. Nxd4 Nf6
+7. Nxc6 bxc6 8. Bd3 Be7 9. O-O O-O 10. Nd2 e5 11. Nc4 Ne8
+12. Qf3 Nc7 13. Rfd1 Ne6 14. Bf1 Qc7 15. Qc3 a5 16. Ne3 g6
+17. a4 Ba6 18. Bxa6 Rxa6 19. Qd2 Nc5 20. Qe2 Raa8 21. Nc4 f5
+22. exf5 Rxf5 23. Bc3 e4 24. Ne3 Rf4 25. Qc4+ Kf8 26. Qd4 Bf6
+27. Qd2 Nd7 28. Bxf6 Rxf6 29. Qc3 Ne5 30. Nd5 Qf7 31. Nxf6
+Qxf6 32. Qd4 d5 33. c4 Rd8 34. cxd5 cxd5 35. Rac1 Ng4 36. Rc5
+Qxd4 37. Rxd4 Nf6 38. g4 g5 39. Rxa5 Ke7 40. Rb5 Ke6 41. a5
+Ke5 42. Ra4 Kf4 43. a6 Rc8 44. a7 Kf3 45. Ra1 e3 46. fxe3 1-0

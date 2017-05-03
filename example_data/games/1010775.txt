@@ -1,0 +1,21 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Aleksandr V Kulikov"]
+[Black "Anton Loginov"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. O-O-O Nd7
+7. f3 e6 8. g4 Bb7 9. h4 h5 10. gxh5 Rxh5 11. Qf2 Bf6 12. Kb1
+Rxh4 13. Nh3 Qe7 14. e5 dxe5 15. dxe5 Bxe5 16. Bg5 Rxh3
+17. Bxe7 Rxh1 18. Bh4 Ne7 19. Bg2 Rxd1+ 20. Nxd1 Bf6 21. Bxf6
+Nxf6 22. f4 O-O-O 23. Bxb7+ Kxb7 24. Qf3+ Kb8 25. Nf2 Ned5
+26. Nd3 Nd7 27. Qf2 Rh8 28. a3 Rh5 29. Qd4 c5 30. Nxc5 Nc3+
+31. bxc3 Nxc5 32. Qd8+ Kb7 33. Qe7+ Kc6 34. Qxf7 Rf5 35. Qxg6
+Rxf4 36. Qg2+ Kb6 37. Qg6 Rc4 1/2-1/2

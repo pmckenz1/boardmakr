@@ -1,0 +1,24 @@
+[Event "Mar del Plata (Argentina)"]
+[Site "Mar del Plata (Argentina)"]
+[Date "1953.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Herman Steiner"]
+[Black "Julio Bolbochan"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6
+8.Qd2 exd5 9.Nxd5 Be6 10.Nc3 Nc6 11.Rd1 a6 12.Qf4 Ne5 13.Qh4
+Re8 14.Nh3 h6 15.Bxh6 Nxe4 16.Qxd8 Rexd8 17.Bxg7 Nxc3 18.Bxe5
+Nxd1 19.Bf6 Ne3 20.Bxd8 Rxd8 21.b3 Bxh3 22.gxh3 d5 23.cxd5
+Rxd5 24.Be2 Nf5 25.Bc4 Rd6 26.Ke2 b5 27.Bd3 Nd4+ 28.Ke3 f5
+29.Rc1 Re6+ 30.Kf2 Rc6 31.h4 Kf7 32.Ke3 Kf6 33.Rg1 Ne6 34.f4
+Rd6 35.Be2 Rd4 36.h5 Re4+ 37.Kd2 Nxf4 38.Bf3 Rd4+ 39.Ke3 Nxh5
+40.Rc1 f4 41.Ke2 c4 42.bxc4 bxc4 43.Bb7 a5 44.Ba6 Rd3 45.Rxc4
+Rh3 46.Ra4 Rxh2+ 47.Kf3 Rh3+ 48.Kf2 Kg5 49.Bb7 Kh4 50.Rxa5 g5
+51.Be4 Re3 52.Ra4 Nf6 53.Bf3 Ng4+ 54.Bxg4 Kxg4 55.Ra8 Rh3
+56.a4 Rh2+ 57.Kg1 Ra2 58.Ra5 Kh4 0-1

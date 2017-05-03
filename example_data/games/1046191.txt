@@ -1,0 +1,20 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Murray Chandler"]
+[Black "Lubomir Ftacnik"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5
+7. h3 Nbd7 8. Be3 exd4 9. Bxd4 Nb6 10. O-O Bd7 11. Qd3 c5
+12. Be3 Bc6 13. Rad1 Re8 14. b3 Qe7 15. Qxd6 Qxd6 16. Rxd6
+Nxe4 17. Nxe4 Bxe4 18. Bxe4 Rxe4 19. c4 Rc8 20. Rfd1 Ree8
+21. R6d3 Rc6 22. Nc3 Nc8 23. Ne4 b6 24. Rd8 Kf8 25. Ng5 h6
+26. Nh7+ Ke7 27. R1d7+ Ke6 28. Rxe8+ Kxd7 29. Rg8 Bd4 30. Bxh6
+a6 31. Bf4 1-0

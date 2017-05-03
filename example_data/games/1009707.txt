@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Andrey Bliznyuk"]
+[Black "Shaun Davies"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 b6 6. e5 Nfd7
+7. Bg2 c5 8. O-O Bb7 9. Re1 Nc6 10. Nf1 Qc7 11. Qe2 Rc8
+12. Bf4 Nf8 13. c3 b5 14. h4 Ng6 15. Bd2 c4 16. d4 a5 17. h5
+Nf8 18. h6 g6 19. N1h2 b4 20. Ng5 Nd7 21. Qg4 Nb6 22. Re3 bxc3
+23. bxc3 Nd8 24. Rb1 Bc6 25. Qf4 Rb8 26. Ng4 Nd7 27. Ree1 Ba4
+28. Rec1 Rb6 29. Qf3 O-O 30. Qe2 Nc6 31. Qe1 Rfb8 32. Rxb6
+Rxb6 33. Bxd5 exd5 34. e6 f6 35. exd7 fxg5 36. Qe6+ Kf8
+37. Bxg5 Qd8 38. Nf6 1-0

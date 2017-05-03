@@ -1,0 +1,24 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Laszlo Hazai"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nc6 7.d5
+Na5 8.Nfd2 c5 9.Nc3 e5 10.e4 a6 11.a3 b6 12.b4 Nb7 13.Rb1 Bd7
+14.b5 a5 15.Bb2 Ng4 16.h3 Nh6 17.a4 Qe7 18.Ne2 Rae8 19.Qc2 Nd8
+20.Rbe1 f6 21.Kh2 Ndf7 22.Bc3 g5 23.f4 gxf4 24.gxf4 exf4
+25.Nxf4 Ne5 26.Nh5 Qf7 27.Nxg7 Kxg7 28.Nf3 Qh5 29.Nxe5 fxe5
+30.Qd3 Qh4 31.Kg1 Kh8 32.Re3 Ng8 33.Ref3 Qh6 34.Bd2 Rxf3
+35.Rxf3 Qh5 36.Qf1 Re7 37.Kh2 Rg7 38.Qf2 h6 39.Be3 Kh7 40.Bd2
+Ne7 41.Rf6 Rg6 42.Rf7+ Rg7 43.Rf6 Rg6 44.Rxg6 Qxg6 45.Qf8 Qg7
+46.Qb8 Nc8 47.Qc7 Qe7 48.Bf3 Kg6 49.Bg4 Qf6 50.Kg2 Bxg4
+51.hxg4 Ne7 52.Qxb6 Kf7 53.Qxa5 Ng6 54.Qc3 Kg7 55.b6 Nh4+
+56.Kg3 Ng6 57.Qf3 Qh4+ 58.Kg2 Qd8 59.Qh3 Kf7 60.Qxh6 1-0

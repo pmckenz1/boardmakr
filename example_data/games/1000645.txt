@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.25"]
+[EventDate "1911.08.21"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Semion Alapin"]
+[Black "Oscar Chajes"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3
+Bg7 8.O-O O-O 9.h3 Bd7 10.Qd2 a6 11.Nxc6 bxc6 12.Bh6 Qb6
+13.Bxg7 Kxg7 14.b3 Qa5 15.Rfe1 Rfd8 16.Qe3 e5 17.Rad1 Be6
+18.Na4 Rab8 19.c4 Re8 20.Nc3 Rbd8 21.Bf3 Rd7 22.Rd2 d5 23.exd5
+cxd5 24.Bxd5 Bxd5 25.Nxd5 Nxd5 26.cxd5 Rxd5 27.Rxd5 Qxd5
+28.Qe4 Qb5 29.Rc1 Re6 30.Rc7 Qa5 31.Rc2 h5 32.Kh2 Qb6 33.Rd2
+Qc7 34.Rc2 Qd6 35.Kg1 Rf6 36.Re2 Re6 37.Rc2 Rf6 38.Re2 Re6
+39.Rc2 Qd8 40.Rc5 Qd1+ 41.Kh2 Qd6 42.Rc8 Rf6 43.Rc2 Rf4 44.Rc6
+Qb8 45.Qe3 e4 46.Kg1 Qe5 47.Qc3 Qxc3 48.Rxc3 Rf6 49.Kf1 Rd6
+50.Ke2 f5 51.h4 Kf6 52.Rc8 Ke6 53.Rc5 Kf6 1/2-1/2

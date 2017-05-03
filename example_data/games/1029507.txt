@@ -1,0 +1,15 @@
+[Event "ENG (Chernev)"]
+[Site "ENG"]
+[Date "1913.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Loye"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 c5 2.Nc3 e6 3.g3 Nc6 4.Bg2 d6 5.Nge2 Bd7 6.d4 cxd4 7.Nxd4
+Nge7 8.Ndb5 Nc8 9.Bf4 e5 10.Nd5 Qa5+ 11.Bd2 Qa4 12.b3 1-0

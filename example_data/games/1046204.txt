@@ -1,0 +1,23 @@
+[Event "BL 9091 ;BL"]
+[Site "BL 9091 ;BL"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Mathias Womacka"]
+[ECO "A77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6
+7. Nd2 Bg7 8. e4 O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5
+12. Re1 g5 13. Bb5 Re7 14. Nf1 h6 15. Ng3 Ng6 16. Bd2 Ng4
+17. h3 N4e5 18. Nh5 Bh8 19. f4 gxf4 20. Nxf4 a6 21. Bf1 Kh7
+22. Nh5 Re8 23. g3 Nh4 24. Re3 Qg5 25. Kh1 Nhf3 26. Rxf3 Qxh5
+27. Rf4 Qg6 28. Rh4 Qxg3 29. Rxh6+ Kg8 30. Qe1 Qxe1 31. Bxe1
+Ng6 32. Bd2 Re5 33. Be2 Bg7 34. Rh5 Rxh5 35. Bxh5 Bxh3 36. Rg1
+Kh7 37. Rg3 Bd7 38. Bxg6+ fxg6 39. Bf4 Be5 40. Bxe5 dxe5
+41. a5 Kh6 42. Nb1 Rf8 43. Nd2 Bb5 44. Nf3 Rf4 45. Nxe5 Rxe4
+46. Rxg6+ Kh5 47. Re6 Bc4 1/2-1/2

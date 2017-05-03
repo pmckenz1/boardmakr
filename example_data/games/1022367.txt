@@ -1,0 +1,16 @@
+[Event "It (open)"]
+[Site "Port Erin IOM"]
+[Date "1994.09.22"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "John Nunn"]
+[ECO "D79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.O-O
+O-O 8.Nc3 e6 9.Bf4 Nc6 10.Rc1 Qa5 11.Ne5 Nxe5 12.Bxe5 Bd7
+13.Qd2 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Moscow UURSO"]
+[Site "Moscow <URS>"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Tatiana Baklanova"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.Nf3 f5 2.g3 Nf6 3.Bg2 d6 4.d4 g6 5.b3 Bg7 6.Bb2 O-O 7.O-O c6
+8.Nbd2 a5 9.a4 Na6 10.Nc4 Nb4 11.Ne1 Ra7 12.c3 Nbd5 13.Nd3 Be6
+14.Na3 Qb6 15.c4 Nb4 16.d5 Bf7 17.Nxb4 axb4 18.Nc2 Ra5 19.dxc6
+bxc6 20.Qe1 Rb8 21.Nxb4 Ne4 22.Bxg7 Qxb4 23.Qxb4 Rxb4 24.Bxe4
+Kxg7 25.Bxc6 Rc5 26.Bg2 Rxb3 27.a5 Rc7 28.Rfc1 Rb4 29.a6 Ra7
+30.c5 dxc5 31.Rxc5 Rb6 32.Rc6 Rxc6 33.Bxc6 Bc4 34.Bb7 Bxe2
+35.f4 Kf6 36.Kf2 Bb5 37.Ke3 Ke6 38.Ra5 Bf1 39.Kd4 Kd6 40.Rd5+
+Kc7 41.Rc5+ Kd7 42.Ra5 Kd6 43.h4 e6 44.Kc3 Kc7 45.Kb4 Kb8
+46.Ra1 Bd3 47.Kc5 Kc7 48.Kd4 Bb5 49.Ke5 Kd7 50.Rd1+ Ke7 51.Rd6
+Bc4 52.Rc6 Bd5 53.Rc7+ Kd8 54.Kd6 Ke8 55.Rc8+ Kf7 56.Kc7 Bxb7
+57.axb7 Ke7 58.Ra8 1-0

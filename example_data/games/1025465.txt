@@ -1,0 +1,21 @@
+[Event "Wisla BES"]
+[Site "05"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Wieslaw Janocha"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.a4 Rb8 9.axb5 axb5 10.c3 d6 11.h3 b4 12.d3 bxc3 13.bxc3
+Nd7 14.Be3 Nb6 15.Nbd2 Kh8 16.Bd5 Qd7 17.Bxb6 Rxb6 18.Nc4 Ra6
+19.Qb3 Nd8 20.Rxa6 Bxa6 21.Ra1 Bxc4 22.Bxc4 Ne6 23.Ra7 Nf4
+24.Kh2 f5 25.Qb5 Qc8 26.Qc6 fxe4 27.Rxc7 Qf5 28.Qxe4 Qf6 29.g3
+Ng6 30.Kg2 Bd8 31.Rd7 Bb6 32.Rb7 Bc5 33.Rb3 Ba7 34.d4 Rb8
+35.Rxb8+ Bxb8 36.Qb7 Qf8 37.Ng5 h6 38.Ne6 Qg8 39.Bd5 exd4
+40.cxd4 Kh7 41.Ng5+ 1-0

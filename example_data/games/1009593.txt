@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Mariska Bertholee"]
+[Black "Ilka Hausmann"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. c3 Bd6 6. Bd3 Nge7
+7. O-O O-O 8. Re1 b6 9. e5 Bc7 10. Bxh7+ Kh8 11. Bd3 Nf5
+12. Nf1 cxd4 13. cxd4 Qe8 14. Ng3 g6 15. Nxf5 exf5 16. Bh6 Rg8
+17. Bg5 Bd8 18. Qd2 Bxg5 19. Qxg5 Rg7 20. Bb5 Bd7 21. Bxc6
+Bxc6 22. e6 fxe6 23. Ne5 Bb5 24. Re3 Kg8 25. Rh3 Rh7 26. Rxh7
+Kxh7 27. Rc1 Rd8 28. Rc3 Kg7 29. Nxg6 Rd6 30. Ne5+ Kf8
+31. Qf6+ 1-0

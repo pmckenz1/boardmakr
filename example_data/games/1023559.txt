@@ -1,0 +1,21 @@
+[Event "Tallin"]
+[Site "Tallin"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gennadi Zaichik"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 Nf6 2.d3 e5 3.Nf3 Nc6 4.g3 d5 5.exd5 Nxd5 6.Bg2 g6 7.O-O
+Bg7 8.Re1 O-O 9.Nbd2 Re8 10.Nc4 Nb6 11.Bg5 f6 12.Nxb6 axb6
+13.Bd2 Be6 14.a3 Qd7 15.Bc3 Bh3 16.Bh1 Bg4 17.Qd2 Qf5 18.Nh4
+Qh5 19.f4 Bh6 20.Qf2 exf4 21.gxf4 Kg7 22.Qg3 Qc5+ 23.Kf1 Bf5
+24.b4 Qxc3 25.Nxf5+ Kf8 26.Nxh6 Qxc2 27.Be4 Re7 28.Ng4 Qb2
+29.Rab1 Qd4 30.b5 Nd8 31.Qh4 f5 32.Bxf5 Qxf4+ 33.Kg1 Rxe1+
+34.Rxe1 Nf7 35.Qe7+ Kg7 36.Qf6+ Kg8 37.Rf1 Qg5 38.Be6 Qxf6
+39.Rxf6 1-0

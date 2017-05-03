@@ -1,0 +1,20 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Oystein Dannevig"]
+[Black "Knut Harald Storland"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Nc3 a6 5. a4 Bg4 6. Be2 Nc6
+7. Be3 e5 8. d5 Nce7 9. O-O h6 10. Nh4 Bd7 11. g3 Nf6 12. f4
+exf4 13. gxf4 Bh3 14. Rf3 Bg4 15. Rg3 Bxe2 16. Qxe2 Qd7
+17. Rd1 O-O 18. Bd4 Kh7 19. f5 Rg8 20. Kh1 c5 21. Be3 gxf5
+22. Rf1 fxe4 23. Bxh6 Bxh6 24. Nxe4 Nexd5 25. Rxf6 Rxg3
+26. Qh5 Rg6 27. Nxg6 Kg7 28. Rxd6 Qe8 29. Ne5 f6 30. Rd7+ Ne7
+31. Qg4+ Kf8 32. Nd6 1-0

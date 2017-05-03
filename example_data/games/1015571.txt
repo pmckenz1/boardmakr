@@ -1,0 +1,20 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Gyula Sax"]
+[Black "Andras Adorjan"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 c6 5.Qd2 Nd7 6.Be2 b5 7.f4
+Ngf6 8.Bf3 Nb6 9.b3 O-O 10.Nge2 e5 11.Rd1 exf4 12.Bxf4 b4
+13.Nb1 Re8 14.Bg5 h6 15.Bxf6 Qxf6 16.Qxb4 c5 17.Qd2 cxd4
+18.O-O Ba6 19.e5 Qxe5 20.Bxa8 Bxe2 21.Rde1 Qe3+ 22.Rf2 Ba6
+23.Rxe3 dxe3 24.Re2 Bxe2 25.Qxe2 Nxa8 26.Nd2 Bd4 27.Nf3 Bb6
+28.Kf1 Nc7 29.b4 Ne6 30.Qb5 Re7 31.c4 e2 32.Ke1 Nd4 33.Qd5
+Nxf3+ 34.Qxf3 Bd4 35.c5 dxc5 36.bxc5 Bxc5 0-1

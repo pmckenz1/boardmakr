@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.10"]
+[EventDate "1920.08.02"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Adolf Georg Olland"]
+[Black "Anders Larsson"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Re1 Bc5 11.Be3 O-O 12.Bxc5 Nxc5
+13.Nd4 Nxd4 14.cxd4 Nxb3 15.Qxb3 Qh4 16.Qe3 f6 17.Nd2 fxe5
+18.Nf3 Rxf3 19.gxf3 Rf8 20.Qxe5 Rf6 21.Re3 Rg6+ 22.Kf1 h6
+23.Ke2 c5 24.Rd1 Bf7 25.dxc5 Rg2 26.Kd2 Rxf2+ 27.Re2 Qb4+
+28.Qc3 Qf4+ 29.Qe3 Qb4+ 30.Qc3 Qf4+ 1/2-1/2

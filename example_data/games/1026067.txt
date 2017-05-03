@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Bozen"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Nukhim N Rashkovsky"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.e3 O-O 6.Bd3 b6 7.Ne2
+Bb7 8.O-O Nbd7 9.e4 Bxc3 10.Nxc3 e5 11.Ne2 h6 12.f3 c6 13.b3
+d5 14.Bb2 Re8 15.Rad1 dxe4 16.Bxe4 Qc7 17.Bf5 Rad8 18.Ng3 exd4
+19.Rxd4 c5 20.Rdd1 Ne5 21.Rde1 Re7 22.Bc3 Rde8 23.Qb2 g6
+24.Bb1 Nfd7 25.Rd1 Nc6 26.Qc1 Kh7 27.Nf5 gxf5 28.Bxf5+ Kg8
+29.Qxh6 1-0

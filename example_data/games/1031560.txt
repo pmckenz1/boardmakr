@@ -1,0 +1,25 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Walter Shipman"]
+[Black "Jay R Bonin"]
+[ECO "D23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.Qa4+ Nc6 5.Nc3 Nd7 6.e4 Nb6
+7.Qd1 Bg4 8.d5 Ne5 9.Bf4 Bxf3 10.gxf3 Ng6 11.Be3 e5 12.dxe6
+fxe6 13.Qxd8+ Rxd8 14.a4 a6 15.a5 Nd7 16.Bxc4 Bd6 17.Bxe6 Nc5
+18.Bc4 Ne5 19.Be2 Rf8 20.Rd1 Nxf3+ 21.Bxf3 Rxf3 22.Ke2 Rf7
+23.e5 Bf8 24.Rxd8+ Kxd8 25.Bxc5 Bxc5 26.Ne4 Bb4 27.Ra1 Rf5
+28.Ra4 Bf8 29.Rd4+ Ke7 30.Rc4 Rxe5 31.f4 Rb5 32.Rxc7+ Kd8
+33.Rf7 Ke8 34.Rc7 Rxb2+ 35.Kf3 h6 36.h3 Rb5 37.Rc8+ Kf7
+38.Rc7+ Ke6 39.Kg4 h5 40.Kf3 Be7 41.Ke3 g6 42.Kd4 Rxa5 43.Rxb7
+Ra4+ 44.Ke3 Ra3+ 45.Kf2 a5 46.Rb5 a4 47.Ng5+ Bxg5 48.Rxg5 Rxh3
+49.Rxg6+ Kf5 50.Ra6 a3 51.Kg2 Rb3 52.Ra4 h4 53.Kh2 h3 54.Rc4
+Kg4 55.f5 Kxf5 56.Ra4 Ke5 57.Rc4 Kd5 58.Rc8 Kd4 59.Rc7 Kd3
+60.Rc8 Rc3 0-1

@@ -1,0 +1,20 @@
+[Event "Bundesliga 1995/96, Germany"]
+[Site "Bundesliga 1995/96, Germany"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Christian Gabriel"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Bb4+ 5. Nc3 dxc4 6. Bg2 Nc6
+7. O-O O-O 8. Bg5 h6 9. Bxf6 Qxf6 10. Rc1 Rd8 11. e3 Qe7
+12. Qe2 Na5 13. Nd2 Bd7 14. Nxc4 Bxc3 15. Rxc3 Bb5 16. b3 c5
+17. Qh5 Bxc4 18. bxc4 cxd4 19. exd4 Qb4 20. Rf3 g6 21. Qxh6
+Rxd4 22. Qg5 Nxc4 23. Rb3 Qd2 24. Qf6 Nd6 25. Bf3 Rc4 26. Bxb7
+Rb8 27. Bd5 Rxb3 28. Bxc4 Rb4 29. Bxe6 fxe6 30. Qxg6+ Kf8
+31. Qxe6 Re4 1/2-1/2

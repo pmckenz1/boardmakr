@@ -1,0 +1,21 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1952.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Francisco Planas Garcia"]
+[Black "Erich Eliskases"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.d4 Nf6 2.Nf3 g6 3.b3 Bg7 4.Bb2 O-O 5.d5 c6 6.dxc6 bxc6 7.e3
+c5 8.Be2 Bb7 9.c4 Nc6 10.O-O d6 11.Nc3 Ne4 12.Qc1 Nxc3 13.Bxc3
+Bxc3 14.Qxc3 a5 15.Rfd1 Qb6 16.a4 Nb4 17.Ne1 Rab8 18.Bf3 Bxf3
+19.Nxf3 Qc6 20.Nd2 Rb6 21.Nb1 Qe4 22.Na3 h5 23.f3 Qe6 24.Nb5
+f6 25.e4 g5 26.Rf1 Rf7 27.Rae1 Rg7 28.f4 gxf4 29.Rxf4 Rg5
+30.Rf5 Nc6 31.Rxg5+ fxg5 32.Qd2 Qe5 33.Rf1 Nd4 34.Nxd4 Qxd4+
+35.Qxd4 cxd4 36.Rf5 Rxb3 37.Rxg5+ Kf7 38.Rxa5 Re3 39.Rd5 Rxe4
+40.a5 d3 41.Rxd3 Rxc4 42.Ra3 Rc7 43.a6 Ra7 44.Kf2 1/2-1/2

@@ -1,0 +1,42 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.18"]
+[EventDate "1936.08.10"]
+[Round "8"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Savielly Tartakower"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 {Notes by Alekhine} d5 2. c4 Nc6 3. Nc3 e5 {? A weak
+continuation, which has not even the advantage of novelty. If
+Dr. Tartakower thought to take his opponent by surprise he was
+mistaken, as Dr. Euwe knew the variation - if not before -
+from his game with Colle, Hastings, 1930-31, in which there
+followed 4 cxd5 Nxd4 5 e3 Nf5 6 Nf3 Bd6 7 e4 Nfe7.} 4. cxd5
+Nxd4 5. e3 Nf5 6. e4 Nd6 7. Nf3 Bg4 {Comparatively better was
+f6 at once as the White Q will be extremely well placed at
+b3.} 8. Qa4+ Bd7 9. Qb3 f6 10. Be3 {White has now a welcome
+object of attack in Black's c-pawn.} Ne7 11. Rc1 Nec8 {Another
+possible plan was c6 followed by g6 and Bg7. But White would
+have no difficulty in any case in maintaining his advantage in
+space.} 12. Bd3 Be7 13. O-O O-O 14. Nb5 {Aiming at the
+possession of two bishops, in an anticipation of a long
+positional struggle.} Bxb5 15. Bxb5 Nxb5 {? I am almost
+inclined to think that Dr. Tartakower simply overlooked the
+discovered check! Otherwise the move is hardly to be
+explained, as the immediate disastrous consequences are only
+too obvious. The right course was 15...Nf7 followed by Ncd6
+with possibilities of a steady fefence.} 16. d6+ Rf7 17. dxe7
+Qd7 {After 17...Qe8 18 a4 Nbd6 19 Rxc7 Nxe7 20 Bc5 White has
+an easy win.} 18. Rfd1 Ncd6 19. a4 Nd4 20. Bxd4 exd4 21. e5 {!
+Winning the exchange, with the better position.} fxe5 22. Nxe5
+Qxe7 23. Nxf7 Nxf7 24. Qxb7 Rd8 25. Rxc7 Qe6 26. Re7 Qf6
+27. Qd7 Rf8 28. Re8 {After 28 Rxd4 Black (in spite of his
+optimism) would probably have resigned.} Nd6 29. Rxf8+ Kxf8
+30. Rd3 Qe5 31. Kf1 h5 32. Qxa7 Nf5 33. Qd7 g6 34. Rb3 Qf4
+35. g3 Qc1+ 36. Kg2 Ne3+ 37. Kh3 Qf1+ 38. Kh4 Nf5+ 39. Kg5
+Qc1+ 40. Kf6 1-0

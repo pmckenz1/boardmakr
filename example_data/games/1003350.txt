@@ -1,0 +1,20 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Dirk Bleijkmans"]
+[Black "Arthur Sartori"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bd6 5. Bxd6 Qxd6 6. Nf3 c6
+7. e3 Nbd7 8. Qb3 O-O 9. O-O-O b6 10. Bd3 Re8 11. h4 e5
+12. dxe5 Nxe5 13. Be2 Neg4 14. Rhf1 Be6 15. Ng5 dxc4 16. Bxc4
+Bxc4 17. Qxc4 Qe7 18. Qxc6 h6 19. Nf3 Rac8 20. Qd6 Ne4
+21. Qxe7 Rxe7 22. Rd4 Ngxf2 23. Nd2 Nxc3 24. bxc3 Nh3 25. Rd3
+Rc5 26. gxh3 Ra5 27. Kb2 Rae5 28. Rf3 Rh5 29. Rd4 Rb5+ 30. Kc2
+Rbe5 31. Nc4 1-0

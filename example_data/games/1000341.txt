@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Rusudan Goletiani"]
+[Black "Marc Esserman"]
+[ECO "C66"]
+[WhiteElo "2425"]
+[BlackElo "2142"]
+[PlyCount "83"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. O-O Nf6 6. Nc3 Be7
+7. Bg5 O-O 8. dxe5 Nxe5 9. Bxd7 Nexd7 10. Re1 Re8 11. Nd4 Nd5
+12. Nxd5 Bxg5 13. Nb5 c6 14. Nxd6 cxd5 15. Nxe8 Qxe8 16. Qxd5
+Ne5 17. Qxb7 Rb8 18. Qxa7 Rxb2 19. Rab1 Rxc2 20. Rb8 Rc8
+21. Rxc8 Qxc8 22. Rb1 Nc6 23. Qc5 Be7 24. Qc3 Qa6 25. Rc1 Nd8
+26. Qc7 Kf8 27. Rd1 Ke8 28. Qd7+ Kf8 29. a4 f6 30. Rc1 Qb7
+31. Qd4 Nc6 32. Qd5 Nd8 33. a5 Qa6 34. h4 g6 35. h5 Bd6 36. h6
+Ke7 37. Rd1 Nb7 38. Qg8 Qe2 39. Qxh7+ Ke6 40. Qg8+ Ke7 41. Rb1
+Nd8 42. Qd5 1-0

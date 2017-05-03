@@ -1,0 +1,16 @@
+[Event "Hertzliya (Israel)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yaacov Zilberman"]
+[Black "Nigel Rodney Davies"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Bg4 5.e3 c5 6.Be2 cxd4 7.exd4
+Nc6 8.Be3 Nh6 9.d5 Bxf3 10.gxf3 Ne5 11.f4 Nd7 12.h4 Nf5 13.h5
+Nc5 14.Rc1 Rc8 15.Rh3 a6 1/2-1/2

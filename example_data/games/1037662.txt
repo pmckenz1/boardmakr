@@ -1,0 +1,15 @@
+[Event "07, Thessaloniki olm ;BIG"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.25"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Ronald Weemaes"]
+[Black "Lawrence Day"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1.e4 b6 2.d4 Bb7 3.Nd2 Nh6 4.Bd3 g6 5.Ne2 Bg7 6.Nf3 e6 7.Ng3
+d6 8.c3 Nd7 9.h4 1/2-1/2

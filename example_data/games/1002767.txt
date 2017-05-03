@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.13"]
+[EventDate "1897.09.13"]
+[Round "1"]
+[Result "1-0"]
+[White "Georg Marco"]
+[Black "Wilhelm Cohn"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Nxd4
+12. cxd4 h6 13. f3 Ng5 14. Bc2 f5 15. exf6 Rxf6 16. f4 Ne4
+17. Nc3 Nxc3 18. bxc3 Bd6 19. g4 Qd7 20. f5 Bf7 21. Qf3 Re8
+22. Bd2 Bf8 23. h4 Rc6 24. g5 hxg5 25. hxg5 g6 26. Rxe8 Bxe8
+27. Re1 Bf7 28. f6 Re6 29. Rf1 Bd6 30. Kf2 Re4 31. Bxe4 dxe4
+32. Qxe4 Qh3 33. Qa8+ Kh7 34. Rh1 Bh2 35. Qg2 Qf5+ 36. Ke3
+Qe6+ 37. Qe4 Qh3+ 38. Ke2 b4 39. Bf4 Qh5+ 40. Kf2 Qh4+ 41. Kg2
+1-0

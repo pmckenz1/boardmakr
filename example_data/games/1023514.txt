@@ -1,0 +1,20 @@
+[Event "Prague op"]
+[Site "Prague op"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Martin Dolezal"]
+[Black "Vladimir Bagirov"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nb6 8.Nc3 Nc6 9.d5 Na5 10.Qc2 c6 11.dxc6 Nxc6 12.Rd1 Qc7
+13.Nb5 Qb8 14.Be3 Bf5 15.Qc1 Rc8 16.Nc3 Rd8 17.Bc5 Rxd1+
+18.Qxd1 Qe8 19.e4 Rd8 20.Qe2 Bg4 21.h3 Bxf3 22.Bxf3 Bd4 23.Ba3
+Ne5 24.Nd5 Nxd5 25.exd5 Nxf3+ 26.Qxf3 Qd7 27.Re1 Qxd5 28.Qxd5
+Rxd5 29.Rxe7 Rf5 30.Re2 a5 31.Rd2 Bc5 32.Bxc5 Rxc5 33.Kg2 b5
+1/2-1/2

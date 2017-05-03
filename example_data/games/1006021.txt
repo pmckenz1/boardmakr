@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "1-0"]
+[White "Gudmundur Kjartansson"]
+[Black "Sigurbjorn Bjornsson"]
+[ECO "E77"]
+[WhiteElo "?"]
+[BlackElo "2282"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5
+7. d5 e6 8. Be2 exd5 9. cxd5 Bg4 10. O-O Nbd7 11. h3 Bxf3
+12. Bxf3 a6 13. a4 Re8 14. Be3 Qa5 15. Qc2 c4 16. Rfe1 Nc5
+17. Bxc5 Qxc5+ 18. Kh1 Nd7 19. Bg4 Nf6 20. Bf3 Qc7 21. Rac1
+Nd7 22. Be2 Rab8 23. Nb1 b5 24. b4 Re7 25. a5 Bd4 26. Bf3 Rbe8
+27. Qd2 Qa7 28. Re2 Nf6 29. Rce1 g5 30. e5 Nd7 31. e6 fxe6
+32. dxe6 Nf8 33. f5 Bf6 34. Nc3 Qd4 35. Nd5 Kg7 36. Qxd4 Bxd4
+37. Bh5 Bf6 38. Bxe8 Rxe8 39. e7 Nd7 40. Nc7 Kf7 41. Nxe8 Kxe8
+42. Re6 Be5 43. f6 Bxf6 44. Rxd6 Bc3 45. Re3 1-0

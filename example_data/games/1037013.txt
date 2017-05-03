@@ -1,0 +1,20 @@
+[Event "It (cat.8)"]
+[Site "Vrnjachka Banja (Yugoslavia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Ivan Marinkovic"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 g6 2.d4 d6 3.Nc3 Bg7 4.h3 Nf6 5.g3 c5 6.Nge2 cxd4 7.Nxd4
+Nc6 8.Be3 Bd7 9.Bg2 O-O 10.O-O Ne5 11.Nde2 b5 12.b3 a6 13.a4
+Rb8 14.axb5 axb5 15.Nd5 Nc6 16.Qd2 Bc8 17.Rad1 b4 18.Rfe1 Re8
+19.Nd4 Nxd4 20.Bxd4 Nxd5 21.Bxg7 Kxg7 22.exd5 Qc7 23.Re4 h6
+24.Rh4 g5 25.Rc4 Qb6 26.h4 f6 27.Re1 Bf5 28.Be4 Bd7 29.Qe2 g4
+30.Bd3 f5 31.Rxg4+ fxg4 32.Qe4 e5 33.Qg6+ Kf8 34.Qxh6+ Ke7
+35.Qg5+ Kf8 36.Bg6 Be6 37.Qf6+ Kg8 38.dxe6 Qb7 39.Qf7+ 1-0

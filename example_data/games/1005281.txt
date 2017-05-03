@@ -1,0 +1,22 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.07"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Amine Haidar"]
+[Black "Adel Bokhazi"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6
+7. Nb3 e5 8. Be2 Be7 9. Be3 O-O 10. O-O Be6 11. f4 exf4
+12. Bxf4 Ne5 13. Bxe5 dxe5 14. Qxd8 Rfxd8 15. Na5 Rab8 16. Nc4
+Bxc4 17. Bxc4 Bc5+ 18. Kh1 Rf8 19. h3 Bd4 20. Bd3 Nh5 21. Ne2
+Bc5 22. g4 Nf6 23. Rab1 Bb4 24. c3 Bc5 25. b4 Ba7 26. b5 Rbd8
+27. Rfd1 a5 28. b6 Bb8 29. Rb5 Nxe4 30. Kg2 Nf6 31. Rxa5 g6
+32. c4 Rfe8 33. g5 Nh5 34. Rd5 Rxd5 35. cxd5 Rc8 36. Bb5 Bd6
+37. Bc6 Rb8 38. a5 Kf8 39. Rb1 Ra8 40. Rb4 Rc8 41. Bxb7 Rc2
+42. Kf1 Nf4 43. Nxf4 exf4 44. a6 Bb8 45. a7 1-0

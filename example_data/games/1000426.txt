@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Rodion Rubenchik"]
+[Black "Klaus A Pohl"]
+[ECO "E92"]
+[WhiteElo "2346"]
+[BlackElo "2200"]
+[PlyCount "95"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5
+7. d5 Na6 8. Nd2 c5 9. a3 Ne8 10. Rb1 f5 11. b4 b6 12. O-O Bh6
+13. Nb3 Bxc1 14. Nxc1 Nf6 15. exf5 gxf5 16. Nd3 f4 17. bxc5
+bxc5 18. f3 Nc7 19. Nf2 Nce8 20. Bd3 Kh8 21. Qa4 Nc7 22. Nfe4
+Nxe4 23. Nxe4 Ne8 24. Qc6 Bd7 25. Qb7 Rg8 26. Rf2 Rg7 27. Rfb2
+Bf5 28. Qxa8 Qxa8 29. Rb8 Qxb8 30. Rxb8 Rg8 31. Rxe8 Rxe8
+32. Nxd6 Bxd3 33. Nxe8 Kg8 34. Nf6+ Kg7 35. Nd7 Bxc4 36. d6
+Bb5 37. Nxc5 Kf7 38. g4 Bc6 39. Kf2 h6 40. h4 Bd5 41. g5 hxg5
+42. hxg5 Bc4 43. g6+ Ke8 44. g7 Bd5 45. Kg2 Kf7 46. Kh3 Kf6
+47. Kg4 Bf7 48. d7 1-0

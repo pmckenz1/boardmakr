@@ -1,0 +1,25 @@
+[Event "Hastings (England)"]
+[Site "Hastings (England)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Julian Michael Hodgson"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Ba5 4.b4 c6 5.bxa5 cxd5 6.cxd5 Qxa5
+7.Qb3 Nf6 8.Nf3 d6 9.Ba3 Ne4 10.e3 Nd7 11.Bb5 O-O 12.O-O Ndc5
+13.Qb4 Qxb4 14.Bxb4 a6 15.Be2 Bg4 16.h3 Bxf3 17.Bxf3 Nf6
+18.Rfb1 b5 19.a4 e4 20.Bd1 h6 21.axb5 axb5 22.Be2 Rxa1 23.Rxa1
+Rb8 24.Ra5 Nxd5 25.Bxc5 dxc5 26.Bxb5 Nb6 27.Kf1 Rd8 28.Ke1 Rd6
+29.Ra7 Kf8 30.Rc7 g6 31.Rxc5 Rd5 32.Rxd5 Nxd5 33.Kd1 Ke7
+34.Kc2 f5 35.Kb3 Kd6 36.Kc4 Ke5 37.Kc5 g5 38.f3 Nf6 39.Bc6 h5
+40.g3 exf3 41.d4 Ke6 42.Bxf3 g4 43.Bg2 gxh3 44.Bxh3 Ne4+
+45.Kc6 Nf6 46.Bg2 Ke7 47.d5 Kd8 48.Kc5 Ke7 49.Kc6 Kd8 50.Kc5
+Ke7 51.Kd4 Kd6 52.Bf3 Nh7 53.Bxh5 Ng5 54.Bg6 Nf3+ 55.Kc3 Kxd5
+56.Bxf5 Ke5 57.g4 Ng5 58.Kd3 Nf7 59.Bg6 Ng5 60.Ke2 Kf6 61.Bf5
+Ke5 62.Kf2 Nf7 63.Kf3 Nd8 64.Kg3 Nc6 1-0

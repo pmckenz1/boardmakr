@@ -1,0 +1,26 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Frank Darnstaedt"]
+[Black "Dirk Hennig"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 b5 5. Bd3 d6 6. h3 Nd7
+7. O-O Bb7 8. d5 a6 9. dxc6 Bxc6 10. a4 b4 11. Nd5 a5 12. Bb5
+Bxb5 13. axb5 e6 14. Ne3 Qc7 15. Nd2 Ne7 16. Ndc4 Nc8 17. Bd2
+Qb7 18. Nxa5 Qxb5 19. Nb3 Rxa1 20. Qxa1 Nc5 21. Nxc5 dxc5
+22. Qa2 O-O 23. Qc4 Qb6 24. c3 Rd8 25. Rd1 Nd6 26. Qd3 Nf5
+27. Nd5 exd5 28. exf5 bxc3 29. bxc3 c4 30. Qc2 Qb3 31. Qxb3
+cxb3 32. Rb1 Rb8 33. fxg6 fxg6 34. Kf1 d4 35. cxd4 Bxd4
+36. Ke2 b2 37. Kd3 Bf6 38. Bf4 Rc8 39. Bd2 Kf7 40. Re1 Ra8
+41. Kc2 Ra1 42. Bb4 g5 43. g4 h6 44. Bd2 Be5 45. Bb4 Ke6
+46. Rb1 Kd5 47. Bf8 Ra6 48. Re1 Bh8 49. Bb4 Ra1 50. f3 Kc4
+51. Bd2 Bg7 52. Re4+ Bd4 53. Re1 Kb5 54. Rb1 Be5 55. Re1 Ka4
+56. Re4+ Ka3 57. Rb4 Rc1+ 58. Bxc1 bxc1=Q+ 59. Kxc1 Kxb4
+60. Kd2 Kc4 61. Ke3 Kd5 62. h4 Bd4+ 0-1

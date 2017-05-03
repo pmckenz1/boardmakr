@@ -1,0 +1,19 @@
+[Event "Radnicki-University"]
+[Site "Radnicki-University"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Raicevic"]
+[Black "Pavel Blatny"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 dxc4 5.e4 c5 6.d5 Be7 7.f4
+exd5 8.e5 d4 9.exf6 gxf6 10.Ne4 fxg5 11.Bxc4 O-O 12.fxg5 b5
+13.Qf3 bxc4 14.Nf6+ Bxf6 15.gxf6 Qd6 16.Ne2 Kh8 17.Qxa8 Nc6
+18.O-O Ba6 19.Qxf8+ Qxf8 20.Rf2 Ne5 21.Ng3 Ng4 22.Rf4 Bc8
+23.Raf1 Ne3 24.R1f2 Be6 25.Ne4 Qh6 26.Nxc5 Ng4 27.Nxe6 Qxh2+
+28.Kf1 d3 29.Ke1 Nxf2 30.Rd4 Qe5+ 31.Kf1 Qxd4 0-1

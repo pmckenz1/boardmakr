@@ -1,0 +1,18 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Andrei Romashko"]
+[Black "Dmitry Shurkaev"]
+[ECO "E42"]
+[WhiteElo "2035"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4
+O-O 7. a3 Be7 8. d5 exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6
+12. Bh3 Rxd6 13. Qc2 Rc6 14. O-O d5 15. Bg2 Bg4 16. h3 Bxe2
+17. Qxe2 Na6 18. Rd1 Rd6 19. Bf4 Rd7 20. Bg5 Nc7 21. Bxf6 Qxf6
+22. Nxd5 Nxd5 23. Rxd5 1/2-1/2

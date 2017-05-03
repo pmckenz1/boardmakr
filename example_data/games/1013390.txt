@@ -1,0 +1,21 @@
+[Event "Caracas"]
+[Site "Caracas VEN"]
+[Date "1939.02.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "M Benitez"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nf6 6. Bxc6
+Bxc6 7. Qd3 exd4 8. Nxd4 Bd7 9. Bg5 Be7 10. O-O-O Ng4 11. Bxe7
+Qxe7 12. Nd5 Qg5+ 13. f4 Qd8 14. h3 Nf6 15. Nc3 Qe7 16. e5
+dxe5 17. fxe5 Nh5 18. Qe3 O-O 19. g4 Nf6 20. Qf4 Ne8 21. Nd5
+Qh4 22. Nf3 Qd8 23. Qb4 g6 24. Qf4 f6 25. Qh6 Rf7 26. Rhe1 c6
+27. Nxf6+ Nxf6 28. exf6 Qxf6 29. Ne5 Be6 30. Nxf7 Qxf7 31. Rf1
+Qc7 32. Qf4 Qxf4+ 33. Rxf4 Kg7 34. Re1 Bd5 35. Re7+ Kh6 36. h4
+1-0

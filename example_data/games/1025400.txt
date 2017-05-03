@@ -1,0 +1,21 @@
+[Event "Moscow7 op"]
+[Site "Moscow7 op"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Stanislav Savchenko"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O a6 9.Bxf6 gxf6 10.f4 Bd7 11.f5 h5 12.Bc4 Nxd4
+13.Qxd4 Qa5 14.Kb1 O-O-O 15.Qd3 Kb8 16.fxe6 fxe6 17.Ne2 Rhg8
+18.Nf4 Qe5 19.g3 Rc8 20.Qb3 Qxe4 21.Bd3 Qe5 22.Rhe1 Qa5
+23.Nxe6 d5 24.Nf4 Bb4 25.c3 Bc5 26.Qxd5 Bg4 27.Be2 Rg5 28.Qb3
+Bf5+ 29.Bd3 Bd7 30.Bc2 Bg4 31.Rd5 Bf3 32.Be4 Bxe4+ 33.Rxe4 h4
+34.Rd7 Bb6 35.Ree7 Rb5 36.Rxb7+ Ka8 37.Qc2 Rxc3 38.Qg2 Rxb2+
+39.Qxb2 Qf5+ 40.Ka1 Qc5 41.Ne2 Rd3 42.Qc1 1-0

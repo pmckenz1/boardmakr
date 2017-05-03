@@ -1,0 +1,20 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Peter Acs"]
+[Black "Zoltan Varga"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. Nf3 Qe7 3. Nc3 c6 4. d4 d6 5. Bc4 Bg4 6. dxe5 dxe5
+7. h3 Bh5 8. O-O Nf6 9. a4 Qc7 10. Qd3 Nbd7 11. Nh4 O-O-O
+12. g4 Bg6 13. Nxg6 fxg6 14. a5 Bb4 15. Qe3 Kb8 16. Bd2 Nc5
+17. Nb1 Bxd2 18. Nxd2 Qd6 19. Rfd1 Qd4 20. Qxd4 Rxd4 21. c3
+Rd6 22. Nf3 Nfxe4 23. Nxe5 Re8 24. Nf7 Rxd1+ 25. Rxd1 Na4
+26. Re1 Nxb2 27. Bf1 Nd6 28. Rb1 Nxf7 29. Rxb2 Kc7 30. f4 Nd6
+31. h4 Re4 32. Rf2 Re3 0-1

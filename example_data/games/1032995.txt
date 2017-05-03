@@ -1,0 +1,20 @@
+[Event "10s, Bayamo CUB"]
+[Site "10s, Bayamo CUB Hiarcs 7.32"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Guillermo Estevez Morales"]
+[Black "Fernando Braga"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7
+12. Nc3 a6 13. Bg5 O-O 14. Bh4 g6 15. Bg3 Bxg3 16. hxg3 Qg7
+17. Rc1 Bd7 18. Be2 g5 19. Na4 Ne4 20. Nc5 Nxc5 21. Rxc5 h5
+22. Ne5 Nxe5 23. dxe5 Qxe5 24. Bxh5 Rac8 25. Rxc8 Bxc8 26. Qd2
+Bd7 27. Bg4 Rc8 28. Re1 Qf6 29. f4 gxf4 30. gxf4 Rc4 31. g3
+Qg6 32. Re5 Kf8 33. b3 Rc2 34. Qb4+ 1-0

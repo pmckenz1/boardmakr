@@ -1,0 +1,17 @@
+[Event "Minsk URS ch"]
+[Site "Minsk BLR"]
+[Date "1979.12.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Evgeni Ellinovich Sveshnikov"]
+[Black "Yuri Balashov"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.c4 e6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Ne5
+Nc6 8.Nxc6 bxc6 9.Na3 Bxa3 10.bxa3 Nd5 11.Qa4 Nb6 12.Qxc6 Rb8
+13.Qc5 Ba6 14.Bf4 Nd5 15.Qxa7 Nxf4 16.gxf4 Qd6 17.Rfc1 Rb2
+18.e3 g6 19.Rc3 Rc8 20.Bf3 Kg7 21.Rd1 Rd8 1/2-1/2

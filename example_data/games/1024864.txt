@@ -1,0 +1,21 @@
+[Event "Helsinki"]
+[Site "Helsinki FIN"]
+[Date "1984.06.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Jouni Yrjola"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+Nxd4 8.Qxd4 Bd7 9.O-O-O Qa5 10.Bd2 a6 11.Be2 Bc6 12.a3 Qc5
+13.Qxc5 dxc5 14.Bf4 Rd8 15.Rxd8+ Kxd8 16.Nb1 Be7 17.Nd2 Bb5
+18.Nc4 Nd7 19.Rd1 Kc8 20.b3 Bxc4 21.Bxc4 Bf6 22.Be3 g5 23.g3
+Rg8 24.Be2 Kc7 25.a4 Rg7 26.f4 Be7 27.Bf3 Nb8 28.c3 b6 29.Kc2
+a5 30.Rd2 Bd6 31.fxg5 Nd7 32.Bh5 c4 33.bxc4 Bc5 34.Bd4 Rxg5
+35.Bxf7 e5 36.Bf2 Bxf2 37.Rxf2 Nc5 38.Be8 Rg7 39.Rf6 Re7
+40.Bc6 Re6 41.Rxe6 Nxe6 42.Bb5 Nc5 1/2-1/2

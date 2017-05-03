@@ -1,0 +1,19 @@
+[Event "Budapest plof (3pl Riga-izt)"]
+[Site "Budapest HUN"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "George Rajna"]
+[Black "Andras Adorjan"]
+[ECO "B80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Be7 7.Qd2
+a6 8.f3 b5 9.Be3 Bb7 10.g4 Nc6 11.O-O-O Rc8 12.h4 Nd7 13.g5
+Nc5 14.Rg1 Ne5 15.Kb1 b4 16.Nce2 Nc4 17.Qc1 e5 18.Nf5 Na4
+19.g6 fxg6 20.Nxg7+ Kf7 21.Bh6 Rg8 22.Ng3 Ncxb2 23.Bh3 Rxg7
+24.Bxg7 Nc3+ 25.Ka1 Nbxd1 26.Bxe5 dxe5 27.Qh6 Qg8 28.Nf5 Rc5
+29.Nd4 exd4 30.Qf4+ Kg7 0-1

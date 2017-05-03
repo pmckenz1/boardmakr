@@ -1,0 +1,20 @@
+[Event "It (open), Ljubljana (Slovenia)"]
+[Site "It (open), Ljubljana (Slovenia)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Rudolf Florjancic"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Bg7 5. d4 b6 6. Be2 Bb7
+7. O-O Nf6 8. d5 Nb4 9. e4 d6 10. a3 Na6 11. e5 dxe5 12. Nxe5
+O-O 13. Bf4 Nb8 14. Bf3 Qc8 15. Re1 Re8 16. Qe2 a6 17. Rad1
+Nfd7 18. Nxf7 {!} Kxf7 19. Qe6+ Kf8 20. d6 {!} Bxf3 {20...exd6
+loses to 21.Bxd6+; while 20...Nc6 loses to 21.Bd5! mating.}
+21. dxe7+ Rxe7 22. Qxe7+ Kg8 23. Qe6+ Kh8 24. Qe8+ Qxe8
+25. Rxe8+ Nf8 26. gxf3 1-0

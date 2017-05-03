@@ -1,0 +1,21 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.27"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Liang Jinrong"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 b6
+8.Bd3 Bb7 9.O-O Nbd7 10.Qe2 c5 11.Rfd1 cxd4 12.exd4 a6 13.a4
+Nh5 14.Bg3 Nxg3 15.hxg3 dxc4 16.Bxc4 Nf6 17.Ne5 Bb4 18.Rac1
+Bxc3 19.bxc3 Qd6 20.Ba2 Rac8 21.c4 Nd7 22.Nxd7 Qxd7 23.Rb1 Qc6
+24.f3 Rfd8 25.a5 bxa5 26.c5 Qc7 27.Bc4 Rb8 28.Rb6 Bd5 29.Bxd5
+Rxd5 30.Rxb8+ Qxb8 31.c6 Qb6 32.Qc4 Rd8 33.f4 Rc8 34.Rc1 Qb5
+35.Qc2 a4 36.c7 a3 37.Kh2 Qh5+ 38.Kg1 Qa5 39.Qb3 Qd2 40.Qxa3
+Qxd4+ 41.Kh2 Qd7 42.Qc5 1/2-1/2

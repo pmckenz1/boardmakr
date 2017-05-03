@@ -1,0 +1,21 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Mihajlo Mihaljcisin"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.b4 b6 7.Qb3 c5
+8.bxc5 bxc5 9.cxd5 Na6 10.Be2 Rb8 11.Qa4 Nb4 12.O-O Nfxd5
+13.Bd2 Nb6 14.Qa5 cxd4 15.Qxb4 dxc3 16.Bxc3 Bxc3 17.Qxc3 Be6
+18.Qa3 Qd7 19.Rfd1 Qb7 20.Rd4 Nd5 21.Ng5 Qb2 22.Qxb2 Rxb2
+23.Bf3 Nc3 24.Nxe6 fxe6 25.Rd7 e5 26.e4 Ne2+ 27.Bxe2 Rxe2
+28.Rf1 a5 29.a3 Rxe4 30.Rxe7 Rf7 31.Rxf7 Kxf7 32.Rb1 Re2
+33.Rb7+ Kf6 34.Kf1 Ra2 35.Rxh7 Rxa3 36.Ra7 a4 37.Ke2 Kf5
+1/2-1/2

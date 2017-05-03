@@ -1,0 +1,19 @@
+[Event "Jurmala"]
+[Site "Jurmala"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ventzislav V Inkiov"]
+[Black "Yuri Balashov"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 a6 4.Nc3 c5 5.e3 b6 6.Be2 d6 7.O-O Nbd7
+8.b3 Be7 9.Bb2 O-O 10.d5 e5 11.e4 g6 12.Ne1 Ne8 13.Nd3 f5
+14.f4 Ng7 15.g4 exf4 16.Nxf4 Ne5 17.gxf5 gxf5 18.Kh1 Ra7
+19.Bd3 Bf6 20.Bc2 Ng4 21.Qd2 Be5 22.exf5 Qh4 23.Rf3 Bxf5
+24.Bxf5 Rxf5 25.Raf1 Nh5 26.Nxh5 Rxf3 27.Rxf3 Nxh2 28.Qg2+ Rg7
+29.Qh3 Nxf3+ 0-1

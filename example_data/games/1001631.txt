@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.24"]
+[EventDate "1882.05.10"]
+[Round "12"]
+[Result "1-0"]
+[White "Berthold Englisch"]
+[Black "Josef Noa"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. Nc3 Bd7 6. d4 exd4
+7. Nxd4 Nxd4 8. Bxd7+ Qxd7 9. Qxd4 Be7 10. h3 b6 11. O-O O-O
+12. Be3 Rad8 13. Rad1 Ne8 14. f4 Kh8 15. Rf3 Qe6 16. f5 Qc8
+17. Nd5 c5 18. Qc3 Bf6 19. Nxf6 Nxf6 20. Bh6 Ne8 21. Rg3 f6
+22. Bf4 d5 23. Rxd5 Rxd5 24. exd5 Qxf5 25. Qd2 g5 26. Be3 Nd6
+27. Rf3 Qe5 28. b3 Ne4 29. Qd3 h5 30. c3 f5 31. h4 Rd8 32. c4
+g4 33. Bf4 Qf6 34. Bg5 Qe5 35. Bxd8 gxf3 36. Qxf3 Qd4+ 37. Kh2
+Qe5+ 38. g3 Qb2+ 39. Qg2 Qd4 40. Qe2 Kg7 41. Bc7 Kg6 42. Bf4
+Kf6 43. Bc1 Qf2+ 44. Qxf2 Nxf2 45. Kg2 Nd3 46. Bd2 Kg6 47. Kf3
+Ne5+ 48. Kf4 Nd3+ 49. Ke3 Ne5 50. Bc3 1-0

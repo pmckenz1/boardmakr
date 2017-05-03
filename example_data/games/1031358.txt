@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Los Angeles, CA USA"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ronald Joseph Gross"]
+[Black "Julio Bolbochan"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 c5 5.Nf3 O-O 6.Bg2 cxd4 7.Nxd4
+d5 8.Qb3 Na6 9.cxd5 Nxd5 10.O-O Nxc3 11.bxc3 Be7 12.Rd1 Nc5
+13.Qc2 Bd7 14.Bf4 Rc8 15.Nb5 a6 16.Nd6 Ba4 17.Nxc8 Qxc8 18.Qd2
+Rd8 19.Qe1 Bxd1 20.Rxd1 Rxd1 21.Qxd1 b5 22.Qc2 Na4 23.Bd2 h6
+24.Be4 Bf6 25.c4 Qxc4 26.Qxc4 bxc4 27.Bc2 Nb6 28.Bb4 Nd5 29.a3
+Be7 30.e4 Nxb4 31.axb4 Bxb4 32.Kf1 Kf8 33.Bd1 Ke7 34.Be2 c3
+35.Bd1 Kd6 36.Ke2 Bc5 37.f3 Bg1 38.h3 Ke5 0-1

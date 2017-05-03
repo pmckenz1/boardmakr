@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.15"]
+[EventDate "1911.08.21"]
+[Round "19"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "Georg Salwe"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7
+7.Bd3 a6 8.Nce2 c5 9.c3 Nc6 10.Qd2 b5 11.f4 Nb6 12.Nf3 c4
+13.Bc2 b4 14.O-O a5 15.Ng3 g6 16.Rae1 a4 17.f5 exf5 18.e6 Bxe6
+19.Bxf5 gxf5 20.Nxf5 Qc7 21.Qg5 Kd7 22.cxb4 Rag8 23.Qh5 Kc8
+24.b5 Nd8 25.Ne5 h6 26.Qe2 Rg5 27.Ng3 Rhg8 28.Qd2 h5 29.Rf2 h4
+30.Nf1 h3 31.g3 Rf5 32.Rfe2 Kb8 33.Qb4 Nd7 34.Nc6+ Nxc6
+35.bxc6 Nb6 36.b3 axb3 37.axb3 Rf3 38.bxc4 dxc4 39.Re5 Rb3
+40.Qd2 Qxc6 41.Ne3 Rd8 42.d5 Nxd5 43.Nxd5 Rxd5 44.Qf4 Rxe5
+45.Qxe5+ Kb7 0-1

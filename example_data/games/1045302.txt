@@ -1,0 +1,28 @@
+[Event "Bucharest"]
+[Site "Bucharest ROM"]
+[Date "1978.03.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Jan Adamski"]
+[Black "Lubomir Ftacnik"]
+[ECO "E18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O
+7. Nc3 d5 8. cxd5 exd5 9. b3 Ne4 10. Bb2 Nxc3 11. Bxc3 Nd7
+12. Rc1 Re8 13. Qc2 Ba3 14. Bb2 Bxb2 15. Qxb2 Nf6 16. Rc2 Qd6
+17. Rfc1 c6 18. b4 Rac8 19. Ne5 Rc7 20. a4 Ree7 21. e3 Ne8
+22. Qb3 Kf8 23. Rc3 f6 24. Nd3 Qd8 25. b5 cxb5 26. axb5 Rxc3
+27. Rxc3 Nc7 28. Qb4 Qd7 29. Rb3 Kf7 30. h4 Re8 31. Nf4 Rd8
+32. Bh3 Qd6 33. Qa4 a6 34. bxa6 Bxa6 35. Rc3 Bc4 36. Qc2 g6
+37. Nxd5 b5 38. Nxc7 Qxc7 39. Bf1 Rc8 40. h5 Kg7 41. hxg6 hxg6
+42. Bxc4 bxc4 43. Qa4 Qf7 44. Qb5 Kh6 45. Qa6 Rc7 46. Qa8 Kg7
+47. Kg2 Qd7 48. d5 f5 49. Kg1 Rc5 50. Ra3 c3 51. Qa7 Qxa7
+52. Rxa7+ Kf6 53. Ra1 Ke5 54. Kf1 Kxd5 55. Ke2 Kc4 56. Kd1 Kd3
+57. Ra4 c2+ 58. Kc1 Ke2 59. f4 Rc6 60. e4 fxe4 61. Rxe4+ Kf3
+62. Re8 Kxg3 63. Rf8 Kg4 64. Rf7 Rc5 65. Rf6 Kh5 66. Rd6 Rf5
+67. Kxc2 Rxf4 68. Kd3 g5 69. Ke3 Rf1 70. Ke2 Rf5 71. Rd1 Kh4
+72. Rh1+ Kg3 73. Rh5 Rf2+ 74. Ke1 g4 75. Rg5 Rf8 0-1

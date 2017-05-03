@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Anh Dung Nguyen"]
+[Black "Alexander Riazantsev"]
+[ECO "C18"]
+[WhiteElo "2485"]
+[BlackElo "2385"]
+[PlyCount "83"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7
+7. Qg4 O-O 8. Nf3 Nbc6 9. Bd3 f5 10. Qh3 Bd7 11. a4 Qa5
+12. Bd2 c4 13. Be2 Nd8 14. g4 Be8 15. gxf5 Rxf5 16. Rg1 Rxf3
+17. Qxf3 Nf5 18. h4 Qc7 19. Qh3 Nc6 20. Bg4 Qf7 21. h5 Nce7
+22. Bg5 Bd7 23. Rg2 Rf8 24. Ke2 h6 25. Bxe7 Nxe7 26. Rag1 Kh8
+27. a5 Nc6 28. Qe3 Ne7 29. Kd2 Bc8 30. Kc1 Bd7 31. Kb2 Bc8
+32. Qe1 Qe8 33. Qa1 Rf7 34. Qa3 Nc6 35. Bh3 Qe7 36. Qd6 Qe8
+37. Rg6 Nd8 38. f4 Rd7 39. Rxe6 Nxe6 40. Qxe6 Qf8 41. Qg6 Rc7
+42. Qd6 1-0

@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1875.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J J Veraart"]
+[Black "Anderssen / Goring / Allies"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.Nxe5 Nxe5 9.dxe5 Bb7 10.Qf3 c5 11.c3 Be7 12.Re1 O-O
+13.Bf4 Qb6 14.Nd2 Nxd2 15.Bxd2 d4 16.Qg3 c4 17.Bd1 d3 18.Be3
+Qe6 19.Bg4 Qg6 20.f4 Be4 21.Rad1 Rad8 22.Bd2 Bc5+ 23.Kh1 f5
+24.exf6 Rxf6 25.Rf1 Rdf8 26.Rde1 Bc6 27.Re5 Bb6 28.h3 Re8
+29.Rg5 Qxg5 30.Be6+ Rexe6 31.Qxg5 Rg6 32.f5 Rxg5 33.Bxg5 Re2
+0-1

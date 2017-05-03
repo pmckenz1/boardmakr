@@ -1,0 +1,21 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1970.12.27"]
+[EventDate "1970.??.??"]
+[Round "21"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Igor V Platonov"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c5 4.d5 e6 5.Bg2 exd5 6.cxd5 d6 7.Nf3
+Bg7 8.O-O O-O 9.Nc3 Bg4 10.Nd2 Qd7 11.Qb3 Na6 12.f3 Bh3 13.Nc4
+Bxg2 14.Kxg2 Nb4 15.Ne3 Rfe8 16.a3 Na6 17.Qb5 Nc7 18.Qd3 b5
+19.Nc2 a5 20.e4 b4 21.Nd1 Qb5 22.Qxb5 Nxb5 23.Nde3 b3 24.a4
+bxc2 25.axb5 Reb8 26.Nc4 Rxb5 27.Rf2 Ra6 28.Rxc2 Nd7 29.Bf4
+Ne5 30.Bxe5 Bxe5 31.f4 Bd4 32.e5 dxe5 33.fxe5 a4 34.Kf3 Ra8
+35.d6 Rb4 36.Rac1 Kf8 37.Ke4 Rxc4 38.Rxc4 Bxb2+ 39.R1c2 a3
+40.Rxc5 a2 41.Rc8+ Rxc8 42.Rxc8+ Kg7 43.Ra8 1-0

@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1965.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Vladislav Vorotnikov"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Bd3 Bd6 7.cxd5
+exd5 8.Qc2 O-O 9.g4 Ne4 10.Bd2 f5 11.gxf5 Ndf6 12.Nxe4 Nxe4
+13.Bxe4 dxe4 14.Ne5 Qf6 15.Qb3+ Kh8 16.Nc4 Be7 17.O-O-O Qxf5
+18.Ne5 a5 19.Rhf1 a4 20.Qc2 Be6 21.Kb1 Bd5 22.Rc1 Qe6 23.a3 b5
+24.f3 exf3 25.e4 Ba2+ 26.Ka1 c5 27.Nxf3 Bb3 28.Qb1 Bc4 29.d5
+Qh3 30.Rxc4 bxc4 31.Qd1 Bf6 32.Rf2 Rab8 33.Bc3 Rb3 34.e5 Bxe5
+35.Ng5 Rxf2 36.Nxh3 Bxc3 37.bxc3 Rxa3+ 38.Kb1 Rfa2 39.Qc1 Ra1+
+0-1

@@ -1,0 +1,23 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Janos Balogh"]
+[Black "Erno Gereben"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c6 2. Ne2 d5 3. e5 Bf5 4. Ng3 Bg6 5. h4 h6 6. h5 Bh7
+7. d4 e6 8. Bd3 Bxd3 9. Qxd3 c5 10. f4 Nc6 11. f5 Qd7 12. Be3
+cxd4 13. Bxd4 Rc8 14. Nc3 Nxd4 15. Qxd4 Bc5 16. Qg4 Ne7
+17. O-O-O exf5 18. Qxg7 Rg8 19. Nxd5 Rxg7 20. Nf6+ Kf8
+21. Nxd7+ Kg8 22. Nf6+ Kh8 23. Rd3 f4 24. Nge4 Rxg2 25. c3
+Be3+ 26. Kb1 Nc6 27. Rhd1 Kg7 28. Nd6 Nxe5 29. Nfe8+ Kf8
+30. Nxc8 Nxd3 31. Rxd3 Kxe8 32. Nd6+ Ke7 33. Nxb7 Rh2 34. c4
+Rxh5 35. b4 Re5 36. Nd6 Ke6 37. c5 Rd5 38. Kc2 h5 39. Nc4 Rxd3
+40. Kxd3 Kd5 41. Nxe3+ fxe3 42. Kxe3 f5 43. Kf4 h4 44. a3
+1/2-1/2

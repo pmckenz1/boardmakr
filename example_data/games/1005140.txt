@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Evarth Kahn"]
+[Black "Gagik Khechumyan"]
+[ECO "D80"]
+[WhiteElo "2295"]
+[BlackElo "2370"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c6 6. e3 Bg7
+7. cxd5 Nxc3 8. bxc3 cxd5 9. Qa4+ Nc6 10. Bb5 Bd7 11. Qa3 a6
+12. Bd3 Na5 13. Bxe7 Qxe7 14. Qxa5 Qg5 15. Be2 O-O 16. Bf3
+Rfe8 17. Ne2 Rxe3 18. fxe3 Qxe3 19. Qc7 Re8 20. Qxd7 Qxc3+
+21. Kf2 Rxe2+ 22. Kxe2 Qb2+ 23. Ke1 Qxa1+ 24. Bd1 Qc3+ 25. Ke2
+Qc4+ 26. Ke1 Qc3+ 27. Ke2 Bxd4 28. Qe8+ Kg7 29. Kf1 Be3 30. g3
+Qf6+ 31. Kg2 Qf2+ 32. Kh3 h5 33. Qe5+ Kh6 34. Qh8+ Kg5
+35. Qd8+ Kh6 36. Qxd5 g5 37. Qd6+ Kg7 38. Qe5+ Kg6 39. Qe4+
+Kh6 40. Bxh5 f5 41. Qf3 g4+ 42. Bxg4 fxg4+ 43. Kxg4 1-0

@@ -1,0 +1,29 @@
+[Event "New York op (02)"]
+[Site "New York op (02)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ralf Hess"]
+[Black "Jay R Bonin"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "165"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 c5 7.d5 b5
+8.cxb5 a6 9.a4 axb5 10.Bxb5 Ba6 11.Qe2 Nxe4 12.Qxe4 Bxc3+
+13.bxc3 Bxb5 14.h4 Nd7 15.h5 Nf6 16.Qh4 Qd7 17.c4 Rxa4 18.Rxa4
+Bxa4 19.hxg6 fxg6 20.Ng5 Qg4 21.Qxg4 Nxg4 22.Rxh7 Rxf2 23.Rxe7
+Rxg2 24.Bf4 Nf6 25.Re6 Kg7 26.Rxd6 Rg1+ 27.Ke2 Bb3 28.Be5
+Bxc4+ 29.Kd2 Rf1 30.Rxf6 Rxf6 31.d6 Bb5 32.Kc3 Kh6 33.Bxf6 Kh5
+34.Ne6 Kg4 35.Nxc5 g5 36.Kd4 Kf4 37.Kd5 g4 38.Ne6+ Ke3 39.Bh4
+Bd7 40.Ke5 Kf3 41.Ng5+ Ke3 42.Bg3 Ke2 43.Kf4 Kf1 44.Nf7 Kg2
+45.Ne5 Bc8 46.Nxg4 Bd7 47.Ne5 Ba4 48.Bh4 Kh3 49.Bf6 Kg2 50.Ke4
+Kh3 51.Kf5 Kg2 52.Ke6 Kh3 53.Ke7 Kg2 54.Kd8 Kh3 55.Kc7 Be8
+56.Nd7 Kg2 57.Kd8 Bg6 58.Nc5 Bf5 59.Ke7 Bc8 60.Bd4 Kh3 61.Kf6
+Kg2 62.Ke5 Kh3 63.Kf4 Kg2 64.Be5 Kh3 65.Kf3 Bg4+ 66.Kf2 Bc8
+67.d7 Bxd7 68.Nxd7 Kg4 69.Nc5 Kh3 70.Kf3 Kh4 71.Ne6 Kh3
+72.Ng5+ Kh4 73.Kf4 Kh5 74.Kf5 Kh4 75.Bf4 Kh5 76.Bg3 Kh6 77.Ne6
+Kh5 78.Ng7+ Kh6 79.Kf6 Kh7 80.Kf7 Kh6 81.Bf4+ Kh7 82.Bg5 Kh8
+83.Ne6 1-0

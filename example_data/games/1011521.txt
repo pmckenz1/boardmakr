@@ -1,0 +1,21 @@
+[Event "It (cat.17), Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1999.01.28"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Dimitri Reinderman"]
+[Black "Jeroen Piket"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3
+b5 7. c3 c5 8. Nc2 Bb7 9. Re1 Ne7 10. a4 Ng6 11. axb5 axb5
+12. Rxa8+ Bxa8 13. d4 exd4 14. cxd4 Be7 15. Qe2 Bc6 16. dxc5
+Qxc5 17. Ncd4 O-O 18. Nxc6 Qxc6 19. Nd4 Qb6 20. Nxb5 Rb8
+21. Nc3 c6 22. Kh1 Bh4 23. g3 Bf6 24. f4 Bd4 25. Qc4 h6
+26. Kg2 Ne7 27. e5 c5 28. e6 Qc6+ 29. Kh3 f5 30. Qe2 Rb3
+31. Qd1 Qb7 32. Qc2 Bf6 33. Qg2 Qb4 34. Qe2 Qb7 35. Qg2 Qb4
+36. Qe2 1/2-1/2

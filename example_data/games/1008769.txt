@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Graham Lilley"]
+[Black "Clive L Waters"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 c5 8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2
+Qxd2+ 12. Bxd2 b6 13. O-O e6 14. Rfc1 Bb7 15. Rc7 Bxe4
+16. Rbc1 a5 17. Bf4 Na6 18. Bxa6 Bxf3 19. Bd6 Bd5 20. Bxf8
+Kxf8 21. Bb7 Re8 22. Bxd5 exd5 23. Rd7 Bxd4 24. Rxd5 Bc5
+25. Kf1 Re4 26. Rd7 Rb4 27. Rc2 Kg7 28. g3 Kf6 29. Ke2 Ke6
+30. Rb7 h5 31. f3 Ra4 32. Kd1 Ra3 33. Re2+ Kf6 34. f4 Rf3
+35. Rd2 h4 36. Rdd7 hxg3 37. hxg3 Kf5 38. Rxf7+ Ke4 39. Rb8
+Rxg3 40. Kc2 a4 41. Re8+ Kd4 42. Rd7+ Kc4 43. Re4+ Kb5 44. Rd5
+Rg2+ 45. Rd2 Rg4 1/2-1/2

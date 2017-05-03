@@ -1,0 +1,19 @@
+[Event "50th USSR Championship"]
+[Site "Moscow URS"]
+[Date "1983.04.24"]
+[EventDate "1983.04.03"]
+[Round "15"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Efim Geller"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.h3 Bb7 9.d3 h6 10.Nc3 d6 11.a4 Na5 12.Ba2 b4 13.Ne2 c5
+14.c3 bxc3 15.bxc3 c4 16.Ng3 cxd3 17.Qxd3 Bc8 18.Nh4 Kh7
+19.Nhf5 Nb7 20.Be3 Be6 21.Bd5 Qc7 22.Rab1 Rfb8 23.Rb6 Bf8
+24.Reb1 Bxd5 25.exd5 g6 26.R1b4 Nd8 27.Nxh6 Rxb6 28.Bxb6 Qb7
+29.Ng4 Nxd5 30.Qxd5 1-0

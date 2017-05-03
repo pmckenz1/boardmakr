@@ -1,0 +1,21 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Mark Orr"]
+[Black "Kenneth S Beaton"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 Nh6 4. e3 Nf5 5. Bg3 h5 6. h3 Nxg3
+7. fxg3 Qd6 8. Kf2 Nc6 9. c4 dxc4 10. Bxc4 Bf5 11. Nc3 O-O-O
+12. Nf3 e5 13. d5 Qb4 14. Bb3 Na5 15. Nd2 Nxb3 16. Nxb3 Bd6
+17. Qe2 Bd7 18. Rhc1 f5 19. e4 Rdf8 20. Kg1 f4 21. Qf2 Kb8
+22. Rf1 g5 23. Kh1 g4 24. h4 Rf7 25. Qe2 Rhf8 26. gxf4 Rxf4
+27. Rxf4 Rxf4 28. Rf1 Rxf1+ 29. Qxf1 a5 30. Qf7 Bc8 31. Qe8
+Qc4 32. Qb5 Qxb5 33. Nxb5 a4 34. Nc1 Be7 35. g3 Bd7 36. Nc3
+Bc5 37. Nd3 Bd6 38. Kg2 b5 39. a3 Kb7 40. Kf2 1-0

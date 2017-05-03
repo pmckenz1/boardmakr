@@ -1,0 +1,16 @@
+[Event "It (cat.11)"]
+[Site "Rishon (Israel)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Michael Oratovsky"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O
+e5 8.e4 c6 9.h3 Qa5 10.Re1 exd4 11.Nxd4 Ne5 12.Bf1 Re8 13.Be3
+Be6 14.Nxe6 Rxe6 15.Kg2 Rae8 16.f3 a6 1/2-1/2

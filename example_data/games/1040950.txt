@@ -1,0 +1,21 @@
+[Event "Mar del Plata zt ,MCL 03"]
+[Site "01"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Joao de Souza Mendes Jr."]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.h3 d6 9.c3 Be6 10.Bc2 d5 11.exd5 Qxd5 12.Qe2 e4 13.Bxe4
+Nxe4 14.Qxe4 Qxe4 15.Rxe4 Bd5 16.Re1 Bxf3 17.gxf3 Rfe8 18.d4
+Bd6 19.Rxe8+ Rxe8 20.Kf1 Ne7 21.a4 b4 22.Nd2 bxc3 23.bxc3 Nd5
+24.Ne4 Bf8 25.c4 Nb6 26.Bf4 c6 27.Bc7 Nd7 28.Rb1 f5 29.Nd6
+Bxd6 30.Bxd6 Re6 31.c5 Rh6 32.d5 cxd5 33.c6 Rxd6 34.c7 Rc6
+35.Rb8+ Kf7 36.c8=Q Rxc8 37.Rxc8 Ke7 38.Rc6 a5 39.Ra6 Ne5
+40.Rxa5 Kd6 41.Ra7 Nd7 42.a5 d4 43.a6 1-0

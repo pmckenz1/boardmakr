@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.08.23"]
+[EventDate "1907.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Erich Cohn"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. d4 exd4 6. e5 Ne4
+7. Nxd4 O-O 8. Nf5 d5 9. Nxe7+ Nxe7 10. f3 Nc5 11. b4 Ne6
+12. f4 f5 13. c3 a5 14. Kh1 Kh8 15. Nd2 d4 16. Nb3 dxc3
+17. bxa5 Nd5 18. Bc4 c6 19. Qd3 Rxa5 20. Nxa5 Qxa5 21. Be3 Rd8
+22. Bxd5 cxd5 23. Bd4 Nxd4 24. Qxd4 Be6 25. Rab1 Rc8 26. Qb6
+Qxb6 27. Rxb6 Rc6 28. Rb4 b5 29. Kg1 Kg8 30. Kf2 Ra6 31. Ra1
+d4 32. Rxd4 c2 33. Ke3 Rxa2 34. Rc1 Rb2 35. Kd2 Bb3 36. Rb4
+Rb1 37. Rxb5 Kf7 38. Rb7+ Kg6 39. g3 Kh6 40. Ra7 g6 41. Ra1
+Rxc1 42. Kxc1 g5 43. Ra3 1-0

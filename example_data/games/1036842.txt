@@ -1,0 +1,18 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.12"]
+[EventDate "1904.04.25"]
+[Round "11.3"]
+[Result "1-0"]
+[White "Albert Hodges"]
+[Black "John Finan Barry"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Qc2
+Ne4 8.cxd5 exd5 9.Bd3 f5 10.Bf4 Bb4 11.O-O O-O 12.a3 Bxc3
+13.bxc3 Ndf6 14.c4 dxc4 15.Bxc4+ Nd5 16.Bc7 b6 17.Ne5 Bb7
+18.f3 Qd2 19.Qb3 Nc3 20.Rfe1 Rf6 21.Rac1 Kh8 22.Bxd5 Nxd5
+23.Nc4 1-0

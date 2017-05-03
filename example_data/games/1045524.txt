@@ -1,0 +1,22 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Anatoly Lein"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 exd5 6. g3 Nc6
+7. Bg2 Be7 8. O-O O-O 9. dxc5 Bxc5 10. Bg5 d4 11. Bxf6 Qxf6
+12. Nd5 Qd8 13. Nd2 Re8 14. Nb3 Bb6 15. Rc1 Bg4 16. Re1 Re5
+17. Nf4 Qe8 18. h3 Bf5 19. Nd3 Re6 20. Ndc5 Rh6 21. g4 Be6
+22. Nxb7 Bxb3 23. Qxb3 Rb8 24. Qb5 Na5 25. Qxe8+ Rxe8 26. Nc5
+Nc6 27. Bxc6 Rxc6 28. Nd7 Rd6 29. Nxb6 Rxb6 30. b3 h5 31. Rc4
+hxg4 32. hxg4 Ra6 33. a4 Re4 34. f3 Re3 35. Rxd4 Rxb3 36. Rc1
+Ra3 37. Rc8+ Kh7 38. Rc7 Kg6 39. Rdd7 Re6 40. Kf2 Ra2 41. Kg3
+Rf6 42. e3 Rxa4 43. f4 Re4 44. Kf3 Re8 45. g5 1-0

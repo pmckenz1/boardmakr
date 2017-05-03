@@ -1,0 +1,26 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "A Evchenko"]
+[Black "Yury Dobrovolsky"]
+[ECO "E84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 Nc6
+7. Nge2 a6 8. Qd2 Rb8 9. Nc1 e5 10. Nb3 exd4 11. Nxd4 Bd7
+12. Be2 b5 13. Nxc6 Bxc6 14. O-O Re8 15. Rfd1 Qe7 16. Nd5 Qd7
+17. Bd4 Qd8 18. Nb4 Bb7 19. cxb5 axb5 20. Bxb5 Nxe4 21. fxe4
+Bxd4+ 22. Qxd4 Rxe4 23. Qd2 c6 24. Nxc6 Bxc6 25. Bxc6 Qb6+
+26. Qf2 Qxc6 27. Rac1 Qa6 28. Rc7 Qxa2 29. Rf1 Rf8 30. Qc2 Qe6
+31. Qd3 Re2 32. Rc2 Qe3+ 33. Qxe3 Rxe3 34. Rd1 Re6 35. Rcd2
+Rb8 36. Rxd6 Rxd6 37. Rxd6 Rxb2 38. h3 Rb4 39. Kf2 Kg7 40. Kf3
+Rb3+ 41. Kf2 Rb4 42. Kf3 Ra4 43. Rb6 h5 44. g3 h4 45. gxh4
+Rxh4 46. Kg3 Rc4 47. Rb7 Kf6 48. Ra7 Re4 49. Rb7 Re7 50. Rb5
+Kg7 51. Kf4 Rc7 52. Ra5 Kh6 53. Ra3 f5 54. Kg3 Kg5 55. Ra4
+Rc3+ 56. Kg2 Re3 57. Rb4 Re4 58. Rb6 Kh5 59. Ra6 Rb4 60. Ra8
+Kh4 61. Rh8+ Kg5 62. Rg8 Rb6 63. Ra8 Rb2+ 64. Kf3 1/2-1/2

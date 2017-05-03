@@ -1,0 +1,26 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Andrei Kosarev"]
+[Black "Dmitry Vdovin"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6
+7. f3 Bb4 8. Nxc4 O-O 9. Bg5 h6 10. Bh4 c5 11. dxc5 Qxd1+
+12. Rxd1 Nd5 13. e4 Nxc3 14. bxc3 Bxc3+ 15. Kf2 Bh7 16. Be7
+Re8 17. Bd6 f5 18. Rd3 Bb4 19. Rb3 Nc6 20. exf5 exf5 21. Ne3
+Kh8 22. Bc4 a5 23. Bf7 Bg8 24. Bxg8 Kxg8 25. Nxf5 Re6 26. Rd1
+Rae8 27. Re3 Kh7 28. Rxe6 Rxe6 29. Ne3 b6 30. Rd5 bxc5
+31. Bxc5 Ne7 32. Bxe7 Rxe7 33. Nc4 Rc7 34. Ne3 Rc3 35. Nf5
+Rc2+ 36. Kg3 Ra2 37. Rd7 Bc3 38. Rd3 Bf6 39. h4 h5 40. Kh3
+Rxa4 41. g4 hxg4+ 42. fxg4 Rc4 43. Ne3 Rc3 44. Rxc3 Bxc3
+45. g5 a4 46. Nc2 g6 47. Kg4 Kg7 48. h5 gxh5+ 49. Kxh5 Kf7
+50. Kg4 Ke6 51. Kf3 Kd5 52. Ke2 Kc4 53. g6 Bg7 54. Kd1 Bh6
+55. Ne1 Kc3 56. g7 Bxg7 57. Kc1 Bf8 58. Kb1 Ba3 59. Nc2 Bb2
+60. Na1 1/2-1/2

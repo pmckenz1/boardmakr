@@ -1,0 +1,19 @@
+[Event "Minsk URS sf"]
+[Site "Minsk BLR"]
+[Date "1985.10.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Edvins Kengis"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 Qd7
+13.d5 Na5 14.Bb3 c4 15.Bc2 e6 16.dxe6 fxe6 17.Bg5 Rf8 18.f4 e5
+19.f5 Qxd1 20.Rcxd1 b6 21.Be7 Re8 22.Bb4 Rf8 23.Bxf8 Bxf8
+24.Kh1 Bb7 25.fxg6 hxg6 26.Rf6 Kg7 27.Rdf1 Rd8 28.Ng1 Bc5
+29.Rf7+ Kg8 30.Nh3 Rd2 31.Bb1 Be3 32.Rf8+ 1-0

@@ -1,0 +1,23 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Guruswamy Balagurunathan Prakash"]
+[Black "Ponnuswamy Konguvel"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. Bg5 Nh5 10. Ne1 Nf4 11. Nd3 Nxe2+
+12. Qxe2 h6 13. Bd2 f5 14. f4 exf4 15. Nxf4 g5 16. Nh5 Bd4+
+17. Kh1 f4 18. g3 fxg3 19. Rxf8+ Qxf8 20. Rf1 Bh3 21. Rxf8+
+Rxf8 22. Nxg3 Rf2 23. Qxf2 Bxf2 24. Nd1 Bd4 25. Be3 Bxe3
+26. Nxe3 Kf7 27. Kg1 Kg6 28. Kf2 h5 29. Kf3 Bd7 30. e5 dxe5
+31. Ke4 h4 32. Nh1 g4 33. Nf2 Kg5 34. Nd3 Bf5+ 35. Nxf5 Nxf5
+36. Kxe5 g3 37. hxg3 hxg3 38. c5 Kg4 39. Ne1 Ne7 40. Ke6 Nf5
+41. Ke5 Ne7 42. a3 a5 43. b4 axb4 44. axb4 Ng6+ 45. Ke4 Kg5
+46. b5 Kf6 47. Ng2 Ke7 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lars Schandorff"]
+[Black "Erling Mortensen"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 Bb4 5. e4 d6 6. g3 Bg4
+7. h3 Bxf3 8. Qxf3 a5 9. Bg2 a4 10. Bd2 a3 11. b3 Nd4 12. Qd1
+c6 13. Ne2 Bxd2+ 14. Qxd2 Nxe2 15. Kxe2 Qb6 16. Rab1 Nd7
+17. Rhd1 O-O 18. d4 Rfd8 19. Kf1 c5 20. d5 Qa5 21. Qxa5 Rxa5
+22. Ke1 Ra6 23. Kd2 Rb6 24. Bf1 Nb8 25. Bd3 Na6 26. Rbc1 Nb4
+27. Bb1 Ra6 28. Rf1 Re8 29. Rc3 Raa8 30. Re3 Re7 31. Re2 Rae8
+32. Re3 g6 33. g4 Kg7 34. Rg3 Rh8 35. h4 f6 36. Rfg1 Kf8
+37. Ke3 Rg7 38. Ke2 Kf7 39. Rf3 Ke7 40. Rfg3 Rb8 41. Rh1 Rbg8
+42. Rhg1 Kf7 43. Rf3 Rf8 44. Rfg3 Kg8 45. Kd2 Rff7 46. Ke3 h5
+47. gxh5 gxh5 48. Kf3 Rxg3+ 49. fxg3 Rh7 50. g4 hxg4+
+51. Rxg4+ Kf7 52. Kg3 Na6 53. Bd3 Nb4 54. Bb1 Rh8 55. Kh3 Na6
+56. Bd3 Nb8 57. Rg3 Na6 58. Rg4 Nb4 1/2-1/2

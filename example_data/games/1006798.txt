@@ -1,0 +1,20 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.14"]
+[EventDate "1920.08.02"]
+[Round "10"]
+[Result "1-0"]
+[White "Aage Kier"]
+[Black "Katarina Beskow"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4
+Nb6 8.Nf3 Bd7 9.Be2 c5 10.O-O cxd4 11.Nxd4 Qc5 12.Kh1 Nc4
+13.Bxc4 Qxc4 14.f5 Na6 15.fxe6 fxe6 16.Qh5+ g6 17.Qh4 Rf8
+18.Rxf8+ Kxf8 19.Qxh7 Rd8 20.Qh8+ Ke7 21.Qf6+ Ke8 22.Rf1 Qxf1+
+23.Qxf1 Nc7 24.Qf6 a6 25.Nce2 Bc8 26.Nf4 Rd7 27.h3 Rf7 28.Qxg6
+Ke7 29.Qg5+ Ke8 30.h4 Re7 31.h5 Nb5 32.Nxb5 axb5 33.h6 b6
+34.Qxe7+ Kxe7 35.h7 Kd7 36.h8=Q Kc6 37.Qxc8# 1-0

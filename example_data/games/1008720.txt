@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Joseph G Gallagher"]
+[Black "Kidambi Sundararajan"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3
+e6 7. Bd3 c5 8. O-O cxd4 9. Nxd4 Bc5 10. Nb3 Be7 11. Re1 O-O
+12. Qf3 Nb6 13. Bd2 Nbd5 14. Rad1 Bd7 15. c4 Nb4 16. Bb1 Nc6
+17. Bc3 Qc7 18. Bxf6 Bxf6 19. Qd3 g6 20. Qxd7 Qxd7 21. Rxd7
+Bxb2 22. Rxb7 Nd4 23. Nxd4 Bxd4 24. Rd1 Rfd8 25. Kf1 1-0

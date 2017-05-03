@@ -1,0 +1,19 @@
+[Event "4, It op Mar del Plata ARG (10s)"]
+[Site "4, It op Mar del Plata ARG Hiarcs 7.32 (10s)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Hugo Spangenberg"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 Bf5 6. Nf3
+e6 7. Bd2 c6 8. Qe2 Nbd7 9. d5 cxd5 10. Nxd5 Qc5 11. b4 Qc8
+12. Nxf6+ gxf6 13. Nd4 Bg6 14. h4 h5 15. Rh3 Be7 16. Rg3 Ne5
+17. Bb3 Qd7 18. Bc3 Rc8 19. O-O-O Qc7 20. Nxe6 Qc6 21. Nc5
+Bxc5 22. bxc5 Kf8 23. Rd6 Qxc5 24. Rxf6 Re8 25. Qd2 a5
+26. Rgxg6 1-0

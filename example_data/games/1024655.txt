@@ -1,0 +1,17 @@
+[Event "Vilnius URS ch"]
+[Site "17"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Yuri Razuvaev"]
+[ECO "A05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.g3 d5 2.Nf3 g6 3.Bg2 Bg7 4.O-O Nf6 5.d3 O-O 6.Nbd2 Nc6 7.c3
+a5 8.a4 b6 9.Re1 Bb7 10.Qc2 h6 11.e4 e5 12.Nf1 Qd7 13.Ne3 Rad8
+14.Rd1 Qe6 15.h3 dxe4 16.dxe4 Rxd1+ 17.Nxd1 Nb8 18.Nd2 Rd8
+19.Ne3 1/2-1/2

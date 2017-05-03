@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Vladimir Georgiev"]
+[Black "Jesper Hall"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nge2 cxd4
+7. exd4 d5 8. cxd5 Nxd5 9. O-O O-O 10. Nxd5 Qxd5 11. a3 Be7
+12. Be3 g6 13. Qc2 Bf6 14. Rfd1 Ne7 15. Nc3 Qd8 16. Be4 Bg7
+17. d5 Nxd5 18. Nxd5 exd5 19. Rxd5 Qe8 20. Rd2 Be6 21. Qc7 Qb5
+22. Rb1 Bf5 23. Bxf5 Qxf5 24. Rbd1 b6 25. b4 h5 26. h3 Rfc8
+27. Qb7 Rcb8 28. Qd7 Qxd7 29. Rxd7 a5 30. b5 a4 31. Bf4 Rc8
+32. Rb7 Rc4 33. g3 Bf8 34. Rxb6 Bxa3 35. Ra6 Rxa6 36. bxa6 Bc5
+37. Rc1 Rxc1+ 38. Bxc1 Kf8 39. Ba3 1-0

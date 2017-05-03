@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Stuart C Conquest"]
+[Black "Venkatachalam Saravanan"]
+[ECO "E71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5
+7. d5 Na6 8. Bg5 h6 9. Be3 Nc5 10. Nd2 a5 11. g4 c6 12. Be2
+Bd7 13. h4 Ne8 14. Nf1 cxd5 15. cxd5 Qb8 16. a4 Nc7 17. Ra3 b5
+18. axb5 Nxb5 19. Bxb5 Bxb5 20. Bxc5 Bxf1 21. Bxd6 Qxd6
+22. Kxf1 Rfb8 23. Ra2 Rb4 24. h5 Bf8 25. Kg2 Qf6 26. Qf3 Qg5
+27. hxg6 fxg6 28. Rha1 Ra6 29. d6 Rxd6 30. Rxa5 h5 31. Nd5
+hxg4 32. Qe2 Rd4 33. Ra8 R6xd5 34. exd5 g3 35. R1a3 Rd2
+36. Qxd2 Qxd2 37. Rf3 gxf2 38. Raxf8+ Kg7 39. R8f7+ Kg8
+40. Rf8+ Kg7 41. R8f7+ 1/2-1/2

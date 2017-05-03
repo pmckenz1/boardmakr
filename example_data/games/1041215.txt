@@ -1,0 +1,22 @@
+[Event "Buenos Aires Argenti"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.19"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Rene Letelier Martner"]
+[Black "Erich Eliskases"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 dxc4 7.Bxc4
+c5 8.O-O a6 9.a3 Ba5 10.Qc2 Qe7 11.Be2 Nbd7 12.Bd2 cxd4
+13.Nxd4 Bxc3 14.Bxc3 Nd5 15.Bd2 e5 16.Nf5 Qf6 17.e4 N7b6
+18.Ne3 Nf4 19.Ba5 Bd7 20.Rfe1 Bb5 21.Bxb5 axb5 22.Bc3 Na4
+23.Nd5 Nxd5 24.exd5 Rfc8 25.Qb3 Nxc3 26.bxc3 Rc5 27.a4 Rxa4
+28.Rxa4 bxa4 29.Qxa4 g6 30.c4 b5 31.cxb5 Rxd5 32.Qa8+ Rd8
+33.Qa6 Rd6 34.Qc8+ Kg7 35.Qc3 Rd5 36.Qb2 Qb6 37.Rb1 h5 38.h3
+Kg8 39.Qe2 Kg7 40.Kh2 e4 41.Kg1 f5 42.Qe3 Rd6 43.h4 Qxe3
+44.fxe3 Rb6 45.Kf2 Kf6 46.Kg3 g5 47.Rb2 Kg6 1/2-1/2

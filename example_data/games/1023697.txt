@@ -1,0 +1,16 @@
+[Event "05, Moscow"]
+[Site "Moscow URS"]
+[Date "1991.11.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Vereslav Eingorn"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.Nf3 c5 2.c4 b6 3.g3 g6 4.Bg2 Bb7 5.d4 cxd4 6.Qxd4 Nf6 7.Nc3
+Bg7 8.O-O d6 9.Rd1 Nbd7 10.b3 O-O 11.Bb2 Rb8 12.Rac1 a6 13.Nd5
+b5 14.Nxf6+ Bxf6 15.Qd2 1/2-1/2

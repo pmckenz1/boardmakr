@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1907.09.05"]
+[EventDate "1907.??.??"]
+[Round "12"]
+[Result "1-0"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Georg Salwe"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nc3
+Bb4 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Ne2 Qd6
+12. c3 Bc5 13. Bf4 Qd7 14. Ng3 Re8 15. Qf3 Bd6 16. Rfe1 Bxf4
+17. Qxf4 Qd8 18. Qh4 Bd7 19. Rxe8+ Bxe8 20. Re1 g6 21. Re3 Bd7
+22. h3 Be6 23. Kh1 Ne8 24. Qh6 Qf6 25. f4 Ng7 26. f5 Bxf5
+27. Rf3 Qe6 28. Bxf5 gxf5 29. Qf4 Re8 30. b4 Qe1+ 31. Kh2 Qe5
+32. Qg5 f6 33. Qh6 Re7 34. a4 Qd6 35. Rf4 Qe5 36. Rf3 Re6
+37. Qd2 a6 38. Qh6 Qd6 39. Rf4 Re7 40. Rh4 Ne8 41. Rf4 Rg7
+42. Nxf5 Qc7 43. Nxg7 Nxg7 44. Qxf6 h5 45. g3 Kh7 46. Rf2 Qd7
+47. Re2 Qc8 48. Re7 Qg8 49. Rf7 a5 50. Qf5+ Kh8 51. Qg6 1-0

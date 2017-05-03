@@ -1,0 +1,29 @@
+[Event "Munich"]
+[Site "Munich GER"]
+[Date "1900.08.04"]
+[EventDate "1900.07.23"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Heinrich Wolf"]
+[Black "Amos Burn"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "165"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 exd4 5.O-O Be7 6.e5 Ne4
+7.Nxd4 O-O 8.Nf5 d5 9.Nxe7+ Nxe7 10.f3 Nc5 11.b4 Nd7 12.f4 Nb6
+13.Bb2 Nf5 14.Qe2 c6 15.Bd3 Na4 16.Bxf5 Qb6+ 17.Kh1 Bxf5
+18.Bc1 Qd4 19.c3 Nxc3 20.Nxc3 Qxc3 21.Bd2 Qd3 22.Qf2 Rfe8
+23.Rab1 Re6 24.Rb3 Qc2 25.Ra3 a6 26.Be3 Qxf2 27.Rxf2 Rae8
+28.Bd4 Rg6 29.Kg1 h5 30.h4 Rg4 31.g3 Re6 32.Rd2 Kh7 33.Kf2 Kg6
+34.Re3 Be4 35.a4 Kf5 36.a5 f6 37.exf6 gxf6 38.Rd1 Re8 39.Rc1
+Rg6 40.Kg1 Reg8 41.Rcc3 Re8 42.Rc1 Re6 43.Rce1 Re8 44.Rc1 Rg7
+45.Ra1 Rge7 46.Rae1 Re6 47.R1e2 Kg4 48.Re1 Kh3 49.R1e2 Rg8
+50.Rh2+ Kg4 51.Rhe2 Kf5 52.Re1 Kg6 53.Rf1 Bf5 54.Rxe6 Bxe6
+55.Re1 Kf7 56.Re3 Bf5 57.Kf2 Be4 58.Rc3 Ke6 59.Re3 Kf5 60.Re1
+Rc8 61.Rc1 Bd3 62.Re1 Be4 63.Rc1 Rg8 64.Rc3 Re8 65.Re3 Re6
+66.Re1 Kg6 67.Re3 Kf7 68.Re1 Ke8 69.Re3 Kd7 70.Ke2 f5 71.Kd2
+Re8 72.Kc3 Ke6 73.Re1 Rc8 74.Re3 Rd8 75.Re1 Kd7 76.Bb6 Rg8
+77.Re3 Ke6 78.Kd4 Rg7 79.Bc5 Rg8 80.Bb6 Ra8 81.Re1 Kd7 82.Re3
+Rg8 83.Bc5 1/2-1/2

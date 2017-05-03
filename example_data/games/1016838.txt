@@ -1,0 +1,18 @@
+[Event "Ch Hungary"]
+[Site "Hungary"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Jozsef Horvath"]
+[Black "Andras Adorjan"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c5 5.Bg2 Nc6 6.d5 Na5 7.Qc2 d6
+8.Nc3 a6 9.Nd2 Rb8 10.b3 b5 11.Bb2 O-O 12.O-O Bh6 13.f4 bxc4
+14.bxc4 e5 15.Rab1 exf4 16.gxf4 Re8 17.Nce4 Nxe4 18.Bxe4 Bxf4
+19.Nf3 Bh3 20.Rfe1 Qd7 21.Kh1 Bg4 22.Qc3 Bxf3+ 23.Bxf3 Be5
+24.Qxa5 Bxb2 25.Qxa6 Be5 26.Rxb8 Rxb8 0-1

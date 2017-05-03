@@ -1,0 +1,21 @@
+[Event "Bundesliga /96, Germany"]
+[Site "Bundesliga 1995/96, Germany"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Edin Pezerovic"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Bxd2
+b6 7. g3 Bb7 8. Bg2 d6 9. O-O Nbd7 10. b4 Qe7 11. Qc2 Rfd8
+12. Rfe1 Be4 13. Qb3 h6 14. Bc3 Nf8 15. Bf1 Ng6 16. Nd2 Bb7
+17. e4 e5 18. d5 Nd7 19. a4 a5 20. bxa5 Nc5 21. Qc2 bxa5
+22. Reb1 Ra7 23. Nb3 Nxb3 24. Rxb3 c5 25. Rab1 Bc8 26. Qd2 Bd7
+27. Bxa5 Rda8 28. Rb8+ Rxb8 29. Rxb8+ Kh7 30. Bd8 Qe8 31. a5
+f5 32. Qb2 fxe4 33. Qb6 Nf4 34. Qxa7 e3 35. fxe3 Bh3 36. Bf6
+1-0

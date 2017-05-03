@@ -1,0 +1,25 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.04.16"]
+[EventDate "1925.04.16"]
+[Round "1"]
+[Result "0-1"]
+[White "Carl Johan Margot Carls"]
+[Black "Ilya Leontievich Rabinovich"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.d4 c6 2.c4 d5 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4
+Bb4 8.O-O O-O 9.Qb3 Qe7 10.Ne5 c5 11.Ne2 Nc6 12.Nxc6 bxc6
+13.dxc5 Bxc5 14.Ng3 Bg6 15.Bd2 Rab8 16.Qa2 h5 17.Bc3 Bd6
+18.Rfd1 Nd5 19.Rd2 Nxc3 20.bxc3 Be5 21.Ne2 Qf6 22.Rc1 Bc7
+23.Bd3 Rfd8 24.Bxg6 Qxg6 25.g3 Rxd2 26.Qxd2 Rd8 27.Qb2 Bb6
+28.Qb4 Rd2 29.Nf4 Qf5 30.c4 Qa5 31.Qe7 Qf5 32.c5 Bd8 33.Qe8+
+Kh7 34.e4 Qf6 35.Qxc6 g5 36.Nh3 Qf3 37.Rf1 Kg7 38.Qb5 Qg4
+39.Qc4 e5 40.Kg2 Rd4 41.Qc2 Qxe4+ 42.Qxe4 Rxe4 43.Rd1 Rd4
+44.Rxd4 exd4 45.Kf1 Kf6 46.c6 Ke6 47.c7 Bxc7 48.Nxg5+ Kf5
+49.Nf3 Ke4 50.Nd2+ Kd3 51.Nb3 Kc4 52.Nd2+ Kc3 53.Ke2 Kc2
+54.Nc4 d3 55.Kf3 Bb6 56.Ke4 Bxf2 57.Na3+ Kb3 58.Nb1 Kb2 59.Nd2
+Kc2 0-1

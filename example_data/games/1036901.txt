@@ -1,0 +1,17 @@
+[Event "Bundesliga 1985/86"]
+[Site "Germany"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Bernhard Schneider"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Be3 a6 5.a4 Nc6 6.d5 Na7 7.Be2 c5
+8.h4 h5 9.Nf3 Bd7 10.Qd2 Qc7 11.Ng5 Rb8 12.O-O b5 13.axb5 axb5
+14.b4 cxb4 15.Rxa7 Qxc3 16.Rb1 Nh6 17.Rxb4 Ng4 18.Qxc3 Bxc3
+19.Rb3 b4 20.Nxf7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Bela Perenyi"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 c5 5. e4 d6 6. Be2 O-O
+7. O-O Na6 8. d5 e6 9. h3 Nc7 10. a4 Re8 11. e5 dxe5 12. d6
+Na6 13. Nxe5 Nd7 14. Nf3 b6 15. Bg5 f6 16. Be3 Bb7 17. Qd2 Nf8
+18. Nh2 e5 19. f4 f5 20. fxe5 Bxe5 21. Nb5 Ne6 22. Bf3 Qd7
+23. Bxb7 Qxb7 24. Nf3 Bf6 25. a5 Nb4 26. axb6 axb6 27. Ng5
+Rxa1 28. Rxa1 Nd4 29. Ra7 Qb8 30. Nxh7 Bg7 31. Bxd4 cxd4
+32. Qxb4 Kxh7 33. Qd2 Re6 34. Qg5 Qf8 35. d7 Rf6 36. Rc7 Qe7
+37. Qh4+ Kg8 38. Rc8+ 1-0

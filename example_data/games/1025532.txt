@@ -1,0 +1,20 @@
+[Event "Eupen"]
+[Site "05"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Reinhard Baumhus"]
+[Black "Yuri Balashov"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 d6 6.c3 Bd7 7.O-O
+Be7 8.d4 O-O 9.d5 Nb8 10.Bc2 c6 11.dxc6 bxc6 12.Rd1 Qc7
+13.Nbd2 a5 14.Nc4 Na6 15.b3 Be6 16.h3 h6 17.Be3 Nd7 18.Bc1
+Rfd8 19.Ne3 Nf6 20.Nf5 Bxf5 21.exf5 Nc5 22.c4 e4 23.Nd4 d5
+24.cxd5 cxd5 25.Be3 Rac8 26.a3 Ncd7 27.Rdc1 Qe5 28.Qd2 Bd6
+29.g3 Bc5 30.Bd1 h5 31.Rxc5 Nxc5 32.Qxa5 Nd3 33.Qd2 h4 34.g4
+Ne8 35.a4 Nd6 36.Be2 Rd7 37.a5 Nb5 38.f4 exf3 39.Bxd3 Nxd4 0-1

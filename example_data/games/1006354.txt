@@ -1,0 +1,16 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.05"]
+[EventDate "2000.03.03"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Evgeny Pigusov"]
+[Black "Valerij Filippov"]
+[ECO "A14"]
+[WhiteElo "2610"]
+[BlackElo "2584"]
+[PlyCount "27"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 dxc4
+7. Qa4 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7
+12. Qc2 Be4 13. Qc1 Bb7 14. Qc2 1/2-1/2

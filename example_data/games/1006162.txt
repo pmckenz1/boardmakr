@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Einar Kristinn Einarsson"]
+[Black "Bragi Thorfinnsson"]
+[ECO "A14"]
+[WhiteElo "2111"]
+[BlackElo "2260"]
+[PlyCount "54"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O c6 6. cxd5 exd5
+7. d4 O-O 8. Nc3 Nbd7 9. Bf4 Re8 10. Qc2 Nf8 11. Rad1 Ne6
+12. Bg5 b5 13. Bxf6 Bxf6 14. e4 b4 15. exd5 cxd5 16. Nxd5 Qxd5
+17. Ne1 Qd6 18. Bxa8 Nxd4 19. Nf3 Bh3 20. Nxd4 Bxf1 21. Nf5
+Qa6 22. Rxf1 Rxa8 23. Qb3 Qe6 24. Qf3 Rd8 25. b3 g6 26. Ne3
+Rd2 27. Rd1 Rxd1+ 1/2-1/2

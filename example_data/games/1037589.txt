@@ -1,0 +1,21 @@
+[Event "4, Montreal zt"]
+[Site "4, Montreal zt"]
+[Date "1981.05.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Bruce Harper"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 d6 2.e4 g6 3.Nc3 a6 4.a4 Bg7 5.Be3 Nc6 6.d5 Nb4 7.Bc4 a5
+8.Qd2 Nf6 9.h3 O-O 10.Nge2 Re8 11.Bb3 e6 12.Bg5 Qe7 13.O-O-O
+Qf8 14.Ng3 exd5 15.exd5 h6 16.Be3 Bd7 17.Rhe1 Na6 18.Bc4 Nc5
+19.Bb5 Bxb5 20.Nxb5 Nxa4 21.b3 Nb2 22.Nxc7 Nxd1 23.Nxe8 Nxe3+
+24.Nxf6+ Bxf6 25.Qxe3 a4 26.bxa4 Rxa4 27.Qe8 Ra1+ 28.Kd2 Bg5+
+29.Kd3 Rd1+ 30.Kc4 Rxe1 31.Qxe1 Qc8+ 32.Kd3 Qc5 33.c4 Bf6
+34.Qe3 Qb4 35.Qc1 Qb3+ 36.Ke2 b5 37.Ne4 Be5 38.Nd2 Qb4 39.cxb5
+Qxb5+ 40.Qc4 1/2-1/2

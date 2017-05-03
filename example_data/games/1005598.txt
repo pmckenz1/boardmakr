@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "7"]
+[Result "1-0"]
+[White "Alexander Bochkarev"]
+[Black "Nikolai Biriukov"]
+[ECO "B25"]
+[WhiteElo "2334"]
+[BlackElo "2255"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6
+7. Be3 Nge7 8. Nf3 Nd4 9. O-O O-O 10. Rb1 Nec6 11. Ne2 Qa5
+12. a3 Qa4 13. Nexd4 cxd4 14. Bf2 Bd7 15. c4 Qxd1 16. Rfxd1 a5
+17. b4 axb4 18. axb4 e5 19. b5 Nd8 20. Be1 f6 21. Ra1 Nf7
+22. Bb4 Rfc8 23. f5 Bf8 24. Ne1 Be7 25. h4 g5 26. Bf3 h6
+27. Bh5 Be8 28. Kf2 Nh8 29. Bxe8 Rxe8 30. Nc2 Nf7 31. Bd2 Rec8
+32. Nb4 Bd8 33. Nd5 Kg7 34. Kf3 Rcb8 35. Kg4 Rc8 36. Rdb1 Rcb8
+37. b6 Rxa1 38. Rxa1 Kg8 39. Ra7 Kf8 40. Ba5 Be7 41. Kh5 Nd8
+42. Kg6 1-0

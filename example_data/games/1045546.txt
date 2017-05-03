@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.02"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Lars Karlsson"]
+[Black "Lubomir Ftacnik"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. c4 c5 2. Nc3 Nf6 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7
+7. Re1 d5 8. cxd5 exd5 9. d4 O-O 10. Bg5 Na6 11. Rc1 h6
+12. Bxf6 Bxf6 13. e3 Re8 14. Qd2 Qe7 15. dxc5 Nxc5 16. Nd4 Ne4
+17. Nxe4 dxe4 18. Red1 Rad8 19. Qc3 Rd5 20. Bh3 Rc5 21. Qe1
+Rxc1 22. Nf5 Qb4 23. Rxc1 Qxe1+ 24. Rxe1 Rd8 25. b3 g6 26. Nh4
+Rd2 27. b4 Rxa2 28. Nxg6 a5 29. bxa5 bxa5 30. Nf4 a4 31. Bf1
+a3 32. Rc1 Rd2 33. Bc4 a2 34. Bxa2 Rxa2 35. Rc7 Ba6 0-1

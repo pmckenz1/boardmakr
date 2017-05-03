@@ -1,0 +1,22 @@
+[Event "Margate"]
+[Site "Margate ENG"]
+[Date "1939.04.21"]
+[EventDate "1939.04.12"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "George Shorrock Ashcombe Wheatcroft"]
+[Black "Philip Stuart Milner-Barry"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 O-O 6. Bg2
+Bxd2+ 7. Nbxd2 d6 8. O-O e5 9. e4 Nbd7 10. Qc2 Re8 11. d5 a5
+12. Ne1 Nc5 13. Nd3 Nfd7 14. f4 Nxd3 15. Qxd3 Nc5 16. Qc2 Bd7
+17. Rae1 f6 18. b3 Reb8 19. Nf3 b5 20. fxe5 fxe5 21. Re2 Rf8
+22. Ref2 b4 23. a3 bxa3 24. Ra1 Rfb8 25. Rxa3 a4 26. bxa4 Rxa4
+27. Rxa4 Bxa4 28. Qe2 Rb1+ 29. Bf1 Bd1 30. Qa2 Rb8 31. Nd2 Bh5
+32. Qa3 Bg6 33. Qf3 Rf8 34. Qxf8+ Qxf8 35. Rxf8+ Kxf8 36. Bg2
+Ke7 37. Kf2 Be8 38. Ke3 Ba4 39. Bf3 Bc2 40. Be2 Kf6 41. Bf3
+1/2-1/2

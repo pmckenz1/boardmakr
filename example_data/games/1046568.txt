@@ -1,0 +1,24 @@
+[Event "13, 32nd ol, Yerevan ARM"]
+[Site "Yerevan ARM"]
+[Date "1996.09.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Zbynek Hracek"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Bg4
+7. Be3 Nc6 8. d5 Bxf3 9. Bxf3 Ne5 10. Be2 c6 11. f4 Ned7
+12. dxc6 bxc6 13. Qd3 Qb8 14. a3 Nc5 15. Bxc5 dxc5 16. e5 Nd5
+17. Na4 f6 18. c4 Nb6 19. Nxc5 fxe5 20. Ne6 Rf6 21. f5 Qd6
+22. g4 gxf5 23. gxf5 Qxd3 24. Bxd3 e4 25. Bxe4 Nxc4 26. Bxc6
+Rb8 27. Rae1 Rxb2 28. Rf4 Nd2 29. Rg4 Rf7 30. Nxg7 Rxg7
+31. Rxg7+ Kxg7 32. Rxe7+ Kf6 33. Rxa7 h5 34. Rh7 Ra2 35. a4
+Kxf5 36. Rxh5+ Kg4 37. Rc5 Nf3+ 38. Kf1 Rxh2 39. Rc3 Ne5
+40. Bd5 Rd2 41. Bb7 Ra2 42. Rc5 Nd3 43. Ra5 Nb2 44. Bc6 Kf4
+45. Ra8 Ke5 46. Bb5 Kd6 47. a5 Na4 48. Bc4 Ra1+ 49. Ke2 Nb6
+50. Ra6 Kc5 51. Bd3 Nc4 1/2-1/2

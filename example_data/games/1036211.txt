@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1897.10.23"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hugo Faehndrich / Rudolf Charousek"]
+[Black "Schlechter / Marco"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bc5 6.d3 f6 7.Be3
+Bxe3 8.fxe3 Nh6 9.d4 Qe7 10.Qe2 b5 11.O-O Nf7 12.Qf2 Bb7
+13.Nh4 Nd6 14.Nf5 Nxf5 15.Qxf5 O-O 16.Rad1 Rad8 17.Ne2 c5
+18.d5 c4 19.Ng3 Rd6 20.Qg4 Bc8 21.Qe2 Rfd8 22.b3 c3 23.Qd3 b4
+24.Qc4 a5 25.Qc5 Kf8 26.a3 Ra6 27.Qxe7+ Kxe7 28.Ra1 g6 29.axb4
+axb4 30.Rxa6 Bxa6 31.Ra1 Bb5 32.Ra5 Rb8 33.Kf2 Kd6 34.Ra1 Kc5
+35.Ne2 Rd8 36.Rd1 c6 37.d6+ Bxe2 38.Kxe2 Rxd6 39.Rxd6 Kxd6
+40.Kd3 Kc5 41.g4 Kb5 0-1

@@ -1,0 +1,24 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.14"]
+[EventDate "1897.09.13"]
+[Round "2"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Wilhelm Cohn"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 {Notes by Blackburne.} e6 2. d4 d5 3. Nc3 dxe4
+{Recommended by Lasker.} 4. Nxe4 Nf6 5. Bd3 Nc6 6. c3 h6 {This
+would have been a good move if he had not intended to O-O-O.}
+7. Nf3 Bd6 8. Qe2 Qe7 9. h3 Bd7 10. Bd2 O-O-O 11. b4 Nxe4
+12. Bxe4 f5 13. Bc2 Qf6 14. b5 Ne7 15. Ne5 Ng6 16. Nxg6 Qxg6
+17. O-O Qf6 18. c4 {Hastening to attack.} Qxd4 {c5 was worth
+considering.} 19. Be3 Qh4 20. c5 Be5 21. c6 Bxa1 {Determined
+to have all he can get.} 22. cxd7+ Rxd7 23. Rxa1 g5 {Rightly
+seeing that the only chance lies in a counter attack.}
+24. Bxa7 g4 25. Qxe6 Qe7 26. Qxe7 Rxe7 27. Bxf5+ Kd8 28. Rd1+
+Ke8 29. Bg6+ Kf8 30. Bc5 1-0

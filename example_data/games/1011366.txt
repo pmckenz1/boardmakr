@@ -1,0 +1,21 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Mark Orr"]
+[Black "Neil Berry"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 f5 6. c4 Bg7
+7. Nc3 d6 8. e3 Nd7 9. Nh3 Nf6 10. f3 Bd7 11. Bd3 Rg8 12. O-O
+Bh6 13. f4 O-O-O 14. Qc2 e6 15. Kh1 Rg6 16. e4 Rdg8 17. Rf2
+fxe4 18. Nxe4 Nxe4 19. Bxe4 Rg4 20. Bxh7 Rh8 21. Ng5 Bxg5
+22. fxg5 Qd8 23. Rxf7 Qxg5 24. Raf1 Rh4 25. Rf8+ Rxf8
+26. Rxf8+ Kc7 27. Rf7 Qh5 28. Bg6 Rxh2+ 29. Kg1 Rh1+ 30. Kf2
+Qh4+ 31. Ke2 Qg4+ 32. Kf2 Qh4+ 33. Ke2 Qe1+ 34. Kd3 Rh4
+35. Rxd7+ Kxd7 36. Qa4+ Kc7 37. Be8 Rd4+ 38. Kc2 Qd1+ 0-1

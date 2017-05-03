@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "?"]
+[Date "1868.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Mrs. Clare & Mrs. Janssens"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e5 5.Bc4 Nf6 6.Qb3 Qe7
+7.Bg5 Nc6 8.Nd5 Qd6 9.O-O-O Nd4 10.Rxd4 exd4 11.e5 Qxe5 12.Nf3
+Qd6 13.Re1+ Kd8 14.Ne5 Qe6 15.Nxf6 Qf5 16.Nxf7+ Kc7 17.Ne8+
+Kb8 18.Qg3+ d6 19.Nexd6 Qc5 20.Nb5 Bd6 21.Nbxd6 1-0

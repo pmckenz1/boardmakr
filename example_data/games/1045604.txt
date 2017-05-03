@@ -1,0 +1,25 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Reynaldo Vera"]
+[Black "Lubomir Ftacnik"]
+[ECO "D01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O
+7. O-O c5 8. Re1 a6 9. Qd2 c4 10. Bf1 Ne4 11. Qc1 Nxg5
+12. Nxg5 b5 13. Nf3 Bb7 14. e4 dxe4 15. Nxe4 Qc7 16. a4 e5
+17. axb5 axb5 18. Rxa8 Rxa8 19. dxe5 Nxe5 20. Nxe5 Bxe5 21. h3
+Rd8 22. Nc3 b4 23. Nd1 Bh2+ 24. Kh1 Bf4 25. Ne3 c3 26. Kg1 Rd2
+27. Re2 Rxe2 28. Bxe2 Bxe3 29. fxe3 Qg3 30. Bf1 cxb2 31. Qxb2
+Qxe3+ 32. Kh2 Qf4+ 33. Kg1 Bd5 34. Qa1 Qe3+ 35. Kh2 Qf2
+36. Qe5 Be6 37. Bd3 Qd2 38. Qb8+ Kg7 39. Qe5+ Kh6 40. Qd6 Qc3
+41. Qf8+ Kg5 42. Qe7+ Kf4 43. Qh4+ Ke3 44. Qg3+ Kd2 45. Qf4+
+Kd1 46. Qe3 Ba2 47. Qf4 f5 48. Qe3 Bb1 49. Qf4 Qd2 50. Qd4 Kc1
+51. Qc5 Qc3 52. Qe7 b3 53. cxb3 Bxd3 54. Qxh7 Qe5+ 55. Kg1 f4
+0-1

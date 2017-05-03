@@ -1,0 +1,24 @@
+[Event "Reykjavik (Iceland)"]
+[Site "Reykjavik ISL"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Evgeni Vasiukov"]
+[Black "Eugenio Torre"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.Re1
+d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.Nbd2
+Bf8 14.Ng5 Re7 15.d5 Nb8 16.Nf1 h6 17.Nf3 c6 18.Ne3 Re8 19.Nh4
+Nxe4 20.Nef5 Nf6 21.dxc6 Nxc6 22.Ng6 d5 23.Nxf8 Kxf8 24.Qf3
+Re6 25.Be3 Na5 26.Qg3 Ne8 27.Bc5+ Kg8 28.Rxe5 Nxb3 29.Rxe6
+fxe6 30.Nxh6+ Kh7 31.Nf7 Qc8 32.Be7 Qd7 33.Qh4+ Kg8 34.Ne5 Qc7
+35.Re1 Nd2 36.Ng4 Ne4 37.f3 N4f6 38.Bxf6 Nxf6 39.Nxf6+ gxf6
+40.Qxf6 Rf8 41.Qxe6+ Qf7 42.Qg4+ Qg7 43.Qxg7+ Kxg7 44.Re7+ Rf7
+45.Rxf7+ Kxf7 46.Kf2 b4 47.Ke3 bxc3 48.bxc3 Ke6 49.h4 Bc6
+50.g4 Ba4 51.Kf4 Bd1 52.h5 Kf6 53.Kg3 Kg5 54.f4 Kf6 55.Kh4 Be2
+56.f5 d4 57.cxd4 Bc4 58.a3 a5 59.h6 Bg8 60.Kg3 1-0

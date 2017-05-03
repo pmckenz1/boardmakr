@@ -1,0 +1,24 @@
+[Event "6, it op Benasque ESP (10s)"]
+[Site "6, it op Benasque ESP Hiarcs 7.32 (10s)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ronald Bancod"]
+[Black "Fernando Braga"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 g6 6. Bg2 Bg7
+7. O-O Nge7 8. Re1 O-O 9. c3 Qc7 10. Qe2 dxe4 11. dxe4 b6
+12. e5 a5 13. a4 Ba6 14. Nc4 Rad8 15. b3 Rd7 16. Bf4 Nd5
+17. Bd2 Rb8 18. Bf1 Nde7 19. Qe4 Bxc4 20. Bxc4 Nxe5 21. Bf4
+Nxf3+ 22. Qxf3 Qb7 23. Re4 Rbd8 24. Rae1 Nd5 25. Bg5 Nxc3
+26. Bxd8 Nxe4 27. Bxb6 Ng5 28. Qxb7 Rxb7 29. Kg2 Rxb6 30. h4
+h6 31. hxg5 hxg5 32. g4 Rd6 33. Re2 Rd1 34. Rc2 Bd4 35. Re2
+Kg7 36. Kh2 e5 37. Ba6 f5 38. f3 Kf6 39. Bb7 Rd3 40. Kg2 Rxb3
+41. Bd5 Rb4 42. Rc2 Rxa4 43. Ra2 Rxa2+ 44. Bxa2 e4 45. fxe4
+fxe4 46. Bb3 Ke5 47. Kf1 Kf4 48. Be6 Ke3 49. Ke1 a4 50. Bc4 a3
+51. Kd1 Kf2 0-1

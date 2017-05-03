@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Pedro P Tidoy"]
+[Black "Jay R Bonin"]
+[ECO "B32"]
+[WhiteElo "2236"]
+[BlackElo "2358"]
+[PlyCount "62"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7
+7. N1c3 a6 8. Na3 Be6 9. Be3 Bg5 10. Bxg5 Qxg5 11. h4 Qd8
+12. Qd2 Nf6 13. O-O-O Qa5 14. Kb1 Rc8 15. Bd3 Nb4 16. Nd5 Bxd5
+17. exd5 O-O 18. Ka1 b5 19. Rc1 bxc4 20. Bxc4 Ne4 21. Qe3 Nc5
+22. Rhd1 Rc7 23. Nc2 Rfc8 24. Nxb4 Qxb4 25. a3 Qa4 26. Ka2 a5
+27. b3 Qd7 28. Be2 a4 29. bxa4 Nxa4 30. Rxc7 Qxc7 31. Rd2 Qc1
+0-1

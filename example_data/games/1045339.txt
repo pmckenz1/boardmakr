@@ -1,0 +1,21 @@
+[Event "Ch Czechoslovakia, Marianske Lazne (Czech Repub"]
+[Site "Marianske Lazne CSR"]
+[Date "1978.05.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Ivan Novak"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. e3 Nc6 6. Bc4
+Nb6 7. Bb5 Bd7 8. d4 cxd4 9. exd4 a6 10. Be2 e6 11. O-O Be7
+12. a3 O-O 13. Qd3 Nd5 14. Qe4 Bf6 15. Bd3 g6 16. Bh6 Re8
+17. Nxd5 exd5 18. Qf4 Re6 19. Rfe1 Qb8 20. Qxb8+ Rxb8 21. Be3
+Rc8 22. Rac1 Ree8 23. h3 Na5 24. Bg5 Rxc1 25. Rxc1 Bxg5
+26. Nxg5 Nc6 27. Nf3 Kg7 28. Rc5 Be6 29. Bxa6 Nxd4 30. Nxd4
+bxa6 31. b4 Kf6 32. Ra5 Bc8 33. Rxd5 Re1+ 34. Kh2 Bb7 35. Rd7
+Be4 36. Nb3 Re2 37. Kg3 g5 38. Nc5 1-0

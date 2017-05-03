@@ -1,0 +1,20 @@
+[Event "Katrineholm (Sweden)"]
+[Site "It"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Giovanni Portilho Vescovi"]
+[ECO "A26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.c4 d6 2.Nc3 e5 3.g3 g6 4.Bg2 Bg7 5.e4 Nc6 6.d3 h5 7.h3 h4
+8.g4 Be6 9.Nf3 Qd7 10.Bg5 f6 11.Bxh4 O-O-O 12.Nd5 Rf8 13.Bg3
+f5 14.Ng5 f4 15.Bh2 Nd4 16.f3 c6 17.Nc3 Bf6 18.Nxe6 Qxe6
+19.Bg1 Ne7 20.Qa4 Kb8 21.Kf1 Nc8 22.Ne2 Nb6 23.Qd1 d5 24.exd5
+cxd5 25.Nxd4 exd4 26.c5 Nd7 27.Qc2 Re8 28.Bf2 Bh4 29.Bxh4 Rxh4
+30.Rh2 Qe3 31.Bh1 Rh7 32.b4 Rhe7 33.Rf2 Ne5 34.Rd1 g5 35.Rdd2
+Nxg4 36.hxg4 Rh8 37.Kg1 Qe1+ 0-1

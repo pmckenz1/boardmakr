@@ -1,0 +1,19 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Gennady Shmallko"]
+[Black "Dmitri Rumiantsev"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Bb4+ 6. Nbd2 Ne7
+7. c3 Ba5 8. O-O Nd7 9. a4 Bc7 10. Nh4 O-O 11. g4 Bg6 12. f4
+f6 13. f5 Bf7 14. exf6 Nxf6 15. g5 Qd6 16. Rf2 Ne8 17. fxe6
+Bxe6 18. Rxf8+ Kxf8 19. Nf1 Kg8 20. Bg4 Qd7 21. Bf3 Nd6
+22. Qe2 Nef5 23. Ng2 Rf8 24. Bd2 Qf7 25. Re1 Bd7 26. Bh5 g6
+27. Bg4 Nxd4 28. cxd4 Bxg4 29. Qxg4 Qf2+ 0-1

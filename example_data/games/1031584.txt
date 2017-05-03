@@ -1,0 +1,19 @@
+[Event "New York op (05)"]
+[Site "New York op (05)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "N Nur"]
+[Black "Jay R Bonin"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3
+Be6 8.Nd5 Rc8 9.c3 Nb8 10.Be3 Nd7 11.Nc4 Bxd5 12.Qxd5 Qc7
+13.O-O-O Ngf6 14.Nxd6+ Bxd6 15.Qxd6 Qxd6 16.Rxd6 Ke7 17.Rd1
+Nxe4 18.Bd3 Nd6 19.f3 h6 20.Rhe1 Rhd8 21.Bf2 f5 22.Bg3 Ke6
+23.Rd2 g5 24.Red1 f4 25.Bf2 Nf6 26.g3 Nd5 27.Be4 Nf6 28.Bd3
+Nd5 1/2-1/2

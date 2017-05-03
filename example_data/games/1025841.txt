@@ -1,0 +1,25 @@
+[Event "Ch Hungary (team)"]
+[Site "Hungary"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Peter Szekely"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.g3 b6 7.Bg2
+Bb7 8.O-O O-O 9.Nbd2 d6 10.Qb3 a5 11.Rfe1 Qc7 12.e4 e5 13.Rad1
+Nbd7 14.Qe3 Rfe8 15.h3 Nf8 16.d5 Qc5 17.Qe2 Qc7 18.Nh4 Bc8
+19.Kh2 Qd8 20.Nf5 Bxf5 21.exf5 Ra7 22.Be4 N8d7 23.g4 Nc5 24.f3
+h6 25.Kg3 g5 26.Rh1 Kf8 27.h4 Ke7 28.hxg5 hxg5 29.Qe3 Rg8
+30.a3 Ra8 31.Rh6 Qf8 32.Rdh1 Qg7 33.Kg2 Rac8 34.R6h3 Rgd8
+35.Bc2 bxa3 36.Qxa3 Rh8 37.b4 Rxh3 38.Rxh3 axb4 39.Qxb4 Ncd7
+40.Ba4 Rh8 41.Rxh8 Qxh8 42.Bxd7 Nxd7 43.Ne4 Qb8 44.Nxg5 Nc5
+45.Ne4 Nxe4 46.fxe4 f6 47.Qa4 Qc7 48.Qc6 Qa7 49.Qc8 Kf7
+50.Qe6+ Kg7 51.Qe8 Qa2+ 52.Kg3 Qd2 53.Qg6+ Kf8 54.Qxf6+ Kg8
+55.Qg6+ Kh8 56.Kh4 b5 57.Qe8+ Kh7 58.Qe7+ Kg8 59.Kh5 Qf4 60.f6
+1-0

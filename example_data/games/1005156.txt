@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Christoph Serrer"]
+[Black "Gyorgy Jamrich"]
+[ECO "A04"]
+[WhiteElo "2285"]
+[BlackElo "2270"]
+[PlyCount "58"]
+
+1. Nf3 c5 2. c4 Nf6 3. g3 d5 4. Bg2 d4 5. b4 cxb4 6. a3 bxa3
+7. Bxa3 Nc6 8. d3 e5 9. Bxf8 Kxf8 10. O-O g6 11. Nbd2 Kg7
+12. Qa4 Re8 13. Ng5 Bd7 14. Rfb1 Qc7 15. Qa3 Nd8 16. Nge4 Nxe4
+17. Nxe4 Bc6 18. Qd6 Qxd6 19. Nxd6 Re7 20. Ra2 f5 21. Nb5 Bxg2
+22. Kxg2 a6 23. Nd6 Rd7 24. Rb6 a5 25. c5 Kf8 26. Nc4 Rd5
+27. Rxa5 Rxa5 28. Nxa5 Rxc5 29. Nxb7 Nxb7 1/2-1/2

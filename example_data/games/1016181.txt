@@ -1,0 +1,21 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.03"]
+[EventDate "?"]
+[Round "15"]
+[Result "0-1"]
+[White "Krunoslav Hulak"]
+[Black "Andras Adorjan"]
+[ECO "B82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f4 a6 7.Bd3
+Nbd7 8.g4 h6 9.Qf3 e5 10.Nf5 g6 11.Ne3 exf4 12.Qxf4 Ne5 13.h3
+Be6 14.Bd2 Rc8 15.Be2 Bg7 16.Ncd5 Bxd5 17.exd5 O-O 18.O-O-O
+Re8 19.Rhe1 Re7 20.Kb1 Qe8 21.Bf1 Nfd7 22.Re2 Nb6 23.Qb4 Na4
+24.Rf2 b5 25.c3 Nd7 26.Nc2 Ndc5 27.Rf3 Re5 28.Bf4 Re4 29.Qa5
+Nxb2 30.Kxb2 Na4+ 31.Kc1 Nxc3 32.Qxa6 Ra8 33.Qc6 Nxa2+ 34.Kd2
+Qd8 35.Qxb5 Rb8 36.Qa6 Qc7 37.Qxa2 Rxf4 38.Rxf4 Qc3+ 39.Kc1
+Rb2 40.Qa4 Rb1+ 0-1

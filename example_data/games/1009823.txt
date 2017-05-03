@@ -1,0 +1,29 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Christopher Morrison"]
+[Black "Theos Rippis"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "152"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6
+7. Nf3 Nge7 8. O-O O-O 9. Be3 Nd4 10. e5 dxe5 11. fxe5 Nef5
+12. Bf2 Rb8 13. Ne4 b6 14. Nxd4 Nxd4 15. Nf6+ Bxf6 16. exf6
+Qxf6 17. c3 Nf5 18. g4 Nd6 19. Bxc5 Qd8 20. Be3 f6 21. Qf3 Bb7
+22. Qg3 Bxg2 23. Qxg2 Rb7 24. g5 Rd7 25. gxf6 Nf5 26. Bg5 Rff7
+27. d4 Qf8 28. Rae1 h6 29. Rxe6 hxg5 30. Qxg5 Nh6 31. Qxg6+
+Kh8 32. Rf4 Qg8 33. Qxg8+ Kxg8 34. c4 Rf8 35. d5 Kf7 36. b4
+Rg8+ 37. Kf2 Ng4+ 38. Ke2 Nh6 39. h3 Rg6 40. Kd3 Ng8 41. Kd4
+Rxf6 42. Rexf6+ Nxf6 43. Ke5 Re7+ 44. Kd6 Rd7+ 45. Kc6 Rd8
+46. d6 Ke6 47. c5 bxc5 48. bxc5 Rc8+ 49. Kb5 a6+ 50. Kc4 Nd7
+51. Re4+ Kf6 52. Re7 Nxc5 53. Rc7 Ne4 54. Kd5 Nxd6 55. Kxd6
+Rh8 56. Rc3 Kg6 57. Ra3 Kf6 58. Rf3+ Kg6 59. Ra3 Kf6 60. Rxa6
+Rxh3 61. a4 Rd3+ 62. Kc7+ Ke7 63. Rc6 Rd7+ 64. Kb8 Rd4 65. a5
+Kd7 66. Rb6 Rc4 67. Rb7+ Kd8 68. Rb1 Rc8+ 69. Kb7 Rc7+ 70. Kb6
+Kc8 71. a6 Kb8 72. Rh1 Rc8 73. Rh7 Rg8 74. Rh6 Rf8 75. Re6 Rh8
+76. Rf6 Rg8 1/2-1/2

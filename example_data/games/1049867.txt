@@ -1,0 +1,18 @@
+[Event "Leningrad ch-SU"]
+[Site "Leningrad ch-SU"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Karen Ashotovich Grigorian"]
+[Black "Efim Geller"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bh4 b6
+8.Qb3 Bb7 9.Bxf6 Bxf6 10.cxd5 exd5 11.Rd1 Re8 12.Bd3 Nc6
+13.O-O Na5 14.Qc2 c5 15.dxc5 bxc5 16.Na4 c4 17.Be2 Rb8 18.Nd4
+Nc6 19.Nxc6 Bxc6 20.Bxc4 Qa5 21.Bb3 Bxa4 22.Bxa4 Rec8 23.Bc6
+Qa6 24.Rc1 Bxb2 0-1

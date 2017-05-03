@@ -1,0 +1,25 @@
+[Event "Hastings 1936/37"]
+[Site "Hastings (ENG)"]
+[Date "1936.12.31"]
+[EventDate "1936.12.28"]
+[Round "4"]
+[Result "1-0"]
+[White "Theodore Tylor"]
+[Black "Movsa Feigin"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "123"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 Nc6 4.O-O Nf6 5.Nc3 d5 6.exd5 Nxd5
+7.Re1 Be7 8.Bf1 O-O 9.g3 Nc7 10.Bg2 f6 11.Qe2 e5 12.Nb5 Ne6
+13.c3 a6 14.Na3 Rb8 15.Nc2 Re8 16.d4 cxd4 17.cxd4 exd4 18.Bh3
+Ng5 19.Nxg5 fxg5 20.Qc4+ Kh8 21.Bg2 Bf6 22.Bd2 Bd7 23.Rxe8+
+Qxe8 24.Re1 Qh5 25.Qc5 d3 26.Ne3 Rd8 27.Nd5 Bd4 28.Qc1 Qf7
+29.Be3 Bg4 30.Bxd4 Nxd4 31.Qxg5 Rf8 32.Qd2 Bf3 33.Nf4 Ne2+
+34.Nxe2 Bxe2 35.Rxe2 dxe2 36.Qxe2 Re8 37.Qd2 Qe7 38.Qc2 Qe2
+39.Qb3 b5 40.Qf7 Qe6 41.Qh5 Rf8 42.Qc5 Qf5 43.Qd4 Qb1+ 44.Bf1
+Qxa2 45.Bd3 Qe6 46.Kg2 Qf6 47.Qc5 g6 48.b4 Rd8 49.Be4 Qd6
+50.Qg5 Qd4 51.Kh3 Re8 52.f3 Kg7 53.Qc1 Rd8 54.g4 Qe5 55.Bb7 h5
+56.g5 Qe6+ 57.Kg2 Qc4 58.Qe3 Qc2+ 59.Kh3 Rf8 60.Qe5+ Kh7
+61.Qe7+ Rf7 62.Qxf7+ 1-0

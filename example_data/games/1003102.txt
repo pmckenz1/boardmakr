@@ -1,0 +1,25 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.15"]
+[EventDate "1905.08.14"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Hans Fahrni"]
+[Black "Augustin Neumann"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. Nc3 Bd6 5. e4 dxe4 6. Nxe4 Bc7
+7. Bd3 Nd7 8. O-O Ne7 9. Bg5 f6 10. Bd2 a5 11. Re1 e5 12. Nh4
+O-O 13. Ng3 Rf7 14. Bc3 exd4 15. Bxd4 Nf8 16. Bc3 Be6 17. Qc2
+g5 18. Nf3 Bxg3 19. hxg3 c5 20. Rad1 Qb6 21. Qd2 Neg6 22. b3
+Bg4 23. Be4 Be6 24. Qb2 g4 25. Nd2 f5 26. Bd5 Rd8 27. Nf1 Bxd5
+28. cxd5 f4 29. gxf4 Nxf4 30. Ne3 Qg6 31. Qc2 Qg5 32. Qe4 g3
+33. f3 Nd7 34. Nf1 b6 35. Bd2 Nf8 36. Bxf4 Rxf4 37. Qe5 Rf5
+38. Qxg3 Qxg3 39. Nxg3 Rfxd5 40. Rxd5 Rxd5 41. Re7 Rd7
+42. Rxd7 Nxd7 43. Kf2 Kf7 44. Ne4 h6 45. Ke3 Ke6 46. a4 h5
+47. g3 Ne5 48. Nd2 Kd5 49. f4 Nc6 50. Nc4 Nd4 51. Nxb6+ Ke6
+52. Nc4 Nxb3 53. Ke4 Nd4 54. Nb6 Nf5 55. Kf3 Nd6 56. Ke3 Nf5+
+57. Kf2 Nd6 58. Kf3 c4 59. Ke3 Nf5+ 1/2-1/2

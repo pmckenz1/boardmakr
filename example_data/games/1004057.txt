@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1928.09.29"]
+[EventDate "1928.09.21"]
+[Round "7"]
+[Result "1-0"]
+[White "Kornel Havasi"]
+[Black "Endre Steiner"]
+[ECO "D39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 b5
+7. a4 c6 8. e5 h6 9. exf6 hxg5 10. fxg7 Rg8 11. g3 Qa5 12. Qc2
+Rxg7 13. Bg2 Bxc3+ 14. bxc3 b4 15. Ne5 b3 16. Nxc4 Qxa4
+17. Nd6+ Kd7 18. Qb2 Qxa1+ 19. Qxa1 Kxd6 20. Qa3+ Kc7 21. Qf8
+b2 22. Be4 1-0

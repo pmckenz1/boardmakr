@@ -1,0 +1,24 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.05"]
+[EventDate "1911.08.21"]
+[Round "12"]
+[Result "0-1"]
+[White "Julius Perlis"]
+[Black "Fyodor Ivanovich Dus Chotimirsky"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d3 O-O 11.Nbd2 Qc7 12.Nf1 Be6 13.h3
+Rfb8 14.Ng5 b4 15.Nxe6 fxe6 16.f4 exf4 17.Bxf4 e5 18.Bg5 Nd5
+19.Bxe7 Nxe7 20.Ne3 Rf8 21.Qd2 bxc3 22.bxc3 Rf4 23.Rf1 Raf8
+24.Rxf4 exf4 25.Nd5 Nxd5 26.exd5 Qf7 27.c4 Qf6 28.Rf1 Qd4+
+29.Rf2 Nb7 30.Bd1 Nd8 31.Kh2 Qf6 32.Bg4 Qg5 33.d4 cxd4 34.Qxd4
+h5 35.Bf3 Nf7 36.c5 dxc5 37.Qxc5 Ne5 38.Qd4 Rc8 39.Qd1 Rc3
+40.Kg1 Rd3 41.Qf1 Qg3 42.Bxh5 Re3 43.Bf3 Re1 44.Qxe1 Nxf3+
+45.Rxf3 Qxe1+ 46.Kh2 Qd2 47.a3 Qxd5 48.Kg1 g5 49.Kh2 Kg7
+50.Kg1 Kg6 51.Kh2 a5 52.Kg1 Kf5 53.Kf2 Ke4 54.Ke2 Qa2+ 55.Kf1
+Qb1+ 56.Kf2 Qd1 0-1

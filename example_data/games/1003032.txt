@@ -1,0 +1,20 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.22"]
+[EventDate "1905.08.14"]
+[Round "8"]
+[Result "0-1"]
+[White "Paul Saladin Leonhardt"]
+[Black "Amos Burn"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3
+Be7 7. Nxf6+ Bxf6 8. Bxf6 Qxf6 9. Bd3 O-O 10. O-O e5 11. c3
+exd4 12. cxd4 c6 13. Qc2 h6 14. Rae1 Nb6 15. Ne5 Be6 16. f4
+Rfd8 17. f5 Bd5 18. Re3 Rd6 19. Rg3 Nd7 20. Qe2 Bxa2 21. Rf4
+Kh8 22. Ng4 Qd8 23. f6 Nxf6 24. Nxf6 Rxf6 25. Qe4 Rg6 26. Rxg6
+fxg6 27. Qxg6 Bg8 28. Rg4 Qe7 29. Re4 Qb4 30. Rg4 Qe1+ 31. Bf1
+Qe3+ 32. Kh1 Qe7 33. Re4 Rf8 34. Bd3 Qb4 0-1

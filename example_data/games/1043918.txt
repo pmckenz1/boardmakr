@@ -1,0 +1,22 @@
+[Event "New York USA ch, USA"]
+[Site "New York USA ch USA"]
+[Date "1944.04.30"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Solomon Weinstock"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3
+O-O 7. Nge2 c5 8. a3 Bxc3+ 9. bxc3 Nc6 10. O-O Qa5 11. Qd3 Rd8
+12. Rb1 Ne5 13. Qe3 Nxf3+ 14. Qxf3 cxd4 15. cxd4 Qh5 16. Qe3
+b6 17. Bd2 Ba6 18. Nf4 Qf5 19. Rfc1 Rac8 20. c3 Ne4 21. Be1
+Nd6 22. Qg3 Nc4 23. h4 e5 24. dxe5 Nxe5 25. f3 Nd3 26. Nxd3
+Bxd3 27. Rb4 Rc4 28. Rd1 Rdc8 29. Qd6 Qc5+ 30. Qxc5 bxc5
+31. Rb7 Bg6 32. Rxa7 Rf4 33. a4 Bc2 34. Ra1 h6 35. a5 Rf6
+36. Bf2 Bd3 37. a6 Kh7 38. Ra4 Rcc6 39. c4 Bc2 40. Ra3 Bg6
+41. Ra8 1-0

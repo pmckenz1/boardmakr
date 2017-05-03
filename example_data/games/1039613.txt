@@ -1,0 +1,16 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "1995.08.02"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Lucas Brunner"]
+[Black "Alexey Dreev"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Nf3 Be6 7.c5
+a6 8.h3 Bf5 9.Be2 g6 10.O-O Bg7 11.Bf4 O-O 12.Ne5 Nd7 13.Nxd5
+Ndxe5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Vladimir Kozlov"]
+[Black "Alexander Lastin"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. f4 Be7 8. O-O O-O 9. Be3 Nc6 10. Kh1 Qc7 11. a4 Re8 12. Bf3
+Rb8 13. g4 Nxd4 14. Bxd4 e5 15. fxe5 dxe5 16. Ba7 Ra8 17. g5
+Rd8 18. Qe2 Ne8 19. Be3 Be6 20. Qf2 Qc4 21. Nd5 Bxd5 22. b3
+Qc3 23. exd5 Nd6 24. Rac1 b5 25. Bd2 Qb2 26. c4 e4 27. Bg2
+Qxb3 28. c5 Qxd5 29. cxd6 Bxd6 30. Bf4 Bb4 31. Qb2 Ba5 32. Be5
+bxa4 33. Bxg7 Rab8 34. Qa1 Bd2 35. Rcd1 Qe6 1-0

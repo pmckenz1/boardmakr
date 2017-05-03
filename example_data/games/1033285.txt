@@ -1,0 +1,22 @@
+[Event "cat.8, it Reggio Emilia (ITA)"]
+[Site "cat.8, it Reggio Emilia (ITA) Hiarcs 7.32"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Federico Manca"]
+[Black "Fernando Braga"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. c3 d5
+7. exd5 Nxd5 8. b4 Bf6 9. Bb3 Re8 10. a3 Nce7 11. Re1 Ng6
+12. d4 c6 13. dxe5 Nxe5 14. Nxe5 Rxe5 15. Ra2 Bg4 16. f3 Rxe1+
+17. Qxe1 Bf5 18. Bc2 Be6 19. Bb3 Bf5 20. Bc2 Qd7 21. Bxf5 Qxf5
+22. Re2 h5 23. Re4 Nc7 24. Be3 Ne6 25. Bf2 Qd5 26. Re2 a5
+27. Rd2 Qb3 28. Rd7 Rd8 29. Rxd8+ Bxd8 30. bxa5 Bxa5 31. g3
+Qc2 32. Kg2 Bb6 33. Nd2 Bxf2 34. Qxf2 Qxc3 35. a4 Qa3 36. f4
+Qxa4 37. f5 Ng5 38. h4 Ne4 39. Qf4 Qc2 40. Qxe4 Qxd2+ 41. Kh3
+Qd5 42. Qb1 c5 43. Kh2 c4 44. Qb4 b5 0-1

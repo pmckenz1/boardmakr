@@ -1,0 +1,24 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Miroslav Grabarczyk"]
+[Black "Piotr Staniszewski"]
+[ECO "E19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O
+7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 f5 10. b3 Bf6 11. Bb2 d6
+12. Ne1 Bxg2 13. Nxg2 Nc6 14. Qd2 Bg5 15. e3 d5 16. Rac1 Qd7
+17. Rc3 Nd8 18. Rfc1 c6 19. Ne1 Be7 20. Nd3 Bd6 21. R3c2 Nf7
+22. cxd5 cxd5 23. Ne5 Bxe5 24. dxe5 Rfc8 25. Qe2 Ng5 26. Bd4
+Rxc2 27. Qxc2 Qf7 28. Qe2 h6 29. Kg2 Nh7 30. Rc6 Re8 31. a4 g5
+32. b4 g4 33. h4 gxh3+ 34. Kh2 Ng5 35. a5 bxa5 36. bxa5 Kh8
+37. a6 Rg8 38. Rc1 Ne4 39. Rg1 Rg7 40. Kxh3 Kh7 41. Kg2 Qg6
+42. Qf3 Rc7 43. Rb1 Nd2 44. Rb7 Rxb7 45. axb7 Nxf3 46. b8=Q
+Qg4 47. Qxa7+ Kg6 48. Qe7 Ng5 49. Qe8+ Kg7 50. Qe7+ Kg6
+51. Qe8+ 1/2-1/2

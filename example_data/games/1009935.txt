@@ -1,0 +1,24 @@
+[Event "Ch World FIDE, Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Vlastimil Babula"]
+[Black "Tal Shaked"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+
+7. bxc3 d6 8. e4 e5 9. d5 Ne7 10. Nd2 Ng6 11. g3 Bh3 12. Rb1
+Qd7 13. f3 O-O-O 14. Nf1 Rdf8 15. Ne3 Ne7 16. Rg1 h5 17. Qe2
+Ne8 18. Nd1 f5 19. Nf2 fxe4 20. Nxe4 Bf5 21. Ng5 Bxd3 22. Qxd3
+Qf5 23. Qxf5+ Rxf5 24. Ke2 h4 25. g4 Rf6 26. Ne6 Ng6 27. Rf1
+Rg8 28. f4 exf4 29. Bxf4 Nxf4+ 30. Nxf4 Nc7 31. Nh5 Rxf1
+32. Rxf1 b5 33. cxb5 Nxd5 34. Kd3 g6 35. Nf6 Rf8 36. g5 Kb7
+37. a4 a6 38. c4 Nb4+ 39. Kc3 axb5 40. axb5 d5 41. Re1 d4+
+42. Kb3 Rf7 43. Re6 Nd3 44. Kc2 Nf4 45. Re5 Kb6 46. Re4 Nh3
+47. Re6+ Ka7 48. Ne4 Nxg5 49. Nxg5 Rf2+ 50. Kb3 Rxh2 51. Ne4
+Rh3+ 52. Ka4 1-0

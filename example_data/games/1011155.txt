@@ -1,0 +1,18 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Petronio Roca"]
+[Black "Arlan F Cabe"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 d5 6. e5 Ng8
+7. O-O Nc6 8. Nxc6 bxc6 9. Qe2 h5 10. c4 g6 11. Nc3 Nh6
+12. cxd5 exd5 13. e6 Bxe6 14. Bxg6 Qf6 15. Bxh5 Kd7 16. g3 Bd6
+17. Qa6 Rac8 18. Qxa7+ Rc7 19. Qa4 Nf5 20. Bg4 Rxh2 21. Nxd5
+Bxd5 22. Kxh2 Qh4+ 23. Bh3 Bxg3+ 24. Kg1 Qxh3 0-1

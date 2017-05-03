@@ -1,0 +1,20 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Markus Bawart"]
+[Black "Klaus Neumeier"]
+[ECO "B78"]
+[WhiteElo "2330"]
+[BlackElo "2245"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5
+12. Kb1 Nc4 13. Bxc4 Rxc4 14. g4 b5 15. b3 Rc8 16. Ndxb5 Qa5
+17. a4 a6 18. Nd5 Qxd2 19. Nxe7+ Kh8 20. Rxd2 Rce8 21. Nxd6
+Rxe7 22. Bc5 Re5 23. Ba3 Be6 24. Nb7 Rc8 25. Rd8+ Ne8 26. Rxc8
+Bxc8 27. Nd8 Kg8 28. Nc6 f5 29. Nxe5 Bxe5 30. exf5 gxf5
+31. Re1 1-0

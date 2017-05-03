@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Charles H Storey"]
+[Black "Angus Dunnington"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Bf5 6. Nf3 Qb6
+7. Qd2 e6 8. dxc5 Bxc5 9. Bxc5 Qxc5 10. b4 Qb6 11. Na3 Nge7
+12. Nb5 O-O 13. Nbd4 Be4 14. b5 Nxd4 15. Nxd4 f6 16. exf6 Rxf6
+17. f3 Bg6 18. a4 e5 19. a5 Qd6 20. Nb3 e4 21. Be2 exf3
+22. Bxf3 Qe5+ 23. Kf2 Be4 24. Qd4 Qf4 25. Ra4 Qh4+ 26. Ke2 Rf4
+27. Kd2 Nf5 28. Qg1 Qh6 29. Ke1 Bxf3 30. Rxf4 Re8+ 31. Kf2
+Qxf4 32. gxf3 Qh4+ 0-1

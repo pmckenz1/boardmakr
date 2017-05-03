@@ -1,0 +1,19 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.13"]
+[EventDate "1922.??.??"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Heinrich Wolf"]
+[Black "Paul F Johner"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 Qc7 5. Bg2 b5 6. O-O Bb7
+7. d3 d6 8. Ng5 h6 9. Nh3 Be7 10. f4 Bf6 11. f5 b4 12. Ne2
+exf5 13. Rxf5 Nd7 14. c3 Ne7 15. Rf1 bxc3 16. bxc3 O-O 17. Rb1
+d5 18. Bf4 Be5 19. Bxe5 Nxe5 20. Qb3 Rab8 21. Qb6 Qxb6
+22. Rxb6 Bc6 23. Rfb1 Rxb6 24. Rxb6 Bb5 25. exd5 Nxd3 26. Nhf4
+Rd8 27. a4 Nxf4 28. Nxf4 Bc4 29. d6 Nf5 30. Rc6 1/2-1/2

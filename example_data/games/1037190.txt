@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Daniel Josenhans"]
+[Black "Nigel Rodney Davies"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O O-O 9.Nb3 a6 10.Kb1 b5 11.Bxf6 Bxf6 12.Qxd6 Qb6
+13.Be2 Rb8 14.Qc5 Qc7 15.f4 Bd7 16.e5 Be7 17.Qe3 Rfd8 18.Rd2
+Be8 19.Rhd1 Rdc8 20.Ne4 Nb4 21.Nd6 Rd8 22.Bf3 1/2-1/2

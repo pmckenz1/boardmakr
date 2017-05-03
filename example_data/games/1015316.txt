@@ -1,0 +1,23 @@
+[Event "It (open), XI-XII"]
+[Site "Makati City (Philippines)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Petronio Roca"]
+[ECO "E88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6
+8.Qd2 cxd5 9.cxd5 a6 10.Bd3 Nbd7 11.Nge2 b5 12.O-O Nb6 13.Rac1
+Bb7 14.b3 Nfd7 15.g4 Rc8 16.Ng3 Nc5 17.Bb1 b4 18.Nce2 a5
+19.Kg2 Ba6 20.h4 Qd7 21.h5 Rfe8 22.Rh1 f6 23.hxg6 hxg6 24.Rh2
+Kf7 25.Rch1 Rh8 26.g5 Rxh2+ 27.Rxh2 Rh8 28.Rxh8 Bxh8 29.f4 Qg4
+30.fxe5 fxe5 31.Ng1 Kg8 32.Bc2 Qd7 33.Nh3 Qg4 34.Qe1 Na8
+35.Nf2 Qc8 36.Bd1 Nd3 37.Nxd3 Bxd3 38.a3 bxa3 39.Qxa5 Nc7
+40.Qxa3 Nb5 41.Qc1 Qxc1 42.Bxc1 Nc3 43.Bf3 Bg7 44.Bd2 Nb5
+45.Be2 Bxe2 46.Nxe2 Kf7 47.Kf3 Ke7 48.Ke3 Kd7 49.Kd3 Bf8
+50.Kc4 Nc7 51.Ng1 Na6 52.b4 1-0

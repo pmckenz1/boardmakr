@@ -1,0 +1,27 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Alfred Moewig"]
+[Black "R K Kieseritsky"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. Nf3 e6 8. Ne5 Bh7 9. Be3 Bd6 10. f4 Nf6 11. Bd3 Nbd7
+12. Bxh7 Nxh7 13. Qg4 Qa5+ 14. Bd2 Qd5 15. Qxg7 Bxe5 16. fxe5
+O-O-O 17. Ne2 Rdg8 18. Qxh6 Ng5 19. hxg5 Rxh6 20. gxh6 Nf8
+21. O-O-O Qxa2 22. Nc3 Qc4 23. h7 Nxh7 24. Rxh7 b5 25. Rxf7 b4
+26. Ne4 Qa2 27. Bxb4 Qa1+ 28. Kd2 Rxg2+ 29. Rf2 Rxf2+ 30. Nxf2
+Qxb2 31. Bc3 Qb5 32. Ne4 Qd5 33. Nd6+ Kc7 34. Rb1 c5 35. Ke3
+Kc6 36. Rb5 cxd4+ 37. Bxd4 Qh1 38. Rc5+ Kd7 39. Kd2 a6 40. Rc4
+Qf3 41. Kc1 Qa3+ 42. Kb1 Qf3 43. Ka2 Qh3 44. Bc3 Qg2 45. Kb2
+Qh2 46. Bd4 Qe2 47. Kb3 Qd1 48. Ka4 Qb1 49. Ka5 Qa2+ 50. Kb6
+Ke7 51. c3 a5 52. Kb5 Kd7 53. Ra4 Qd5+ 54. Kb6 Qc6+ 55. Kxa5
+Qc7+ 56. Kb4 Qb8+ 57. Kc5 Qc7+ 58. Kb4 Qb8+ 59. Kc5 Qc7+
+60. Kb4 Qb8+ 61. Kc4 Qb1 62. Ra7+ Kc6 63. Ra6+ Kd7 64. Nb5 Qf5
+65. Ra7+ Ke8 66. Nd6+ 1-0

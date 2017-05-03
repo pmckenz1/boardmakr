@@ -1,0 +1,17 @@
+[Event "It, Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1983.01.26"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Zoltan Ribli"]
+[Black "Ulf Andersson"]
+[ECO "A35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.c4 Nf6 2.Nf3 c5 3.Nc3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 g6 7.d4
+Bg7 8.O-O cxd4 9.Nxd4 Nxc3 10.bxc3 Nxd4 11.cxd4 Qxd4 12.Rb1
+O-O 13.Be3 Qc4 14.Qd2 Be6 15.Rxb7 Rad8 16.Qa5 Qxe2 17.Rxe7
+1/2-1/2

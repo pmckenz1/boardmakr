@@ -1,0 +1,22 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.28"]
+[EventDate "1905.08.14"]
+[Round "13"]
+[Result "1-0"]
+[White "Leo Fleischmann Forgacs"]
+[Black "Horatio Caro"]
+[ECO "D53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 a6 6. cxd5 exd5
+7. e3 b6 8. Bd3 Bb7 9. Qc2 Nbd7 10. Rd1 O-O 11. Ne5 h6 12. Bh4
+c5 13. O-O c4 14. Bf5 b5 15. a3 Re8 16. f4 Rb8 17. g4 Nf8
+18. g5 N6h7 19. Bxh7+ Nxh7 20. Nxf7 Qc7 21. Qg6 hxg5 22. Nh6+
+Kh8 23. Nf7+ Kg8 24. Nh6+ Kh8 25. Nf7+ Kg8 26. fxg5 Qc6
+27. Nh6+ Kh8 28. Nf7+ Kg8 29. Nh6+ Kh8 30. Nf7+ Kg8 31. Qc2
+Qe6 32. Kh1 Nf8 33. Ne5 Bd6 34. Bg3 Qh3 35. Rf5 Bc8 36. Rf2
+Bb7 37. Qf5 Qxf5 38. Rxf5 Bxe5 39. Rxe5 Rbd8 40. Rf1 Bc6
+41. h4 a5 1-0

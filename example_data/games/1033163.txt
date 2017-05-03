@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.19"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Gad Rechlis"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 Be7 5. h3 O-O 6. Nbd2 Nc6
+7. Bd3 b6 8. c3 Bb7 9. O-O d6 10. Qe2 Re8 11. Rad1 Nd7 12. Bh2
+Nf8 13. Rfe1 d5 14. a3 cxd4 15. exd4 Bd6 16. Nf1 f6 17. Bxd6
+Qxd6 18. Ne3 Rad8 19. Ng4 Ne7 20. h4 Neg6 21. g3 Nh8 22. Ne3
+Nf7 23. Ng4 Qd7 24. Ne3 Bc6 25. c4 dxc4 26. Bxc4 Qb7 27. Kg2
+Be4 28. Bb3 Re7 29. Bc2 Red7 30. Bxe4 Qxe4 31. Qc2 Qxc2
+32. Nxc2 e5 33. Rc1 exd4 34. Ncxd4 Rxd4 35. Nxd4 Rxd4 36. Rc8
+Ne5 37. f4 Rd2+ 38. Kf1 0-1

@@ -1,0 +1,26 @@
+[Event "10s, XXX op Mar del Plata ARG"]
+[Site "10s, XXX op Mar del Plata ARG Hiarcs 7.32"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ruben Sola"]
+[Black "Fernando Braga"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c5
+7. Na3 Nc6 8. Nc2 e5 9. cxd5 Nxd5 10. Bb2 Bf6 11. d3 Qd7
+12. Nd2 b6 13. Ne4 Be7 14. Qc1 Bb7 15. Ne3 Nd4 16. Bxd4 cxd4
+17. Nxd5 Bxd5 18. Qd2 h6 19. f4 f5 20. Nf2 Bxg2 21. Kxg2 exf4
+22. Qxf4 Bg5 23. Qf3 Rae8 24. Nd1 Re5 25. Rb1 Qc8 26. h4 Bd2
+27. Nb2 b5 28. a4 a6 29. axb5 axb5 30. Nd1 Rfe8 31. Nf2 Qe6
+32. Nh3 Rxe2+ 33. Rf2 Rxf2+ 34. Nxf2 Be3 35. Rb2 Rc8 36. Qb7
+Rc5 37. b4 Qc6+ 38. Qxc6 Rxc6 39. Nd1 f4 40. gxf4 Bxf4 41. Kf3
+Bc1 42. Rb1 Bd2 43. Ke4 Rd6 44. h5 Be1 45. Rb2 Kf7 46. Nf2 Bc3
+47. Rb1 g6 48. hxg6+ Rxg6 49. Nh3 h5 50. Nf4 Rh6 51. Rf1 h4
+52. Nh3+ Ke6 53. Rh1 Kd6 54. Ng5 Kc6 55. Nf3 h3 56. Nxd4+ Bxd4
+57. Kxd4 Kd6 58. Rh2 Rh4+ 59. Ke3 Kd5 60. Ke2 Kd4 61. Kd2 Rh5
+62. Kc2 Ke3 63. Kc3 Kf3 64. Kd4 Kg3 65. Rh1 Kg2 0-1

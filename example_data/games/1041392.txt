@@ -1,0 +1,21 @@
+[Event "It (cat.12)"]
+[Site "Amsterdam NED"]
+[Date "1979.07.18"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Ivan Farago"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Ngf3 Bd6
+7.dxc5 Bxc5 8.O-O Ne7 9.Nb3 Bd6 10.Re1 O-O 11.Bg5 Bg4 12.Be2
+h6 13.Bh4 Re8 14.c3 Qb6 15.Bxe7 Rxe7 16.h3 Bh5 17.Qxd5 Rae8
+18.Bc4 Ne5 19.Nxe5 Bxe5 20.Re3 Rd8 21.Qb5 Qc7 22.g3 Bd1 23.Qc5
+Qxc5 24.Nxc5 Bf6 25.Ne4 Re5 26.Nxf6+ gxf6 27.Kf1 Kg7 28.Ke1
+Bf3 29.Be2 Rxe3 30.fxe3 Bg2 31.h4 Kg6 32.Rd1 Rxd1+ 33.Bxd1 Bd5
+34.b3 Kf5 35.c4 Bc6 36.Kf2 Ke4 37.Bh5 Kd3 38.Bxf7 Kc3 39.Ke2
+a5 40.Bd5 Kb2 41.Kd2 Kxa2 42.Kc3 f5 43.b4 axb4 44.Kxb4 1-0

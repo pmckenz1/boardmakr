@@ -1,0 +1,21 @@
+[Event "Zurich"]
+[Site "Zurich SUI"]
+[Date "1934.07.15"]
+[EventDate "1934.07.14"]
+[Round "2"]
+[Result "1-0"]
+[White "Hans Johner"]
+[Black "Henri Grob"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.c3 b5 7.Bc2
+Be7 8.d4 O-O 9.h3 exd4 10.cxd4 Nb4 11.Bb3 c5 12.a3 Nc6 13.Nc3
+Bb7 14.Re1 Re8 15.Bf4 c4 16.Bc2 g6 17.Qd2 Nh5 18.Bh2 Na5
+19.Rad1 Ng7 20.d5 Bf6 21.e5 dxe5 22.Nxe5 Nb3 23.Bxb3 cxb3
+24.Ng4 Rxe1+ 25.Rxe1 Bg5 26.Bf4 Bxf4 27.Qxf4 Nf5 28.Qe5 h5
+29.Nf6+ Kf8 30.Nxh5 Kg8 31.Nf6+ Kf8 32.g4 Ng7 33.Nce4 Bxd5
+34.Nxd5 Rc8 35.Ndf6 Qc7 36.Qg5 Re8 37.Nxe8 Nxe8 38.Qc5+ Qxc5
+39.Nxc5 1-0

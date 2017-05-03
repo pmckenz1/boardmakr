@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "James J McDonnell"]
+[Black "Costas Harris"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 Qb6 8. Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6
+12. Nc3 O-O 13. a3 e5 14. dxe5 Nxe5 15. Nxe5 Bxe5 16. Nxd5
+Nxd5 17. Bxh7+ Kxh7 18. Qh5+ Kg8 19. Qxe5 Nf6 20. b4 Bd7
+21. Bb2 Rae8 22. Qg5 Bb5 23. Rfe1 Qxf2+ 24. Kxf2 Ne4+ 25. Kg1
+Nxg5 26. Red1 Re2 27. Rd5 Rxg2+ 28. Kxg2 Bc6 0-1

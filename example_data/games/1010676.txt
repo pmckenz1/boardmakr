@@ -1,0 +1,23 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Yuri Zhizmer"]
+[Black "Vasily Smachenko"]
+[ECO "A12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. c4 c6 2. Nf3 Nf6 3. g3 d5 4. b3 e6 5. Bb2 Be7 6. Bg2 O-O
+7. O-O Nbd7 8. d4 Ne4 9. Nbd2 f5 10. e3 b6 11. Nxe4 fxe4
+12. Ne5 Nxe5 13. dxe5 Bc5 14. Qc2 Bb7 15. Bh3 Qe7 16. a3 a5
+17. Bd4 Bxd4 18. exd4 Rad8 19. Bg2 Qg5 20. cxd5 exd5 21. Qc1
+Qh5 22. Qe3 Ba6 23. Rfe1 Rd7 24. Rac1 Bb7 25. Qe2 Qxe2
+26. Rxe2 Rc7 27. Rec2 g5 28. Bh3 Re7 29. Bg4 Kg7 30. b4 axb4
+31. axb4 Ref7 32. e6 Re7 33. b5 Kg6 34. bxc6 Bc8 35. Rb2 h5
+36. Be2 Rxe6 37. Rxb6 Ref6 38. Rb8 g4 39. Bb5 h4 40. gxh4 Kh5
+41. Ra1 e3 42. fxe3 g3 43. hxg3 Kg4 44. Rf1 Rxf1+ 45. Bxf1
+Kxg3 46. Ba6 1-0

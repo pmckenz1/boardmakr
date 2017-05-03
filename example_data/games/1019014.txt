@@ -1,0 +1,21 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1856.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Adolf Anderssen"]
+[Black "Conrad Waldemar Vitzthum von Eckstaedt"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O
+Nf6 8.e5 Ne4 9.Qb3 O-O 10.Ba3 d6 11.cxd4 Bb6 12.Qe3 Nxe5
+13.Nxe5 dxe5 14.Qxe4 Qxd4 15.Nd2 c5 16.Qc2 Kh8 17.Nf3 Qf4
+18.Bc1 Qf6 19.Ng5 Bf5 20.Qb3 Rad8 21.f4 Bd3 22.Bb2 Bxf1
+23.Rxf1 Rd4 24.Bxd4 cxd4 25.Nxf7+ Rxf7 26.Bxf7 e4 27.Rc1 d3+
+28.Kh1 d2 29.Rc8+ Bd8 30.Qd1 e3 31.Bb3 h6 32.Qh5 Kh7 33.Bc2+
+g6 34.Qf3 Qe7 35.Qg4 Qf6 36.Rxd8 e2 37.Qd7+ Qg7 38.Qxd2 Qa1+
+39.Bd1 1-0

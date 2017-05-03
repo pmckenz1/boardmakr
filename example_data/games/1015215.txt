@@ -1,0 +1,21 @@
+[Event "Biel op (SUI)"]
+[Site "Biel SUI"]
+[Date "1994.07.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Mirko Mikavica"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 Nbd7 6.Nh3 c6 7.Be3 a6
+8.a4 Qc7 9.Nf2 Ra7 10.Be2 O-O 11.g4 e5 12.d5 c5 13.Qd2 Ne8
+14.h4 f6 15.h5 Rf7 16.hxg6 hxg6 17.g5 Nf8 18.Ng4 Bxg4 19.fxg4
+fxg5 20.Bxg5 Bf6 21.Be3 b6 22.g5 Bd8 23.Bg4 Rh7 24.O-O-O Rb7
+25.Qg2 Rxh1 26.Rxh1 Ng7 27.Rh6 Qe7 28.Qh3 Kf7 29.Rh8 Rc7
+30.Be6+ Ke8 31.Qh6 Nxe6 32.dxe6 Qg7 33.Nd5 Rb7 34.e7 Rxe7
+35.Nxe7 Qxh6 36.gxh6 Bxe7 37.h7 Bf6 38.Rg8 Ke7 39.h8=Q Bxh8
+40.Rxh8 1-0

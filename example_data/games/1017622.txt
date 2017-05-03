@@ -1,0 +1,20 @@
+[Event "1st Harvard Cup 3 G/"]
+[Site "?"]
+[Date "1989.10.29"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Deep Thought (Computer)"]
+[Black "Lev Alburt"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.a4 a5 5.Bb5 c6 6.Bd3 d6 7.Qh5 g6
+8.Qe2 Bg7 9.Nc3 O-O 10.Nf3 dxe5 11.dxe5 Bg4 12.h3 Bxf3 13.gxf3
+N8d7 14.f4 Nc5 15.Be3 Nxd3+ 16.Qxd3 Nd5 17.Nxd5 Qxd5 18.Qxd5
+cxd5 19.Rg1 f6 20.f5 fxe5 21.fxg6 d4 22.Bd2 Rf3 23.Rg3 Rxg3
+24.gxh7+ Kxh7 25.fxg3 e4 26.Bg5 e5 27.Ra3 Kg6 28.Bh4 Rc8 29.c3
+d3 30.Rb3 e3 31.Rxb7 Rf8 32.Rb6+ Kf5 33.Be7 Rf7 34.Bg5 Kxg5
+35.h4+ Kg4 36.Rd6 e4 37.Re6 Kf3 38.Kf1 d2 39.Rd6 e2 40.Kg1 0-1

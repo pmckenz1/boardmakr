@@ -1,0 +1,20 @@
+[Event "Exhibition Game"]
+[Site "The Hague NED"]
+[Date "1937.12.08"]
+[EventDate "?"]
+[Round "26"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "Max Euwe"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6
+7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Ne4 10. g4 Bg6 11. Ne5 Nxc3
+12. bxc3 Bxc3 13. Nxg6 hxg6 14. Rb1 Qe7 15. f4 c5 16. dxc5 Nc6
+17. Ba3 a5 18. Rbc1 Bb4 19. Bxb4 axb4 20. Bb5 Rfd8 21. Rfd1
+Rxd1+ 22. Qxd1 e5 23. Qd6 Qh4 24. Bxc6 bxc6 25. Qxc6 Rd8
+26. Qg2 exf4 27. exf4 Qe7 28. Qf3 Qa7 29. Qe3 Qxa4 30. c6 Qa3
+1/2-1/2

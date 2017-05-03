@@ -1,0 +1,21 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "Ch USA (juniors), San Francisco (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Harutyun Akopyan"]
+[Black "Dmitry Zilberstein"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 c6 6. Nf3
+Bf5 7. Bc4 e6 8. Nd5 Qd8 9. Nxf6+ Qxf6 10. Bc3 Be4 11. d5 Bxf3
+12. gxf3 Qf4 13. Qe2 cxd5 14. Bxd5 Nc6 15. Be4 Rd8 16. Qb5 Qc7
+17. Ke2 Qb6 18. a4 Rd6 19. Rhd1 f5 20. Qxb6 axb6 21. Bd3 Kf7
+22. Bb5 Be7 23. Rxd6 Bxd6 24. Rd1 Ke7 25. Bxc6 bxc6 26. Bxg7
+Ra8 27. b3 e5 28. f4 exf4 29. Kf3 b5 30. axb5 cxb5 31. Ra1 Rc8
+32. c3 Ke6 33. Ra5 Rb8 34. Ra6 Kd5 35. Ra5 Ke6 36. Ra6 Kd5
+37. Ra5 Ke6 1/2-1/2

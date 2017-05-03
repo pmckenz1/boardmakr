@@ -1,0 +1,20 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.03.03"]
+[EventDate "1909.02.15"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Amos Burn"]
+[Black "Abraham Speijer"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.O-O Nf6 6.Nc3 Be7 7.Bg5
+exd4 8.Nxd4 O-O 9.Nxc6 Bxc6 10.Bd3 Re8 11.Re1 Nd7 12.Bd2 Bf6
+13.Qh5 Ne5 14.Bf1 Ng6 15.Bc4 Qd7 16.Bd3 Re7 17.f4 Rae8 18.Qf3
+Bd4+ 19.Kh1 f5 20.Nd5 Bxd5 21.exd5 Rxe1+ 22.Rxe1 Rxe1+ 23.Bxe1
+Bxb2 24.Qe3 Qe7 25.Bf2 Qxe3 26.Bxe3 Ne7 27.Bxa7 Bc3 28.Bc4 Kf7
+29.g3 Kf6 30.Kg2 h6 31.Kf3 g5 32.Be3 Kg6 33.h3 Kf6 34.Ke2 Kg6
+1/2-1/2

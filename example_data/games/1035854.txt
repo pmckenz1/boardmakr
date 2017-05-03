@@ -1,0 +1,19 @@
+[Event "Frankfurt"]
+[Site "Frankfurt am Main GER"]
+[Date "1887.07.22"]
+[EventDate "1887.07.18"]
+[Round "8"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Johannes Metger"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 e6 4.Bd3 Bd6 5.O-O O-O 6.b3 b6 7.c4 Bb7
+8.Bb2 Nbd7 9.Nbd2 c5 10.Ne5 Qc7 11.Ndf3 Rac8 12.Rc1 Bxe5
+13.Nxe5 Nxe5 14.dxe5 Nd7 15.Qh5 g6 16.Qg4 Rfe8 17.f4 Nf8
+18.cxd5 Bxd5 19.e4 Bb7 20.f5 exf5 21.exf5 Rxe5 22.Rce1 Rce8
+23.Qg3 f6 24.Bc4+ Kg7 25.Be6 Nd7 26.Bxd7 Qxd7 27.Rxe5 fxe5
+28.Bxe5+ Kg8 29.fxg6 h6 30.Qf4 Bd5 31.Qf6 1-0

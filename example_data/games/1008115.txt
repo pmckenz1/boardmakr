@@ -1,0 +1,19 @@
+[Event "Hastings 1936/37"]
+[Site "Hastings (ENG)"]
+[Date "1936.12.30"]
+[EventDate "1936.12.28"]
+[Round "3"]
+[Result "0-1"]
+[White "Milan Vidmar"]
+[Black "Movsa Feigin"]
+[ECO "D68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5
+13.d5 e4 14.Nd4 c5 15.Nb5 Nf6 16.Qb3 Qe5 17.Be2 b6 18.Rd1 Rd8
+19.f4 exf3 20.Bxf3 Bg4 21.Rcd3 a6 22.Na3 b5 23.R3d2 c4 24.Qc3
+Qh5 25.Bxg4 Nxg4 26.h3 Nf6 27.Rd4 Rd6 28.Nc2 Re8 29.Qa5 Rxd5
+30.Rxd5 Nxd5 31.Rd2 Qg6 32.Rxd5 Qxc2 33.Re5 Qd1+ 0-1

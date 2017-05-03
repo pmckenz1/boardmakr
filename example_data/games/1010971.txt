@@ -1,0 +1,16 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Alexander Gelman"]
+[Black "Nikolai V Sretenskij"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. e4 c5 2. d3 Nc6 3. g3 e6 4. Bg2 d5 5. Nd2 g6 6. Ngf3 Bg7
+7. O-O d4 8. a4 e5 9. Nc4 f6 10. c3 Be6 11. cxd4 cxd4 12. b3
+Nh6 13. Nh4 O-O 1/2-1/2

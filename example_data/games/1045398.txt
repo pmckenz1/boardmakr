@@ -1,0 +1,18 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Kick Langeweg"]
+[ECO "A35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6
+7. O-O Bg7 8. Nxd5 Qxd5 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6
+12. Nxc6 Bxc6 13. Bxc6 Qxc6 14. Rc1 Qe6 15. Rxc5 Qxa2 16. Rb5
+b6 17. Qa1 Qe6 18. Qa6 Qd7 19. Ra1 Qg4 20. Re1 Qd7 21. Ra1 Qg4
+22. Re1 1/2-1/2

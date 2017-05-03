@@ -1,0 +1,18 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.12"]
+[EventDate "1920.08.02"]
+[Round "8"]
+[Result "1-0"]
+[White "Oscar Nilsson"]
+[Black "T C Jensen"]
+[ECO "B58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.Be3
+g6 8.O-O Bg7 9.Nxc6 bxc6 10.e5 dxe5 11.Qxd8+ Kxd8 12.Bb6+ Ke8
+13.Bf3 Bb7 14.Rad1 Nd7 15.Ba5 f5 16.Na4 Rc8 17.Rxd7 Kxd7
+18.Nc5+ Ke8 19.Nxb7 e4 20.Be2 Be5 21.b4 Bd4 22.Rd1 Bc3 23.Bc4
+h5 24.Be6 Rb8 25.Nc5 Be5 26.Nd7 1-0

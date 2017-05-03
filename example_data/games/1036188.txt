@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1897.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Miklos Brody"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6
+7.Bxc6 bxc6 8.dxe5 Nb7 9.b3 O-O 10.Bb2 d5 11.Nbd2 Nc5 12.Nd4
+Bd7 13.f4 Ne6 14.f5 Nxd4 15.Bxd4 f6 16.e6 Be8 17.Qe3 Qd6
+18.Rf3 c5 19.Bb2 d4 20.Qf2 Bc6 21.Rh3 a5 22.Qh4 h6 23.Qg4 Qd5
+24.Rg3 g5 25.fxg6 Kg7 26.Nf3 f5 27.Qh5 f4 28.Qxd5 Bxd5 29.Rh3
+Bxe6 30.Re1 Rf6 31.Nxd4 Bxh3 32.Rxe7+ Kxg6 33.gxh3 cxd4
+34.Bxd4 Rc6 35.c4 a4 36.Be5 axb3 37.axb3 Kf5 38.Bxc7 Ra2
+39.Re5+ Kf6 40.Ra5 Rxa5 41.Bxa5 Kf5 42.Bd8 Ke4 43.Be7 Rg6+
+44.Kf1 Kf3 0-1

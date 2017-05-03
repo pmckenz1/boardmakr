@@ -1,0 +1,18 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Bojan Kurajica"]
+[ECO "E06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O dxc4
+7. Ne5 Nc6 8. Nxc6 bxc6 9. Na3 Bxa3 10. bxa3 Nd5 11. Qa4 Nb6
+12. Qxc6 Rb8 13. Qc5 Ba6 14. Bf4 Nd5 15. Qxa7 Rb6 16. Bxd5
+Qxd5 17. Bxc7 Bb7 18. f3 Ra6 19. Qc5 Rc8 20. Qxd5 Bxd5 21. Bf4
+1/2-1/2

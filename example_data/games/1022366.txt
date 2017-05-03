@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Port Erin IOM"]
+[Date "1994.09.17"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "John Merriman"]
+[Black "Alexander Baburin"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Nf6 5.Bxc4 e6 6.a4 c5 7.O-O
+Nc6 8.Nc3 Qc7 9.Qe2 Bd6 10.dxc5 Bxc5 11.e4 Ng4 12.g3 O-O
+13.Bf4 e5 14.Nd5 Qd6 15.Bd2 Nf6 16.b4 Nxb4 17.Bxb4 Bxb4
+18.Nxb4 Qxb4 19.Nxe5 Qc5 20.Qb2 Bh3 21.Bxf7+ Kh8 22.Rfc1 Qe7
+23.Bd5 Rae8 24.f4 Nxd5 25.exd5 Qd6 26.Qd4 Rd8 27.Rab1 Be6
+1/2-1/2

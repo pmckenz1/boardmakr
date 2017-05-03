@@ -1,0 +1,23 @@
+[Event "Katowice 51/344 (Balashov,Y)"]
+[Site "Katowice 51/344 Balashov,Y"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Evgeny Solozhenkin"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.a4 Bb7 9.d3 d6 10.c3 Na5 11.Ba2 c5 12.Na3 Qd7 13.axb5
+axb5 14.Bd2 c4 15.Bg5 Rfc8 16.dxc4 Nxc4 17.Bxc4 bxc4 18.Nxe5
+Qe6 19.Bxf6 Bxf6 20.Nf3 Bxe4 21.Nd2 d5 22.Naxc4 Rxa1 23.Qxa1
+dxc4 24.Rxe4 Qd5 25.Qe1 g6 26.Re8+ Rxe8 27.Qxe8+ Kg7 28.Qe2
+Qf5 29.Nxc4 Qb1+ 30.Qf1 Qc2 31.g3 h5 32.h4 g5 33.hxg5 Bxg5
+34.Qe1 h4 35.gxh4 Bxh4 36.Ne3 Qg6+ 37.Kf1 Bg5 38.Ng4 Qd3+
+39.Kg2 Qd5+ 40.f3 Qb7 41.Qe5+ f6 42.Qe2 Kf8 43.Qc2 Qd7 44.c4
+f5 45.Nf2 Bf6 46.b4 Ke8 47.c5 Qd5 48.Qd3 Bd4 49.Kf1 Kd8 50.Nd1
+Qe5 51.Nc3 1-0

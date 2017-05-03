@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Baku AZE"]
+[Date "1972.11.19"]
+[EventDate "1972.11.17"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Leonid Alexandrovich Shamkovich"]
+[ECO "E41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Ne2 cxd4 7.exd4
+d5 8.O-O dxc4 9.Bxc4 O-O 10.a3 Be7 11.Bf4 Bd6 12.Qd2 Bxf4
+13.Qxf4 b6 14.Rad1 Ne7 15.Qf3 1/2-1/2

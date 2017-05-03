@@ -1,0 +1,21 @@
+[Event "Marienbad"]
+[Site "Marienbad CZE"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "12"]
+[Result "0-1"]
+[White "Frederick Dewhirst Yates"]
+[Black "Ernst Gruenfeld"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d3 O-O 11.Nbd2 Nc6 12.Nf1 d5 13.Qe2 d4
+14.Ng3 Re8 15.Bb3 Be6 16.Bxe6 fxe6 17.Bd2 Qd6 18.Red1 Nd7
+19.Rac1 Rac8 20.c4 Nf8 21.Ng5 Bxg5 22.Bxg5 Ng6 23.Qg4 Rf8
+24.Nh5 Rf7 25.g3 Rcf8 26.f4 Kh8 27.Rd2 exf4 28.gxf4 bxc4
+29.Rxc4 h6 30.e5 Ngxe5 31.fxe5 Nxe5 32.Bf4 Qd5 33.Rxc5 Nxg4
+34.Rxd5 exd5 35.Bd6 Rf1+ 36.Kg2 Ne3+ 37.Kh3 R1f3+ 38.Ng3 R8f5
+39.Kh4 Kh7 40.b4 g5 41.Kh5 R5f4 0-1

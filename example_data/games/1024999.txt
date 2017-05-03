@@ -1,0 +1,17 @@
+[Event "Kiev URS ch"]
+[Site "3"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Yuri Yakovich"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Be3
+Nb4 8.Be4 c6 9.Nc3 Be6 10.Nge2 N4d5 11.O-O Qd7 12.Ng3 g6
+13.Bd3 Nxe3 14.fxe3 Bh6 15.Qe2 Nd5 16.Nxd5 Bxd5 17.e4 Be6
+18.d5 Bg4 19.e6 1-0

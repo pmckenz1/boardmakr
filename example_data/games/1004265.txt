@@ -1,0 +1,23 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.06.28"]
+[EventDate "1930.??.??"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Edgar Colle"]
+[Black "George Alan Thomas"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Nbd2 e6 5. Bd3 c5 6. O-O Nc6
+7. c3 Qc7 8. Qe2 Be7 9. dxc5 bxc5 10. e4 d5 11. Re1 dxe4
+12. Nxe4 O-O 13. Nfg5 g6 14. Nxf6+ Bxf6 15. Ne4 Be7 16. Bh6
+Rfd8 17. Rad1 Rd5 18. Qe3 Rad8 19. Be2 Nb8 20. Rxd5 Bxd5
+21. b3 Bxe4 22. Qxe4 Bf6 23. Qe3 Qa5 24. Rc1 Qxa2 25. Bc4 Qa5
+26. Bxe6 Qxc3 27. Qxc3 Bxc3 28. Bc4 Bd4 29. Re1 Bf6 30. Be3
+Bc3 31. Rb1 Bd4 32. Bh6 Nc6 33. Kf1 Ne5 34. Be2 Nd7 35. b4 Nb6
+36. bxc5 Bxc5 37. Ra1 Rd7 38. Bb5 Bd4 39. Rd1 Rd8 40. Be3 Bf6
+41. Rxd8+ Bxd8 42. Ba6 f5 43. Ke2 Kf7 44. f3 Bc7 45. h3 Ke6
+46. Bxb6 1/2-1/2

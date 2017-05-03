@@ -1,0 +1,19 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.03.25"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Samuel Lipschutz"]
+[Black "William Henry Krause Pollock"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 Be6
+7.d4 c5 8.Rb1 Qc7 9.Bb5+ Nc6 10.Ne2 O-O-O 11.O-O Be7 12.Be3 h5
+13.Nf4 Bg5 14.Nxe6 Bxe3+ 15.Qxe3 fxe6 16.Bxc6 Qxc6 17.Rf7 Rd7
+18.Rbf1 Rhd8 19.Qg5 cxd4 20.cxd4 Rxf7 21.Rxf7 Qxc2 22.Rf1 Qh7
+23.Qe7 Qh6 24.h3 h4 25.Kh2 Qe3 26.Qxe6+ Rd7 27.Rf3 Qe1 28.Qf5
+Kc7 29.Qc2+ Kd8 30.Qc5 1-0

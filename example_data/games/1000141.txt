@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.21"]
+[EventDate "1900.??.??"]
+[Round "3.1"]
+[Result "1/2-1/2"]
+[White "James Mortimer"]
+[Black "James Mason"]
+[ECO "C43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.dxe5 Be7 6.O-O O-O 7.c4
+c6 8.Qc2 f5 9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4+ Kh8 12.Rd1 Qe8
+13.Rb1 b5 14.Bd3 Qh5 15.c4 b4 16.c5 a5 17.Be3 f4 18.Bd4 Be6
+19.Be4 Bf5 20.Bxf5 Qxf5 21.Qc4 Na6 22.Rbc1 Nc7 23.Ba1 Ne6
+24.Rd6 Bxd6 25.cxd6 c5 26.Re1 Qf7 27.h3 Qd7 28.h4 h6 29.Nh2
+Rae8 30.Re4 Rc8 31.Bb2 Rce8 32.Nf3 Qf7 33.Bc1 Qf5 34.Bb2 Qf7
+35.Re1 Rd8 36.Qa6 Rfe8 37.Qc4 Qg6 38.Bc1 Qf5 39.Kf1 Rf8
+1/2-1/2

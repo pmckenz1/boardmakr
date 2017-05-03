@@ -1,0 +1,20 @@
+[Event "13, Montreal zt"]
+[Site "13, Montreal zt"]
+[Date "1981.05.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Carlos Jauregui"]
+[Black "Lawrence Day"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 c5 2.dxc5 e6 3.g3 Bxc5 4.Bg2 Nf6 5.Nf3 d5 6.O-O Nc6
+7.Nfd2 e5 8.Nb3 Be7 9.Bg5 Be6 10.Bxf6 gxf6 11.Nc3 d4 12.Ne4
+Qb6 13.f4 f5 14.Ng5 e4 15.g4 Bxb3 16.cxb3 h6 17.Nxf7 Kxf7
+18.gxf5 Rag8 19.Kh1 Rxg2 20.Kxg2 Qc5 21.Kh1 Qxf5 22.Rc1 Rd8
+23.a3 a5 24.b4 axb4 25.Rg1 e3 26.Rg3 Qd5+ 27.Kg1 d3 28.exd3
+Bh4 29.axb4 Bxg3 30.hxg3 Rg8 31.Kh2 Nd4 32.Rc7+ Kf6 33.Rc5
+Qxc5 0-1

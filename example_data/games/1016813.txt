@@ -1,0 +1,19 @@
+[Event "Zalakaros"]
+[Site "Zalakaros"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Laszlo Karsa"]
+[Black "Andras Adorjan"]
+[ECO "E26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.a3 Bxc3+ 6.bxc3 b6 7.Bd3
+Bb7 8.f3 O-O 9.Nh3 Nc6 10.O-O Ba6 11.e4 Ne8 12.e5 d5 13.exd6
+cxd4 14.Ng5 Nf6 15.Qa4 Na5 16.cxd4 Rc8 17.d7 Rc7 18.Bf4 Qxd7
+19.Qxd7 Rxd7 20.Be5 Bxc4 21.Bxc4 Nxc4 22.Rfc1 h6 23.Bxf6 hxg5
+24.Bxg7 Kxg7 25.Rxc4 Rfd8 26.Ra4 Rc8 27.Rb1 Rc2 28.Rab4 Kg6
+29.Re1 Ra2 30.Re3 Rc7 31.d5 Rc1+ 0-1

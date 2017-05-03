@@ -1,0 +1,15 @@
+[Event "New York PCA-op"]
+[Site "New York PCA-op"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Julian Michael Hodgson"]
+[Black "Michael Adams"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "17"]
+
+1.g3 e5 2.Bg2 d5 3.d3 c6 4.Nf3 Bd6 5.O-O Nf6 6.c4 dxc4 7.dxc4
+O-O 8.Nc3 h6 9.Qc2 1/2-1/2

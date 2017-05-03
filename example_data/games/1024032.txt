@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "Deizisau (Germany)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Branimir Vujic"]
+[Black "Vladimir Bagirov"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 d5 2.Nf3 c6 3.c4 e6 4.g3 Nf6 5.Bg2 Nbd7 6.O-O dxc4 7.a4
+Be7 8.Qc2 O-O 9.Qxc4 a5 10.Nc3 Nd5 11.e4 Nxc3 12.Qxc3 b6 13.b3
+Ba6 14.Rd1 Be2 15.Rd2 Bb4 16.Qe3 Bxd2 17.Nxd2 Ba6 18.e5 c5
+19.Bxa8 Qxa8 20.dxc5 Nxc5 21.Ba3 Rc8 22.Rc1 Nd7 23.Rxc8+ Qxc8
+24.Qd4 Qc2 25.Kg2 Bb7+ 26.f3 Bd5 27.Kh3 h6 28.Bd6 g5 29.Qe3
+Kg7 30.g4 Nc5 31.Bxc5 bxc5 32.Kg3 Qc1 33.Kg2 Bxb3 34.f4 Bd5+
+35.Kg3 gxf4 36.Qxf4 Qe1+ 37.Kh3 Qe2 38.Kh4 Qd3 39.Qf6+ Kf8
+40.Qd8+ Kg7 41.Qf6+ Kf8 42.Qd8+ Kg7 43.Qf6+ Kf8 1/2-1/2

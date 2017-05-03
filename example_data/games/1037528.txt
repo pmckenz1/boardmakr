@@ -1,0 +1,22 @@
+[Event "01, Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1978.10.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Ahmed Ali Tawengi"]
+[Black "Lawrence Day"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 g6 2.Nf3 Bg7 3.d4 c5 4.c3 Qa5 5.Na3 cxd4 6.Nc4 Qd8 7.cxd4
+Nf6 8.Bd3 d5 9.e5 dxc4 10.exf6 Bxf6 11.Bxc4 O-O 12.Be3 Nc6
+13.h3 Qa5+ 14.Bd2 Qb6 15.Bc3 Rd8 16.d5 Bxc3+ 17.bxc3 Qc5
+18.Qe2 Na5 19.Ne5 Nxc4 20.Qxc4 Rxd5 21.Qxc5 Rxc5 22.Nf3 Rxc3
+23.O-O Bxh3 24.Rfe1 Be6 25.Nd4 Bd7 26.Rxe7 Rd8 27.Nf3 Kf8
+28.Rae1 h6 29.R7e5 Be6 30.Ra5 a6 31.Rb1 Rd5 32.Ra4 Bd7 33.Rf4
+b5 34.Re1 Kg7 35.Rfe4 Ra3 36.R1e2 Bf5 37.Re7 Bg4 38.Ra7 Bxf3
+39.gxf3 Rf5 40.Rb2 Rfxf3 41.Kg2 Rf6 42.Rxb5 Rxa2 43.Rb8 Rfxf2+
+44.Kg1 Rfc2 0-1

@@ -1,0 +1,20 @@
+[Event "Simul, 10b"]
+[Site "London ENG"]
+[Date "1938.10.04"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Edmund Tom Jesty"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. e3 a6
+7. cxd5 exd5 8. Bd3 Re8 9. Qc2 h6 10. Bf4 Nbd7 11. g4 Nf8
+12. g5 hxg5 13. Nxg5 c6 14. Rg1 Bd6 15. Bxd6 Qxd6 16. O-O-O
+Be6 17. Rg2 Qd7 18. Rdg1 g6 19. Nxe6 Rxe6 20. Bf5 Qe7 21. Bxe6
+Qxe6 22. Ne2 Ne4 23. Nf4 Qf5 24. h4 Ne6 25. f3 Nxf4 26. fxe4
+dxe4 27. exf4 c5 28. dxc5 Rc8 29. Rg5 Qxf4+ 30. Kb1 b6 31. h5
+1-0

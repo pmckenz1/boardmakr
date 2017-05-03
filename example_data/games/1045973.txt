@@ -1,0 +1,22 @@
+[Event "Belgrade GMA-op"]
+[Site "Belgrade YUG"]
+[Date "1988.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Igor Naumkin"]
+[Black "Lubomir Ftacnik"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 c5 8. Ne2 O-O 9. O-O Nc6 10. Be3 Bg4 11. f3 Bd7
+12. Rc1 Rc8 13. d5 Na5 14. Bd3 e5 15. f4 exf4 16. Bxf4 Qe7
+17. Qd2 b5 18. Qe3 Be5 19. Qg3 f6 20. Rf3 Nb7 21. Rcf1 Nd6
+22. h3 Nf7 23. Qf2 a5 24. Bc2 Kg7 25. Kh1 b4 26. cxb4 axb4
+27. a3 Bb5 28. axb4 cxb4 29. Bd3 Bxd3 30. Rxd3 Rc2 31. Qe3 Nd6
+32. Bh6+ Kg8 33. Bxf8 Kxf8 34. Nd4 Rc4 35. Re1 Bxd4 36. Rxd4
+Nf5 37. Rxc4 Nxe3 38. Rxe3 Qa7 39. Re1 b3 40. d6 Qa5 41. Rd1
+b2 42. Rc8+ Kg7 43. d7 1-0

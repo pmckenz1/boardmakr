@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.24"]
+[EventDate "1897.09.13"]
+[Round "11"]
+[Result "1-0"]
+[White "Adolf Julius Zinkl"]
+[Black "Hugo Suechting"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7
+7. Re1 O-O 8. Bxc6 Bxc6 9. dxe5 dxe5 10. Qxd8 Raxd8 11. Nxe5
+Be8 12. Be3 Bb4 13. f3 Bxc3 14. bxc3 Ba4 15. Rab1 Rfe8 16. Nc4
+b6 17. Na3 c5 18. Bg5 Rd7 19. Kf2 Re6 20. Bxf6 Rxf6 21. Red1
+Rfd6 22. Ke2 Kf8 23. Rxd6 Rxd6 24. Rd1 Rh6 25. Rd8+ Ke7
+26. Ra8 Rxh2 27. Rxa7+ Bd7 28. Kf2 Rh6 29. Nc4 b5 30. Ne5 Rd6
+31. Ke3 f6 32. Nxd7 Rxd7 33. Rxd7+ Kxd7 34. a3 g5 35. g4 Kd6
+36. c4 bxc4 37. Kd2 Kc6 38. Kc3 Kb5 39. a4+ Kxa4 40. Kxc4 Ka5
+41. Kxc5 1-0

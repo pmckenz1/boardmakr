@@ -1,0 +1,25 @@
+[Event "Voronezh Kotov mem"]
+[Site "Voronezh URS"]
+[Date "1987.09.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Jens Kristiansen"]
+[Black "Yuri Balashov"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "130"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.Nbd2
+Bg7 8.Nf1 O-O 9.Bg5 h6 10.Bxf6 Qxf6 11.Ne3 Qd8 12.h4 f5
+13.Bb3+ Kh8 14.h5 f4 15.Nd5 g5 16.Nh2 Nb8 17.Nb4 c6 18.Nc2 Qe7
+19.Qe2 Nd7 20.a3 g4 21.O-O-O Qg5 22.f3 g3 23.Nf1 Nf6 24.Nd2 b5
+25.d4 Bd7 26.dxe5 dxe5 27.Nb1 Rfd8 28.Bf7 Bf8 29.Rd2 Qg7
+30.Bg6 c5 31.c4 b4 32.Rhd1 Qe7 33.Rd3 Be6 34.Rxd8 Rxd8 35.Rxd8
+Qxd8 36.Qd2 Qb6 37.Qd3 a5 38.Nd2 a4 39.Ne1 Kg7 40.Nc2 Bd6
+41.Ne1 Kf8 42.Qc2 Qa5 43.Nd3 b3 44.Qd1 Qc7 45.Qe2 Be7 46.Ne1
+Qd6 47.Qd3 Qxd3 48.Nxd3 Bd6 49.Kd1 Ke7 50.Ke2 Nd7 51.Bf5 Bf7
+52.Bxd7 Kxd7 53.Nc1 Bc7 54.Kd3 Ba5 55.Nb1 Bxh5 56.Ne2 Be1
+57.Nbc3 Bf2 58.Nd5 Kd6 59.Nf6 Bf7 60.Nc3 h5 61.Nfd5 h4 62.Ke2
+Bxd5 63.exd5 Bd4 64.Ne4+ Kd7 65.Kf1 Ke7 0-1

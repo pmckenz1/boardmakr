@@ -1,0 +1,21 @@
+[Event "11th DSB Kongress, Cologne"]
+[Site "Cologne GER"]
+[Date "1898.08.12"]
+[EventDate "1898.08.01"]
+[Round "10"]
+[Result "1-0"]
+[White "Johann Nepomuk Berger"]
+[Black "Adolf Albin"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 d5 2. e3 e6 3. c4 c6 4. Nc3 Nf6 5. Nf3 Bd6 6. Bd3 Nbd7
+7. e4 dxe4 8. Nxe4 Nxe4 9. Bxe4 Nf6 10. Bc2 Bd7 11. O-O Qc7
+12. c5 Bf4 13. Bxf4 Qxf4 14. Ne5 Rd8 15. g3 Qh6 16. Qe2 Bc8
+17. Rad1 Qh3 18. f4 h5 19. Rd3 Ng4 20. Nf3 Nf6 21. Ng5 Qg4
+22. Rdf3 h4 23. h3 Qh5 24. g4 Nxg4 25. hxg4 Qxg4+ 26. Kh1 Rxd4
+27. Rg1 Qh5 28. Qe3 Rd5 29. Be4 Rd8 30. f5 e5 31. f6 gxf6
+32. Rxf6 Rd1 33. Bf3 Rxg1+ 34. Kxg1 Bg4 35. Qxe5+ Kd8 36. Qb8+
+Ke7 37. Qd6+ Ke8 38. Nxf7 1-0

@@ -1,0 +1,32 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Juergen Pichler"]
+[Black "Otto Borik"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "180"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7
+7. e4 Qxb6 8. Nf3 g6 9. Be2 Bg7 10. Nd2 O-O 11. Nc4 Qc7
+12. Bg5 Nb6 13. Ne3 Bd7 14. O-O Bb5 15. Rc1 Rfb8 16. b3 Nbd7
+17. Qc2 Bxe2 18. Qxe2 Nb6 19. Kh1 Qb7 20. f4 a5 21. Qf3 Rf8
+22. a4 Nc8 23. Rb1 Rb8 24. Nc4 Qa6 25. Nb5 Ne8 26. f5 Rxb5
+27. axb5 Qxb5 28. Rfc1 a4 29. bxa4 Qxa4 30. Rb8 Nf6 31. fxg6
+hxg6 32. Rb7 Qa6 33. Rb3 Qa4 34. Ra3 Qb4 35. h3 Nb6 36. Rb3
+Qxc4 37. Rxc4 Nxc4 38. Qe2 Ne5 39. Rb7 Re8 40. Qb5 Kf8 41. Kg1
+c4 42. Kf1 c3 43. Ke2 c2 44. Rb8 Rxb8 45. Qxb8+ Ne8 46. Qc8 f6
+47. Be3 Nf7 48. Qxc2 Bh6 49. Bb6 Bf4 50. Qc8 Be5 51. Kd3 Nh6
+52. Be3 Ng8 53. Kc4 Kf7 54. h4 Ng7 55. g4 Bg3 56. h5 g5
+57. Kd3 Be5 58. Ke2 Bg3 59. Kf3 Be5 60. Bb6 Bf4 61. Bd8 Be5
+62. Qd7 Kf8 63. h6 Nxh6 64. Bxe7+ Kg8 65. Bxd6 Nf7 66. Qc8+
+Kh7 67. Be7 Kg6 68. Qf8 Bf4 69. d6 Ne5+ 70. Ke2 Nxg4 71. d7
+Bc7 72. Bd6 Ba5 73. Kf3 Nh6 74. Qa8 Bb6 75. Qb8 Ba5 76. Bb4
+g4+ 77. Kg2 Bxb4 78. d8=Q Bc3 79. Qf8 Be5 80. Qa7 Nh5 81. Qe8+
+Kg5 82. Qh7 Nf4+ 83. Kh1 g3 84. Qg7+ Kh4 85. Qxh6+ Kg4
+86. Qd7+ Kf3 87. Qd1+ Kxe4 88. Qh7+ Ke3 89. Qhc2 g2+ 90. Kg1
+f5 1-0

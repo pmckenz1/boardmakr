@@ -1,0 +1,23 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo BRA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Lein"]
+[Black "Cicero Nogueira Braga"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. Bg5 d6 5. e3 O-O 6. Be2 Nbd7
+7. f4 h6 8. Bh4 e5 9. Nf3 exf4 10. exf4 Re8 11. Qd2 c6
+12. O-O-O Nb6 13. h3 Qe7 14. Rhe1 Qe3 15. Bd3 Qxd2+ 16. Kxd2
+Bd7 17. Bg3 Bf8 18. b3 Rxe1 19. Rxe1 Re8 20. Rxe8 Nxe8 21. Bf2
+f5 22. a4 Nf6 23. a5 Nc8 24. Bh4 Be7 25. b4 Nh5 26. Bxe7 Nxe7
+27. Ke3 Kg7 28. c5 dxc5 29. dxc5 Be6 30. a6 bxa6 31. Bxa6 Nf6
+32. Kd4 Nfd5 33. Nxd5 Nxd5 34. b5 Nc7 35. Ke5 Bd5 36. Kd6 Ne8+
+37. Kd7 Nf6+ 38. Kc7 cxb5 39. Bxb5 Nh5 40. Kd6 Be4 41. c6 Nxf4
+42. c7 Bb7 43. Bc6 Bc8 44. Nd4 Kf6 45. Nb5 a5 46. Na7 Ba6
+47. Bb5 Bb7 48. Bc4 a4 49. Kc5 1-0

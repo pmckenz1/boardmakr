@@ -1,0 +1,17 @@
+[Event "04, Giessen op ;GER 03"]
+[Site "04, Giessen op ;GER 03"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jens-Uwe Maiwald"]
+[Black "Vladimir Bagirov"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 d5 2.c4 Bf5 3.Nc3 e6 4.Nf3 c6 5.e3 Nd7 6.Be2 Bd6 7.O-O h6
+8.b3 Ne7 9.Bb2 O-O 10.h3 Rc8 11.Qd2 Bh7 12.Rac1 f5 13.cxd5
+exd5 14.Na4 b6 15.Ne5 Nf6 16.Nc3 Ne4 17.Nxe4 fxe4 18.b4 Bf5
+19.f4 exf3 20.Rxf3 Bxe5 21.dxe5 Qd7 22.Rcf1 Be6 23.Bd3 1/2-1/2

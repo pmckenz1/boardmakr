@@ -1,0 +1,21 @@
+[Event "CSFR 54/464"]
+[Site "CSFR 54/464"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jiri Lechtynsky"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rc1 cxd4 10. cxd4 Qxd2+ 11. Bxd2
+Nc6 12. d5 Nd4 13. Ne2 f5 14. Bc3 Nxe2 15. Bxe2 Bxc3+ 16. Rxc3
+fxe4 17. Kd2 Kd7 18. Ke3 Kd6 19. Kxe4 Rf8 20. f4 Bf5+ 21. Ke3
+Rfc8 22. Rhc1 Rxc3+ 23. Rxc3 Rc8 24. Rxc8 Bxc8 25. Kd4 Bd7
+26. g4 b5 27. h4 b4 28. Kc4 a5 29. g5 Bf5 30. Kb5 Kxd5
+31. Kxa5 Bb1 32. Kxb4 Bxa2 33. f5 gxf5 34. h5 Ke5 35. h6 Bf7
+36. Bc4 Bg6 0-1

@@ -1,0 +1,18 @@
+[Event "Plymouth"]
+[Site "Plymouth ENG"]
+[Date "1938.09.09"]
+[EventDate "1938.09.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "George Shorrock Ashcombe Wheatcroft"]
+[ECO "E13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7
+7. e3 O-O 8. Bd3 d6 9. Qb3 Bxc3+ 10. Qxc3 Nbd7 11. O-O-O Qe7
+12. Nd2 e5 13. f4 e4 14. Be2 d5 15. g4 dxc4 16. Nxc4 g5
+17. fxg5 Nd5 18. Qa3 c5 19. Bg3 Qxg5 20. h4 Qg6 21. Nd6 cxd4
+22. Rxd4 Rfc8+ 23. Kb1 Nc5 24. Nxb7 Nxb7 25. Rxd5 1-0

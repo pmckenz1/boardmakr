@@ -1,0 +1,23 @@
+[Event "Lugano"]
+[Site "Lugano SUI"]
+[Date "1988.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Petar Popovic"]
+[Black "Yuri Balashov"]
+[ECO "C75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.O-O Nge7 7.d4
+Ng6 8.Be3 Be7 9.c4 O-O 10.Bxc6 Bxc6 11.Nc3 f5 12.exf5 Rxf5
+13.Nd5 Qd7 14.dxe5 dxe5 15.Nxe7+ Qxe7 16.Nd2 Nf4 17.Bxf4 Rxf4
+18.Qe2 Rd8 19.Rfd1 Qg5 20.f3 Rfd4 21.Nb3 Rxd1+ 22.Rxd1 Rxd1+
+23.Qxd1 e4 24.fxe4 Qe3+ 25.Kf1 Qf4+ 26.Qf3 Qxh2 27.Nd2 Qe5
+28.b3 h6 29.Ke2 b5 30.Qg4 bxc4 31.bxc4 a5 32.a3 a4 33.Qf3 Bd7
+34.Qd3 Be6 35.Qd8+ Kh7 36.Qd3 Bf7 37.Qe3 Be6 38.Qd3 Qc5 39.Kf1
+g5 40.Qc3 Kg6 41.Ke2 h5 42.Kd3 g4 43.g3 h4 44.gxh4 g3 45.Kc2
+Qf2 46.Qe5 g2 47.Qxe6+ Kh5 48.Qe5+ Kg4 49.Qg7+ Kh3 50.Qc3+ Kh2
+51.Qe5+ Kh1 52.h5 g1=Q 53.h6 Qg6 54.Qa1+ Kg2 55.Qe5 Qxh6 0-1

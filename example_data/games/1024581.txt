@@ -1,0 +1,19 @@
+[Event "USSR 28/547"]
+[Site "USSR 28/547"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Efim Geller"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bg5 h6 6.Bxf6 Bxf6 7.e3
+O-O 8.Qd2 c6 9.Rd1 Nd7 10.Bd3 Nb6 11.b3 Qe7 12.O-O c5 13.Bb1
+Rd8 14.cxd5 exd5 15.Qc2 g6 16.dxc5 Bf5 17.Qc1 Bxb1 18.cxb6 Be4
+19.Nd4 Rac8 20.Qd2 axb6 21.f3 Bxd4 22.Qxd4 Bf5 23.Nxd5 Rxd5
+24.Qxd5 Qxe3+ 25.Kh1 Rc2 26.Rfe1 Qf4 27.Re8+ Kg7 28.g3 Qc7
+29.Qd4+ f6 30.Qe3 1-0

@@ -1,0 +1,21 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Tomasz Markowski"]
+[Black "Robert Kuczynski"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 f5 4. Nc3 Nf6 5. e3 O-O 6. Nge2 d6
+7. O-O c6 8. d3 e5 9. b3 Be6 10. Ba3 Re8 11. e4 Na6 12. exf5
+gxf5 13. d4 Bf7 14. Qd2 Bg6 15. Rad1 Nh5 16. dxe5 dxe5 17. Qc1
+Qc7 18. b4 Rad8 19. b5 Nb8 20. Qc2 Bf8 21. Qa4 a6 22. bxc6
+bxc6 23. Bb4 Bxb4 24. Qxb4 e4 25. f3 Nd7 26. fxe4 fxe4 27. c5
+Qe5 28. Qc4+ Kh8 29. Na4 Nb8 30. Rxd8 Rxd8 31. Nac3 Nf6
+32. Nf4 Bf5 33. h3 e3 34. g4 Bc2 35. Nce2 Be4 36. Qf7 Bxg2
+37. Ne6 Rg8 38. Rxf6 Nd7 39. Rf5 Qb2 40. Qxd7 Bd5 41. Qf7 1-0

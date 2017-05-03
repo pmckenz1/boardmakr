@@ -1,0 +1,20 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.23"]
+[EventDate "1930.01.16"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Mario Monticelli"]
+[Black "Jose Joaquin Araiza Munoz"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Bd3 Bb7 5.Nbd2 c5 6.c3 d5 7.Ne5
+Nbd7 8.f4 Be7 9.Ndf3 O-O 10.Qe2 Ne4 11.Bd2 Ndf6 12.O-O Nxd2
+13.Nxd2 Ne4 14.Nxe4 dxe4 15.Bc4 cxd4 16.cxd4 Bd5 17.Rfc1 Rc8
+18.Bxd5 Qxd5 19.Qa6 Qa8 20.Qa4 Bd6 21.Nc6 Rc7 22.Rc3 Qe8
+23.Rac1 f5 24.Qb3 Qf7 25.g3 h6 26.R3c2 g5 27.Qc4 gxf4 28.gxf4
+Kh8 29.Kh1 Rg8 30.Qe2 Qg6 31.Qf1 Rcg7 32.Rf2 h5 33.Ne5 Bxe5
+34.fxe5 Qg5 35.Rf4 Rd7 1/2-1/2

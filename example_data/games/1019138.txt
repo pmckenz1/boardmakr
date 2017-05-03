@@ -1,0 +1,26 @@
+[Event "London Haringay"]
+[Site "London Haringay"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Adolf Anderssen"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 {Notes by Blackburne. This is the first game I ever
+played with Professor Anderssen, the greatest German player,
+and at that time in the zenith of his fame. For a novice to
+offer so brilliant an expert the Muzio was like Ivanhoe
+challenging Bois-Gilbert in the lists at Ashby, but we were
+nothing if not daring in those days, and the cautious modern
+safety-loving youth of today had not yet been evolved. It
+shows what a change has come over chess during the last forty
+years.} e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qe7
+7.d3 Nc6 8.Bxf4 Nd4 9.Qf2 Ne6 10.Be3 Bg7 11.d4 Nf6 12.Qf3 d6
+13.Nc3 O-O 14.d5 Nc5 15.Bg5 Ncd7 16.Rae1 Ne5 17.Qg3 Kh8 18.Qh4
+Nxc4 19.Rxf6 Qd7 20.Rh6 Qg4 21.Rxh7+ Kg8 22.Rxg7+ Kxg7 23.Qh6+
+Kg8 24.Bf6 1-0

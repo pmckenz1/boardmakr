@@ -1,0 +1,21 @@
+[Event "Dublin Masters"]
+[Site "Dublin IRL"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Colm Daly"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d6 5.Bg2 O-O 6.Nc3 c6 7.O-O
+Bf5 8.Ne1 Qc8 9.e4 Bh3 10.Qe2 Bxg2 11.Kxg2 Nfd7 12.Nc2 c5
+13.d5 Na6 14.h4 Nc7 15.h5 b5 16.cxb5 a6 17.hxg6 fxg6 18.Bg5
+axb5 19.Bxe7 Re8 20.Bxd6 b4 21.Nd1 Nxd5 22.Qc4 Nb6 23.Qxc5
+Rxe4 24.Nxb4 Qxc5 25.Bxc5 Rxb4 26.Bxb4 Nxb4 27.a4 Nc4 28.Rh1
+Nd3 29.Rh4 Nd2 30.a5 g5 31.Rha4 Ne1+ 32.Kh1 Ra6 33.f4 Nef3
+34.fxg5 Re6 35.Kg2 Ne1+ 36.Kh3 Ndf3 37.a6 Nxg5+ 38.Kg4 Nef3
+39.a7 h5 40.Kxh5 Rh6+ 41.Kg4 Ne5+ 1-0

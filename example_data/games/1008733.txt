@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Andrew Ledger"]
+[Black "Francis Rayner"]
+[ECO "D03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2
+Nbd7 7. h3 c5 8. c3 b6 9. O-O Bb7 10. a4 a6 11. Qb1 Re8
+12. Bf4 Ne4 13. Rd1 f5 14. Qa2 e6 15. Bh2 Qe7 16. Rac1 Kh8
+17. Qb3 c4 18. Qc2 g5 19. Nxe4 fxe4 20. Nd2 e5 21. b3 b5
+22. Rb1 exd4 23. cxd4 Bc6 24. bxc4 dxc4 25. axb5 axb5 26. d5
+Bxd5 27. Rxb5 Bc6 28. Rbb1 Ba4 29. Qxc4 Bxd1 30. Rxd1 Nf6
+31. Qb5 Rad8 32. Nc4 Rxd1+ 33. Bxd1 Rd8 34. Bb3 Rd5 35. Qb8+
+Rd8 36. Qb6 Nd5 37. Qa5 Bc3 38. Qb5 Qb4 39. Qxb4 Nxb4 40. Nd6
+Ra8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "FRG-ch International"]
+[Site "Hannover FRG"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Yuri Balashov"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2
+d5 8.cxd5 Nxd5 9.Nc3 Nd7 10.Nxd5 exd5 11.b4 O-O 12.O-O c5
+13.bxc5 bxc5 14.Bc3 Re8 15.Re1 Bf6 16.Rc1 Rc8 17.e3 Bc4 18.Qa4
+cxd4 19.Bxd4 Nc5 20.Bxc5 Rxc5 21.Qxa7 Ra5 22.Qb7 Rb5 23.Qa7
+Ra5 1/2-1/2

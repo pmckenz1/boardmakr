@@ -1,0 +1,23 @@
+[Event "URS-OT56 Uzhgorod"]
+[Site "URS-OT56 Uzhgorod"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Fikret Israfil Sideif-Sade"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 e6 6.Be3 Nd4 7.Nce2
+Ne7 8.c3 Nxe2 9.Nxe2 d6 10.Qd2 e5 11.f4 O-O 12.O-O Qc7 13.d4
+Bg4 14.fxe5 cxd4 15.cxd4 dxe5 16.d5 Qd7 17.Nc1 Nc8 18.Nd3 Qe7
+19.h3 Bd7 20.Bc5 Qd8 21.Bxf8 Qxf8 22.Rf2 Qe7 23.Rc1 Nd6 24.Nc5
+Be8 25.Qe3 h5 26.h4 Kh7 27.Rcc2 Bh6 28.Qe1 Nb5 29.Nb3 a5
+30.Kh2 a4 31.Nd2 Nd4 32.Rc3 b5 33.Nf3 b4 34.Rc4 b3 35.axb3
+Nxb3 36.Qc3 Bg7 37.Rc7 Qd6 38.Ng5+ Kg8 39.Nxf7 Qb6 40.Nxe5
+Qxf2 41.d6 Qf6 42.Rc8 Rxc8 43.Qxc8 Qf8 44.d7 Bxd7 45.Qxd7 Bxe5
+46.Qe6+ Kh7 47.Qxe5 Qg7 48.Qd5 Qxb2 49.e5 a3 50.Kh3 Kg7
+51.Qd7+ Kh6 52.Qe8 Kg7 53.Bd5 g5 54.Qg8+ 1-0

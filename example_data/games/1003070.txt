@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.28"]
+[EventDate "1905.08.14"]
+[Round "13"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "Hugo Suechting"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. Bg5 Be7
+7. Bxe7 Ngxe7 8. e3 c4 9. Be2 Bf5 10. O-O O-O 11. b3 Qa5
+12. Na4 Nb4 13. Qd2 Nec6 14. Rfc1 Rac8 15. Nc5 b5 16. a3 Na6
+17. Qxa5 Nxa5 18. Nxa6 cxb3 19. Rcb1 Bxb1 20. Rxb1 Rc2 21. Bd1
+Ra2 22. Kf1 b2 23. Ke2 Nc4 24. Bb3 Rxa3 25. Nc5 Ra1 26. Bc2 a5
+27. Nd2 a4 28. Nxc4 Rxb1 29. Bxb1 dxc4 0-1

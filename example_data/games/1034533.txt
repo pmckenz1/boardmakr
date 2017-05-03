@@ -1,0 +1,41 @@
+[Event "Blitz"]
+[Site "Herceg Novi MNE"]
+[Date "1970.04.08"]
+[EventDate "?"]
+[Round "7.1"]
+[Result "1/2-1/2"]
+[White "Robert James Fischer"]
+[Black "David Bronstein"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 {Notes by Bobby Fischer} e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6
+5. a3 Bf8 {For a time Robert Byrne, the American grandmaster,
+enjoyed considerable success with 5...Bxc3+ 6 bxc3 Ne7 7 Qg4
+but apparently he found a clear refutation because this sharp
+defence has dissappeared from his opening
+repertory. "Undeveloping" pieces though as with 5...Bf8?! has
+little to recomend it.} 6. f4 Nc6 {Intending to castle
+Queenside. If 6...c5 7 Nf3 Nc6 8 Ne2?! gives White a clear
+advantage.} 7. Nf3 Nh6 8. Bd3 {Bb5 was more precise.} Nf5
+9. Ne2 h5 {...Nh4!? was a good chance to free Black's game
+slightly.} 10. g3 Bb7 11. c3 Qd7 12. Qc2 O-O-O 13. b4 f6
+14. Bd2 Kb8 15. O-O Nfe7 {Better was 15...Be7 and White would
+answer 16 a4.} 16. Rfb1 h4 {Black takes a last chance for
+counterplay.} 17. Nxh4 g5 {!} 18. fxg5 fxe5 19. Rf1 {!} exd4
+20. cxd4 Bg7 21. Bc3 e5 22. Rf7 exd4 23. Rxg7 {Bb2!} Rxh4
+{Correct was 23...dxc3 with good chances for black.} 24. gxh4
+Qg4+ 25. Ng3 dxc3 26. Qxc3 d4 27. Qd2 Ne5 28. Rf1 Nd5 29. Bf5
+{? Qe2 with a winning endgame in sight.} Nf3+ 30. Rxf3 Qxf3
+31. Be4 Qxa3 32. Qxd4 Qc1+ 33. Kf2 Rf8+ 34. Nf5 Nc3 {?
+34...Qf4+ and 35...Rf5 wins for Black.} 35. Bxb7 Rxf5+ 36. Bf3
+Nd5 {36...Qc2+ 37 Ke1 Rxf3?? 38 Qd8+ Kb7 39 Qxc7+ Ka6 40 Qc4+
+Nb5 41 Qc8 mate.} 37. Rg8+ Kb7 38. Qe4 Qd2+ 39. Kg3 c6
+40. Qxf5 {?? Rg7+ Ka6 41 Qc4+ forced mate.} Qe1+ {A very
+clever trap considering it was 5 minute chess.} 41. Kg4 {or 41
+Kh3 Qf1+ 42 Kg3 Qe1 and draws. But being ahead on time I
+decided to play for a win.} Ne3+ 42. Kf4 Nxf5 43. Kxf5 Qxb4
+44. Rg7+ Kc8 {44...Ka6 gave Black more chances for a win.}
+45. Be4 Qf8+ 46. Kg6 Qe8+ 47. Kf5 1/2-1/2

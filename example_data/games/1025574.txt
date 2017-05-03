@@ -1,0 +1,17 @@
+[Event "St.Petersburg op"]
+[Site "03"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Ioannis Nikolaidis"]
+[ECO "C75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Nge7 6.d4 Bd7 7.Bb3
+h6 8.Nbd2 Ng6 9.Nc4 Be7 10.Ne3 Bg5 11.O-O Bxe3 12.fxe3 O-O
+13.Qe1 Nce7 14.Qg3 Be6 15.Bc2 f6 16.Bd2 Qe8 17.Rf2 a5 18.a4
+Qf7 19.Ra3 Qe8 20.b3 c6 21.h3 Kh7 22.Kh2 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1929.05.20"]
+[EventDate "1929.05.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Victor Leonard Wahltuch"]
+[Black "Savielly Tartakower"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. Nc3 e6 5. e3 Bb4 6. Bd3 Ne4
+7. Bd2 Nxd2 8. Qxd2 Qf6 9. Be2 O-O 10. a3 Be7 11. Qc2 Qg6
+12. Qxg6 hxg6 13. O-O-O d5 14. cxd5 exd5 15. Kb1 Nd7 16. h4 c6
+17. Bd3 Rfe8 18. g4 Bd6 19. g5 Nf8 20. h5 Bc8 21. Rdg1 Bf5
+22. Bxf5 gxf5 23. g6 fxg6 24. Nh4 Re6 25. Nxg6 Nxg6 26. hxg6
+f4 27. Rh3 Rf8 28. e4 dxe4 29. Nxe4 Be7 30. Nc3 Rff6 31. Rf3
+Bd6 32. d5 cxd5 33. Nxd5 Rxg6 34. Rc1 Rg5 35. Nxf4 Rf6
+36. Rc8+ Bf8 37. Rg3 Rc5 38. Rxc5 Bxc5 39. Nh5 Rf7 40. f4 Kh7
+41. f5 Kh6 0-1

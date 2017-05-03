@@ -1,0 +1,20 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.10"]
+[EventDate "1925.04.16"]
+[Round "18"]
+[Result "0-1"]
+[White "Carl Johan Margot Carls"]
+[Black "Karel Treybal"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.c4 Nf6 2.g3 d5 3.cxd5 Qxd5 4.Nf3 c6 5.Bg2 g6 6.d4 Bg7 7.Nc3
+Qd8 8.O-O O-O 9.h3 Nbd7 10.e4 Nb6 11.Qe2 Be6 12.b3 h6 13.Bb2
+a5 14.Rfd1 a4 15.bxa4 Nxa4 16.Nxa4 Rxa4 17.Bc3 Qa8 18.Rd2 Bc4
+19.Qe1 Ne8 20.Bf1 Nc7 21.Rb1 Nb5 22.Bb4 Bxf1 23.Qxf1 Rxa2
+24.Bxe7 Re8 25.Rxa2 Qxa2 26.Bc5 Rxe4 27.Ra1 Qd5 28.Ra8+ Kh7
+29.Rb8 Bxd4 30.Nd2 Re6 31.Bxd4 Nxd4 32.Rxb7 Re2 33.Qg2 Qf5
+34.Nf1 Nf3+ 35.Kh1 Re1 36.g4 Qf4 37.Qg3 Rxf1+ 0-1

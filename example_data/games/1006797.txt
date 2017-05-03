@@ -1,0 +1,24 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.14"]
+[EventDate "1920.08.02"]
+[Round "10"]
+[Result "0-1"]
+[White "Gunnar Joram Gustafson"]
+[Black "Simon Krenzisky"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 e6 2.Nc3 d5 3.exd5 exd5 4.d4 c6 5.Bd3 Bd6 6.Nf3 Bg4 7.Be3
+Qc7 8.h3 Bh5 9.Ne2 Nf6 10.c3 Nbd7 11.Qc2 Bg6 12.Bxg6 hxg6
+13.Ng5 Nb6 14.b3 a5 15.a4 Nc8 16.Rf1 Ne7 17.g4 Nh7 18.Nxh7
+Rxh7 19.Rh1 O-O-O 20.Qd3 Rdh8 21.Bd2 f6 22.Kd1 Bh2 23.Kc2 Rxh3
+24.f3 Bd6 25.Rhf1 g5 26.Ng1 Rh2 27.Rae1 Bf4 28.Re2 Bxd2
+29.Rxd2 Rxd2+ 30.Qxd2 Rh2 31.Rf2 Rxf2 32.Qxf2 Ng6 33.Ne2 Qe7
+34.Kb2 Nf4 35.Nxf4 gxf4 36.Qd2 g5 37.Qd3 Kb8 38.Qd2 Ka7 39.c4
+Qb4 40.Qxb4 axb4 41.c5 Kb8 42.Kc2 Kc7 43.Kd3 Kd7 44.Ke2 Ke6
+45.Kf2 f5 46.Kg2 fxg4 47.fxg4 Kd7 48.Kf3 Kc7 49.Ke2 b6 50.Kd3
+Kb7 51.Ke2 bxc5 52.dxc5 d4 53.Kd3 f3 54.Kd2 Kc7 55.Kd3 Kd7
+56.Kd2 Ke6 57.Kd3 Ke5 58.Kd2 Ke4 59.a5 d3 0-1

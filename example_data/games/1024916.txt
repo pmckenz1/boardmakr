@@ -1,0 +1,18 @@
+[Event "URS-ch FL53"]
+[Site "Minsk BLR"]
+[Date "1985.10.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Vladimir P Malaniuk"]
+[Black "Yuri Balashov"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.a4 b4 9.d3 Na5 10.Ba2 O-O 11.Nbd2 c5 12.Nc4 Nxc4 13.Bxc4
+Be6 14.Bg5 Bxc4 15.dxc4 Ne8 16.Bxe7 Qxe7 17.Nd2 Nc7 18.Nf1 Qe6
+19.Ne3 g6 20.Qd3 a5 21.Rad1 Ra6 22.b3 Rb6 23.Nd5 Nxd5 24.Qxd5
+Qxd5 25.Rxd5 Re8 26.f3 f6 1/2-1/2

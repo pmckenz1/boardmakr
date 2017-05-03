@@ -1,0 +1,23 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Florin Gheorghiu"]
+[Black "Lawrence Day"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 c6 4.e4 e5 5.Nf3 Qa5 6.Bd3 Bg4 7.Be3
+Nbd7 8.h3 Bh5 9.g4 Bg6 10.Nd2 h5 11.Nb3 Qd8 12.g5 Nh7 13.Rg1
+Be7 14.h4 Nhf8 15.d5 c5 16.Nd2 f6 17.Nf3 Bf7 18.gxf6 Bxf6
+19.Ng5 a6 20.Be2 Bxg5 21.Bxg5 Nf6 22.Qd2 Qe7 23.O-O-O N8d7
+24.Rg3 O-O-O 25.Rdg1 Rh7 26.Nd1 Rf8 27.Bf1 Be8 28.Bh3 Kb8
+29.Qa5 Kc8 30.Qb6 Kb8 31.Qa5 Kc8 32.Rb3 Qd8 33.Qxd8+ Kxd8
+34.Rxb7 Kc8 35.Ra7 Kb8 36.Rxa6 Nxe4 37.Nc3 Kb7 38.Nxe4 Kxa6
+39.Nxd6 Nf6 40.Bf5 Rhh8 41.Be3 g6 42.Bc8+ Kb6 43.Nxe8 Nxe8
+44.Be6 Nd6 45.b4 Nxc4 46.Bxc5+ Kc7 47.Rxg6 Rf4 48.Rg7+ Kb8
+49.d6 Rd8 50.Ba7+ 1-0

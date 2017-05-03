@@ -1,0 +1,19 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.08"]
+[EventDate "1926.03.07"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Walter Michel"]
+[Black "Ernst Gruenfeld"]
+[ECO "A50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Qc2 d5 5. cxd5 Nxd5 6. Nf3 e6
+7. Nxd5 Qxd5 8. e3 Nd7 9. Bd3 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 Qa5+
+12. Ke2 c5 13. Qc3 Qxc3 14. bxc3 Ke7 15. Rhd1 Rhc8 16. Nd2 Nf6
+17. f3 Rc7 18. e4 cxd4 19. cxd4 Rd8 20. Nb3 Nd7 21. Rdc1 Rdc8
+22. Rxc7 Rxc7 23. Rc1 Rxc1 24. Nxc1 Nb8 25. Kd2 h6 26. h4 Kd6
+27. Ne2 Ba6 28. Nc3 Bxd3 29. Kxd3 a6 30. g4 Nc6 1/2-1/2

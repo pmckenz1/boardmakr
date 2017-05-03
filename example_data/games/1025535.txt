@@ -1,0 +1,16 @@
+[Event "Kstovo op"]
+[Site "01"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Jouri Goriatchkin"]
+[ECO "C03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nh6 5.c3 f5 6.exd5 exd5 7.Nb3
+Nf7 8.Bf4 Bd6 9.Qe2+ Qe7 10.Bxd6 Nxd6 11.Ne5 Nxe5 12.dxe5 Ne4
+13.O-O-O c6 14.f3 Nc5 15.Nxc5 Qxc5 16.f4 1/2-1/2

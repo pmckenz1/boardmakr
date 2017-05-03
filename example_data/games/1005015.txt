@@ -1,0 +1,17 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Matthias Roeder"]
+[Black "Lajos Seres"]
+[ECO "A37"]
+[WhiteElo "2445"]
+[BlackElo "2425"]
+[PlyCount "31"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 Nh6 6. O-O O-O
+7. d3 Nf5 8. e4 Nfd4 9. Nxd4 Nxd4 10. Ne2 d6 11. Nxd4 Bxd4
+12. Qe2 Rb8 13. a4 a6 14. Be3 Bg7 15. Rfd1 Qb6 16. Rdb1
+1/2-1/2

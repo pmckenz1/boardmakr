@@ -1,0 +1,18 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.22"]
+[EventDate "2000.01.18"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Willy Hendriks"]
+[Black "Silvio Danailov"]
+[ECO "B90"]
+[WhiteElo "2373"]
+[BlackElo "2462"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. f4 Nc5 9. f5 Be7 10. O-O O-O 11. fxe6 fxe6
+12. Nf5 Nxb3 13. Nxe7+ Qxe7 14. axb3 h6 15. Bf4 e5 16. Be3 Be6
+17. Qd3 Rad8 18. Rad1 Qe8 19. Bb6 Rd7 20. Nd5 Nxd5 21. exd5
+Rxf1+ 22. Rxf1 Bf7 23. c4 1/2-1/2

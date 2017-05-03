@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Tim Redman"]
+[Black "Alex Dunne"]
+[ECO "E42"]
+[WhiteElo "2012"]
+[BlackElo "2296"]
+[PlyCount "55"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 d5
+7. a3 Be7 8. Nf4 dxc4 9. Bxc4 O-O 10. O-O Nc6 11. d5 Ne5
+12. Ba2 exd5 13. Nfxd5 Nxd5 14. Nxd5 Bd6 15. Bf4 Ng6 16. Bxd6
+Qxd6 17. Re1 Rd8 18. Ne7+ Kf8 19. Nxg6+ hxg6 20. Qa4 Bd7
+21. Qh4 Kg8 22. Rad1 Qf6 23. Qxf6 gxf6 24. Bd5 Be6 25. Bxe6
+fxe6 26. Kf1 Kf7 27. Ke2 Ke7 28. Rxd8 1/2-1/2

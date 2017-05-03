@@ -1,0 +1,18 @@
+[Event "FEBTC Open, Greenhills PHI"]
+[Site "03"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adrian Pacis"]
+[Black "Eugenio Torre"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 Qc7 6.Bd3 Ne7 7.Be3
+Nbc6 8.O-O Nxd4 9.Bxd4 Nc6 10.Be3 b5 11.Qe2 Be7 12.Rad1 O-O
+13.f4 Bb7 14.Qh5 g6 15.Qh6 Bf6 16.Rf3 Bg7 17.Qh4 Qd8 18.Qf2 d6
+19.Rh3 Qe7 20.f5 Ne5 21.Qg3 b4 22.Ne2 Nxd3 23.cxd3 exf5 24.Bg5
+f6 25.Bf4 Rad8 26.exf5 Qxe2 0-1

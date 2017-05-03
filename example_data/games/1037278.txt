@@ -1,0 +1,19 @@
+[Event "Hertzliya (Israel)"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Leonid Moiseevich Slutzky"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O
+Nbd7 8.Qc2 c6 9.Bf4 Nh5 10.Bc1 f5 11.b3 Bd6 12.e3 Qe7 13.a4
+Nhf6 14.a5 a6 15.Ba3 Bxa3 16.Nxa3 Ne4 17.Ne1 Ndf6 18.Nd3 Bd7
+19.Nb1 Be8 20.f3 Nd6 21.Qc3 g5 22.Ne5 Nf7 23.Nd2 Rd8 24.Nd3
+Nd6 25.Ne5 Nf7 26.Rfc1 Nd7 27.Nd3 Nd6 28.Qb4 Nf6 29.Ne5 Qg7
+30.Nd3 Bg6 31.Ne5 1/2-1/2

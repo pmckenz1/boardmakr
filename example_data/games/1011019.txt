@@ -1,0 +1,16 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexander Lastin"]
+[Black "Andrei Deviatkin"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 Nd7 6. Be2 Ne7
+7. O-O c5 8. dxc5 Nxc5 9. Nd4 Bg6 10. Be3 a6 11. Nd2 Nc6
+12. f4 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yacov Murey"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.d4 d6 2.e4 g6 3.c4 e5 4.Nc3 Nc6 5.Nge2 Bg7 6.Be3 Nh6 7.h3 f5
+8.dxe5 dxe5 9.Qxd8+ Nxd8 10.Nb5 Ne6 11.Bxa7 O-O 12.Be3 fxe4
+13.g4 c6 14.Nbc3 Nf7 15.O-O-O Nf4 16.Ng3 Ng5 17.a3 Ngxh3
+18.Bxh3 Nxh3 19.Rxh3 Bxg4 20.Rdh1 Bxh3 21.Rxh3 Bf6 22.Ngxe4
+Be7 23.Nc5 Bxc5 24.Bxc5 Rf4 25.b3 Rd8 26.Kc2 h5 27.f3 Rd7
+28.Ne4 Rdf7 29.Nd2 Rh7 30.Rg3 Kg7 31.Bd6 Rf5 32.Ne4 h4 33.Rh3
+g5 34.Kd3 Kg6 35.Ke3 b5 36.cxb5 cxb5 37.Bb4 Rd7 38.Nd6 Rf6
+39.Nxb5 Kh5 40.Rh1 Rdf7 41.Rf1 g4 42.fxg4 Kxg4 43.Rg1+ Kh5
+44.Nd6 Rf1 45.Rg2 R7f3+ 46.Ke2 h3 47.Rh2 Kg4 48.Ne4 Rb1
+49.Nf2+ Rxf2+ 50.Rxf2 Rxb3 51.Rf8 h2 52.Rg8+ Kh3 53.Rh8+ Kg2
+54.Rxh2+ Kxh2 55.Bd6 Kh3 56.Bxe5 Rxa3 57.Bd6 Rb3 58.Be5 Kg4
+1/2-1/2

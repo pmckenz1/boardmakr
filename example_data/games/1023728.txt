@@ -1,0 +1,21 @@
+[Event "ch, USSR 53/471"]
+[Site "Moscow URS"]
+[Date "1991.11.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Semen I Dvoirys"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxg5
+7.Nxg5 e6 8.Qd2 h6 9.Nh3 exd5 10.Qe3+ Kf8 11.Nf4 c5 12.dxc5 d4
+13.Qd2 Na6 14.e3 Nxc5 15.Nb5 Qe7 16.Nxd4 Ne4 17.Nd5 Nxd2
+18.Nxe7 Nxf1 19.Nxc8 Nxe3+ 20.fxe3 Rxc8 21.Kd2 Ke7 22.Rac1 Be5
+23.h3 Rcd8 24.Rc4 Rd7 25.Ke2 Rhd8 26.Rd1 f5 27.Rd3 Kf6 28.Rb3
+Re8 29.Nf3 Bg3 30.Rd3 Rde7 31.Nd2 Bc7 32.Kf3 h5 33.e4 Bb6
+34.Rd5 Ke6 35.Rd3 Kf6 36.h4 fxe4 37.Nxe4+ Kg7 38.g3 Rf8+
+39.Kg2 Rf5 40.a4 Rfe5 41.Kf3 Rf7+ 42.Kg2 Rfe7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1973.01.27"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Robert G Hartoch"]
+[Black "Yuri Balashov"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.c4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.Nc3 d5 7.d3
+Kh8 8.a3 a5 9.Bf4 Nh5 10.Bd2 Nc6 11.cxd5 exd5 12.e3 Be6 13.Rc1
+Nf6 14.Na4 Qe8 15.Qc2 Bd6 16.Nc5 Bc8 17.b4 axb4 18.axb4 b6
+19.Ne6 Bxe6 20.Qxc6 Qxc6 21.Rxc6 Bd7 22.Rc3 Ra2 23.Rb1 Ne4
+24.dxe4 fxe4 25.Be1 exf3 26.Bf1 Rfa8 27.Rd1 Ra1 28.Rcc1 Rxc1
+29.Rxc1 Bf5 30.Bb5 Be4 31.Bc3 h6 32.Kf1 Ra3 33.Bd2 c5 34.bxc5
+bxc5 35.Ke1 c4 36.Rc3 Ra2 37.Rc1 0-1

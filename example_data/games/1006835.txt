@@ -1,0 +1,27 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.08"]
+[EventDate "1922.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Karel Hromadka"]
+[Black "Ernst Gruenfeld"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5
+7. Nf3 e6 8. Nc3 Bb4 9. c5 Nd5 10. Bd2 Nc6 11. Bb5 O-O
+12. Bxc6 bxc6 13. O-O Qb8 14. Nxd5 cxd5 15. Bg5 h6 16. Bh4 c6
+17. Rf2 Qb5 18. Qc1 Ba5 19. Qf4 Qd3 20. Be7 Rfe8 21. Bd6 Qe4
+22. Qc1 Bg4 23. Qd1 Qe3 24. Qe2 Qxe2 25. Rxe2 a6 26. Re3 Ra7
+27. Rb3 Bf5 28. Re1 Rc8 29. Kf2 Be4 30. Ke2 Kh7 31. Bb8 Ra8
+32. Bd6 Ra7 33. g3 Kg8 34. Bb8 Ra8 35. Bd6 Ra7 36. Nd2 Bg6
+37. Nb1 Bxb1 38. Rxb1 Bd8 39. Bb8 Ra8 40. Bd6 Ra7 41. Ra3 Rca8
+42. b4 f6 43. Rab3 fxe5 44. dxe5 Rf7 45. a4 Be7 46. Rf1 Ra7
+47. Rxf7 Kxf7 48. b5 axb5 49. axb5 cxb5 50. c6 Ra2+ 51. Kd3
+Bg5 52. Rxb5 Rd2+ 53. Kc3 d4+ 54. Kb3 Rd3+ 55. Ka4 Rc3 56. Rc5
+Ke8 57. h4 Bd2 58. h5 d3 59. Rxc3 Bxc3 60. Kb3 d2 61. Kc2 Kd8
+62. g4 Kc8 63. Kd1 Kd8 64. Ke2 Kc8 65. Kd1 Kd8 66. Bb8 Kc8
+67. Bd6 Kd8 68. Bb8 Kc8 69. Bd6 Kd8 70. Ke2 Kc8 1/2-1/2

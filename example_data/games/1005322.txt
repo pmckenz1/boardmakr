@@ -1,0 +1,24 @@
+[Event "Beirut Lebanese ch+"]
+[Site "LIB"]
+[Date "1999.08.05"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Abdo Somev"]
+[Black "Maan Ftouni"]
+[ECO "B90"]
+[WhiteElo "2140"]
+[BlackElo "2075"]
+[PlyCount "101"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5
+7. Nf3 Be6 8. Bg5 Be7 9. h3 Nbd7 10. Bd3 h6 11. Be3 Qa5
+12. O-O Nc5 13. Qd2 Qc7 14. Rfc1 Qc6 15. Re1 Ncxe4 16. Nxe4
+Nxe4 17. Bxe4 Qxe4 18. c4 Bxh3 19. Bf4 Qg6 20. Bg3 Bg4 21. Qd5
+Bxf3 22. Qxf3 Rb8 23. c5 O-O 24. cxd6 Bxd6 25. Bxe5 Bxe5
+26. Rxe5 Qb6 27. b3 Rbe8 28. Rae1 Rxe5 29. Rxe5 Qc7 30. Qe4
+Rd8 31. g3 g6 32. Re7 Rd7 33. Re8+ Kg7 34. Qb4 Qd6 35. Qc3+
+Qd4 36. Qc8 Qd1+ 37. Kg2 Qd5+ 38. f3 Qd2+ 39. Kh3 Qd3 40. Kg2
+Rd5 41. g4 Qd2+ 42. Kg3 Qd4 43. Rg8+ Kf6 44. Qxb7 Qe5+ 45. Kh3
+Rd2 46. Qb6+ Kg5 47. Qg1 Qe2 48. f4+ Kxf4 49. Qg3+ Kg5
+50. Qh4+ Kf4 51. Qf6+ 1-0

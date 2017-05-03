@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.05"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Walter Shawn Browne"]
+[Black "Miguel A Quinteros"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Be2 Nf6 5.Nf3 O-O 6.O-O Bg4 7.Be3
+Nbd7 8.Re1 e5 9.dxe5 dxe5 10.Nd2 Be6 11.Bc4 Qe7 12.Qe2 Ng4
+13.Rad1 Nxe3 14.Qxe3 Nb6 15.Bxe6 Qxe6 16.a4 a5 17.Qc5 Rfc8
+18.Qb5 Bf8 19.Nf3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Frederik Benima"]
+[Black "Milan Vidmar"]
+[ECO "D09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Qa4 Qd7
+7. Bg2 Bc5 8. O-O O-O-O 9. Rd1 Nge7 10. a3 Bb6 11. Bg5 h6
+12. Bxe7 Qxe7 13. Nbd2 a5 14. b4 axb4 15. axb4 Qxb4 16. Qa8+
+Kd7 17. Qxb7 Rb8 18. Qa6 Ke7 19. Qa3 Bc5 20. Qa4 Rb6 21. Rdc1
+Rhb8 22. Ne4 Bf5 23. Nxc5 Qxc5 24. Nh4 Be6 25. Bxc6 Rxc6
+26. Qa3 Rb4 27. Rab1 Rxb1 28. Qxc5+ Rxc5 29. Rxb1 Rxc4 30. f4
+Bg4 31. Rb2 Ke6 32. Kf2 Kd5 33. Nf3 Bxf3 34. Kxf3 Rc3+ 35. Kf2
+Ke4 36. Rb5 c5 37. Rb7 Rc2 38. Rxf7 d3 39. e6 Rxe2+ 40. Kf1
+Kf3 41. Rd7 c4 42. e7 Rxh2 43. Ke1 Re2+ 44. Kd1 Kxg3 45. f5
+Kf4 46. Rd4+ Kxf5 47. Rxc4 Rxe7 48. Kd2 Rd7 0-1

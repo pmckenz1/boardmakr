@@ -1,0 +1,41 @@
+[Event "USA-06.Congress New York (24-1)"]
+[Site "New York, NY USA"]
+[Date "1889.04.23"]
+[EventDate "?"]
+[Round "24"]
+[Result "1/2-1/2"]
+[White "George Hatfeild Gossip"]
+[Black "Jackson Whipps Showalter"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Be7 6.Re1 Nd6 7.dxe5 Nxb5 8.a4 Nxe5 9.Nxe5 Nd6 10.Bg5 Nf5
+{10...Bxg5 is, of course, out of the question on account of
+the rejoinder Nc6+, and if 10...f6 11.Qh5+ Kf8 (or 11...g6
+12.Nxg6, etc.) 12.Ng6+, and should win.} 11.Nxf7 Kxf7 12.Qd5+
+Kg6 13.g4 Bxg5 14.Qxf5+ Kh6 15.h4 d5 {Black has defended
+himself remarkably well against the opponent's highly
+ingenious onslaught, and he is sure to remain with a pawn
+ahead, with a good position, but he could have secured a still
+greater advantage by advancing this Pawn only one step.}
+16.hxg5 Qxg5 17.Qxg5+ Kxg5 18.Re5+ Kxg4 {Kf6, followed by Bxg4
+would have given him less trouble in the end.} 19.a5 Bd7
+20.Rxd5 Bc6 21.Rc5 Rhd8 22.Nc3 Rd6 23.Nd1 Rad8 24.Ne3+ Kf3
+25.Ra3 Ke2 26.Re5 Rg6+ 27.Ng2 Kd2 28.Rg3 Rxg3 29.fxg3 Kxc2
+30.b4 Rd1+ {In excellent style Black has made fine use of his
+King and has arrived at an ending which he ought to have won
+without difficulty if he had only simplified matters here by
+Bxg2, followed by Rd2.} 31.Ne1+ Kc3 32.b5 Rd5 33.Re7 Rd7
+34.Re3+ {White proves great powers of ingenious resource in
+this game which seemed to be several times almost hopeless.}
+Kb4 {34...Kd2 or d4 35.bxc6, thratening cxd7, was still worse
+for Black, and he selects the right course in giving up the
+piece at once.} 35.bxc6 bxc6 36.Re5 c5 37.Nc2+ Kxa5 38.Rxc5+
+Kb6 39.Re5 a5 40.Ne3 c5 41.Nc4+ Kb5 42.Nxa5 {It was no use
+playing for more than a draw with a Knight against three
+Pawns, and White properly simplifies matters for that
+purpose.} Kxa5 43.Rxc5+ Kb4 44.Rc8 Kb5 45.Kg2 Kb6 46.Kh3 Rc7
+47.Rh8 h6 48.Kh4 Kb7 49.Rg8 Re7 50.g4 Kc7 51.g5 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "GMA, Palma de Mallorca 48/158"]
+[Site "Palma de Mallorca ESP"]
+[Date "1989.12.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Dragoljub Velimirovic"]
+[Black "Vladimir Bagirov"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 c5 7.Nf3
+cxd4 8.Qxd4 Qxd4 9.Nxd4 Nc6 10.Nb5 Kd8 11.N1c3 Nxe5 12.Bf4
+Nbd7 13.O-O-O f6 14.Be2 e6 15.Bxe5 fxe5 16.Bf3 a6 17.Nd6 Bxd6
+18.Rxd6 Ke7 19.Rhd1 Rb8 20.Ne4 Rf8 21.Ng5 Nf6 22.Rb6 h6 23.Ne4
+Nxe4 24.Bxe4 Rf4 25.Re1 Kd7 26.c5 Kc7 27.Re3 Bd7 28.g3 Rf1+
+29.Kd2 Bb5 30.Rxe6 Rd8+ 31.Kc2 Rf2+ 32.Kc3 Rxh2 33.Rb6 Bc6
+34.Bxc6 bxc6 35.Rxe5 Rg2 36.Re7+ Rd7 37.Rb7+ Kxb7 38.Rxd7+ Kc8
+39.Rxg7 h5 40.Rg5 a5 41.a4 Kb7 42.b3 Rf2 43.b4 Rf3+ 44.Kc4 h4
+45.Rg7+ Kb8 46.Rg8+ Kb7 47.b5 Rxg3 48.bxc6+ Kxc6 49.Rc8+ Kb7
+50.Rh8 h3 51.Rh7+ Kc6 52.Rh6+ Kc7 53.Kb5 Rb3+ 54.Kxa5 Kb7
+55.Rh5 Kc6 56.Ka6 Rg3 1/2-1/2

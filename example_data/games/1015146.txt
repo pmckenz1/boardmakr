@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.14"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Enkhbat Tegshsuren"]
+[ECO "D79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.O-O O-O 6.c4 c6 7.cxd5
+cxd5 8.Ne5 e6 9.Nc3 Nfd7 10.f4 f6 11.Nd3 Nc6 12.Be3 Nb6 13.Bf2
+f5 14.Ne5 Bd7 15.Rc1 Qe7 16.e3 Rfc8 17.Nd3 Nc4 18.Nxd5 Qd6
+19.Rxc4 exd5 20.Rc3 b6 21.Qb3 Be6 22.Rfc1 Ne7 23.Qa4 a5 24.Be1
+Rxc3 25.Rxc3 Rc8 26.Rxc8+ Bxc8 27.Qe8+ Bf8 28.Ne5 Be6 29.Bf1
+Qc7 30.Bc3 Qc8 31.Qa4 Qc7 32.Ba6 Nc8 33.Qe8 Qe7 34.Qc6 Qd6
+35.Qb7 Qe7 36.Qc6 Qd6 37.Qa8 Qd8 38.Bb5 Qc7 39.Bd7 1-0

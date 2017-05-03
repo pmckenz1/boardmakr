@@ -1,0 +1,22 @@
+[Event "Rubinstein Memorial 6th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1968.08.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Istvan Bilek"]
+[Black "Zbigniew Doda"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Qc7 6.g3 a6 7.Bg2
+d6 8.O-O Bd7 9.Re1 Be7 10.Nxc6 bxc6 11.Qg4 h5 12.Qe2 h4 13.g4
+h3 14.Bf1 e5 15.Rd1 Nf6 16.f3 Be6 17.Qf2 Bxg4 18.Bc4 Be6
+19.Bxe6 fxe6 20.Kh1 Nh5 21.Rg1 Bf6 22.Ne2 Rb8 23.Rb1 d5 24.Rg4
+Qb6 25.Be3 d4 26.Bd2 Qc5 27.c3 Qc4 28.Nc1 dxc3 29.Bxc3 Nf4
+30.Rg1 O-O 31.Qg3 Rbd8 32.Qg4 Rf7 33.Nb3 Rfd7 34.Ba5 Re8
+35.Bb6 Qe2 36.Rge1 Qg2+ 37.Qxg2 hxg2+ 38.Kg1 Rd3 39.Re3 Rd7
+40.Ree1 Rd3 41.Re3 Red8 42.Rxd3 Rxd3 43.Bf2 Bd8 44.Rc1 Ne2+
+45.Kxg2 Nxc1 46.Nxc1 Rd2 0-1

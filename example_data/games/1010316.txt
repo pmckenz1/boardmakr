@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Thandalam Shanmugam Ravi"]
+[Black "Guruswamy Balagurunathan Prakash"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4
+7. Bd3 dxc4 8. Bxc4 O-O 9. O-O b6 10. Bg5 Bb7 11. Qe2 Bxc3
+12. bxc3 Nbd7 13. Ne5 Qc7 14. Nxd7 Nxd7 15. Rac1 Qc6 16. f3 a6
+17. Bd3 b5 18. c4 bxc4 19. Be4 Qb5 20. Rb1 Bxe4 21. Rxb5 Bd3
+22. Qb2 axb5 23. Rd1 Nb6 24. Be7 Rfc8 25. Rc1 Nd5 26. Bc5 b4
+27. Bxb4 Nxb4 28. Qxb4 Rxa2 29. h4 h6 30. Kh2 Rca8 31. Qb7
+R8a7 32. Qb8+ Kh7 33. Kh3 R7a3 34. Qc7 Ra1 35. Rxa1 Rxa1
+36. Kg3 Ra2 37. h5 Rc2 38. Qxf7 c3 39. Qxe6 Rc1 40. Qe3 Rd1
+41. d5 c2 42. d6 Bf5 43. Qe5 c1=Q 44. Qxf5+ 1/2-1/2

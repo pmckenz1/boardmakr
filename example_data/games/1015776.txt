@@ -1,0 +1,21 @@
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.02.29"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Risto Nicevski"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bd6 6.d4 exd4
+7.Qxd4 f6 8.Re1 Ne7 9.e5 fxe5 10.Nxe5 O-O 11.Nc3 Be6 12.Bg5
+Rf5 13.Nf3 Rxg5 14.Rxe6 Rg6 15.Rae1 Rxe6 16.Rxe6 Ng6 17.Qc4
+Kh8 18.h4 Qg8 19.Re4 Qxc4 20.Rxc4 Ne5 21.Nxe5 Bxe5 22.Re4 Bf6
+23.Kf1 Kg8 24.Nd1 h5 25.g3 Kf7 26.Ke2 b5 27.c3 a5 28.a4 Rb8
+29.Kd3 Rd8+ 30.Kc2 Re8 31.Rxe8 Kxe8 32.b3 Kd7 33.Kd3 Kd6
+34.Ne3 Kc5 35.Nf1 b4 36.c4 Bc3 37.g4 hxg4 38.Ne3 g3 39.fxg3
+Be1 40.Nf5 g6 41.Ne7 Kd6 42.Nxg6 1-0

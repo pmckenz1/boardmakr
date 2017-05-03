@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.06"]
+[EventDate "2000.04.05"]
+[Round "2"]
+[Result "1-0"]
+[White "Bjorn Thorfinnsson"]
+[Black "Hans-Joachim Schubert"]
+[ECO "A80"]
+[WhiteElo "2195"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 f5 2. Nf3 Nf6 3. Bg5 Ne4 4. e3 Nxg5 5. Nxg5 e6 6. f4 Qf6
+7. Bd3 h6 8. Nf3 d6 9. Nc3 Be7 10. d5 e5 11. Bc4 Nd7 12. Qe2
+a6 13. a4 g5 14. g3 e4 15. Nd4 Nf8 16. O-O-O Ng6 17. Rdf1 g4
+18. h3 h5 19. Bb3 Bd7 20. Qc4 Rb8 21. Rd1 Kf8 22. Qb4 b6
+23. Qc4 a5 24. Ncb5 Bd8 25. Na7 Ra8 26. Nac6 Kg7 27. Qc3 Rc8
+28. hxg4 fxg4 29. Nxd8 Rcxd8 30. Qxc7 Kg8 31. Nc6 1-0

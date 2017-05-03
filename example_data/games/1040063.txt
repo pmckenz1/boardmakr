@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Savon"]
+[Black "Roman Dzindzichashvili"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Nf3 O-O 6.Bd3 Na6 7.O-O
+c5 8.d5 Rb8 9.Kh1 Nc7 10.a4 b6 11.Bd2 a6 12.Rb1 b5 13.axb5
+axb5 14.b4 c4 15.Be2 Bb7 16.Be1 e6 17.dxe6 fxe6 18.Bh4 Qd7
+19.Bxf6 Bxf6 20.e5 Bg7 21.Qxd6 Qxd6 22.exd6 Bxc3 23.dxc7 Rbc8
+24.Ng5 Bd5 25.Bg4 Rfe8 26.Bf3 Rxc7 27.Ne4 Bxe4 28.Bxe4 Rd8
+29.Rf3 Rd4 30.Rxc3 Rxe4 1/2-1/2

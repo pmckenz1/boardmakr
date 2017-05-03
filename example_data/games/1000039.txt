@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.28"]
+[EventDate "1900.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "M Didier"]
+[Black "Jacques Mieses"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c5 5.dxc5 e5 6.Be3 Bxc5
+7.Bb5+ Bd7 8.Bxc5 Bxb5 9.b4 Qa6 10.Qg4 Nd7 11.Qxg7 O-O-O
+12.Rd1 Ngf6 13.Be7 Rdg8 14.Qh6 Bc4 15.a4 Qc6 16.Nf3 Rxg2
+17.Qh3 Rg6 18.Rd6 Qc7 19.Nxe5 Re8 20.Rxf6 Rxe7 21.Rf5 Rxe5+
+0-1

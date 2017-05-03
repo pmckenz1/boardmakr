@@ -1,0 +1,47 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.16"]
+[EventDate "1895.08.05"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Carl Schlechter"]
+[Black "Henry Edward Bird"]
+[ECO "C13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.e4 {Notes by H. N. Pillsbury} e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.exd5 {Not as good as 5.e5 Nfd7 6 Bxe7 Qxe7 7 Qd2, etc.} Nxd5
+6.Bxe7 Nxe7 {Qxe7 was superior.} 7.Nf3 c6 8.Bd3 Nd7 9.O-O Nf6
+10.Ne2 {White has much the freer position, and something more
+energetic seems needed here to keep his advantage. 10 Qe2,
+followed by Rad1, seems superior to the text.} O-O 11.c3 {True
+to the teaching of the ‘Vienna’ school', White by this move
+offers a draw. Either Qc2 or Qd2 were developing and kept the
+advantage of position with White.} Qb6 12.Qb3 Qc7 13.Ng3 Rd8
+14.Rad1 Bd7 15.Rfe1 Be8 16.Qc2 Ned5 17.Ng5 g6 18.N5e4 Nxe4
+19.Nxe4 b6 20.Qc1 {Were White desirous of a fight, g3 first,
+followed by Qd2, was the correct idea.} Qf4 21.Qxf4 Nxf4
+22.Bf1 Kg7 23.g3 Nd5 24.Bg2 h6 25.Nd2 Rac8 26.Nc4 Rc7 27.Ne5
+Rdc8 28.Nd3 Ne7 29.Be4 c5 {Black here makes a bid for
+something more which his opponent apparently would be
+satisfied.} 30.dxc5 bxc5 31.Ne5 Bb5 {To prevent Nc4 and d6.}
+32.Bg2 Rb8 33.Rd2 Rb6 {This and the next move place the Rook
+out better at b8.} 34.Red1 Ra6 35.c4 Ba4 36.b3 f6 {The only
+good move, but it serves to equalise matters.} 37.Nd3 Be8
+38.Nf4 g5 39.Ne2 Bh5 40.Re1 Bxe2 41.Rdxe2 Nf5 { Black appears
+to have now fully as good a game as White, as the Knight
+against Bishop compensates for the weakness of Pawns on the
+Queen’s side. The line of play now initiated seems unnecessary
+and hazardous ; either e5 or Kf7 seems safer.} 42.Rxe6 Rxa2
+43.Bd5 Nd4 44.Re8 f5 45.Rg8+ Kh7 46.Ree8 g4 47.Rh8+ Kg6
+48.Reg8+ Rg7 49.Rd8 Ra6 50.h3 gxh3 51.Kh2 Nxb3 52.Kxh3 Nd4
+53.Rc8 Nb3 {Although Black has won a Pawn and at the same time
+kept his King sufficiently defended, yet the position vill
+admit of no more than a draw, owing to the threatening
+attitude of White’s Pieces.} 54.f3 Rd6 55.g4 Kg5 56.Kg3 fxg4
+57.fxg4 Rf6 58.Rce8 Nd2 { Necessary to prevent the check at e4
+with the Bishop on the 61st move. A draw is now the legitimate
+result of a well played ending.} 59.Re5+ Kg6 60.Rh5 Rh7
+61.Rg8+ Rg7 1/2-1/2

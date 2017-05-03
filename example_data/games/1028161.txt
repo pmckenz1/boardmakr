@@ -1,0 +1,26 @@
+[Event "Belfast"]
+[Site "Belfast"]
+[Date "1892.09.15"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "Henry Edward Bird"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.d3 h5 6.c3 Bc5 7.O-O
+c6 8.Ba4 d6 9.Qe1 Qf6 10.Kh1 Nh6 11.f3 h4 12.Bc2 Bd7 13.cxd4
+Bxd4 14.Nc3 O-O-O 15.Be3 Rde8 16.Bxd4 Qxd4 17.Qf2 Qxf2 18.Rxf2
+g5 19.b4 f5 20.Re2 g4 21.f4 Rhf8 22.Rf1 Kc7 23.Bd1 Be6 24.Rc2
+fxe4 25.dxe4 Bc4 26.Be2 Bxe2 27.Rxe2 d5 28.exd5 Rxe2 29.Nxe2
+cxd5 30.Nd4 Re8 31.f5 Re4 32.Ne6+ Kd6 33.Ng7 Rxb4 34.f6 Nf7
+35.Nf5+ Ke5 36.Nxh4 d4 37.Ng6+ Ke4 38.Kg1 Rb2 39.h4 gxh3
+40.gxh3 d3 41.Re1+ Kf5 42.Ne7+ Kxf6 43.Nd5+ Kf5 44.Ne3+ Kg6
+45.Nc4 Rxa2 46.Rd1 b5 47.Nd2 Ng5 48.Kf1 Nxh3 49.Kg2 Ng5 50.Kf1
+Rb2 51.Ke1 a5 52.Ra1 a4 53.Ra3 Ne4 54.Nxe4 Re2+ 55.Kd1 Rxe4
+56.Rxd3 Rc4 57.Rd6+ Kf7 58.Ra6 Ke7 59.Ra5 Rc5 60.Kd2 Kd6
+61.Kd3 Kc6 62.Ra8 Kb7 63.Ra5 Kb6 64.Ra8 Rc7 65.Rb8+ Ka5 66.Kd2
+Kb4 0-1

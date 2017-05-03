@@ -1,0 +1,18 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1964.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Eduard Gufeld"]
+[Black "Vladimir Bagirov"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e4 b5 5.a4 Bb7 6.Nc3 b4 7.Bxc4 e6
+8.d5 bxc3 9.Qb3 exd5 10.Qxb7 dxc4 11.Qxa8 cxb2 12.Bxb2 Bb4+
+13.Kf1 c3 14.Ba3 Bxa3 15.Rxa3 Qd3+ 16.Ke1 Qb1+ 17.Ke2 Qb2+
+18.Kd3 Ne7 19.Ra2 Qb4 20.Raa1 c2 21.Kxc2 O-O 22.Rhb1 Qc4+
+23.Kd2 Nbc6 24.Qb7 Qxe4 25.Ra2 Qd5+ 0-1

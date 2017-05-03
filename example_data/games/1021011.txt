@@ -1,0 +1,20 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andres Rodriguez Vila"]
+[Black "Pablo Glavina Rossi"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.h5
+Bh7 8.Nf3 Nd7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Qc7 12.Qe2 Ngf6
+13.O-O-O O-O-O 14.Ne5 Nb6 15.Ba5 Rd5 16.Bxb6 axb6 17.c4 Ra5
+18.Kb1 Bd6 19.f4 Rd8 20.Ne4 Nxe4 21.Qxe4 f5 22.Qe3 Bxe5
+23.fxe5 b5 24.b4 Ra4 25.Qb3 c5 26.a3 cxb4 27.cxb5 Rxa3
+28.Qxe6+ Kb8 29.Rh3 Rxh3 30.gxh3 Qc3 31.b6 b3 32.Qxf5 Rc8
+33.Rf1 Qd2 34.Qxc8+ Kxc8 35.Rc1+ Kd8 0-1

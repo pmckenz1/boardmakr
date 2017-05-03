@@ -1,0 +1,24 @@
+[Event "16, Tbilisi URS sf"]
+[Site "16, Tbilisi URS sf"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mark Izrailovich Dvoretsky"]
+[Black "Vladimir Bagirov"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nc3 g6 7.h3
+Bg7 8.Nf3 O-O 9.Be2 Nc6 10.O-O Bf5 11.Be3 d5 12.c5 Nc4 13.Bxc4
+dxc4 14.Qa4 Bd3 15.Rfd1 Qa5 16.Qxa5 Nxa5 17.Ne1 Bf5 18.Rac1
+Nc6 19.g4 Bd7 20.d5 Nb4 21.b3 Nxa2 22.Nxa2 cxb3 23.Nc3 Rfc8
+24.Bd4 Bxd4 25.Rxd4 Rxc5 26.Rb4 Rac8 27.Rxb3 b5 28.Nd3 R5c7
+29.Ra3 h5 30.gxh5 gxh5 31.h4 Bf5 32.Ne2 Rxc1+ 33.Ndxc1 Rc7
+34.Nb3 Be4 35.Nbd4 Bxd5 36.Nxb5 Rc4 37.Nbd4 Rc7 38.Kh2 e5
+39.Ra5 exd4 40.Rxd5 Rc2 41.Nxd4 Rxf2+ 42.Kg3 Rd2 43.Rg5+ Kf8
+44.Nf5 a5 45.Rxh5 Kg8 46.Rg5+ Kf8 47.Rh5 Kg8 48.Rh6 a4 49.Ra6
+Ra2 50.Kg4 a3 51.Kh5 f6 52.Ra7 Ra1 53.Kg6 Rg1+ 54.Kxf6 Ra1
+55.Nh6+ Kh8 56.Nf7+ 1-0

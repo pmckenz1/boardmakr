@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "6"]
+[Result "0-1"]
+[White "Robert Plunkett"]
+[Black "Anna Hahn"]
+[ECO "B32"]
+[WhiteElo "1870"]
+[BlackElo "2271"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6
+7. Na3 b5 8. Nd5 Nce7 9. Be3 Nxd5 10. exd5 Nf6 11. c4 bxc4
+12. Nxc4 Rb8 13. Qa4+ Qd7 14. Qxd7+ Nxd7 15. O-O-O Rb5 16. f4
+f6 17. Be2 Bb7 18. a4 Rxd5 19. Rxd5 Bxd5 20. Nxd6+ Bxd6
+21. Rd1 exf4 22. Rxd5 Ke7 23. Rxd6 Kxd6 24. Bxf4+ Kd5 25. Bg4
+Nb8 26. b4 Re8 27. Bf3+ Kc4 28. Kb2 g5 29. Bd6 Nd7 30. Bb7 Re6
+31. Bxa6+ 0-1

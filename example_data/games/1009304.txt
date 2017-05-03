@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Daniel John King"]
+[Black "Jens-Uwe Maiwald"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 d6 2. Nc3 g6 3. g3 Bg7 4. Bg2 c5 5. d3 Nc6 6. Nf3 Bg4
+7. h3 Bxf3 8. Qxf3 e6 9. O-O Nge7 10. Bg5 Rb8 11. a3 Qd7
+12. Qd1 O-O 13. Qd2 Nd4 14. Rab1 b5 15. Na2 a5 16. c3 Ndc6
+17. Nc1 b4 18. Ne2 d5 19. Qc2 h6 20. Be3 d4 21. cxd4 cxd4
+22. Bf4 Rb5 23. a4 Rb7 24. Qb3 Rc8 25. Rbc1 Nd8 26. h4 e5
+27. Bd2 Rbc7 28. f4 Rxc1 29. Nxc1 exf4 30. Bxf4 Kh7 31. Kh2
+Rc5 32. Qd1 Rc6 33. Nb3 Qa7 34. e5 Ra6 35. Qf3 Ne6 36. Rc1 Qd7
+37. Qb7 Qxb7 38. Bxb7 Ra7 39. Be4 Kg8 40. Nc5 Rc7 41. Nb7 Rxc1
+42. Bxc1 Bxe5 43. Bxh6 Bc7 44. Kh3 f5 45. Bf3 Kf7 46. Bd1 Kf6
+47. Bb3 Ke5 48. Kg2 Nd5 49. Kf3 Bb6 50. Bc4 Bc7 1/2-1/2

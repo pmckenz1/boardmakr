@@ -1,0 +1,17 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Bent Larsen"]
+[Black "Peter Heine Nielsen"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bf4 O-O
+7. e3 c5 8. dxc5 Bxc5 9. Be2 dxc4 10. Bxc4 Nh5 11. Qxd8 Rxd8
+12. Bc7 Rd7 13. Be5 Nc6 14. O-O Nf6 15. Bg3 Rd8 16. Bc7 Rd7
+17. Bg3 Rd8 18. Bc7 1/2-1/2

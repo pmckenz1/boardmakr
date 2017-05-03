@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "E93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.d5
+Nbd7 8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.h4 g4 12.Nd2 f5 13.exf5
+Ndf6 14.Nf1 Bxf5 15.Ne3 Qd7 16.O-O Nf4 17.c5 dxc5 18.Qb3 Kh8
+19.Rad1 Ne4 20.Bb5 Qf7 21.Nxf5 Qxf5 22.Bd7 Qxd7 23.Nxe4 b6
+24.Rfe1 Qf7 25.Nc3 Rad8 26.Re4 Qf5 27.Qc4 Rd7 28.Rde1 Qf7
+29.Kh2 Nxd5 30.Nxd5 Rxd5 31.Rxg4 Rd4 32.Qxf7 Rxf7 33.Kh3 Kh7
+34.Bxe5 Rxg4 35.Kxg4 Bxe5 36.Rxe5 Rxf2 37.Re7+ Kg6 38.Re6+ Kf7
+39.Rc6 Rxg2+ 40.Kh5 Rxb2 41.Rxc7+ Ke6 42.Rxa7 c4 43.Kxh6 Rb5
+44.Rg7 c3 45.Rg1 c2 46.Rc1 Rc5 47.h5 Kd5 48.Kg6 Kd4 49.h6 Kc3
+0-1

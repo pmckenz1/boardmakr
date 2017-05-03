@@ -1,0 +1,28 @@
+[Event "US Championship"]
+[Site "New York, NY USA"]
+[Date "1936.05.03"]
+[EventDate "1936.04.25"]
+[Round "7"]
+[Result "0-1"]
+[White "Isaac Kashdan"]
+[Black "Reuben Fine"]
+[ECO "E23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "146"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3
+Bxc5 7. e3 O-O 8. Be2 b6 9. O-O Bb7 10. a3 Qe7 11. Rd1 Rfd8
+12. Bd2 d5 13. cxd5 exd5 14. Be1 d4 15. exd4 Nxd4 16. Nxd4
+Bxd4 17. Bf1 Qe5 18. h3 h5 19. Rd2 Bc5 20. Rxd8+ Rxd8 21. Rd1
+Rxd1 22. Qxd1 Bd6 23. g3 Bc5 24. Kh2 h4 25. Qd8+ Ne8 26. Qd2
+Nd6 27. f4 hxg3+ 28. Bxg3 Qe3 29. Qxe3 Bxe3 30. a4 Bc1 31. b3
+Bd2 32. Nb5 Nxb5 33. Bxb5 g6 34. Kg1 Bd5 35. Bc4 Bxc4 36. bxc4
+Kg7 37. Kf2 Kf6 38. Ke2 Bc1 39. Kd1 Ba3 40. Ke2 Kf5 41. Kf3
+Bd6 42. Bh2 g5 43. Bg1 Bxf4 44. c5 bxc5 45. Bxc5 a6 46. Bb6
+Bd6 47. Bd8 Be5 48. Ba5 Bf6 49. Bb6 Be7 50. Ba5 Ke6 51. Kg4
+f5+ 52. Kf3 Kd5 53. Bc7 Kc5 54. Ba5 Kc4 55. Bc7 Kb4 56. a5 Kc5
+57. Bb6+ Kc6 58. Be3 Bd8 59. Bd2 Kb5 60. Kf2 f4 61. Bc3 Kc4
+62. Bd2 Be7 63. h4 gxh4 64. Bxf4 Bd8 65. Bd2 Kb5 66. Kg2 Bxa5
+67. Bg5 Bb6 68. Bxh4 a5 69. Kf3 a4 70. Ke2 a3 71. Bf6 Kc4
+72. Kd2 Kb3 73. Kc1 a2 0-1

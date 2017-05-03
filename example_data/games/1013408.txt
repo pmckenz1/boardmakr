@@ -1,0 +1,23 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro BRA"]
+[Date "1939.05.29"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alekhine / Walter Oswaldo Cruz"]
+[Black "Silva Rocha A/Raul Charlier"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 a6
+7. c5 Nbd7 8. Bd3 Re8 9. b4 c6 10. h3 b6 11. Bh2 bxc5 12. bxc5
+e5 13. Nxe5 Nxe5 14. Bxe5 Bxc5 15. O-O Bd6 16. f4 Qe7 17. Qc2
+g6 18. Na4 Bb7 19. Rab1 Ra7 20. Rb3 Nd7 21. Rxb7 Rxb7 22. Qxc6
+Bxe5 23. Qxb7 Bg7 24. Kh2 Rb8 25. Qxd5 Qxe3 26. Bc4 Qxd4
+27. Qxd4 Bxd4 28. Rd1 Nc5 29. Rxd4 Nxa4 30. Bxa6 Nc5 31. Bc4
+Ne6 32. Re4 Rb4 33. Kg3 Kg7 34. Bd5 Rb6 35. Kf3 Rd6 36. Bxe6
+fxe6 37. a4 Rc6 38. a5 h5 39. Ra4 Ra6 40. Ke4 h4 41. Kd4 Kf6
+42. Kc5 g5 43. fxg5+ Kxg5 44. Kb5 Ra8 45. a6 Kf5 46. Rxh4 e5
+47. Ra4 1-0

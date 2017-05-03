@@ -1,0 +1,16 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "1/2-1/2"]
+[White "Varugeese Koshy"]
+[Black "Roy Shankar"]
+[ECO "A20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1. c4 e5 2. g3 c6 3. d4 exd4 4. Qxd4 Nf6 5. Nf3 d5 6. Bg2 Be7
+7. cxd5 Qxd5 8. Nc3 Qxd4 9. Nxd4 O-O 10. O-O Na6 11. Bf4 Nc5
+12. Rad1 Ne6 13. Nxe6 Bxe6 14. Rd2 1/2-1/2

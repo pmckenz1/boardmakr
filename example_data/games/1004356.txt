@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Sandor Boros"]
+[Black "Karoly Sterk"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. d4 d5 2. e3 e6 3. Bd3 c5 4. c3 Qc7 5. f4 Bd6 6. Qf3 Nc6
+7. Ne2 Nf6 8. O-O Bd7 9. Nd2 O-O-O 10. e4 dxe4 11. Nxe4 Nxe4
+12. Bxe4 Ne7 13. dxc5 Bxc5+ 14. Be3 Bb5 15. c4 Bxe3+ 16. Qxe3
+Bc6 17. Bxc6 Nxc6 18. Rfd1 Qa5 19. Nc3 Qb4 20. b3 1/2-1/2

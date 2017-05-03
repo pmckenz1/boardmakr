@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Oleg Romanishin"]
+[Black "Efim Geller"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 e6 5.Ne5 Bh5 6.cxd5 exd5 7.d4
+Nd7 8.O-O Ngf6 9.Qb3 Qb6 10.Nxd7 Nxd7 11.Qe3+ Be7 12.b3 Qd8
+13.Ba3 Bg4 14.Nc3 Be6 15.Bxe7 Qxe7 16.Rfe1 1/2-1/2

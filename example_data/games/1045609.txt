@@ -1,0 +1,21 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Eduard Prandstetter"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. Nf3 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3
+b6 7. b3 Bb7 8. Bb2 d6 9. e3 e5 10. Be2 Nbd7 11. O-O Qe7
+12. d4 Ne4 13. Qc2 Ng5 14. Nxg5 Qxg5 15. d5 Qe7 16. f4 Rfe8
+17. Bd3 e4 18. Be2 a5 19. Qc3 f6 20. Bg4 Nf8 21. Rfd1 Qf7
+22. Rd2 Bc8 23. Bd1 Nd7 24. b4 axb4 25. axb4 Rxa1 26. Bxa1 Bb7
+27. Bg4 Nf8 28. Ra2 b5 29. Ra7 Bc8 30. Be2 bxc4 31. Qxc4 Re7
+32. Qc6 Kh8 33. Bd4 Bd7 34. Qxc7 Qxd5 35. Qc4 Qxc4 36. Bxc4
+Re8 37. b5 Rb8 38. b6 h6 39. Bd5 Be6 40. Bc6 1-0

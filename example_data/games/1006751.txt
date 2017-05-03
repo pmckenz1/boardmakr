@@ -1,0 +1,19 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.05"]
+[EventDate "1920.08.02"]
+[Round "3"]
+[Result "1-0"]
+[White "Aage Kier"]
+[Black "Simon Krenzisky"]
+[ECO "C12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3
+Ne4 8.Qg4 g6 9.Bc1 c5 10.Bd3 cxd4 11.Bxe4 dxe4 12.Qxe4 dxc3
+13.Ne2 Qc7 14.Ba3 Bd7 15.Bd6 Qc6 16.Qg4 Na6 17.O-O Nc7 18.Rfd1
+Nd5 19.a4 Rc8 20.h4 Rg8 21.Qf3 f5 22.exf6 Kf7 23.Be5 g5 24.Qd3
+Rh8 25.h5 Rcg8 26.Nxc3 g4 27.Ne4 Be8 28.Rab1 g3 29.Rxb7+ Bd7
+30.Nd6+ 1-0

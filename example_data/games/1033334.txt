@@ -1,0 +1,19 @@
+[Event "8, it op Olot ESP (10s)"]
+[Site "Olot ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Jordi Cuadras Avellana"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2
+Bb7 7. e3 O-O 8. b3 Ne4 9. Qc2 f5 10. Bb2 d6 11. Rd1 Nd7
+12. d5 e5 13. Be2 a5 14. O-O Qe7 15. b4 axb4 16. axb4 Ra2
+17. Bd3 Ng5 18. Nxg5 Qxg5 19. f4 exf4 20. exf4 Qh5 21. Rde1
+Rf7 22. Re3 h6 23. Rh3 Qg6 24. Rg3 Qh7 25. Qb1 Ra4 26. Bxg7
+Rxg7 27. Bxf5 1-0

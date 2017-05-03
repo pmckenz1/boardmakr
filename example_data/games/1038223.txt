@@ -1,0 +1,16 @@
+[Event "New"]
+[Site "New York, NY USA"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nick DeFirmian"]
+[Black "Helgi Olafsson"]
+[ECO "B87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3
+b5 8.O-O Be7 9.f4 Bb7 10.Be3 b4 11.Nd5 exd5 12.e5 dxe5 13.fxe5
+O-O 14.Nf5 Ne8 15.Bxd5 Nc6 16.Rf3 Rb8 17.Bf4 Bc5+ 18.Kh1 0-1

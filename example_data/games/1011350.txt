@@ -1,0 +1,21 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Ketevan Arakhamia-Grant"]
+[Black "John K Shaw"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4
+7. Nb5 Bc7 8. f4 Bd7 9. Nxd4 Nh6 10. Ngf3 Nc6 11. Bb2 Nxd4
+12. Bxd4 Nf5 13. Bf2 Bb6 14. Qd2 Bxf2+ 15. Qxf2 Qc7 16. Qd2 a5
+17. b5 Qc5 18. a4 Rc8 19. Bd3 Ne3 20. Ke2 Nc4 21. Qc1 O-O
+22. Re1 f6 23. Kf1 Be8 24. exf6 Rxf6 25. g3 d4 26. Kg1 Ne3
+27. Qd2 Bh5 28. Nxd4 Nxc2 29. Bxc2 Rd8 30. Bb3 Qxd4+ 31. Qxd4
+Rxd4 32. Rac1 h6 33. f5 Rb4 34. Bxe6+ Bf7 35. Rc8+ Kh7 36. Rf8
+1-0

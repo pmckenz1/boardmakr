@@ -1,0 +1,20 @@
+[Event "It (cat.7)"]
+[Site "Budapest (Hungary)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Laszlo Zsinka"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Be7 7.Nc3
+O-O 8.O-O d5 9.cxd5 exd5 10.Qc2 Na6 11.Rad1 Qc8 12.Bf4 Rd8
+13.Be5 c5 14.Ng5 h6 15.Bh3 Qc6 16.Bxf6 Bxf6 17.Qh7+ Kf8 18.Nf3
+Nc7 19.Rd3 Ne6 20.Bxe6 fxe6 21.Ne5 Bxe5 22.dxe5 Rd7 23.Rfd1 d4
+24.Rf3+ Rf7 25.Rdd3 dxc3 26.Rxf7+ Kxf7 27.Rf3+ Qxf3 28.exf3
+cxb2 29.Kg2 c4 30.g4 Rd8 31.Qc2 Rd3 32.Qxb2 Bxf3+ 33.Kg3 Bd5
+0-1

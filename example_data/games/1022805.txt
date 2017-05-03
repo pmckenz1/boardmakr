@@ -1,0 +1,21 @@
+[Event "Alma Ata"]
+[Site "Alma Ata"]
+[Date "1963.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Igor Arkadievich Zaitsev"]
+[Black "Vladimir Bagirov"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 b5 6.e5 Nd5 7.a4 e6
+8.axb5 Nxc3 9.bxc3 cxb5 10.Ng5 Bb7 11.Qh5 g6 12.Qg4 Be7 13.Be2
+Bd5 14.Bf3 Nc6 15.Ne4 h5 16.Qg3 b4 17.O-O Rb8 18.Bg5 Bxe4
+19.Bxe4 Nxd4 20.cxd4 Bxg5 21.d5 exd5 22.e6 h4 23.Qf3 Qf6
+24.exf7+ Kf8 25.Bxd5 Qxf3 26.gxf3 c3 27.Bb3 Rb7 28.Ra5 Bf4
+29.Rfa1 Rxf7 30.Bxf7 Kxf7 31.Rxa7+ Kf6 32.R1a6+ Kg5 33.Rc6 h3
+34.Ra5+ Kh6 35.Rc4 Rd8 36.Kf1 b3 37.Rxc3 b2 38.Rb5 Rd1+ 39.Ke2
+b1=Q 40.Rxb1 Rxb1 0-1

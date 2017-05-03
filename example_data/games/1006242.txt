@@ -1,0 +1,26 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Helgi Ass Gretarsson"]
+[Black "Olli Salmensuu"]
+[ECO "A36"]
+[WhiteElo "2544"]
+[BlackElo "2418"]
+[PlyCount "121"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. a3 e5 6. Rb1 a5
+7. e3 Nge7 8. Nge2 d6 9. d3 O-O 10. O-O Rb8 11. Qb3 Be6
+12. Nd5 Na7 13. Nxe7+ Qxe7 14. Qb6 Nc6 15. Bd2 e4 16. Bxe4
+Bxc4 17. Nf4 g5 18. Nd5 Qe6 19. Nc7 Qe7 20. Qxa5 f5 21. Nd5
+Qf7 22. dxc4 fxe4 23. Bc3 Bxc3 24. bxc3 Qh5 25. Qc7 Ne5 26. f4
+exf3 27. Qxb8 Qh3 28. Nf6+ Kg7 29. Qxb7+ Rf7 30. Rxf3 Rxb7
+31. Rxb7+ Kg6 32. Rf2 Qc8 33. Re7 g4 34. Rf4 Nd3 35. Rf1 Ne5
+36. Rf4 Nd3 37. Rf1 Ne5 38. Nd5 Nf3+ 39. Kg2 Qb8 40. h3 h5
+41. Re6+ Kg7 42. hxg4 hxg4 43. Re4 Ne5 44. Ref4 Qh8 45. Rh1
+Qb8 46. Rhf1 Qh8 47. Rh1 Qb8 48. Rh5 Qb2+ 49. Rf2 Qb1 50. Nf6
+Nd3 51. Rf1 Qc2+ 52. Kg1 Ne5 53. Nxg4 Qg6 54. Rff5 Nf3+
+55. Rxf3 Qxh5 56. Rf4 Qe8 57. Kf2 Qb8 58. Nf6 Qb3 59. Nd5 Qc2+
+60. Kf3 Qd1+ 61. Kf2 1/2-1/2

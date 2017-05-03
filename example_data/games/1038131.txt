@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Danny Kopec"]
+[Black "Nick DeFirmian"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e3 Qb6 5.Nbd2 Qxb2 6.Rb1 Qc3
+7.Rb3 Qa5 8.Rb5 Qxa2 9.Bxf6 gxf6 10.Ne4 a6 11.Rxc5 Bxc5
+12.dxc5 Qa5+ 13.Nfd2 f5 14.Nd6+ Ke7 15.Qh5 Qa1+ 16.Ke2 b5
+17.Qxf7+ Kd8 18.Nb3 Qc3 19.Kd1 Nc6 20.Bd3 Kc7 21.Bxb5 Rb8
+22.Bxc6 Rxb3 23.cxb3 Qxb3+ 24.Kd2 Qb2+ 25.Kd3 Kxc6 26.Nc4 Qb3+
+27.Kd4 Qb4 28.Qe7 Kb5 29.Rb1 1-0

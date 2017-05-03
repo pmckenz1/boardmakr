@@ -1,0 +1,20 @@
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Ivan Farago"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 d5 5. cxd5 Nxd5 6. Bg2 Nc6
+7. O-O Be7 8. d4 O-O 9. e4 Nxc3 10. bxc3 cxd4 11. cxd4 b6
+12. Bb2 Ba6 13. Re1 Nb4 14. Bf1 Bxf1 15. Kxf1 Rc8 16. Re2 f5
+17. Qb3 Kh8 18. Ne5 Qd6 19. a3 Nc6 20. Nxc6 Qxc6 21. Rc1 Qd7
+22. Rxc8 Rxc8 23. exf5 e5 24. f6 Bxf6 25. dxe5 Be7 26. e6 Qc6
+27. f3 Kg8 28. Kg2 b5 29. Qe3 a6 30. Qd4 Bf6 31. Qd7 Qc4
+32. Rd2 Bxb2 33. e7 Bxa3 34. Qxc8+ 1-0

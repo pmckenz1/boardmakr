@@ -1,0 +1,36 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.30"]
+[EventDate "1895.08.05"]
+[Round "19"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "James Mason"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.e4 {Notes by E. Schiffers} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.e5 {The best continuation
+here, as is well known, is Qb3 (!).} d5 {A good move pointed
+out by Zukertort. The 'Handbuch' gives also 8 Nge7.} 9.exd6
+Qxd6 10.Qb3 Be6 11.Bxe6 fxe6 12.Rd1 Qb4 13.Qxe6+ Qe7 14.Qb3 c2
+15.Qxc2 Rd8 16.Nbd2 Qf7 17.Ba3 Bxd2 18.Rxd2 Rxd2 19.Qxd2 Nge7
+20.Re1 O-O {White has lost the attack, and has not regained
+the Pawn; 'the peculiarity of this opening,'as Hoffer
+remarked.} 21.Ng5 Qf6 22.Ne6 {If 22 Re6 then might follow Qf5
+(Qa1+ Re1) 23 Bxe7 (23 Rxe7 Nxe7 and if 24 Bxe7 Qb1+, etc.)
+Re8, and afterwards Rxe7 or h6.} Rf7 23.h3 h6 24.Nxc7 Ng6
+25.Re8+ {White succeeds in regaining the Gambit Pawn. We think
+that by careful defensive play White could obtain a draw.} Kh7
+26.Ne6 Qf5 27.f3 Nce5 28.Qe2 Rf6 29.Nc5 Rc6 30.Ne4 Nf4 {Taking
+advantage now of the retirement of White's Rook from the game,
+Black obtains the attack, winning the exchange.} 31.Qe3 {Other
+moves are not better; if Qd2 then Nc4, or if Qf2, then Qg6,
+threatening Nxh3+.} Qg6 {Still stronger would have been
+31...Nxg2 and if 32 Kxg2 then Qg6+ 33 Kh1 Qxe8, and if then 34
+f4 Re6 35 fxe5 Rxe5, etc. 31...Rc2 would also win.} 32.Qxf4
+Qxe8 33.Nd6 Ng6 34.Qd2 Qe5 35.Ne4 Qb5 36.Bb2 Rc7 37.Kh2 Rd7
+38.Qc1 Qe2 39.Bc3 Nh4 40.Qb2 Nxf3+ 41.Kg3 Qxe4 42.gxf3 Qg6+
+43.Kh2 Rd1 44.Qf2 Qd3 45.Bb4 Rc1 46.Qh4 Qc2+ 47.Kg3 Rg1+ 0-1

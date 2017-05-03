@@ -1,0 +1,22 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Wilhelm Kunze"]
+[Black "Milan Vidmar"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. a4 Be6 9. dxe5 Na5 10. Ba2 Bc5 11. c3 Bb6 12. Nd4
+Qh4 13. Be3 Nc4 14. axb5 Nxe3 15. fxe3 axb5 16. Qe2 O-O
+17. Qxb5 Qg5 18. Qe2 Qxe5 19. Nd2 c5 20. Nxe6 Qxe6 21. Nxe4
+Qxe4 22. Bb1 Qe6 23. Bf5 Qe5 24. Rae1 Rfe8 25. Rf3 Re7 26. c4
+d4 27. Bd3 Ba5 28. Ref1 dxe3 29. Rf5 Qc7 30. Rh5 g6 31. Rh3
+Bd2 32. Qf3 Rb8 33. b3 Qe5 34. Qe2 Rxb3 35. Bc2 Rb2 36. Bd1
+Bc3 37. Qf3 e2 38. Qxc3 exf1=Q+ 39. Kxf1 Qf4+ 40. Rf3 Qxh2
+41. Bc2 Rxc2 0-1

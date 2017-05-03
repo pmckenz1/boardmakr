@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.07"]
+[EventDate "1923.04.28"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "George Alan Thomas"]
+[Black "Ernst Gruenfeld"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5
+7. c3 d6 8. d3 Be6 9. Nbd2 O-O 10. Nf1 Bxb3 11. axb3 Nd7
+12. Ng3 Ne7 13. Nh4 Re8 14. Qg4 Kh8 15. Bg5 f6 16. Bd2 Rg8
+17. Ngf5 Nxf5 18. exf5 Re8 19. O-O d5 20. Rfe1 c6 21. Qh5 Kg8
+22. Re2 Re7 23. Qg4 Qe8 24. Kf1 Qf7 25. d4 Bd6 26. b4 Bc7
+27. Nf3 Qf8 28. Rae1 Rae8 29. dxe5 Nxe5 30. Nxe5 Rxe5 31. Rxe5
+Rxe5 32. Re3 Rxe3 33. Bxe3 a5 34. Bc5 Qa8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.05"]
+[EventDate "2000.04.05"]
+[Round "1"]
+[Result "0-1"]
+[White "Kristjan Edvardsson"]
+[Black "Tomasz Markowski"]
+[ECO "D11"]
+[WhiteElo "2170"]
+[BlackElo "2531"]
+[PlyCount "64"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. g3 dxc4 5. Bg2 b5 6. O-O Nf6
+7. a4 Bb7 8. Ne5 a6 9. Nc3 Nd5 10. f4 f6 11. Nf3 Be7 12. Bh3
+f5 13. e4 Nxc3 14. bxc3 O-O 15. Ne5 Nd7 16. Be3 c5 17. d5 exd5
+18. Bxf5 Rxf5 19. exf5 Nxe5 20. fxe5 d4 21. cxd4 Qd5 22. Kf2
+Rd8 23. f6 Bf8 24. fxg7 Be7 25. Qg4 cxd4 26. Bd2 c3 27. Bh6 d3
+28. Ke1 Qe4+ 29. Qxe4 Bxe4 30. axb5 axb5 31. Ra2 Bd5 32. Raf2
+d2+ 0-1

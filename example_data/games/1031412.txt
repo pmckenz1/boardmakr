@@ -1,0 +1,21 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Alex Sherzer"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.Bd3 O-O 7.h3 a6
+8.a4 e6 9.Nf3 exd5 10.exd5 Re8+ 11.Be3 Nh5 12.O-O Nd7 13.Qd2
+Ne5 14.Nxe5 Rxe5 15.Rae1 Bd7 16.Bh6 Bxh6 17.Qxh6 Qe7 18.Re2
+Rxe2 19.Bxe2 Ng7 20.Qf4 Re8 21.a5 Nf5 22.Bd3 Nd4 23.b4 cxb4
+24.Qxd4 bxc3 25.Qxc3 Rc8 26.Qb4 Rc5 27.Re1 Qd8 28.Qxb7 Rxa5
+29.Rb1 Ra3 30.Qb4 Rxd3 31.Qxd6 Qe8 32.Rb8 Bc8 33.Kh2 Rc3
+34.Qf6 Rxc4 35.d6 Qd7 36.f4 Rc2 37.Kg3 Qc6 38.Kh4 Qxg2
+39.Rxc8+ Rxc8 40.d7 Qf2+ 41.Kg4 Qg1+ 42.Kh4 Qe1+ 0-1

@@ -1,0 +1,14 @@
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca ESP"]
+[Date "1989.12.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Sergey Makarichev"]
+[Black "Alexey Dreev"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "7"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 1/2-1/2

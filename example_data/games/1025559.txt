@@ -1,0 +1,19 @@
+[Event "RUS-ch Elista"]
+[Site "06"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Valeri Yandemirov"]
+[ECO "C74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.exf5 Bxf5 7.O-O
+Bd3 8.Re1 Be7 9.Bc2 Bxc2 10.Qxc2 Nf6 11.d4 O-O 12.dxe5 Nxe5
+13.Nxe5 dxe5 14.Be3 Ng4 15.Nd2 Bg5 16.Bxg5 Qxg5 17.Ne4 Qf4
+18.g3 Qh6 19.h4 Qg6 20.Re2 b6 21.Rd1 Rad8 22.Qb3+ Kh8 23.Rxd8
+Rxd8 24.Qc4 h6 25.Qxc7 Rd3 26.Qc8+ Kh7 27.Qxa6 Rd1+ 28.Kg2 Qf5
+29.Qc4 Nh2 30.Nd2 Rxd2 31.Rxd2 Nf3 32.Re2 1-0

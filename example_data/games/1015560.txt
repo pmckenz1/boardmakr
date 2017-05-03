@@ -1,0 +1,19 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Karoly Honfi"]
+[Black "Andras Adorjan"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 Nf6 5.Nc3 O-O 6.O-O Nc6 7.d5
+Nb8 8.h3 c6 9.a4 Nbd7 10.Re1 Qc7 11.Qe2 a5 12.Bf4 Ne5 13.Nxe5
+dxe5 14.Be3 Nh5 15.f3 Nf4 16.Qf2 Qd6 17.Rad1 Qf6 18.Kh2 g5
+19.Ne2 h5 20.Nxf4 gxf4 21.Bc5 h4 22.Re2 Qg5 23.Kh1 Re8 24.Qe1
+Bf6 25.dxc6 bxc6 26.Red2 Kg7 27.Qf1 e6 28.Rd6 Bb7 29.Rd7 Be7
+30.Bf2 Rab8 31.Ba7 Bc8 32.Rxe7 1-0

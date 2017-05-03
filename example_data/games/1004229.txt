@@ -1,0 +1,26 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Ernst Ludwig Klein"]
+[Black "L Reich"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 Bg4
+7. f3 Bh5 8. Nge2 Nfd7 9. Be3 f6 10. Qd2 Na6 11. g4 Bf7
+12. Ng3 Nc7 13. h4 g6 14. Nd1 b6 15. Nf2 Na6 16. a3 Qc7
+17. Qc3 O-O-O 18. b4 h6 19. Kd2 Qb7 20. Qb3 Rdg8 21. h5 g5
+22. Nf5 Re8 23. Rhb1 Bf8 24. Nh1 Bg8 25. Nhg3 Bh7 26. Ra2 Bg8
+27. Rba1 Rd8 28. Kc2 Rh7 29. b5 Nc7 30. a4 a5 31. bxa6 Nxa6
+32. Bd2 Ndb8 33. Rb1 Rdd7 34. Kd1 Qa7 35. Qxb6 Rhf7 36. Rab2
+Bh7 37. Bc2 Rd8 38. a5 Qa8 39. Qb3 Rc7 40. Qa3 Nd7 41. Ba4 Bg8
+42. Ne3 Ndb8 43. Rb6 Bf7 44. Ngf5 Ra7 45. Ke2 Rc7 46. Qb3 Ra7
+47. Nc2 Rc7 48. Na3 Ra7 49. Bc6 Nxc6 50. dxc6 Be8 51. Rb5 Kc7
+52. Rb7+ Rxb7 53. Qxb7+ Qxb7 54. Rxb7+ Kc8 55. Ra7 Bxc6
+56. Rxa6 Kd7 57. Ra7+ Ke6 58. Nb5 Bxb5 59. cxb5 Rb8 60. b6 d5
+61. b7 d4 62. a6 d3+ 63. Kxd3 c4+ 64. Kxc4 Bc5 65. Ra8 1-0

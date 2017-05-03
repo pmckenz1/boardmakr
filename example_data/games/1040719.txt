@@ -1,0 +1,15 @@
+[Event "Ch USA"]
+[Site "Modesto, CA USA"]
+[Date "1995.12.02"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Roman Dzindzichashvili"]
+[Black "Walter Shawn Browne"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.e3 Nc6 5.d4 d5 6.a3 a6 7.dxc5
+Bxc5 1/2-1/2

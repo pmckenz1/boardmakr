@@ -1,0 +1,28 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Yuri Zhizmer"]
+[Black "Feodosi J Docenko"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "148"]
+
+1. e4 c5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Nf3 a6 6. d4 cxd4
+7. Qxd4 Qxd4 8. Nxd4 Nf6 9. Be3 Bd7 10. O-O-O e6 11. Be2 Nc6
+12. Nb3 Nb4 13. Bf3 Bc6 14. Bxc6+ Nxc6 15. f5 Bb4 16. fxe6
+fxe6 17. Nc5 Bxc3 18. bxc3 Nd5 19. Nxe6 Nxe3 20. Nc7+ Kf7
+21. Rd7+ Kf6 22. Re1 Rad8 23. Rxd8 Rxd8 24. Rxe3 Rd7 25. Ne6
+Rd5 26. Nf4 Ra5 27. Kb1 Rb5+ 28. Kc1 Ra5 29. Kb1 Rb5+ 30. Ka1
+Ne5 31. Re1 Rc5 32. Rf1 Ke7 33. Rb1 b5 34. Re1 Kd6 35. Nh5 Rc7
+36. Rd1+ Kc6 37. Re1 Nc4 38. Nf4 Rf7 39. Nd3 a5 40. Ne5+ Nxe5
+41. Rxe5 Rf2 42. Rg5 g6 43. Kb2 Rf4 44. g3 Rf2 45. h4 Rf5
+46. Rg4 Rf3 47. c4 b4 48. Rg5 a4 49. Rb5 a3+ 50. Kc1 Rxg3
+51. Rxb4 Rg1+ 52. Kd2 Ra1 53. Ra4 Rxa2 54. Kc3 Ra1 55. Kb3 Rh1
+56. Rxa3 Rxh4 57. Kb4 g5 58. Ra6+ Kb7 59. Rf6 g4 60. Kb5 Rh2
+61. Rf7+ Kc8 62. c5 Kd8 63. Rg7 h5 64. c4 Rb2+ 65. Kc6 Rc2
+66. Rh7 Rh2 67. Rg7 Ke8 68. Kb7 Rb2+ 69. Kc7 Rc2 70. Rh7 Rxc4
+71. Rxh5 Kf7 72. c6 Kg8 73. Rg5+ Kf8 74. Kd6 Kf7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "02"]
+[Site "San"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Orestes J Giustina"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 e5 4.Nf3 Bg4 5.dxe5 Bxf3 6.Qxf3 dxe5
+7.Bg5 Be7 8.Bc4 c6 9.O-O Nbd7 10.Rad1 Qc7 11.Ne2 b5 12.Bb3 Nc5
+13.Ng3 Nxb3 14.axb3 Ng8 15.Be3 g6 16.Rd3 Rd8 17.Rxd8+ Bxd8
+18.Ra1 c5 19.b4 Be7 20.Qe2 Qb6 21.Ra5 a6 22.c4 bxc4 23.Qxc4
+Qxb4 24.Qxa6 Kf8 25.Rb5 Qe1+ 26.Nf1 Kg7 27.Rb7 Qd1 28.Qa7 Qd6
+29.h3 Qe6 30.Nd2 Bd6 31.Nf3 h6 32.Bxc5 Bxc5 33.Qxc5 Nf6
+34.Qxe5 Qc6 35.Qe7 Qc4 36.Rc7 Qb3 37.Nd4 Qa2 38.Ne6+ 1-0

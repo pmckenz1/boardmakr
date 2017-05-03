@@ -1,0 +1,22 @@
+[Event "Stockholm"]
+[Site "Stockholm SWE"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Kristian Skold"]
+[Black "Mikhail Botvinnik"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Nc3 cxd4 5.Nxd4 d6 6.Be3 Nf6 7.Bc4
+Ng4 8.Bb5+ Kf8 9.Qd2 a6 10.Bc4 Nc6 11.Nxc6 bxc6 12.h3 Nxe3
+13.Qxe3 Rb8 14.Bb3 Qb6 15.Qf3 Bf6 16.g4 h6 17.h4 Qc5 18.Rg1 g5
+19.O-O-O h5 20.gxh5 g4 21.Qd3 a5 22.f4 Bxc3 23.Qxc3 Qxc3
+24.bxc3 f5 25.e5 d5 26.c4 Be6 27.cxd5 cxd5 28.Bxd5 Kf7
+29.Bxe6+ Kxe6 30.Rd4 Rxh5 31.Rc4 Rb4 32.Rxb4 axb4 33.Kd2 Kd5
+34.Ke3 Rxh4 35.Rd1+ Kc5 36.Rd7 Rh3+ 37.Ke2 Rf3 38.Rxe7 Rxf4
+39.Ke3 Re4+ 40.Kd3 Kd5 41.a3 Rd4+ 42.Ke3 f4 43.Ke2 bxa3 44.Ra7
+Kxe5 45.Rxa3 f3 0-1

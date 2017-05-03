@@ -1,0 +1,21 @@
+[Event "Ch Manhattan Chess Club"]
+[Site "New York, NY USA"]
+[Date "1981.04.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Adam Kuligowski"]
+[Black "Andras Adorjan"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.e4 Nxc3
+7.bxc3 c5 8.Be3 Qa5 9.Nd2 cxd4 10.cxd4 Nc6 11.d5 Nd4 12.Rc1
+Qxa2 13.Bc4 Qb2 14.Bxd4 Qxd4 15.Bb5+ Kf8 16.O-O Bh6 17.Rc2 a6
+18.Be2 Bd7 19.Qb1 Rc8 20.Nf3 Qf6 21.e5 Qf4 22.Ra2 Bg4 23.Qxb7
+Kg7 24.Qxe7 Rhe8 25.Qf6+ Qxf6 26.exf6 Kxf6 27.Rxa6+ Kg7 28.Bb5
+Bxf3 29.gxf3 Re5 30.Rd1 Bf4 31.h4 Rc5 32.Bc6 Re2 33.d6 Rcc2
+34.d7 Rxf2 35.d8=Q Rg2+ 36.Kf1 Rgf2+ 37.Kg1 Rg2+ 38.Kf1 Rgf2+
+39.Kg1 Rg2+ 40.Kf1 Be3 41.Qd4+ Bxd4 42.Rxd4 1/2-1/2

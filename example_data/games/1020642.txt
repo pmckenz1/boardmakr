@@ -1,0 +1,18 @@
+[Event "It (cat.13), Haninge (Sweden)"]
+[Site "Haninge SWE"]
+[Date "1989.05.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lev Polugaevsky"]
+[Black "Ulf Andersson"]
+[ECO "E39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3
+Nc6 8.Bg5 Nd4 9.Nxd4 Bxd4 10.e3 Qa5 11.exd4 Qxg5 12.Qd2 Qxd2+
+13.Kxd2 b6 14.b4 d6 15.Be2 Bb7 16.f3 Rfc8 17.a4 a5 18.Rhb1 Bc6
+19.bxa5 bxa5 20.Nb5 Rd8 21.Ke3 Kf8 22.Ra3 Ke7 23.Nc3 Rdb8
+24.Rab3 Rxb3 25.Rxb3 Nd7 26.Bd3 1/2-1/2

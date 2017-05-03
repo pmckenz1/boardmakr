@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.25"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Simen Agdestein"]
+[Black "Lubomir Ftacnik"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. c4 c5 2. g3 g6 3. Nf3 b6 4. d4 cxd4 5. Qxd4 Nf6 6. Bg5 Bg7
+7. Nc3 Bb7 8. Bg2 d6 9. O-O Nbd7 10. Rac1 Rc8 11. b3 O-O
+12. Qd2 Nc5 13. Bh6 Nce4 14. Nxe4 Nxe4 15. Qe3 Bxh6 16. Qxh6
+Rc5 17. Rfd1 Qc7 18. Rd4 Rh5 19. Qe3 f5 20. Nd2 e5 21. Rd3 f4
+22. Qxe4 Bxe4 23. Nxe4 fxg3 24. hxg3 Rhf5 25. Rcd1 b5 26. cxb5
+Qb6 27. e3 Qxb5 28. Nxd6 Qa6 29. Nxf5 gxf5 30. Rd7 f4 31. exf4
+exf4 32. gxf4 Qh6 33. f5 Qg5 34. R1d5 Qc1+ 35. Rd1 Qg5
+36. R1d5 Qc1+ 37. Rd1 Qg5 1/2-1/2

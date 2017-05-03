@@ -1,0 +1,17 @@
+[Event "Santiago ESUCOMEX op"]
+[Site "Santiago ESUCOMEX op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ivan Camousseigt Vera"]
+[Black "Andres Rodriguez Vila"]
+[ECO "A83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 Nc6 5.Bxf6 exf6 6.Nxe4 d5
+7.Ng3 Bd6 8.Nf3 O-O 9.Be2 f5 10.Qd2 f4 11.Nf1 Bf5 12.a3 Qe7
+13.Kd1 Rae8 14.h3 Rf6 15.N1h2 Re6 16.Re1 a6 17.b4 a5 18.c4
+Nxb4 19.c5 Nc2 20.cxd6 Qd7 21.Qxa5 Nxa1 0-1

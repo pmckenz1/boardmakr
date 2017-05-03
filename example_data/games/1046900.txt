@@ -1,0 +1,22 @@
+[Event "It"]
+[Site "It"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Nail Muhamedzjanov"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c6 7.Nc3
+Bg4 8.h3 Bxf3 9.Bxf3 Nbd7 10.Bg2 e5 11.e3 Qe7 12.b3 e4 13.Ba3
+Rfe8 14.Rc1 h5 15.Qc2 a6 16.Rcd1 Nf8 17.f3 exf3 18.Rxf3 c5
+19.Rdf1 N8d7 20.Kh2 Rf8 21.b4 b6 22.Rf4 Qxe3 23.Bc1 Qe6
+24.Bxa8 Rxa8 25.bxc5 bxc5 26.dxc5 dxc5 27.Qg2 Rf8 28.Bb2 Rb8
+29.Ba1 Ne5 30.Nd5 Nfd7 31.Re4 Kh8 32.Rfe1 Kg8 33.Qe2 f6 34.Nf4
+Qf7 35.Rd1 Nc6 36.Nxg6 Qxg6 37.Rxd7 Nd4 38.Bxd4 cxd4 39.Ree7
+Bf8 40.Qe6+ Kh8 41.Rh7+ Qxh7 42.Rxh7+ Kxh7 43.Qf7+ Bg7
+44.Qxh5+ Bh6 45.Qf5+ Kh8 46.h4 Rb2+ 47.Kh3 Be3 48.c5 1-0

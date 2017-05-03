@@ -1,0 +1,21 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.12"]
+[EventDate "1911.08.21"]
+[Round "17"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Oscar Chajes"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.e3 c6 5.Bd3 Nbd7 6.O-O Bd6 7.Nc3
+O-O 8.e4 dxe4 9.Nxe4 Nxe4 10.Bxe4 f5 11.Bc2 Nf6 12.Qe2 b6
+13.b3 a5 14.Bb2 Qc7 15.Rad1 Re8 16.Rfe1 Bb7 17.c5 Bf8 18.Ng5
+Bc8 19.Bxf5 h6 20.Bxe6+ Bxe6 21.Nxe6 Qf7 22.Rd3 bxc5 23.dxc5
+Bxc5 24.Bxf6 Qxf6 25.Rf3 Qe7 26.Qc4 Kh8 27.Re4 Bb4 28.g3 Rac8
+29.h4 Qd7 30.Rd3 Qa7 31.Kg2 Re7 32.Nf4 Kh7 33.Re6 Rf7 34.Qe4+
+Kg8 35.Re8+ Rxe8 36.Qxe8+ Bf8 37.Qxc6 Rf6 38.Qc8 Qe7 39.Qc4+
+Kh7 40.Nd5 Qe5 41.Nxf6+ Qxf6 42.Rf3 1-0

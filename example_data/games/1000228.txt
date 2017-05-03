@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Vladimir Polyakin"]
+[Black "Tim Redman"]
+[ECO "A57"]
+[WhiteElo "2203"]
+[BlackElo "2012"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 O-O
+7. h3 e6 8. Nf3 exd5 9. cxd5 a6 10. a4 Nbd7 11. O-O Re8
+12. Re1 Rb8 13. Bf4 Qc7 14. Rc1 Nh5 15. Be3 Ne5 16. Nxe5 Bxe5
+17. Qd2 Bd7 18. b3 Qa5 19. f4 Bd4 20. g4 Nxf4 21. Bf1 Bxe3+
+22. Qxe3 g5 23. Ne2 Nxe2+ 24. Rxe2 Qd8 1/2-1/2

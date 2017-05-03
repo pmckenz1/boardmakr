@@ -1,0 +1,21 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.06.23"]
+[EventDate "1930.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Vera Menchik"]
+[Black "William Winter"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. Nc3 d6
+7. O-O O-O 8. e4 c5 9. d5 Na6 10. Re1 e5 11. Nd2 Nc7 12. Nf1
+Bc8 13. Ng3 Nfe8 14. f4 exf4 15. Bxf4 Bg5 16. Qf3 Bxf4
+17. Qxf4 Qf6 18. Qxf6 Nxf6 19. e5 dxe5 20. Rxe5 Re8 21. Rae1
+Bd7 22. Bf5 Kf8 23. Bxd7 Nxd7 24. Rxe8+ Rxe8 25. Rxe8+ Nxe8
+26. Nge4 Ke7 27. b3 Nef6 28. Nxf6 Kxf6 29. Kf2 Ke5 30. Ke3 f5
+31. Nb5 a5 32. g3 g5 33. Kf3 Nf6 34. Nc3 Kd4 35. Na4 Nd7
+36. h4 h6 37. hxg5 1/2-1/2

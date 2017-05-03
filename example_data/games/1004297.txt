@@ -1,0 +1,19 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.07.04"]
+[EventDate "1930.??.??"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vera Menchik"]
+[Black "Edward G Sergeant"]
+[ECO "A09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. bxc5 Nc6 5. e3 e5 6. d3 Bxc5
+7. e4 Nge7 8. Be2 O-O 9. O-O Ng6 10. Re1 f5 11. exf5 Bxf5
+12. Bg5 Qd6 13. Nh4 Nxh4 14. Bxh4 Bb4 15. Rf1 Bc3 16. Nxc3
+dxc3 17. Bf3 Qxd3 18. Bd5+ Kh8 19. Qxd3 Bxd3 20. Rfd1 Bxc4
+21. Bxc4 Rf4 22. Bd5 Rxh4 23. Bxc6 bxc6 24. Rd3 Rc4 25. Rc1 c2
+26. Rd2 Rb8 27. g3 Kg8 28. Rdxc2 Rxc2 29. Rxc2 1/2-1/2

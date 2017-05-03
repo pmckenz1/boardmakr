@@ -1,0 +1,24 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jiri Lechtynsky"]
+[Black "Lubomir Ftacnik"]
+[ECO "D83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5
+7. dxc5 Be6 8. Nf3 Nc6 9. Be2 Ne4 10. O-O Nxc3 11. bxc3 dxc4
+12. Ng5 Bd7 13. Bxc4 Na5 14. Bd5 Rc8 15. Qf3 e6 16. Bxb7 Nxb7
+17. Qxb7 Bc6 18. Qxa7 e5 19. Rfd1 Qf6 20. Nxh7 Kxh7 21. Bg3
+Ra8 22. Qb6 Be4 23. f3 Bf5 24. e4 Be6 25. Rc2 Rfb8 26. Qc7 Rc8
+27. Qb7 Rab8 28. Qa7 Bf8 29. Bf2 Rd8 30. Re1 Bc4 31. h4 Qc6
+32. Qa3 Rb5 33. Qc1 Bd3 34. c4 Rxc5 35. Rc3 Rxc4 36. Rxc4 Bxc4
+37. h5 Bh6 38. Be3 Bxe3+ 39. Qxe3 Qf6 40. hxg6+ Qxg6 41. Rc1
+Rd3 42. Qf2 Qg5 43. Qe1 Bxa2 44. Kh2 Qf4+ 45. Kh1 Bb3 46. Ra1
+Qh6+ 47. Kg1 Rd2 48. Qg3 Qe3+ 49. Kh2 Rd6 50. Qxe5 Rh6+
+51. Kg3 Rg6+ 52. Kh2 Qf2 0-1

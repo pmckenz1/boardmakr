@@ -1,0 +1,17 @@
+[Event "10s, San Fernando op"]
+[Site "10s, San Fernando op Hiarcs 7.32"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Carlos Garcia Palermo"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7
+7. Re1 b5 8. Bb3 d6 9. Bd5 Bd7 10. Nxd4 Nxd5 11. Nxc6 Bxc6
+12. exd5 Bb7 13. Qe2 Kf8 14. a4 Bxd5 15. axb5 axb5 16. Rxa8
+Bxa8 17. Qxb5 h5 18. Nc3 1/2-1/2

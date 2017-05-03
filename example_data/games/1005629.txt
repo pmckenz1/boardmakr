@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "1-0"]
+[White "Georgy Dubivka"]
+[Black "Nikolai Pelagejchenko"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d5 5. Bd3 O-O 6. O-O b6
+7. c4 dxc4 8. Bxc4 Bb7 9. Nc3 Nbd7 10. Ne5 Rc8 11. b4 c5
+12. bxc5 bxc5 13. Nxf7 Rxf7 14. Bxf7+ Kxf7 15. Qb3+ Kf8
+16. Qxb7 cxd4 17. Ne4 Nxe4 18. Qxe4 Nf6 19. Qxd4 Qxd4 20. exd4
+Nd7 21. Rac1 Rxc1 22. Rxc1 Bxd4 23. Rd1 e5 24. Bxe5 Bxf2+
+25. Kxf2 Nxe5 26. Rd8+ Kf7 27. Ra8 h5 28. Rxa7+ Kf6 29. Ra6+
+Kf7 30. a4 Ke7 31. a5 Kd7 32. h4 Kc7 33. Re6 Nc6 34. Rxc6+
+Kxc6 35. Kf3 Kb5 36. Kf4 Kxa5 37. Kg5 Kb6 38. Kxg6 Kc7
+39. Kxh5 Kd8 40. Kg6 1-0

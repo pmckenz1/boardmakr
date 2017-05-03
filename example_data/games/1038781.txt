@@ -1,0 +1,22 @@
+[Event "Chess Olympiad Final-B"]
+[Site "Lugano SUI"]
+[Date "1968.10.29"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Jan Hein Donner"]
+[Black "Moshe Czerniak"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Be3 e5 6. Nge2 Nf6
+7. d5 Ne7 8. f3 O-O 9. g4 Ne8 10. Nc1 f5 11. g5 Rf7 12. Nd3 c5
+13. a3 b6 14. b4 Bd7 15. h4 Bf8 16. a4 a5 17. bxa5 bxa5
+18. Rh2 Ng7 19. Rb2 Nh5 20. Rab1 Nc8 21. Rb7 Be7 22. Nb5 fxe4
+23. fxe4 Qf8 24. Be2 Bd8 25. Nc3 Nf4 26. Bxf4 exf4 27. Bf3 Ra6
+28. e5 dxe5 29. Ne4 Nd6 30. Ndxc5 Nxe4 31. Nxe4 Be7 32. Rb8
+Bd8 33. c5 Kg7 34. R1b7 Bf5 35. Rxf7+ Qxf7 36. Rxd8 Qe7
+37. Qb3 Qxd8 38. Qb7+ Qd7 39. Qxa6 Bxe4 40. Bxe4 Qh3 41. Qf6+
+Kg8 42. Qe6+ 1-0

@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Vladimir Vukovic"]
+[Black "Ladislav Prokes"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. Nc3
+Bb7 7. Qf4 d6 8. e4 Nc6 9. e5 dxe5 10. dxe5 Nd7 11. O-O-O Qe7
+12. Bd3 O-O-O 13. Rhe1 Nc5 14. Bc2 h6 15. g3 Ba6 16. b3 Kb8
+17. Nd4 Nxd4 18. Rxd4 Rxd4 19. Qxd4 Rd8 20. Qe3 Bb7 21. Re2 a5
+22. Rd2 Rxd2 23. Qxd2 Qd7 24. Qxd7 Nxd7 25. f4 Nc5 26. Kd2 Kc8
+27. Ke3 Kd7 28. Bd1 Na6 29. Bg4 Nb4 30. Bh5 Ke7 1/2-1/2

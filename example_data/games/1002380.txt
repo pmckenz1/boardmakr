@@ -1,0 +1,26 @@
+[Event "USA-06.Congress New York (30-1)"]
+[Site "New York, NY USA"]
+[Date "1889.05.04"]
+[EventDate "?"]
+[Round "30"]
+[Result "1/2-1/2"]
+[White "John Washington Baird"]
+[Black "Constant Ferdinand Burille"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 {Notes by Steinitz} b6 2.d4 Bb7 3.Bd3 e6 4.Ne2 g6 5.O-O
+Bg7 6.Be3 Ne7 7.c4 O-O 8.Nbc3 Na6 9.a3 f5 10.e5 {? Supporting
+the center by f3 is generally best in similar positions.} d6
+11.exd6 Qxd6 12.f3 Rad8 13.Nb5 Qd7 14.Nxa7 c6 15.Qb3 f4 16.Bf2
+Ra8 17.Qxb6 Rfb8 18.d5 Bc8 19.Qa5 Rxa7 20.Nxf4 Raa8 {? It was
+better to get rid of the hostile attack by exd5.} 21.dxe6 Qd6
+22.Qg5 h6 23.Qg4 g5 24.Ng6 Nxg6 25.Bxg6 Bxe6 26.Rad1 {!} Qe5
+27.Qh5 Rd8 28.Rde1 Qf6 29.f4 Bxc4 30.fxg5 Qxg5 31.Bh4 Qxh5
+32.Bxh5 Bd4+ 33.Kh1 Bxf1 34.Bxd8 Rxd8 35.Rxf1 Bxb2 36.Re1 Bxa3
+37.Ra1 Rb8 38.Bf3 Rb6 39.g4 Be7 40.Be4 Nb4 41.Rb1 c5 42.Bf5 c4
+{? This spoils a good game.Kf7 should have been played first.}
+43.Rc1 Rc6 44.Rxc4 {!} Rxc4 45.Be6+ Kg7 46.Bxc4 Kf6 47.h4 Ke5
+48.g5 1/2-1/2

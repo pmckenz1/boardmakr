@@ -1,0 +1,15 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Abhijit Kunte"]
+[Black "Stuart C Conquest"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "13"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. Nc3 e6 5. cxd5 exd5 6. Bf4
+Bb4 7. e3 1/2-1/2

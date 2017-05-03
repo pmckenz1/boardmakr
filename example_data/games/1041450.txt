@@ -1,0 +1,22 @@
+[Event "Hastings 1980/81"]
+[Site "Hastings ENG"]
+[Date "1981.01.11"]
+[EventDate "1980.01.05"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Vladimir Mikhailovich Liberzon"]
+[Black "Eugenio Torre"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.a4 h6 12.Nbd2 Bf8 13.Bc2 Nb8
+14.b4 Nbd7 15.Bd3 d5 16.dxe5 dxe4 17.Nxe4 Nxe5 18.Nxf6+ Qxf6
+19.Nxe5 Rxe5 20.axb5 axb5 21.Rxa8 Bxa8 22.Rxe5 Qxe5 23.Bd2 c5
+24.bxc5 Bxc5 25.Qe2 Qd5 26.Qf3 Qxf3 27.gxf3 Bc6 28.Kg2 Bd6
+29.Be4 Bd7 30.f4 Kf8 31.h4 Ke7 32.Kf3 f5 33.Bd5 Ba3 34.Be3 Kd6
+35.Bb3 Bc6+ 36.Ke2 Bd5 37.Bc2 Ke6 38.Bd4 g6 39.f3 Bb2 40.Be5
+g5 41.hxg5 hxg5 42.Bd3 Bc4 43.Bxc4+ bxc4 44.Bd4 gxf4 45.Kd2
+Ba3 46.Bb6 Be7 1/2-1/2

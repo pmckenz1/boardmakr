@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "Hastings (England)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Christian Wilhelmi"]
+[Black "Nigel Rodney Davies"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.Nf3 Nf6 2.d4 e6 3.g3 b5 4.Bg2 Bb7 5.O-O c5 6.c3 Na6 7.Bg5
+Be7 8.Nbd2 O-O 9.Ne5 Bxg2 10.Kxg2 Qc7 11.e3 Nd5 12.Bxe7 Nxe7
+13.Qe2 Qb7+ 14.Qf3 d5 15.h4 f6 16.Nd3 c4 17.Nf4 e5 18.Nh3 Qd7
+19.b3 Nc7 20.a4 a6 21.Rfb1 b4 22.bxc4 bxc3 23.Nb3 dxc4 24.Nc5
+Qc6 25.Qxc6 Nxc6 26.Rb6 Na5 27.dxe5 Nd5 28.Rbb1 Rac8 29.e4 c2
+0-1

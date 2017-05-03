@@ -1,0 +1,17 @@
+[Event "01, Tbilisi ch URS"]
+[Site "01, Tbilisi ch URS"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Sultan Khalilbeili"]
+[Black "Vladimir Bagirov"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.Bg5 Be7 8.Bd3 h6 9.Bh4 O-O 10.Qe2 Rb8 11.O-O b6 12.c4 Bb7
+13.Rad1 Nh5 14.Bxe7 Qxe7 15.Be4 Bxe4 16.Qxe4 Nf6 17.Qe2 Qd6
+18.Rd3 c6 19.Rfd1 Qc7 20.Ne5 Rfd8 21.Qf3 Rd6 22.h3 1/2-1/2

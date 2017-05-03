@@ -1,0 +1,21 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.11"]
+[EventDate "1926.03.07"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Walter Michel"]
+[Black "Milan Vidmar"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d5 6. e3
+O-O 7. Bd3 Nbd7 8. Qc2 c6 9. O-O Re8 10. e4 dxe4 11. Nxe4 Nxe4
+12. Bxe4 h6 13. Rad1 Qc7 14. Rfe1 b6 15. c5 Bb7 16. b4 b5
+17. a4 a6 18. Ne5 Red8 19. f4 Nf6 20. f5 Nxe4 21. Qxe4 exf5
+22. Qxf5 Bc8 23. Qe4 Rd5 24. axb5 axb5 25. Ra1 Rb8 26. Ra7 Bb7
+27. Rf1 Re8 28. Qf4 f6 29. Ng4 Qxf4 30. Rxf4 Re7 31. Kf2 Rdd7
+32. Ne3 Bc8 33. Ra8 Re8 34. Nf5 Rdd8 35. Nd6 Be6 36. Rxd8 Rxd8
+37. Re4 Bd5 38. Re7 Ra8 39. Re8+ Rxe8 40. Nxe8 1/2-1/2

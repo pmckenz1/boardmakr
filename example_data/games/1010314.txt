@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Neeraj-Kumar Mishra"]
+[Black "Tejas Bakre"]
+[ECO "E01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Nbd7 6. O-O b6
+7. Qc2 Bb7 8. Rd1 Bd6 9. Nc3 O-O 10. e4 dxe4 11. Ng5 Be7
+12. b3 Qc8 13. Ngxe4 c5 14. d5 exd5 15. cxd5 Re8 16. Bh3 Nxe4
+17. Nxe4 Qd8 18. Bb2 h6 19. Bg2 Bf8 20. Rd2 b5 21. d6 Qb6
+22. Rad1 Rad8 23. b4 cxb4 24. Bd4 Bxe4 25. Bxe4 Qb8 26. Bb2
+Re6 27. Bd5 Rxd6 28. Qf5 Nf6 29. Be5 Rxd5 30. Bxb8 Rxd2
+31. Rxd2 Rxd2 32. Qc8 a5 33. Ba7 Rd5 34. Bb6 a4 35. Bd8 b3
+36. axb3 axb3 37. Bxf6 gxf6 38. Qc3 b4 39. Qxb3 Re5 40. Kf1
+Kg7 41. f4 Ra5 42. Qd1 Rc5 1/2-1/2

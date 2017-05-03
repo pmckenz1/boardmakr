@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Kornel Havasi"]
+[Black "Jakob Adolf Seitz"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 c6 5. e3 Nbd7 6. cxd5 exd5
+7. Bd3 Be7 8. Nf3 Ne4 9. Bf4 Ndf6 10. Qc2 Nxc3 11. bxc3 Bd6
+12. Bg3 Bg4 13. Ne5 Bxe5 14. Bxe5 Qe7 15. Rb1 b5 16. O-O h6
+17. f3 Be6 18. e4 O-O 19. Rfe1 dxe4 20. fxe4 Nd7 21. Bg3 Nb6
+22. d5 cxd5 23. exd5 Nxd5 24. Rxb5 Qa3 25. Be5 Rac8 26. Rc1
+Ne3 27. Qd2 Nc4 28. Bxc4 Bxc4 29. Rb2 Rfd8 30. Bd4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.07.01"]
+[EventDate "1905.06.12"]
+[Round "14"]
+[Result "0-1"]
+[White "Heinrich Wolf"]
+[Black "Georg Marco"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.c3 Be7 7.d4 b5
+8.Bc2 O-O 9.h3 Re8 10.Nbd2 Bf8 11.Re1 Bb7 12.a3 h6 13.Nf1 Kh7
+14.g4 g6 15.Ng3 Ng8 16.Bb3 Qe7 17.Bd5 Nd8 18.Bxb7 Nxb7 19.a4
+c6 20.Be3 Bg7 21.Qd3 Qc7 22.axb5 axb5 23.d5 Ne7 24.Nd2 cxd5
+25.exd5 Qd7 26.f3 Nc5 27.Bxc5 dxc5 28.Nde4 c4 29.Qc2 Rxa1
+30.Rxa1 Nxd5 31.Kh2 Nf4 32.Ra6 Qe7 33.Rb6 Qh4 34.Nf2 e4
+35.Ngxe4 Rxe4 36.Nxe4 Qxh3+ 37.Kg1 Qxf3 38.Rxb5 Ne2+ 39.Kh2
+Qxg4 40.Qb1 f5 41.Rb7 fxe4 42.Qf1 Nf4 43.Rf7 e3 0-1

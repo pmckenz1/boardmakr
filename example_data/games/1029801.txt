@@ -1,0 +1,15 @@
+[Event "Ch-UCZEO"]
+[Site "Ch-<CZE>"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Milos Mozny"]
+[Black "Pavel Blatny"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nc6 7.Nc3
+Bf5 8.d5 Na5 9.Nd4 Bd7 10.b3 c5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Polska"]
+[Site "Polska"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Wojciech Dobrzynski"]
+[ECO "C94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d3 Bb7 11. Nbd2 Nbd7 12. Nf1
+Nc5 13. Bc2 Re8 14. Ng3 Bf8 15. Be3 h6 16. b4 Ncd7 17. Nd2 c5
+18. Nb3 Rc8 19. bxc5 Nxc5 20. Nxc5 dxc5 21. a4 Re6 22. axb5
+axb5 23. Qb1 Bc6 24. Ra7 Ra8 25. Qa2 Rxa7 26. Qxa7 Nd7 27. Ra1
+Bd6 28. Bb3 Re8 29. Nf5 Bb8 30. Qa2 c4 31. dxc4 Bxe4 32. Ng3
+bxc4 33. Bxc4 Bg6 34. Rd1 Qc7 35. Bb5 Re7 36. Qa3 Nf6 37. Bb6
+Qxb6 38. Qxe7 Qxb5 39. Rd8+ Kh7 40. Qf8 Qb1+ 41. Kh2 Bd3
+42. Rxb8 Qa2 43. Rd8 Bb1 44. Qc5 Qc2 45. Qe3 Qa2 46. Qxe5 Qxf2
+47. Rd4 Qa2 48. c4 Bc2 49. c5 Qa5 50. Qf4 Qa8 51. c6 1-0

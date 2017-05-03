@@ -1,0 +1,22 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.05"]
+[EventDate "1920.08.02"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jacob Antoni Brekke"]
+[Black "Holger Norman-Hansen"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nc6 4.b3 cxd4 5.exd4 Bg4 6.Be2 e6 7.O-O
+Bd6 8.Bb2 Nf6 9.Ne5 Bxe2 10.Qxe2 Qb6 11.Nd2 O-O 12.c3 Rad8
+13.f4 a5 14.Kh1 a4 15.b4 Na7 16.a3 Nb5 17.f5 Rfe8 18.fxe6 Rxe6
+19.Rae1 Rde8 20.Ndf3 h6 21.Qd3 Nc7 22.Qf5 R8e7 23.g4 Nh7
+24.Qh5 Rf6 25.Bc1 Ne6 26.g5 hxg5 27.Nxg5 Nexg5 28.Bxg5 Nxg5
+29.Qxg5 Bxe5 30.dxe5 Rxf1+ 31.Rxf1 Qe6 32.b5 Qxe5 33.Qxe5 Rxe5
+34.Rf4 Re4 35.Rf5 Rc4 36.Rxd5 Rxc3 37.Rd7 Rxa3 38.Rxb7 Rb3
+39.Ra7 Rxb5 40.Rxa4 Rb2 41.Ra7 g6 42.Kg1 Kg7 43.Rc7 g5 44.Rc4
+Kg6 45.h4 1/2-1/2

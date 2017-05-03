@@ -1,0 +1,20 @@
+[Event "03, Wuerzburg op"]
+[Site "03, Wuerzburg op"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Peter Froehlich"]
+[Black "Vladimir Bagirov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nd7 5.Nf3 f5 6.Ne5 Nxe5 7.dxe5
+Ne7 8.f4 Bd7 9.b3 dxc4 10.bxc4 Ng6 11.g3 Bc5 12.Bg2 Rb8 13.O-O
+O-O 14.Qe2 b5 15.Rd1 Qc7 16.Kh1 Rfd8 17.e4 b4 18.Na4 Bf8 19.c5
+Qa5 20.Qc2 Ne7 21.Be3 Be8 22.Rxd8 Rxd8 23.Rd1 Rxd1+ 24.Qxd1
+fxe4 25.Bxe4 Nd5 26.Bd4 Bg6 27.Bxg6 hxg6 28.Qc2 Kf7 29.Kg2 Qd8
+30.Qc4 g5 31.fxg5 Qxg5 32.Nb2 Qd2+ 33.Kh3 Be7 34.Nd3 Qe2
+35.Qb3 Qf1+ 0-1

@@ -1,0 +1,17 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Marat Burakovsky"]
+[Black "Yuri Mezheritsky"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Bb4 6. Bd2 Nf6
+7. a3 Be7 8. cxd5 Nxd5 9. Bb5+ Nc6 10. Nf3 O-O 11. Bxc6 bxc6
+12. O-O a5 13. Ne5 Qb6 14. Nxd5 cxd5 15. Bc3 a4 16. Rc1
+1/2-1/2

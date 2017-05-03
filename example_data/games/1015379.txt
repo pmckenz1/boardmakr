@@ -1,0 +1,16 @@
+[Event "Sakthi Madras (INA)"]
+[Site "Sakthi Madras (INA)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "Devaki V Prasad"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 a6 6.O-O c5 7.dxc5
+Qxd1 8.Rxd1 Bxc5 9.a3 b5 10.Be2 Bb7 11.b4 Be7 12.Bb2 Nbd7
+13.Nbd2 O-O 1/2-1/2

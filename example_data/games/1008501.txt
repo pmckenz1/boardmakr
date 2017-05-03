@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Jacob Chudnovsky"]
+[Black "Andrew N Bakker"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+
+Bxd6 7. Qxd6 Qf6 8. Qd2 Qg6 9. f3 d5 10. exd5 Nd4 11. Na3 Bf5
+12. c3 Nc2+ 13. Nxc2 Bxc2 14. Bc4 Rd8 15. O-O Ne7 16. Rf2 Bf5
+17. a4 O-O 18. a5 e4 19. Qg5 Nxd5 20. Qxg6 Bxg6 21. Bg5 Rd7
+22. Rd1 Nb6 23. Rxd7 Nxd7 24. fxe4 Re8 25. Bd5 Nc5 26. b4 Nxe4
+27. Re2 Re5 28. Bxb7 f6 29. Bf4 Re8 30. Bxa6 Nxc3 31. Bc4+ Kh8
+32. Rxe8+ Bxe8 33. a6 g5 34. Bb8 Na4 35. a7 Nb6 36. Bc7 Na8
+37. Bd8 1-0

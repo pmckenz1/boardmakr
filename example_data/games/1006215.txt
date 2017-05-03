@@ -1,0 +1,16 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Johann Ragnarsson"]
+[Black "Andreas Arnold Schmitz"]
+[ECO "D20"]
+[WhiteElo "2129"]
+[BlackElo "2159"]
+[PlyCount "29"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 4. e3 exd4 5. exd4 Nf6 6. Bxc4
+Be7 7. Nf3 O-O 8. O-O h6 9. Ne5 Nbd7 10. Ng6 Nb6 11. Bb3 Re8
+12. Ne5 Rf8 13. Ng6 Re8 14. Ne5 Rf8 15. Ng6 1/2-1/2

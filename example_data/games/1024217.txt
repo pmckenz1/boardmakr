@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viktor Korchnoi"]
+[Black "Yuri Balashov"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1
+c6 8.Bd3 a6 9.O-O dxc4 10.Bxc4 b5 11.Bd3 c5 12.Ne4 cxd4
+13.Nxd4 Ne5 14.Nxf6+ Bxf6 15.Be4 Rb8 16.Bf4 Bb7 17.Bxh7+ Kxh7
+18.Bxe5 Qd5 19.Nc6 Bxc6 20.Qxd5 Bxd5 21.Bxb8 Rxb8 22.b3 a5
+23.f3 a4 24.bxa4 bxa4 25.Rc2 Bb2 26.Rc7 Kg8 27.Rd1 a3 28.e4
+Bxa2 29.Rdd7 Bb3 30.Rxf7 a2 31.Ra7 a1=Q+ 32.Rxa1 Bd4+ 33.Kh1
+Bxa1 0-1

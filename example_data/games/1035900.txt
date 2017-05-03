@@ -1,0 +1,21 @@
+[Event "New York Congress"]
+[Site "New York, NY USA"]
+[Date "1889.04.13"]
+[EventDate "?"]
+[Round "18"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Samuel Lipschutz"]
+[ECO "C62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Bc4 Be7 6.O-O Nf6 7.Re1
+O-O 8.c3 Bg4 9.Qd3 Qc8 10.Nbd2 Kh8 11.Nf1 Bxf3 12.gxf3 Nh5
+13.Kg2 f5 14.Ng3 fxe4 15.Rxe4 Nf4+ 16.Bxf4 exf4 17.Ne2 Bg5
+18.Rg1 Qf5 19.Be6 Qf6 20.Kh1 Bh6 21.Rg4 Rad8 22.Qb5 Rb8 23.Qh5
+Ne7 24.d5 Ng6 25.Nd4 Ne5 26.Rg2 c6 27.Re1 a6 28.Reg1 c5 29.Nf5
+Rfd8 30.b3 b5 31.h4 a5 32.Nxg7 Bxg7 33.Rxg7 Qxg7 34.Rxg7 Kxg7
+35.Qg5+ Kf8 36.Qf6+ Ke8 37.Qh8+ Ke7 38.Qxh7+ Kf6 39.Qh6+ Ke7
+40.Qg7+ Ke8 41.h5 Rd7 42.Qg8+ 1-0

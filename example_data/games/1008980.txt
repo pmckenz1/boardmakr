@@ -1,0 +1,24 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Aaron Summerscale"]
+[Black "Robert Shaw"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. c4 e6 2. g3 d5 3. Bg2 c5 4. cxd5 exd5 5. d4 Nf6 6. Nf3 Nc6
+7. Nc3 Be7 8. O-O O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Be6
+12. Rc1 Qd7 13. Nxc6 bxc6 14. Na4 Bh3 15. Bc5 Bxg2 16. Kxg2
+Rfe8 17. Bxe7 Rxe7 18. e3 Rb8 19. b3 Rb4 20. Nc5 Qf5 21. Qf3
+Qg6 22. Rfd1 Ne4 23. Qf4 a5 24. Nxe4 Rbxe4 25. Qb8+ Kh7
+26. Qb6 R7e6 27. Rd4 Rf6 28. Kg1 Qf5 29. Rd2 Qf3 30. Rxc6 Rxe3
+31. Qxe3 Qxe3 32. fxe3 Rxc6 33. Kf1 Kg6 34. Rxd5 a4 35. Ke2
+axb3 36. axb3 Rb6 37. Rd3 Kf5 38. h3 Ke5 39. g4 Rb7 40. Rc3
+Ke4 41. Rc4+ Ke5 42. b4 Ra7 43. Kd3 Ra1 44. Kc2 Kd5 45. Rc7
+Re1 46. Rc3 Ra1 47. Kb2 Ra6 48. Kb3 Ra1 49. b5 f5 50. gxf5 Ke4
+51. Kb4 Kxf5 52. b6 Ra8 53. Kb5 1-0

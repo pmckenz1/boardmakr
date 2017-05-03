@@ -1,0 +1,22 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Sergey Makarichev"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O d6 7.d3
+Bxc3 8.bxc3 h6 9.Ne1 Be6 10.f4 e4 11.f5 Bd7 12.Nc2 Ne5 13.Ne3
+exd3 14.exd3 Bc6 15.d4 Bxg2 16.dxe5 Bxf1 17.exf6 Bh3+ 18.Qh5
+Re8 19.Qxh3 Qxf6 20.Nd5 Re1+ 21.Kg2 Qe5 22.Qg4 Kh7 23.Kh3 Qe2
+24.Qxe2 Rxe2 25.Bf4 c6 26.Nb4 Rae8 27.a4 R8e4 28.Rd1 a5 29.Nd3
+Rxc4 30.Bxd6 Rxc3 31.Nf4 Re4 32.Rb1 b5 33.axb5 cxb5 34.Rxb5
+Rc6 35.Ba3 Rxf4 36.gxf4 Rc3+ 37.Kg4 Rxa3 38.Rb7 f6 39.h4 Ra2
+40.Rb5 a4 41.Ra5 Ra1 42.Ra7 a3 43.Ra8 a2 44.Kh5 Rf1 45.Rxa2
+Rxf4 46.Ra5 Rxf5+ 47.Rxf5 0-1

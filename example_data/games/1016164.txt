@@ -1,0 +1,16 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Vladimir Kovacevic"]
+[ECO "D16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.c4 c6 2.d4 d5 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6 6.e3 Bg4 7.Bxc4
+e6 8.h3 Bh5 9.Qe2 Nb4 10.O-O Be7 11.b3 O-O 12.Bb2 Qc7 13.g4
+Bg6 14.Nh4 1/2-1/2

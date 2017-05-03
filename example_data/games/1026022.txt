@@ -1,0 +1,21 @@
+[Event "Lenk (Switzerland)"]
+[Site "Lenk (Switzerland)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Julius H van Doeland"]
+[Black "Gerardo F Barbero"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bc4 Bd7
+7.O-O g6 8.Re1 Bg7 9.Nxc6 bxc6 10.h3 O-O 11.Bb3 Bc8 12.Qe2 Nd7
+13.Bg5 h6 14.Be3 a5 15.Qd2 Kh7 16.Bd4 Bxd4 17.Qxd4 Rb8 18.Na4
+Qc7 19.c4 c5 20.Qe3 Ne5 21.f4 Nc6 22.e5 Nd4 23.Bd1 Bd7 24.Nc3
+Rxb2 25.Nd5 Qd8 26.Qc3 Rb8 27.Bg4 Be6 28.Rad1 Rb7 29.Bf3 Bxd5
+30.Bxd5 Rb4 31.exd6 e6 32.Be4 Qxd6 33.a3 Ne2+ 34.Rxe2 Qxd1+
+35.Re1 Rxc4 36.Qxa5 Qd4+ 37.Kh1 Ra4 38.Qb5 Rxa3 39.Bf3 Ra1
+40.Rxa1 Qxa1+ 41.Kh2 Qd4 0-1

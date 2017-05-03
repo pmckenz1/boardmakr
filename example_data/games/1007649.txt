@@ -1,0 +1,26 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.29"]
+[EventDate "1926.03.07"]
+[Round "17"]
+[Result "0-1"]
+[White "Jacques Davidson"]
+[Black "Milan Vidmar"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Bd6 6. O-O O-O
+7. Nbd2 c5 8. b3 Nc6 9. Bb2 Qe7 10. Rc1 cxd4 11. Nxd4 Rd8
+12. Nxc6 bxc6 13. cxd5 cxd5 14. Qe2 e5 15. h3 a5 16. Bb5 Rb8
+17. Rfd1 Qb7 18. Bc6 Qb6 19. Nf3 Ba6 20. Qe1 Rbc8 21. Nxe5
+Bxe5 22. Bxe5 Rxc6 23. Bd4 Qb7 24. Rxc6 Qxc6 25. Qxa5 Rc8
+26. Bxf6 Qxf6 27. Qxd5 g6 28. Qd6 Qxd6 29. Rxd6 Rc1+ 30. Kh2
+Bb7 31. a4 Ra1 32. Rb6 Be4 33. Rb5 Bd3 34. Rb8+ Kg7 35. Kg3
+Ra3 36. Kf4 Bc2 37. b4 Rxa4 38. h4 Ra7 39. e4 Rd7 40. f3 f5
+41. exf5 Bxf5 42. g4 Bc2 43. g5 Bd1 44. Kg3 Rd3 45. Rb7+ Kg8
+46. Rb8+ Kf7 47. Rb7+ Ke6 48. Rxh7 Rxf3+ 49. Kg2 Rb3 50. Ra7
+Bh5 51. Ra5 Rxb4 52. Kg3 Rg4+ 53. Kh3 Rd4 54. Kg3 Rd5 55. Ra3
+Kf5 56. Re3 Rd4 57. Ra3 Ke4 58. Ra7 Rd3+ 59. Kf2 Kf5 60. Kg2
+Re3 61. Kf2 Rf3+ 62. Kg2 Kg4 0-1

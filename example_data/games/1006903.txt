@@ -1,0 +1,22 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.17"]
+[EventDate "1922.??.??"]
+[Round "9"]
+[Result "1-0"]
+[White "Heinrich Wolf"]
+[Black "Karel Treybal"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6
+7. Bg5 Bxc3 8. bxc3 h6 9. Bh4 Bg4 10. h3 Bd7 11. Re1 Ne7
+12. Bxd7 Nxd7 13. Rb1 g5 14. Nxg5 hxg5 15. Bxg5 f6 16. Bh6 Rf7
+17. Re3 Rh7 18. Qh5 Nf8 19. Rg3+ Nfg6 20. Rxg6+ Nxg6 21. Qxg6+
+Kh8 22. Rxb7 Qe7 23. Be3 Qf7 24. Qxf7 Rxf7 25. c4 Kg7 26. c5
+dxc5 27. Bxc5 c6 28. Rb3 Rd7 29. h4 Rh8 30. g3 f5 31. exf5 Kf6
+32. f3 Kxf5 33. g4+ Ke6 34. h5 e4 35. dxe4 Rd1+ 36. Kf2 Rd2+
+37. Ke3 Rxc2 38. Bd4 Rc8 39. Ra3 c5 40. Ra6+ Kd7 41. Rxa7+ Kc6
+42. Be5 Re8 43. Bg7 Rh2 44. h6 c4 45. Ra5 1-0

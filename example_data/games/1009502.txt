@@ -1,0 +1,19 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Gerlef Meins"]
+[Black "Ulrich Schulze"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. Bf4 Be6 6. Nbd2 Bg7
+7. e3 O-O 8. Be2 Nbd7 9. O-O Nh5 10. Bg5 h6 11. Bh4 f5 12. g4
+Nhf6 13. gxf5 Bxf5 14. Bd3 Bxd3 15. Qxd3 g5 16. Bg3 Nh5
+17. cxd5 Nxg3 18. fxg3 cxd5 19. Qb3 Nb6 20. a4 a5 21. Rac1 e6
+22. Ne5 Qd6 23. Nd3 Rxf1+ 24. Rxf1 Nd7 25. Qxb7 Rb8 26. Qa7
+1-0

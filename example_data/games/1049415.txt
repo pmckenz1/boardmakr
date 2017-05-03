@@ -1,0 +1,17 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1969.09.27"]
+[EventDate "1969.??.??"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Lev Polugaevsky"]
+[Black "Efim Geller"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.d3 Bg4 5.Nbd2 Nbd7 6.h3 Bxf3
+7.Nxf3 e5 8.O-O Bc5 9.Nxe5 Nxe5 10.d4 Bd6 11.dxe5 Bxe5 12.Qd3
+O-O 13.c4 dxc4 14.Qxc4 Qe7 15.Rb1 Rfd8 16.b4 Nd5 17.Rb3 Rac8
+18.a3 Rc7 19.Rd1 Rcd7 20.Qc2 a6 21.Rbd3 Bf6 1/2-1/2

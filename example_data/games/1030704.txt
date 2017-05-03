@@ -1,0 +1,27 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.14"]
+[EventDate "1922.07.31"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Richard Reti"]
+[Black "Efim Bogoljubov"]
+[ECO "D60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 {Notes by Geza Maroczy} d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7
+5.e3 Be7 6.Nf3 O-O 7.Bd3 {The usual move Rc1 is better.} c5
+8.O-O cxd4 9.exd4 dxc4 10.Bxc4 a6 11.Qe2 b5 12.Bb3 Bb7 13.Rad1
+{It would have been better to move Rfd1. This loss of time
+gives Black a powerful attack.} Nb6 14.Ne5 b4 {Black's method
+of taking command is highly ingenious.} 15.Bxf6 Bxf6 16.Ne4
+Bd5 17.Nxf6+ gxf6 18.Bxd5 Nxd5 19.Nd3 Qa5 20.Nc5 Kh8 21.Qh5
+Qc7 22.Qh4 Rg8 23.Rc1 Qd8 {A hasty move which cost Bogoljubov
+half a point. 23...Qf4! would have been almost certain to
+win. After the text he cannot escape a draw.} 24.Rfd1 Rg6
+25.Rd3 a5 26.Rh3 Qg8 27.Rg3 a4 28.a3 bxa3 29.bxa3 Kg7 30.Qe4
+Qb8 31.Rb1 Qd6 32.Rb7 Kg8 33.Qc2 Nf4 34.Rd7 Qc6 35.Rxg6+ hxg6
+36.Qe4 Nd5 37.h3 Re8 38.g3 Rb8 39.Kh2 Qb6 40.Nxe6 Qxe6 41.Qxd5
+Qxd5 42.Rxd5 Rb3 43.Ra5 Rxa3 44.d5 Kf8 45.d6 1/2-1/2

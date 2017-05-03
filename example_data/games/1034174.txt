@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Viktor Korchnoi"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Bc2 O-O 11. Qe2 f5
+12. exf6 Bxf6 13. Nbd2 Bf5 14. Nxe4 Bxe4 15. Bxe4 dxe4
+16. Qxe4 Qd7 17. Bf4 Rae8 18. Qc2 Bh4 19. Bg3 Bxg3 20. hxg3
+Ne5 21. Nxe5 Rxe5 22. Rfe1 Rd5 23. Rad1 c5 24. a4 Rd8 25. Rxd5
+Qxd5 26. axb5 axb5 27. Qe2 b4 28. cxb4 cxb4 29. Qg4 b3 30. Kh2
+Qf7 31. Qg5 Rd7 32. f3 h6 33. Qe3 Rd8 34. g4 Kh8 35. Qb6 Rd2
+36. Qb8+ Kh7 37. Re8 Qxf3 38. Rh8+ Kg6 39. Rxh6+ 1-0

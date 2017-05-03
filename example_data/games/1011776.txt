@@ -1,0 +1,20 @@
+[Event "Simul, 22b"]
+[Site "Moscow RUS"]
+[Date "1910.03.04"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Diurnbaum"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 d5 2. e3 e6 3. Nd2 Nf6 4. Bd3 Be7 5. f4 O-O 6. Nh3 Nc6
+7. c3 a6 8. O-O Ne8 9. e4 f6 10. e5 f5 11. Nf3 h6 12. Kh1 b5
+13. Rg1 Na5 14. g4 fxg4 15. Rxg4 Kh8 16. b3 c5 17. dxc5 Bb7
+18. b4 Nc4 19. Nd4 Qd7 20. Rg6 Nc7 21. Qh5 Bd8 22. Bd2 Nxd2
+23. Rxh6+ gxh6 24. Qxh6+ Kg8 25. Rg1+ Kf7 26. Rg7+ Ke8
+27. Bg6+ Qf7 28. Qh5 Be7 29. Bxf7+ Kd7 30. Qg4 Bc8 31. Bxe6+
+1-0

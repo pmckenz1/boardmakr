@@ -1,0 +1,22 @@
+[Event "Jakarta (Indonesia)"]
+[Site "Jakarta INA"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Rongguang Ye"]
+[Black "Utut Adianto"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 c5 2.dxc5 e6 3.Nc3 Nf6 4.e4 Nc6 5.Be3 Qa5 6.Bd3 Bxc5
+7.Bxc5 Qxc5 8.Nf3 b6 9.Qe2 d6 10.Bb5 a6 11.Bxc6+ Qxc6 12.O-O-O
+Bb7 13.Nd5 Rc8 14.Rd2 Qa4 15.Nxf6+ gxf6 16.Kb1 Qxe4 17.Qd1 Qg4
+18.Re1 Ke7 19.Rd4 Qxg2 20.Nh4 Qg5 21.Qd3 Rc5 22.Rxd6 Bd5
+23.Nf5+ Qxf5 24.Qxf5 Bxa2+ 25.Kxa2 Rxf5 26.Rxb6 Rxf2 27.Rb7+
+Kd6 28.Rd1+ Ke5 29.Rxf7 Rc8 30.Rxh7 Rcxc2 31.Rb7 Rxh2 32.Rb6
+f5 33.Ka3 Kf6 34.Rd8 f4 35.Rdb8 Kf5 36.Rxa6 e5 37.Ra4 Rhe2
+38.Ra7 Kg4 39.Rh7 e4 40.Rg8+ Kf3 41.b4 Rh2 42.Re7 e3 43.b5
+Ra2+ 44.Kb4 Rhb2+ 45.Kc5 Ra5 46.Rg1 Rbxb5+ 47.Kc4 e2 0-1

@@ -1,0 +1,22 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Julia Horvath"]
+[Black "Nikoletta Lakos"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+
+7. Bd2 a5 8. O-O O-O 9. a3 Be7 10. Bc3 Ne4 11. Bb2 d5 12. Nbd2
+c5 13. cxd5 Bxd5 14. Nxe4 Bxe4 15. dxc5 bxc5 16. Qc1 Qb6
+17. Qe3 Qb7 18. Rfc1 Bd5 19. Rab1 Nd7 20. b4 axb4 21. axb4
+cxb4 22. Qf4 Rac8 23. h4 Rxc1+ 24. Rxc1 Bf6 25. Bxf6 Nxf6
+26. g4 b3 27. Rb1 b2 28. Qd4 Rb8 29. g5 Nd7 30. h5 Qb4 31. Qa7
+Be4 32. Rxb2 Qxb2 33. Qxd7 Qb5 34. Qd6 Bxf3 35. Bxf3 Qxg5+
+36. Kh2 Qh4+ 37. Kg2 Rd8 38. Qc7 Qg5+ 39. Kh2 g6 40. hxg6 hxg6
+41. Qb6 Kg7 42. Qb2+ e5 0-1

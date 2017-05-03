@@ -1,0 +1,23 @@
+[Event "It (cat.13), Jakarta (Indonesia)"]
+[Site "It (cat.13), Jakarta (Indonesia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Joerg Hickl"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Nc3 e5 5. g3 Bxf3 6. exf3
+Ngf6 7. Bg2 c6 8. O-O Be7 9. f4 O-O 10. fxe5 dxe5 11. d5 Qc7
+12. dxc6 bxc6 13. Qa4 Rac8 14. b4 a5 15. Qxa5 Qxa5 16. bxa5
+Bb4 17. Na4 Bxa5 18. Ba3 Rfe8 19. Nc5 e4 20. Nb7 Bc7 21. Nd6
+Bxd6 22. Bxd6 Ra8 23. Rfb1 Ra4 24. Rb4 Rea8 25. Rxa4 Rxa4
+26. f3 exf3 27. Bxf3 c5 28. a3 g5 29. Be7 Kg7 30. Bc6 Ra7
+31. a4 Ne5 32. Bxf6+ Kxf6 33. Bb5 Kf5 34. Rf1+ Ke4 35. Rf6 Re7
+36. Rd6 f5 37. a5 f4 38. Rd1 fxg3 39. hxg3 Kf3 40. Re1 Kxg3
+41. Kf1 Rf7+ 42. Ke2 Nf3 43. Ra1 g4 44. a6 Ra7 45. Ke3 h5
+46. Ke4 h4 1/2-1/2

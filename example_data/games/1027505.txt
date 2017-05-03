@@ -1,0 +1,23 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1962.02.07"]
+[EventDate "1962.??.??"]
+[Round "8"]
+[Result "0-1"]
+[White "Samuel Schweber"]
+[Black "Istvan Bilek"]
+[ECO "E24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.c4 Nf6 2.d4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.f3 d5 7.e3
+O-O 8.cxd5 Nxd5 9.Ne2 Nc6 10.e4 Nb6 11.dxc5 Nd7 12.Nd4 Na5
+13.Be3 Nxc5 14.Nb5 b6 15.Qxd8 Rxd8 16.Kf2 a6 17.Nd4 Na4 18.Nc2
+b5 19.Nb4 Bb7 20.Na2 f5 21.exf5 exf5 22.Be2 Bd5 23.Bd1 Bb3
+24.Bxb3+ Nxb3 25.Rad1 h6 26.Nb4 Nxc3 27.Rxd8+ Rxd8 28.Nxa6 Ra8
+29.Nc5 Rxa3 30.Nxb3 Rxb3 31.Bd4 Rb2+ 32.Ke3 Nd5+ 33.Kd3 Rxg2
+34.Be5 Nb4+ 35.Ke3 Nc6 36.Ba1 Ne7 37.h4 Kf7 38.Rb1 b4 39.Bd4
+Rh2 40.Kd3 Nc6 41.Ba1 Rxh4 42.Rc1 Ne7 43.Rc5 g5 44.Bd4 Rf4
+45.Ke3 Ke6 46.Bg7 b3 47.Rb5 Nd5+ 48.Ke2 Rb4 49.Rxb4 Nxb4
+50.Kd2 h5 51.Kc3 h4 52.Bd4 h3 53.Bg1 Nc2 0-1

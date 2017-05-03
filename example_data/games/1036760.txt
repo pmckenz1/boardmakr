@@ -1,0 +1,16 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1929.08.18"]
+[EventDate "1929.07.31"]
+[Round "15"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Edgar Colle"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+
+7.Nbxd2 d6 8.O-O O-O 9.Re1 Nbd7 10.Qc2 e5 11.Nxe5 Bxg2 12.Nxd7
+Bh3 13.Nxf8 1-0

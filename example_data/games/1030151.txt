@@ -1,0 +1,15 @@
+[Event "Brno"]
+[Site "09"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Pavel Blatny"]
+[Black "Zvulon Gofshtein"]
+[ECO "D26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.Nc3 a6 7.a4
+Nc6 8.O-O Be7 9.dxc5 Qxd1 10.Rxd1 Bxc5 1/2-1/2

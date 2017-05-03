@@ -1,0 +1,21 @@
+[Event "Olympiad"]
+[Site "Varna BUL"]
+[Date "1962.10.07"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Theodor Ghitescu"]
+[Black "Julio Bolbochan"]
+[ECO "E99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5 11.g4 fxg4 12.fxg4 Rxf1+
+13.Kxf1 h6 14.h4 Nf6 15.g5 Nh7 16.Be3 Qd7 17.Kg1 Qh3 18.Ng2
+hxg5 19.hxg5 Nf5 20.exf5 gxf5 21.g6 Nf8 22.Bh5 e4 23.Bf4 Bd7
+24.Bh2 Be5 25.Bxe5 dxe5 26.Qe2 Kg7 27.Rf1 Nxg6 28.Bxg6 Kxg6
+29.Nxe4 Rh8 30.Rf3 Qh2+ 31.Kf1 fxe4 32.Qxe4+ Kg7 33.Qe3 Rh5
+34.Qc5 Rf5 35.Qe7+ Kh6 36.Rxf5 Bxf5 37.Qf6+ Bg6+ 38.Kf2 Kh7
+39.Qe7+ Kh6 40.Qf6 Kh7 41.Qe7 Kh6 42.Qf6 Kh7 1/2-1/2

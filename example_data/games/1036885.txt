@@ -1,0 +1,23 @@
+[Event "Bundesliga /86"]
+[Site "Germany"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Matthias Steinbacher"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.e4 g6 2.d4 Bg7 3.c3 Nf6 4.f3 O-O 5.Be3 d6 6.Nd2 Nc6 7.Bb5
+Bd7 8.Ne2 Qe8 9.a4 a6 10.Bxc6 Bxc6 11.O-O e6 12.c4 Nh5 13.Qb3
+b6 14.Nc3 f5 15.d5 Bd7 16.a5 b5 17.cxb5 axb5 18.dxe6 Bxe6
+19.Qxb5 Qd8 20.Qc6 f4 21.Bf2 Qg5 22.Rfe1 Kh8 23.Kf1 Rxa5
+24.Qxc7 Ng3+ 25.hxg3 Rxa1 26.Rxa1 fxg3 27.Ra7 Bf7 28.Be1 Qh4
+29.Qxd6 Qh1+ 30.Ke2 Qxg2+ 31.Kd3 Qg1 32.Rxf7 Rxf7 33.Bxg3 Qa7
+34.Kc2 Qa5 35.Qd5 Qa7 36.Bb8 Qe7 37.f4 Qe8 38.Nc4 Rd7 39.Bd6
+h5 40.Ne5 Ra7 41.b4 h4 42.b5 Ra5 43.Nf7+ Kh7 44.Ng5+ Kh8
+45.Nf7+ Kh7 46.Ng5+ Kh8 47.e5 Qc8 48.Nf7+ Kh7 49.Ng5+ Kh8
+50.Kb3 Bh6 51.Qf7 1-0

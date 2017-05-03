@@ -1,0 +1,24 @@
+[Event "Lugano Open"]
+[Site "Lugano SUI"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Uwe Boensch"]
+[Black "Joel Benjamin"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 c5 7.Bg2
+Bb7 8.O-O O-O 9.dxc5 Bxc5 10.Nc3 Ne4 11.Qc2 Nxd2 12.Nxd2 Bxg2
+13.Kxg2 f5 14.Rad1 Nc6 15.Nf3 Qe7 16.Nb5 a6 17.Nbd4 Nd8 18.e4
+fxe4 19.Qxe4 Nf7 20.h4 b5 21.cxb5 axb5 22.Rd2 b4 23.Re1 Qf6
+24.Ree2 Ra5 25.Nh2 Nd6 26.Qd3 Qd8 27.f4 Qa8+ 28.Ndf3 Rf5
+29.Kh3 Rd5 30.Qc2 Rxd2 31.Qxd2 Ra7 32.Qc2 Rc7 33.Qd3 Nf5
+34.Ng4 Bf8 35.Nge5 d6 36.Nc4 d5 37.Nce5 Rc3 38.Qb5 Qc8 39.Rd2
+h6 40.Kh2 Nd6 41.Qf1 Ne4 42.Rg2 Bd6 43.Nd4 Rc1 44.Qf3 Bxe5
+45.fxe5 Re1 46.Rc2 Nc3 47.Qh5 Re4 48.Ne2 Qf8 49.Nxc3 bxc3
+50.Kg2 d4 51.Rf2 Qa8 52.Qf7+ Kh7 53.Kh3 Rxe5 54.h5 Qh1+ 55.Rh2
+Qe4 56.Re2 Qf5+ 0-1

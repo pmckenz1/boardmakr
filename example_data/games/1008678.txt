@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Scarborough ENG"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "John Emms"]
+[Black "Keith Arkell"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+
+Nxf6 7. c3 Be7 8. Bd3 O-O 9. O-O b6 10. Qe2 Bb7 11. Bf4 a6
+12. Rad1 Ra7 13. c4 Re8 14. Ne5 Qa8 15. Rfe1 Bb4 16. g4 Bxe1
+17. Rxe1 Re7 18. g5 Nd7 19. Qh5 Nf8 20. Re3 c5 21. d5 g6
+22. Qh6 exd5 23. Ng4 Re6 24. Nf6+ Kh8 25. Rh3 Re1+ 26. Bf1
+dxc4 27. Qxh7+ 1-0

@@ -1,0 +1,21 @@
+[Event "Budapest UHUNO Spring"]
+[Site "Budapest HUN"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Dejan Antic"]
+[ECO "D76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+Nb6 8.Nc3 Nc6 9.e3 Re8 10.Ne1 e5 11.d5 Ne7 12.e4 Bd7 13.Nd3
+Nbc8 14.a4 a5 15.b3 Nd6 16.Be3 c6 17.Rc1 Nec8 18.Nc5 Rb8
+19.Qd2 Re7 20.Rfd1 Be8 21.Bg5 f6 22.Be3 Bf7 23.Bh3 cxd5
+24.Nxd5 Re8 25.f3 Kh8 26.Nd7 Bxd5 27.Nxb8 Be6 28.Bxe6 Rxe6
+29.Qc3 Qe8 30.Qxa5 f5 31.Qd5 Rf6 32.Rc7 fxe4 33.fxe4 h5 34.Bg5
+Nb6 35.Qxd6 Rxd6 36.Rxd6 Kh7 37.Rxb6 Kh8 38.Rd6 Kh7 39.Nd7 Kg8
+40.Nf6+ Bxf6 41.Bxf6 1-0

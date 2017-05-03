@@ -1,0 +1,17 @@
+[Event "Jakarta (Indonesia)"]
+[Site "Zt"]
+[Date "1987.03.18"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Qi Jingxuan"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.d4 Nf6 2.Nf3 d6 3.Bg5 Nbd7 4.Nbd2 h6 5.Bh4 g5 6.Bg3 Nh5 7.e4
+Bg7 8.c3 Nf8 9.Bc4 Ng6 10.O-O e6 11.Qe2 Bd7 12.Qe3 Qe7 13.e5
+Nxg3 14.hxg3 g4 15.exd6 cxd6 16.Nh2 h5 17.Rfe1 Bh6 18.Qe2
+O-O-O 19.Rad1 Kb8 20.Bd3 Rdg8 21.Nc4 1/2-1/2

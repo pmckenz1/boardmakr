@@ -1,0 +1,17 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Vladimir Borisovich Tukmakov"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6 7.b3
+Nbd7 8.Bb2 O-O 9.Qe2 Ne4 10.Nc3 a6 11.Rac1 f5 12.Na4 dxc4
+13.bxc4 Qe7 14.Nc3 Ndf6 15.Ne5 Nxc3 16.Bxc3 Ne4 17.Bb2 Bxe5
+18.dxe5 Rfd8 19.f3 Nc5 20.Bc2 Rd7 1/2-1/2

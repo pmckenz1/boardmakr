@@ -1,0 +1,22 @@
+[Event "3, Zaragoza (10s)"]
+[Site "3, Zaragoza Hiarcs 7.32 (10s)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Juan Bautista Melendez Fierro"]
+[Black "Fernando Braga"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6
+7. Nf3 Nge7 8. O-O O-O 9. Be3 Nd4 10. e5 Nef5 11. Bf2 Nxf3+
+12. Qxf3 Nd4 13. Qd1 dxe5 14. fxe5 Qc7 15. Ne4 Bxe5 16. c3 Nf5
+17. Nxc5 h5 18. d4 Bg7 19. Qe2 Rb8 20. Rae1 Rd8 21. Ne4 b6
+22. h3 Bb7 23. g4 hxg4 24. hxg4 Bxe4 25. Qxe4 Nd6 26. Qf4 Rbc8
+27. Bg3 b5 28. Rf2 b4 29. Rf3 Qa5 30. Bh4 Rd7 31. Bf6 Bxf6
+32. Qxf6 Ne8 33. Qh4 bxc3 34. Rh3 Kf8 35. bxc3 Rxc3 36. Qh8+
+Ke7 37. Re5 Rxh3 38. Qxh3 Qxa2 39. Qh4+ Nf6 40. g5 Nd5 41. Qe1
+Qb2 42. Qd1 Nf4 0-1

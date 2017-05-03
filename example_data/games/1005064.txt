@@ -1,0 +1,15 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Gerhard Schebler"]
+[Black "Daniel Hausrath"]
+[ECO "B18"]
+[WhiteElo "2435"]
+[BlackElo "2400"]
+[PlyCount "19"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. h5 Bh7 8. Nf3 Nd7 9. Bd3 Bxd3 10. Qxd3 1/2-1/2

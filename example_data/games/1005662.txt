@@ -1,0 +1,22 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "1-0"]
+[White "Sergey Leshchenko"]
+[Black "Leonid Gavrish"]
+[ECO "B02"]
+[WhiteElo "2205"]
+[BlackElo "2037"]
+[PlyCount "85"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nb6 5. Bb3 c5 6. d3
+Nc6 7. Nf3 e6 8. Be3 Be7 9. O-O O-O 10. Ne4 Nd4 11. Re1 a5
+12. Bxd4 cxd4 13. a4 Bf6 14. Qe2 Ra7 15. Nxf6+ Qxf6 16. Qe5
+Rd8 17. Qc5 Ra6 18. Re4 Bd7 19. Rxd4 Rc8 20. Qe5 Bc6 21. Rf4
+Qxe5 22. Nxe5 Be8 23. Re1 Nd7 24. Rc4 Raa8 25. Rxc8 Rxc8
+26. Nxd7 Bxd7 27. f3 Kf8 28. Re5 b6 29. Kf2 h6 30. c3 Bc6
+31. d4 Rd8 32. Ke3 Rd6 33. c4 f6 34. c5 Rxd4 35. Kxd4 fxe5+
+36. Kxe5 bxc5 37. Kd6 Be8 38. Kxc5 Ke7 39. Kb6 Kd6 40. Kxa5 g5
+41. Kb6 Bc6 42. a5 g4 43. Bxe6 1-0

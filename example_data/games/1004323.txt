@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Lajos Merenyi"]
+[Black "Zoltan von Balla"]
+[ECO "B73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6
+7. O-O Bg7 8. Be3 O-O 9. h3 a6 10. Qd2 Qc7 11. f4 Bd7 12. Bf3
+Na5 13. b3 Rac8 14. Nde2 b5 15. Rac1 Bc6 16. Nd5 Nxd5 17. exd5
+Bd7 18. Bd4 Nb7 0-1

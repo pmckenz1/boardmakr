@@ -1,0 +1,30 @@
+[Event "Manchester blind sim"]
+[Site "Manchester ENG"]
+[Date "1861.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Louis Paulsen"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 {Notes by Blackburne.} d6 2.d4 e6 3.Bd3 b6 4.Ne2 Bb7
+5.O-O g6 6.Be3 Bg7 7.Nd2 Nd7 8.f4 Nh6 9.Nf3 f5 10.e5 Qe7
+11.Qd2 Nf7 12.Rad1 O-O-O 13.a4 dxe5 14.fxe5 h6 15.a5 b5 16.a6
+Ba8 17.Bxb5 Ndxe5 18.Nxe5 Nxe5 19.Qc3 Ng4 20.Bf4 e5 21.dxe5
+Nxe5 22.Nd4 c5 23.Rfe1 Rxd4 24.Rxd4 Nf3+ 25.gxf3 Bxd4+ 26.Kg2
+Qh4 27.Bg3 Qg4 {Here I ought to have been satisfied with
+winning the exchange, but, like many of the young amateurs of
+the present day, played too much for the gallery. From this
+point the game is beautifully playrd by Herr Paulsen.} 28.Qb3
+f4 29.Bc4 Qg5 30.Bg8 {Decisive and quite unexpected.} Be3
+31.Rxe3 fxe3 32.Qb8+ Kd7 33.Qxa7+ {Note - I give this game as
+a chess curiosity. It is the first and only one I ever
+conducted against a blinfold player. Mr Paulsen at that time
+was, next to Morphy, the greatest living expert at this form
+of play. He played ten games simultaneously blindfold. It was
+this game, and the noise about the great American, that led me
+to try sans voir on my own account.} 1-0

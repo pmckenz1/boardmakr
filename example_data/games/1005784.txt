@@ -1,0 +1,21 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.20"]
+[EventDate "2000.01.18"]
+[Round "3"]
+[Result "0-1"]
+[White "Friso Nijboer"]
+[Black "John van der Wiel"]
+[ECO "C78"]
+[WhiteElo "2540"]
+[BlackElo "2558"]
+[PlyCount "74"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5
+7. c3 d6 8. a4 Bb7 9. d4 Bb6 10. Bg5 h6 11. Bxf6 Qxf6 12. Bd5
+O-O 13. Na3 exd4 14. cxd4 Ra7 15. Nc2 bxa4 16. Rxa4 a5 17. Re1
+Rd8 18. b4 axb4 19. Rxa7 Bxa7 20. Ne3 Bb6 21. Qc1 Nxd4
+22. Bxb7 Nxf3+ 23. gxf3 Qxf3 24. Bd5 Re8 25. Qd1 Qf4 26. Qe2
+Rb8 27. Ng2 Qf6 28. Rb1 c6 29. Bxc6 b3 30. Bd5 b2 31. Kf1 Bd4
+32. Ne3 Qf4 33. Qd3 Rc8 34. Ke2 Rc1 35. Ba2 Be5 36. Nf5 Qg4+
+37. Qf3 Rc2+ 0-1

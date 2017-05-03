@@ -1,0 +1,25 @@
+[Event "Bs As KONEX op"]
+[Site "Bs As KONEX op"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Jorge Alberto Rubinetti"]
+[Black "Andres Rodriguez Vila"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Bc5 5.e5 Nfd7 6.c3 Be7 7.a3
+c5 8.b4 d4 9.cxd4 cxb4 10.d5 exd5 11.d4 Nc6 12.Bd3 Nf8 13.O-O
+Qb6 14.Nb3 Bg4 15.h3 Bxf3 16.Qxf3 Ne6 17.Qxd5 Rd8 18.Qe4 bxa3
+19.Bc4 Ncxd4 20.Nxd4 Qxd4 21.Qxd4 Nxd4 22.Bxa3 a6 23.Rfb1 Rd7
+24.f4 Nc2 25.Bxe7 Kxe7 26.Ra2 Ne3 27.Be2 Nd5 28.Bg4 Rc7 29.Bf3
+Rd8 30.Ra5 Nxf4 31.Rxb7 Rxb7 32.Bxb7 Rb8 33.Bf3 Rb6 34.Kh2 Ne6
+35.Kg3 Nd4 36.Bd5 Rb5 37.Rxb5 Nxb5 38.Kf4 Nc3 39.Bc4 a5 40.Ke3
+Na4 41.Kd4 Nb6 42.Ba2 Nd7 43.Bb3 h6 44.h4 g6 45.g3 Nb6 46.Kc5
+a4 47.Ba2 Nd7+ 48.Kd4 h5 49.Kd5 Nf8 50.Kc5 Ne6+ 51.Kb4 Nd4
+52.Kxa4 Nf5 53.Kb4 Nxg3 54.Kc3 Nf5 55.Kd3 Nxh4 56.Ke4 Nf5
+57.Kf4 Nd4 58.Bc4 Ne6+ 59.Kg3 Kf8 60.Kh4 Kg7 61.Kg3 g5 62.Kf3
+Kg6 63.Bd3+ Kh6 64.Kg3 g4 65.Kh4 Nf4 66.Bf1 Kg6 67.Kg3 0-1

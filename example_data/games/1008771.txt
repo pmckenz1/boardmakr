@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Nicholas Pert"]
+[Black "David Alexander Farndon"]
+[ECO "E66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c5
+7. dxc5 dxc5 8. Nc3 Nc6 9. Bf4 Qxd1 10. Rfxd1 Be6 11. Ne5 Nxe5
+12. Bxe5 Bxc4 13. Bxb7 Rad8 14. b3 Be6 15. Nb5 Bd5 16. Bxd5
+Nxd5 17. Bxg7 Kxg7 18. Rac1 a6 19. Rxc5 e6 20. Nd4 Nf6 21. e3
+Rfe8 22. Rdc1 e5 23. Nf3 Ne4 24. Rxe5 Rxe5 25. Nxe5 Rd2
+26. Rc7 Kf6 27. f4 Nd6 28. Rc6 Kf5 29. Nf3 Rd1+ 30. Kf2 Ne4+
+31. Ke2 Rb1 32. Rc2 f6 33. Nd2 Rh1 34. Nxe4 Kxe4 35. Rc4+ Kf5
+36. Kf3 Rf1+ 37. Kg2 Re1 38. Kf2 Rh1 39. h3 Rh2+ 40. Kf3 Rxa2
+41. Rc6 g5 42. e4+ 1-0

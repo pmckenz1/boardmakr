@@ -1,0 +1,17 @@
+[Event "Bs As GP"]
+[Site "Bs As GP"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Eduardo Biagi"]
+[Black "Andres Rodriguez Vila"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 e6 2.Nf3 Nf6 3.e3 b6 4.Bd3 Bb7 5.O-O d5 6.Nbd2 Bd6 7.Qe2
+Ne4 8.Ne5 O-O 9.c4 f6 10.Nef3 Nd7 11.b3 f5 12.Bb2 Nxd2 13.Nxd2
+dxc4 14.Bxc4 Bxh2+ 15.Kxh2 Qh4+ 16.Kg1 Bxg2 17.Kxg2 Qg5+
+1/2-1/2

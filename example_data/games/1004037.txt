@@ -1,0 +1,30 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Arpad Vajda"]
+[Black "Lajos Asztalos"]
+[ECO "D66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "164"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 O-O
+7. Rc1 c6 8. Bd3 dxc4 9. Bxc4 c5 10. O-O a6 11. a4 Nb6 12. Ba2
+cxd4 13. exd4 Nbd5 14. Ne5 Nb4 15. Bb1 Nfd5 16. Nxd5 Nxd5
+17. Qd3 f5 18. Bxe7 Qxe7 19. Ba2 Qd6 20. Bxd5 exd5 21. Qb3 Rd8
+22. Rc3 Bd7 23. Qxb7 Rab8 24. Qa7 Ra8 25. Qc5 Bxa4 26. Rfc1
+Qxc5 27. Rxc5 Rab8 28. h4 Be8 29. Rc7 h6 30. Nc6 Bxc6
+31. R1xc6 Kh8 32. Rxa6 Rb4 33. Raa7 Rg8 34. Rf7 Rxd4 35. Rxf5
+Rb4 36. Rxd5 Rxb2 37. Rdd7 Rbb8 38. Kh2 Rbd8 39. Kg3 Rxd7
+40. Rxd7 Ra8 41. Kg4 Kg8 42. f4 Ra5 43. h5 Rb5 44. Re7 Rb2
+45. g3 Rb3 46. Kh3 Ra3 47. Kg2 Rb3 48. Kf2 Ra3 49. Re3 Ra2+
+50. Kf3 Ra4 51. Rd3 Rb4 52. Ke3 Ra4 53. g4 Ra8 54. Rd7 Re8+
+55. Kf3 Ra8 56. Rd4 Re8 57. Rd5 Ra8 58. Ke4 Re8+ 59. Re5 Rf8
+60. Re6 Kh7 61. f5 Ra8 62. f6 gxf6 63. Re7+ Kh8 64. Kf5 Rg8
+65. Rf7 Rg5+ 66. Kf4 Ra5 67. Rxf6 Kg7 68. Rg6+ Kh7 69. Re6 Ra7
+70. Kf5 Rg7 71. Re4 Rg5+ 72. Kf6 Kh8 73. Kf7 Rg7+ 74. Kf8 Rg8+
+75. Kf7 Rg7+ 76. Kf6 Rg5 77. Re8+ Kh7 78. Re7+ Kh8 79. Re4 Kh7
+80. Rf4 Kh8 81. Ke6 Kh7 82. Ke7 Kh8 1/2-1/2

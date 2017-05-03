@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Alexandr Granovskiy"]
+[Black "Valery Zhidkov"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nxc6 dxc6 6. Bd3
+Nf6 7. Qe2 Bc5 8. Be3 Bg4 9. Qd2 Bd6 10. Nc3 O-O-O 11. Bg5 Qh5
+12. f3 Be6 13. g4 Bg3+ 14. Ke2 Qh3 15. Raf1 Qg2+ 16. Kd1 Qxd2+
+17. Bxd2 Be5 18. h3 Bxc3 19. Bxc3 Bxa2 20. Ke2 Be6 21. f4 Rhe8
+22. f5 Bc4 23. Bxf6 gxf6 24. Ke3 Bxd3 25. cxd3 c5 26. Rc1 b6
+27. Rhg1 h6 28. h4 a5 29. g5 hxg5 30. hxg5 fxg5 31. Rxg5 f6
+32. Rg6 Rd6 33. Rh1 a4 34. Rh7 Rf8 35. Rgg7 Rc6 36. Kf4 Rd8
+37. Rh3 b5 38. Re7 b4 39. Re6 Rdd6 40. Rh8+ Kb7 41. Rxd6 Rxd6
+42. Ke3 Ra6 43. Rh1 a3 44. bxa3 bxa3 45. e5 fxe5 46. Ke4 a2
+47. Ra1 Kc6 48. Kxe5 Kd7 49. f6 Ke8 50. Kf5 Kf7 51. Ke5 0-1

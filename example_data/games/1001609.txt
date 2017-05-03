@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.05.20"]
+[EventDate "1882.05.10"]
+[Round "9"]
+[Result "0-1"]
+[White "Max Weiss"]
+[Black "Adolf Schwarz"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e3 d5 2. d4 e6 3. c4 Nf6 4. Nf3 b6 5. Nc3 Bb7 6. Be2 a6
+7. O-O Nc6 8. b3 Bd6 9. Bb2 O-O 10. Rc1 Ne7 11. Bd3 Ng6
+12. Bb1 Ne4 13. Nxe4 dxe4 14. Nd2 f5 15. f4 c5 16. Qe2 cxd4
+17. Bxd4 Bxf4 18. Rfd1 Bc7 19. c5 Bd5 20. b4 bxc5 21. bxc5 Qg5
+22. Kh1 Qh6 23. h3 Ne5 24. Bxe5 Bxe5 25. Nc4 Bc7 26. Nb6 Rad8
+27. a4 Kh8 28. Nxd5 exd5 29. Rf1 f4 30. exf4 Rxf4 31. Rcd1 Qg5
+32. g4 Qe5 33. Ba2 d4 34. Rxf4 Qxf4 35. Rf1 d3 36. Qg2 Qe5
+37. Bb1 g6 38. Rd1 Rf8 0-1

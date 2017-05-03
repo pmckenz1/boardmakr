@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Holger Proehl"]
+[Black "Frank Holzke"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 Qb6 8. Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6
+12. Nc3 O-O 13. h3 Bd7 14. Re1 Kh8 15. Be3 Be8 16. Ng5 Bf7
+17. a3 Bg8 18. b4 Qd8 19. Rc1 e5 20. dxe5 Bxe5 21. Bd2 a6
+22. Na4 Qc7 23. Nc5 Rae8 24. Nf3 Bd6 25. Rxe8 Rxe8 26. Nxa6
+bxa6 27. Qa4 Ne4 28. Rxc6 Qe7 29. Be3 d4 30. Nxd4 Rf8 31. Bxe4
+Qxe4 32. Rxd6 Bd5 33. Rxd5 Qxd5 34. Qxa6 h6 35. b5 Qa2 36. b6
+Qb1+ 37. Kh2 Qe4 38. b7 Rb8 39. Nc6 1-0

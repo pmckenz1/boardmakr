@@ -1,0 +1,20 @@
+[Event "Bled"]
+[Site "Slovenia"]
+[Date "1931.09.21"]
+[EventDate "1931.08.23"]
+[Round "22"]
+[Result "1/2-1/2"]
+[White "Gosta Stoltz"]
+[Black "Vasja Pirc"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 c6 5.Nbd2 Nbd7 6.Bd3 Be7 7.O-O
+O-O 8.b3 b6 9.Bb2 Bb7 10.Qc2 h6 11.Rad1 c5 12.Ne5 Rc8 13.f4
+cxd4 14.exd4 dxc4 15.bxc4 Nd5 16.Rde1 Nb4 17.Bh7+ Kh8 18.Qb1
+Nxe5 19.fxe5 Bg5 20.Ne4 Bxe4 21.Bxe4 Rxc4 22.a3 Nd5 23.Qd3 Rc8
+24.g3 f5 25.exf6 Rxf6 26.Bf3 Qc7 27.Re2 Rcf8 28.Re5 Qf7 29.Kg2
+Rf5 30.Ree1 h5 31.h4 Bxh4 32.Bxd5 Rf2+ 33.Kg1 exd5 34.gxh4 Qf4
+35.Qh3 Rf6 36.Bc1 Rg6+ 1/2-1/2

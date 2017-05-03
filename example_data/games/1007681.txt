@@ -1,0 +1,23 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.30"]
+[EventDate "1927.06.26"]
+[Round "5"]
+[Result "0-1"]
+[White "Frederick Dewhirst Yates"]
+[Black "Hans Kmoch"]
+[ECO "C12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3
+7. bxc3 Ne4 8. Qg4 g6 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 Nc6
+12. Rh3 cxd4 13. cxd4 Bd7 14. Rf3 Qb6 15. Qf4 Qb4+ 16. Kd1
+Qxd4 17. Qxf7+ Kd8 18. Rb1 b6 19. Rf4 Qxe5 20. Nf3 Qd6 21. Qg7
+Kc7 22. Rf7 Rag8 23. Qc3 Qc5 24. Rb3 d4 25. Qxc5 bxc5 26. Bb5
+Rf8 27. Rxd7+ Kxd7 28. Ne5+ Kd6 29. Nxc6 Rxf2 30. Rg3 g5
+31. h5 a6 32. Ba4 e5 33. Na5 Rhf8 34. Nc4+ Kd5 35. Nd2 c4
+36. Rf3 R8xf3 37. gxf3 g4 38. fxg4 e4 39. Ke1 e3 40. Nf1 Ke5
+41. c3 d3 42. Nxe3 Re2+ 43. Kd1 Rxe3 44. Be8 Rg3 45. Bf7 Kf4
+0-1

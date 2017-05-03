@@ -1,0 +1,22 @@
+[Event "Manila Interzonal"]
+[Site "Manila PHI"]
+[Date "1990.07.05"]
+[EventDate "1990.06.29"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Bozidar Ivanovic"]
+[Black "Lubomir Ftacnik"]
+[ECO "B95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. Qf3 Be7 8. O-O-O Nbd7 9. Kb1 h6 10. Bc1 Qc7 11. Qg3 Rg8
+12. f4 g5 13. f5 e5 14. Nb3 b5 15. h4 Bb7 16. hxg5 hxg5
+17. Qe1 b4 18. Nd5 Nxd5 19. exd5 Rc8 20. Na1 a5 21. Bb5 Kf8
+22. Qg3 Nb6 23. Rh6 Qc5 24. f6 Qxb5 25. fxe7+ Kxe7 26. Qf2
+Nxd5 27. Qf5 Qd7 28. Qf2 a4 29. g3 Rcf8 30. a3 f6 31. axb4
+Nxb4 32. Bd2 Nc6 33. Rf1 Kd8 34. Rxf6 Rxf6 35. Qxf6+ Qe7
+36. Qf2 Kc7 37. b3 axb3 38. Nxb3 Rb8 39. Qf5 Nd4 40. Ba5+ Kc6
+41. Nxd4+ exd4 42. Qf3+ Kd7 43. Qg4+ 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Milan Drasko"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.c4 c6 2.Nc3 d5 3.d4 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.Ne5 Nbd7
+7.Nxc4 Qc7 8.g3 e5 9.dxe5 Nxe5 10.Bf4 Rd8 11.Qc1 Bd6 12.Nxd6+
+Qxd6 13.Bg2 Qe7 14.O-O a5 15.Qe3 Nc4 16.Qa7 Qb4 17.Na2 Qb3
+18.Nc1 Qxb2 19.Nd3 Qd4 20.Qxb7 O-O 21.Qxc6 Ne4 22.Rac1 Rc8
+23.Qb5 Bd7 24.Be5 Nxe5 25.Qxe5 Nc3 26.Bf3 1/2-1/2

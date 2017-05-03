@@ -1,0 +1,17 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Peter Lukacs"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 e6 5.O-O Nf6 6.cxd5 Bxf3
+7.Bxf3 cxd5 8.d3 Nc6 9.Bg2 Be7 10.Nc3 O-O 11.a3 Rc8 12.Bd2 Nd7
+13.Rc1 Nb6 14.Kh1 Bf6 15.b4 a6 16.e3 Qd7 17.Qb3 Ne5 18.Qb1 Na4
+19.Kg1 Nf3+ 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Francis Rayner"]
+[Black "David Walker"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Bc4 Nf6 5. Qe2 O-O 6. O-O Nc6
+7. e5 Ne8 8. h3 Kh8 9. c3 f6 10. exf6 exf6 11. Re1 d5 12. Bb3
+Bf5 13. Nbd2 Na5 14. Nh4 Nxb3 15. Nxb3 Bd7 16. Nc5 Nd6 17. Qe7
+Rf7 18. Qxd8+ Rxd8 19. Bf4 Bc8 20. Bxd6 Rxd6 21. Re8+ Rf8
+22. Rae1 Rd8 23. R8e7 b6 24. Ne6 Bxe6 25. R1xe6 Rc8 26. Rc6
+Kg8 27. Rcxc7 Rxc7 28. Rxc7 Rf7 29. Rc8+ Bf8 30. Rd8 Rc7
+31. g3 Kf7 32. Rxd5 Be7 33. Ng2 a6 34. Kf1 Ke6 35. Ne3 Bd6
+36. Ke2 Kd7 37. Kd3 Kc6 38. c4 Re7 39. a3 b5 40. b3 Re8 41. a4
+bxc4+ 42. bxc4 Re7 43. g4 Rb7 44. Kc2 Rb4 45. Ra5 Kb6 46. Rd5
+Kc6 47. Ra5 Kb6 48. Rd5 Kc6 1/2-1/2

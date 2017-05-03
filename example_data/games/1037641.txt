@@ -1,0 +1,22 @@
+[Event "Grand Manan"]
+[Site "Grand Manan"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "John van der Wiel"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e6 2.Qe2 c5 3.f4 Nf6 4.d3 d5 5.g4 Be7 6.g5 Nfd7 7.Nc3
+dxe4 8.Nxe4 Nc6 9.c3 h6 10.Nf3 hxg5 11.fxg5 Qc7 12.Be3 b6
+13.Bf2 Ba6 14.Bg3 e5 15.h4 f5 16.gxf6 gxf6 17.Bh3 O-O-O
+18.O-O-O Kb8 19.Bf5 b5 20.h5 Qa5 21.Kb1 Nb6 22.Nxf6 Bxf6
+23.Nxe5 Nxe5 24.Bxe5+ Bxe5 25.Qxe5+ Ka8 26.Be4+ Bb7 27.Bxb7+
+Kxb7 28.Rdg1 Nd7 29.Qd5+ Kb8 30.Rg7 Qc7 31.h6 Qe5 32.Qc6 Qf6
+33.Qxb5+ Kc8 34.Rhg1 Rxh6 35.d4 Qf5+ 36.Ka1 Rb6 37.Qe2 Qe6
+38.Qxe6 Rxe6 39.dxc5 a5 40.b4 Re4 41.R7g4 Rxg4 42.Rxg4 axb4
+43.cxb4 Nxc5 1/2-1/2

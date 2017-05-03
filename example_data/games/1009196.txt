@@ -1,0 +1,27 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Lars Thiede"]
+[Black "Tobias Jugelt"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. g3 d5 2. Bg2 c6 3. Nf3 Nf6 4. b3 Bg4 5. Bb2 Nbd7 6. O-O e6
+7. d3 Be7 8. Nbd2 O-O 9. e4 a5 10. a3 Ne8 11. Qe2 Nc7 12. h3
+Bxf3 13. Nxf3 c5 14. exd5 exd5 15. d4 Bf6 16. Rab1 Re8 17. Qd3
+Ra6 18. h4 Rd6 19. Bh3 cxd4 20. Bxd4 Ne6 21. Bxe6 Rdxe6
+22. Rbd1 Qc7 23. Bxf6 Nxf6 24. Kg2 Qc5 25. a4 Re4 26. Nd4 g6
+27. Qb5 Qc7 28. Rd3 Kg7 29. Rfd1 Re1 30. Rxe1 Rxe1 31. Rf3 Qe5
+32. Qd3 Re4 33. c3 b6 34. Qd2 Re1 35. Qf4 Qxf4 36. Rxf4 Rc1
+37. Rf3 Ne4 38. Nb5 Rc2 39. Kg1 Rb2 40. Nd4 Nc5 41. Kg2 Kf8
+42. Re3 Nxb3 43. Nxb3 Rxb3 44. Rd3 Ke7 45. Rxd5 Rxc3 46. Rb5
+Rc6 47. h5 Kd6 48. hxg6 hxg6 49. Rb3 Kc7 50. Re3 Re6 51. Rc3+
+Kb7 52. Rd3 Ka6 53. f4 f5 54. Kh3 b5 55. axb5+ Kxb5 56. Kh4
+Ra6 57. g4 fxg4 58. Kxg4 a4 59. Kg5 a3 60. Rd1 a2 61. Ra1 Kc4
+62. Rc1+ Kb3 63. Rg1 a1=Q 64. Rxa1 Rxa1 65. Kxg6 Kc4 66. f5
+Kd5 0-1

@@ -1,0 +1,17 @@
+[Event "It (cat.19), Sarajevo (Bosnia & Herzegovina) (4"]
+[Site "Sarajevo BIH"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Alexander Morozevich"]
+[Black "Jan Timman"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6
+7. a4 Bg4 8. h3 Bh5 9. g4 Bg6 10. Nc3 h6 11. Nh4 Kh8 12. Nf5
+Bxf5 13. gxf5 Nh7 14. f4 exf4 15. Bxf4 Bg5 16. Bh2 Bf6 17. Kh1
+Be5 18. Qh5 1/2-1/2

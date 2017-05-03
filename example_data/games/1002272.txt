@@ -1,0 +1,19 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.24"]
+[EventDate "?"]
+[Round "25"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Eugene Delmar"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ Qxf6 6.Nf3 h6
+7.Bd3 Bd6 8.O-O O-O 9.Qe2 Nc6 10.Qe4 Rd8 11.c3 e5 12.Re1 g6
+13.Bxh6 Bf5 14.Qe2 e4 15.Bxe4 Re8 16.Qd3 Rxe4 17.Rxe4 Qh8
+18.Bd2 Kg7 19.Rae1 Qh5 20.Qb5 Bxe4 21.Qxh5 gxh5 22.Rxe4 a5
+23.Nh4 Kf6 24.g3 a4 25.Kg2 a3 26.b4 Ra4 27.Bf4 Bxb4 28.d5 Ne7
+29.Be5+ Kg5 30.Bg7 Ng6 31.Re5+ 1-0

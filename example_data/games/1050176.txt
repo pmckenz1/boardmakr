@@ -1,0 +1,24 @@
+[Event "?"]
+[Site "?"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Rostislav Korsunsky"]
+[Black "Efim Geller"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.Bb3
+Na5 8.Ba4 c5 9.c3 a6 10.h3 b5 11.Bc2 Qc7 12.Nbd2 Nc6 13.Nf1 d5
+14.Ne3 Be6 15.Ng5 dxe4 16.Nxe6 fxe6 17.Ng4 Kh8 18.Nxf6 gxf6
+19.dxe4 Rg8 20.a4 Rad8 21.Qh5 Rg6 22.axb5 axb5 23.Re3 c4
+24.Rg3 Rxg3 25.fxg3 Qb6+ 26.Kf1 Qb7 27.Qf7 Qc8 28.Kg1 Rg8
+29.Kh2 Rg7 30.Qh5 Bc5 31.Qe2 Ne7 32.b3 Nc6 33.bxc4 b4 34.Qf3
+Rf7 35.Bg5 Kg7 36.Rf1 Qg8 37.Bd2 bxc3 38.Bxc3 Nd4 39.Bxd4 Bxd4
+40.Qg4+ Kh8 41.Qxe6 Qg7 42.c5 Bxc5 43.Bb3 Rf8 44.Bd5 Qe7
+45.Qf5 Qe8 46.Qg4 Qb8 47.Qe6 Kg7 48.h4 Qd8 49.Rb1 Kh8 50.Rb7
+Qe8 51.Qf5 Qg6 52.g4 Qxf5 53.gxf5 Bf2 54.Kh3 Rc8 55.Kg4 Bc5
+56.Kh5 Bf8 57.g4 Bg7 58.g5 Rd8 59.Rb6 1-0

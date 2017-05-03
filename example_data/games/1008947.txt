@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Al-Rakib Abdulla"]
+[Black "John Naylor"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2 c5
+7. dxc5 Nbd7 8. O-O Nxc5 9. Be5 e6 10. Nb5 Bd7 11. Bc7 Qc8
+12. Bd6 Rd8 13. Be7 Re8 14. Nd6 Qc7 15. Nxe8 Rxe8 16. Bxc5
+Qxc5 17. c3 e5 18. Qb3 b6 19. a4 Ne4 20. Bb5 Rd8 21. Bxd7 Rxd7
+22. Rfd1 g5 23. Qb5 Rd8 24. Qxc5 bxc5 25. Nd2 Nd6 26. Nb3 Nb7
+27. Rac1 f5 28. f3 e4 29. Rc2 Kf7 30. Rcd2 c4 31. Rxd5 1-0

@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.30"]
+[EventDate "1897.09.13"]
+[Round "16"]
+[Result "1-0"]
+[White "Horatio Caro"]
+[Black "Emmanuel Schiffers"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 d5 6. d4 Nf6
+7. Bxf4 Nxe4 8. Nd2 Nxd2 9. Qxd2 Be6 10. O-O-O Nd7 11. Re1 Bg7
+12. Nxg4 O-O 13. Bg5 Nf6 14. Nxf6+ Bxf6 15. Bd3 Kh8 16. Qf4
+Be7 17. Bxe7 Qxe7 18. Qe5+ Kg8 19. Re3 f6 20. Qxe6+ Qxe6
+21. Rxe6 Rf7 22. g4 Kg7 23. h5 Kh6 24. Rhe1 Kg5 25. Bf5 h6
+26. Re8 Rxe8 27. Rxe8 Rg7 28. Kd2 b6 29. Rd8 c6 30. Rd7 Rxd7
+31. Bxd7 c5 32. c3 c4 33. Bf5 a5 34. Bd7 b5 35. Bf5 a4 36. a3
+Kf4 37. Ke2 Kg5 38. Bd7 Kf4 39. Kf2 Ke4 40. Bxb5 Kd3 41. Bxa4
+Kd2 42. Bc6 Kc1 43. Bxd5 Kxb2 44. Bxc4 Kxc3 45. d5 1-0

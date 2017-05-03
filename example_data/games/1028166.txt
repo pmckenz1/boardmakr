@@ -1,0 +1,27 @@
+[Event "London"]
+[Site "London"]
+[Date "1892.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Henry Edward Bird"]
+[Black "Joseph Henry Blackburne"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.f4 {Notes by Blackburne.} e5 2.fxe5 d6 3.exd6 Bxd6 4.Nf3 Nf6
+5.d4 {As is stated before this is inferior to d3 or c3.} Ne4
+6.Qd3 f5 7.Nc3 O-O {Giving up another Pawn for a rapid
+development.} 8.Nxe4 fxe4 9.Qxe4 Bf5 {Pawns are not to be
+counted in this type of game. White must be prevented from
+playing e4 at any cost.} 10.Qxb7 {Better not have captured the
+third Pawn. It loses too much time.} Nd7 11.Qb3+ Kh8 12.Bg5
+Qe8 13.Qe3 {Still further cramping his position.} Qh5 14.c3
+Rab8 15.Qd2 Nb6 16.b3 Nd5 17.Rc1 {To defend the c-Pawn. His
+game is already lost.} h6 18.Bh4 Bf4 19.Qb2 Ne3 {Much better
+than winning the exchange.} 20.Bf2 Rbe8 21.Bxe3 Bxe3 22.c4 Be4
+23.Rc3 Bxf3 24.Rxe3 Rxe3 25.gxf3 Qxf3 26.Kd2 {No means of
+saving the Rook.} Qxh1 27.Kxe3 Qxf1 28.Kd3 Rf3+ 29.Kd2 Rf2
+30.Kd3 Qh3+ 0-1

@@ -1,0 +1,22 @@
+[Event "New Orleans m ;HCL 34"]
+[Site "New Orleans, LA USA"]
+[Date "1845.12.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Eugene Rousseau"]
+[Black "Charles Henry Stanley"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.Ng5 Ne5 6.Qxd4 Nxc4
+7.Qxc4 d5 8.exd5 Qxd5 9.Qe2+ Be6 10.O-O Bc5 11.Nc3 Qc6 12.Nxe6
+fxe6 13.Re1 O-O 14.Qxe6+ Qxe6 15.Rxe6 Ng4 16.Be3 Nxe3 17.fxe3
+Rae8 18.Rxe8 Rxe8 19.Re1 Rxe3 20.Rxe3 Bxe3+ 21.Kf1 Bd4 22.Nd1
+Kf7 23.Ke2 Ke6 24.Kd3 c5 25.Ke4 b5 26.c3 Bg1 27.h3 a5 28.b3 b4
+29.cxb4 axb4 30.Nb2 g5 31.g4 h6 32.Nd3 Bd4 33.Nc1 Bg7 34.Nd3
+Kd6 35.Ne1 Ke6 36.Nd3 Bf8 37.Nf2 Bg7 38.Nd3 Bf8 39.Ne1 Bd6
+40.Ng2 Be7 41.Ne3 Bd6 42.Nf5 Bf8 43.h4 gxh4 44.Nxh4 Be7 45.Ng6
+Bd6 46.Nf4+ Bxf4 47.Kxf4 Kf6 48.Kg3 Kg6 1/2-1/2

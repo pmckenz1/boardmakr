@@ -1,0 +1,20 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "7"]
+[Result "0-1"]
+[White "Vladislav Borovikov"]
+[Black "Gennadi Gutman"]
+[ECO "C05"]
+[WhiteElo "2470"]
+[BlackElo "2470"]
+[PlyCount "66"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O
+12. Bf4 Bxf4 13. Nxf4 Ng4 14. g3 Qd6 15. Bxh7+ Kxh7 16. Ng5+
+Kg8 17. Qxg4 e5 18. Qh5 Qh6 19. dxe5 Rxf4 20. Qxh6 gxh6
+21. gxf4 hxg5 22. fxg5 Bf5 23. f4 Kf7 24. Rad1 d4 25. b4 d3
+26. b5 Nd4 27. a4 Rh8 28. Rf2 Ne2+ 29. Kf1 Nc3 30. Rc1 Ne4
+31. Rb2 d2 32. Rd1 Rxh2 33. Kg1 Re2 0-1

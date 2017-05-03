@@ -1,0 +1,15 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lev Psakhis"]
+[Black "Nigel Rodney Davies"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.d5 Nf6 5.Nc3 O-O 6.a4 d6 7.Be2 e6
+8.O-O exd5 9.exd5 Na6 10.Nd2 Nb4 11.Nc4 Re8 12.Bf3 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.13"]
+[EventDate "1922.??.??"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Ladislav Prokes"]
+[Black "Karel Opocensky"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. c3 b6 5. e3 Bb7 6. Nbd2 Be7
+7. Bd3 Nh5 8. Bg3 Nxg3 9. hxg3 d6 10. Qc2 h6 11. Bb5+ Nd7
+12. dxc5 bxc5 13. g4 Qa5 14. Bxd7+ Kxd7 15. Nc4 Qa6 16. Rd1
+Kc7 17. Na3 Rad8 18. c4 Qa5+ 19. Qd2 Qxd2+ 20. Rxd2 a6 21. Ke2
+Bf6 22. Ne1 Bc6 23. f3 Rb8 24. Nd3 Rb6 25. Rhd1 Rhb8 26. b3 a5
+27. Nc1 Be7 28. e4 Bg5 29. Rb2 a4 30. Nd3 Be7 31. Rbb1 axb3
+32. axb3 Ra8 33. Nc2 Ra2 34. Kd2 Bf6 35. g3 Bd4 36. Re1 Kd7
+37. Nc1 Rb2 38. Rxb2 Bxb2 39. Re3 Bf6 40. f4 Be7 41. Ne1 Rb8
+42. Re2 Rh8 43. Kd3 Ra8 44. Rc2 Rb8 1/2-1/2

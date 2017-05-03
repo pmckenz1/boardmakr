@@ -1,0 +1,25 @@
+[Event "01, CAN zt"]
+[Site "01, CAN zt"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Gary Basanta"]
+[Black "Lawrence Day"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Be2 cxd4 5.Nxd4 Nc6 6.Nb3 a5 7.a4
+Nf6 8.Nc3 d6 9.O-O Be6 10.Bg5 h6 11.Bh4 Qb6 12.Kh1 Qb4 13.f3
+Nd7 14.Nb5 Bxb3 15.Nc7+ Kd8 16.Nxa8 Be6 17.c3 Qxb2 18.Rb1 Qa3
+19.Rxb7 g5 20.Bf2 Bxc3 21.Bb5 Nce5 22.Qc1 Qb4 23.Ba6 Nd3
+24.Rxb4 Nxc1 25.Rb7 Na2 26.Nb6 Nc5 27.Bxc5 dxc5 28.Rd1+ Bd4
+29.Nd5 Bxd5 30.exd5 Be5 31.Re1 Bc7 32.Bb5 Kc8 33.Bc6 Bd6
+34.Ra7 Rd8 35.Rxa5 Nb4 36.Ra8+ Kc7 37.Rxd8 Kxd8 38.h4 Kc7
+39.hxg5 hxg5 40.Be8 f6 41.Rd1 Kb6 42.Kg1 Be5 43.Kf1 c4 44.Bg6
+Ka5 45.Rc1 c3 46.Be4 Kxa4 47.Ke2 Kb3 48.Rb1+ Kc4 49.g4 Nxd5
+50.Bxd5+ Kxd5 51.Kd3 Kc5 52.Rb7 e6 53.Re7 Kd6 54.Rg7 Bd4
+55.Rb7 f5 56.Rb5 Be5 57.Rb6+ Ke7 58.Rb5 Kf6 59.Rc5 fxg4
+1/2-1/2

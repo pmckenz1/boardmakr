@@ -1,0 +1,22 @@
+[Event "Altensteig 44/639 (Ftacnik,L)"]
+[Site "Altensteig 44/639 (Ftacnik,L)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Ivan Farago"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5
+7. Qc2 Nxc3 8. Qxc3 h6 9. Bf4 Bd6 10. Bg3 O-O 11. e3 Nd7
+12. Bb5 Bxg3 13. hxg3 c5 14. Rd1 Qe7 15. Bxd7 Bxf3 16. gxf3
+Qxd7 17. dxc5 Qc6 18. e4 bxc5 19. Rh5 Rfc8 20. b4 f5 21. bxc5
+fxe4 22. Qe5 exf3 23. Rd6 Qe8 24. Rxe6 Qf7 25. Rexh6 gxh6
+26. Rxh6 Qe8 27. Re6 Rab8 28. Qg5+ Kf8 29. Qf4+ Qf7 30. Rf6
+Re8+ 31. Kd1 Rbd8+ 32. Kc2 Rd7 33. c6 Rc8 34. Qxf3 Rcc7
+35. Kc3 Re7 36. Kd4 Ke8 37. Rxf7 Rxf7 38. Qe4+ Rce7 39. Qg6
+Rc7 40. Kd5 Rce7 1-0

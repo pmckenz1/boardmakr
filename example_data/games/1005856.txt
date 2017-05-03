@@ -1,0 +1,25 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.22"]
+[EventDate "2000.01.21"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Vladimir Georgiev"]
+[Black "Yochanan Afek"]
+[ECO "B70"]
+[WhiteElo "2538"]
+[BlackElo "2349"]
+[PlyCount "119"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Nc6
+7. Nde2 Bg7 8. Bg2 O-O 9. O-O Qd7 10. Rb1 b6 11. b3 Ba6
+12. Bb2 Rac8 13. Re1 e6 14. a4 Rfd8 15. Nb5 d5 16. Bxf6 Bxf6
+17. exd5 exd5 18. Nf4 d4 19. Bh3 Qb7 20. Nd3 Bg7 21. Bxc8 Qxc8
+22. Re4 Bb7 23. Qe2 Bf8 24. b4 a6 25. Na3 a5 26. Nb5 Nxb4
+27. Re5 Qc6 28. f3 Qxc2 29. Qxc2 Nxc2 30. Kf2 Nb4 31. Rd1 Bd5
+32. Nxb4 axb4 33. Ke2 d3+ 34. Kd2 Bxf3 35. Rde1 Bh6+ 36. R1e3
+Be2 37. h3 b3 38. Nc3 b2 39. Rb5 Rc8 40. Nxe2 dxe2 41. Kxe2
+Bxe3 42. Kxe3 Rc3+ 43. Kf2 h5 44. h4 Rc2+ 45. Kf3 Rc3+ 46. Kf2
+Rc6 47. Rxb2 Kg7 48. Rb5 Kf6 49. a5 bxa5 50. Rxa5 Rc3 51. Rb5
+Rd3 52. Ra5 Ke6 53. Rb5 Rd5 54. Rb7 f6 55. Rb3 Rd4 56. Kf3 Ke5
+57. Re3+ Kf5 58. Ra3 Rd5 59. Rb3 Ra5 60. Rc3 1/2-1/2

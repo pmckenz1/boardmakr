@@ -1,0 +1,23 @@
+[Event "t Naci (04"]
+[Site "Buenos Aires"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Jorge Szmetan"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 e5 7.d4
+Nbd7 8.e4 c6 9.h3 Qb6 10.dxe5 dxe5 11.Qc2 Qb4 12.b3 Qe7 13.Be3
+Nh5 14.Rfe1 Nc5 15.Rad1 Ne6 16.Qc1 f5 17.exf5 gxf5 18.Bh6 e4
+19.Bxg7 Qxg7 20.Nh2 Nc5 21.Qe3 Nd3 22.Rxd3 exd3 23.Qxd3 Bd7
+24.Nf1 f4 25.Rd1 fxg3 26.fxg3 Bf5 27.Qd4 Qxd4+ 28.Rxd4 Bg6
+29.Ne2 Rae8 30.Rd2 Bd3 31.Rxd3 Rxe2 32.Bf3 Re5 33.Kf2 Nf6
+34.Nd2 a5 35.g4 h6 36.Rd4 Kg7 37.h4 c5 38.Rf4 Rd8 39.Nf1 Rd4
+40.Rxd4 cxd4 41.Ng3 d3 42.g5 hxg5 43.hxg5 Rxg5 44.Bxb7 d2
+45.Bf3 Ng4+ 46.Ke2 Nh2 47.Ne4 Re5 48.Bg2 Ng4 49.Kxd2 Rh5
+50.Bf3 Rh2+ 51.Be2 Ne5 52.c5 1/2-1/2

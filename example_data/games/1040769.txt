@@ -1,0 +1,19 @@
+[Event "Ujpest"]
+[Site "Ujpest"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Vasja Pirc"]
+[ECO "D48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+b5 8.Bd3 a6 9.e4 b4 10.Na4 c5 11.dxc5 Bxc5 12.O-O Bb7 13.Qe2
+Qa5 14.b3 O-O 15.Bd2 Be7 16.a3 Rfd8 17.axb4 Bxb4 18.Nb2 Qc5
+19.Rfc1 Qf8 20.Nc4 Bxd2 21.Nfxd2 Nc5 22.Bc2 Bc6 23.Ne5 Bb5
+24.Ndc4 Qe7 25.Rd1 Rxd1+ 26.Rxd1 Rd8 27.Rxd8+ Qxd8 28.Qd2 Qxd2
+29.Nxd2 a5 30.f3 a4 31.bxa4 1/2-1/2

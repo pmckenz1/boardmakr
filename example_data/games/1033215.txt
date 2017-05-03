@@ -1,0 +1,20 @@
+[Event "10s, IGC2"]
+[Site "10s, IGC2 Hiarcs 7.32"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Alfredo Brito Garcia"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4
+7. Nxd4 Bc5 8. Be3 Bd7 9. Bxc6 bxc6 10. Nd2 Nxd2 11. Qxd2 O-O
+12. O-O-O Qe7 13. Rhe1 Qxe5 14. Nxc6 Bxe3 15. Nxe5 Bxd2+
+16. Kxd2 Rfd8 17. Nd3 Be6 18. Nc5 Rd6 19. Kc3 a5 20. b3 Rb8
+21. Kb2 Rb5 22. Na4 d4 23. Rd2 Kf8 24. Red1 Rf5 25. Ka3 Ke7
+26. Nb2 Rc5 27. Nd3 Rc3 28. Nf4 Rc5 29. Kb2 Rf5 30. Rxd4 Rxf4
+0-1

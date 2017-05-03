@@ -1,0 +1,25 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "James J McDonnell"]
+[Black "Jovanka Houska"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Be2 a6 6. Be3
+Bf5 7. h3 Nc6 8. a3 O-O-O 9. Nf3 e5 10. dxe5 Nxe5 11. Qxd6
+Nxf3+ 12. Bxf3 Bxd6 13. O-O-O Rhe8 14. Bd4 Kb8 15. Kb1 h6
+16. Rhg1 Bf4 17. Rge1 b6 18. Bc6 Re6 19. Bxf6 Rxd1+ 20. Rxd1
+Rxc6 21. Bxg7 Rg6 22. g4 Bxg4 23. hxg4 Rxg7 24. f3 Kc8 25. Nd5
+Bg5 26. Re1 Kd7 27. Rh1 Kc6 28. c4 Rg6 29. Kc2 Kb7 30. f4 Bd8
+31. Ne3 Be7 32. Nf5 Bf8 33. Rg1 Bd6 34. Nxd6+ cxd6 35. Kd3 Kc6
+36. Rg2 d5 37. Kd4 dxc4 38. Kxc4 Rd6 39. Rh2 b5+ 40. Kc3 a5
+41. b4 a4 42. Rh5 Rf6 43. Rc5+ Kb6 44. g5 hxg5 45. fxg5 Rf1
+46. Kb2 Rf2+ 47. Kb1 Rf4 48. Kb2 f6 49. gxf6 Rxf6 50. Rh5 Rf2+
+51. Kb1 Rf3 52. Kb2 Rb3+ 53. Ka2 Rc3 54. Rg5 Kc6 55. Rh5 Rc2+
+56. Kb1 Rd2 57. Rc5+ Kb6 1/2-1/2

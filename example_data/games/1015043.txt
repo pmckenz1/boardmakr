@@ -1,0 +1,20 @@
+[Event "Jakarta/SW,28,19"]
+[Site "Jakarta/SW,28,19"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Nasib Ginting"]
+[Black "Utut Adianto"]
+[ECO "E04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 dxc4 5.Bg2 Bd7 6.Qc2 c5 7.Qxc4
+Bc6 8.dxc5 Nbd7 9.Be3 Bd5 10.Qa4 Bc6 11.Qc4 Bd5 12.Qa4 Ne4
+13.O-O Nexc5 14.Qf4 Ne4 15.Ne5 Nxe5 16.Bxe4 f6 17.Bxd5 Qxd5
+18.Nc3 Qc6 19.Rac1 Be7 20.a4 g5 21.Qd4 O-O 22.Nb5 Qa6 23.Qe4
+Rac8 24.b3 Ng6 25.Bxa7 f5 26.Qe3 e5 27.Bc5 f4 28.Qe4 Bxc5
+29.Qd5+ Kg7 30.Rxc5 Rfd8 31.Rc7+ Kh6 32.Qf7 Rxc7 33.Nxc7 Qd6
+34.Ne6 Rd7 35.Qf5 Qe7 36.Qh3+ Nh4 37.gxh4 gxh4 38.Nc5 1-0

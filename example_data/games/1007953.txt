@@ -1,0 +1,24 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.01.31"]
+[EventDate "1930.01.16"]
+[Round "12"]
+[Result "0-1"]
+[White "Hans Kmoch"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 b6 4.e4 Bb4 5.e5 Ne4 6.Qg4 Nxc3 7.a3
+Bf8 8.bxc3 Bb7 9.Nf3 Nc6 10.Bg5 h5 11.Qg3 Be7 12.Be3 Bf8
+13.Bd3 d6 14.Be4 Qe7 15.Bg5 f6 16.Bg6+ Kd7 17.Bh4 Rh6 18.O-O
+Rd8 19.Rfe1 Kc8 20.exf6 gxf6 21.Bf5 Ne5 22.dxe5 exf5 23.Bxf6
+Rxf6 24.exf6 Qxf6 25.Nd4 Bg7 26.Re6 Qf7 27.Rae1 Be5 28.Qg6 Qg8
+29.Nxf5 Kb8 30.Qxg8 Rxg8 31.g3 Bc8 32.Ne7 Bxe6 33.Nxg8 Bxc4
+34.Ne7 Kb7 35.h4 b5 36.Re3 a5 37.Ng6 Bf6 38.g4 hxg4 39.h5 Bg7
+40.Ne7 Bf7 41.Nf5 Be5 42.h6 Bg6 43.Nd4 b4 44.axb4 axb4 45.cxb4
+Bxd4 46.Rg3 Bf5 47.Kf1 Kb6 48.Rg1 Kb5 49.Rh1 Kxb4 50.Rh4 Kc3
+51.Rh5 Bd3+ 52.Kg2 Be5 53.f3 gxf3 54.Kxf3 Bh7 55.Rh1 c5 56.Ra1
+c4 57.Ra7 Bf5 58.h7 Kd3 59.Re7 Bxh7 60.Rxh7 c3 0-1

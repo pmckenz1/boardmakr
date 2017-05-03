@@ -1,0 +1,20 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Ferenc Langheinrich"]
+[Black "Sebastian Kitte"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7
+7. Qe2 d6 8. c4 Bd7 9. Nc3 Nc6 10. Nxc6 Bxc6 11. Nd5 Bxd5
+12. exd5 e5 13. Bd2 Be7 14. f4 O-O 15. Rae1 Rfe8 16. fxe5 dxe5
+17. Kh1 Nd7 18. Bxh7+ Kf8 19. Bf5 a5 20. b3 Ra6 21. Qg4 Nc5
+22. Qh3 Bf6 23. g4 e4 24. g5 Bd4 25. g6 e3 26. Bxe3 Rxe3
+27. Qh8+ Ke7 28. Qh4+ Rf6 29. Qxd4 Rxe1 30. Rxe1+ Kf8 31. Qh4
+1-0

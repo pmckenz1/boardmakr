@@ -1,0 +1,18 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Vladimir Smirnov"]
+[Black "Sasha Soloveychik"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. Nc3 g6 6. Nf3 a6
+7. a4 Bg7 8. Bg5 Ne7 9. Nd2 h6 10. Bh4 g5 11. Bg3 f5 12. e3
+O-O 13. Bd3 Qc7 14. f4 Bxc3 15. bxc3 Nxd5 16. Bc4 Be6 17. Qh5
+Qg7 18. fxg5 hxg5 19. O-O Nd7 20. Bxd6 Rf6 21. Bxd5 Bxd5
+22. Bg3 Re8 23. Qxe8+ 1-0

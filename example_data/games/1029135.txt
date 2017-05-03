@@ -1,0 +1,21 @@
+[Event "Blackburne - Zukertort"]
+[Site "London ENG"]
+[Date "1887.05.26"]
+[EventDate "1887.05.07"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Joseph Henry Blackburne"]
+[Black "Johannes Zukertort"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 exd4
+5.O-O a6 6.Ba4 Be7 7.Re1 {The usual continuation is e5.} O-O
+8.e5 Ne8 9.Nxd4 Nxd4 10.Qxd4 f6 11.Bf4 fxe5 12.Bxe5 Bf6 13.Nd2
+d6 14.Bxf6 Nxf6 15.Nf3 c5 16.Bb3+ Kh8 17.Qh4 b5 18.Be6 Bxe6
+19.Rxe6 Qd7 20.Qh3 {Threatening Rxf6, etc.} Rad8 21.Rd1 Qf7 {A
+good move. If White plays Rxd6, Black exchanges, and then
+plays ...Qxa2 with the superior game.} 22.Ng5 Qg6 23.Ne4 d5
+24.Nxf6 Rxf6 25.Rxf6 Qxf6 1/2-1/2

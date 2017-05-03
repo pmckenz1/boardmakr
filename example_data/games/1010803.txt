@@ -1,0 +1,25 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Aleksandr Bujakevich"]
+[Black "Li"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. e5 Nh6 6. b3 Be7
+7. Bb2 Nf5 8. Bd3 O-O 9. Qe2 Nb4 10. a3 Nxd3+ 11. Qxd3 Bd7
+12. Qe2 Rc8 13. O-O c4 14. b4 d4 15. Ne4 Qb6 16. g4 c3 17. Bc1
+Bb5 18. d3 Nh6 19. Qg2 f5 20. exf6 Bd8 21. fxg7 Rf7 22. Nc5
+Rxg7 23. h3 Nf5 24. Re1 Bc6 25. Rxe6 Nh4 26. Nxh4 Bxg2
+27. Rxb6 axb6 28. Nxg2 bxc5 29. f5 c4 30. Nf4 Bg5 31. dxc4
+Rxc4 32. Ne6 Bxc1 33. Rxc1 Rd7 34. Nc5 Re7 35. Ne6 b5 36. Kf2
+Ra7 37. Ra1 d3 38. cxd3 Rxb4 39. axb4 Rxa1 40. Nd4 c2 41. Nxc2
+Ra2 42. Ke3 Rxc2 43. Kd4 Kf7 44. g5 Rf2 45. f6 Rf5 46. h4 h6
+47. Ke4 hxg5 48. Kxf5 gxh4 49. Kg4 Kxf6 50. Kxh4 Ke5 51. Kg3
+Kd4 52. Kf2 Kxd3 53. Ke1 Kc4 54. Kd2 Kxb4 55. Kc1 Kb3 56. Kb1
+b4 0-1

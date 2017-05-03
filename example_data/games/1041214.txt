@@ -1,0 +1,19 @@
+[Event "Buenos Aires Argenti"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Miroslav Filip"]
+[Black "Erich Eliskases"]
+[ECO "E54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 c5 6.Bd3 d5 7.O-O
+dxc4 8.Bxc4 Qe7 9.a3 Ba5 10.Bd2 Rd8 11.Qe2 cxd4 12.exd4 Nc6
+13.Be3 Bd7 14.Rfd1 Be8 15.Rac1 Rac8 16.Ba2 h6 17.Bb1 Bxc3
+18.bxc3 Na5 19.c4 Ba4 20.Re1 b5 21.cxb5 Qxa3 22.Ne5 Rxc1
+23.Rxc1 Nb3 24.Re1 Nxd4 25.Bxd4 Rxd4 26.Nxf7 Bb3 27.Ne5 Qc5
+1/2-1/2

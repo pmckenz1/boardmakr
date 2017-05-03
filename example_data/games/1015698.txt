@@ -1,0 +1,17 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN"]
+[Date "1974.12.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Laszlo Vadasz"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Nf3 O-O 6.Bd3 Nc6 7.O-O
+Bg4 8.e5 Nd7 9.Be2 dxe5 10.dxe5 Nb6 11.Be3 f6 12.exf6 exf6
+13.Qxd8 Raxd8 14.Rad1 Rxd1 15.Rxd1 Be6 16.Nd4 Nxd4 17.Bxd4 Rd8
+18.Kf2 c6 1/2-1/2

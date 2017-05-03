@@ -1,0 +1,22 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.07"]
+[EventDate "?"]
+[Round "18"]
+[Result "1-0"]
+[White "Eric Lobron"]
+[Black "Utut Adianto"]
+[ECO "B63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2
+h6 8.Bxf6 gxf6 9.O-O-O a6 10.f4 h5 11.Kb1 Bd7 12.Bc4 b5 13.Bb3
+b4 14.Nxc6 Bxc6 15.Nd5 exd5 16.exd5 Bb5 17.Rhe1+ Be7 18.Re3
+Kf8 19.Rde1 Ra7 20.Qxb4 Rg8 21.a4 Be8 22.Qd4 Rb7 23.Qd3 Rg6
+24.Qxa6 Rc7 25.Qe2 Rh6 26.f5 Ra7 27.Re4 Rh8 28.Qe3 Rb7 29.Re2
+Qd7 30.Qf2 Qc8 31.Qe1 Qd8 32.R2e3 Rg8 33.Qe2 Rg5 34.Rh3 Bd7
+35.Rxh5 Bxf5 36.Rh8+ Rg8 37.Qh5 Bxe4 38.Qh6+ Ke8 39.Rxg8+ Kd7
+40.Qh3+ f5 41.Rxd8+ Bxd8 42.Ka2 Bf6 43.c3 Kc7 44.Qh6 Be5 45.g3
+1-0

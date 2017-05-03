@@ -1,0 +1,23 @@
+[Event "Linares 5th"]
+[Site "Linares ESP"]
+[Date "1985.03.18"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Manuel Rivas Pastor"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.g3 Bb4 6.Bd2 Nc6 7.a3
+Bxc3 8.Bxc3 d5 9.Bg2 dxc4 10.Ne5 Nd5 11.Nxc4 O-O 12.O-O Nxc3
+13.bxc3 Na5 14.Bxb7 Nxb7 15.e4 Nd6 16.Qd3 Nxc4 17.Qxc4 c5
+18.d5 exd5 19.exd5 Qf6 20.a4 Rad8 21.Rfe1 Qf3 22.Rad1 Rfe8
+23.Qb5 Re4 24.d6 h5 25.Qf1 h4 26.Rxe4 Qxe4 27.d7 Qxa4 28.Qe2
+h3 29.f3 Kf8 30.Qd3 Qa2 31.Rd2 Qe6 32.Kf2 Kg8 33.Qa6 Qh6
+34.Rd1 Qc6 35.Qxa7 b5 36.g4 b4 37.cxb4 cxb4+ 38.Kg3 Qc2 39.Qb6
+Qg2+ 40.Kh4 Kh7 41.Qxd8 Qf2+ 42.Kh5 Qc5+ 43.g5 g6 44.Kg4 Qf5+
+45.Kg3 Qe5+ 46.Kxh3 Qf5+ 47.Kg3 Qe5+ 48.Kf2 Qxh2+ 49.Kf1 Qh3+
+50.Ke2 Qe6+ 51.Kf2 1-0

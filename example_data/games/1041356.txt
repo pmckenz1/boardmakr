@@ -1,0 +1,24 @@
+[Event "Rubinstein Memorial 15th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1977.08.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Lothar Vogt"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 a6 7.g5
+Nfd7 8.h4 b5 9.a3 Bb7 10.Be3 Nb6 11.h5 N8d7 12.Rh3 Ne5 13.g6
+hxg6 14.hxg6 Rxh3 15.gxf7+ Nxf7 16.Bxh3 Nc4 17.Bxe6 Qh4
+18.Bxc4 bxc4 19.Qe2 Qh1+ 20.Qf1 Qxf1+ 21.Kxf1 Kd7 22.f3 Be7
+23.Na4 Rh8 24.Nb6+ Kc7 25.Ne6+ Kb8 26.Kg2 g5 27.Nd5 Bxd5
+28.exd5 Bf6 29.Bd4 Bxd4 30.Nxd4 Kc7 31.Rh1 Rxh1 32.Kxh1 Kb6
+33.Ne6 c3 34.b3 Ne5 35.Kg2 g4 36.f4 Nd7 37.f5 Nf6 38.Kg3 a5
+39.a4 Nxd5 40.Kxg4 Ne3+ 41.Kg5 Nxc2 42.Nf4 Nb4 43.f6 c2 44.Ne2
+Nc6 45.Kf4 Ne5 46.Ke4 Kc5 47.Nc1 Nd7 48.Nd3+ Kc6 49.f7 Nc5+
+50.Kd4 Kd7 51.Nc1 Ke7 52.Kd5 Nd7 53.Kc6 Ne5+ 54.Kb5 Nxf7
+55.Kxa5 d5 56.Kb4 d4 57.Ka3 1/2-1/2

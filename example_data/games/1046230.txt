@@ -1,0 +1,20 @@
+[Event "Reno 53/451"]
+[Site "Reno 53/451"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gregory Kotlyar"]
+[Black "Lubomir Ftacnik"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rc1 cxd4 10. cxd4 Qxd2+ 11. Kxd2
+O-O 12. Nf3 Rd8 13. Rc7 Nc6 14. d5 e6 15. Bg5 f6 16. Kc1 exd5
+17. exd5 Nb4 18. Bc4 b5 19. Bb3 fxg5 20. d6+ Kh8 21. Nxg5 Nd3+
+22. Kb1 Ne5 23. f4 Nc4 24. Nf7+ Kg8 25. Bxc4 bxc4 26. Nxd8
+Bf5+ 27. Kc1 Rxd8 28. Rxc4 Bf8 29. Rc7 a5 30. Ra7 Bxd6
+31. Rxa5 Rc8+ 32. Kb2 Rb8+ 0-1

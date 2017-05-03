@@ -1,0 +1,18 @@
+[Event "Kusadasi (Turkey)"]
+[Site "Kusadasi TUR"]
+[Date "1990.04.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Igor Naumkin"]
+[Black "Andras Adorjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2
+Nxc3 8.bxc3 c5 9.e4 Nc6 10.Bb2 cxd4 11.cxd4 Rc8 12.Rd1 Bd6
+13.d5 exd5 14.exd5 Qe7+ 15.Be2 Na5 16.Qa4+ Kd8 17.Bxg7 Rg8
+18.Qd4 Rc2 19.Bf6 Rxe2+ 20.Kf1 Ba6 21.Kg1 Bc5 22.Bxe7+ Kxe7
+23.d6 Ke6 24.Qd5+ Kf6 25.Nd4 Rb2 26.Qf5+ Kg7 27.Qg5+ 1-0

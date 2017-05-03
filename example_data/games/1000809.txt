@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.11"]
+[EventDate "1911.08.21"]
+[Round "16"]
+[Result "1-0"]
+[White "Georg Salwe"]
+[Black "Milan Vidmar"]
+[ECO "D40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nc6 4.c4 e6 5.Nc3 Nf6 6.Bd3 Bd6 7.O-O
+O-O 8.Qe2 Qe7 9.Rd1 dxc4 10.Bxc4 e5 11.d5 Na5 12.e4 Nxc4
+13.Qxc4 Bg4 14.Bg5 a6 15.a4 h6 16.Bxf6 Qxf6 17.Qd3 Qg6 18.Re1
+c4 19.Qe3 Qh5 20.Nd2 Rac8 21.h3 Bd7 22.g4 Qg6 23.Qg3 h5 24.f3
+b5 25.axb5 axb5 26.Kg2 Ra8 27.Nf1 hxg4 28.hxg4 Qg5 29.Qf2 Qe7
+30.Ne3 Bc5 31.Qd2 Bd4 32.Nf5 Qf6 33.g5 1-0

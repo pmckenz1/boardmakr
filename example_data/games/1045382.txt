@@ -1,0 +1,20 @@
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Nathan Birnboim"]
+[Black "Lubomir Ftacnik"]
+[ECO "D79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. O-O d5
+7. cxd5 cxd5 8. Ne5 Ng4 9. Nxg4 Bxg4 10. Nc3 Nc6 11. h3 Be6
+12. e3 Qd7 13. Kh2 Rfd8 14. b3 f6 15. Bb2 Rac8 16. Qe2 Bf7
+17. Rfd1 b6 18. Rac1 f5 19. Ba3 Bf6 20. f4 a6 21. Na4 Qb7
+22. Bf1 Nb8 23. Qd2 Nd7 24. Nb2 e6 25. Nd3 Rxc1 26. Rxc1 Rc8
+27. Rc2 Be8 28. Qc1 Rxc2+ 29. Qxc2 Bd8 30. Bd6 Nf6 31. Be5 a5
+32. Bxf6 Bxf6 1/2-1/2

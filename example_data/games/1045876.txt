@@ -1,0 +1,17 @@
+[Event "Szirak"]
+[Site "Szirak HUN"]
+[Date "1986.09.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Laszlo Hazai"]
+[Black "Lubomir Ftacnik"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7
+7. Be2 e6 8. Bf3 Qb6 9. a4 g6 10. Nb3 Bg7 11. Qd3 Qc7 12. Be3
+Nb6 13. Nd2 O-O 14. a5 Nbd7 15. Nc4 Ne8 16. Na4 f5 17. exf5
+1/2-1/2

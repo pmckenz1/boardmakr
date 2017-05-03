@@ -1,0 +1,20 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "1-0"]
+[White "Georgy Dubivka"]
+[Black "Valery Katuzian"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "2283"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 b6 5. Nf3 Bb7 6. e3 O-O
+7. Bd3 d6 8. O-O Bxc3 9. Bxc3 Ne4 10. Be1 f5 11. Qc2 Nd7
+12. Nd2 Nxd2 13. Qxd2 c5 14. Be2 Qe7 15. b4 Rad8 16. a4 Qg5
+17. f3 cxb4 18. Bg3 e5 19. f4 exf4 20. Rxf4 a5 21. Bd3 Rde8
+22. Raf1 g6 23. c5 Qe7 24. Bb5 dxc5 25. d5 Rd8 26. e4 fxe4
+27. Bh4 g5 28. Bxg5 Qg7 29. Bxd8 Rxd8 30. Bxd7 Qxd7 31. Rxe4
+Qxd5 32. Rg4+ Kh8 33. Qb2+ 1-0

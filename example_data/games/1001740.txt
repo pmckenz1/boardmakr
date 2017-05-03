@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.06.10"]
+[EventDate "1882.05.10"]
+[Round "25"]
+[Result "1-0"]
+[White "Preston Ware"]
+[Black "Vincenz Hruby"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. d4 d5 2. f4 e6 3. Nf3 Nf6 4. e3 Be7 5. Bd3 c5 6. c3 Nc6
+7. O-O c4 8. Bc2 b5 9. Ne5 Qc7 10. Bd2 a5 11. Be1 Bd7 12. Bh4
+b4 13. Nd2 Rb8 14. Rb1 Nxe5 15. fxe5 Ng8 16. Qg4 Bf8 17. Qf3
+Bc6 18. e4 Nh6 19. g4 g5 20. Bg3 Be7 21. exd5 Bxd5 22. Be4 Qc6
+23. h3 Rc8 24. Rbe1 O-O 25. Qe3 Kh8 26. Rf2 Rg8 27. Ref1 Rg7
+28. Bxd5 Qxd5 29. Ne4 Rf8 30. Nf6 Bxf6 31. exf6 Rg6 32. Re2
+Rd8 33. Qd2 Qb7 34. Re5 Rd5 35. Qe2 Ng8 36. Rxd5 exd5 37. Qe8
+bxc3 38. bxc3 h6 39. Rf2 Kh7 40. Be5 Kh8 41. Kh2 Kh7 42. Kg3
+Kh8 43. Qe7 Qb1 44. Qxf7 Qg1+ 45. Rg2 1-0

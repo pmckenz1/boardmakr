@@ -1,0 +1,26 @@
+[Event "Gausdal 51/135"]
+[Site "Gausdal 51/135"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Igor Stohl"]
+[Black "Vladimir Bagirov"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Bb5+ Nbd7 6.Nc3 g6
+7.d4 Bg7 8.d6 exd6 9.Qe2+ Qe7 10.Bf4 Qxe2+ 11.Bxe2 Ke7 12.Bf3
+Nb6 13.Nge2 h6 14.h4 Rd8 15.O-O Rb8 16.Rfe1 Be6 17.Rad1 Kf8
+18.Nb5 Nc8 19.Nec3 Ne8 20.d5 Bd7 21.Nd4 Ne7 22.Re2 Nf5 23.Nxf5
+Bxf5 24.g4 Bd7 25.Ne4 Bb5 26.Rc2 Rd7 27.b3 Rbd8 28.a4 Ba6
+29.b4 b6 30.Rc6 Bb7 31.b5 Kg8 32.Kg2 Kh7 33.Rc2 Be5 34.Be3 f5
+35.gxf5 gxf5 36.Nc3 Nf6 37.Ne2 Rg8+ 38.Kf1 Ng4 39.Nf4 Re7
+40.Bxg4 Rxg4 41.Rdc1 Bxf4 42.Rc7 Reg7 43.Rxg7+ Kxg7 44.Rc7+
+Kf6 45.Rxb7 Bxe3 46.fxe3 Rxa4 47.h5 Ra5 48.Rh7 Kg5 49.Rd7 Rxb5
+50.Rxd6 a5 51.Rd8 a4 52.d6 Rd5 53.d7 Kxh5 54.Ra8 Rxd7 55.Rxa4
+b5 56.Rb4 Rb7 57.Kf2 Kg5 58.Kf3 Rb6 59.Kg3 Kf6 60.Kf3 Ke5
+61.Ke2 Rb8 62.Kd3 Kf6 63.Ke2 h5 64.Kf3 h4 65.Kg2 Ke5 66.Kh3
+Kd5 67.Kxh4 Kc5 68.Rb1 Re8 0-1

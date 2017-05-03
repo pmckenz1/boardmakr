@@ -1,0 +1,23 @@
+[Event "Amsterdam IBM II (04)"]
+[Site "Amsterdam IBM II (04)"]
+[Date "1970.07.17"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Joop Piket"]
+[Black "Andras Adorjan"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5 5.Bc4 Qc7 6.Qe2 Nb6 7.Bb3
+d3 8.Qe4 Na6 9.Bf4 Qc6 10.Nd2 Nc5 11.Qf3 Qxf3 12.Ngxf3 f6
+13.O-O d6 14.exd6 e5 15.Be3 Bxd6 16.Rfe1 Nxb3 17.axb3 Bc7
+18.Bxb6 Bxb6 19.Nc4 Bc7 20.Rad1 Bd7 21.Rxd3 O-O-O 22.Nd6+ Bxd6
+23.Rxd6 Bg4 24.Rxd8+ Rxd8 25.Ra1 a6 26.h3 Bh5 27.g4 Bf7 28.b4
+Rd3 29.Nh4 Rxh3 30.Nf5 Be6 31.Ne3 Rh6 32.Kg2 Rg6 33.Kf3 Rg5
+34.Rh1 Rxg4 35.Rxh7 Rg5 36.Rh8+ Kc7 37.Re8 Bd7 38.Rf8 Bc6+
+39.Ke2 Kd6 40.Rf7 Ke6 41.Rc7 Rg1 42.Kd2 g5 43.c4 f5 44.b5 axb5
+45.cxb5 Bf3 46.Nc4 f4 47.Na5 Rd1+ 48.Kc2 Rd7 49.Rc8 g4 50.Nc4
+Bd5 51.Nb6 Be4+ 52.Kc3 Rg7 0-1

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1988.11.23"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Farag Amrou Mohamed"]
+[Black "Gerardo F Barbero"]
+[ECO "B26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 e5 7.Qd2
+Nge7 8.h3 Nd4 9.f4 exf4 10.Bxf4 Be6 11.Nd5 Bxd5 12.exd5 Qd7
+13.g4 Qa4 14.Kf1 Qxc2 15.Qxc2 Nxc2 16.Rc1 Nb4 17.Bxd6 Nxd3
+18.Rd1 Nc8 19.Rxd3 Nxd6 20.b3 Kd7 21.Nf3 Rhe8 22.Nd2 b5 23.Kf2
+c4 24.bxc4 bxc4 25.Ra3 Bd4+ 26.Kg3 Re2 27.Rd1 c3 28.Nb3 c2
+29.Rf1 Bb2 30.Ra4 Re3+ 31.Bf3 Rxb3 32.axb3 c1=Q 33.Rxc1 Bxc1
+34.h4 Be3 35.h5 gxh5 36.gxh5 f5 37.Be2 Rb8 38.Bd1 Rb5 39.Kf3
+Bb6 40.Kf4 Rxd5 41.Bc2 Rd4+ 0-1

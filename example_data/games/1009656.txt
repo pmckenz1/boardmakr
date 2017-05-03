@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Birgit Schuster"]
+[Black "Silke Schubert"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5
+Bb4 7. a3 Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 d4 11. Ne2 O-O
+12. O-O Ng4 13. Bf4 Re8 14. Qd2 Nge5 15. Bb5 Bg4 16. Rfe1 Bxe2
+17. Bxe2 Qf6 18. Rad1 Qg6 19. b4 a6 20. a4 d3 21. cxd3 Nd4
+22. Kf1 h6 23. Qc3 Nec6 24. Be3 Qd6 25. Kg1 Nxe2+ 26. Rxe2
+Qxb4 27. Qa1 Qg4 28. Rc2 Re6 29. h3 Qh5 30. d4 Rg6 31. Kh2 Qd5
+32. f3 Re8 33. Bf2 Qd6+ 34. Kh1 Nb4 35. Rcd2 Nd5 36. Qb2 b6
+37. Bg1 Qd7 38. Qb3 Re3 39. Bxe3 Rg3 40. Bg1 Qe6 41. Qd3 Nf4
+42. Qe4 Qf6 43. Bh2 Nh5 44. Re1 g6 45. Qe5 1-0

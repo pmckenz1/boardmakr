@@ -1,0 +1,21 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "0-1"]
+[White "Vladimir Kolpakchi"]
+[Black "Evgeni Kobylkin"]
+[ECO "E73"]
+[WhiteElo "2285"]
+[BlackElo "2380"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 Na6
+7. f4 c5 8. d5 Qa5 9. Qd2 e6 10. Nf3 exd5 11. cxd5 Bd7 12. O-O
+Rfe8 13. h3 Nc7 14. Bxf6 Bxf6 15. e5 Bg7 16. Kh1 Rad8 17. Rad1
+dxe5 18. fxe5 Bc6 19. Qf4 Nxd5 20. Nxd5 Rxd5 21. Bc4 Rxd1
+22. Rxd1 Qc7 23. Ng5 Re7 24. Rf1 Be8 25. Qh4 h6 26. Nf3 Bc6
+27. Qf4 b5 28. Bd3 c4 29. Be4 Bxe5 30. Qg4 Bxe4 31. Qxe4 Bxb2
+32. Qd5 Qd7 33. Qc5 a5 34. a4 bxa4 35. Qxc4 a3 36. Qc2 Qb5
+37. Nd2 a2 0-1

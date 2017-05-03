@@ -1,0 +1,15 @@
+[Event "Debrecen (Hungary)"]
+[Site "Debrecen (Hungary)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "31"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Lembit Oll"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.cxd5 exd5 6.Bg5 Bf5 7.e3
+Nbd7 8.Bd3 Bxd3 9.Qxd3 Be7 10.O-O O-O 11.Rab1 a5 1/2-1/2

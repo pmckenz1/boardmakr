@@ -1,0 +1,26 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1899.06.16"]
+[EventDate "1899.05.30"]
+[Round "13"]
+[Result "0-1"]
+[White "Wilhelm Steinitz"]
+[Black "Joseph Henry Blackburne"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 {Notes by Blackburne} d5 2.c4 dxc4 3.e4 {Not often
+played, and inferior to the usual Nf3.} e5 4.d5 Nf6 5.Nc3 Bc5
+6.Bxc4 Ng4 7.Nh3 f5 8.Bg5 Qd6 9.exf5 Bxf5 10.O-O Qg6 11.Nb5
+Bd6 12.Bh4 h6 13.Rc1 Nd7 14.Qe2 O-O {Giving up a Pawn and the
+exchange for the attack on the King.} 15.Nxc7 Nb6 {It would
+have been better to play Ndf6.} 16.Nxa8 Rxa8 17.Rfd1 Nd7
+18.Bg3 Ndf6 19.Bd3 e4 {Forcing the attack.} 20.Bb1 Nh5 21.Qb5
+{Underrating Black's attack. He should have played the more
+defensive Rc3.} Nxh2 {This is the move he overlooked. The game
+is now lost.} 22.Bxh2 Bxh3 23.Qf1 Bxh2+ 24.Kxh2 Bg4 25.Rd4 Nf6
+26.d6 Qh5+ 27.Kg1 Be2 28.d7 Ng4 29.d8=Q+ Rxd8 30.Rxd8+ Kf7
+31.Rc7+ Ke6 {Because to save the mate he must sacrifice both
+Rooks, and Black remains with a piece ahead.} 0-1

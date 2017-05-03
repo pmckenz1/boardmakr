@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.17"]
+[EventDate "1905.08.14"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Augustin Neumann"]
+[Black "Francis Joseph Lee"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 Nd7
+7. O-O c5 8. c3 c4 9. Qh3 g6 10. Nd2 h5 11. b3 b5 12. Nf3 Nh6
+13. Bg5 Be7 14. Bxh6 Rxh6 15. Nd2 Kf8 16. Qe3 Kg7 17. f4 Nb6
+18. bxc4 dxc4 19. Qf3 Qd5 20. Qxd5 exd5 21. Rfb1 a6 22. Nf1
+Rhh8 23. Ne3 Rhd8 24. a3 Na4 25. g3 Rab8 26. h4 f5 27. Nc2 Kf7
+28. Kf2 Ke6 29. Ke3 Kf7 30. Kf2 Ke6 1/2-1/2

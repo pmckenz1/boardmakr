@@ -1,0 +1,20 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.22"]
+[EventDate "1911.08.21"]
+[Round "24"]
+[Result "1-0"]
+[White "Abram Isaakovich Rabinovich"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Bc5 7.a4
+Rb8 8.axb5 axb5 9.Nc3 O-O 10.d3 Nd4 11.Nxd4 exd4 12.Nd1 d5
+13.e5 Ng4 14.O-O Re8 15.f4 f6 16.h3 Nh6 17.Qf3 c6 18.exf6 gxf6
+19.Nf2 Kh8 20.Bd2 Nf5 21.Rfe1 Rg8 22.g4 h5 23.g5 Rb7 24.Ra6
+Rc7 25.Ra8 Rcg7 26.Kh1 Qd6 27.Rxc8 Rxc8 28.Qxh5+ Kg8 29.Re8+
+Rxe8 30.Qxe8+ Kh7 31.Ne4 Ng3+ 32.Nxg3 fxg5 33.Qh5+ Kg8 34.Nf5
+1-0

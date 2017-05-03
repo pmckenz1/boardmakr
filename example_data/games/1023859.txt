@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Szombathely (Hungary)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Giorgi Bakhtadze"]
+[ECO "A73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 c5 7.d5 e6
+8.O-O exd5 9.cxd5 Bg4 10.Bf4 h6 11.h3 Bxf3 12.Bxf3 Re8 13.Re1
+Bf8 14.Qd2 Kh7 15.e5 dxe5 16.Bxe5 Nbd7 17.Bg3 Nb6 18.Qf4 Kg7
+19.Rxe8 Nxe8 20.Re1 Nd6 21.Ne4 Nf5 22.Rd1 Nxg3 23.Qxg3 f5
+24.Qe5+ Kf7 25.Qe6+ Kg7 26.Qe5+ Kf7 27.Nc3 Bd6 28.Qe6+ Kg7
+29.Nb5 Nc8 30.Re1 a6 31.Nxd6 Nxd6 32.h4 h5 33.Qe5+ Kf7 34.Qf4
+Ne8 35.Re6 Nf6 36.Qe5 Nd7 37.Qf4 Qb8 38.Qg5 Nf8 39.Qf6+ 1-0

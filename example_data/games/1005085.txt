@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Olli Salmensuu"]
+[Black "Matthias Roeder"]
+[ECO "B90"]
+[WhiteElo "2445"]
+[BlackElo "2445"]
+[PlyCount "120"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nb3 Be6 8. f3 Be7 9. Qd2 O-O 10. O-O-O b5 11. Nd5 Bxd5
+12. exd5 Qc7 13. g4 Nfd7 14. Qa5 Qb7 15. f4 Rc8 16. Kb1 Bd8
+17. Qb4 Qc7 18. Qd2 exf4 19. Bxf4 Bf6 20. Bd3 Nb6 21. g5 Bxb2
+22. Kxb2 Nc4+ 23. Bxc4 bxc4 24. Qa5 Qb7 25. Bxd6 Qd7 26. Bb4
+cxb3 27. axb3 Qf5 28. Bc3 Nd7 29. Rhf1 Qg6 30. Qb4 a5 31. Qd4
+a4 32. Qd3 Qd6 33. Qd4 Qg6 34. Qd3 Qd6 35. b4 Nb6 36. Rf3 Rc4
+37. Rh3 g6 38. Ka1 Rac8 39. Bf6 h5 40. c3 Nd7 41. Bd4 Qxd5
+42. Qf3 Qe6 43. Qe3 Qd5 44. Re1 a3 45. Rh4 Qg2 46. Rb1 Qc2
+47. Rh3 Nb6 48. Qd3 Qxd3 49. Rxd3 Na4 50. Bf6 Nb2 51. Re3 Rg4
+52. Rbe1 Kf8 53. Ka2 Nc4 54. Re4 Rg2+ 55. R1e2 Rg1 56. Re1
+Rg2+ 57. R4e2 Re8 58. Rxg2 Rxe1 59. Kb3 Ne3 60. Rd2 Rb1+ 1-0

@@ -1,0 +1,43 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.18"]
+[EventDate "1936.08.10"]
+[Round "8"]
+[Result "0-1"]
+[White "William Winter"]
+[Black "Efim Bogoljubov"]
+[ECO "E72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. d4 {Notes by Alekhine} Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6
+5. g3 Nc6 {A very well known stratagem, which was specially
+patronised by British masters. At this particular moment,
+however, it seems unnecessary, as Black could immediately play
+e5. The variation 6 dxe5 dxe5 7 Qxd8+ Kxd8 followed by c6,
+etc., was not dangerous for him.} 6. d5 Nb8 7. Bg2 e5 8. Nge2
+Nbd7 9. h3 h6 {White's last move, aiming at Be3, was
+correct. But the fact that Black, already handicapped by a
+lack of space, allows himself to lose time also is sheer
+carelessness, He should plat at once a5.} 10. Be3 a5 11. a3
+O-O 12. O-O Nc5 {Allowing White to increase his positional
+advantage on the Q side. A lesser evil was 12...b6 followed -
+if 13 b4 for instance - by ...Nh5.} 13. b4 axb4 14. axb4 Rxa1
+15. Qxa1 Na6 16. Qa3 Nh5 {This rather harmless attempt is made
+under the conviction that White's advance on the other wing
+cannot be stopped in the long run. If, e.g., 16...b6 the reply
+would be 17 Nb5 threatening Na7-c6.} 17. b5 Nb8 18. g4 Nf6
+19. c5 dxc5 20. Bxc5 Re8 21. Rc1 Nbd7 22. Bb4 {? With this and
+the following poor moves White transforms a far superior
+position into a lost one. After 22 Be3 Black would find no
+compensation for the obvious weakness of his Q side and it
+would be easy for White to increase his pressure. He probably
+overlooked Black's 23rd move completely.} h5 23. f3 {? The
+game after this is lost by force. His best chance was to try
+to create complications with 23 g5 Nh7 24 h4 f6 25 Qb3 giving
+him some fighting chances.} Bh6 24. Rd1 {The sacrifice of the
+exchange - e.g., by 24 Nd1 - would merely prolong the game
+without saving it.} hxg4 25. fxg4 Be3+ 26. Kh2 {If Kf1 Black
+also plays Nxg4 followed by Qh4.} Nxg4+ 27. hxg4 Qh4+ 28. Bh3
+Nf6 {Mate is forced in a few moves.} 0-1

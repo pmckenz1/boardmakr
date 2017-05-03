@@ -1,0 +1,20 @@
+[Event "Scarborough"]
+[Site "Scarborough ENG"]
+[Date "1930.07.02"]
+[EventDate "1930.??.??"]
+[Round "9"]
+[Result "0-1"]
+[White "William Winter"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 Bb4+ 4. Bd2 Qe7 5. Nc3 Bxc3 6. Bxc3
+Ne4 7. Qc2 f5 8. Nd2 Nxc3 9. Qxc3 O-O 10. g3 Nc6 11. Bg2 d6
+12. O-O e5 13. Bxc6 bxc6 14. dxe5 dxe5 15. Nf3 e4 16. Ne5 f4
+17. Nxc6 Qc5 18. Nd4 Rb8 19. Rfd1 e3 20. fxe3 fxg3 21. hxg3
+Qe5 22. e4 Qxe4 23. Rd2 Rb6 24. Nf3 Rg6 25. Kf2 Bb7 26. Rd4
+Qe7 27. c5 Ba6 28. Rd2 Rh6 29. Kg2 Re6 30. Qb3 Kh8 31. Qc2 Re3
+32. Rh1 h6 33. Rh2 Bxe2 34. Nh4 Rxg3+ 0-1

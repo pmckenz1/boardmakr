@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Daniel E Shapiro"]
+[Black "Mark Knecht"]
+[ECO "D30"]
+[WhiteElo "2330"]
+[BlackElo "2112"]
+[PlyCount "71"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Qc2 Nf6 5. e3 Nbd7 6. Nc3 Bd6
+7. b3 O-O 8. Be2 Re8 9. O-O b6 10. cxd5 exd5 11. Bb2 Bb7
+12. Rad1 Rc8 13. Qb1 Rc7 14. Bd3 Qa8 15. Rfe1 Bb4 16. Re2 Bxc3
+17. Bxc3 Ne4 18. Be1 a5 19. Ne5 Ba6 20. f3 Bxd3 21. Qxd3 Nxe5
+22. dxe5 Nc5 23. Qd4 Qa6 24. Rc2 Rce7 25. Qg4 Qc8 26. Qxc8
+Rxc8 27. Bxa5 bxa5 28. Rxc5 Rxe5 29. e4 f5 30. exd5 Rce8
+31. Rxa5 Re2 32. dxc6 Rc2 33. Rxf5 g6 34. Rg5 Rc8 35. Rgd5
+R8xc6 36. R5d2 1-0

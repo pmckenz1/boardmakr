@@ -1,0 +1,23 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Rainer F A Knaak"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Nbd7
+7. O-O e5 8. Qc2 exd4 9. Nxd4 Re8 10. Be3 Nc5 11. f3 a5
+12. Rad1 Bd7 13. Ndb5 Qc8 14. Rfe1 Bc6 15. Bf1 Nfd7 16. h3 Be5
+17. Qf2 Bxb5 18. Nxb5 Qb8 19. Bxc5 Nxc5 20. f4 Bg7 21. e5 Bf8
+22. exd6 Bxd6 23. Nxd6 cxd6 24. f5 Qc7 25. Qd4 Rxe1 26. Rxe1
+Nd7 27. Rd1 Ra6 28. c5 Ra8 29. cxd6 Qc5 30. Qxc5 Nxc5 31. Rd5
+b6 32. Bb5 Rd8 33. d7 gxf5 34. Rd6 Kf8 35. Rxb6 Ke7 36. Rc6
+Nxd7 37. Rc7 Ke6 38. Bxd7+ Rxd7 39. Rxd7 Kxd7 40. Kf2 Kd6
+41. b3 Kc5 42. a3 Kd4 43. Kf3 Kc3 44. b4 axb4 45. axb4 Kxb4
+1-0

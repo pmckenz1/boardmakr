@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Krasoje Notaros"]
+[Black "Yuri Balashov"]
+[ECO "A05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.c4 d5 6.cxd5 Nxd5
+7.Nc3 Nc6 8.Nxd5 Qxd5 9.d3 Qb5 10.Rb1 a5 11.Be3 Rd8 12.Qc1 Be6
+13.b3 Nb4 14.Qxc7 Nxa2 15.Ng5 Bd5 16.Bxd5 Qxd5 17.Bd2 h6
+18.Nf3 Rdc8 19.Qf4 Nc3 20.Bxc3 Rxc3 21.Nd2 b5 22.Qf3 Qxf3
+23.Nxf3 a4 24.bxa4 bxa4 25.d4 a3 26.e3 a2 27.Ra1 e6 28.Rfd1
+Bf8 29.Rd2 Rca3 30.Rb2 R8a4 31.Nd2 f5 32.Rb8 Rb4 0-1

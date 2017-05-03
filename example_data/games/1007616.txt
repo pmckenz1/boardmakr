@@ -1,0 +1,25 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.24"]
+[EventDate "1926.03.07"]
+[Round "13"]
+[Result "0-1"]
+[White "Stefano Rosselli del Turco"]
+[Black "Ernst Gruenfeld"]
+[ECO "C27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Qxe5+ Qe7
+6. Qxe7+ Bxe7 7. Bb3 c6 8. d4 Nf5 9. d5 O-O 10. Nge2 Na6
+11. a3 Nc5 12. Ba2 a5 13. O-O a4 14. Bf4 b5 15. Rad1 Ba6
+16. Rfe1 Rfe8 17. Ng3 Nxg3 18. hxg3 Bf6 19. Bd2 h6 20. Rxe8+
+Rxe8 21. Re1 Rxe1+ 22. Bxe1 Bb7 23. dxc6 dxc6 24. Nd1 Bc8
+25. Bc3 Bxc3 26. Nxc3 Bf5 27. Ne2 Na6 28. Nd4 Bd7 29. Nf3 Kf8
+30. Kf1 c5 31. Ne5 Bf5 32. Bxf7 Bxc2 33. Ke2 Ke7 34. g4 Nc7
+35. Kd2 Be4 36. g3 Kd6 37. f4 Bd5 38. Bg6 Ne6 39. Kc3 Nd4
+40. Bd3 Kc7 41. Bf1 Bc6 42. Bd3 Be8 43. Bf1 Kb6 44. Nd3 Bc6
+45. Ne5 Ka5 46. Bd3 Bd5 47. Ng6 Nc6 48. Nh4 b4+ 49. Kd2 c4
+50. axb4+ Kxb4 51. Bc2 Nd4 52. Nf5 Nxc2 53. Kxc2 Be4+ 54. Kc1
+Bxf5 55. gxf5 h5 56. Kc2 Kb5 57. Kd2 Kc6 0-1

@@ -1,0 +1,19 @@
+[Event "Ch World (juniors)"]
+[Site "Tunja (Colombia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Alexey Shirov"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Kh8 12.Rc1 c5 13.dxc6
+bxc6 14.c5 d5 15.exd5 cxd5 16.Bg5 Bb7 17.Nb5 Bc6 18.Nb4 Nf6
+19.Nd6 Qd7 20.Nxc6 Qxc6 21.Bb5 Qc7 22.Re1 h6 23.Bd2 a6 24.Ba4
+Ne4 25.Bb4 Nc6 26.Ba3 Nd4 27.Bb3 Qc6 28.Ba4 Qc7 29.f3 Ng5
+30.Bb3 Qc6 31.Ba4 Qc7 32.Bb3 Qc6 1/2-1/2

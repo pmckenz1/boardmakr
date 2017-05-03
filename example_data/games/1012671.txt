@@ -1,0 +1,22 @@
+[Event "Le Pont,Switzerland"]
+[Site "Le Pont SUI"]
+[Date "1930.07.31"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Johner / Michel / Naegeli"]
+[Black "Alekhine / Bernstein"]
+[ECO "C75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7
+7. O-O Ng6 8. Re1 Be7 9. Nbd2 O-O 10. Nf1 Nh4 11. d5 Nb8
+12. Bxd7 Nxd7 13. Ng3 Kh8 14. Qe2 Nxf3+ 15. Qxf3 Bh4 16. Nf5
+g6 17. Nh6 Qf6 18. Qe3 Qe7 19. Qh3 Rad8 20. Re3 Bg5 21. Rf3
+Bxc1 22. Rxc1 Qg5 23. Rd1 Nf6 24. Re1 Rde8 25. Kf1 a5 26. Ree3
+a4 27. c4 Rb8 28. Rc3 Qd2 29. Rce3 Qc1+ 30. Re1 Qg5 31. Ree3
+b5 32. cxb5 Rxb5 33. b3 axb3 34. axb3 Ra5 35. g3 Ra1+ 36. Kg2
+Rc1 37. Rd3 Kg7 38. Rde3 Nh5 39. Ng4 Ra8 40. Rc3 Raa1 41. Rfe3
+f5 0-1

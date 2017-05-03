@@ -1,0 +1,26 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Kenneth S Beaton"]
+[Black "Alan J Norris"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c5 4. dxc5 Bxc3+ 5. bxc3 Qa5 6. Bd3
+Qxc3+ 7. Bd2 Qxc5 8. Nf3 d6 9. Rb1 Nf6 10. Rb5 Qc7 11. Bh6
+Nbd7 12. O-O b6 13. Qe2 Ba6 14. e5 dxe5 15. Nxe5 Nxe5 16. Rxe5
+Bxd3 17. cxd3 Qd6 18. Re1 O-O-O 19. d4 Nd5 20. Qa6+ Kb8 21. a4
+e6 22. a5 Rd7 23. axb6 Qxb6 24. Qa4 Rb7 25. Rxd5 exd5 26. Re8+
+Qd8 27. Bf4+ Ka8 28. Rxd8+ Rxd8 29. h4 Rc8 30. Kh2 h5 31. Bd6
+Rd8 32. Bc5 Rdd7 33. Qa6 Kb8 34. Qf6 Kc7 35. Qe5+ Kc6 36. Qe2
+Rb5 37. Qd2 a5 38. Qd1 Rd8 39. Qa1 Ra8 40. Qa4 Ra6 41. Kg3 f6
+42. f3 Ra8 43. Kf4 Re8 44. Qc2 f5 45. Kg5 Re6 46. Qa2 Rxc5
+47. dxc5 Kxc5 48. Qxa5+ Kc4 49. Qa2+ Kc5 50. Qc2+ Kb4 51. Qd3
+Kc5 52. Qc3+ Kd6 53. Qd4 Kc6 54. Kh6 Rd6 55. Kg7 Kd7 56. Kf7
+Kd8 57. Qc5 Kd7 58. Qa7+ Kd8 59. Qb8+ Kd7 60. Qb7+ Kd8
+61. Qe7+ 1-0

@@ -1,0 +1,28 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "5"]
+[Result "1-0"]
+[White "Yevgen Kuzmenko"]
+[Black "Dmitry Sidorchuk"]
+[ECO "D03"]
+[WhiteElo "2252"]
+[BlackElo "?"]
+[PlyCount "149"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bf4 e6 5. e3 Be7 6. Bd3 O-O
+7. Nbd2 f5 8. h3 c6 9. O-O Nd7 10. Ne5 Ndf6 11. f3 Nxd2
+12. Qxd2 Bd6 13. g4 Qe7 14. Qh2 Qc7 15. Kh1 Nd7 16. Rg1 Nxe5
+17. dxe5 Bc5 18. gxf5 exf5 19. e6 Qe7 20. Bh6 g6 21. Bxf8 Kxf8
+22. Qe5 Qxe6 23. Qh8+ Qg8 24. Qxg8+ Kxg8 25. Rge1 Bd7 26. Kg2
+Rf8 27. f4 Re8 28. Kf3 Be6 29. c3 Bf7 30. a4 a6 31. b4 Bb6
+32. Rac1 Kf8 33. c4 dxc4 34. Bxc4 Re4 35. Bxf7 Kxf7 36. Rb1
+Ke6 37. Rb3 Kd5 38. Rc1 Ke6 39. Rc2 Ke7 40. Rd2 Ke6 41. Rbd3
+Rxb4 42. Rd6+ Ke7 43. Rd7+ Ke8 44. Rxb7 Bxe3 45. Rxb4 Bxd2
+46. Rd4 Be1 47. Rd6 Kf7 48. Rxc6 a5 49. Rc7+ Kg8 50. Ke3 Bb4
+51. Rb7 Be1 52. Rb1 Bg3 53. Rb5 Be1 54. Kd4 Bd2 55. Ke5 Kg7
+56. Rb7+ Kh6 57. Ra7 Be1 58. Ke6 Bc3 59. Kd5 Bd2 60. Kc4 Bb4
+61. Kb5 Bd2 62. h4 Kh5 63. Rxh7+ Kg4 64. Rh6 Bxf4 65. Rxg6+
+Kxh4 66. Kxa5 Be5 67. Kb5 f4 68. Kc4 f3 69. Kd3 f2 70. Ke2 Bd4
+71. Kf1 Kh3 72. a5 Kh4 73. a6 Kh3 74. Rd6 Bc5 75. Rd7 1-0

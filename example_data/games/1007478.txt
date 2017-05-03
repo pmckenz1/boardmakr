@@ -1,0 +1,21 @@
+[Event "Dresden"]
+[Site "Dresden GER"]
+[Date "1926.04.07"]
+[EventDate "1926.04.04"]
+[Round "4"]
+[Result "0-1"]
+[White "Frederick Dewhirst Yates"]
+[Black "Walther von Holzhausen"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O
+7. h3 c6 8. Bb3 Qc7 9. Bg5 Re8 10. Re1 Nf8 11. Qd3 Nh5 12. Ne2
+Bxg5 13. Nxg5 Re7 14. g4 Nf6 15. f4 h6 16. Nf3 exf4 17. e5
+dxe5 18. dxe5 N6d7 19. Nxf4 Nxe5 20. Rxe5 Rxe5 21. Qc3 Qb6+
+22. Kg2 Re3 23. Qd2 Be6 24. Nd4 Re4 25. Ndxe6 Nxe6 26. Nxe6
+fxe6 27. Rd1 Rf8 28. c3 Qe3 29. Qxe3 Rxe3 30. Rd2 g5 31. Rd6
+Rf6 32. Bc4 Kg7 33. a4 Re5 34. a5 Rxa5 35. Rd7+ Rf7 36. Rd6
+Re5 37. Bxe6 Re2+ 38. Kg1 Re7 39. Bf5 Rxb2 40. Kf1 Re3 0-1

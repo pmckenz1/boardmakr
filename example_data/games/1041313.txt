@@ -1,0 +1,21 @@
+[Event "Manila"]
+[Site "Manila PHI"]
+[Date "1976.07.18"]
+[EventDate "1976.07.13"]
+[Round "4"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Ljubomir Ljubojevic"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6
+7.Bg5 a6 8.Bxf6 gxf6 9.Na3 b5 10.Nd5 f5 11.exf5 Bxf5 12.c3 Bg7
+13.Nc2 O-O 14.Nce3 Be6 15.g4 Qh4 16.Bg2 Ra7 17.Be4 f5 18.Bxf5
+Bxf5 19.gxf5 Qe4 20.Rg1 Rxf5 21.Qg4 Qxg4 22.Rxg4 Rf8 23.a4
+Raf7 24.axb5 axb5 25.Ra6 Nb8 26.Rxd6 Rxf2 27.Nc7 R2f3 28.Ke2
+Rf2+ 29.Kd3 R8f4 30.Rd8+ Kf7 31.Rxg7+ Kxg7 32.Rxb8 Kg6 33.Rxb5
+Rxh2 34.b4 e4 35.Kd4 h5 36.Rb6+ Kf7 37.Ncd5 Rff2 38.Ke5 Rh3
+39.Rb7+ Kg8 40.Nf5 Rhf3 41.Nf6+ Kf8 42.Ke6 Rxf5 43.Rf7# 1-0

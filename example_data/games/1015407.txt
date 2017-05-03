@@ -1,0 +1,26 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Karoly Honfi"]
+[Black "Andras Adorjan"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.g3 O-O 5.Bg2 c5 6.d5 d6 7.O-O Na6
+8.Nc3 Nc7 9.a4 Rb8 10.h3 b6 11.e4 a6 12.e5 Nd7 13.exd6 exd6
+14.Bf4 Nf6 15.Qb3 h6 16.g4 h5 17.g5 Nfe8 18.Rfe1 Qd7 19.Re4 b5
+20.Rae1 Rb7 21.Re7 Qf5 22.Bc1 bxc4 23.Qxc4 Rb4 24.Qe2 a5
+25.Qd1 Ba6 26.Ne4 Qxd5 27.Nf6+ Bxf6 28.gxf6 Qxd1 29.Rxd1 Ne6
+30.Bh6 Be2 31.Re1 Bxf3 32.Bxf3 Nxf6 33.Bxf8 Kxf8 34.Ra7 Rxa4
+35.Bc6 Rb4 36.Bd7 Nd4 37.Kg2 Rxb2 38.Bc8 Re2 39.Rxe2 Nxe2
+40.Rxa5 Nf4+ 41.Kf3 Nd3 42.Ra6 Ne5+ 43.Ke2 Ke7 44.f4 Ned7
+45.Ra7 Kd8 46.Ba6 Nd5 47.Kf3 Nc7 48.Bc4 d5 49.Ba2 c4 50.Ra5
+Nb8 51.f5 g5 52.Ke3 Nc6 53.Ra4 Kd7 54.Bb1 Kd6 55.h4 gxh4
+56.Kf4 Nb5 57.Bc2 Nbd4 58.Bd1 c3 59.Ra2 c2 60.Bxc2 Nb4 61.Ra7
+Ndxc2 62.Rxf7 Nd3+ 63.Kg5 h3 64.Rh7 h2 65.Rxh5 Nd4 66.f6 Ke6
+67.Kh6 Nf3 68.Kg7 Nde5 69.Rh6 Nf7 0-1

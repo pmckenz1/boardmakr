@@ -1,0 +1,15 @@
+[Event "5, Oakham House"]
+[Site "5, Oakham House"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ray Stone"]
+[Black "Lawrence Day"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Bf5 4.g3 e5 5.Nf3 Nbd7 6.Bg2 c6 7.Nh4
+Bg6 8.O-O Be7 9.b3 Ng4 10.Nxg6 hxg6 11.h3 Ngf6 1/2-1/2

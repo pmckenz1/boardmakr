@@ -1,0 +1,27 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.12.04"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "James Tarjan"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1.d4 d5 2.Nf3 e6 3.Bg5 Be7 4.Bxe7 Qxe7 5.Nbd2 Nf6 6.e3 Nbd7
+7.Be2 e5 8.dxe5 Nxe5 9.O-O O-O 10.Nxe5 Qxe5 11.c3 Rd8 12.Qa4
+a5 13.Rfd1 Qe7 14.Bf3 h6 15.Nb3 Bd7 16.Qf4 c5 17.Nc1 Rac8
+18.h4 Rc6 19.Ne2 Rb6 20.Rd2 Be6 21.Rad1 Qd6 22.b3 Kf8 23.e4
+Qxf4 24.Nxf4 g5 25.hxg5 hxg5 26.Nxd5 Bxd5 27.exd5 g4 28.Be2
+Ke7 29.Rd3 Kd6 30.Rg3 Rg8 31.f3 a4 32.Bc4 Ke5 33.fxg4 axb3
+34.axb3 Ne4 35.Rf3 Rxg4 36.Rxf7 Nxc3 37.Re7+ Kf6 38.Rde1 Rd4
+39.Rd7 Rd1 40.Rxd1 Nxd1 41.Rh7 Ke5 42.Re7+ Kf6 43.Rc7 Ke5
+44.Rxc5 Nc3 45.Rc7 Kd6 46.Rf7 Rb4 47.Rf6+ Ke7 48.Rh6 Kd7
+49.Rh7+ Kd6 50.Rh6+ Kd7 51.d6 Rb6 52.Be6+ Kxd6 53.Bc4 Kc5
+54.Rxb6 Kxb6 55.Kf2 Kc5 56.Ke3 b6 57.Bf7 Kd6 58.b4 Ke5 59.Kd3
+Ne4 60.Be8 Nf6 61.Bc6 Kd6 62.Bb7 Ke5 63.Kc3 Ne8 64.g4 Nc7
+65.g5 Kf5 66.Kd4 Ne6+ 67.Kd5 Nf4+ 68.Kd6 Kxg5 69.Be4 Kf6
+1/2-1/2

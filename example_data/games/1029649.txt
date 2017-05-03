@@ -1,0 +1,21 @@
+[Event "It op"]
+[Site "It op"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Heribert Franke"]
+[Black "Pavel Blatny"]
+[ECO "A55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.Nf3 d6 3.c4 Nbd7 4.Nc3 e5 5.e4 Be7 6.Be2 O-O 7.O-O
+c6 8.h3 Re8 9.Be3 Bf8 10.d5 c5 11.Ne1 g6 12.Nd3 Bg7 13.a3 Nb6
+14.b3 h6 15.Qc2 g5 16.Qd2 Nh7 17.Bg4 f5 18.Bxf5 Bxf5 19.exf5
+e4 20.Nc1 Qf6 21.N1e2 Qxf5 22.Ng3 Qg6 23.Rae1 Bxc3 24.Qxc3 h5
+25.f3 exf3 26.Rxf3 Re5 27.Ref1 Rae8 28.Bc1 Nd7 29.Bb2 g4
+30.hxg4 hxg4 31.Rf4 Nhf6 32.Nf5 Re2 33.Nxd6 R8e5 34.Nf5 Qh7
+35.d6 b5 36.Ne7+ Kh8 37.Rxf6 Nxf6 38.Qxe5 Rxe5 39.Bxe5 Qd3
+40.Bxf6+ Kh7 41.Nd5 1-0

@@ -1,0 +1,34 @@
+[Event "USA-06.Congress New York (38-2)"]
+[Site "New York, NY USA"]
+[Date "1889.05.20"]
+[EventDate "?"]
+[Round "38.1"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6
+5.d4 exd4 6.Nxd4 Bd7 7.Nc3 Be7 8.Be3 O-O 9.Be2 Re8 10.Bf3 {f4
+followed by this move was stronger and more natural. It would
+have formed a strong center and made ready for an advance on
+the King's side.} Bf8 11.Bg5 h6 12.Bc1 {Here the Bishop
+obstructs the action of the Rook and serves no good purpose.}
+g5 13.g3 Nxd4 14.Qxd4 Bg7 15.Qd1 Bc6 16.Re1 Qd7 17.Bg2 Re7
+18.Qd3 {He might as well played this instead of move 15, and
+thus saved time.} Rae8 19.Bd2 Ng4 20.f3 {A weak move. Closing
+in the Bishop and driving the Knight to a better square.} Ne5
+21.Qf1 d5 22.Rad1 {Mr Steinitz remarked of this: "Very
+feasible but for the deep and ingenious countermine which the
+oponent springs upon him. He had, however, also a bad game
+after 22.exd5 Bxd5 23.Nxd5 Qxd5 24.Bc3 Nc6, etc.} dxe4 {The
+same commentator remarks: "Very fine play, and leading to a
+still more beautiful surprise".} 23.Bxg5 exf3 24.Bh1 {Rxd7
+would be ruinous.} Nd3 {And again: "A splendid master coup of
+the highest ingenuity".} 25.Rxe7 Bd4+ 26.Be3 Rxe7 27.Qxd3 Rxe3
+28.Qxd4 Re1+ 29.Kf2 Qxd4+ 30.Rxd4 Rxh1 31.Rh4 Rc1 32.Ne4 Rxc2+
+33.Kxf3 f5 {Black gets a strong Pawn that wins in a few
+moves.} 0-1

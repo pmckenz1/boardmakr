@@ -1,0 +1,29 @@
+[Event "USA-06.Congress New York (23-2)"]
+[Site "New York, NY USA"]
+[Date "1889.04.25"]
+[EventDate "?"]
+[Round "23.1"]
+[Result "1-0"]
+[White "Constant Ferdinand Burille"]
+[Black "David Graham Baird"]
+[ECO "C70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3
+Bb7 6.O-O Be7 7.d4 d6 8.c3 Nf6 9.Qe2 O-O 10.Rd1 {!} Qc8
+11.Nbd2 {?} Qg4 12.h3 Qh5 {?} 13.Nf1 Qg6 14.Ng3 h6 15.Nh4 Qh7
+16.Nhf5 Rae8 17.d5 Nb8 18.a4 {!} bxa4 19.Bxa4 Nbd7 20.Bxd7
+Nxd7 21.Nxh6+ Kh8 {Evidently if gxh6, White recovers the piece
+by Qg4+,with a splendid game.} 22.Nhf5 Bf6 23.Ne3 Bg5 24.Nc2
+{? Much better was Qc4.} Bf4 25.Nh5 Bxc1 26.Raxc1 f5 27.exf5
+Rxf5 28.Ng3 Rf4 29.Nb4 Ref8 {Black has gained ground and could
+have much inproved his postition here by e4.} 30.f3 Qg6 31.Kh2
+Nf6 32.Nd3 Rh4 33.c4 Bc8 34.Nf2 Qh7 35.Kg1 Qg6 36.Ng4 {!} Nxg4
+37.hxg4 {!} Rf4 38.Qc2 Qh6 39.Re1 Bxg4 {A desperate
+sacrafice.} 40.fxg4 Rfxg4 41.Qc3 Rxc4 42.Qxc4 {!} Rxc4 43.Rxc4
+Qd2 44.Rh4+ Kg8 45.Rf1 Qxd5 46.Nf5 Qc5+ 47.Kh2 d5 48.Rg4 Kf7
+49.Nd6+ {! Very beautiful.} Kg8 {If 49...Ke6 50. Rg6+ Ke7
+51.Rxg7+ Ke6! 52.Rg6+ Ke7 53.Rf7+,and mates next move.} 50.Ne8
+{White threatens Rxg7+,followed by Rf6 or f7 accordingly.} 1-0

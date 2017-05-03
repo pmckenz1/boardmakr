@@ -1,0 +1,23 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Abdraimanov"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Bc2 O-O 11. Qe2 Bc5
+12. Nbd2 Nxd2 13. Bxd2 g6 14. Bg5 Be7 15. Bxe7 Nxe7 16. Qe3
+Kg7 17. a4 Nf5 18. Bxf5 Bxf5 19. axb5 axb5 20. Qc5 Rxa1
+21. Rxa1 Be4 22. Nd4 Qg5 23. f3 Bd3 24. e6 Ra8 25. Rd1 Qe3+
+26. Kh1 Qd2 27. Nf5+ Bxf5 28. Rxd2 Ra1+ 29. Qg1 Rxg1+ 30. Kxg1
+Bxe6 31. b4 Kf6 32. Kf2 h5 33. Ke3 Ke5 34. Ra2 d4+ 35. cxd4+
+Kd5 36. Rc2 c6 37. h4 Kd6 38. Rc5 Bd5 39. g4 Ke6 40. Rc1 Bc4
+41. gxh5 gxh5 42. Rg1 f6 43. Rg7 Kf5 44. Rh7 Kg6 45. Rc7 Bd5
+46. Kf4 Kh6 47. Rd7 1-0

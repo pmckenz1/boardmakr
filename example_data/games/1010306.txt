@@ -1,0 +1,19 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Devaki V Prasad"]
+[Black "Neelotpal Das"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 c5 6. Nb5 Bxd2+
+7. Qxd2 O-O 8. dxc5 Nd7 9. Qc3 Nc6 10. Nf3 b6 11. cxb6 Qxb6
+12. a4 a5 13. Bd3 h6 14. O-O Ba6 15. Rfe1 Rab8 16. Qd2 Nc5
+17. Bf1 f6 18. exf6 Rxf6 19. b3 Nb4 20. Nbd4 Bxf1 21. Rxf1 Rc8
+22. Qe3 Ne4 23. c4 Nd6 24. Ne5 Qa7 25. Rac1 Na2 26. Rcd1 dxc4
+27. Ng4 Rg6 28. Ne5 Rf6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "It (cat.14)"]
+[Site "Alushta (Ukraine)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Vladimir P Malaniuk"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 f5 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 d6 7.Nc3
+Qe8 8.d5 Na6 9.Rb1 Nc5 10.Nd4 e5 11.dxe6 Nxe6 12.Nxe6 Qxe6
+13.Qd3 Re8 14.Nd5 Qf7 15.Nxf6+ Bxf6 16.b3 Rb8 17.Be3 1/2-1/2

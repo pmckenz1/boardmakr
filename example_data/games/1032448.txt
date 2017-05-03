@@ -1,0 +1,19 @@
+[Event "Training"]
+[Site "Training"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Mikhail Botvinnik"]
+[Black "Yuri Averbakh"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.d5
+Na5 8.Nd2 c5 9.O-O a6 10.Qc2 Rb8 11.b3 b5 12.Bb2 e5 13.dxe6
+fxe6 14.cxb5 axb5 15.Nce4 Nxe4 16.Bxg7 Nxd2 17.Bxf8 Nxf1
+18.Bh6+ Nxh2 19.Kxh2 Bb7 20.Qc3 Qc7 21.Bh3 Re8 22.b4 Qf7 23.f3
+Nc6 24.bxc5 b4 25.Qb2 dxc5 26.Rc1 e5 27.Rxc5 Nd4 28.Be3 Ba6
+29.Bxd4 exd4 30.Rc2 d3 31.exd3 Bxd3 32.Rd2 Bf5 1/2-1/2

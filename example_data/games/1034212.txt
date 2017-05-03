@@ -1,0 +1,16 @@
+[Event "Miskolc"]
+[Site "Miskolc HUN"]
+[Date "1963.07.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Gyozo Victor Forintos"]
+[Black "David Bronstein"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 d6 3. g3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nf3
+Nbd7 7. Bg2 Bb4+ 8. Bd2 Bxd2+ 9. Nfxd2 a5 10. Nc3 c6 11. Na4
+Nf8 12. Nb6 Ra6 13. Nxc8 Kxc8 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Reynaldo Vera"]
+[Black "John Fedorowicz"]
+[ECO "E38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+
+7.Qxc3 Nxc5 8.b4 Nce4 9.Qd4 d5 10.cxd5 exd5 11.Nf3 O-O 12.Bb2
+a5 13.e3 axb4 14.axb4 Rxa1+ 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Bogdan Lalic"]
+[Black "John Emms"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5
+7. a4 Bb7 8. d3 O-O 9. Nc3 b4 10. Nd5 h6 11. a5 d6 12. c3 bxc3
+13. bxc3 Rb8 14. Bd2 Ba7 15. Qe2 Nxd5 16. Bxd5 Nxa5 17. Bxb7
+Nxb7 18. Rxa6 Bb6 19. Be3 1/2-1/2

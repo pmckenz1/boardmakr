@@ -1,0 +1,27 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Roman Popov"]
+[Black "Iokhan Doukhine"]
+[ECO "D15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. e3 b5 6. cxd5 cxd5
+7. Bd3 Bb7 8. O-O e6 9. Bd2 Bd6 10. Qe2 O-O 11. Ne5 Nbd7
+12. Nxd7 Qxd7 13. a4 b4 14. Na2 Qe7 15. Nc1 Ne4 16. Be1 f5
+17. f3 Nf6 18. Nb3 a5 19. Rc1 Nd7 20. Bg3 e5 21. Bb5 Rfd8
+22. Rc2 Ra7 23. Rfc1 Nb6 24. Nc5 Ba8 25. b3 Qf6 26. Qd2 Re7
+27. Re1 Rc8 28. Bxe5 Bxe5 29. dxe5 Qxe5 30. Rcc1 Rec7 31. Qd4
+Qd6 32. Nd3 Rc3 33. Rb1 Qc7 34. Rec1 Qd8 35. Rd1 Bb7 36. Nf4
+Qd6 37. Ne2 Rc2 38. Rbc1 Rxc1 39. Rxc1 Rxc1+ 40. Nxc1 Qc7
+41. Nd3 Bc8 42. Nf4 Qd6 43. Nh5 Qc7 44. Nxg7 Qxg7 45. Qxb6 Qc3
+46. Kf2 f4 47. Qd8+ Kg7 48. Qg5+ Kf8 49. Qxf4+ Ke7 50. Qd4
+Qc2+ 51. Be2 Qxb3 52. Qc5+ Kd8 53. Qxa5+ Ke7 54. Qc5+ Kd8
+55. Qd6+ Bd7 56. Bb5 Qc2+ 57. Kg3 Qg6+ 58. Qxg6 hxg6 59. Bd3
+Bxa4 60. Kf4 Bd1 61. Ke5 b3 62. Kxd5 Bc2 63. Kd4 Bd1 64. Kc3
+g5 65. Kd2 1-0

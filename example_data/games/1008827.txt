@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Clive L Waters"]
+[Black "Oliver Jackson"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. Nf3 d6 2. d4 Bg4 3. e4 Nd7 4. Be2 e5 5. d5 Ngf6 6. Nfd2
+Bxe2 7. Qxe2 g6 8. O-O Bg7 9. c4 O-O 10. Nc3 Nh5 11. g3 Qe8
+12. Nf3 h6 13. Nb5 Qc8 14. Nh4 a6 15. Nc3 Nhf6 16. b4 a5
+17. Ba3 b6 18. bxa5 Rxa5 19. Bb4 Ra8 20. a4 Nc5 21. Bxc5 dxc5
+22. f3 Ne8 23. a5 Rxa5 24. Rxa5 bxa5 25. Qe3 Nd6 26. Qxc5 Qa6
+27. Nb5 Nxb5 28. cxb5 Qb6 29. Rc1 a4 30. Qxb6 cxb6 31. Ng2 Ra8
+32. d6 Rd8 33. Rc4 Rxd6 34. Rxa4 Rd1+ 35. Kf2 Rd2+ 36. Kf1 Bf8
+37. Ne3 Rxh2 38. Ng4 Rb2 39. Ra8 Kg7 40. Nxe5 Rxb5 41. Nd7 Bc5
+42. e5 Rb3 43. Kg2 Rd3 44. Nf6 Bf8 45. Ne8+ Kh7 46. Nf6+ Kg7
+1/2-1/2

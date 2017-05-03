@@ -1,0 +1,16 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.04"]
+[EventDate "2000.??.??"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "William B Wright"]
+[Black "Juan M Santa Torres"]
+[ECO "D43"]
+[WhiteElo "2209"]
+[BlackElo "2360"]
+[PlyCount "24"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5 exd5 6. Bg5 Be7
+7. Qc2 Nbd7 8. e3 O-O 9. Bd3 Re8 10. O-O Nf8 11. Bxf6 Bxf6
+12. b4 Bg4 1/2-1/2

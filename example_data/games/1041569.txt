@@ -1,0 +1,24 @@
+[Event "USSR vs. Rest of the World"]
+[Site "London ENG"]
+[Date "1984.06.29"]
+[EventDate "1984.06.24"]
+[Round "4"]
+[Result "0-1"]
+[White "Andrei Sokolov"]
+[Black "Eugenio Torre"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.e4 Nc6 2.Nf3 d6 3.d4 Nf6 4.Nc3 Bg4 5.d5 Nb8 6.Be2 g6 7.Nd4
+Bxe2 8.Qxe2 c6 9.Bg5 Bg7 10.O-O-O O-O 11.f4 Qb6 12.Rhe1 Rc8
+13.Nf3 Na6 14.e5 dxe5 15.d6 exf4 16.d7 Rf8 17.Qxe7 Nd5 18.Qa3
+Nab4 19.Nxd5 Nxd5 20.d8=Q Rfxd8 21.Bxd8 Rxd8 22.Qb3 Qc7 23.Rd3
+b5 24.c4 bxc4 25.Qxc4 h6 26.h4 Qb6 27.Re2 a5 28.Ne5 Qg1+
+29.Kd2 Rb8 30.Rb3 Rxb3 31.axb3 Bxe5 32.Rxe5 Qxg2+ 33.Re2 Qg3
+34.Qxc6 Qxb3 35.Qe8+ Kg7 36.Qe5+ Kh7 37.Ke1 Qg3+ 38.Kd2 Qb3
+39.Ke1 Qb4+ 40.Rd2 Ne3 41.Qe8 Kg7 42.Qe5+ Kh7 43.Qe8 Qc4
+44.Rd8 Qc1+ 45.Ke2 Qf1+ 46.Kd2 Qd1+ 47.Kc3 Qc2+ 48.Kd4 Qc4+
+49.Ke5 Ng4+ 50.Kd6 Qd4+ 51.Ke7 Qe5+ 52.Kf8 Qg7+ 53.Ke7 Qe5+
+54.Kf8 Qh8+ 55.Ke7 Qxe8+ 56.Kxe8 f3 57.Rd4 g5 0-1

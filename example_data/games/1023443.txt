@@ -1,0 +1,25 @@
+[Event "Tashkent URS sf"]
+[Site "Tashkent URS sf"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Igor V Glek"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.Qc2 Bg7 7.e4 O-O
+8.Nc3 Bb7 9.a4 e6 10.d6 axb5 11.Bxb5 Nc6 12.Bxc6 Bxc6 13.O-O
+Qb8 14.Be3 Qb4 15.Ne5 Bxe4 16.Nxe4 Nxe4 17.Nxd7 Rfd8 18.Nxc5
+Nxd6 19.Nd3 Qe4 20.Rfd1 Nc4 21.Qe2 Nxe3 22.Qxe3 Rxa4 23.Qxe4
+Rxe4 24.Kf1 Red4 25.Ke2 Rb8 26.Rac1 Bf6 27.Rc2 Rb3 28.f3 Kg7
+29.h3 h5 30.g4 hxg4 31.hxg4 Rd8 32.Nf2 Rdb8 33.Ne4 Rh8 34.Rdd2
+Rh2+ 35.Kd1 Rh1+ 36.Ke2 Bh4 37.Rc3 Rb5 38.Rdc2 Rd5 39.Ke3 Bd8
+40.Rc6 Rb5 41.Kd3 Rh3 42.Kc4 Rb8 43.Rf2 Bh4 44.Rf1 Rxb2 45.Ra6
+Rc2+ 46.Kd3 Rg2 47.Kc4 Bg3 48.Ng5 Rhh2 49.Ra7 Rc2+ 50.Kd3 Bc7
+51.Rb1 Rhd2+ 52.Ke3 Rd7 53.Rab7 Rc3+ 54.Ke2 Rc5 55.R1b5 Rc2+
+56.Ke3 Kh6 57.f4 Rc4 58.Ne4 Rdd4 59.Rxc7 Rxe4+ 60.Kd3 Red4+
+61.Ke3 Rxf4 0-1

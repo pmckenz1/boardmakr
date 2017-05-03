@@ -1,0 +1,19 @@
+[Event "Altensteig"]
+[Site "Altensteig"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Werner"]
+[Black "Frantisek Blatny"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.a4 Rb8 11.axb5 axb5 12.d4 Qc7 13.dxe5
+dxe5 14.Nbd2 Nc6 15.Nf1 O-O 16.Ne3 Be6 17.Ng5 Rfd8 18.Qf3 Rd6
+19.Nf5 Bxf5 20.exf5 h6 21.Ne4 Nxe4 22.Bxe4 Na5 23.Bc2 Rf6
+24.Rxe5 Bd6 25.Rd5 Bxh2+ 26.Kh1 Bd6 27.Rxd6 Rxd6 28.Bf4 Nc4
+29.b3 Nb6 30.Qg3 Rbd8 31.f6 g5 32.Re1 Kf8 33.Qh3 1-0

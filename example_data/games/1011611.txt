@@ -1,0 +1,24 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Mirko Rezek"]
+[Black "Zvonimir Grdinic"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7
+7. e5 Ne4 8. Nxd4 O-O 9. Nf5 d5 10. exd6 Bxf5 11. dxe7 Nxe7
+12. Qf3 Nc5 13. Rd1 Qc8 14. Qa3 Nxa4 15. Qxa4 Rd8 16. Re1 Qe6
+17. Be3 Qg6 18. Qh4 Nd5 19. Na3 Bxc2 20. Nxc2 Qxc2 21. Bd4 Qg6
+22. Re4 f6 23. Rg4 Qf7 24. b3 Rd7 25. Bb2 Rad8 26. Rd4 Rd6
+27. Re1 Ne7 28. Rde4 Ng6 29. Qg3 Rd1 30. Qe3 Rxe1+ 31. Qxe1 c5
+32. h4 h5 33. Qe2 Qd5 34. Kh2 Kh7 35. g3 Qd1 36. Kg2 Qxe2
+37. Rxe2 Kg8 38. Rc2 Rd5 39. Bc1 Ne5 40. Be3 b6 41. Kf1 Kf7
+42. b4 Ng4 43. bxc5 Nxe3+ 44. fxe3 Rxc5 45. Rb2 b5 46. Ke2 Rc4
+47. Kf3 Ke6 48. Rd2 b4 49. e4 Rc5 50. Rb2 a5 51. Kf4 Rc4
+52. g4 hxg4 53. h5 f5 54. Kg5 Rxe4 55. Kg6 g3 0-1

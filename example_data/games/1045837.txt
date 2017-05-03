@@ -1,0 +1,23 @@
+[Event "Czechoslovakiet"]
+[Site "Prague CSR"]
+[Date "1986.06.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Karel Mokry"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O
+7. Nge2 Nbd7 8. O-O Ne8 9. g3 a6 10. f4 Rb8 11. a4 b6 12. Be3
+Nc7 13. Qd2 h6 14. Kg2 Nf6 15. h3 Bd7 16. Ng1 Nh7 17. Nf3 f6
+18. f5 b5 19. g4 bxa4 20. Nxa4 Rb4 21. Nc3 Qb8 22. Rab1 Qb7
+23. Na2 Rb6 24. b4 Rb8 25. Bc2 Ne8 26. Nh4 Nf8 27. Ng6 Nxg6
+28. fxg6 Bf8 29. Kg3 Qc8 30. bxc5 Rxb1 31. Rxb1 Rxb1 32. Bxb1
+dxc5 33. Bd3 Nd6 34. Nc1 Be8 35. Nb3 Bxg6 36. Nxc5 Kh8 37. Qf2
+a5 38. Kf3 a4 39. Ne6 Nxe4 40. Nxf8 Ng5+ 41. Ke2 Bxd3+
+42. Kxd3 Qxf8 43. Bxg5 Qa3+ 44. Ke4 hxg5 45. c5 Qb3 46. d6
+Qc4+ 47. Kf5 Qd5 48. Kg6 Qe6 49. Qb2 f5+ 50. Kxg5 Qf6+ 0-1

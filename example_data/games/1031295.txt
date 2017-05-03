@@ -1,0 +1,19 @@
+[Event "Olympiad"]
+[Site "Varna BUL"]
+[Date "1962.09.25"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Julio Bolbochan"]
+[Black "Mendim Veizaj"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.Nbd2 d6 5.g3 Be7 6.Bg2 Bd7 7.O-O
+b5 8.c3 e5 9.d4 Bf6 10.dxc5 dxc5 11.a4 a6 12.Nb3 Be7 13.Be3 c4
+14.Nc5 Bxc5 15.Bxc5 Nge7 16.Bxe7 Kxe7 17.Qd5 Qc7 18.Rfd1 f6
+19.Qc5+ Kf7 20.Rd6 Rac8 21.Rad1 Rhd8 22.axb5 axb5 23.Qxb5 Nd4
+24.Nxe5+ fxe5 25.Qxe5 Nb5 26.Qd5+ Ke7 27.Qg5+ Kf8 28.R6d2 Ra8
+29.e5 Ra6 30.Bh3 Nd4 31.Rxd4 1-0

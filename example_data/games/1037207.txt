@@ -1,0 +1,20 @@
+[Event "It (cat.4)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ram Soffer"]
+[Black "Nigel Rodney Davies"]
+[ECO "E77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O
+e5 8.d5 Nd4 9.f3 c5 10.Nxd4 cxd4 11.Na4 Bd7 12.b4 a5 13.b5 b6
+14.f4 exf4 15.Bxf4 Qc7 16.h3 Bc8 17.Rc1 Nd7 18.Rc2 Nc5 19.Nxc5
+Qxc5 20.g4 Ra7 21.Rcf2 Re7 22.Bg5 Re5 23.Bf6 Bxf6 24.Rxf6 Bd7
+25.R1f3 Be8 26.Qd2 Kg7 27.h4 Rg8 28.h5 Qc7 29.h6+ Kf8 30.Qf2
+Qd7 31.Kf1 Rg5 32.Qxd4 Qxg4 33.Qf2 Rh5 34.Qxb6 Rxh6 35.Qxd6+
+Kg7 36.Rxf7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Kaliningrad"]
+[Site "Kaliningrad"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Peresipkin"]
+[Black "Yuri Balashov"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Ne7 6.Nxe5 Qd4
+7.Qh5 g6 8.Qg5 Bg7 9.Nd3 f5 10.e5 c5 11.b3 h6 12.Qe3 f4
+13.Qxd4 cxd4 14.Bb2 Bf5 15.Nxf4 Bxe5 16.Ne2 O-O-O 17.d3 Nc6
+18.Nd2 Rhe8 19.f4 Bg7 20.Kf2 Nb4 21.Nf3 Nxc2 22.Rad1 Ne3
+23.Nexd4 Nxf1 24.Rxf1 Bxd3 0-1

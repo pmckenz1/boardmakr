@@ -1,0 +1,26 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.24"]
+[EventDate "1905.08.14"]
+[Round "10"]
+[Result "1-0"]
+[White "Julius Perlis"]
+[Black "John Washington Baird"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. Na4 Bb4 5. a3 Ba5 6. b4 Bb6
+7. Nxb6 axb6 8. d4 Qe7 9. dxe5 dxe5 10. Bb2 Nd7 11. Bb5 c6
+12. Bd3 b5 13. O-O Nh6 14. Nd2 O-O 15. c4 bxc4 16. Nxc4 f6
+17. Bc1 Nf7 18. Be3 Kh8 19. Qb3 Rd8 20. Rfd1 Qe6 21. Bc2 Nf8
+22. Bc5 Re8 23. Nb6 Rb8 24. f3 Qxb3 25. Bxb3 Be6 26. Bc2 Ng6
+27. Rd2 Red8 28. Rad1 Rxd2 29. Rxd2 Rd8 30. Rxd8+ Nxd8 31. Kf2
+Kg8 32. Ke3 Kf7 33. g3 Nf8 34. Kd2 Nd7 35. Be3 Nxb6 36. Bxb6
+Ke8 37. f4 exf4 38. gxf4 Ba2 39. Kc3 Ne6 40. Be3 Nf8 41. a4
+Nd7 42. Bd3 Kd8 43. Kd4 Nf8 44. f5 Nd7 45. Bf4 Ke7 46. h4 Bb3
+47. a5 h6 48. Be2 Ba2 49. Bd1 Bf7 50. Bc7 Ba2 51. Ba4 Bf7
+52. Bxc6 bxc6 53. a6 c5+ 54. Ke3 Be8 55. a7 Nb6 56. Bxb6 Bc6
+57. Bxc5+ Ke8 58. b5 Bb7 59. h5 Kf7 60. Kd4 Ke8 61. e5 fxe5+
+62. Kxe5 Kd7 63. Bf8 1-0

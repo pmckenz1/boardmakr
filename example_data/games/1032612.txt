@@ -1,0 +1,23 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm Interzonal"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Zandor Nilsson"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxc4 6.e4 Nf6 7.e5
+Nd5 8.Qa4+ Nd7 9.Qxc4 c5 10.Nf3 a6 11.dxc5 Qa5 12.c6 N7b6
+13.Qd4 Qxc3+ 14.Qxc3 Nxc3 15.Bd2 Ncd5 16.cxb7 Bxb7 17.Ng5 O-O
+18.Bd3 h6 19.Ne4 a5 20.Nc5 Bc6 21.f4 Rfd8 22.Ke2 Ne7 23.Rab1
+Nd7 24.Ne4 f5 25.Nd6 Bxg2 26.Rhc1 a4 27.h4 Bc6 28.Bc4 Bd5
+29.Bb5 Nb6 30.Rc7 Ba2 31.Ra1 Ned5 32.Rb7 Bb3 33.Rg1 g5 34.hxg5
+h5 35.Rh1 Rab8 36.Rxb8 Rxb8 37.Rxh5 Nc8 38.Bd7 Nxd6 39.exd6
+Nb6 40.Bc6 Rd8 41.Bc3 Bd1+ 42.Kxd1 Rxd6+ 43.Ke1 Rxc6 44.Bf6
+Rc1+ 45.Kf2 Rc2+ 46.Kf3 Nc4 47.g6 Nd2+ 48.Ke3 Nf1+ 49.Kd4 Rh2
+50.Rxh2 Nxh2 51.Ke5 1-0

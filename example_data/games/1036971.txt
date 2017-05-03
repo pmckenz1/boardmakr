@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Rune Djurhuus"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3
+Bd7 8.a4 Qa5 9.Bd2 Nbc6 10.Be2 f6 11.exf6 gxf6 12.c4 Qc7
+13.cxd5 Nxd5 14.c3 O-O-O 15.O-O Rhg8 16.Re1 e5 17.c4 Bh3
+18.Bf1 Nf4 19.Bxf4 exf4 20.d5 Bg4 21.Be2 Bh3 22.Bf1 Bg4 23.Be2
+Bh3 1/2-1/2

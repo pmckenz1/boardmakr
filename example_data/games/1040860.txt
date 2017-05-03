@@ -1,0 +1,23 @@
+[Event "Buenos Aires ol-fin"]
+[Site "Buenos Aires ARG"]
+[Date "1939.09.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Mariano Castillo Larenas"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.Nf3 Nf6 2.b3 g6 3.Bb2 Bg7 4.c4 O-O 5.e3 c5 6.Be2 Nc6 7.O-O
+d5 8.cxd5 Qxd5 9.Nc3 Qd8 10.d3 b6 11.a3 Bb7 12.Qb1 e5 13.Nd2
+Qe7 14.Bf3 Rad8 15.Rd1 Rd7 16.Nc4 Rfd8 17.Qc2 Ne8 18.Rab1 Nc7
+19.Ba1 Ne6 20.Ne2 Ng5 21.Bxc6 Bxc6 22.Ng3 Ba8 23.b4 h5 24.bxc5
+Qxc5 25.h4 Ne6 26.a4 Qc6 27.f3 Qc7 28.a5 bxa5 29.Bc3 Rd5
+30.Ra1 Rc8 31.Ne4 Qe7 32.Be1 f5 33.Nc3 Rdc5 34.Rxa5 Rxa5
+35.Nxa5 Kh7 36.Qb3 Bh6 37.Bf2 Bg7 38.Ne2 Rd8 39.Nc4 Nc5 40.Qa3
+Qc7 41.e4 Bf8 42.exf5 gxf5 43.Qc3 e4 44.Qf6 exf3 45.Qxf5+ Kg8
+46.Nf4 Ne4 47.Ne6 Qxc4 48.Qg6+ Kh8 49.Qxh5+ Kg8 50.Qg6+ Kh8
+51.Nxd8 1-0

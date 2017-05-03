@@ -1,0 +1,20 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.01"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "James Moore Hanham"]
+[Black "Eugene Delmar"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Qe2 Be7 5.Nf3 O-O 6.O-O d5 7.Bb3
+Bg4 8.Nbd2 a5 9.c3 a4 10.Bc2 Nbd7 11.h3 Bh5 12.g4 Bg6 13.exd5
+Nxd5 14.Nc4 Re8 15.d4 exd4 16.Bxg6 hxg6 17.Nxd4 a3 18.Qf3 axb2
+19.Bxb2 Ra4 20.Ne3 Ne5 21.Qd1 b5 22.Ng2 Bc5 23.Nb3 Bb6 24.Nc1
+Qf6 25.Nd3 Nc4 26.Kh1 Nxb2 27.Nxb2 Nxc3 28.Qc2 Qf3 29.Nxa4
+Qxh3+ 30.Kg1 Ne2+ 31.Qxe2 Rxe2 32.Nxb6 Qxg4 33.a4 Qd4 34.a5
+Rxf2 35.Rfe1 Ra2 0-1

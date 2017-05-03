@@ -1,0 +1,24 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.08"]
+[EventDate "2000.04.05"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Andreas Schmied"]
+[Black "Tom E Wiley"]
+[ECO "A00"]
+[WhiteElo "2158"]
+[BlackElo "2294"]
+[PlyCount "101"]
+
+1. g3 f5 2. Bg2 Nf6 3. c4 e5 4. Nc3 Nc6 5. e3 d6 6. d3 g6
+7. Nge2 Bg7 8. Rb1 O-O 9. O-O a5 10. b3 Bd7 11. Bb2 Rb8
+12. Qd2 Ne7 13. Nd5 Nfxd5 14. cxd5 c5 15. f4 b6 16. Rf2 Qc7
+17. Rbf1 Rbe8 18. Rc1 Qa7 19. Bc3 Bb5 20. Ba1 Qa6 21. Rd1 Qa7
+22. h3 Nc8 23. g4 Qe7 24. Rf3 Kh8 25. Rg3 Bd7 26. g5 Bb5
+27. h4 e4 28. dxe4 fxe4 29. Nc3 Bd3 30. Bh3 b5 31. Be6 b4
+32. Na4 Bxa1 33. Rxa1 Qg7 34. Rc1 Ne7 35. Nb2 Nf5 36. Bxf5
+gxf5 37. Nxd3 exd3 38. Qxd3 Re4 39. Rb1 Rfe8 40. Kf2 Qf7
+41. Rh1 Qg7 42. Rc1 a4 43. h5 a3 44. h6 Qb2+ 45. Rc2 Qb1
+46. Rh3 Rc8 47. Qd2 c4 48. Rc1 Qb2 49. Rc2 Qb1 50. Rc1 Qb2
+51. Rc2 1/2-1/2

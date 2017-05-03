@@ -1,0 +1,21 @@
+[Event "2nd, BL North /95 GER"]
+[Site "2nd, BL North 1994/95 GER"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Joerg Seils"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.b3 c5 2.Bb2 Nc6 3.f4 Nf6 4.Nf3 d6 5.c4 g6 6.g3 Bg7 7.Bg2 O-O
+8.O-O Rb8 9.e3 a6 10.Qe2 b5 11.d3 Qc7 12.Nc3 b4 13.Nd1 e5
+14.Nf2 Bd7 15.Nh4 exf4 16.gxf4 Rbe8 17.Qd2 Qd8 18.Nf3 Nh5
+19.Bxg7 Nxg7 20.d4 cxd4 21.exd4 Qb6 22.Rfe1 Ne7 23.c5 dxc5
+24.dxc5 Qc7 25.Ne4 Nh5 26.Rac1 Nf5 27.Qxb4 Bc6 28.Nd6 Rxe1+
+29.Rxe1 Rb8 30.Qc4 Nxd6 31.cxd6 Qxd6 32.Ng5 Qxf4 33.Qxf4 Nxf4
+34.Bxc6 h6 35.Nf3 Nd3 36.Re2 Rc8 37.Re8+ Rxe8 38.Bxe8 Nc1
+39.Ne5 Nxa2 40.Bxf7+ Kg7 41.Bc4 1-0

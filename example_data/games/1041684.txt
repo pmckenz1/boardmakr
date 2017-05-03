@@ -1,0 +1,24 @@
+[Event "Izt"]
+[Site "Zagreb CRO"]
+[Date "1987.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Krunoslav Hulak"]
+[Black "Eugenio Torre"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.g3 b6 7.Bg2
+Bb7 8.O-O O-O 9.Qb3 a5 10.a3 Na6 11.Nbd2 d6 12.Rfd1 Qc7 13.Ne1
+Bxg2 14.Nxg2 Rfe8 15.Ne3 Rab8 16.Rac1 Qd7 17.Qd3 Qb7 18.Nc2
+bxa3 19.Qxa3 Ne4 20.b4 axb4 21.Nxb4 Nxb4 22.Qxb4 Nxd2 23.Rxd2
+Qc6 24.Rb2 Rec8 25.Rc3 g6 26.f3 Rc7 27.Kf2 h5 28.Qb5 Qb7
+29.Qg5 Qc8 30.Qb5 Rcb7 31.Rb4 Rc7 32.Ra3 Rcb7 33.h4 Qd8 34.Qg5
+Qf8 35.Rab3 Qc8 36.g4 hxg4 37.fxg4 Qf8 38.h5 Qg7 39.c5 dxc5
+40.dxc5 b5 41.c6 Rc7 42.h6 Qa1 43.Rb2 Kh7 44.Qf6 Rg8 45.Rxb5
+Qh1 46.Rb8 Qh2+ 47.Ke3 Qg3+ 48.Kd2 Qd6+ 49.Ke1 Qg3+ 50.Kd1
+Qd6+ 51.Ke1 Qg3+ 52.Kd2 Qd6+ 53.Ke1 Qg3+ 54.Kd2 Qd6+ 55.Ke1
+1/2-1/2

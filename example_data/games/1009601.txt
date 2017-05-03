@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Leonie Helm"]
+[Black "Anne Muller"]
+[ECO "B58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5
+7. Nf3 Be7 8. h3 h6 9. O-O O-O 10. Re1 a6 11. Bf1 Re8 12. a4
+Nb4 13. Nd2 Be6 14. Nc4 Qc7 15. b3 Rad8 16. Bb2 b6 17. Qd2 Qb7
+18. Ba3 d5 19. exd5 Bxd5 20. Nxd5 Rxd5 21. Qc3 Nc6 22. Ne3
+Rdd8 23. Bxe7 Rxe7 24. Qc4 a5 25. Nf5 Rc7 26. Qh4 Qc8
+27. Nxh6+ gxh6 28. Qxf6 Nb4 29. Qxh6 Rc6 30. Qg5+ Rg6 31. Qxe5
+Qxc2 32. Bc4 Nd3 33. Bxf7+ Kxf7 34. Qe7+ Kg8 35. Qxd8+ Kh7
+36. Qh4+ Kg7 37. Red1 Nc5 38. Rd8 Qf5 39. Qe7+ 1-0

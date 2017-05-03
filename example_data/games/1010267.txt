@@ -1,0 +1,17 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Nikoletta Lakos"]
+[Black "Melinda Goczo"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2
+c5 7. Nf3 cxd4 8. Nxd4 Nxe4 9. Bxe4 Nc5 10. c3 Nxe4 11. Qxe4
+Bc5 12. Be3 O-O 13. Rd1 Qe7 14. O-O e5 15. Nf3 Bxe3 16. Qxe3
+1/2-1/2

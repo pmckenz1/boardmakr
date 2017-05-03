@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Claude Wagner"]
+[Black "Klaus Neumeier"]
+[ECO "B76"]
+[WhiteElo "2250"]
+[BlackElo "2245"]
+[PlyCount "29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6
+12. Nxd5 cxd5 13. Qxd5 Qc7 14. Qc5 Qb7 15. b3 1/2-1/2

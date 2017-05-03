@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Christian Gabriel"]
+[Black "Juergen Pichler"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6
+7. Bxc4 Bb4 8. O-O Nbd7 9. Nh4 Bg6 10. Qb3 Qb6 11. f4 O-O
+12. f5 exf5 13. Nxf5 Rfe8 14. Nh4 Bxc3 15. bxc3 Qxb3 16. Bxb3
+Nd5 17. Nxg6 hxg6 18. Rf3 Rad8 19. Bd2 N7f6 20. c4 Nc7
+21. Raf1 Rd7 22. Bc1 Ne6 23. h4 c5 24. d5 Nd8 25. a5 Rd6
+26. Ba4 Re7 27. Bd2 Ng4 28. Bc2 Ne5 29. Rf4 f6 30. g4 Ndf7
+31. g5 f5 32. Bc1 Rd8 33. h5 Nxg5 34. Kh1 Ngf7 35. hxg6 Nxg6
+36. Rxf5 Nd6 37. Rh5 Ne4 38. Rg1 Nf8 39. Bb2 Nd6 40. Bd3 Rdd7
+41. Rg3 b5 42. Rgh3 Ne4 43. Rh8+ Kf7 44. Bxe4 1-0

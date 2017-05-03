@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Matthias Roeder"]
+[Black "Hoang Thanh Trang"]
+[ECO "A81"]
+[WhiteElo "2445"]
+[BlackElo "2455"]
+[PlyCount "111"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. c4 Nf6 5. Nc3 O-O 6. Nf3 d6
+7. O-O Qe8 8. d5 a5 9. Nd4 Na6 10. e4 fxe4 11. Nxe4 Nxe4
+12. Bxe4 Bh3 13. Re1 Qf7 14. Be3 Nc5 15. Bh1 Rae8 16. Qd2 b6
+17. Rac1 Kh8 18. b3 Bd7 19. Bg2 e6 20. dxe6 Nxe6 21. Nxe6 Bxe6
+22. Bd4 Bf6 23. Bc6 Re7 24. Bxf6+ Qxf6 25. Qc3 Kg7 26. f4 Rff7
+27. a3 Bg4 28. Qxf6+ Kxf6 29. b4 axb4 30. axb4 Rxe1+ 31. Rxe1
+Re7 32. Rxe7 Kxe7 33. Kf2 Be6 34. Bd5 c5 35. Bxe6 Kxe6
+36. bxc5 bxc5 37. g4 d5 38. cxd5+ Kxd5 39. Ke3 h5 40. gxh5
+gxh5 41. Kd3 h4 42. f5 h3 43. f6 Ke6 44. Kc4 Kxf6 45. Kxc5 Ke5
+46. Kc4 Ke4 47. Kc3 Ke3 48. Kc2 Ke2 49. Kc1 Ke1 50. Kc2 Kf2
+51. Kd2 Kf1 52. Kd1 Kg2 53. Ke2 Kxh2 54. Kf2 Kh1 55. Kg3 h2
+56. Kf2 1/2-1/2

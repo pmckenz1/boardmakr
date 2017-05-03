@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "0-1"]
+[White "Jakob Heissler"]
+[Black "Gerlef Meins"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5
+7. O-O Nc6 8. d5 Ne7 9. Ne1 Ne8 10. Nd3 f5 11. f4 c6 12. dxc6
+Nxc6 13. exf5 gxf5 14. Be3 Nf6 15. Qb3 Be6 16. Nf2 Nd4 17. Qd1
+Nxe2+ 18. Qxe2 Rc8 19. b3 Bf7 20. fxe5 dxe5 21. Rad1 Qa5
+22. Nb5 Bh5 23. Qd2 Qxd2 24. Rxd2 f4 25. Bxa7 e4 26. Rc2 e3
+27. Nh3 Bg6 28. Rcc1 Nh5 29. a4 Rcd8 30. Bc5 Rf5 31. Bb4 Rd3
+32. Bc3 Rxb5 33. Bxg7 Rbxb3 34. Be5 Rd2 35. Rfd1 Bc2 36. Re1
+Be4 0-1

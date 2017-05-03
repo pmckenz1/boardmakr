@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Leukerbad SUI"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Dragomir Vucenovic"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Qc2
+e5 8.Rd1 Qe7 9.Nc3 c6 10.b3 Re8 11.e4 exd4 12.Nxd4 Nc5 13.f3
+a5 14.Be3 Nfd7 15.Bf2 Nf8 16.f4 f5 17.exf5 Bxf5 18.Nxf5 gxf5
+19.Rac1 Ne4 20.Bxe4 fxe4 21.Re1 Bxc3 22.Qxc3 d5 23.cxd5 cxd5
+24.f5 Nd7 25.Qd2 Qe5 26.g4 Nf6 27.Bd4 Qe6 28.Bxf6 Qxf6
+29.Qxd5+ Qf7 30.Qxf7+ Kxf7 31.Rc7+ Kf6 32.Rxh7 Rad8 33.Kf2 Kg5
+34.Ke2 Rc8 35.Rg7+ Kf6 36.Rg6+ Ke5 37.Rd1 Rc2+ 38.Rd2 Rc3
+39.f6+ Rh8 40.Kf1 Rf3+ 41.Rf2 Rxf2+ 42.Kxf2 Rxh2+ 43.Kg3 Rc2
+44.g5 Rc3+ 45.Kg4 Rf3 46.Rg7 Rf4+ 47.Kh5 Kf5 48.Re7 Rf3 49.Kh6
+1-0

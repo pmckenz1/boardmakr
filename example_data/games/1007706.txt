@@ -1,0 +1,28 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.06.26"]
+[EventDate "1927.06.26"]
+[Round "1"]
+[Result "0-1"]
+[White "Vladimir Vukovic"]
+[Black "Edgar Colle"]
+[ECO "E47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "146"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 b6 6. Nge2 Bb7
+7. O-O d5 8. cxd5 exd5 9. Bd2 Bd6 10. Ng3 c5 11. Nf5 Nc6
+12. Nxd6 Qxd6 13. Rc1 c4 14. Bb1 a6 15. Ne2 b5 16. Nf4 Rfe8
+17. Nh5 Ne4 18. Be1 g6 19. f3 Ng5 20. h4 Ne6 21. Nf6+ Kh8
+22. Nxe8 Rxe8 23. h5 Ng7 24. hxg6 fxg6 25. Bf2 Nf5 26. Re1 Qf6
+27. Qd2 Qg5 28. a3 Kg8 29. Rcd1 Nh4 30. Bxh4 Qxh4 31. Qf2
+Qxf2+ 32. Kxf2 Rd8 33. e4 Ne7 34. e5 Kf7 35. f4 Bc8 36. Rh1 h5
+37. Rd2 a5 38. Bc2 Be6 39. Bd1 Kg7 40. g4 hxg4 41. Rg1 Rf8
+42. Bxg4 Rxf4+ 43. Bf3 Rf8 44. Ke2 Bf5 45. Bg4 Rh8 46. Kf3
+Be4+ 47. Kg3 Rb8 48. Rf2 b4 49. axb4 axb4 50. Be6 Bf5 51. Bxf5
+gxf5 52. Rxf5 Nxf5+ 53. Kf4+ Kf7 54. Kxf5 Rh8 55. e6+ Ke7
+56. Rg7+ Kd6 57. e7 b3 58. Kf6 Re8 59. Rf7 Kd7 60. Rg7 c3
+61. bxc3 b2 62. Rg1 Rxe7 63. Kf5 Kc6 64. Kf4 Kb5 65. Rb1 Re2
+66. Kf3 Rc2 67. Kf4 Kc4 68. Ke5 Rh2 69. Ke6 Rh6+ 70. Ke5 Rh5+
+71. Kd6 Kxc3 72. Rg1 Kc2 73. Rg2+ Kb3 0-1

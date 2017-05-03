@@ -1,0 +1,20 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.06"]
+[EventDate "1920.08.02"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Oscar Nilsson"]
+[Black "Axel Martinius Erichsen"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Nbd2 O-O 11.Nd4 Nxd4 12.cxd4 Nxd2
+13.Bxd2 c5 14.f4 Bf5 15.Be3 c4 16.Bc2 Qd7 17.Bxf5 Qxf5 18.g4
+Qe4 19.Qf3 Qxf3 20.Rxf3 f5 21.h3 g5 22.gxf5 Rxf5 23.Rg3 Kf7
+24.fxg5 Rg8 25.Rf1 Ke6 26.h4 h6 27.Rxf5 Kxf5 28.Kf2 hxg5
+29.hxg5 Bxg5 30.Bxg5 Rxg5 31.Rxg5+ Kxg5 32.Ke2 b4 33.Kd2 a5
+34.Kc2 1/2-1/2

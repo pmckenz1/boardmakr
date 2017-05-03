@@ -1,0 +1,23 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Stevan Maodus"]
+[Black "Zlatko Klaric"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 e5 2. Nc3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Qd1 g6 6. Be3 Bg7
+7. Qd2 Be6 8. Nf3 Nf6 9. Nd4 Nxd4 10. Bxd4 O-O 11. Be2 c6
+12. a4 Qa5 13. O-O Nxe4 14. Qe3 Bxd4 15. Qxd4 Nxc3 16. bxc3
+Rad8 17. c4 Qe5 18. Qd2 d5 19. cxd5 Rxd5 20. Bd3 Bf5 21. Qb4
+Bxd3 22. cxd3 b6 23. Qc4 Qd6 24. Rac1 Rd8 25. Qxc6 Qxc6
+26. Rxc6 Ra5 27. Rd1 Rxa4 28. Kf1 b5 29. Ke2 a5 30. Rb6 b4
+31. d4 Ra2+ 32. Ke3 Re8+ 33. Kd3 Rxf2 34. d5 Rxg2 35. d6 Rxh2
+36. Kc4 Rd8 37. Kd5 Rc2 38. Rb5 a4 39. Rxb4 a3 40. Ra4 a2
+41. Ra7 h5 42. Rd4 h4 43. Ke5 h3 44. d7 h2 45. Rd1 Rd2
+46. Rxd2 h1=Q 47. Raxa2 Qc6 0-1

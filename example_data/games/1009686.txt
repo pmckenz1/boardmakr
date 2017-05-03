@@ -1,0 +1,32 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Nikolaj Borge"]
+[Black "Henrik El-Kher"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "181"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Rb8
+12. Nc2 Bg5 13. a4 bxa4 14. Ncb4 Bd7 15. Bxa6 Nxb4 16. cxb4
+O-O 17. O-O Bc6 18. b5 Bxb5 19. Bxb5 Rxb5 20. Qc2 Qb8 21. Rfb1
+Rc8 22. Qe2 Rbc5 23. h4 Rc1+ 24. Rxc1 Rxc1+ 25. Rxc1 Bxc1
+26. Qc2 Bxb2 27. Qxa4 Qd8 28. h5 h6 29. g3 Bd4 30. Kg2 Kh7
+31. Qa6 Bc5 32. Qb7 Qe8 33. f3 Qe6 34. Qa8 f6 35. Qd8 Qf7
+36. g4 Ba3 37. Qc8 Bc5 38. Qf5+ Kh8 39. Qc8+ Kh7 40. Kg3 Ba3
+41. Qa8 Bc5 42. Qd8 Qa7 43. Qe7 Qxe7 44. Nxe7 d5 45. Nxd5 Kg8
+46. Kg2 Kf7 47. f4 exf4 48. Nxf4 Bd6 49. Ng6 Bc7 50. Kf3 Bd6
+51. Ke3 Bb8 52. Kd4 Bg3 53. Kd5 Bh2 54. Nh4 Bg3 55. Nf5 Bf4
+56. Nh4 Bg3 57. Ng6 Bh2 58. Nh8+ Kg8 59. Ng6 Kf7 60. Kc6 Ke6
+61. Kc5 Bg1+ 62. Kc4 Bh2 63. Kd3 Bd6 64. Nh4 Be5 65. Nf5 Kf7
+66. Nh4 Bd6 67. Kd4 Ke6 68. Nf5 Bf8 69. Ke3 Ke5 70. Kf3 Ke6
+71. Kf4 Kf7 72. Ke3 Bc5+ 73. Kd3 Bb4 74. Kc4 Ba3 75. Kd5 Bf8
+76. Nd4 Bb4 77. Kc6 Bc3 78. Nf5 Ke6 79. Nxg7+ Ke5 80. Nf5 Bd2
+81. Kd7 Kxe4 82. Ke6 Kf3 83. Kxf6 Kxg4 84. Kg6 Kf4 85. Nxh6
+Ke5 86. Nf7+ Ke6 87. Ng5+ Bxg5 88. Kxg5 Kf7 89. h6 Kg8 90. Kg6
+Kh8 91. h7 1/2-1/2

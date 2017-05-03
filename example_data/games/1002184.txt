@@ -1,0 +1,31 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.10"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Jackson Whipps Showalter"]
+[Black "Eugene Delmar"]
+[ECO "B34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "189"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 d6 7.Be2
+Bd7 8.O-O a6 9.f4 Nf6 10.Bf3 Qc8 11.h3 O-O 12.Qd2 Qc7 13.Rad1
+Na5 14.b3 Rac8 15.Nde2 b5 16.Rc1 b4 17.Nd1 Nc6 18.Nf2 Nd8
+19.Qxb4 Rb8 20.Qd2 Nc6 21.c4 Rfd8 22.Ng3 h5 23.Ne2 e5 24.Rcd1
+Be6 25.Nc3 exf4 26.Bxf4 Ne5 27.Nd3 Rbc8 28.Bg5 Rd7 29.Nxe5
+dxe5 30.Nd5 Bxd5 31.exd5 e4 32.Bxf6 Bxf6 33.Bxe4 Be7 34.Rf3
+Re8 35.Kh1 a5 36.Rdf1 Bb4 37.Qc2 Qe5 38.Bd3 Bd6 39.g3 Bc5
+40.Qg2 Rde7 41.Rf4 Qc3 42.Qc2 Qe5 43.Qg2 Qc3 44.Qc2 Qe5 45.g4
+hxg4 46.Rxg4 Qh5 47.Rg3 Re3 48.Bxg6 fxg6 49.Qxg6+ Qxg6
+50.Rxg6+ Kh7 51.Rc6 Bd4 52.Rc7+ Kg8 53.Rf4 Re1+ 54.Kg2 Rg1+
+55.Kf3 Rf1+ 56.Kg4 Rxf4+ 57.Kxf4 Re2 58.a4 Rb2 59.Rc8+ Kf7
+60.Rb8 Bc5 61.Rb7+ Kf6 62.h4 Bb4 63.Rb6+ Kf7 64.Kf5 Rxb3
+65.Rb7+ Ke8 66.c5 Rf3+ 67.Ke6 Re3+ 68.Kd6+ Re4 69.h5 Rh4
+70.Ke6 Re4+ 71.Kd6+ Rh4 72.Ke6 Re4+ 73.Kf5+ Rh4 74.Rb8+ Kd7
+75.c6 Kc7 76.Rb7+ Kc8 77.Rh7 Bc5 78.h6 Rxa4 79.Rg7 Rh4 80.h7
+Bd4 81.Rf7 Rh6 82.Ke4 Bc3 83.Kd3 Be5 84.Rd7 Bb2 85.Kc2 Bd4
+86.Kd3 Bb2 87.Ra7 Rh3+ 88.Kc2 Bd4 89.Rxa5 Kc7 90.Ra4 Bb6
+91.Rg4 Rxh7 92.Rg6 Bd4 93.Kd3 Be5 94.Ke4 Re7 95.Re6 1/2-1/2

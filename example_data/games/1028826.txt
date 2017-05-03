@@ -1,0 +1,18 @@
+[Event "Manchester"]
+[Site "Manchester ENG"]
+[Date "1862.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "Samuel Wellington"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 exd4 7.e5
+Ne4 8.Nxd4 Nc5 9.Bxc6 dxc6 10.Nc3 Ne6 11.Be3 Nxd4 12.Bxd4 O-O
+13.Ne4 Be6 14.f4 Bd5 15.Ng3 f5 16.b3 c5 17.Bb2 Bh4 18.Qh5 Bf7
+19.Qf3 Qd5 20.Nxf5 Bd8 21.Qg4 Bg6 22.Nh6+ gxh6 23.f5 h5 24.Qg3
+Qf7 25.e6 Qe8 26.fxg6 Qxg6 27.Qe5 1-0

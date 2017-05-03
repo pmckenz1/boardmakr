@@ -1,0 +1,18 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Zoltan Varga"]
+[Black "Tibor Tolnai"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6
+6. Qe2 e6 7. c3 Be7 8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2
+Nxd2 12. Bxd2 O-O 13. Qb5 Nb6 14. Ba5 Qd7 15. Qxd7 Nxd7
+16. Rfc1 Rfc8 17. Bd2 h6 18. Rxc8+ Rxc8 19. Rc1 Rxc1+ 20. Bxc1
+f6 1/2-1/2

@@ -1,0 +1,32 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.02.28"]
+[EventDate "1909.02.15"]
+[Round "10"]
+[Result "0-1"]
+[White "Oldrich Duras"]
+[Black "Rudolf Spielmann"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 {Notes by Lasker.} e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3
+d6 6.Be3 Bb6 7.h3 Be6 8.O-O {A mistake. The idea to retake at
+c4 with the Pawn is good enough in itself. After the exchange
+at c4, White's doubled pawn, even though isolated, would do no
+harm, on account of its central position; it would hamper
+Black's pieces and could not be easily attacked. But it was a
+condition, sine quo non, to secure the Queen Knight against
+Ba5 by say a3, for the trebled Pawn on the c-file has no
+mobility whatever.} Bxc4 9.dxc4 Ba5 10.Nd5 {After 10.Qd3 Bxc3
+11.bxc3 b6, the c-pawns would be fixed, and White's game
+should be lost in consequence. Hence White plays va banque for
+attack.} Nxe4 11.Qd3 f5 12.c3 {12.b4 Nxb4 13.Nxb4 Bxb4 14.Qd5
+or 12.b4 Bxb4 13.Rb1 was more in the nature of a va banque
+attack.} O-O 13.Rad1 Bb6 14.b4 Bxe3 15.Nxe3 Qf6 16.Rfe1 Ng5
+17.Nxg5 Qxg5 18.b5 Na5 19.Nd5 e4 20.Qe2 Rf7 21.Rd4 c6 22.Nb4
+Rd8 {22...c5 23.Rxd6 cxb4 24.cxb4.} 23.Nc2 Qf6 24.Ne3 Qe5
+25.Red1 Rf6 26.Qc2 h5 27.Qa4 {Nf1 first was imperative.} f4
+28.Qxa5 b6 29.Qa3 fxe3 30.fxe3 Qg3 {Threatening Rf2.} 31.Kh1
+Rdf8 32.Qc1 Rf2 33.Rg1 R8f3 {Black threatens Qxh3+.} 0-1

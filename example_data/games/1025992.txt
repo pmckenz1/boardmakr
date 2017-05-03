@@ -1,0 +1,21 @@
+[Event "Copenhagen (Denmark)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Soren Boeck Petersen"]
+[Black "Gerardo F Barbero"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7
+8.O-O O-O 9.Be3 Rb8 10.Qd2 Nd4 11.Nd1 b6 12.c3 Nxf3+ 13.Bxf3
+d5 14.e5 d4 15.cxd4 cxd4 16.Bf2 Bb7 17.Bxb7 Rxb7 18.Rc1 Rd7
+19.Re1 g5 20.Rc4 gxf4 21.Qxf4 Ng6 22.Qg4 Rd5 23.Rxd4 h5
+24.Rxd5 Qxd5 25.Qxh5 Nxe5 26.Re3 f5 27.Nc3 Qd7 28.Qe2 Ng4
+29.Rxe6 Kf7 30.Re3 Nxe3 31.Qxe3 Rd8 32.Qf4 Qxd3 33.Kg2 Bf6
+34.a4 Rd7 35.h4 Re7 36.h5 Bxc3 37.bxc3 Qe4+ 38.Qxe4 Rxe4
+39.Bd4 Kg8 0-1

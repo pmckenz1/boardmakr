@@ -1,0 +1,18 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1962.01.27"]
+[EventDate "1962.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Julio Bolbochan"]
+[Black "Samuel Schweber"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 g6 7.Be3
+Bg7 8.f4 O-O 9.Nb3 Nc6 10.g4 e5 11.g5 exf4 12.Bxf4 Ne8 13.Qd2
+a5 14.a4 Be6 15.O-O-O Rc8 16.Kb1 Bxc3 17.bxc3 Qb6 18.Bb5 Ne5
+19.Be3 Qc7 20.Bd4 Ng7 21.h4 Nf3 22.Qd3 Nxd4 23.cxd4 Bc4
+24.Bxc4 Qxc4 25.Qxc4 Rxc4 26.Nxa5 Rxa4 27.Nb3 Rc8 1/2-1/2

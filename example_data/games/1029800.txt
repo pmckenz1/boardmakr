@@ -1,0 +1,25 @@
+[Event "Ch-UCZEO"]
+[Site "Ch-<CZE>"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jan Sikora-Lerch"]
+[Black "Pavel Blatny"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Nf3 d5 5.Bb3 Bd6 6.Nc3 d4 7.Ne2
+Nbd7 8.O-O Nc5 9.Ng3 Nxb3 10.axb3 O-O 11.Nh4 g6 12.Bg5 Be7
+13.Nf3 Nd7 14.Bh6 Re8 15.Qd2 Bf8 16.h3 Qf6 17.Nh2 Bxh6 18.Qxh6
+Qg7 19.Qd2 Nc5 20.f4 f5 21.exf5 gxf5 22.Ne2 e4 23.dxe4 d3
+24.Nc3 Qd4+ 25.Qf2 Qxf2+ 26.Rxf2 fxe4 27.cxd3 Nxd3 28.Re2 e3
+29.Rf1 Nc5 30.f5 Nxb3 31.Ng4 Rf8 32.Nxe3 b6 33.Rf4 Ba6 34.Ref2
+Rae8 35.R2f3 Kh8 36.f6 Nc5 37.Ng4 Re6 38.Nh6 Nd3 39.Rf5 Ne5
+40.Rg3 Ng6 41.Ng4 Bc8 42.Kh2 Rd6 43.Rh5 Bxg4 44.hxg4 Nf4
+45.Rh4 Rdxf6 46.Ne4 Re6 47.Ng5 Re7 48.Rf3 Kg8 49.Kg3 Ng6
+50.Rh6 Ne5 51.Rxf8+ Kxf8 52.Ne6+ Kg8 53.Nd4 c5 54.Nf5 Re8
+55.Rd6 c4 56.g5 b5 57.Ra6 Nd3 58.Rxa7 Nxb2 59.Nh6+ Kh8 60.Nf7+
+Kg8 61.Nh6+ Kh8 62.Ng4 Re1 1/2-1/2

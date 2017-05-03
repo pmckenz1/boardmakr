@@ -1,0 +1,16 @@
+[Event "Szirak"]
+[Site "Szirak HUN"]
+[Date "1986.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Kevin Spraggett"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. Nf3 f5 2. d4 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. b3 Ne4
+7. c4 Bf6 8. Bb2 a5 9. a3 Nc6 10. Nbd2 d5 11. Rc1 Bd7 12. Ne1
+Be8 13. Ndf3 a4 14. b4 dxc4 15. Rxc4 e5 16. Nc2 Bf7 1/2-1/2

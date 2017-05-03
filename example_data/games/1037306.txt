@@ -1,0 +1,16 @@
+[Event "It (cat.11)"]
+[Site "Rishon LeZion ISR"]
+[Date "1994.11.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Boris Alterman"]
+[Black "Nigel Rodney Davies"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5
+7.Qxf5 exf5 8.a3 Bd6 9.e3 Nbd7 10.Bd2 c6 11.Bd3 Nb6 12.b4 O-O
+13.O-O g6 14.b5 c5 15.a4 Be6 16.Rfc1 Rac8 1/2-1/2

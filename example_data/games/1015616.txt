@@ -1,0 +1,21 @@
+[Event "Olympiad (students) (team)"]
+[Site "Graz (Austria)"]
+[Date "1972.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Roman Hernandez"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 Bg4
+7.dxe5 Qxd1 8.Rxd1 fxe5 9.Rd3 Bxf3 10.gxf3 Bc5 11.Nd2 Ne7
+12.Nb3 Bd6 13.Na5 O-O-O 14.Bg5 Rd7 15.Nc4 Ng6 16.Rad1 Rf8
+17.Kg2 b5 18.Nxd6+ cxd6 19.Rxd6 Rxd6 20.Rxd6 Kc7 21.Rd3 h6
+22.Bd2 Nf4+ 23.Bxf4 Rxf4 24.a4 g5 25.Kg3 h5 26.axb5 axb5
+27.Re3 Kb6 28.b4 Kc7 29.Kg2 Kb6 30.Re1 Kc7 31.Rc1 Kb6 32.c4
+bxc4 33.Rxc4 g4 34.fxg4 hxg4 35.Kg3 Kb7 36.Rc5 Rxe4 37.b5 cxb5
+38.Rxb5+ Kc6 39.Rb8 Rf4 40.Rd8 Kc5 1/2-1/2

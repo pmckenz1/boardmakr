@@ -1,0 +1,19 @@
+[Event "Moscow 50/401"]
+[Site "Moscow 50/401"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Igor Naumkin"]
+[Black "Vladimir Bagirov"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 e5 5.dxe5 d4 6.Ne4 Bf5 7.Ng3
+Be6 8.e4 dxe3 9.Qxd8+ Kxd8 10.Bxe3 Bb4+ 11.Bd2 Bxd2+ 12.Kxd2
+Nc6 13.Nf3 Ke7 14.Bb5 Rd8+ 15.Ke3 Nb4 16.Rhc1 Nd5+ 17.Ke2 Nh6
+18.Kf1 a6 19.Bc4 Rc8 20.Bb3 Nb4 21.Bxe6 fxe6 22.Ne4 Nf7 23.Nc5
+b6 24.Na4 Nd3 25.Rxc8 Rxc8 26.Nxb6 Rc2 27.Rd1 Nfxe5 28.Nxe5
+Nxe5 1/2-1/2

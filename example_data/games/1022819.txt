@@ -1,0 +1,19 @@
+[Event "Kischinev"]
+[Site "Kischinev"]
+[Date "1964.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Alexander Arulaid"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3
+O-O 8.c3 d6 9.d4 Bg4 10.Rd1 Qc8 11.a4 Na5 12.Bc2 b4 13.h3 Bh5
+14.dxe5 dxe5 15.Be3 c5 16.Nbd2 b3 17.Nxb3 Nxb3 18.Bxb3 Rb8
+19.Bc4 Nxe4 20.g4 Bxg4 21.hxg4 Qxg4+ 22.Kh1 Rxb2 23.Qxb2 Qxf3+
+24.Kg1 Qg4+ 25.Kf1 Bh4 26.Bd5 Qh3+ 27.Kg1 Qg4+ 28.Kh2 Qh5
+29.Kg2 Qg4+ 30.Kf1 Qh3+ 31.Ke2 Qg4+ 32.Kf1 1/2-1/2

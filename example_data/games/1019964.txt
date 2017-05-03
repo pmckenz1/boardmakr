@@ -1,0 +1,17 @@
+[Event "Buenos Aires (Clarin)"]
+[Site "Buenos Aires ARG"]
+[Date "1980.10.17"]
+[EventDate "1980.10.15"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ulf Andersson"]
+[Black "Miguel Najdorf"]
+[ECO "E92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.dxe5
+dxe5 8.Qxd8 Rxd8 9.Bg5 Re8 10.Nd5 Nxd5 11.cxd5 c6 12.Bc4 cxd5
+13.Bxd5 Nd7 14.Nd2 Nb6 15.Bb3 Be6 16.Ke2 Bxb3 17.axb3 Nd7
+18.Be3 1/2-1/2

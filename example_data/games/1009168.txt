@@ -1,0 +1,30 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Jesse Kraai"]
+[Black "Joseph G Gallagher"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "168"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Na6
+7. O-O e5 8. d5 Nc5 9. Bg5 h6 10. Bxf6 Qxf6 11. b4 Nd7 12. Rc1
+Qd8 13. Nd2 h5 14. Nb3 Bh6 15. Rc2 Nf6 16. c5 Ng4 17. h3 Nf6
+18. Na5 Ne8 19. Bb5 Ng7 20. Nc4 a6 21. Ba4 h4 22. Ne2 Nh5
+23. Rc3 b5 24. cxb6 cxb6 25. Bc6 Ra7 26. a4 f5 27. exf5 gxf5
+28. Kh1 Rg7 29. Rg1 Nf6 30. Qe1 Ne4 31. Rc2 Kh8 32. Nc3 Nxc3
+33. Rxc3 Rfg8 34. f4 Bxf4 35. Nxb6 Qf6 36. Nxc8 Rxc8 37. b5
+axb5 38. axb5 Rb8 39. Rb3 Rg3 40. Rxg3 hxg3 41. Qe2 Qg5
+42. Rf1 Be3 43. Bd7 f4 44. Qd3 Kg7 45. Bf5 Rh8 46. Be4 Qg4
+47. Bh7 Qg5 48. Be4 Rh4 49. Rb1 Bb6 50. Qf1 f3 51. Bxf3 Qd2
+52. Qe2 Qxe2 53. Bxe2 Rd4 54. Rb3 Re4 55. Rxg3+ Kh8 56. Bf1
+Re1 57. Rf3 e4 58. Rf5 e3 59. Kh2 e2 60. Bxe2 Rxe2 61. h4 Rb2
+62. h5 Bd4 63. Kh3 Be5 64. b6 Kg7 65. Kh4 Bf6+ 66. Kh3 Rxb6
+67. g4 Rb3+ 68. Kg2 Rd3 69. g5 Be5 70. Rf3 Rxd5 71. Kh3 Rd4
+72. Rb3 Rf4 73. Rb7+ Rf7 74. Rb5 Rf5 75. Kh4 Rf4+ 76. Kh3 Kf7
+77. Rb7+ Ke6 78. g6 Rf3+ 79. Kh4 Kf5 80. Rb5 Rf4+ 81. Kh3 Kg5
+82. g7 Rh4+ 83. Kg2 Rg4+ 84. Kh3 Kxh5 0-1

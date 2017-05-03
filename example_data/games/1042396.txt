@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1934.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Salo Landau"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. e4 Nc6
+7. Nc2 d6 8. Be2 Nd7 9. Qd2 O-O 10. O-O Nc5 11. f3 Qa5 12. b4
+Nxb4 13. Nd5 Bxa1 14. Nxa1 Nca6 15. Nxe7+ Kh8 16. Bb2+ f6
+17. Nxg6+ hxg6 18. Qh6+ Kg8 19. Qxg6+ Kh8 20. Bxf6+ Rxf6
+21. Qxf6+ Kg8 22. f4 Nc6 23. Rf3 Qb6+ 24. c5 Qxc5+ 25. Kh1
+Qc1+ 26. Bf1 Bg4 27. Nb3 Qb1 28. Qg6+ Kf8 29. Qxg4 1-0

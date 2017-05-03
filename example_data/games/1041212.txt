@@ -1,0 +1,17 @@
+[Event "Buenos Aires UARGO"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.22"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Hector Decio Rossetto"]
+[Black "Erich Eliskases"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.h3 O-O 9.c3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4
+Bb7 14.d5 Bc8 15.a4 Bd7 16.b4 Rfc8 17.Ra2 Nc4 18.a5 Nxd2
+19.Bxd2 Ne8 20.Bd3 g6 21.Ra3 Ng7 22.Kh2 1/2-1/2

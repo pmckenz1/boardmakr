@@ -1,0 +1,23 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.28"]
+[EventDate "1926.03.07"]
+[Round "16"]
+[Result "1-0"]
+[White "Hans Kmoch"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "E14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 g6 6. Nc3 Bg7
+7. O-O O-O 8. b3 d6 9. Bb2 Nbd7 10. Qe2 Re8 11. e4 Nh5 12. Qd2
+e5 13. d5 Nc5 14. Bc2 a5 15. g3 Bc8 16. Kg2 Rf8 17. Ng1 f5
+18. f3 Bd7 19. a3 Qe7 20. b4 Nb7 21. Nce2 Nf6 22. h3 Rf7
+23. Rae1 Qf8 24. Bd3 Bh6 25. Qc2 Nh5 26. Bc1 axb4 27. axb4 Ra4
+28. Qb2 g5 29. exf5 Qa8 30. Nc3 Ra7 31. Nge2 Bg7 32. Bxg5 Bxf5
+33. Bxf5 Rxf5 34. Be3 Rf8 35. Ra1 Rxa1 36. Qxa1 Qc8 37. Ne4
+Nd8 38. g4 Nf4+ 39. Nxf4 exf4 40. Bd4 Qd7 41. Bxg7 Qxg7
+42. Qxg7+ Kxg7 43. Ra1 Nf7 44. Ra7 Rc8 45. c5 bxc5 46. bxc5
+dxc5 47. d6 cxd6 48. Rxf7+ 1-0

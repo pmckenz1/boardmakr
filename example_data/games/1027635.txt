@@ -1,0 +1,20 @@
+[Event "Sousse Interzonal"]
+[Site "Sousse TUN"]
+[Date "1967.11.04"]
+[EventDate "1967.??.??"]
+[Round "15"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Ortvin Sarapu"]
+[ECO "B31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 d6 6.d4 cxd4 7.cxd4
+Bd7 8.Nc3 a6 9.Ba4 Nf6 10.h3 b5 11.Bb3 b4 12.Nd5 Nxe4 13.Re1
+Nf6 14.Nxf6+ Bxf6 15.Bh6 Qb6 16.Qe2 e6 17.d5 Ne5 18.Rad1 O-O-O
+19.Nxe5 Bxe5 20.Qf3 Kb8 21.Qxf7 exd5 22.Bxd5 Bc6 23.Bxc6 Qxc6
+24.Qb3 Qb7 25.Rd5 Rhe8 26.Red1 Rc8 27.Be3 Ka8 28.a3 bxa3
+29.Qxa3 Bxb2 30.Qxd6 Bc3 31.Qa3 Bb4 32.Qa4 Re7 33.Rb1 Rec7
+34.Rxb4 Rc1+ 1-0

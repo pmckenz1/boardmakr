@@ -1,0 +1,17 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.03.01"]
+[EventDate "2000.02.26"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Tze-Meng Mok"]
+[Black "Hafizulhelmi Mas"]
+[ECO "B90"]
+[WhiteElo "2270"]
+[BlackElo "2413"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. f4 Nc5 9. f5 Be7 10. Qf3 O-O 11. O-O Qc7
+12. Be3 b5 13. a3 Rb8 14. Rad1 b4 15. axb4 Rxb4 16. fxe6 fxe6
+17. Nf5 Nxb3 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Dirk Bleijkmans"]
+[Black "Ernst Heilmann"]
+[ECO "D53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 c6
+7. cxd5 exd5 8. Bd3 Nh5 9. Bxe7 Qxe7 10. O-O O-O 11. Qc2 Ndf6
+12. Ne5 g6 13. Ne2 Ng4 14. Nf3 f5 15. h3 Nh6 16. Nf4 Nf6
+17. Qe2 Ne4 18. h4 Qf6 19. g3 Nf7 20. Kg2 Kg7 21. Rh1 Bd7
+22. Nd2 Rae8 23. f3 Ned6 24. Rae1 Re7 25. Qf2 Rfe8 26. b3 Nd8
+27. Re2 Ne6 28. Nxe6+ Rxe6 29. Rhe1 R6e7 30. Nf1 Bc8 31. Rc1
+Bd7 32. Rec2 Bc8 33. b4 Be6 34. a4 a6 35. Rc5 Rf7 36. b5 axb5
+37. axb5 Nxb5 38. Bxb5 cxb5 39. Qb2 Qd8 40. Rxb5 Ree7 41. Rbc5
+Rc7 42. Rxc7 Rxc7 43. Rb1 Qd6 44. Nd2 Bd7 45. Kf2 Ba4 46. Qb6
+Qd7 47. Rb4 Bc2 48. Rb5 Qc6 49. Qa5 Rd7 50. Rc5 Qa4 51. Qc3
+Bd1 52. Ra5 Qc2 53. Qxc2 Bxc2 54. Ke2 Rd6 55. Rb5 Rd7 56. Nb3
+Bxb3 57. Rxb3 Kf6 58. Rb6+ Ke7 59. Kd3 Kd8 60. Kc3 Re7 61. Kd3
+Kc7 62. Rf6 Kd7 63. h5 Re6 64. Rf7+ Re7 65. hxg6 hxg6 66. Rf8
+Re8 67. Rf7+ Re7 68. Rf8 1/2-1/2

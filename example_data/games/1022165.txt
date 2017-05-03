@@ -1,0 +1,23 @@
+[Event "Novosibirsk (Russia)"]
+[Site "Novosibirsk (Russia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Felix Levin"]
+[ECO "E38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3
+Qc7 8.Be2 a6 9.O-O Be7 10.e4 d6 11.Bf4 Nbd7 12.h3 b6 13.Rad1
+Bb7 14.Rd2 O-O 15.Rfd1 Ne5 16.Nxe5 dxe5 17.Be3 Rfd8 18.Rxd8+
+Bxd8 19.b4 Be7 20.a3 Bc6 21.Bf3 Be8 22.Qb3 Qc6 23.Be2 h6
+24.Rc1 Nd7 25.c5 bxc5 26.Na4 Rb8 27.Qc2 c4 28.Bxc4 Nf6 29.Bc5
+Bd8 30.Nc3 Nd7 31.Na4 Nf6 32.Nc3 Nd7 33.Na4 Nxc5 34.Nxc5 Bg5
+35.Rd1 a5 36.Qc3 axb4 37.Qxe5 Rb6 38.axb4 Rxb4 39.Rd6 Qa8
+40.Nxe6 Bf6 41.Qc5 Qa1+ 42.Bf1 Rb1 43.Qc4 fxe6 44.Rxe6 Bf7
+45.Re8+ Kh7 46.Qxf7 Rxf1+ 47.Kh2 Rxf2 48.Qg8+ Kg6 49.Qe6 Rf1
+0-1

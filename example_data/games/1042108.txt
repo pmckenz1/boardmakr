@@ -1,0 +1,24 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1923.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Reurt Meijer"]
+[Black "Max Euwe"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6
+7. Be3 Be7 8. O-O O-O 9. Kh1 Bd7 10. f4 Qc7 11. Bf3 Rac8
+12. Nde2 Na5 13. b3 b5 14. a3 Rfd8 15. Qd3 Rb8 16. a4 bxa4
+17. Nxa4 Bb5 18. Qc3 Rdc8 19. Qxc7 Rxc7 20. Nac3 Rxc3 21. Nxc3
+Bxf1 22. Rxa5 d5 23. Rxa7 Bb4 24. Na2 dxe4 25. Bxe4 g5 26. Ra8
+Bd6 27. Rxb8+ Bxb8 28. Bf3 gxf4 29. Bf2 e5 30. Nc3 Kg7 31. g3
+fxg3 32. hxg3 Bh3 33. Ne4 Bf5 34. Nxf6 Kxf6 35. c4 Bc2 36. b4
+e4 37. Bg2 Ke6 38. Kh2 Be5 39. Be1 Bd3 40. Bh3+ f5 41. c5 Bd4
+42. Kg2 Be2 43. Bd2 Bf3+ 44. Kf1 e3 45. Bc1 Ke5 46. b5 Bxc5
+47. Bb2+ Ke4 48. Bc3 Bd6 49. Be1 e2+ 50. Kg1 Bc5+ 51. Kh2 Kd4
+52. Bf2+ Kd3 0-1

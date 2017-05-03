@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.18"]
+[EventDate "1900.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Manuel Sterling"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 d5 2.c4 Nf6 3.Nc3 e6 4.Nf3 Be7 5.Bf4 c6 6.e3 O-O 7.Bd3
+Nbd7 8.O-O Re8 9.Qe2 Nf8 10.Ne5 N6d7 11.Rad1 Nxe5 12.dxe5 f5
+13.g4 Ng6 14.gxf5 exf5 15.cxd5 Bb4 16.dxc6 Kh8 17.Bxf5 Nxf4
+18.exf4 Qh4 19.Bxc8 Raxc8 20.cxb7 Rc6 21.Nd5 Qh3 22.Rd3 Rg6+
+23.Rg3 Rxg3+ 24.fxg3 Bc5+ 25.Kh1 Rd8 26.Rc1 Bf8 27.g4 1-0

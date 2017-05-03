@@ -1,0 +1,20 @@
+[Event "Berlin consult"]
+[Site "Berlin consult"]
+[Date "1921.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wegemund / Brennert"]
+[Black "Alexander Alekhine"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 d5
+7. Nd2 e5 8. N4f3 h6 9. c3 Be7 10. O-O O-O 11. Qe2 Be6
+12. Rfd1 Qc7 13. exd5 Nxd5 14. Ne4 Na5 15. Bd2 Rae8 16. Ng3
+Bd6 17. Nf5 Bxf5 18. Bxf5 e4 19. Nd4 Bxh2+ 20. Kh1 Bf4 21. c4
+Nxc4 22. Rac1 b5 23. b3 e3 24. fxe3 Ndxe3 25. Bxe3 Bxe3
+26. Nxb5 Qg3 27. Qxc4 Bf4 28. Kg1 Re5 29. Nd6 g6 30. Bh3 Be3+
+31. Kh1 Rh5 0-1

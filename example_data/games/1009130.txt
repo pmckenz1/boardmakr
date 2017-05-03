@@ -1,0 +1,25 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Ulrich Schulze"]
+[Black "Jeroen Bosch"]
+[ECO "A88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. c4 d6
+7. Nc3 c6 8. b3 Na6 9. Bb2 Nc7 10. Qd3 Rb8 11. e4 fxe4
+12. Nxe4 Bf5 13. Nxf6+ Bxf6 14. Qe2 Qd7 15. Rfe1 Bg4 16. Rad1
+b5 17. Rd3 bxc4 18. bxc4 c5 19. Ba1 Ne6 20. dxc5 Nxc5 21. Re3
+Bxa1 22. Rxa1 Qf5 23. Rd1 Qf6 24. h3 Rb2 25. Rd2 Rxd2 26. Qxd2
+Be6 27. Nd4 Bxc4 28. Nc6 e5 29. Nxa7 Qe6 30. Nb5 e4 31. Nxd6
+Bd3 32. Nxe4 Bxe4 33. Bxe4 Nxe4 34. Qe1 Re8 35. f3 Qxa2
+36. Rxe4 Rb8 37. Re8+ Rxe8 38. Qxe8+ Kg7 39. Qe7+ Kg8 40. Qe8+
+Kg7 41. Qe5+ Kg8 42. h4 h5 43. Qe4 Kg7 44. Qd4+ Kg8 45. Qf2
+Qd5 46. Kg2 Kg7 47. Qe3 Qa2+ 48. Kh3 Qb1 49. g4 hxg4+ 50. fxg4
+Qf1+ 51. Kg3 Qb1 52. Qe5+ Kf7 53. Qd5+ Kg7 54. Qd4+ Kh7
+1/2-1/2

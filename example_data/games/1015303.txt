@@ -1,0 +1,30 @@
+[Event "Genting Highlands (Malaysia)"]
+[Site "Zt"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Naum Kagan"]
+[Black "Utut Adianto"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "173"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 g6 4.c4 Bg7 5.Nc3 O-O 6.cxd5 Nxd5 7.Bc4
+Nb6 8.Be2 c5 9.dxc5 N6d7 10.Ne4 Na6 11.Qc2 Ndxc5 12.Nxc5 Qa5+
+13.Bd2 Qxc5 14.Qxc5 Nxc5 15.Nd4 Ne6 16.Nb3 Bxb2 17.Rb1 Bf6
+18.Na5 Nc5 19.O-O Bf5 20.Rbc1 b6 21.Nb3 Rfd8 22.Bc3 Nxb3
+23.axb3 Bxc3 24.Rxc3 Rac8 25.Rxc8 Rxc8 26.Bc4 a5 27.f3 a4
+28.e4 Bd7 29.Rd1 Be8 30.Kf2 b5 31.Bd3 a3 32.b4 Rc3 33.Ke3 Rb3
+34.Ra1 Bd7 35.Kd2 Kg7 36.Bc2 Rxb4 37.Rxa3 Rd4+ 38.Ke3 e5
+39.Ra6 Rc4 40.Kd2 Be6 41.Rb6 b4 42.h4 h5 43.g3 Bh3 44.Rb7 Bc8
+45.Rb8 Be6 46.Rb5 Kf6 47.f4 exf4 48.gxf4 b3 49.Bd3 Ra4 50.Kc3
+Ra3 51.Kd4 Ra1 52.f5 gxf5 53.exf5 Ra4+ 54.Kc3 Bc8 55.Rc5 Bb7
+56.Bc4 Be4 57.Rc7 Bxf5 58.Kxb3 Ra1 59.Rxf7+ Ke5 60.Bd5 Bg6
+61.Rd7 Bf5 62.Rd8 Rd1 63.Re8+ Kd4 64.Bf7 Rb1+ 65.Ka2 Rb7
+66.Bxh5 Kc3 67.Re3+ Bd3 68.Rxd3+ Kxd3 69.Bg6+ Kc3 70.h5 Rb6
+71.Bf7 Rb2+ 72.Ka1 Rf2 73.Bg8 Rf8 74.Bd5 Rf5 75.Be4 Ra5+
+76.Kb1 Rxh5 77.Ka2 Ra5+ 78.Kb1 Ra6 79.Bf5 Rf6 80.Bh7 Rf8
+81.Ka2 Rf7 82.Bg6 Ra7+ 83.Kb1 Rb7+ 84.Ka2 Rb5 85.Bh7 Rb2+
+86.Ka1 Kb3 87.Bg8+ 1/2-1/2

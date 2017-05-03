@@ -1,0 +1,32 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.04.20"]
+[EventDate "1925.04.16"]
+[Round "4"]
+[Result "0-1"]
+[White "George Alan Thomas"]
+[Black "Ernst Gruenfeld"]
+[ECO "C98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "200"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.d5 Nd8
+14.Nf1 Ne8 15.a4 Rb8 16.axb5 axb5 17.g4 g6 18.Ng3 Ng7 19.Kh2
+f6 20.Rg1 Nf7 21.Qf1 Bd7 22.Qg2 Ra8 23.Be3 Kh8 24.Nd2 Rfb8
+25.Qf3 Qc8 26.Qe2 Rxa1 27.Rxa1 Ra8 28.Rxa8 Qxa8 29.Qf1 Kg8
+30.Bd3 Qa4 31.Qb1 Ne8 32.Qc1 Nc7 33.Nf3 Qa8 34.Ne1 Bf8 35.Nc2
+Be7 36.Qa1 Qb7 37.Qc1 Bd8 38.Qf1 c4 39.Be2 Na6 40.Qb1 Nc5
+41.Na1 Bb6 42.Kg1 Qa7 43.b4 Na4 44.Bxb6 Qxb6 45.Qe1 Qa7 46.Nc2
+Qa8 47.Ne3 Qf8 48.h4 Qh6 49.Ng2 Qf8 50.Qc1 Qa8 51.Kf1 Nb6
+52.Qb2 Qa4 53.Ke1 Qa8 54.Qc1 Qa2 55.Ne3 Kh8 56.Nd1 Kg7 57.Qe3
+Nc8 58.Qd2 Qa1 59.Qe3 Qa2 60.Qd2 Qa7 61.Ne3 Qa1+ 62.Nd1 Ne7
+63.Qe3 Qa6 64.Kd2 Ng8 65.Ke1 Ngh6 66.f3 Ng8 67.Qg1 Ne7 68.Qe3
+Nc8 69.Qf2 Ne7 70.Qe3 Kf8 71.Qg1 Qb7 72.Qg2 Kg8 73.Qg1 Kh8
+74.Qg2 Qb6 75.Qf2 Qc7 76.Qg2 Qd8 77.Qf2 Nc8 78.Qg1 f5 79.Qh2
+fxg4 80.fxg4 Qf6 81.Nf1 Qf4 82.Qg2 Kg7 83.Nde3 Ne7 84.Qf3 g5
+85.h5 Nh6 86.Ng3 Neg8 87.Nh1 Qh2 88.Kd2 Nf6 89.Nf2 Qxf2
+90.Qxf2 Nxe4+ 91.Ke1 Nxf2 92.Kxf2 e4 93.Bxc4 bxc4 94.Nxc4
+Nxg4+ 95.Ke1 Kf6 96.Nxd6 Ke5 97.Nf7+ Kxd5 98.Nxg5 h6 99.Nf7
+Bb5 100.Nd8 e3 0-1

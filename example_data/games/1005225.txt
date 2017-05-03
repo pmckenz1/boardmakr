@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Yelena Dembo"]
+[Black "Lajos Dekany"]
+[ECO "B57"]
+[WhiteElo "2180"]
+[BlackElo "2185"]
+[PlyCount "52"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4
+Qb6 7. Nb3 e6 8. O-O a6 9. Be3 Qc7 10. Bd3 b5 11. a3 Bb7
+12. Kh1 Be7 13. f4 Rd8 14. Qf3 h5 15. Rae1 Kf8 16. Nd4 h4
+17. Qh3 Kg8 18. Kg1 Nxd4 19. Bxd4 e5 20. Be3 exf4 21. Bxf4 Bc8
+22. Qf3 Be6 23. Be3 Qb7 24. Bd4 Rh6 25. Be3 Rh8 26. Bd4 Rh6
+1/2-1/2

@@ -1,0 +1,25 @@
+[Event "It (cat.11)"]
+[Site "Rishon LeZion ISR"]
+[Date "1994.11.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Zvulon Gofshtein"]
+[Black "Nigel Rodney Davies"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Be6 10.d4 Bxb3 11.axb3 exd4 12.cxd4 Nb4 13.d5
+c5 14.dxc6 d5 15.e5 Ne4 16.Nc3 Nxc3 17.bxc3 Nxc6 18.Qd3 Re8
+19.e6 fxe6 20.Rxe6 Qd7 21.Re2 b4 22.c4 Bf6 23.Raa2 d4 24.Bg5
+a5 25.Bxf6 gxf6 26.Nh4 Ne5 27.Qg3+ Kh8 28.Qf4 d3 29.Re4 Qc6
+30.Rd4 Rg8 31.Kh2 a4 32.bxa4 Rad8 33.Rd5 Rde8 34.Rd2 b3 35.Nf3
+Nxc4 36.R2xd3 b2 37.Rb5 Ne5 38.Rdb3 Rxg2+ 39.Kxg2 Rg8+ 40.Kh2
+b1=Q 41.Rxb1 Nxf3+ 42.Kh1 Nd4 43.f3 Ne2 44.Rb6 Qxb6 45.Rxb6
+Nxf4 46.Rxf6 Nh5 47.Rb6 Rc8 48.a5 Rc2 49.a6 Ra2 50.Kg1 Ng3
+51.Rd6 Kg7 52.Rb6 h6 53.h4 Nf5 54.h5 Nd4 55.Rg6+ Kh7 56.Rf6
+Kg7 57.Rg6+ Kh7 58.Rf6 Ne2+ 59.Kf1 Ng3+ 60.Ke1 Nxh5 61.Rd6 Ng3
+62.Rd7+ Kg6 63.a7 Nf5 64.f4 h5 65.Rb7 h4 66.Rb2 0-1

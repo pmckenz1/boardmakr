@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki FIN"]
+[Date "1984.06.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Timo Pirttimaki"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 c5 2.d3 Nc6 3.f4 e6 4.Nf3 d5 5.Be2 dxe4 6.dxe4 Qxd1+
+7.Bxd1 b6 8.c3 Bb7 9.Nbd2 Bd6 10.g3 Bc7 11.O-O Nf6 12.Re1 O-O
+13.Bc2 Rfd8 14.e5 Nd5 15.Ne4 Na5 16.Kg2 Bc6 17.b3 b5 18.Bd2
+Nb7 19.Re2 Bb6 20.Rae1 a5 21.Rb1 Rd7 22.a3 Ba7 23.Be1 c4
+24.Bf2 cxb3 25.Bxb3 Ne3+ 26.Bxe3 Bxe4 27.Rbb2 Rd3 28.Bc2 Bxf3+
+29.Kxf3 Rxc3 30.Be4 Rb8 31.Rxb5 Nc5 32.Rxa5 Nxe4 33.Rxa7 f5
+34.exf6 Nxf6 35.Kg2 Rbb3 36.Bd4 Rxa3 37.Re7 Rc6 38.Rb2 Ra8 1-0

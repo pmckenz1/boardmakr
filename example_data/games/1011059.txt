@@ -1,0 +1,19 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Helge Andreas Nordahl"]
+[Black "Torbjorn Ringdal Hansen"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Nge2 Nbd7
+7. Ng3 h5 8. Bd3 g6 9. O-O h4 10. Nge2 Nh5 11. Be3 g5 12. Bc2
+Nf4 13. Ba4 Kf8 14. a3 Nb6 15. Bb3 Bd7 16. Nc1 Bf6 17. Nd3 Rc8
+18. Rc1 Ke7 19. Ba2 Na8 20. b4 b6 21. Rb1 a6 22. Bb3 Kf8
+23. Qc2 Kg7 24. bxc5 bxc5 25. Ba4 Qc7 26. Bxd7 Qxd7 27. Rb3
+Nxg2 1/2-1/2

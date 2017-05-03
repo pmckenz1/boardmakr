@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Vladimir P Malaniuk"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Nc3
+Be7 8.d3 d6 9.a4 Na5 10.Ba2 b4 11.Ne2 Rb8 12.Ng3 O-O 13.Nf5
+Bc8 14.Ne3 Be6 15.Nd2 Bxa2 1/2-1/2

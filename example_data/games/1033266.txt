@@ -1,0 +1,23 @@
+[Event "7, Reggio Emilia /91 C (10s)"]
+[Site "7, Reggio Emilia /91 C Hiarcs 7.32 (10s)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Braga"]
+[Black "Bruno Belotti"]
+[ECO "E76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5
+7. dxc5 Qa5 8. Bd3 Qxc5 9. Qe2 Nc6 10. Be3 Qa5 11. Rc1 Bg4
+12. O-O Nd7 13. Qd2 Nc5 14. Bb1 Bxf3 15. Rxf3 Qb4 16. Rf2 Qxc4
+17. Nd5 Qa4 18. b3 Qa3 19. e5 Na6 20. e6 fxe6 21. Rc4 Qb2
+22. Nxe7+ Nxe7 23. Qxb2 Bxb2 24. Rxb2 Nd5 25. Bd2 Nc5 26. b4
+Na4 27. Rbc2 Nab6 28. Re4 Kf7 29. b5 Rac8 30. a4 Nf6 31. Rb4
+Rxc2 32. Bxc2 Rc8 33. Bd3 d5 34. h3 Nc4 35. Be1 b6 36. Kf2 Nd6
+37. Ke2 Nfe4 38. Ke3 Rc1 39. Rb1 Nf5+ 40. Ke2 Nd4+ 41. Ke3
+Nf5+ 42. Ke2 Rxb1 43. Bxb1 Nc5 44. g4 Nd4+ 45. Ke3 Ndb3
+46. Bc2 d4+ 47. Ke2 d3+ 48. Bxd3 Nc1+ 0-1

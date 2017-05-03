@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "13"]
+[Result "1-0"]
+[White "David Przepiorka"]
+[Black "Lajos Asztalos"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 e6 5. Nbd2 Ne4 6. Bd3 f5
+7. Ne5 Qf6 8. O-O Nd7 9. f4 Bd6 10. c5 Bc7 11. b4 Nxe5
+12. fxe5 Qh6 13. Nxe4 dxe4 14. Bc4 Bd7 15. a4 O-O 16. Bd2 Kh8
+17. Qe2 g5 18. b5 Rad8 19. b6 axb6 20. cxb6 Bb8 21. Bb4 Rf7
+22. Bc5 Qg6 23. a5 f4 24. Rae1 Rg8 25. exf4 gxf4 26. Qxe4 Qh6
+27. Rf3 Qg5 28. Bf1 Be8 29. Re2 Rf5 30. Ref2 1-0

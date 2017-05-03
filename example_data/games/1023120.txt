@@ -1,0 +1,21 @@
+[Event "6, Leningrad URS ch"]
+[Site "6, Leningrad URS ch"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Gennadi Kuzmin"]
+[Black "Vladimir Bagirov"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Nf3 Nc6
+7.d4 Bg4 8.Bc4 e6 9.O-O Be7 10.h3 Bh5 11.Re1 O-O 12.Bxd5 exd5
+13.g4 Bg6 14.Ne5 Bb4 15.Bf4 Nxe5 16.Rxe5 Bxc3 17.bxc3 Re8
+18.Qe2 f6 19.Rxe8+ Qxe8 20.Re1 Qxe2 21.Rxe2 Rc8 22.Re7 Rxc3
+23.Rxb7 Rxh3 24.Rb3 Rxb3 25.axb3 Bc2 26.b4 g5 27.Bb8 Bd1
+28.Bxa7 Bxg4 29.b5 Kf7 30.b6 Bc8 31.Bb8 Kg6 32.Bc7 f5 33.f4 g4
+34.Kf2 Kf7 35.Bd8 Ke6 36.Bh4 Kd7 37.Ke3 Kc6 38.Kd3 Ba6+ 39.Kc3
+1/2-1/2

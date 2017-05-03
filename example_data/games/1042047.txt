@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1922.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Willem A T Schelfhout"]
+[Black "Max Euwe"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. Nc3 d6 5. Qc2 Nbd7 6. e4 e5
+7. d5 g6 8. h3 Bg7 9. Be3 a5 10. Be2 Bc8 11. Rc1 Nc5 12. a3 a4
+13. Nd2 Bd7 14. g4 O-O 15. f3 Ne8 16. h4 f5 17. gxf5 gxf5
+18. Bg5 Nf6 19. exf5 h6 20. Be3 Nh5 21. Nce4 Bxf5 22. Qc3 Nf4
+23. Bxf4 exf4 24. Qb4 Qe7 25. Kf2 Bd4+ 26. Kg2 Nxe4 27. Nxe4
+Bxe4 28. fxe4 f3+ 29. Bxf3 Qg7+ 30. Kh2 Be5+ 0-1

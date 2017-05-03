@@ -1,0 +1,24 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Oleg Gerasimchuk"]
+[Black "Vadim Malakhatko"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6
+bxc6 7. O-O d5 8. Nd2 Be7 9. Re1 O-O 10. c4 a5 11. Qc2 g6
+12. e5 Nd7 13. Nf3 Ba6 14. Bh6 Re8 15. Rad1 Qb6 16. h4 Rab8
+17. Bc1 Nc5 18. Bf1 Ne4 19. Bd3 Nc5 20. Bf1 Red8 21. h5 dxc4
+22. Bxc4 Bxc4 23. Qxc4 Rd5 24. hxg6 hxg6 25. Bg5 Bxg5 26. Nxg5
+Qb4 27. Qe2 Qf4 28. Rxd5 cxd5 29. Nf3 Rb4 30. b3 Re4 31. Qd1
+Nd7 32. Rxe4 Qxe4 33. Qd2 Nxe5 34. Nxe5 Qxe5 35. Qxa5 Qa1+
+36. Kh2 Qe5+ 37. Kg1 Qa1+ 38. Kh2 d4 39. Qd8+ Kg7 40. b4 Qb2
+41. b5 Qxf2 42. b6 Qf4+ 43. Kg1 Qe3+ 44. Kh2 Qe5+ 45. Kg1 d3
+46. b7 Qe3+ 47. Kh1 Qe1+ 48. Kh2 Qe5+ 49. Kh1 Qh5+ 50. Kg1
+Qc5+ 51. Kh2 Qe5+ 1/2-1/2

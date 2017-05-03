@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Maxim Dlugy"]
+[ECO "D22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.a4 Nf6 7.Nc3
+Nc6 8.O-O Qc7 9.Qe2 Be7 10.Rd1 O-O 11.h3 Rd8 12.b3 Nb4 13.Bb2
+Bd7 14.dxc5 Bxc5 15.Ng5 Bd6 16.Rac1 Bc6 17.Nf3 Qa5 18.Nd4 Qe5
+19.f4 Qa5 20.Nxc6 Nxc6 21.Bd3 Qb6 22.Kh1 Qxb3 23.Rb1 Qb6
+24.Nd5 Nxd5 25.Bxh7+ Kxh7 26.Qh5+ Kg8 27.Bxg7 Kxg7 28.Rxb6
+Nxb6 29.Qg5+ Kf8 30.e4 Be7 31.Qh6+ Ke8 32.Rb1 Nxa4 33.f5 Nc5
+34.fxe6 fxe6 35.h4 Kd7 36.h5 Rh8 37.Qd2+ Kc7 38.g4 Rag8 0-1

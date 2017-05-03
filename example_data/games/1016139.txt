@@ -1,0 +1,21 @@
+[Event "It (cat.10)"]
+[Site "Biel SUI"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Bela Toth"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4
+7.Qb3 a5 8.O-O O-O 9.d4 exd4 10.Nb5 d5 11.Bf4 c6 12.Nxd4 dxc4
+13.Qxc4 Bg4 14.Bxg4 Nxg4 15.a3 Be7 16.Ne6 fxe6 17.Qxe6+ Kh8
+18.Rad1 Qe8 19.Qxg4 Bf6 20.Rd2 Qe4 21.h3 Rfd8 22.Rxd8+ Rxd8
+23.b3 Qd5 24.Rb1 Qe4 25.Re1 a4 26.bxa4 Qxa4 27.Qf3 Be7 28.Rb1
+Rd1+ 29.Rxd1 Qxd1+ 30.Kg2 Qa1 31.Qg4 Qxa3 32.Qc8+ Bf8 33.Qxb7
+Qc5 34.Qa8 Kg8 35.e4 h6 36.Qe8 Kh7 37.h4 Be7 38.h5 Bf6 39.Bxh6
+gxh6 40.Qg6+ Kh8 41.Qxf6+ 1-0

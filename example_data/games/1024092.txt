@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1969.09.22"]
+[EventDate "1969.??.??"]
+[Round "11"]
+[Result "1-0"]
+[White "Alexander Zaitsev"]
+[Black "Yuri Balashov"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1
+c6 8.a3 a6 9.h3 h6 10.Bf4 dxc4 11.Bxc4 b5 12.Ba2 Bb7 13.e4 c5
+14.e5 Ne4 15.Bb1 f5 16.exf6 Ndxf6 17.Be5 cxd4 18.Nxe4 Nxe4
+19.Rc7 Bd5 20.O-O Bf6 21.Bh2 e5 22.Rc1 Bg5 23.Nxg5 Qxg5 24.Qc2
+Rxf2 25.Rxf2 Nxf2 26.Qh7+ Kf7 27.Rc7+ Kf6 28.Bg3 Nxh3+ 29.Kh2
+Nf4 30.Qc2 Qh5+ 31.Kg1 Bxg2 32.Bh4+ Ke6 33.Ba2+ Bd5 34.Bxd5+
+1-0

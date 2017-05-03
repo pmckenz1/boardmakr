@@ -1,0 +1,19 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Janos Balogh"]
+[Black "Frigyes Meller"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d6 5. d4 exd4 6. cxd4
+Bb4+ 7. Nc3 Bd7 8. O-O Nge7 9. Bg5 Bxc3 10. bxc3 h6 11. Bh4 a6
+12. Bd3 g5 13. Bg3 Bg4 14. h3 Bh5 15. Bh2 f6 16. Re1 Rb8
+17. Bc4 Bf7 18. Bxf7+ Kxf7 19. Qb3+ Kg7 20. e5 dxe5 21. dxe5
+f5 22. Rad1 Qg8 23. e6 f4 24. Rd7 Qc8 25. Nd4 Kf6 26. Qd1 Re8
+27. Qh5 Ne5 28. Qxh6+ N5g6 29. h4 1-0

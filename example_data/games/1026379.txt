@@ -1,0 +1,17 @@
+[Event "Kolisch Memorial"]
+[Site "Vienna AUT"]
+[Date "1890.02.26"]
+[EventDate "1890.??.??"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Johann Hermann Bauer"]
+[Black "Berthold Englisch"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3
+O-O 8.h3 h6 9.Be3 b5 10.Bb3 d5 11.Nbd2 Be6 12.Re1 Qd7 13.exd5
+Nxd5 14.d4 exd4 15.Bxd4 Rfe8 16.Ne4 Nf4 17.Ne5 Bxb3 18.axb3
+Nxe5 19.Bxe5 Qxd1 20.Raxd1 Ne6 1/2-1/2

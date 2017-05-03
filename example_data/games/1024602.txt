@@ -1,0 +1,24 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1980.03.24"]
+[EventDate "1980.03.16"]
+[Round "7"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Eugenio Torre"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.a4 Na5 9.Ba2 c5 10.c3 c4 11.d3 Bd7 12.Na3 O-O 13.Bg5 Qc7
+14.axb5 axb5 15.Qe2 Rfc8 16.Nd2 cxd3 17.Qxd3 Qb6 18.Nc2 Nb7
+19.Bxf6 Bxf6 20.Nb4 Nc5 21.Qe2 Ne6 22.Nf1 Bg5 23.Rad1 Rd8
+24.g3 Bh6 25.h4 Nc7 26.Qh5 Be6 27.Bd5 Nxd5 28.Nxd5 Qb7 29.Nf6+
+Kh8 30.Ne3 Qe7 31.Nfd5 Qf8 32.Nf5 g6 33.Qxh6 gxf5 34.Qxf8+
+Rxf8 35.Nc7 Ra2 36.Rxd6 Rxb2 37.exf5 Bxf5 38.Rxe5 Bg4 39.Kg2
+b4 40.Rd4 Bc8 41.Rxb4 Rc2 42.c4 Rd8 43.Rd5 Rg8 44.c5 Bg4
+45.Rf4 Bc8 46.Rb4 Rf8 47.Rb6 Be6 48.Nxe6 fxe6 49.Rxe6 Rcxf2+
+50.Kh3 Rg8 51.Re3 Rc2 52.Rh5 Rg6 53.Re8+ Kg7 54.Re7+ Kf6
+55.Rhxh7 1-0

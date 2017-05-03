@@ -1,0 +1,20 @@
+[Event "Hastings 41/406"]
+[Site "Hastings ENG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Alon Greenfeld"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.Bc2 Rc8 13.a3
+Nb8 14.a4 Nbd7 15.Bd3 c6 16.b3 Qb6 17.Bb2 g6 18.axb5 axb5
+19.c4 Nh5 20.cxb5 cxb5 21.b4 Nf4 22.Bb1 d5 23.Qb3 Bg7 24.dxe5
+Nxe5 25.Nxe5 Bxe5 26.Bxe5 Rxe5 27.Qe3 Qf6 28.Nf3 d4 29.Qxd4
+Rc1 30.Kf1 Rxe1+ 31.Nxe1 Ne2 32.Qb2 Ng3+ 33.Kg1 Rxe4 34.Qxf6
+1/2-1/2

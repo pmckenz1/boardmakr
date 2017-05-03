@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Alexander Cherniaev"]
+[Black "Alexander Lastin"]
+[ECO "C90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1
+h6 13. d4 cxd4 14. cxd4 exd4 15. Nxd4 Bb7 16. b3 Bf8 17. Ng3
+Rc8 18. Bb2 g6 19. Qd2 Nc6 20. Nxc6 Bxc6 21. Rad1 Bg7 22. Bb1
+d5 23. Bxf6 Bxf6 24. exd5 Qxd5 25. Rxe8+ Rxe8 26. Qxd5 Bxd5
+27. Rxd5 Re1+ 28. Nf1 Rxb1 29. Rd6 Bc3 30. Rxa6 Rb2 31. Ne3
+1/2-1/2

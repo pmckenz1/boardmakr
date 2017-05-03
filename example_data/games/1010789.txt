@@ -1,0 +1,24 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Anatolij J Sakov"]
+[Black "Vladimir Kachar"]
+[ECO "B80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6
+7. Be2 Be7 8. O-O O-O 9. f4 Qc7 10. Qe1 b5 11. a3 Bb7 12. Bf3
+Nc6 13. Nb3 Nd7 14. Qf2 Bf6 15. Rfd1 Rfe8 16. Rd3 Be7 17. Kh1
+Rab8 18. Ne2 Rbc8 19. c3 Ncb8 20. Rad1 g6 21. g4 Nc5 22. Nxc5
+dxc5 23. e5 Red8 24. Kg2 Rxd3 25. Rxd3 Nd7 26. Bxb7 Qxb7+
+27. Qf3 Rc7 28. Qxb7 Rxb7 29. Kf3 g5 30. Ke4 gxf4 31. Nxf4 Nb6
+32. b4 Na4 33. bxc5 Rc7 34. Nh5 h6 35. Nf6+ Bxf6 36. exf6
+Nxc5+ 37. Bxc5 Rxc5 38. h4 Rc4+ 39. Kf3 h5 40. gxh5 Rxh4
+41. Rd8+ Kh7 42. Rf8 Rxh5 43. Rxf7+ Kg6 44. Ra7 Kxf6 45. Rxa6
+Rh3+ 46. Ke2 Rxc3 47. a4 b4 48. Rb6 b3 49. a5 Kf5 50. a6 e5
+51. a7 Rc2+ 52. Ke3 Ra2 53. Rxb3 1/2-1/2

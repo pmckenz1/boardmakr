@@ -1,0 +1,21 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alisa Galliamova"]
+[Black "Evgeni Ellinovich Sveshnikov"]
+[ECO "D13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.c4 c6 2.Nf3 d5 3.cxd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.e3 a6 7.Ne5
+Bd7 8.Be2 e6 9.O-O Be7 10.Bd2 O-O 11.Nxc6 Bxc6 12.a4 Bd6
+13.Qb1 e5 14.dxe5 Bxe5 15.Qf5 Re8 16.Rfd1 Qb6 17.a5 Qxb2
+18.Qd3 Qb4 19.f4 Bxc3 20.Bxc3 Qe7 21.Bd4 Bb5 22.Qd2 Ne4 23.Qb2
+Bxe2 24.Qxe2 Rac8 25.Qb2 Nd6 26.Bxg7 Qxe3+ 27.Kh1 Nc4 28.Qd4
+Re4 29.Qc3 Rxf4 30.Rxd5 h6 31.Rd3 Qe2 32.Bd4 Rg4 33.Rg3 Nd6
+34.Rxg4+ Qxg4 35.Qd2 Qe4 36.Bc3 Qg6 37.Re1 Ne4 38.Qd7 Rxc3
+39.Qe8+ Kh7 40.Rxe4 Rc2 41.g4 Qf6 0-1

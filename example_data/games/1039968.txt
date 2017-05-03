@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1969.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Karen Ashotovich Grigorian"]
+[Black "Roman Dzindzichashvili"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.d4 fxe4 6.Ng5 Bb6 7.d5
+e3 8.dxc6 bxc6 9.h4 exf2 10.Kf1 cxb5 11.Qd5 Nh6 12.Qxa8 c6
+13.Ne4 O-O 14.Bg5 b4 0-1

@@ -1,0 +1,22 @@
+[Event "Czechoslovakiet"]
+[Site "Prague CSR"]
+[Date "1986.06.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Jindrich Trapl"]
+[Black "Lubomir Ftacnik"]
+[ECO "B87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 b5 8. f4 Bb7 9. O-O Be7 10. Be3 Nc6 11. Nxc6 Bxc6
+12. f5 b4 13. Na4 exf5 14. exf5 O-O 15. Qd4 Rb8 16. Rad1 Rb5
+17. c4 Ra5 18. Nb6 Re5 19. Qxe5 dxe5 20. Rxd8 Rxd8 21. Rd1 Be4
+22. Nd5 Nxd5 23. cxd5 Bd6 24. Rc1 Bxf5 25. Rc6 Bf8 26. Rxa6
+Be4 27. Ra5 h6 28. Bb6 Rc8 29. Ra7 Rb8 30. Be3 Bg6 31. Rc7 Ra8
+32. Kf1 Bb1 33. Ba7 Bd6 34. Rd7 Bf5 35. Rxd6 Rxa7 36. Rb6 Bb1
+37. d6 Kh7 38. Rxb4 Ra6 39. d7 Rd6 40. Rb7 Bf5 41. Ba4 Rd4
+42. Bb5 Kg6 43. a4 Kf6 44. a5 1-0

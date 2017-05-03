@@ -1,0 +1,30 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Mike Stolz"]
+[Black "Francesco De Gleria"]
+[ECO "B62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "167"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 d5
+12. Qe1 Bb4 13. a3 Ba5 14. exd5 Bxd5 15. Be5 Bxc3 16. Bxc3 O-O
+17. h4 Rc8 18. Rh3 Qc7 19. Bd3 Bc4 20. Be5 Qc6 21. Bxf6 Bxd3
+22. Bc3 Bf5 23. g4 Bh7 24. g5 Qa4 25. Rh2 Qf4+ 26. Qd2 Qxd2+
+27. Rdxd2 h5 28. Rd7 b5 29. Rhd2 Bg6 30. R2d6 a5 31. Rd2 Rc4
+32. R7d4 Rfc8 33. Rxc4 Rxc4 34. Rd4 Rc8 35. f4 Bf5 36. Kd2 Kh7
+37. Ke3 Kg6 38. Rd2 a4 39. Rf2 Rc4 40. Rh2 Be4 41. Rd2 Bd5
+42. Rd4 Rc5 43. Rd2 Rc8 44. Rf2 Rg8 45. Rf1 Kf5 46. Rg1 Be4
+47. Rc1 Bd5 48. Rg1 Kg6 49. Rd1 Rc8 50. Rd2 Rc6 51. Rf2 Rc4
+52. Bd4 Kf5 53. Bxg7 Kg4 54. Bf6 Re4+ 55. Kd3 Re1 56. g6 fxg6
+57. Bg5 Kg3 58. Rd2 Rb1 59. Kc3 Kf3 60. Rd3+ Kg4 61. Re3 Bc4
+62. Re5 Rh1 63. Re3 Rb1 64. Re5 Kg3 65. Re3+ Kg2 66. Bf6 Rf1
+67. Bg5 Kf2 68. Re5 Rb1 69. Bf6 Kf3 70. Bg5 Bd5 71. Bh6 Rh1
+72. Bg5 Rh2 73. Kd3 Rg2 74. Re3+ Kg4 75. Kc3 Rf2 76. b3 Rh2
+77. bxa4 bxa4 78. Kd3 Ba2 79. c4 Rb2 80. Kd4 Rd2+ 81. Rd3 Rc2
+82. Rc3 Rd2+ 83. Ke5 Rd7 84. Kxe6 0-1

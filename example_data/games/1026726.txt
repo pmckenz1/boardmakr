@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "London ENG"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lev Gutman"]
+[Black "Jonathan Christopher Benjamin"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O Nbd7 7.Nc3
+e5 8.e4 c6 9.h3 Qb6 10.Re1 Ne8 11.d5 c5 12.Bd2 Qd8 13.Re2 f6
+14.Qc2 Rf7 15.Rf1 Nf8 16.Ne1 f5 17.f4 exf4 18.Bxf4 Bd4+ 19.Kh2
+g5 20.Be3 Bxe3 21.Rxe3 f4 22.gxf4 gxf4 23.Ref3 Ng6 24.Nd3 Qh4
+25.Qf2 Qxf2 26.R1xf2 Ne5 27.Rxf4 Rxf4 28.Nxf4 Nxc4 29.Nh5 Bd7
+30.Kg3 Ne5 31.Kh4 b5 32.Bf1 b4 33.Nd1 c4 34.Ne3 Rc8 35.Ng3 c3
+36.b3 Ng7 37.Nc2 a5 38.Ne2 Re8 39.Bg2 Nd3 40.Rf1 Nf5+ 41.Kg5
+h6 42.Kg6 Nh4+ 43.Kxh6 Nxg2 44.Rf3 Nge1 45.Rg3+ Kf8 0-1

@@ -1,0 +1,19 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN"]
+[Date "1976.12.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Janos Rigo"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 d5 6.Nxe5 dxe4
+7.Nxc6 Qg5 8.Qe2 Nf6 9.f4 Qh4+ 10.g3 Qh3 11.Ne5 c6 12.Bc4 Be6
+13.b3 Bc5 14.Bb2 O-O-O 15.O-O-O Rhe8 16.Bxe6+ Qxe6 17.Rhe1 h5
+18.Qc4 Rd5 19.Qf1 Qf5 20.d3 Red8 21.c4 Rxd3 22.Nxd3 exd3
+23.Re5 Qh7 24.Qh3+ Kc7 25.Rxc5 d2 26.Rxd2 Rxd2 27.Be5+ Kb6
+28.Rb5+ Ka6 29.Kxd2 Ne4+ 30.Ke3 Nf2 31.Kxf2 Qc2+ 32.Kg1 1-0

@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Baku AZE"]
+[Date "1972.11.30"]
+[EventDate "1972.11.17"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Eduard Gufeld"]
+[Black "Roman Dzindzichashvili"]
+[ECO "D16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.Nf3 d5 2.c4 c6 3.d4 Nf6 4.Nc3 dxc4 5.a4 Na6 6.e3 Bg4 7.Bxc4
+e6 8.h3 Bh5 9.O-O Be7 10.Qe2 Nb4 11.Rd1 O-O 12.g4 Bg6 13.e4
+Qa5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Match"]
+[Site "New York (USA)"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Maxim Dlugy"]
+[Black "John Fedorowicz"]
+[ECO "E84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2
+a6 8.Qd2 Rb8 9.a3 Bd7 10.b4 b5 11.cxb5 axb5 12.d5 Ne5 13.Nd4
+e6 14.Be2 Qe8 15.O-O Nc4 16.Bxc4 bxc4 17.Rfe1 e5 18.Nde2 Qd8
+19.Qa2 Ne8 20.Qxc4 f5 21.exf5 gxf5 22.f4 Kh8 23.Bf2 Qf6 24.a4
+Rg8 25.Ra3 Qg6 26.Nd1 Nf6 27.b5 Qf7 28.Ne3 Ne4 29.Bg3 Rbc8
+30.Qd3 Bf6 31.Rf1 Nxg3 32.hxg3 exf4 33.Rxf4 Rce8 34.Nxf5 Qg6
+35.Kf2 Bb2 36.Rb3 Be5 37.Rf3 Qh5 38.Rb4 Rgf8 39.g4 Qh1 40.Qb1
+Qxb1 41.Rxb1 Bf6 42.Rc1 Bd8 43.Rc4 Re5 44.Nc3 h5 45.Nh6 Rxf3+
+46.gxf3 Kg7 47.Nf5+ Kf6 48.a5 Bxb5 49.Nxb5 Rxd5 50.Nfd4 c6
+51.a6 1-0

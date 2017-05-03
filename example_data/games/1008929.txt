@@ -1,0 +1,31 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Robert McFarland"]
+[Black "Stuart C Conquest"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "170"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 d6 6. d4 O-O
+7. Nbd2 Nc6 8. O-O Qe8 9. Re1 e5 10. dxe5 dxe5 11. e4 f4
+12. Nc4 Bg4 13. h3 Rd8 14. Qe2 Bxf3 15. Bxf3 b5 16. Na3 fxg3
+17. fxg3 a6 18. Rad1 Qe7 19. c3 h5 20. Nc2 Qe6 21. Bg2 Bh6
+22. Ne3 h4 23. g4 Ne7 24. Ba3 Rde8 25. Kh1 Rf7 26. Nd5 Nexd5
+27. exd5 Qb6 28. c4 Nd7 29. Rf1 Bf4 30. Qd3 Rf6 31. b4 bxc4
+32. Qxc4 Kh7 33. g5 Rf5 34. Bc1 Qd6 35. Be4 Rxg5 36. Bxf4 exf4
+37. Rxf4 Ne5 38. Rxh4+ Kg8 39. Qc5 Rf8 40. Qxd6 cxd6 41. Rd2
+Kg7 42. Rg2 Rf1+ 43. Kh2 Rxg2+ 44. Bxg2 Rf2 45. Re4 Rxa2
+46. Re3 Rb2 47. Kg3 Rxb4 48. Ra3 Nc4 49. Rxa6 Ne3 50. Kf2 Nf5
+51. Ra2 Kf6 52. Re2 Nd4 53. Re4 Rb2+ 54. Kg3 Rd2 55. Rf4+ Nf5+
+56. Kh2 Kg5 57. Re4 Nh4 58. Rg4+ Kh5 59. Kg1 Nxg2 60. Rxg2
+Rxd5 61. Kh2 Rf5 62. Rd2 d5 63. Rd4 Kg5 64. Kg3 Kf6 65. h4 Ke5
+66. Rd1 d4 67. Kg4 Kd5 68. Rd2 Kc4 69. Rc2+ Kb5 70. Rb2+ Kc6
+71. Rd2 Kc5 72. Rc2+ Kd5 73. Rd2 Rf1 74. Kg5 Rg1+ 75. Kf4 Kc4
+76. Rc2+ Kd3 77. Rc6 Kd2 78. Ke4 d3 79. Kf3 Rf1+ 80. Kg2 Rf4
+81. Kg3 Ke3 82. Rxg6 d2 83. Re6+ Re4 84. Rd6 Rd4 85. Re6+ Kd3
+0-1

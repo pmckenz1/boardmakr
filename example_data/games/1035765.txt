@@ -1,0 +1,19 @@
+[Event "Las Vegas"]
+[Site "Las Vegas"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Walter Shawn Browne"]
+[Black "John L Watson"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.O-O
+e5 8.Be3 c6 9.d5 Qe7 10.Nd2 Ne8 11.g4 f5 12.exf5 gxf5 13.gxf5
+Ndf6 14.Kh1 Bxf5 15.Rg1 Kh8 16.Qb3 Bg6 17.Rg5 cxd5 18.cxd5 Qf7
+19.Rag1 b6 20.Rxg6 hxg6 21.Bd3 Rc8 22.Bxg6 Rxc3 23.Qxc3 Qxd5+
+24.f3 Nh7 25.Qc8 Qg8 26.Qh3 Rf6 27.Ne4 Rxg6 28.Rxg6 Qxa2
+29.Qd7 Qg8 30.Nxd6 Nxd6 31.Qxd6 Qf7 32.Rg3 e4 33.Bd4 1-0

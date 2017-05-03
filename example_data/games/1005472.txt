@@ -1,0 +1,25 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "2"]
+[Result "1-0"]
+[White "Gennady Khodotov"]
+[Black "Sergey Leshchenko"]
+[ECO "A80"]
+[WhiteElo "2229"]
+[BlackElo "2205"]
+[PlyCount "109"]
+
+1. d4 f5 2. g4 fxg4 3. e4 d6 4. Be2 Nf6 5. Nc3 Nc6 6. Bf4 e5
+7. dxe5 dxe5 8. Qxd8+ Kxd8 9. O-O-O+ Bd6 10. Be3 Be6 11. h3
+Kd7 12. hxg4 Bxg4 13. f3 Be6 14. Nb5 Rad8 15. c4 a6 16. Nxd6
+cxd6 17. Bb6 Rc8 18. b3 Ke7 19. Nh3 h6 20. Nf2 g5 21. Rd2 Nd7
+22. Be3 b5 23. Rc2 Nb4 24. Rd2 bxc4 25. bxc4 Bxc4 26. Bxc4
+Rxc4+ 27. Kd1 Rcc8 28. Ng4 Ke6 29. Nxh6 g4 30. Rg1 Nf6
+31. Nxg4 Nxg4 32. Rxg4 Rh1+ 33. Ke2 Rc2 34. Rg6+ Ke7 35. Rgxd6
+Rh2+ 36. Bf2 Rxd2+ 37. Rxd2 Nc6 38. Kf1 Nd4 39. Rd3 Rh1+
+40. Kg2 Ra1 41. Bxd4 exd4 42. Ra3 d3 43. Rxd3 Rxa2+ 44. Kg3 a5
+45. Kf4 a4 46. Ke5 Rb2 47. Rd5 a3 48. Ra5 a2 49. Ra7+ Ke8
+50. f4 Rb5+ 51. Ke6 Rb6+ 52. Kf5 Rb5+ 53. e5 Rb2 54. e6 Rh2
+55. Ke5 1-0

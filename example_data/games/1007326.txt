@@ -1,0 +1,19 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.13"]
+[EventDate "1925.04.16"]
+[Round "20"]
+[Result "1/2-1/2"]
+[White "Stefano Rosselli del Turco"]
+[Black "George Alan Thomas"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 e5 2.Nc3 Bc5 3.Nf3 d6 4.d4 exd4 5.Nxd4 Nc6 6.Be3 Bb6
+7.Bb5 Ne7 8.O-O O-O 9.Re1 Bd7 10.Nxc6 bxc6 11.Bf1 Ng6 12.Qh5
+Re8 13.g3 Ne5 14.h3 Rb8 15.f4 Ng6 16.Bxb6 Rxb6 17.Bc4 Qf6
+18.Bb3 Be6 19.Rad1 Bxb3 20.axb3 Rbb8 21.Qa5 Rbc8 22.Qxa7 c5
+23.Qa6 h5 24.Qf1 h4 25.f5 Ne5 26.Qf4 hxg3 27.Nd5 Qg5 28.Kg2
+Qxf4 29.Nxf4 Nc6 30.Kxg3 Nd4 31.Rc1 Rb8 1/2-1/2

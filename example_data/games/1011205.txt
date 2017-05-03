@@ -1,0 +1,22 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Bartosz Socko"]
+[Black "Bartlomiej Macieja"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4
+7. a3 Bxc3+ 8. bxc3 O-O 9. Qc2 b6 10. Bg5 Bb7 11. Nd2 Nbd7
+12. Bd3 h6 13. Bh4 Rc8 14. cxd5 Bxd5 15. Ba6 Rb8 16. O-O Bb7
+17. Be2 Rc8 18. Rac1 e5 19. Qf5 exd4 20. cxd4 Qe7 21. Bb5 Qd6
+22. Rcd1 a6 23. Bg3 Qd5 24. Qxd5 Bxd5 25. Bxa6 Ra8 26. Bb5
+Rfc8 27. a4 Bc6 28. Rc1 Bxb5 29. axb5 Rxc1 30. Rxc1 Nd5
+31. Nc4 Nc3 32. Kf1 Nxb5 33. Ne5 Nf6 34. f3 Nd5 35. Be1 f6
+36. Nd3 Nxd4 37. Bf2 Nf5 38. Rb1 Ra3 39. Nb4 Nc3 40. Rc1 Rb3
+41. Nc6 Nd5 42. Nd4 Nxd4 43. Bxd4 Kf7 44. Rc8 Rb4 0-1

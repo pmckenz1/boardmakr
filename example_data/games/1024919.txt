@@ -1,0 +1,17 @@
+[Event "URS-ch FL53"]
+[Site "Minsk BLR"]
+[Date "1985.10.??"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Sergey G Gorelov"]
+[Black "Yuri Balashov"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Qe7 5.Nf3 Nc6 6.Nc3 Bxc3
+7.Bxc3 Ne4 8.Qc2 Nxc3 9.Qxc3 Qb4 10.Rc1 Qxc3+ 11.Rxc3 d6
+12.Bg2 a5 13.O-O Ne7 14.e3 b6 15.Ne5 Rb8 16.Nc6 Nxc6 17.Bxc6+
+Bd7 18.Bxd7+ Kxd7 1/2-1/2

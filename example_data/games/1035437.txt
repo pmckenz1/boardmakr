@@ -1,0 +1,17 @@
+[Event "It ( cat. 14 )"]
+[Site "Tilburg NED"]
+[Date "1978.09.02"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Walter Shawn Browne"]
+[Black "Ljubomir Ljubojevic"]
+[ECO "E53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O
+cxd4 8.exd4 dxc4 9.Bxc4 b6 10.Bg5 Bb7 11.Re1 Nbd7 12.Rc1 Rc8
+13.Qb3 Qe7 14.Bd5 Ba6 15.Qa4 Bxc3 16.bxc3 Nb8 17.Bb3 b5 18.Qa5
+Qb7 19.Bxf6 gxf6 20.d5 exd5 21.Qb4 Qd7 22.Qh4 Kg7 23.Nd4 1-0

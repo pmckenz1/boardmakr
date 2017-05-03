@@ -1,0 +1,16 @@
+[Event "Hastings 1961/62"]
+[Site "Hastings ENG"]
+[Date "1962.01.05"]
+[EventDate "1961.12.27"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Salomon Flohr"]
+[Black "Mikhail Botvinnik"]
+[ECO "E21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.a3 Bxc3+ 6.bxc3 Qa5
+7.Bd2 Ne4 8.Qc2 Nxd2 9.Qxd2 cxd4 10.cxd4 Nc6 11.e3 b6 12.Be2
+Bb7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Mlada Boleslav (Czechoslovakia)"]
+[Site "Mlada Boleslav (Czechoslovakia)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Artur Chibukhchian"]
+[ECO "A54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.g3 g6 6.Bg2 Bg7 7.O-O
+O-O 8.Qc2 c6 9.Rd1 Re8 10.b3 Qc7 11.e4 a5 12.h3 exd4 13.Nxd4
+Nc5 14.Bf4 Nh5 15.Be3 Nf6 16.Re1 Bd7 17.a3 h6 18.Rab1 Re7
+19.b4 axb4 20.axb4 Ncxe4 21.Nxe4 Nxe4 22.Bxe4 Rae8 23.Bxg6
+fxg6 24.Qxg6 Bxh3 25.g4 Re4 26.f3 Rxe3 27.Rxe3 Rxe3 28.Ra1 1-0

@@ -1,0 +1,39 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.07"]
+[EventDate "1895.08.05"]
+[Round "3"]
+[Result "0-1"]
+[White "James Mason"]
+[Black "Mikhail Chigorin"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. e4 {Notes by E. Schiffers} e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3
+Bc5 5. Be3 Bxe3 {Apparently better than Bb6; anyhow, Black
+loses no time in developing his game. The open file does not
+prove dangerous.} 6. fxe3 O-O 7. Nc3 d6 8. O-O {Here white
+should have played a3, as then Black would have no advantage
+in moving Na5 and if Be6 then Bxe6 with a perfectly even
+game. In the present instance it would be more advantageous to
+allow the exchange of bishops than to give up the bishop for
+the knight. d4 is bad, as it completely weakens White's
+center.} Na5 9. Bb3 c6 10. Qe1 Nxb3 11. axb3 Ng4 12. h3 Nh6
+13. g4 {Evidently to prevent f5.} Kh8 14. Qg3 Be6 15. Kh2 f6
+16. Rf2 Qe7 17. Rg1 g5 18. Kh1 Rg8 19. Rgf1 Rg6 20. Nh2 Ng8
+21. Qf3 {This move makes a place for the knight at g3 but does
+not prevent the advance ...h5.} Rf8 {Chigorin remarks that it
+would be better to play at once h5.} 22. Ne2 h5 23. gxh5 Rh6
+24. Kg2 Qd7 25. Rh1 d5 26. Ng4 {White has no better move; the
+h-pawn cannot be retained. Upon Nf1 may follow g4.} Rxh5
+27. Ng3 {Here Nxe5 could have been played. The best reply was
+...Qh7 28 exd5 cxd5. White is a pawn ahead but black gets an
+attacking position. But if 27 Nxe5 Qh7 28 exd5 g4 (?) then 29
+Nxg4 Bxg4 30 Qxg4 Rg5 31 Qxg5 fxg5 32 Rxf8 and wins, having
+two rooks and two pawns for the queen, with a better
+position.} dxe4 28. dxe4 Bxg4 29. hxg4 Rxh1 30. Kxh1 Rd8
+31. Rh2+ Kg7 32. Nf5+ Kf8 33. Qf2 {If 33 Rh8 then Qd2 and upon
+34 Nh6 Qe1+ 35 K any Rd2+ 36 Kh3 Qh4 mate.} Qd1+ 34. Kg2 Rd2
+0-1

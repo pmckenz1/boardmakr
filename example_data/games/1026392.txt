@@ -1,0 +1,18 @@
+[Event "Charlton"]
+[Site "Charlton ENG"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Edward Rumens"]
+[Black "Jonathan Christopher Benjamin"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 e6 4.Nc3 d5 5.Bb5 Ne7 6.exd5 exd5 7.Qe2
+Bg4 8.Bxc6+ bxc6 9.O-O Qd6 10.b3 Qe6 11.Qf2 Bxf3 12.Qxf3 Nf5
+13.Ba3 Nd4 14.Qd3 Qf5 15.Rae1+ Kd7 16.Qa6 Kc7 17.Qa5+ Kd7
+18.Na4 Qxc2 19.Nb6+ axb6 20.Qxa8 Ne6 21.Qb7+ Nc7 22.Re8 Kxe8
+23.Qc8+ Ke7 24.Qxc7+ Ke6 25.Re1+ Kf5 26.Qe5+ Kg4 27.Qg5+ 1-0

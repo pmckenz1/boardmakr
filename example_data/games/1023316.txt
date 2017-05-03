@@ -1,0 +1,23 @@
+[Event "01, Yaroslavl ch URS"]
+[Site "01, Yaroslavl ch URS"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andrei V Kharitonov"]
+[Black "Vladimir Bagirov"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qh4 Nxc3
+7.dxc3 Nc6 8.e4 e5 9.Bg5 Be7 10.Bc4 h6 11.Bxe7 Qxe7 12.Qg3
+O-O-O 13.O-O g5 14.Bd5 Rde8 15.Rfd1 Nd8 16.Rd2 f6 17.Rad1 Be6
+18.Ne1 Bxd5 19.Rxd5 Ne6 20.Qe3 Kb8 21.Rd7 Qc5 22.Qf3 a5
+23.R7d2 Rhf8 24.Nc2 Qc6 25.Ne3 h5 26.Nf5 g4 27.Qe3 Ng5 28.Ng7
+Rc8 29.Nxh5 Nxe4 30.Rd5 Nd6 31.Rxa5 b6 32.Rad5 Rf7 33.Qe2 Rh8
+34.Ng3 Rfh7 35.Nf1 Qa4 36.b3 Qf4 37.g3 Qf5 38.Qe3 Ne4 39.Rd8+
+Kb7 40.Rxh8 Rxh8 41.h4 gxh3 42.Nh2 Ra8 43.a4 Nc5 44.a5 Qe4
+45.Qxe4+ Nxe4 46.axb6 Nxc3 47.Re1 Kxb6 48.Ng4 Nd5 49.Kh2 Ra3
+50.Ne3 Nxe3 1/2-1/2

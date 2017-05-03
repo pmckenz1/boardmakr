@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "David Ledger"]
+[Black "David E Buckley"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. h4 h5
+7. Bd3 Bxd3 8. cxd3 Qb6 9. Ne2 Ne7 10. Nd2 Nf5 11. Nf3 Be7
+12. Bg5 f6 13. Bd2 Qxb2 14. Rb1 Qxa2 15. Rxb7 Nd7 16. Nf4 Qa6
+17. Qb1 Nb6 18. Rc7 Nxd4 19. Nxd4 fxe5 20. Ng6 Bd8 21. Nxe6
+1-0

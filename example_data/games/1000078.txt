@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.05"]
+[EventDate "1900.??.??"]
+[Round "10"]
+[Result "1-0"]
+[White "Jackson Whipps Showalter"]
+[Black "Miklos Brody"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 Nc6
+7.Nxc6 bxc6 8.e5 Nd5 9.Qg4 g6 10.O-O h5 11.Qf3 Nxc3 12.bxc3
+Be7 13.Re1 Qa5 14.Bd2 Ba6 15.Rab1 Bxd3 16.Qxd3 Qxa2 17.c4 Qa6
+18.Rb3 O-O 19.Bh6 Rfd8 20.Qe4 d5 21.exd6 Bxd6 22.Bg5 Rdb8
+23.Rd3 Bf8 24.Bf6 Qa5 25.Bc3 Qc5 26.Rd7 Re8 27.Red1 Bg7
+28.Bxg7 Kxg7 29.h3 Rac8 30.R1d6 Kf8 31.Qf4 Re7 32.Qf6 1-0

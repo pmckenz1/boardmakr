@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Robert Csolig"]
+[Black "Michael Johansson"]
+[ECO "C18"]
+[WhiteElo "2165"]
+[BlackElo "2105"]
+[PlyCount "53"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7
+7. Qg4 Ne7 8. Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7
+12. Qd3 dxc3 13. Nxc3 Na5 14. Nb5 Bxb5 15. Qxb5+ Nec6 16. Be3
+O-O-O 17. g3 Nxe5 18. fxe5 Qc3+ 19. Kf2 d4 20. Bf4 Rg4 21. Re1
+Qxc2+ 22. Be2 Nb3 23. Qc4+ Qxc4 24. Bxc4 Nc5 25. h4 d3 26. Kf3
+Rgg8 27. Ke3 1-0

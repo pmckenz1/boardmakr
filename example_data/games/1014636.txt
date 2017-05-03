@@ -1,0 +1,19 @@
+[Event "Ischia 64/156"]
+[Site "Ischia 64/156"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Ilya Smirin"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 e5 4.Bc4 d6 5.d3 Be7 6.Nd2 Bg5 7.h4
+Bh6 8.Qh5 g6 9.Qd1 Nf6 10.Nf1 Bxc1 11.Qxc1 Be6 12.Ne3 Nd4
+13.Ncd5 h5 14.c3 Nc6 15.Qd1 Kf8 16.g3 Kg7 17.Qe2 Rb8 18.a4 Ng4
+19.f3 Nxe3 20.Nxe3 Ne7 21.O-O Re8 22.Bxe6 fxe6 23.f4 exf4
+24.Rxf4 Nc6 25.Raf1 Qe7 26.g4 Qxh4 27.gxh5 Qg3+ 28.Ng2 Ne5
+29.d4 cxd4 30.cxd4 Qd3 31.Qf2 Nc6 32.Rf7+ Kg8 33.h6 1-0

@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Erno Gereben"]
+[Black "Lajos Steiner"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 b6
+7. Nf3 O-O 8. cxd5 exd5 9. Be2 Be6 10. O-O Nbd7 11. Rc1 c5
+12. dxc5 bxc5 13. Qa4 Nb6 14. Qc2 g5 15. Bg3 Kg7 16. Ne5 Qc8
+17. f4 Bf5 1/2-1/2

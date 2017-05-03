@@ -1,0 +1,18 @@
+[Event "Pugi mem"]
+[Site "Toronto CAN"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Paul Simon"]
+[Black "Lawrence Day"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6
+7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 h6 10.Bd2 Be6 11.Rad1 Kc8 12.Bc1
+b6 13.b3 c5 14.Nd5 g5 15.h3 Nd4 16.Nxd4 Bxd5 17.Nf5 Be6 18.Ne3
+Bg7 19.Bb2 Kb7 20.c4 a6 21.f4 gxf4 22.Nd5 Rae8 23.Nxf4 Re7
+24.Nxe6 1/2-1/2

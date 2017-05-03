@@ -1,0 +1,21 @@
+[Event "Hamilton New York ch, USA"]
+[Site "Hamilton, NY USA"]
+[Date "1941.08.17"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Robert Willman"]
+[Black "Reuben Fine"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 Nd4 5. d3 Ne7 6. Be3 Nec6
+7. g3 g6 8. Bg2 Bg7 9. Qd2 O-O 10. h4 h5 11. Bg5 f6 12. Bf4 d6
+13. Nxd4 cxd4 14. Ne2 e5 15. Bh6 f5 16. exf5 Bxf5 17. Bd5+ Kh7
+18. Bxg7 Kxg7 19. f3 Qa5 20. a3 Qxd2+ 21. Kxd2 Ne7 22. Be4
+Bxe4 23. fxe4 Rf3 24. Rag1 Raf8 25. g4 Re3 26. Rh2 Kh6
+27. gxh5 Kxh5 28. Ng3+ Kh6 29. h5 g5 30. Nh1 Ref3 31. Rhg2 Rg8
+32. Nf2 Kxh5 33. Ng4 Ng6 34. Rh2+ Nh4 35. Nf2 Rgf8 36. Nh1
+R8f4 37. Ng3+ Kg6 38. Ne2 Rf2 39. Rxf2 0-1

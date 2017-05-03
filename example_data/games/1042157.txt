@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1924.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Max Euwe"]
+[Black "Jacques Davidson"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Nbd7 5. O-O Bd6 6. b3 c6
+7. d4 O-O 8. Bb2 Re8 9. Ne5 Qc7 10. f4 b6 11. Nd2 Bb7 12. e4
+dxe4 13. Nxe4 Nxe4 14. Bxe4 Nf6 15. Bg2 c5 16. d5 exd5
+17. cxd5 Bf8 18. d6 Qb8 19. d7 Rd8 20. Nc6 Bxc6 21. Bxc6 Nxd7
+22. Qf3 a5 23. Bxa8 Qxa8 24. Qxa8 Rxa8 25. Rad1 Ra7 26. Rfe1
+f6 27. a4 Kf7 28. f5 Rb7 29. Re4 Be7 30. Kf1 Nb8 31. Bc3 Nc6
+32. Ke2 Nd8 33. Rd5 Nc6 34. Kd3 Na7 35. Re6 Nc8 36. Kc4 Na7
+37. Bd2 g5 38. g4 1-0

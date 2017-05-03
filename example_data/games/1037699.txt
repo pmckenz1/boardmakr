@@ -1,0 +1,25 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John T Pajak"]
+[Black "Lawrence Day"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.g3 d5 6.Nf3 Nf6 7.exd5
+Qxd5 8.Qxd5 exd5 9.Nc3 Bb4 10.Be3 Nc6 11.a3 Bxc3+ 12.bxc3 Bf5
+13.Bd3 Be4 14.Ke2 Nd7 15.Rhb1 Bxf3+ 16.Kxf3 Nde5+ 17.Ke2 Nxd3
+18.cxd3 O-O-O 19.Rc1 Rhe8 20.Kd2 f6 21.Bb6 Rd6 22.h3 Ne5
+23.Be3 Rc6 24.Rf1 d4 25.cxd4 Nf3+ 26.Kd1 Rd8 27.Rc1 Nxd4
+28.Bxd4 Rxc1+ 29.Kxc1 Rxd4 30.Kc2 Kd7 31.Kc3 Ra4 32.Kb3 Ra5
+33.f4 Rb5+ 34.Kc4 Rb2 35.Rf3 Kd6 36.Re3 Rc2+ 37.Kb3 Rc7 38.Re4
+Kd5 39.a4 g6 40.Rb4 f5 41.Kb2 a5 42.Rb5+ Kd4 43.g4 Rf7 44.Rxa5
+Ke3 45.gxf5 gxf5 46.Ra7 Kxf4 47.a5 Ke3 48.a6 Rf6 49.axb7 Rb6+
+50.Kc3 f4 51.b8=Q Rxb8 52.Re7+ Kf2 53.Rxh7 Rf8 54.h4 f3 55.h5
+Kg2 56.Rg7+ Kh3 57.Rg1 f2 58.Rf1 Kg2 59.Ra1 f1=Q 60.Rxf1 Rxf1
+61.Kd4 Kf3 62.Ke5 Rh1 0-1

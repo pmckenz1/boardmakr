@@ -1,0 +1,19 @@
+[Event "Erevan"]
+[Site "t"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Mihail Kopylov"]
+[ECO "A60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6
+7. Bf4 Bg7 8. Qa4+ Bd7 9. Qb3 Qc7 10. e4 O-O 11. Be2 Re8
+12. Nd2 b5 13. Bxb5 Nxe4 14. Ncxe4 f5 15. O-O fxe4 16. Rae1 a6
+17. Bc4 Bf5 18. g4 Bxg4 19. Nxe4 Nd7 20. Bxd6 Qd8 21. Qg3 Bf5
+22. Be7 Rxe7 23. d6+ Kh8 24. dxe7 Qxe7 25. Nd6 Qf6 26. Nf7+
+Kg8 27. Nd8+ Kf8 28. Ne6+ Kg8 29. Nc7+ 1-0

@@ -1,0 +1,19 @@
+[Event "Haifa"]
+[Site "Haifa ISR"]
+[Date "1989.12.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Florin Gheorghiu"]
+[ECO "A37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. c4 c5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nc3 Nh6 6. O-O Nf5
+7. a3 b6 8. d3 Bb7 9. Bd2 d6 10. Rb1 Qd7 11. b4 Ncd4 12. e3
+Nxf3+ 13. Bxf3 O-O 14. Bxb7 Qxb7 15. a4 Rac8 16. a5 cxb4
+17. Rxb4 Bxc3 18. Bxc3 d5 19. axb6 axb6 20. Qf3 Nd6 21. Bd4
+dxc4 22. Qxb7 Nxb7 23. dxc4 Na5 24. Rc1 Nc6 25. Rxb6 Nxd4
+26. exd4 Rfd8 27. Re1 1/2-1/2

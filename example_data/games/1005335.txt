@@ -1,0 +1,15 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Alexander Moroz"]
+[Black "Anatolij Bets"]
+[ECO "B12"]
+[WhiteElo "2493"]
+[BlackElo "2439"]
+[PlyCount "17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qa5+
+7. Nc3 a6 8. Bxc6+ bxc6 9. Qd4 1/2-1/2

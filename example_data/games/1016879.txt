@@ -1,0 +1,20 @@
+[Event "Ch Hungary"]
+[Site "Budapest (Hungary)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Tibor Tolnai"]
+[Black "Andras Adorjan"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 Nf6 2.Bg5 c5 3.Bxf6 gxf6 4.d5 d6 5.e3 Bg7 6.c4 b5 7.cxb5
+a6 8.Nc3 f5 9.Bd3 Qa5 10.Ne2 Nd7 11.bxa6 Rb8 12.Qc2 e6 13.O-O
+Ne5 14.a7 Rb4 15.a3 Rh4 16.Bb5+ Ke7 17.h3 Qxa7 18.f4 Nd7
+19.Rad1 Rg8 20.Rf3 Bf6 21.Kh2 Rh6 22.Bc4 Nb6 23.dxe6 fxe6
+24.Nb5 Qa8 25.Nxd6 Bd7 26.Nxf5+ exf5 27.Bxg8 Qc8 28.Bd5 c4
+29.Ng3 Rg6 30.e4 Rxg3 31.Rxg3 Ba4 32.Qe2 c3 33.bxc3 Qc5 34.Qh5
+1-0

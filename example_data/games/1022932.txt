@@ -1,0 +1,21 @@
+[Event "Rubinstein Memorial 7th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1969.08.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Jacek B Bednarski"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nf6 5.f3 a6 6.Be3 c6 7.Bd3 b5
+8.Nge2 O-O 9.O-O Nbd7 10.b3 bxc4 11.bxc4 c5 12.d5 Ne5 13.h3 e6
+14.Rc1 exd5 15.cxd5 Nxd3 16.Qxd3 Re8 17.Qd2 Nd7 18.Bh6 Bh8
+19.f4 Rb8 20.Kh1 Rb4 21.Ng3 Rd4 22.Qc2 Nb6 23.Rf3 Bd7 24.Qf2
+Bg4 25.Bg5 f6 26.hxg4 fxg5 27.f5 Nd7 28.Nge2 Rc4 29.Qg3 Be5
+30.Qh3 Kg7 31.Rff1 Nf6 32.Qd3 Rb4 33.Qxa6 Nxg4 34.Rf3 Nf6
+35.g3 g4 36.Rf2 Qb6 37.Qxb6 Rxb6 38.fxg6 hxg6 39.Nf4 Bxc3
+40.Rxc3 Nxe4 41.Re2 Rh8+ 0-1

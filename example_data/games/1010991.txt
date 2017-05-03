@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Dmitri Rumiantsev"]
+[Black "Dmitri Loshkarev"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5
+7. e3 Nd7 8. Bd3 Be7 9. e4 Nxc3 10. bxc3 c5 11. Qe2 O-O
+12. O-O Rc8 13. Bb2 Qc7 14. Rad1 c4 15. Bb1 Rfd8 16. Bc1 h6
+17. e5 b5 18. Ne1 Bf8 19. f4 g6 20. f5 exf5 21. Nf3 Bd5
+22. Nh4 Bg7 23. Bxf5 gxf5 24. Nxf5 Nf8 25. Nxg7 Kxg7 26. Qh5
+Qb6 27. Rf6 Rc6 28. Bxh6+ Kg8 29. e6 Qc7 30. Qg5+ Ng6 31. Rxf7
+1-0

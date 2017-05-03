@@ -1,0 +1,19 @@
+[Event "Minsk URS ch"]
+[Site "Minsk BLR"]
+[Date "1979.12.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Tamas Georgadze"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 h6 4.Bxf6 exf6 5.e3 c6 6.Bd3 g6 7.Nge2
+f5 8.Qd2 Nd7 9.a3 Nf6 10.Nf4 Bd6 11.h4 O-O 12.Be2 Re8 13.g3
+Kg7 14.Nd3 Qe7 15.Rg1 h5 16.Bf1 a5 17.Rb1 a4 18.Rd1 Qc7 19.Be2
+Qe7 20.Rb1 b5 21.Kf1 Ra7 22.Kg2 Qd8 23.f3 Rae7 24.Nd1 Qc7
+25.Kf2 Nd7 26.c3 Qd8 27.Nf4 Nf8 28.Bd3 Bc7 29.Rc1 Qd6 30.Rc2
+Qf6 31.Qc1 Nd7 32.Re2 1/2-1/2

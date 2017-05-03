@@ -1,0 +1,28 @@
+[Event "It (open)"]
+[Site "Zurich (Switzerland)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Dragoljub M Ciric"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "155"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6 7.Qc2
+Nbd7 8.Bd3 Nh5 9.Bxe7 Qxe7 10.O-O-O Nb6 11.h3 g6 12.Nf3 Bd7
+13.Rhe1 O-O-O 14.Ne5 f6 15.Nxd7 Qxd7 16.Kb1 Kb8 17.Ne2 Qd6
+18.Nc1 Nd7 19.Be2 Ng7 20.Nd3 Ne6 21.Rc1 Rc8 22.Red1 Rc7 23.b4
+b6 24.Qb3 Ka8 25.b5 Nb8 26.Nb4 Rd8 27.bxc6 a5 28.Na6 Nxa6
+29.Bxa6 Rxc6 30.Rxc6 Qxc6 31.Rc1 Qd6 32.Bb5 Kb7 33.Rc6 Qxc6
+34.Bxc6+ Kxc6 35.Qa3 Rd7 36.Kc2 Kb7 37.Kd3 Ka6 38.Qc3 Kb7
+39.Qb3 Nc7 40.Qd1 Rd6 41.Qg4 f5 42.Qf4 Rc6 43.g4 fxg4 44.Qxg4
+b5 45.e4 h5 46.Qd7 dxe4 47.Kxe4 Re6+ 48.Kd3 Re1 49.Kd2 Re4
+50.f3 Rf4 51.Ke3 Rf5 52.Qg7 g5 53.Ke4 Rf4+ 54.Ke3 Rf5 55.Ke4
+Rf4+ 56.Ke5 Rxf3 57.Qxg5 Rc3 58.Qxh5 a4 59.Ke4 a3 60.h4 Kb6
+61.Qh6+ Rc6 62.Qd2 Re6+ 63.Kf5 Rd6 64.Qb4 Rd5+ 65.Kg4 Ne6
+66.Qxa3 Rxd4+ 67.Kf5 Nc5 68.Qa8 Nb7 69.h5 Rd5+ 70.Kg4 Rd4+
+71.Kf3 Rd8 72.Qa3 Nc5 73.Qe3 Kc6 74.h6 Rh8 75.Kg4 Rg8+ 76.Kh5
+Kd5 77.h7 Rh8 78.Qg5+ 1-0

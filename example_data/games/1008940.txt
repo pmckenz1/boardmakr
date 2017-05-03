@@ -1,0 +1,18 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Martin Simons"]
+[Black "Clive L Waters"]
+[ECO "D79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. c4 c6 6. cxd5 cxd5
+7. d4 O-O 8. Qb3 Nc6 9. Nc3 Na5 10. Qd1 Ne4 11. Nxe4 dxe4
+12. Ng5 Bxd4 13. Nxe4 Qb6 14. Nc3 Be6 15. Na4 Qd8 16. Bh6 Re8
+17. Bd2 Nc4 18. Bc3 Bxc3 19. Nxc3 Qxd1 20. Rfxd1 Nxb2 21. Rdb1
+Rac8 22. Rxb2 Rxc3 23. Rxb7 Ra3 1/2-1/2

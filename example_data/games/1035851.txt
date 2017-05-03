@@ -1,0 +1,21 @@
+[Event "Frankfurt"]
+[Site "Frankfurt am Main GER"]
+[Date "1887.07.18"]
+[EventDate "1887.07.18"]
+[Round "2"]
+[Result "0-1"]
+[White "Amos Burn"]
+[Black "Berthold Englisch"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Bd7 7.Nbd2
+g6 8.Nf1 Bg7 9.Ne3 Qe7 10.O-O h6 11.Ne1 g5 12.f3 O-O 13.g4 Be6
+14.N1g2 d5 15.h4 b5 16.Bc2 d4 17.hxg5 hxg5 18.Nf5 Bxf5 19.exf5
+Nd5 20.c4 Nf4 21.cxb5 axb5 22.Bb3 Rfd8 23.Kf2 Qd6 24.Rh1 Bf6
+25.a4 bxa4 26.Rxa4 Rxa4 27.Bxa4 Nb4 28.Bb5 Kg7 29.Bc4 c5
+30.Rh2 Nfxd3+ 31.Bxd3 Nxd3+ 32.Qxd3 e4 33.Qxe4 Qxh2 34.f4 d3
+35.fxg5 Bd4+ 36.Kf3 Be5 37.Bf4 Bxf4 38.Nxf4 Qh1+ 39.Ng2 d2
+40.f6 Kg8 41.g6 d1=Q+ 0-1

@@ -1,0 +1,20 @@
+[Event "Extra League /96, Czech Republic"]
+[Site "Extra League 1995/96, Czech Republic"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Vlastimil Babula"]
+[Black "Lubomir Ftacnik"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4
+O-O 7. e4 Na6 8. e5 Nd7 9. e6 Nb6 10. exf7+ Kh8 11. Qb3 Qd6
+12. Be2 Be6 13. Qd1 Bxf7 14. O-O Rad8 15. Bg5 Nb4 16. Qc1 Nc6
+17. Bf4 Qd7 18. Bb5 Nd5 19. Bh6 Qf5 20. Bxc6 bxc6 21. Re1 Nxc3
+22. Bxg7+ Kxg7 23. Qxc3 Qf6 24. Ne5 h5 25. f3 Rd6 26. Rac1 Bd5
+27. Qa5 Qg5 28. Qxc7 Re6 29. Kh1 Qd2 30. h3 Rf5 31. Rcd1 Qc2
+32. Qa5 Qxb2 33. Qxa7 Qxa2 34. Qxa2 1/2-1/2

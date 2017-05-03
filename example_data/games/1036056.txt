@@ -1,0 +1,33 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.03.01"]
+[EventDate "1909.02.15"]
+[Round "11"]
+[Result "1-0"]
+[White "Eugene Aleksandrovich Znosko-Borovsky"]
+[Black "Amos Burn"]
+[ECO "C26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 {Notes by Lasker.} e5 2.Nc3 Nf6 3.Bc4 Bc5 4.d3 d6 5.Bg5
+c6 6.Qd2 Nbd7 7.Bb3 a5 8.Nge2 {Both sides have treated the
+opening in good style, but this Knight should have been played
+to f3, so as to leave e2 open for the other Knight, and
+besides the Knight at f3 would guard important squares.} h6
+9.Be3 b5 10.a3 Ng4 {Here 10...Qb6 followed by further
+operations on the Q side, was better.} 11.d4 Ba7 12.Nd1
+{Abandoning too much ground to his opponent. The logical
+attack was against Black's c-pawn, by 12.d5, after 12...Nxe3
+13.fxe3 b4 14.dec6 White would have a good game, for instance,
+14...Nc5 15.Nb5 O-O 16.Bd5.} O-O 13.f3 Nxe3 14.Nxe3 Nf6 15.c3
+Qb6 16.Rd1 Be6 17.Bc2 c5 {But now Black obstructs the diagonal
+of the KB, giving all his advantage away. Had he played
+systematically to open the center by 17...Rad8, followed by
+Rfe8, Bc8 and d5, White would have had a difficult defence.}
+18.d5 Bd7 19.c4 b4 20.O-O Rae8 21.Ng3 g6 22.f4 Kg7 23.h4 exf4
+24.Rxf4 Re5 25.Rdf1 Ng8 26.h5 g5 27.Ngf5+ Kh7 28.R4f2 Bxf5
+29.Rxf5 Rxf5 30.Rxf5 Kg7 31.e5 dxe5 32.Qd3 Re8 33.d6 Bb8
+34.Rxg5+ hxg5 35.Qh7+ Kf8 36.Nf5 Rd8 37.Qg7+ Ke8 38.Qxg8+ Kd7
+39.Qxf7+ 1-0

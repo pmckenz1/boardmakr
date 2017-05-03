@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Oliver Jackson"]
+[Black "Murugan Thiruchelvam"]
+[ECO "B18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. N1e2 Nf6 8. Nf4 Bh7 9. Bc4 e6 10. c3 Bd6 11. Nfh5 O-O
+12. Bg5 Be7 13. Bxf6 Bxf6 14. Qf3 Nd7 15. Ne4 b5 16. Bd3 Rc8
+17. g4 Bxh4 18. Qh3 Bxe4 19. Bxe4 Nf6 20. Nxf6+ Bxf6 21. f4 c5
+22. O-O-O cxd4 23. g5 Bxg5 24. fxg5 Qxg5+ 25. Kb1 dxc3
+26. Rdg1 Qf4 27. Rg4 Qd2 28. Rg2 Qf4 29. Rg4 Qd2 30. Rg2 Qf4
+1/2-1/2

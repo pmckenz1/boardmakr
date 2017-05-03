@@ -1,0 +1,20 @@
+[Event "Ch Hungary (w), Lillafured (Hungary)"]
+[Site "Ch Hungary (w), Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Melinda Goczo"]
+[Black "Ticia Gara"]
+[ECO "D73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d5 5. Bg2 dxc4 6. Na3 O-O
+7. O-O Nc6 8. Nxc4 Be6 9. b3 Bd5 10. Bb2 a5 11. e3 a4 12. Qe2
+Qc8 13. Rfd1 Rd8 14. Nfe5 Bxg2 15. Kxg2 Nxe5 16. dxe5 Nd5
+17. e4 Nb4 18. Rxd8+ Qxd8 19. Rd1 Qc8 20. a3 Nc6 21. b4 Qe6
+22. f4 f6 23. exf6 exf6 24. Rd3 Re8 25. Nd2 Qa2 26. Nf3 Qc4
+27. Re3 Qxe2+ 28. Rxe2 Rd8 29. Rd2 Kf7 30. Kf2 Rxd2+ 31. Nxd2
+Na7 32. Ke3 Nb5 33. Kd3 Bf8 1/2-1/2

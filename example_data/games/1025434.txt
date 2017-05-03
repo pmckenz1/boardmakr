@@ -1,0 +1,22 @@
+[Event "Dortmund Open-A"]
+[Site "Dortmund GER"]
+[Date "1992.04.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Joerg Blauert"]
+[Black "Yuri Balashov"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Bb5+ Nc6 6.Nf3 Bd6
+7.dxc5 Bxc5 8.O-O Ne7 9.Nbd2 O-O 10.Nb3 Bb6 11.Bd3 h6 12.Re1
+Bg4 13.Be3 Re8 14.Bxb6 Qxb6 15.Re3 Nf5 16.Rxe8+ Rxe8 17.Bxf5
+Bxf5 18.Qd2 a5 19.Nfd4 Bg6 20.a4 Re4 21.f3 Re7 22.Kh1 Ne5
+23.Nb5 Nd3 24.N3d4 Qf6 25.b3 h5 26.g3 h4 27.Kg2 Bh7 28.Rf1 g5
+29.Kg1 Bg6 30.g4 h3 31.Rd1 Qe5 32.Rf1 Nf4 33.Rd1 Bd3 34.Qf2
+Bxb5 35.axb5 Qe3 36.Qxe3 Rxe3 37.Rc1 Nd3 38.Rd1 Ne5 39.Kf2
+Rxc3 40.Kg3 Nd3 41.Rd2 Nf4 42.Nf5 Rxb3 43.Ne7+ Kg7 44.Nxd5
+Rxb5 45.Nxf4 gxf4 46.Kxf4 a4 0-1

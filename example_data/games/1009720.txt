@@ -1,0 +1,19 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Nikolai Stawski"]
+[Black "Tim Reilly"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 O-O 6. Nf3 c6
+7. Qd2 d5 8. e5 Ne4 9. Nxe4 dxe4 10. Ng1 f6 11. Bc4+ Kh8
+12. Bh4 c5 13. c3 fxe5 14. fxe5 cxd4 15. cxd4 Nc6 16. Bf2 Nxe5
+17. Be2 Rxf2 18. Kxf2 e3+ 19. Qxe3 Ng4+ 20. Bxg4 Bxd4 21. Bf3
+Bxe3+ 22. Kxe3 Qb6+ 23. Kf4 e5+ 24. Kg3 Qe3 25. Nh3 Bxh3
+26. Kxh3 e4 0-1

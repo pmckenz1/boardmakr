@@ -1,0 +1,27 @@
+[Event "etch, (m) Pula (Croatia)"]
+[Site "Pula CRO"]
+[Date "1997.05.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Zigurds Lanka"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4
+7. Bg5 h6 8. Bh4 g5 9. Be2 Bg7 10. Bg3 h5 11. Bxg4 Bxg4 12. f3
+Bd7 13. Bf2 Nc6 14. O-O Ne5 15. Nde2 Rc8 16. Nd5 Be6 17. Bd4
+Bxd5 18. exd5 Qa5 19. f4 gxf4 20. Nxf4 Qa4 21. c3 Qxd1
+22. Raxd1 Rh7 23. Bxe5 Bxe5 24. Nd3 Bh8 25. Rf4 Kd7 26. Rdf1
+Bf6 27. Rb4 Kc7 28. Rc4+ Kb8 29. Rxc8+ Kxc8 30. Rf5 Kd7
+31. Kf2 h4 32. Kf3 b5 33. a3 a5 34. Nf2 Be5 35. Ng4 Bh8 36. h3
+b4 37. axb4 axb4 38. cxb4 Bxb2 39. Rf4 Rh5 40. Ke4 f6 41. Rf5
+Rh8 42. Rf2 Bc3 43. Rc2 Bxb4 44. Rb2 Rh5 45. Rf2 Bc3 46. Rf5
+Rh8 47. Rf3 Bd2 48. Rd3 Bg5 49. Kf5 Ra8 50. Nf2 Ra4 51. Ne4
+Bc1 52. Rc3 Bh6 53. Rb3 Rd4 54. Rb5 Ke8 55. g4 hxg3 56. Nxg3
+Kf7 57. Ne4 Rd3 58. Nxd6+ exd6 59. Rb7+ Kg8 60. Kg6 Bf8
+61. Rb5 Rxh3 62. Kxf6 Rh6+ 63. Kg5 Rh7 64. Kf6 Re7 65. Ra5
+Rf7+ 66. Kg6 Be7 67. Ra7 Rf6+ 68. Kg5 Kf7 69. Ra5 Rf1+ 0-1

@@ -1,0 +1,62 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.23"]
+[EventDate "1895.08.05"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Wilhelm Steinitz"]
+[Black "Amos Burn"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 {Notes by I. Gunsberg} d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7
+5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 exd5 {There is not much
+harm in this isolated Pawn. Black, however, could prevent it
+by altering his tactics, and let such moves as b3 and Bb2
+precede the advance of the c-pawn, which causes the isolated
+Pawn.} 9.Bd3 Nc6 10.O-O Be6 11.Rc1 Rc8 12.Bb1 Qa5 {This is one
+of those routine moves in this opening which, in this
+particular instance, has no merits to recommend it.} 13.Nd2
+Be7 14.Nb3 Qd8 15.Qd3 Qd7 16.Rfd1 Rfd8 17.Qe2 Qe8 18.Nb5 Bg4
+19.f3 Be6 20.Bc7 Rd7 21.Bg3 Rdd8 22.a3 Kh8 23.Be1 Nd7 24.Bc3
+Nb6 25.Qd3 Qg8 26.Na5 {Now we get a first glimpse of all this
+subtle manceuvring. White under the guise of attacking the
+isolated d-Pawn has placed his Pieces favourably for a King's
+side attack. The move is peculiarly characteristic of
+Mr. Steinitz's play. He does not depend on success in one
+direction, but his attacks are formed with a view to their
+bearing on all sides of the board. If Black replies to this
+excellent move, which engages the Queen's side with Nxa5, then
+Bxa5, threatening to follow tip with Bxb6 once more, would be
+bad for Black. The only other move left to defend the White
+b-Pawn would be Rd7, but this move would create weaknesses of
+a different kind by blocking Black's Pieces.} d4 {This,
+perhaps, was the least expected of Black's replies. A move of
+this kind, however, under difficulties and pressure of time
+limit, as this assuredly must have been, is often very useful;
+it serves the purpose of defence better than the more cautious
+move, such as Rd7 would have been. Very often it is well worth
+while taking such risks. The position is extremely
+interesting, and capable of treatment in many different ways.}
+27.Nxc6 {Black has verily attained his object of creating a
+dangerous complication. 27 Nxd4 would have avoided the
+necessity of giving up a Piece.} bxc6 28.Nxd4 c5 29.Qa6 {His
+only resource is to try for another Pawn ; with six Pawns to
+three, White should be able to hold his own, but it is a poor
+outcome of the fine position which he had previous to his 27th
+move.} cxd4 30.Bxd4 Rxc1 31.Rxc1 Rc8 32.Rc3 { It seems that
+White is not even going to have the satisfaction of getting a
+second pawn, for if he now plays 32 Rc8+ Qxc8 33 Qxa7 Qc1+ 34
+Kf2 Qd2+ 35 Kg3 Qe1+ 36 Kf4 Bd6+ and Black wins.} Rxc3 33.bxc3
+Qb8 34.Qd3 f5 35.g4 Nc4 36.gxf5 Nxa3 37.fxe6 Qxb1+ 38.Qxb1
+Nxb1 39.Kf2 Kg8 40.c4 Na3 41.c5 Nb5 42.f4 Nxd4 {This exchange
+was not well advised, it unites White's Pawns therefore
+lessens Black's chances of winning.} 43.exd4 Kf8 44.Ke3 Ke8
+45.Kd3 Kd8 46.f5 Kc7 47.Kc4 a6 48.d5 Bf8 49.c6 Be7 50.Kb3 Kd6
+51.Ka4 Bd8 52.Kb3 g5 53.fxg6 hxg6 54.h3 {The position is a
+most peculiar one, and White deserves great credit for the
+uphill fight. Of course, K x P is impossible, as then one of
+the two Pawns would be bound to go in. The White King stops
+the a-Pawn and the White Pawn stops the g-pawn.} 1/2-1/2

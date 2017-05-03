@@ -1,0 +1,26 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.12"]
+[EventDate "1920.08.02"]
+[Round "8"]
+[Result "0-1"]
+[White "C Wium"]
+[Black "Bertil Eriksson"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1.e4 c5 2.b4 cxb4 3.d4 e6 4.Nf3 Nf6 5.Bg5 Be7 6.Bxf6 Bxf6 7.e5
+Be7 8.Nbd2 d5 9.Bd3 Nc6 10.O-O Qb6 11.Nb3 a5 12.Qd2 Bd7 13.c4
+bxc3 14.Qxc3 Bb4 15.Qb2 a4 16.Nc1 a3 17.Qb3 Na5 18.Qd1 Bc3
+19.Rb1 Bb2 20.Ne2 Rc8 21.Qd2 h6 22.Ne1 Bb5 23.Nc2 Bxd3 24.Qxd3
+Qa6 25.Qd2 Nc4 26.Qf4 O-O 27.Rfd1 Nxe5 28.Rd2 Ng6 29.Qg3 Qa4
+30.Ne3 b5 31.Nd1 Rc2 32.Ndc3 Rxc3 33.Nxc3 Qc4 34.Nd1 Qxa2
+35.Qd3 Qc4 36.Nxb2 axb2 37.Rbxb2 Ra8 38.Qb1 b4 39.Rbc2 Qb5
+40.Rc5 Qb6 41.g3 Ne7 42.Qd3 Ra3 43.Qb5 Qxb5 44.Rxb5 b3 45.Rd3
+Nc6 46.Rbxb3 Rxb3 47.Rxb3 Nxd4 48.Rb4 Nf3+ 49.Kg2 Nd2 50.Rb2
+Nc4 51.Rb7 g5 52.g4 Kg7 53.h3 Kf6 54.Kf3 Ne5+ 55.Ke3 Ng6
+56.Kd4 Nf4 57.Rb3 e5 58.Kc5 d4 59.Kc4 Kg6 60.Rf3 h5 61.Ra3 h4
+62.Ra6+ f6 63.Ra3 d3 64.Rxd3 Nxd3 65.Kxd3 f5 66.f3 Kf6 67.Kc4
+Ke6 68.Kd3 fxg4 69.fxg4 Kd5 70.Ke3 e4 0-1

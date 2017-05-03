@@ -1,0 +1,18 @@
+[Event "It (cat.10)"]
+[Site "Akureyri (Iceland)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Karl Thorsteins"]
+[Black "Andras Adorjan"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b5
+7.cxb5 c6 8.Bg5 cxb5 9.e3 Bb7 10.Nf3 h6 11.Bh4 a6 12.Bd3 Nc6
+13.O-O Na5 14.Bxf6 gxf6 15.e4 Kg7 16.Rae1 Rg8 17.Qc1 Rc8
+18.Qf4 Qc7 19.Qh4 Nc4 20.Re2 Qd8 21.Qf4 Qc7 22.Qh4 Qd8 23.Qf4
+Qc7 1/2-1/2

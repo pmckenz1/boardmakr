@@ -1,0 +1,27 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Saha Suvrajit"]
+[Black "Varugeese Koshy"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6
+7. h3 Nbd7 8. Be3 e5 9. Qd2 Qe7 10. Rfe1 b5 11. a3 Bb7
+12. Rad1 Rfe8 13. Nh2 a6 14. Ng4 exd4 15. Bxd4 c5 16. Be3 Nxe4
+17. Nxe4 Bxe4 18. Bg5 f6 19. Bd3 d5 20. Bh4 Ne5 21. f3 g5
+22. Nxe5 gxh4 23. Ng4 f5 24. Nh6+ Bxh6 25. Qxh6 c4 26. fxe4
+cxd3 27. cxd3 dxe4 28. dxe4 fxe4 29. Rd5 Kh8 30. Rxe4 Qa7+
+31. Red4 Re1+ 32. Kh2 Qc7+ 33. Rd6 Rf1 34. Qxh4 Raf8 35. Qg3
+R1f7 36. Qe5+ Rg7 37. Rg4 Qf7 38. Rxg7 Qxg7 39. Qxg7+ Kxg7
+40. Rxa6 Rf2 41. b4 Ra2 42. Ra5 h6 43. Rxb5 Rxa3 44. Rb6 h5
+45. Rb8 Rb3 46. b5 Kh7 47. b6 Kg7 48. b7 Kh7 49. Kg1 Rb2
+50. Kf1 Kg7 51. Ke1 Kh7 52. Kd1 Kg7 53. Kc1 Rb6 54. Kc2 Rb4
+55. Kc3 Rb1 56. Kc4 Rb2 57. Kd5 Rb1 58. Ke6 Rb6+ 59. Kf5 Rb2
+60. Kf4 Rb5 61. g3 Kh7 62. Rf8 Rxb7 63. Rf5 Kg6 64. Rg5+ Kh6
+1/2-1/2

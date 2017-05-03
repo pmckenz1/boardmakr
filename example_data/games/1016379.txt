@@ -1,0 +1,18 @@
+[Event "It (cat.11)"]
+[Site "Szirak HUN"]
+[Date "1985.10.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Josef Klinger"]
+[Black "Andras Adorjan"]
+[ECO "B82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f4 a6 7.Bd3
+Nc6 8.Nf3 Be7 9.O-O O-O 10.Kh1 b5 11.e5 Ne8 12.Qe1 Bb7 13.Ne4
+dxe5 14.Neg5 g6 15.fxe5 Nb4 16.Qh4 h5 17.Qg3 Nxd3 18.Nxe6 Nf2+
+19.Rxf2 Qd1+ 20.Ng1 h4 21.Qb3 fxe6 22.Qxe6+ Kh8 23.Qxe7 Rxf2
+24.Qxh4+ Kg8 25.Qxf2 Rc8 26.c3 Rc4 27.e6 Nd6 28.Bh6 1-0

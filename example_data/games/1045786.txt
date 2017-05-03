@@ -1,0 +1,22 @@
+[Event "Prag"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Eduard Prandstetter"]
+[Black "Lubomir Ftacnik"]
+[ECO "B84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Be7 8. f4 O-O 9. Be3 Qc7 10. g4 Re8 11. g5 Nfd7 12. f5
+Ne5 13. Qe1 Nbc6 14. Qg3 b5 15. f6 Nxd4 16. Bxd4 Bf8 17. a3
+Rb8 18. Bd3 g6 19. Ne2 Nxd3 20. cxd3 e5 21. Rac1 Qd7 22. Be3
+d5 23. Bc5 dxe4 24. dxe4 Bxc5+ 25. Rxc5 Qa7 26. b4 Be6 27. Rf2
+Bc4 28. Nc3 Rbd8 29. Nd5 Bxd5 30. exd5 e4 31. Rc7 Qb6 32. Re7
+Rf8 33. Qh4 h5 34. Qxe4 Qd6 35. Re2 Rc8 36. Qe5 Rc1+ 37. Kg2
+Qb6 38. Qd4 Qd6 39. Qe5 Qb6 40. Rf2 Rd1 41. Rxf7 Qd8 42. Rg7+
+Kh8 43. Rxg6 1-0

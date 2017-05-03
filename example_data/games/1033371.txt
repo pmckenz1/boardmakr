@@ -1,0 +1,24 @@
+[Event "4, Benidorm op (10s)"]
+[Site "4, Benidorm op Hiarcs 7.32 (10s)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mark Hebden"]
+[Black "Fernando Braga"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+ 5. Nbd2 dxc4 6. a3
+Be7 7. Nxc4 O-O 8. e3 Nbd7 9. Rc1 c5 10. Be2 b6 11. O-O Bb7
+12. Bf4 cxd4 13. Nxd4 Rc8 14. Bf3 Bd5 15. Bxd5 Nxd5 16. Bg3
+Nc5 17. Qc2 h5 18. h3 Nb7 19. Qe2 g6 20. Rfd1 Qe8 21. e4 Bg5
+22. exd5 Bxc1 23. dxe6 Rxc4 24. Qxc4 Bxb2 25. Qb4 Bxd4 26. e7
+Bc5 27. exf8=Q+ Bxf8 28. Qc4 Nc5 29. Kh2 Ne6 30. Qa6 Qe7
+31. a4 h4 32. Bb8 Qc5 33. Qe2 a5 34. Qf3 Qc4 35. Rd7 Ng5
+36. Qf6 Qc5 37. Rd8 Ne6 38. Be5 Qxe5+ 39. Qxe5 Nxd8 40. Qb8
+Ne6 41. Qxb6 Bb4 42. Qe3 g5 43. Qe5 Kf8 44. Qf6 Ke8 45. g3 Be7
+46. Qh8+ Kd7 47. gxh4 gxh4 48. Qh5 Nc5 49. Qxf7 Nxa4 50. Qf5+
+1-0

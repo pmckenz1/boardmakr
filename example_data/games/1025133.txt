@@ -1,0 +1,20 @@
+[Event "Nabereznye Chelny"]
+[Site "04"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Sergey Dolmatov"]
+[Black "Yuri Balashov"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nd7 10.d4 Bf6 11.Be3 Na5 12.Bc2 Nc4 13.Bc1
+Bb7 14.a4 c5 15.d5 Ncb6 16.b3 g6 17.Qe2 c4 18.b4 Qc7 19.Nfd2
+bxa4 20.Bxa4 Nxa4 21.Rxa4 Nb6 22.Ra5 Bd8 23.Nf3 f5 24.Bh6 fxe4
+25.Qxe4 Rf5 26.g4 Rf7 27.Rd1 Nd7 28.Ng5 Bxg5 29.Bxg5 Nf6
+30.Qg2 Kg7 31.Nd2 h6 32.Be3 Rc8 33.Nf1 Rff8 34.Ng3 Qf7 35.Kh2
+Kh7 36.Rd2 1/2-1/2

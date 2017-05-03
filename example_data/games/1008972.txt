@@ -1,0 +1,32 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Ziaur Rahman"]
+[Black "John Emms"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "187"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5
+Bc5 7. g3 O-O 8. N5c3 Re8 9. Bg2 e4 10. O-O Bf5 11. Na3 Na6
+12. Be3 Bb4 13. Nab5 Nc7 14. Nxc7 Qxc7 15. Qb3 Qa5 16. Rfd1
+Rad8 17. Bg5 Bxc3 18. bxc3 Rxd5 19. Bxf6 Rxd1+ 20. Rxd1 Be6
+21. Qc2 gxf6 22. Bxe4 Qxa2 23. Bxh7+ Kg7 24. Qxa2 Bxa2 25. Bd3
+a6 26. Ra1 Bd5 27. f3 Rc8 28. Ra3 Rc5 29. Kf2 f5 30. Ke3 a5
+31. c4 Be6 32. Rb3 Bxc4 33. Bxc4 Rxc4 34. Rxb7 Rc3+ 35. Kf4
+Kg6 36. Rb5 Rc4+ 37. Ke3 Ra4 38. h3 Ra2 39. g4 fxg4 40. hxg4
+a4 41. f4 a3 42. Rb6+ Kg7 43. g5 Rb2 44. Ra6 a2 45. Kf3 Rb3+
+46. e3 Rb2 47. f5 Rb5 48. e4 Rb2 49. Ra7 Kg8 50. Kf4 Rf2+
+51. Ke5 Rb2 52. f6 Rb5+ 53. Kf4 Rb2 54. e5 Rg2 55. Kf5 Rf2+
+56. Ke4 Rg2 57. Kd5 Rxg5 58. Rxa2 Rg1 59. Kd6 Rb1 60. Rc2 Rb6+
+61. Rc6 Rb8 62. Rc7 Rb6+ 63. Kc5 Ra6 64. Rd7 Ra5+ 65. Kd6 Ra6+
+66. Kc7 Ra7+ 67. Kd8 Ra5 68. Re7 Ra8+ 69. Kc7 Ra7+ 70. Kb6 Ra1
+71. Rd7 Re1 72. Rd5 Kh7 73. Kc6 Kg6 74. Kd6 Ra1 75. Rc5 Ra6+
+76. Rc6 Ra7 77. Rc8 Ra6+ 78. Kd7 Kf5 79. Re8 Ra7+ 80. Kd8 Ra5
+81. Re7 Ra8+ 82. Kd7 Kg6 83. Re8 Ra7+ 84. Kd6 Kf5 85. Rb8 Ra6+
+86. Ke7 Ra7+ 87. Kf8 Kxe5 88. Kg7 Kf5 89. Rb5+ Ke6 90. Rb1 Ra2
+91. Rb6+ Kf5 92. Kxf7 Ra7+ 93. Kg8 Ra8+ 94. Kg7 1-0

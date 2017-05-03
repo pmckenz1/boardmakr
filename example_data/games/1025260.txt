@@ -1,0 +1,19 @@
+[Event "Trnava-A"]
+[Site "Trnava-A"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Jan Smejkal"]
+[ECO "C95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1
+Bf8 14.Bg5 h6 15.Bh4 g6 16.dxe5 dxe5 17.N3h2 Bg7 18.Qf3 c5
+19.Rad1 Qc7 20.Ne3 c4 21.Nhg4 Nxg4 22.hxg4 Nc5 23.Nd5 Bxd5
+24.Rxd5 Ne6 25.Red1 Ra7 26.Qe3 Rb7 27.Qd2 Bf8 28.Bf6 Bg7
+29.Bxg7 Kxg7 30.g3 a5 31.Rd7 1/2-1/2

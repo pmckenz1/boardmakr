@@ -1,0 +1,20 @@
+[Event "Hastings 1980/81"]
+[Site "Hastings ENG"]
+[Date "1980.12.30"]
+[EventDate "1980.01.05"]
+[Round "2"]
+[Result "1-0"]
+[White "Paul E Littlewood"]
+[Black "Lubomir Ftacnik"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 c6
+7. Bb2 Bf5 8. Qb3 dxc4 9. Bxc4 b5 10. Be2 a5 11. a3 Na6
+12. bxa5 Qxa5 13. O-O Rac8 14. Rfd1 Ne4 15. Nxe4 Bxe4 16. a4
+Bd5 17. Qc2 Qb6 18. e4 Be6 19. Ng5 Bd7 20. axb5 cxb5 21. Qb3
+Nc7 22. d5 Bxb2 23. Qxb2 Ra8 24. Rxa8 Rxa8 25. e5 Rd8 26. Qb4
+Be8 27. Qh4 h5 28. d6 Na6 29. Ne4 exd6 30. exd6 Nb8 31. Nf6+
+Kf8 32. Qf4 Kg7 33. Qe5 Nc6 34. Nxe8+ Kh6 35. Qf4+ 1-0

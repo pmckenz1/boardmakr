@@ -1,0 +1,27 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1922.08.08"]
+[EventDate "1922.07.31"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexander Alekhine"]
+[Black "Milan Vidmar"]
+[ECO "D41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1. d4 {Notes by Geza Maroczy} Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5
+5. cxd5 exd5 6. Bg5 Be6 7. e4 {The right continuation was here
+: 7 Bxf6 Qxf6 8 e4 dxe4 9 Bb5+ Bd7 10 Nxe4 (better than 10
+Bxd7+ Nxd7 11 Nxe4 on account of ...Qa6!) followed by Bb5+ and
+O-O.} Be7 8. Bb5+ Nc6 9. Ne5 {Here White could have prevented
+his opponent from castling but it would not have been any more
+advantageous, for instance : 9 Bxf6 Bxf6 10 exd5 Bxd5 11 Qe2+
+Kf8, etc.} Rc8 10. Qa4 cxd4 {Very well played!} 11. Qxd4 O-O
+12. Bxc6 bxc6 13. exd5 Nxd5 14. Bxe7 Qxe7 15. O-O Rfd8
+16. Rfe1 c5 17. Nxd5 Rxd5 18. Qe3 {White could very well fall
+into a very interesting trap. As it seems White wins the
+exchange with Nc6, but in fact he loses the game : 18 Nc6 Qd7
+19 Ne7+ Kf8! and black wins.} h6 19. h3 Qb7 20. b3 Rcd8
+1/2-1/2

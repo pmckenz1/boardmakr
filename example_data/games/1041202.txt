@@ -1,0 +1,20 @@
+[Event "Buenos"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.18"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Raimundo Garcia"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.g3 O-O 6.Bg2 d6 7.Nf3 e5
+8.dxe6 Bxe6 9.Ng5 Bxc4 10.Bxb7 Nbd7 11.Bxa8 Qxa8 12.O-O d5
+13.Re1 d4 14.Nb1 Re8 15.Nd2 Bd5 16.b3 Ng4 17.Bb2 Qd8 18.Ngf3
+f5 19.h3 Ngf6 20.e3 dxe3 21.Rxe3 Rxe3 22.fxe3 Qe7 23.Qe1 Bh6
+24.Kf2 g5 25.Ng1 g4 26.h4 Nh5 27.Qe2 Nxg3 28.Kxg3 Bxe3 29.Ndf3
+gxf3 30.Nxf3 Qe4 31.Rg1 Kf8 32.Ng5 f4 33.Kh3 Qe7 34.Qh5 Bxg1
+35.Nxh7+ Qxh7 36.Qxh7 Ke8 37.Qg6+ 1-0

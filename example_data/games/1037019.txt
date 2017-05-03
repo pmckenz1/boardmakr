@@ -1,0 +1,19 @@
+[Event "It (cat.8)"]
+[Site "Vrnjachka Banja (Yugoslavia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Branimir Maksimovic"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3
+Qa5 8.Bd2 Nbc6 9.a4 Bd7 10.Be2 c4 11.Ng5 h6 12.Nh3 Ng6 13.Bh5
+O-O-O 14.O-O Nce7 15.f4 Rdg8 16.Qe1 f5 17.Bc1 Rh7 18.Ba3 Qd8
+19.a5 Nh8 20.Qc1 g6 21.Be2 g5 22.Kh1 Neg6 23.fxg5 Nf7 24.gxh6
+Rxh6 25.Qe3 Nh4 26.Nf4 Ng5 27.Nh5 Rgh8 28.Nf6 Ne4 29.Nxe4 dxe4
+30.Rf2 f4 31.Qxf4 e3 32.Qxe3 Nf5 33.Qf4 Rh4 0-1

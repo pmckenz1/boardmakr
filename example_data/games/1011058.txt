@@ -1,0 +1,26 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Kjetil A Lie"]
+[Black "Knut Harald Storland"]
+[ECO "B03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Be2 Be7
+7. Nf3 O-O 8. O-O Bf5 9. Be3 c6 10. Nbd2 Re8 11. Re1 a5
+12. Rc1 N8d7 13. Nf1 Bg6 14. Ng3 Bf6 15. Qd2 Nf8 16. h4 h6
+17. h5 Bh7 18. Bd3 Qd7 19. Bxh7+ Nxh7 20. d5 c5 21. Qc2 Qg4
+22. Nh2 Qh4 23. Nf3 Qg4 24. Qf5 Qxf5 25. Nxf5 Rad8 26. b3 Nc8
+27. Bf4 Be7 28. Bd2 b6 29. g4 Bf8 30. g5 hxg5 31. Bxg5 Nxg5
+32. Nxg5 Ne7 33. Ng3 Nc8 34. Kh2 Be7 35. N5e4 g6 36. hxg6 fxg6
+37. Re3 Kg7 38. Ne2 Rh8+ 39. Kg3 Bh4+ 40. Kg4 Ne7 41. Nf4 Nf5
+42. Ne6+ Kg8 43. Nxd8 Nxe3+ 44. fxe3 Bxd8 45. Nxd6 Rh2 46. Rf1
+Rg2+ 47. Kf3 Rxa2 48. Nb7 Bf6 49. Ke4 Kg7 50. Nd6 Bg5 51. Ne8+
+Kg8 52. Rg1 Bd8 53. Rxg6+ Kf8 54. Nd6 a4 55. bxa4 Rxa4 56. Kf5
+Be7 57. e4 Bxd6 58. Rxd6 Rxc4 59. Rxb6 Ke7 60. e5 Rd4 61. Rb7+
+Kd8 62. d6 c4 63. Ke6 Kc8 64. Rb4 Rh4 65. d7+ Kc7 66. Rb7+ 1-0

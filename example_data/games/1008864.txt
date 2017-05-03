@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Matthew Turner"]
+[Black "Alexander Baburin"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Nf3 Bg4 5. d5 Ne5 6. Nbd2 Qd6
+7. Qa4+ Bd7 8. Qc2 e6 9. Nxc4 Nxf3+ 10. gxf3 Qe7 11. Be3 exd5
+12. exd5 Qb4+ 13. Bd2 Qc5 14. O-O-O Qxd5 15. Bd3 Be6 16. Rhe1
+Nf6 17. Kb1 O-O-O 18. Bc3 Qxf3 19. Ne5 Qf4 20. Nxf7 Rxd3
+21. Be5 Qc4 22. Qxc4 Bxc4 23. Nxh8 Bb4 24. Rg1 Ng4 25. Bxg7
+Nxf2 26. Rxd3 Bxd3+ 27. Ka1 Bc5 28. Be5 Bb6 29. Rg7 Be4
+30. Nf7 Nd3 31. Bc3 Be3 32. h4 Bg6 33. Nh8 Bf2 34. Nxg6 hxg6
+35. Bf6 Nf4 36. Bg5 Ng2 37. Rh7 Be3 38. Rf7 Bxg5 39. hxg5 Nh4
+40. Rf4 Nf5 1-0

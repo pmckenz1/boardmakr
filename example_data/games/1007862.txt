@@ -1,0 +1,56 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1927.03.23"]
+[EventDate "1927.02.19"]
+[Round "20"]
+[Result "1/2-1/2"]
+[White "Aron Nimzowitsch"]
+[Black "Milan Vidmar"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. e4 {Notes by Nimzowitsch} c5 2. Nf3 e6 3. c3 {A draw was
+sufficient for White, whilst Black had to play for a win.} Nf6
+4. e5 Nd5 5. d4 cxd4 6. cxd4 Be7 {Here 6...b6 would please us
+more.} 7. Nc3 Nxc3 8. bxc3 d5 {Here also we should have
+preferred ...b6.} 9. exd6 {A possible continuation was 9 Bd3
+O-O 10 Qc2 g6 11 h4.} Qxd6 10. Be2 {With hanging pawns the
+bishop must be played to Be2 and not to d3.} O-O 11. O-O Nd7
+12. a4 {The "limited" initiative directed against the pawn,
+which will presently be posted at b6.} Qc7 13. Qb3 b6 14. c4
+Bb7 15. a5 Bf6 {On 15...bxa5 the sequel would have been, 16
+Bf4 Qb6 17 Qa4 with a double attack on a5 and d7.} 16. axb6
+axb6 17. Be3 h6 18. h3 Rfc8 19. Rfc1 {This move, in effect,
+gains a whole tempo. Black cannot accept the pawn sacrifice
+which this move involves without foregoing all his chances,
+e.g. : 19...Rxa1 20 Rxa1 Bxf3 21 Bxf3 Qxc4 22 Qxc4 Rxc4 23
+Ra8+ Nf8 24 d5 and White has full command of the game.} Rcb8
+20. Rxa8 Rxa8 {The two moves by the rook (...Rcb8 and ...Rxa1)
+gave white the tempo mentioned above.} 21. Nd2 Be7 22. Bf3 Ra3
+23. Qb2 Bxf3 24. Nxf3 Ra5 25. Qd2 Ba3 26. Rc2 Bd6 27. Rc1 Ba3
+28. Rc2 Bd6 29. Rc1 Qa7 30. Qd3 Ra3 31. Qe4 {The central
+hegemony established herewith is in full logical agreement
+with the course of the game. It will not have escaped the
+thoughtful reader that the wing attack initiated by White (a4,
+a5, axb6) has only resulted in Black assuming the offensive
+himself in that quarter. The attack thus passing over to the
+enemy could be explained only by mistakes on the part of
+White, or else by the fact that White's attack had no
+justification. But in reality neither is the case and White
+played the attack correctly and had good reasons for
+attacking. Only in this way could the stability of the White
+hanging pawns be preserved. Therefore Black -'sit venia verbo'
+- must have usurped the attack on the extreme wing, which
+would only be done by giving up other important territory,
+namely, the center. On this basis, White's hegemony in the
+center can be understood. The conclusion is logically
+convincing.} Nf6 32. Qc6 Rxe3 33. Qxd6 {Black's operation on
+the Q wing were conducted with the outmost energy but were
+parried by cool-headed play in the center : wing operations
+and central manouvers kept the balance. Concerning the
+acceptance of the sacrifice, the following variation is
+informative : 33fxe3 Qa3 34 Re1 Bg3 35 Rf1 Qxe3+ 36 Kh1 Ne4
+with the main threat of ...Bf4. A game very soundly played by
+both sides.} 1/2-1/2

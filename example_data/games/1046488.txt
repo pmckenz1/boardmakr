@@ -1,0 +1,23 @@
+[Event "Brno m"]
+[Site "Brno m"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lubomir Ftacnik"]
+[Black "Fritz (Computer)"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 e6 5. Bg5 f6 6. cxd5 exd5
+7. Bf4 Bb4 8. e3 Nge7 9. Be2 O-O 10. h3 Bf5 11. O-O Ng6
+12. Bh2 Re8 13. Qb3 Nge7 14. a3 Ba5 15. Rfc1 Qd7 16. Na4 Bb6
+17. Nc5 Bxc5 18. Rxc5 b6 19. Rc3 Na5 20. Qd1 c6 21. Rac1 Nb7
+22. Ne1 Nd8 23. Nd3 Be4 24. b4 Nf7 25. b5 cxb5 26. Rc7 Qd8
+27. Nf4 Nf5 28. Bxb5 Re7 29. R7c3 g5 30. Nh5 N5d6 31. Bc6 Rc8
+32. Nxf6+ Kg7 33. Nh5+ Kh8 34. Ba4 Rxc3 35. Rxc3 b5 36. Bb3
+Nc4 37. Nf6 a6 38. Nxe4 Rxe4 39. Bc2 Re6 40. Qg4 Rf6 41. e4
+Qa5 42. Qg3 dxe4 43. Bxe4 Re6 44. Re3 Qd2 45. Qb8+ Kg7
+46. Be5+ Rxe5 47. dxe5 Nxe3 0-1

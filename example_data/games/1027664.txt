@@ -1,0 +1,20 @@
+[Event "Chess Olympiad Final-A"]
+[Site "Lugano SUI"]
+[Date "1968.10.26"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Renato Naranja"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 Nc6 4.c4 d4 5.O-O e5 6.d3 Bc5 7.b4
+Nxb4 8.Nxe5 O-O 9.a3 Na6 10.Nf3 Re8 11.Bb2 Qd6 12.Nbd2 Bd7
+13.a4 Bc6 14.Nb3 Rad8 15.Na5 Nb4 16.Nxc6 Nxc6 17.Nd2 Na5
+18.Rb1 b6 19.Bf3 Qe6 20.Bc1 h6 21.Re1 Nc6 22.Nb3 Ne5 23.Bg2
+Bb4 24.Bd2 Bxd2 25.Qxd2 c5 26.a5 Rd6 27.Na1 Qf5 28.Nc2 Neg4
+29.Bf3 Ne5 30.Bg2 Neg4 31.Bf3 Ne5 32.Bg2 Nfg4 33.f3 Nf6 34.Na3
+1/2-1/2

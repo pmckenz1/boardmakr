@@ -1,0 +1,22 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1996.08.18"]
+[EventDate "1996.08.17"]
+[Round "2"]
+[Result "1-0"]
+[White "Julian Michael Hodgson"]
+[Black "Utut Adianto"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 d5 2.Bg5 h6 3.Bh4 c6 4.Nf3 Qb6 5.b3 Bf5 6.e3 e6 7.Bd3
+Bxd3 8.Qxd3 Nd7 9.O-O Be7 10.Bxe7 Nxe7 11.c4 O-O 12.Nc3 Qa6
+13.Rfd1 Nb6 14.Rdc1 dxc4 15.Qf1 Nd7 16.bxc4 c5 17.d5 Rad8
+18.Rab1 exd5 19.cxd5 Qxf1+ 20.Kxf1 b6 21.a4 f5 22.a5 Nc8
+23.Nb5 bxa5 24.Nc7 Rf7 25.Rb5 Ncb6 26.Rxa5 Nf6 27.Rcxc5 Rdd7
+28.Rxa7 Nfxd5 29.Nxd5 Rxd5 30.Rcc7 Rxc7 31.Rxc7 Nd7 32.Nd4 Nf6
+33.Ra7 g6 34.h4 f4 35.Nc6 Rd7 36.Rxd7 Nxd7 37.exf4 Nc5 38.Ke2
+Kg7 39.Nd4 Nb7 40.g4 Nd6 41.Kf3 h5 42.g5 Kf7 43.f5 gxf5 44.Kf4
+Kg6 45.f3 Nb7 46.Nxf5 Nc5 47.Nd4 Nd3+ 48.Kg3 1-0

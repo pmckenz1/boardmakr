@@ -1,0 +1,24 @@
+[Event "FEBTC Open, Greenhills PHI"]
+[Site "02"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Efren Bagamasbad"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Bd7 6.a3 Bb5 7.b4 cxb4
+8.Bxb5+ Qxb5 9.cxb4 Nd7 10.Nc3 Qc6 11.Na4 Nb6 12.Nxb6 axb6
+13.Bb2 Ne7 14.O-O Nc8 15.Rc1 Qd7 16.Rc3 Be7 17.Qc2 Bd8 18.Rc1
+Ne7 19.Qd3 Nc6 20.R1c2 O-O 21.Bc1 h6 22.Bf4 Na7 23.h4 Nb5
+24.Rb3 Be7 25.h5 f5 26.exf6 Bxf6 27.Be5 Qe8 28.Re2 Rc8 29.Re1
+Rc4 30.a4 Bxe5 31.Nxe5 Nd6 32.Qd1 Rc7 33.Rbe3 Ne4 34.Rf1 Rf6
+35.b5 Qc8 36.Ng6 Rcf7 37.f3 Ng3 38.Rfe1 Nxh5 39.Ne5 Re7 40.Qd2
+Rc7 41.Ng4 Rf8 42.Qb4 Nf4 43.g3 Nh3+ 44.Kg2 Ng5 45.Ne5 Rc2+
+46.R1e2 Rxe2+ 47.Rxe2 Qe8 48.Re1 Qc8 49.Qb2 Qa8 50.Qb3 Qa5
+51.Re2 Re8 52.Rc2 Qa8 53.Ng6 Qd8 54.Qd3 Nf7 55.Nf4 Qf6 56.Rc7
+Qd8 57.Rxb7 Nd6 58.Ra7 1-0

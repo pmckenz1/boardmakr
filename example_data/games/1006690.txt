@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.14"]
+[EventDate "1920.08.02"]
+[Round "10"]
+[Result "0-1"]
+[White "Anders Larsson"]
+[Black "Victor Sjoberg"]
+[ECO "B49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Qc7 6.Be2 Nc6 7.Be3
+Nf6 8.a3 b5 9.Bf3 Ne5 10.Be2 Bb7 11.f3 d5 12.exd5 Nxd5 13.Nxd5
+Bxd5 14.O-O Bd6 15.h3 Nc4 16.Bxc4 Bxc4 17.Rf2 Bg3 18.Rd2 Qe5
+19.Bf2 Bf4 20.b3 Bxd2 21.Qxd2 Bd5 22.Re1 Qf6 23.Nxb5 O-O
+24.Nc7 Rad8 25.Qe2 Bb7 26.Bc5 Qg5 27.Bxf8 Rd2 28.Qf1 Kxf8
+29.Nxe6+ fxe6 30.Rxe6 Qc5+ 31.Kh2 Qxc2 32.Re5 g6 33.b4 Rf2 0-1

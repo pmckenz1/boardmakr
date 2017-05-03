@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "15"]
+[Date "1958.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Fernando Casas"]
+[ECO "A70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.g3
+Bg7 8.Nd2 Nfd7 9.Nde4 Qb6 10.Qb3 O-O 11.Qxb6 Nxb6 12.Nxd6 Na6
+13.Bg2 Nb4 14.O-O Bxc3 15.bxc3 N4xd5 16.a4 a5 17.Ne4 Bf5
+18.Nxc5 Nxc3 19.e4 Be6 20.Bb2 Rfc8 21.Nxe6 fxe6 22.Bh3 Kf7
+1/2-1/2

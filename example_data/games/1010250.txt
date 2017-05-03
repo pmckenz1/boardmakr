@@ -1,0 +1,20 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Alexander Chernin"]
+[Black "Zoltan Almasi"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 Ba6 6. Qc2 exd5
+7. cxd5 g6 8. Nc3 Bg7 9. g3 O-O 10. Bg2 d6 11. O-O Re8 12. Re1
+Nbd7 13. h3 b5 14. Bf4 Qb6 15. e4 Rac8 16. Be3 Bb7 17. Nd2 Ne5
+18. Rac1 Ba6 19. b4 Ned7 20. Nb3 Qd8 21. Qa2 Nh5 22. bxc5 dxc5
+23. g4 Nhf6 24. f4 Bb7 25. Bf2 c4 26. Nd4 Nc5 27. Ndxb5 Nd3
+28. Qd2 a6 29. Nd4 Qa5 30. d6 Nd7 31. e5 Bxg2 32. Kxg2 g5
+1/2-1/2

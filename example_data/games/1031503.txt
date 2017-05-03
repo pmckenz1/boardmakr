@@ -1,0 +1,17 @@
+[Event "World op - op section"]
+[Site "06"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Karl Burger"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.Nc3 d5 5.cxd5 Nxd5 6.e4 Nxc3
+7.bxc3 O-O 8.Rb1 c5 9.Be2 Nc6 10.d5 Ne5 11.Nxe5 Bxe5 12.Qd2 e6
+13.f4 Bg7 14.c4 e5 15.O-O Qd6 16.f5 b6 17.Rf3 Bd7 18.Rg3 Be8
+19.Bg4 f6 20.fxg6 Bxg6 21.Be6+ Kh8 22.Rxg6 hxg6 23.Qd3 1-0

@@ -1,0 +1,23 @@
+[Event "Jakarta zt"]
+[Site "Jakarta zt"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Utut Adianto"]
+[Black "Ronald Bancod"]
+[ECO "A49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c5 6.d5 d6 7.c4 b5
+8.cxb5 a6 9.bxa6 Nbd7 10.Nc3 Nb6 11.Nd2 Bxa6 12.Qc2 Ra7 13.Rd1
+Qa8 14.Nde4 Rb8 15.Nxf6+ Bxf6 16.Bh6 Bc4 17.a4 Nd7 18.Ra3 Qb7
+19.Rb1 Bb3 20.Qc1 Ne5 21.Nb5 Rxa4 22.Rxb3 c4 23.Qf4 cxb3
+24.Qxa4 Qxb5 25.Qxb5 Rxb5 26.Rc1 Rb8 27.Rc7 g5 28.h4 Ng4
+29.Bxg5 Bxb2 30.Be4 Nf6 31.Bxf6 Bxf6 32.Kg2 b2 33.Bb1 Rb5
+34.f4 Rxd5 35.Rb7 Rd1 36.Bd3 h5 37.Kf3 Kf8 38.Rb8+ Kg7 39.Rb7
+d5 40.Rb4 Bd4 41.g4 hxg4 42.Kxg4 Bf6 43.Rb5 Rg1+ 44.Kf3 Rh1
+45.Ke3 Rxh4 46.Kf3 Rh1 47.Rb4 Rh3+ 48.Kf2 Bd4+ 49.Kg2 Re3
+50.Kh2 Kh6 51.Kg2 Kh5 52.f5 Kg5 53.Rb5 Kf4 54.Rb4 Rxd3 0-1

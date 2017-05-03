@@ -1,0 +1,16 @@
+[Event "Szirak"]
+[Site "Szirak HUN"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jesus Maria De La Villa Garcia"]
+[Black "Andras Adorjan"]
+[ECO "B80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.Qd2
+b5 8.f3 Nbd7 9.g4 h6 10.O-O-O Bb7 11.Bd3 Ne5 12.Rhe1 b4 13.Na4
+d5 14.exd5 Nxd5 1/2-1/2

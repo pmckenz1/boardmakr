@@ -1,0 +1,21 @@
+[Event "Dos Hermanas, Cat.16"]
+[Site "Dos Hermanas, Cat.16"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Ivan Morovic-Fernandez"]
+[Black "Vladimir Epishin"]
+[ECO "E17"]
+[WhiteElo "2605"]
+[BlackElo "2675"]
+[PlyCount "80"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 b6 4.Bg2 Bb7 5.O-O Be7 6.Nc3 O-O 7.d4
+Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Bf6 12.Be3 c6
+13.Rac1 a5 14.Rfd1 dxc4 15.Qxc4 Ra7 16.Rd3 Rd7 17.Rcd1 Qc8
+18.Ne1 Qb7 19.Nf3 Rc8 20.h4 Na6 21.Bg5 Nb4 22.R3d2 c5 23.dxc5
+Rxd2 24.Rxd2 bxc5 25.Bxf6 gxf6 26.h5 h6 27.Qc3 Kg7 28.a3 Nc6
+29.Rc2 Rd8 30.Qxc5 Rd1+ 31.Kg2 Nd4 32.Rc4 e5 33.Qc8 Qe4 34.Rc1
+Rxc1 35.Qxc1 Qxe2 36.Nh4 Qxh5 37.Qd2 a4 38.Qd3 Qg4 39.f3 Qc8
+40.g4 Qc1 0-1

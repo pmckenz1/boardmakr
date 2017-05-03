@@ -1,0 +1,20 @@
+[Event "London clock sim"]
+[Site "London clock sim"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Botvinnik"]
+[Black "Jacobs"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6 dxc6 6.d3 Qd6
+7.Nbd2 Be6 8.b3 Nd7 9.Bb2 f6 10.a4 O-O-O 11.Qe2 Bg4 12.h3 Bh5
+13.g4 Bg6 14.d4 Be7 15.dxe5 Nxe5 16.Nxe5 fxe5 17.O-O-O Qf6
+18.Qe3 b6 19.f3 Bc5 20.Qe2 b5 21.Kb1 Rhf8 22.h4 h5 23.g5 Qf4
+24.Bc1 Be3 25.Qh2 Qxh2 26.Rxh2 Rxf3 27.Re1 Rf2 28.Rxf2 Bxf2
+29.Rh1 Rd4 30.Rh2 Bg3 31.Rh3 Bf4 32.Rd3 Bxd2 33.Rxd4 Bxc1
+34.Rd1 Bf4 0-1

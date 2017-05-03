@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "0-1"]
+[White "Gunnar Andreyevich Uusi"]
+[Black "Vladimir Bagirov"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qa5 7.Nf3
+Bg4 8.Be2 dxc4 9.d5 O-O-O 10.Bxc4 e6 11.Bxf6 gxf6 12.O-O Rg8
+13.Be2 exd5 14.Qd3 d4 15.Ne4 Be7 16.Ng3 f5 17.Rfc1 Kb8 18.Qb3
+d3 19.Bd1 f4 20.Rxc6 fxg3 21.hxg3 Be6 22.Rxe6 fxe6 23.Qxe6
+Rge8 24.a3 Bc5 25.Qh6 d2 26.Qf4+ Bd6 27.Qh6 Re1+ 28.Kh2 Qb6
+29.Qg5 Bc7 30.b4 Qxf2 0-1

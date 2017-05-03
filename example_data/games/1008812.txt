@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Md. Taibur Rahman"]
+[Black "Angus Dunnington"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 c5 4. e5 h6 5. Bxf6 gxf6 6. Nf3 cxd4
+7. exf6 Qxf6 8. Nbd2 d5 9. Bb5+ Nc6 10. Qe2 Bg7 11. O-O O-O
+12. Rfe1 Re8 13. Nb3 e5 14. Nfxd4 Nxd4 15. Nxd4 Rd8 16. Nf3 e4
+17. Nd2 Qxb2 18. Rab1 Qxc2 19. Qe3 Qc3 20. Qf4 Qe5 21. Qe3 Qg5
+22. Ba4 Qxe3 23. Rxe3 Bd7 24. Bxd7 Rxd7 25. Rc1 Be5 26. g3 Rc7
+27. Rxc7 Bxc7 28. Kf1 Bb6 29. Rc3 Ba5 30. Rc2 Bxd2 31. Rxd2
+Rd8 32. Ke2 d4 33. Rb2 Rd7 34. Rb5 f6 35. Rc5 Kf7 36. Kd2 b6
+37. Rc8 h5 38. h3 Rd5 39. Rc7+ Ke6 40. Rxa7 Ra5 41. Rb7 Rxa2+
+42. Ke1 Rb2 43. Rh7 Rb5 44. Rh8 Rc5 45. Rd8 Ke5 46. Rh8 Ke6
+47. Rd8 d3 48. f4 Kf5 49. Kd1 h4 50. g4+ Kxf4 51. Rd6 Ke3 0-1

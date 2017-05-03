@@ -1,0 +1,16 @@
+[Event "Petersburg"]
+[Site "Petersburg"]
+[Date "1878.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Schlezer"]
+[Black "Mikhail Chigorin"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 Nc6 4. Bb5 Bc5 5. Bxc6 dxc6 6. Nxe5
+Bxf5 7. Qh5+ g6 8. Nxg6 hxg6 9. Qxh8 Qe7+ 10. Kd1 Bxf2
+11. Qxg8+ Kd7 12. Qc4 Re8 0-1

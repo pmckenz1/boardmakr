@@ -1,0 +1,27 @@
+[Event "Ch Hungary, Lillafured (Hungary)"]
+[Site "Ch Hungary, Lillafured (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Csaba Horvath"]
+[Black "Zoltan Gyimesi"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4
+a6 7. Qb3 c5 8. a4 Rb8 9. a5 Bd6 10. d3 Bc7 11. Bd2 O-O
+12. O-O Nd5 13. Qa3 Bd6 14. Nc3 N7f6 15. e4 Nxc3 16. Bxc3 Ne8
+17. Be5 b6 18. axb6 Qxb6 19. Rfc1 c4 20. Bxd6 Nxd6 21. Ne5 f6
+22. Nxc4 Nxc4 23. dxc4 Qxb2 24. c5 Qxa3 25. Rxa3 e5 26. Bf1
+Kf7 27. Bxa6 Bxa6 28. Rxa6 Rb7 29. Rc6 Rd8 30. Rc2 Rd4 31. f3
+Rbd7 32. h4 h5 33. Rc8 Rd2 34. c6 Rd1+ 35. Kf2 R7d2+ 36. Rxd2
+Rxd2+ 37. Ke3 Rc2 38. Kd3 Rc1 39. Kd2 Rc5 40. f4 Kg6 41. c7
+Rc6 42. Kd3 Rc5 43. fxe5 fxe5 44. Re8 Rxc7 45. Rxe5 Ra7
+46. Ke3 Ra1 47. Rg5+ Kh6 48. Kf4 g6 49. Rb5 Rf1+ 50. Ke5 Rf3
+51. Kd6 Rxg3 52. e5 g5 53. e6 gxh4 54. e7 Rg8 55. Kd7 h3
+56. Rb3 h4 57. Rxh3 Kg5 58. Rc3 Kg4 59. Rc8 Rg7 60. Ke6 Rxe7+
+61. Kxe7 h3 62. Kf6 h2 63. Rc1 Kg3 64. Kf5 Kg2 65. Kf4 h1=R
+66. Rc2+ Kh3 67. Rc3+ 1/2-1/2

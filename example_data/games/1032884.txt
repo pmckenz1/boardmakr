@@ -1,0 +1,21 @@
+[Event "10s, Esquel ARG"]
+[Site "Esquel ARG "]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Raymond Keene"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Nxb5 axb5
+12. Bxb5 Bd7 13. exf5 Rb8 14. a4 Qg5 15. g4 Qh4 16. Qf3 Nd4
+17. Qc3 Bxb5 18. axb5 Bg7 19. Rd1 O-O 20. Qg3 Qxg3 21. hxg3
+Rxb5 22. c4 Rxd5 23. cxd5 Rb8 24. O-O Rb5 25. Ra1 Bf6 26. Kg2
+Rxd5 27. Rfc1 e4 28. Rd1 h6 29. Ra6 Be5 30. Re1 Rb5 31. Rxe4
+Rxb2 32. Ra4 Rd2 33. Kf1 Rd1+ 34. Re1 Rd2 35. Re4 Rd1+ 36. Re1
+Rd2 37. Re4 1/2-1/2

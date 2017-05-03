@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1923.11.20"]
+[EventDate "1923.11.16"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Ernst Gruenfeld"]
+[Black "Albert Becker"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5
+7. Nd2 Bb4 8. Qc2 O-O 9. Bxf6 Nxf6 10. Bd3 Re8 11. O-O e5
+12. cxd5 cxd5 13. Nb3 Qd8 14. dxe5 Rxe5 15. Rad1 Bg4 16. Be2
+Rc8 17. Bxg4 Nxg4 18. Rd4 Bxc3 19. Rxg4 h5 20. Rf4 Bd4 21. Qb1
+Bb6 22. Rf5 Rxf5 23. Qxf5 g6 24. Qd3 Qf6 25. Qd2 Qf5 26. Rc1
+Rxc1+ 27. Qxc1 Qd3 1/2-1/2

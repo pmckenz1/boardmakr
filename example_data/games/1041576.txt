@@ -1,0 +1,21 @@
+[Event "It (cat.12)"]
+[Site "Novi Sad (Yugoslavia)"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bozidar Ivanovic"]
+[Black "Eugenio Torre"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.c3
+Na5 8.Bb5 a6 9.Ba4 b5 10.Bc2 c5 11.Nbd2 Re8 12.a4 b4 13.cxb4
+cxb4 14.Nb3 Be6 15.Nxa5 Qxa5 16.Bb3 Nd7 17.Bxe6 fxe6 18.Be3 d5
+19.Nd2 Qc7 20.Rc1 Qb7 21.Nb3 a5 22.exd5 exd5 23.d4 e4 24.Bf4
+Bd8 25.Re3 Rf8 26.Qg4 Ra6 27.Bg3 Rg6 28.Qd1 Nb6 29.Nxa5 Qa8
+30.Nb3 Bg5 31.Nc5 Nc4 32.Re2 Bxc1 33.Qxc1 Qc8 34.b3 Na5 35.Re3
+Nc6 36.Qd2 h5 37.h4 Qg4 38.Re1 Ne7 39.Qxb4 Nf5 40.Qc3 Nxh4
+41.b4 Nf3+ 42.gxf3 exf3 43.Qd3 Qh3 0-1

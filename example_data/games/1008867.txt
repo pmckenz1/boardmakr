@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Neil Berry"]
+[Black "James E Cobb"]
+[ECO "E91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7
+7. Be3 e5 8. d5 a5 9. Nd2 Ne8 10. g4 Nc5 11. h4 f5 12. gxf5
+gxf5 13. exf5 Bxf5 14. Nf1 Nf6 15. Ng3 Qd7 16. Rg1 Kh8 17. Qd2
+Nfe4 18. Ngxe4 Nxe4 19. Nxe4 Bxe4 20. Bg4 Bf5 21. Bxf5 Qxf5
+22. O-O-O Bf6 23. h5 b6 24. h6 Rg8 25. Qc2 e4 26. Rxg8+ Rxg8
+27. Qa4 Bg5 28. Qb3 Rg6 29. Qc3+ Kg8 30. Qd2 Kf7 31. Re1 Bh4
+32. Qd4 Bf6 33. Qd2 Rg4 34. Kb1 Kg6 35. Qc2 Bg5 36. Bxg5 Kxg5
+37. Qd2+ e3+ 0-1

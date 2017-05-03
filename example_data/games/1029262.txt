@@ -1,0 +1,23 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1894.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4
+5.c3 f5 {The interest in this game lies in the fact that at
+one time great things were expected from this Counter Gambit
+to the Evans; an invention by Herr Oscar Cordell. It has been
+proved unsound by subsequent analysis.} 6.Bxg8 {It would
+perhaps have been wiser simply to play d4.} fxe4 7.Qb3 {Bd5
+could have been played.} Qf6 8.Ng5 Qxg5 9.Qf7+ Kd8 10.cxb4 d6
+11.O-O {Qf8+, followed by Castles, was better.} Bh3 12.g3 Nd4
+13.Nc3 Be6 14.Qf8+ Kd7 15.Qxa8 Rxg8 16.Qxb7 Nf3+ 17.Kh1 Qh5
+18.h4 Qg4 19.Qb5+ Ke7 20.Nd5+ Kf7 0-1

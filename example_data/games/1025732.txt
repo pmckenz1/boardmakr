@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.12.01"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Roberto Messa"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 d5 2.Nf3 c5 3.c3 e6 4.g3 Nc6 5.Bg2 Nf6 6.O-O Bd6 7.Bg5 h6
+8.Bxf6 Qxf6 9.dxc5 Bxc5 10.Nbd2 O-O 11.e4 Bb6 12.exd5 exd5
+13.Nb3 Be6 14.Qd2 Rac8 15.Rfe1 Rfd8 16.Rac1 Bg4 17.Nbd4 a6
+1/2-1/2

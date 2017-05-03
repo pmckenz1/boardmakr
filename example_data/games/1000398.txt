@@ -1,0 +1,24 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Lorne Yee"]
+[Black "Daniel E Shapiro"]
+[ECO "E38"]
+[WhiteElo "2240"]
+[BlackElo "2330"]
+[PlyCount "107"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. e3 b6
+7. Nf3 Bb7 8. Be2 Be7 9. O-O d6 10. Rd1 a6 11. e4 Qc7 12. Be3
+Nbd7 13. Nd4 O-O 14. Rac1 Rac8 15. f3 Qb8 16. Qd2 Kh8 17. Bf1
+Rg8 18. Rc2 Bd8 19. b3 g5 20. g4 Ne5 21. Bg2 Rg6 22. h3 h5
+23. Nde2 hxg4 24. fxg4 Bc7 25. Bxg5 Nfxg4 26. hxg4 Rcg8
+27. Bf4 Nxg4 28. Qd3 R8g7 29. Bg3 b5 30. c5 dxc5 31. Bxc7 Qxc7
+32. Qd8+ Qxd8 33. Rxd8+ Kh7 34. Nf4 Rg5 35. Re2 Ne5 36. Kf1 b4
+37. Re3 Ng4 38. Rh3+ Nh6 39. Na4 Bc6 40. Bf3 c4 41. Kf2 Rg8
+42. Rxg8 Rxg8 43. Nb6 c3 44. Nc4 Rc8 45. Nd3 a5 46. Nd6 Rc7
+47. Rh1 Kg7 48. Ne5 a4 49. Ke2 f6 50. Nxc6 Rxc6 51. e5 Ra6
+52. exf6+ Kf8 53. Rxh6 Rxd6 54. Bh5 1-0

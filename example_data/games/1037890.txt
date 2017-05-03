@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jonathan David Tisdall"]
+[Black "Nick DeFirmian"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O
+Nc6 8.d5 Ne7 9.b4 Nh5 10.c5 h6 11.Nd2 Nf4 12.Nc4 f5 13.f3
+Nxe2+ 14.Qxe2 f4 15.Ba3 g5 16.Nb5 dxc5 17.bxc5 c6 18.Nbd6 cxd5
+19.exd5 Nxd5 20.Qd3 Be6 21.Rae1 Qc7 22.Re4 Rfd8 23.Rxe5 Bxe5
+24.Qg6+ Kh8 25.Nxe5 Rxd6 26.cxd6 Qb6+ 27.Kh1 Bg8 28.Nc4 Qd4
+29.Bb2 Nc3 30.Qc2 1-0

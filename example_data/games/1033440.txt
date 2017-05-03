@@ -1,0 +1,25 @@
+[Event "5, It La Plata ARG (10s)"]
+[Site "La Plata ARG"]
+[Date "1997.11.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Carlos Bielicki"]
+[Black "Fernando Braga"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. Bg5 Nbd7 6. Qc2 c5
+7. cxd5 exd5 8. e3 Qa5 9. Bd3 c4 10. Bf5 O-O 11. Nd2 Re8
+12. O-O g6 13. Bxd7 Nxd7 14. Rae1 Nb6 15. f3 Bxc3 16. bxc3 Na4
+17. Rc1 Bd7 18. Bh6 Re6 19. e4 Rae8 20. h3 Rb6 21. exd5 Qxd5
+22. Rb1 Rbe6 23. Bf4 b5 24. Ne4 f5 25. Ng3 h5 26. h4 Nb6
+27. Qd2 Qa8 28. Rfe1 Nd5 29. Be5 Kh7 30. Nf1 Qd8 31. Bg3 Qf6
+32. Rxe6 Rxe6 33. Re1 f4 34. Rxe6 Bxe6 35. Bf2 Bf5 36. a3 a5
+37. Be1 Qe7 38. Qc1 Bd3 39. Bd2 Bxf1 40. Qxf1 Qxa3 41. Qb1
+Nxc3 42. Qe1 Qd6 43. Bxc3 b4 44. Bb2 c3 45. Bxc3 bxc3 46. Qxc3
+a4 47. Kh2 Qe7 48. Qa5 a3 49. d5 Qxh4+ 50. Kg1 Qe7 51. Qa6 h4
+52. Kh2 Qe3 53. d6 Qf2 54. Qc4 Qg3+ 55. Kh1 h3 56. Qf7+ Kh6
+57. Qf8+ Kh5 58. Qh8+ Kg5 59. Qe5+ Kh6 60. Qh8+ Kg5 1/2-1/2

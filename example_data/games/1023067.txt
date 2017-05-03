@@ -1,0 +1,22 @@
+[Event "URS"]
+[Site "URS"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Leonid Borisovich Listengarten"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 Nxc3 4.dxc3 d6 5.Nf3 dxe5 6.Qxd8+ Kxd8
+7.Nxe5 Ke8 8.Be3 Nd7 9.Nf3 e5 10.O-O-O f6 11.Nd2 Bc5 12.Bxc5
+Nxc5 13.Bc4 c6 14.f4 b5 15.Be2 exf4 16.Bf3 Kf7 17.b4 Na4
+18.Bxc6 Rb8 19.Ne4 Kg6 20.Rhf1 Rb6 21.Rd6 Rxc6 22.Rxc6 Bb7
+23.Re6 Kf5 24.Re7 Bxe4 25.g4+ Kxg4 26.Rxe4 g5 27.c4 Nc3 28.Re7
+Nxa2+ 29.Kb2 Nxb4 30.cxb5 a6 31.b6 Rb8 32.b7 Nc6 33.Rxh7 Na5
+34.c4 Nxb7 35.Kc3 Nc5 36.Kd4 Nb3+ 37.Kc3 a5 38.Ra7 f3 39.Ra6
+f5 40.Rg6 Kf4 41.Rd6 Nc5 42.Kd4 Ne4 43.Ra6 Rb2 44.c5 Rd2+
+45.Kc4 Rxh2 46.Rxa5 Nd2+ 0-1

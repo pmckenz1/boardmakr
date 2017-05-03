@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Bela Lengyel"]
+[Black "Markus Bawart"]
+[ECO "B32"]
+[WhiteElo "2350"]
+[BlackElo "2330"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. a4 Be7
+7. N1c3 Be6 8. Nd5 Rc8 9. Nxe7 Kxe7 10. Bg5+ Nf6 11. c3 a6
+12. Na3 Qb6 13. Nc4 Bxc4 14. Bxc4 Qxb2 15. O-O Qxc3 16. Qd5
+Nd8 17. Rfd1 Rc6 18. Bb5 axb5 19. axb5 Rb6 20. Rdc1 Qb2
+21. Rab1 Qe2 22. Rc7+ Ke8 23. Qb3 Nxe4 24. Be3 Ne6 25. Rc8+
+Ke7 26. Rxh8 Nd4 27. Qa3 Rxb5 28. Rc1 Rc5 29. Rf1 Qb5 30. Bxd4
+exd4 31. Re1 Re5 32. Qa8 Qb6 33. Qf8+ Kf6 34. Rxh7 Rg5 35. Rh4
+d5 36. Rf4+ Rf5 37. Rxf5+ Kxf5 38. Qxf7+ Nf6 39. Qxg7 d3
+40. h4 Ne4 41. Re3 Qb1+ 42. Kh2 d2 43. Rf3+ Ke6 44. Rf8 d1=Q
+45. Re8+ Kd6 46. Qe7+ Kc6 47. Rc8+ Kb6 48. Qc7+ Ka6 49. Ra8+
+Kb5 50. Qxb7+ Kc4 51. Qa6+ Kd4 52. Qa7+ Nc5 53. Rg8 Qg1+
+54. Kg3 Qe4 0-1

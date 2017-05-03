@@ -1,0 +1,16 @@
+[Event "Vrsac (Yugoslavia)"]
+[Site "Vrsac (Yugoslavia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Goran Cabrilo"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.Nc3 Nc6 7.O-O
+Bg4 8.h3 Bxf3 9.Bxf3 Nd7 10.e3 e5 11.dxe5 Ndxe5 12.Be2 Qd7
+13.Kh2 Qd8 14.Bd2 a5 15.Nd5 Nd7 16.Bc3 Bxc3 17.Nxc3 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Gomel"]
+[Site "Gomel"]
+[Date "1968.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Viktor Kupreichik"]
+[ECO "E69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.d4 Nbd7 7.O-O
+O-O 8.h3 c6 9.e4 Re8 10.Re1 Qa5 11.d5 cxd5 12.cxd5 b5 13.Bf1
+b4 14.Na4 Ba6 15.Bxa6 Qxa6 16.b3 Rac8 17.Nd2 Qd3 18.Bb2 Qb5
+19.Nc4 Bf8 20.a3 bxa3 21.Bxa3 Qb8 22.Na5 Nb6 23.Nc6 Qb7
+24.Nxb6 Qxb6 25.Bc1 a6 26.Be3 Qb7 27.Qd3 Ra8 28.Ra4 Qb5 29.Qc3
+Rec8 30.Rc1 Rc7 31.Qc4 Rb7 32.Rb4 Qxc4 33.Rcxc4 Rxb4 34.Rxb4
+Ne8 35.f3 f5 36.Kf2 Nf6 37.Ke2 Kf7 38.Kd3 Nd7 39.Rb7 Ke8 40.g4
+fxe4 41.fxe4 Be7 42.Kc4 Bd8 43.g5 Be7 44.h4 Bd8 45.Kb4 Be7
+46.Ka4 Bd8 47.b4 Be7 48.Bf2 Bf8 49.Be3 Be7 50.Kb3 Bd8 51.Ka3
+Be7 52.Ka4 Bf8 53.Ka5 Be7 54.Ba7 Bf8 55.Kxa6 h6 56.Nb8 Nxb8+
+57.Rxb8+ Rxb8 58.Bxb8 hxg5 59.hxg5 Kd7 60.b5 1-0

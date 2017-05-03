@@ -1,0 +1,22 @@
+[Event "London m"]
+[Site "London ENG"]
+[Date "1888.11.26"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "Henry Edward Bird"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4
+exd4 8.cxd4 Bb6 9.Nc3 Bg4 10.Bb5 Kf8 11.Be3 h5 12.a4 a6 13.Be2
+Qd7 14.d5 Bxf3 15.Bxb6 Bxe2 16.dxc6 bxc6 17.Nxe2 cxb6 18.Qb3
+Qc7 19.Rac1 Re8 20.Qc4 Ne7 21.Qxa6 Rh6 22.Nc3 h4 23.f4 h3
+24.g3 Re6 25.Rc2 c5 26.Rb1 Nc6 27.Qxb6 Qxb6 28.Rxb6 Nd4 29.Ra2
+f5 30.a5 fxe4 31.a6 e3 32.Ne2 Nxe2+ 33.Rxe2 d5 34.Rxe6 Rxe6
+35.a7 Ra6 36.Rxe3 Rxa7 37.Re5 Rd7 38.Kf2 c4 39.Rf5+ Ke7 40.Ke3
+d4 41.Kd2 Kd6 42.Ra5 Rb7 43.Kc2 Kc6 44.g4 Re7 45.Kd2 Re3
+46.Rg5 Rf3 47.Rxg7 Rf2+ 48.Ke1 Rxh2 0-1

@@ -1,0 +1,19 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Wilhelm Kunze"]
+[Black "Kurt Petzold"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 d6 5. Bg5 h6 6. Be3 Bb6
+7. Nc3 Nc6 8. a3 Ne7 9. Nd5 Nfxd5 10. exd5 Bg4 11. c3 O-O
+12. Qd2 Nf5 13. Bxb6 axb6 14. Ng1 Qh4 15. h3 Rae8 16. g3 Qh5
+17. hxg4 Qxh1 18. Kf1 Ne7 19. f3 f5 20. g5 f4 21. g4 hxg5
+22. Re1 Rf6 23. Re2 Rh6 24. d4 Rh3 25. Qd3 Rg3 26. Ke1 Rxg1+
+0-1

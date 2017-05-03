@@ -1,0 +1,20 @@
+[Event "Ch Norway, Gausdal (Norway)"]
+[Site "Ch Norway, Gausdal (Norway)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Oystein Hole"]
+[Black "Knut Harald Storland"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 e5 4. d3 d5 5. O-O Ne7 6. Nbd2 O-O
+7. e4 dxe4 8. dxe4 b6 9. c3 Nd7 10. Nb3 a5 11. a4 Bb7 12. Qc2
+Nc8 13. Re1 Nd6 14. Nbd2 Nc5 15. b4 Ne6 16. Ba3 axb4 17. cxb4
+c5 18. a5 cxb4 19. Bxb4 bxa5 20. Bc3 Qc7 21. Qb2 f6 22. Rec1
+Qf7 23. Rxa5 Rfc8 24. Rxa8 Bxa8 25. Bb4 Rd8 26. Bxd6 Rxd6
+27. Rc8+ Bf8 28. Rxa8 g5 29. Bf1 Kg7 30. Nc4 Rd1 31. Ne3 Rd7
+32. Nf5+ Kg6 33. Qa2 Bc5 34. Bc4 1-0

@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest HUN"]
+[Date "1929.09.10"]
+[EventDate "1929.09.01"]
+[Round "8"]
+[Result "0-1"]
+[White "Mario Monticelli"]
+[Black "Edgar Colle"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.Nf3 Nc6 3.c4 Bg4 4.Nc3 e6 5.c5 Bxf3 6.gxf3 e5 7.e3
+exd4 8.exd4 Qh4 9.Be3 O-O-O 10.Qa4 Qf6 11.O-O-O Qxf3 12.b4 Kb8
+13.Rg1 g6 14.Bg2 Qf6 15.Bxd5 Rxd5 16.Rg5 Qe6 17.Rxd5 Nge7
+18.Rg5 Qc4 19.Qb3 Qxb3 20.axb3 Nxb4 21.Re5 Nbc6 22.Re4 Bg7
+23.Bf4 Kc8 24.Bxc7 Kxc7 25.Nb5+ Kd7 26.d5 Na5 27.b4 Nb3+
+28.Kb1 Nf5 29.Rc4 a6 30.c6+ Kc8 31.Na7+ Kc7 32.cxb7+ Kxb7
+33.Nc6 Nd6 34.Rc2 Nb5 35.Re1 Na3+ 0-1

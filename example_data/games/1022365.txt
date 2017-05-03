@@ -1,0 +1,25 @@
+[Event "It (open)"]
+[Site "Port Erin IOM"]
+[Date "1994.09.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Matthew Sadler"]
+[Black "Alexander Baburin"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.cxd5 exd5 5.Bf4 Ne7 6.Qa4+ Nbc6
+7.e3 O-O 8.Bd3 Bf5 9.Bxf5 Nxf5 10.Ne2 Bxc3+ 11.bxc3 Nce7
+12.Rb1 b6 13.O-O c6 14.c4 Qd7 15.Rfc1 Rac8 16.cxd5 Nxd5 17.Be5
+f6 18.Bg3 Rfe8 19.Rb2 h5 20.h3 h4 21.Bh2 b5 22.Qb3 Qe6 23.Nf4
+Nxf4 24.Bxf4 Qxb3 25.axb3 Red8 26.Kf1 Ne7 27.Ra2 Rd7 28.Bh2
+Kf7 29.Ra5 Ke6 30.Ke2 g5 31.f3 Rb7 32.e4 Kd7 33.Rca1 Ra8
+34.Ke3 Kc8 35.Bd6 Ng6 36.R1a2 Rd7 37.Bc5 Nf4 38.Ra6 Kc7
+39.Rxa7+ Rxa7 40.Rxa7+ Kc8 41.Ra8+ Kc7 42.Ra7+ Kc8 43.Ra8+ Kc7
+44.Ra2 Kb8 45.b4 Kb7 46.e5 fxe5 47.dxe5 Nd5+ 48.Kf2 Nf4 49.Bd6
+Rd8 50.g3 Nd5 51.Re2 Kc8 52.gxh4 gxh4 53.Re4 Kd7 54.Rxh4 Ke6
+55.f4 Ra8 56.Kf3 Ra3+ 57.Ke4 Re3+ 58.Kd4 Kf5 59.Rh5+ Kxf4
+60.e6 Kf3 61.Rf5+ Kg2 1-0

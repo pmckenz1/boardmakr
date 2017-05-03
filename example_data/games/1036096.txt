@@ -1,0 +1,20 @@
+[Event "18th DSB Kongress"]
+[Site "Breslau GER"]
+[Date "1912.07.22"]
+[EventDate "1912.07.15"]
+[Round "7"]
+[Result "0-1"]
+[White "Moishe Leopoldowicz Lowcki"]
+[Black "Amos Burn"]
+[ECO "A55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.e4 Be7 6.d5 O-O 7.h3
+Nc5 8.Bd3 Nh5 9.g4 Nf4 10.Bxf4 exf4 11.Bc2 Bf6 12.Qd2 g5
+13.O-O-O Re8 14.Rde1 Nd7 15.e5 dxe5 16.h4 gxh4 17.g5 Bg7
+18.Rxh4 Nf8 19.Reh1 f5 20.gxf6 Qxf6 21.Rxh7 Bf5 22.Bxf5 Qxf5
+23.R7h5 Qg4 24.Qe2 e4 25.Nxe4 Qg6 26.Nfd2 Nd7 27.Qd3 Re5
+28.R5h4 Rae8 29.f3 Rg5 30.Kc2 Ne5 31.Qf1 Rg2 32.R1h2 Rg1
+33.Qe2 Qa6 34.Nc3 Qg6+ 35.Qe4 Nxf3 36.Qxg6 Nd4+ 0-1

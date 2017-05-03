@@ -1,0 +1,20 @@
+[Event "07, London"]
+[Site "07, London"]
+[Date "1993.07.15"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Kevin Spraggett"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.f4 g6 3.Nf3 Bg7 4.Nc3 Nc6 5.a3 d6 6.Bc4 e6 7.O-O
+Nge7 8.Ba2 O-O 9.d3 Bd7 10.Rb1 Rc8 11.Be3 Nd4 12.Qd2 Nec6
+13.Nd1 b6 14.Ne1 Ne7 15.c3 Ndc6 16.b4 f5 17.Nf3 h6 18.Nf2 Kh7
+19.Kh1 Qc7 20.Rg1 Nd8 21.b5 Ra8 22.a4 a6 23.c4 axb5 24.axb5 e5
+25.Bb3 exf4 26.Bxf4 g5 27.Bxg5 hxg5 28.Qxg5 Rf6 29.Qh4+ Kg8
+30.d4 Nf7 31.g4 fxe4 32.g5 Rxf3 33.Nxe4 Rh3 34.Nf6+ Kf8 35.Qf4
+Ng6 36.Qe4 Rxh2+ 37.Kxh2 d5 0-1

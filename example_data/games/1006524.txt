@@ -1,0 +1,22 @@
+[Event "Gothenburg"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Georg Marco"]
+[Black "Alexey Sergeevich Selezniev"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d3 5.Qxd3 d6 6.Bf4 Be7 7.Nbd2
+Nf6 8.Be2 O-O 9.O-O Ng4 10.Rad1 Bf6 11.h3 Nge5 12.Qc2 Be6
+13.Bxe5 Nxe5 14.Nxe5 dxe5 15.Bc4 Qe7 16.Qb3 Bc8 17.Rfe1 c6
+18.a4 b6 19.Nf1 Bb7 20.Re3 Rad8 21.Red3 Rxd3 22.Rxd3 Qc7
+23.Qd1 Rd8 24.Ne3 Rxd3 25.Qxd3 Qd8 26.Ng4 Qxd3 27.Bxd3 Kf8
+28.Nxf6 gxf6 29.f3 Bc8 30.Kf2 Be6 31.Bc2 Bc4 32.b3 Ba6 33.Ke3
+Kg7 34.g3 Kg6 35.f4 Bc8 36.f5 Kg7 37.Bd3 Bb7 38.b4 Kf8 39.h4
+Ke7 40.Kf3 Kf8 41.Kg4 Kg7 42.Kf3 Kf8 43.Ke3 Ke7 44.Bc4 Kf8
+45.Kf3 Kg7 1/2-1/2

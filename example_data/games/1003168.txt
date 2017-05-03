@@ -1,0 +1,21 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.23"]
+[EventDate "1905.08.14"]
+[Round "9"]
+[Result "0-1"]
+[White "Aron Nimzowitsch"]
+[Black "Julius Perlis"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 e6 2. c4 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Bb4
+7. Nxc6 bxc6 8. e5 Ne4 9. Qg4 Nxc3 10. Bd2 Qa5 11. Qxg7 Rf8
+12. a3 Nd5 13. Bxb4 Nxb4 14. O-O-O Na6 15. f4 Rb8 16. Qxh7 Qb6
+17. Qc2 Qe3+ 18. Qd2 Qb3 19. Qc2 Nc5 20. Bd3 Ba6 21. Qxb3
+Nxb3+ 22. Kc2 c5 23. Kc3 Ke7 24. g4 Rh8 25. h4 Bb7 26. Rh3 Nd4
+27. b4 Bf3 28. Rg1 Rbg8 29. bxc5 Ne2+ 30. Bxe2 Bxe2 31. c6
+dxc6 32. h5 Rxg4 33. Re1 Rg2 34. Kd4 c5+ 35. Kxc5 Rc8+ 36. Kb4
+Bxc4 0-1

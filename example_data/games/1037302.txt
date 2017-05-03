@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Oslo (Norway)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Eckhard Schmittdiel"]
+[Black "Nigel Rodney Davies"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Bc5 5.c3 a6 6.b4 Ba7 7.a4 d6
+8.Be3 O-O 9.Bxa7 Rxa7 10.Nbd2 h6 11.O-O Nh7 12.Rb1 Ra8 13.h3
+Ne7 14.d4 Ng6 15.dxe5 dxe5 16.Re1 Qf6 17.Re3 Nf4 18.Nf1 Be6
+1/2-1/2

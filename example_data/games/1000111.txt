@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.14"]
+[EventDate "1900.??.??"]
+[Round "15"]
+[Result "1-0"]
+[White "M Didier"]
+[Black "Manuel Sterling"]
+[ECO "C79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.d4 b5 7.Bb3
+Bg4 8.dxe5 Nxe5 9.Nxe5 Bxd1 10.Bxf7+ Ke7 11.Nc6+ Kxf7 12.Nxd8+
+Rxd8 13.Rxd1 Nxe4 14.f3 Nf6 15.Nc3 Be7 16.a4 b4 17.Ne2 a5
+18.Nd4 Ra8 19.Nb5 Rhd8 20.c4 c5 21.Bf4 Ra6 22.g4 Rc6 23.h4 h6
+24.b3 Ne8 25.g5 hxg5 26.hxg5 g6 27.Ra2 Ng7 28.Rh2 Nh5 29.Bc1
+Rd7 30.f4 Ng3 31.Bb2 Ke6 32.Re1+ Kf5 33.Rh7 Ne4 34.Rf7+ Ke6
+35.Rg7 Kf5 36.Kg2 d5 37.Rxe7 Rxe7 38.cxd5 Ra6 39.d6 Rd7 40.Kf3
+Raxd6 41.Nxd6+ Rxd6 42.Rxe4 Rd3+ 43.Re3 Rd4 44.Re5+ 1-0

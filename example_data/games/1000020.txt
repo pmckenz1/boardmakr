@@ -1,0 +1,25 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.21"]
+[EventDate "1900.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Leon Rosen"]
+[Black "Amos Burn"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.Bc4 Nf6 5.d4 cxd4 6.Nxd4 g6
+7.Nxc6 bxc6 8.e5 d5 9.exf6 dxc4 10.Qxd8+ Kxd8 11.Bg5 Be6
+12.O-O-O Ke8 13.f4 h6 14.Bh4 Rg8 15.Ne4 g5 16.fxg5 hxg5 17.Bf2
+Bd5 18.Rhe1 e6 19.g4 a6 20.Bg3 Kd7 21.b3 Ba3+ 22.Kb1 Rad8
+23.Re3 Kc8 24.bxc4 Bxe4 25.Rxd8+ Rxd8 26.Rxa3 Rd2 27.Rxa6 Kb7
+28.Ra5 Rxc2 29.Ka1 Bd3 30.Rxg5 Bxc4 31.Rg7 Rxa2+ 32.Kb1 e5
+33.Bxe5 Re2 34.Bg3 Kc8 35.g5 Kd7 36.Rg8 Re8 37.Rg7 Bd3+ 38.Kc1
+Ke6 39.Kd2 Bg6 40.Bf2 Rc8 41.Bc5 Kf5 42.h4 Rh8 43.Bf2 Ke6
+44.Kc3 Kd5 45.Kd2 c5 46.Bg3 Ra8 47.h5 Bxh5 48.Rh7 Bg6 49.Rh2
+c4 50.Rh1 Ra3 51.Bc7 c3 52.Ke2 Ra2+ 53.Ke3 c2 54.Re1 Rb2
+55.Bf4 Rb4 56.Rc1 Re4+ 57.Kf3 Kd4 58.Bb8 Kc3 59.Bf4 Rxf4+
+60.Kxf4 Kb2 0-1

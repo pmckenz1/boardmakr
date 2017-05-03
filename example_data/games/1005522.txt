@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "4"]
+[Result "1-0"]
+[White "Robert Gevorkyan"]
+[Black "Sergey Leshchenko"]
+[ECO "B45"]
+[WhiteElo "2241"]
+[BlackElo "2205"]
+[PlyCount "97"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5
+d6 7. Bf4 e5 8. Bg5 a6 9. Na3 Be7 10. Nc4 Be6 11. Bxf6 gxf6
+12. Ne3 Qa5 13. a3 Rc8 14. Bd3 Nd4 15. O-O h5 16. b4 Qd8
+17. Ncd5 Bxd5 18. Nxd5 Ne6 19. Re1 Nc7 20. Nb6 Rb8 21. c4 Ne6
+22. Qa4+ Kf8 23. Nd7+ Kg7 24. Nxb8 Qxb8 25. Re3 h4 26. Bf1 Nd4
+27. Qd1 Qc8 28. h3 Rh6 29. Bd3 Rg6 30. Qh5 Bd8 31. Kh1 Bb6
+32. Qxh4 Nb3 33. Rd1 Bxe3 34. fxe3 a5 35. Qe1 Qh8 36. Be2 Qh6
+37. Bf3 Qg5 38. Rxd6 f5 39. Rxg6+ Qxg6 40. Qc3 fxe4 41. Qxe5+
+Qf6 42. Qxf6+ Kxf6 43. Bxe4 axb4 44. axb4 b6 45. h4 Nd2
+46. Bd3 Nb3 47. g4 Nc1 48. Bc2 Na2 49. b5 1-0

@@ -1,0 +1,20 @@
+[Event "Hastings 1977/78"]
+[Site "Hastings ENG"]
+[Date "1978.01.08"]
+[EventDate "1977.12.28"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Tigran Vartanovich Petrosian"]
+[ECO "B81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 a6 7.g5
+Nfd7 8.Be3 b5 9.a3 Bb7 10.Qg4 Nc6 11.O-O-O Nce5 12.Qh3 g6
+13.f4 Nc6 14.Rg1 Qc8 15.f5 Nc5 16.fxe6 fxe6 17.Bxb5 axb5
+18.Ndxb5 Nd8 19.Rgf1 Be7 20.Qh6 Nf7 21.Qg7 Rf8 22.Qxh7 Nxe4
+23.Rxf7 Rxf7 24.Qg8+ Rf8 25.Qxg6+ Kd7 26.Nxe4 Bxe4 27.Qxe4 Qc6
+28.Qxc6+ Kxc6 29.Nd4+ Kd7 30.h4 d5 31.h5 e5 32.Nb3 Rf3 33.Bd2
+Rh3 34.h6 Rg8 35.Kb1 Ke6 36.Re1 Bxg5 37.Nd4+ Kd7 38.h7 1/2-1/2

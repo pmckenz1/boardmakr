@@ -1,0 +1,19 @@
+[Event "Vesterhavs, Esbjerg"]
+[Site "Vesterhavs, Esbjerg"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Curt Hansen"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb4 6.Qc2 Bb7 7.Bg2
+Be4 8.Qd1 Bxd2+ 9.Bxd2 O-O 10.O-O d6 11.Bc3 Nbd7 12.Re1 d5
+13.Qa4 a5 14.cxd5 exd5 15.Bh3 c5 16.Qb5 Qc7 17.Rac1 Rfb8
+18.Bd2 Qa7 19.a4 h6 20.Be3 Rb7 21.Nd2 Bg6 22.Nb1 Ne4 23.Nc3
+Ndf6 24.Red1 Rd8 25.Nxe4 Nxe4 26.Bf4 Re7 27.Bg2 Kh7 28.Kf1 f6
+29.f3 c4 1/2-1/2

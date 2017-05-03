@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.29"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "Norman Rogers"]
+[Black "Eduard Gufeld"]
+[ECO "B32"]
+[WhiteElo "2293"]
+[BlackElo "2565"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3
+e6 7. Be3 Qc7 8. f4 d6 9. Qf3 a6 10. Bd3 b5 11. O-O Bb7
+12. Qh3 h5 13. Kh1 Ng4 14. Bg1 Be7 15. a4 b4 16. Na2 Bf6
+17. e5 dxe5 18. f5 exf5 19. Bxf5 g6 20. Bxg4 hxg4 21. Qxg4 Be7
+22. c3 Rh4 23. Qg3 Rh5 24. Nc5 Bxc5 25. Bxc5 O-O-O 26. Nxb4
+Rdh8 27. Bg1 Nxb4 28. cxb4 Rh3 29. Qf2 R8h4 30. Qxf7 Bxg2+
+31. Kxg2 Qc6+ 32. Rf3 Rxf3 33. Qxf3 Rg4+ 34. Kf2 Rf4 35. Qxf4
+exf4 36. Re1 Qxa4 37. Rc1+ Kd7 38. Rc4 g5 39. h4 Qd1 40. Rc5
+g4 0-1

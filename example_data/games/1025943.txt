@@ -1,0 +1,24 @@
+[Event "Frankfurt a. Main (Germany)"]
+[Site "Frankfurt a. Main (Germany)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Tamas Horvath"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1.Nf3 c5 2.c4 g6 3.g3 Bg7 4.d4 Qa5+ 5.Bd2 Qb6 6.Bc3 cxd4
+7.Bxd4 Bxd4 8.Qxd4 Qxd4 9.Nxd4 Nf6 10.Nb5 Na6 11.Bg2 O-O
+12.N1c3 Nb4 13.O-O Nc6 14.Nd5 Kg7 15.Rac1 d6 16.Nxf6 Kxf6
+17.c5 dxc5 18.Rxc5 Bd7 19.f4 Rfd8 20.Kf2 Rac8 21.Rfc1 a6
+22.Nc3 e6 23.Na4 Be8 24.Nb6 Rb8 25.Ke1 Rd4 26.a3 Rbd8 27.Nc4
+Kg7 28.b4 h5 29.h4 Kf8 30.Bf3 Rb8 31.Nd2 Rdd8 32.Nb3 Ke7
+33.R5c4 Na7 34.Na5 b6 35.Rc7+ Rd7 36.Rxd7+ Bxd7 37.Rc7 bxa5
+38.Rxa7 Ke8 39.bxa5 Rb1+ 40.Kf2 Bb5 41.a4 Bc4 42.Ke3 Rb4
+43.Rb7 Rxb7 44.Bxb7 Kd7 45.Bf3 Bb3 46.Kd4 Bxa4 47.Kc5 Kc7
+48.e3 Bb5 49.Bd1 Bc6 50.Be2 Bb7 51.Bc4 Bc8 52.e4 Bb7 53.e5 Bc8
+54.Be2 Bb7 55.g4 hxg4 56.Bxg4 Be4 57.Be2 1-0

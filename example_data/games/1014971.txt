@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.11"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Helgi Olafsson"]
+[Black "Utut Adianto"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c6 7.h3
+Nbd7 8.cxd5 exd5 9.Qc2 Re8 10.O-O-O Nf8 11.Bd3 a5 12.g4 a4
+13.Ne5 a3 14.b3 N6d7 15.h4 Nxe5 16.dxe5 Bb4 17.g5 Ra5 18.Na4
+Bg4 19.g6 fxg6 20.Rdg1 Bh5 21.Kb1 Ne6 22.Bg5 Qc7 23.f4 Rxa4
+24.bxa4 Qb6 25.f5 Nc5 26.Ka1 Qa5 27.Rc1 Nxa4 28.e6 Bc3+ 29.Kb1
+Bb2 30.Qb3 Bxc1+ 31.Rxc1 Nc5 32.Rxc5 Qxc5 33.Qxb7 gxf5 34.Be2
+Bg6 35.h5 Qc3 36.Bd1 Qd3+ 37.Kc1 Qc4+ 38.Kd2 Qxa2+ 39.Ke1 Qb2
+40.Qxc6 Qb4+ 41.Kf2 Qd2+ 42.Kg3 Qxd1 43.hxg6 Qg4+ 44.Kf2 Rb8
+0-1

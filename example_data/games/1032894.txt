@@ -1,0 +1,23 @@
+[Event "10s, olm Buenos Aires"]
+[Site "Buenos Aires ARG"]
+[Date "1978.11.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Terrey Ian Shaw"]
+[Black "Fernando Braga"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. e4 Nc6 2. d4 d5 3. e5 f6 4. exf6 Nxf6 5. Bg5 Bf5 6. Nf3 Qd6
+7. c3 O-O-O 8. Bb5 Ne4 9. Bh4 g5 10. Bg3 Qe6 11. O-O a6
+12. Bd3 Qg6 13. Ne5 Nxe5 14. Bxe5 Rg8 15. g4 e6 16. gxf5 exf5
+17. f3 g4 18. fxe4 g3 19. h3 dxe4 20. Be2 g2 21. Rxf5 Qxf5
+22. Bg4 Rxg4 23. Qxg4 Qxg4 24. hxg4 Bh6 25. Kxg2 Bc1 26. a4
+Rg8 27. b4 Rxg4+ 28. Kh3 Rg1 29. Ra2 Bh6 30. Na3 Rd1 31. Re2
+Rd3+ 32. Kg4 Rxc3 33. Nc2 Bc1 34. Kf5 e3 35. Ke4 Rb3 36. Nxe3
+Bxe3 37. Rxe3 Rxb4 38. Rh3 Rxa4 39. Rxh7 Rc4 40. Kd5 Rc2
+41. Ke6 b5 42. Rh8+ Kb7 43. Kd7 b4 44. Rc8 b3 45. Bxc7 Rc4
+46. Rb8+ Ka7 47. Kc8 a5 48. Rxb3 a4 49. Rb5 1-0

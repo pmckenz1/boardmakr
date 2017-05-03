@@ -1,0 +1,20 @@
+[Event "Santa Fe UARGO"]
+[Site "Santa Fe <ARG>"]
+[Date "1956.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jiri Pelikan"]
+[Black "Erich Eliskases"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 4.Nh3 O-O 5.O-O e5 6.Nc3 Nc6 7.d3
+d6 8.Rb1 a5 9.a3 Bd7 10.f3 Qc8 11.Nf2 Ne7 12.b4 axb4 13.axb4
+d5 14.e4 d4 15.Ne2 Ra2 16.Bb2 Qa8 17.Nc1 Ra4 18.Qd2 b6 19.f4
+Bh6 20.Qe2 Rxb4 21.fxe5 Nh5 22.Ra1 Qd8 23.Bxd4 Bg4 24.Nxg4
+Qxd4+ 25.Qf2 Qxa1 26.Nxh6+ Kg7 27.Na2 Rb1 28.Ng4 Rxf1+ 29.Bxf1
+Nc6 30.Nf6 Nxe5 31.Nxh5+ gxh5 32.Nb4 Ng4 33.Qf4 Qb2 34.Bg2
+Qxb4 0-1

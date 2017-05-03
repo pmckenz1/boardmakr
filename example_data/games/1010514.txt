@@ -1,0 +1,20 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Nikolai Nasikan"]
+[Black "Alexander Ianovsky"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d5 4. e5 h5 5. h3 Nh6 6. Bd3 Bf5
+7. Nf3 Bxd3 8. Qxd3 Qd7 9. Bd2 Nf5 10. Nc3 h4 11. Ne2 b6
+12. Ng5 e6 13. g4 hxg3 14. Nxg3 Nxg3 15. Qxg3 c5 16. dxc5 bxc5
+17. O-O-O Nc6 18. Qa3 Bf8 19. Qa4 Nxe5 20. Qb3 Nc6 21. Bc3 Rh4
+22. Ne4 Be7 23. Nf6+ Bxf6 24. Bxf6 Rxf4 25. Bg5 Rc4 26. Qf3 f5
+27. Rhe1 Nd4 28. Qe3 Rxc2+ 29. Kb1 Rxb2+ 30. Kxb2 Qb5+ 31. Kc1
+Qc4+ 32. Kb2 Rb8+ 0-1

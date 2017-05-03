@@ -1,0 +1,21 @@
+[Event "12, Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Alexander Veingold"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 Bxc3+ 7.bxc3
+d6 8.e3 e5 9.f3 e4 10.f4 Rg8 11.Qc2 g5 12.Bg3 Bf5 13.Rb1 b6
+14.fxg5 hxg5 15.Qf2 Bg6 16.Be2 Qe7 17.h4 Nfd7 18.hxg5 Ne5
+19.Kd2 Nbd7 20.Nh3 a6 21.a4 Kd8 22.Bxe5 Qxe5 23.Qf4 Kc7 24.Rb2
+Qe7 25.Nf2 Rh8 26.Rh6 Ne5 27.Ng4 Nxg4 28.Bxg4 Raf8 29.Rb1 Rhg8
+30.Qf6 Re8 31.Rhh1 Qe5 32.Rb2 Qxf6 33.gxf6 a5 34.Rbb1 Bf5
+35.Bxf5 Rxg2+ 36.Kc1 Re5 37.Bh7 Ra2 38.Rf1 Rh2 39.Bf5 Rh5
+40.Bg4 Rh4 41.Be2 1-0

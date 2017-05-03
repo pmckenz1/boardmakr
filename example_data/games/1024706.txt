@@ -1,0 +1,21 @@
+[Event "Minsk"]
+[Site "10"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexey Kuzmin"]
+[Black "Yuri Balashov"]
+[ECO "C92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 Bb7 10.d3 Na5 11.Bc2 c5 12.Nbd2 Re8 13.Nf1
+Rc8 14.Ng3 g6 15.a3 Bf8 16.b4 Nc6 17.Bb3 Nb8 18.Qe2 cxb4
+19.cxb4 Bg7 20.Qa2 Qd7 21.Bd2 Nc6 22.Rad1 h6 23.Nh4 d5 24.Be3
+Nd4 25.Bxd4 exd4 26.e5 Nh7 27.f4 g5 28.Nhf5 gxf4 29.Nxg7 Kxg7
+30.Nh5+ Kh8 31.Qf2 Qf5 32.Nxf4 Rxe5 33.Qxd4 f6 34.Rf1 Rg8
+35.Rc1 Qg5 36.Rc7 Ba8 37.Bd1 Qg3 38.Qf2 Qxf2+ 39.Kxf2 Ng5
+40.Bg4 d4 41.Rfc1 h5 42.Rc8 1-0

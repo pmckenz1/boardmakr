@@ -1,0 +1,16 @@
+[Event "It (cat.8), New York (USA)"]
+[Site "It (cat.8), New York (USA)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Maurice Ashley"]
+[Black "Jonathan James Ady"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. Nf3
+Bg7 7. e4 Bg4 8. Be3 O-O 9. Be2 Bxf3 10. Bxf3 Nc6 11. d5 Ne5
+12. Be2 c6 13. Qb3 1/2-1/2

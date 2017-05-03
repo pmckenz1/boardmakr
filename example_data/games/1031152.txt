@@ -1,0 +1,20 @@
+[Event "Ch Argentina (match)"]
+[Site "Buenos Aires (Argentina)"]
+[Date "1948.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Hector Decio Rossetto"]
+[Black "Julio Bolbochan"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3
+d6 8.a4 Bg4 9.c3 O-O 10.h3 Bh5 11.d3 Na5 12.Bc2 c5 13.Nbd2 Nc6
+14.Re1 d5 15.g4 Bg6 16.axb5 axb5 17.Rxa8 Qxa8 18.Nf1 d4
+19.cxd4 cxd4 20.Ng3 Qa2 21.Qd1 Bb4 22.Rf1 h6 23.Bb3 Qa6 24.Nh4
+Kh7 25.f4 exf4 26.Bxf4 Nd7 27.Ngf5 Nc5 28.Bd5 Ne6 29.Nxg6 Kxg6
+30.Qc1 Nxf4 31.Qxf4 Kh7 32.Nxg7 Kxg7 33.Qf6+ Kh7 34.Bxc6 Qa7
+35.e5 Bd2 36.Be4+ Kg8 37.Qf5 f6 38.exf6 Qc7 39.Kg2 1-0

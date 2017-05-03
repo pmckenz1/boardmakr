@@ -1,0 +1,21 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Heiko Machelett"]
+[Black "Arno Zude"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Be7 5. Bf4 c5 6. dxc5 Na6
+7. e3 Nxc5 8. Qc2 O-O 9. Be2 dxc4 10. Bxc4 a6 11. a4 b6
+12. O-O Bb7 13. Rfd1 Qc8 14. Qe2 Qc6 15. Qf1 Rfc8 16. Ne5 Qe8
+17. Qe2 Ncd7 18. Bd3 Nc5 19. Bc2 Nce4 20. Nxe4 Bxe4 21. Bxe4
+Nxe4 22. Nd7 Bd8 23. Qd3 Nf6 24. e4 Ra7 25. Ne5 Bc7 26. Bg3
+Raa8 27. Nc4 Rd8 28. Qb3 Bxg3 29. hxg3 Nxe4 30. Qxb6 Rdb8
+31. Qd4 Nf6 32. Nb6 Rd8 33. Qe3 Rab8 34. a5 Nd5 35. Qc5 Qb5
+36. Qxb5 axb5 37. Nxd5 exd5 38. Rd4 1-0

@@ -1,0 +1,27 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Michael Dougherty"]
+[Black "Valeriane Gaprindashvili"]
+[ECO "A46"]
+[WhiteElo "2315"]
+[BlackElo "2559"]
+[PlyCount "133"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Nbd2 cxd4 6. exd4
+Qxb2 7. Bxf6 gxf6 8. d5 Bb4 9. Be2 Bxd2+ 10. Nxd2 Qe5 11. c4
+Na6 12. O-O Nc5 13. Bf3 Qc7 14. Nb3 d6 15. dxe6 fxe6 16. Bh5+
+Kd8 17. Nd4 a6 18. f4 f5 19. Qe1 Bd7 20. Rd1 Kc8 21. Nb3 Rd8
+22. Bf3 Kb8 23. Rf2 a5 24. Qe3 Nxb3 25. Qxb3 Ra6 26. c5 d5
+27. Rb1 Bc8 28. Qb5 Ka8 29. Rfb2 Rg8 30. Rc2 Qxf4 31. c6 Ra7
+32. Qe2 Qd6 33. Rb6 bxc6 34. Rcxc6 Qa3 35. Rb3 Qa4 36. Qe5 Bb7
+37. Rxe6 Rd8 38. Rxb7 Kxb7 39. Bxd5+ Rxd5 40. Qxd5+ Kc8
+41. Rc6+ Rc7 42. Qxf5+ Kb8 43. Rxc7 Qd4+ 44. Kf1 Qd1+ 45. Kf2
+Qd2+ 46. Kg3 Qe3+ 47. Kg4 Qe2+ 48. Kh3 Kxc7 49. Qxa5+ Kc6
+50. Qa4+ Kd6 51. Qb4+ Kc6 52. a4 Qd3+ 53. g3 Qf3 54. Qc4+ Kb7
+55. Qb5+ Kc7 56. Qe5+ Kb6 57. Kh4 Qf2 58. h3 Qf7 59. Qb5+ Ka7
+60. a5 Qg7 61. Qg5 Qf7 62. g4 Ka6 63. Qf5 Qe7+ 64. Kh5 Qe8+
+65. Kh6 Qe3+ 66. g5 Qa7 67. Qe6+ 1-0

@@ -1,0 +1,21 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Anh Dung Nguyen"]
+[Black "Szidonia Lazarne Vajda"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 c5 4. d5 d6 5. e4 Bg7 6. Nf3 O-O
+7. Be2 e6 8. O-O Re8 9. dxe6 Bxe6 10. Bf4 Qb6 11. Qb3 Bg4
+12. h3 Nxe4 13. Nd5 Qxb3 14. axb3 Bxf3 15. Bxf3 Na6 16. Rxa6
+bxa6 17. Nc7 Rac8 18. Nxe8 Rxe8 19. Re1 f5 20. Bxe4 fxe4
+21. Bxd6 Bd4 22. Re2 Re6 23. Bc7 Re7 24. Ba5 Rb7 25. b4 cxb4
+26. Rxe4 Bxb2 27. c5 Rb5 28. Rxb4 Rxa5 29. Rxb2 Rxc5 30. Rb7
+Rc2 31. Rxa7 Ra2 32. h4 a5 33. g3 h5 34. Kg2 Ra3 35. Kf1 Kf8
+36. Ke2 Kg8 1/2-1/2

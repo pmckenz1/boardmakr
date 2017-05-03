@@ -1,0 +1,23 @@
+[Event "Ch URS (1/4 final)"]
+[Site "Minsk (Belarus)"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Janis Klavins"]
+[Black "Aivars Gipslis"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.f4 Bb4 7.Bd2
+Nc6 8.Nf3 Nf6 9.Bd3 d6 10.O-O Bc5+ 11.Kh1 Bd7 12.a3 Nd4
+13.Nxd4 Bxd4 14.Ne2 Bb6 15.Ng3 h5 16.e5 h4 17.Ne4 Nxe4 18.Bxe4
+h3 19.exd6 hxg2 20.Bxg2 Qxd6 21.Bb4 Qxd1 22.Raxd1 O-O-O 23.Be7
+Rde8 24.Bxb7+ Kxb7 25.Rxd7+ Kc6 26.Rfd1 Bc7 27.Bc5 Bxf4 28.Bg1
+g5 29.Rxf7 Rd8 30.Rxd8 Rxd8 31.Re7 Kd5 32.Kg2 Ke5 33.Rc7 Rd2+
+34.Kf3 g4 35.Kxg4 Rg2+ 36.Kf3 Rxg1 37.Rc5+ Kd4 38.Ra5 e5
+39.Ra4+ Kd5 40.Rxa6 Rf1+ 41.Kg2 Rc1 42.Ra5+ Kc6 43.b4 Rxc2+
+44.Kf3 Rxh2 45.Rc5+ Kd6 46.a4 Rb2 47.Rb5 Bd2 48.Rb6+ Kd5
+49.Rb5+ Kd4 0-1

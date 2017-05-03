@@ -1,0 +1,20 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jonathan David Tisdall"]
+[Black "Michael John Basman"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. c4 g5 2. d4 h6 3. Nc3 Bg7 4. e4 c5 5. d5 d6 6. Be3 Bxc3+
+7. bxc3 Qa5 8. Qd2 f5 9. exf5 Bxf5 10. h4 gxh4 11. Bd3 Bxd3
+12. Qxd3 Nd7 13. Qg6+ Kd8 14. Ne2 Ngf6 15. Rxh4 Kc7 16. Qc2
+Rag8 17. Nf4 Kb8 18. Rb1 Nb6 19. Rb5 Qa4 20. Qb3 Nfd7 21. Nh5
+Rxg2 22. Kf1 Rgg8 23. Re4 Rh7 24. Bf4 Ka8 25. f3 Rf7 26. Kf2
+Rgf8 27. Kg3 a6 28. Rxb6 Nxb6 29. Qxb6 Qc2 30. Kh3 Qf2 31. Bg3
+Qxf3 32. Rg4 Qh1+ 33. Bh2 Rf2 0-1

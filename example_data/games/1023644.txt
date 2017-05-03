@@ -1,0 +1,17 @@
+[Event "05, Kusadasi op"]
+[Site "Kusadasi TUR"]
+[Date "1990.04.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Peter Rahls"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 Nxc3 4.dxc3 d6 5.Bf4 Nc6 6.Nf3 Bg4
+7.Bb5 a6 8.Bxc6+ bxc6 9.h3 Bh5 10.g4 Bg6 11.Qe2 e6 12.O-O-O d5
+13.h4 h5 14.Rdg1 Qb8 15.Nd2 hxg4 16.Qxg4 Qb5 17.Bg5 Rb8 18.b3
+Qa5 19.Nc4 Qxc3 0-1

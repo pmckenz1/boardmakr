@@ -1,0 +1,21 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1975.04.17"]
+[EventDate "1975.04.13"]
+[Round "5.7"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Norman Weinstein"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 g6 5.Bc2 Bg7 6.d4 cxd4 7.cxd4
+O-O 8.O-O Bg4 9.Nbd2 Nc6 10.h3 Bd7 11.Re1 Rc8 12.e5 dxe5
+13.dxe5 Nd5 14.Be4 Be6 15.Nb3 Ndb4 16.Nc5 Qxd1 17.Rxd1 Nxe5
+18.Nxe6 Nxf3+ 19.Bxf3 fxe6 20.Bxb7 Rc2 21.Bf3 Bxb2 22.Bxb2
+Rxb2 23.Rd7 Rxa2 24.Rxa2 Nxa2 25.Rxa7 Nb4 26.Rxe7 Nc2 27.Bg4
+Nd4 28.Bxe6+ Nxe6 29.Rxe6 Rf7 30.g4 Kg7 31.Kg2 h6 32.h4 Ra7
+33.f4 Kf7 34.Rd6 Kg7 35.Kf3 Ra3+ 36.Ke4 Rh3 37.Rd7+ Kg8
+1/2-1/2

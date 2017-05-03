@@ -1,0 +1,17 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.04"]
+[EventDate "2000.03.03"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Kanying Qin"]
+[Black "Evgeny Pigusov"]
+[ECO "B31"]
+[WhiteElo "2475"]
+[BlackElo "2610"]
+[PlyCount "41"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4 Nxb4
+7. Bb2 Nc6 8. Bxc6 dxc6 9. Nxe5 Qc7 10. Nc4 Bxb2 11. Nxb2 Be6
+12. a4 O-O-O 13. Na3 Qf4 14. d3 Nf6 15. h3 Nd7 16. a5 g5
+17. Qc1 Qc7 18. Qe3 Rhg8 19. e5 Kb8 20. Nbc4 g4 21. h4 1/2-1/2

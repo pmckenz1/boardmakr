@@ -1,0 +1,16 @@
+[Event "Budapest plof (3.pl-izt Szirak)"]
+[Site "Budapest plof (3.pl-izt Szirak)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Istvan Bilek"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.f4 a6 5.Nf3 b5 6.Bd3 Bb7 7.O-O Nd7
+8.e5 c5 9.Be4 Bxe4 10.Nxe4 cxd4 11.exd6 Qb6 12.Re1 e6 13.c3
+dxc3 14.Be3 Qb7 15.Nxc3 Ngf6 16.Bd4 O-O 17.Qe2 Rac8 1/2-1/2

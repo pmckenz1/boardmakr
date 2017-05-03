@@ -1,0 +1,18 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Luben S Popov"]
+[Black "Ivan Cheparinov"]
+[ECO "D01"]
+[WhiteElo "2354"]
+[BlackElo "2089"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 e6 5. e4 dxe4 6. Nxe4
+Be7 7. Nxf6+ Nxf6 8. Bd3 O-O 9. O-O b6 10. Qe2 Bb7 11. c3 c5
+12. dxc5 bxc5 13. Rad1 Qc7 14. Ne5 Rad8 15. Rfe1 Bd5 16. c4
+Bb7 17. Bb1 Rxd1 18. Rxd1 Rd8 19. Rxd8+ Qxd8 20. Qd3 Qxd3
+1/2-1/2

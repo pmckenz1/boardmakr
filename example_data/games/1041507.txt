@@ -1,0 +1,23 @@
+[Event "Izt"]
+[Site "Manila (Philippines)"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Ruben Rodriguez"]
+[Black "Eugenio Torre"]
+[ECO "C99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4
+Nc6 14.Nb3 a5 15.Be3 a4 16.Nbd2 Bd7 17.a3 Rfe8 18.Bd3 Na5
+19.Qe2 Qb8 20.Rac1 Bd8 21.Qf1 h6 22.Rc2 b4 23.axb4 Nc6 24.dxe5
+dxe5 25.Rc5 Nxb4 26.Bb5 Bb6 27.Bxd7 Nxd7 28.Rc4 Qd6 29.Bxb6
+Nxb6 30.Rc3 Ra5 31.Nc4 Nxc4 32.Rd1 Qe6 33.Qxc4 Qxc4 34.Rxc4
+Rb8 35.Ra1 Nd3 36.Rcxa4 Rxa4 37.Rxa4 Rxb2 38.Ra8+ Kh7 39.Rd8
+Rb1+ 40.Kh2 Nxf2 41.Nxe5 Rh1+ 42.Kg3 Nxe4+ 43.Kf3 f5 44.Kf4
+Rf1+ 45.Nf3 Kg6 46.Rd5 Ng5 47.Rd6+ Kf7 48.Kxf5 Nxf3 49.gxf3
+Rxf3+ 50.Kg4+ Re3 51.Rd7+ 1/2-1/2

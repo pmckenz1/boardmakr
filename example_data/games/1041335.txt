@@ -1,0 +1,17 @@
+[Event "Bad Lauterberg"]
+[Site "Bad Lauterberg FRG"]
+[Date "1977.03.08"]
+[EventDate "1977.03.06"]
+[Round "3"]
+[Result "1-0"]
+[White "Vladimir Mikhailovich Liberzon"]
+[Black "Eugenio Torre"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 b5 7.O-O
+Bb7 8.Bf3 Nc6 9.Nxc6 dxc6 10.a4 Bd6 11.g3 Be5 12.Bg2 Nf6 13.f4
+Rd8 14.Qf3 Bd4+ 15.Kh1 e5 16.g4 exf4 17.Bxf4 Qe7 18.e5 Nd5
+19.Bg5 f6 20.exf6 gxf6 21.Rae1 Be5 22.Nxd5 1-0

@@ -1,0 +1,23 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.08"]
+[EventDate "2000.04.05"]
+[Round "4"]
+[Result "0-1"]
+[White "Harmen Jonkman"]
+[Black "Torsten Sarbok"]
+[ECO "B22"]
+[WhiteElo "2446"]
+[BlackElo "2285"]
+[PlyCount "94"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. dxc5
+Qxc5 7. Na3 Nbd7 8. Be3 Qc7 9. h3 Bh5 10. Nb5 Qb8 11. g4 Bg6
+12. g5 Ne4 13. Qa4 a6 14. O-O-O Bf5 15. Bd3 axb5 16. Qxb5 Nd6
+17. Bxf5 e6 18. Qd3 Rxa2 19. Qd4 exf5 20. Bf4 Ra6 21. Rhe1+
+Kd8 22. Ne5 Ra1+ 23. Kc2 Rxd1 24. Rxd1 Nxe5 25. Bxe5 Kd7
+26. c4 b6 27. b4 Be7 28. c5 bxc5 29. bxc5 Rc8 30. Bxd6 Bxd6
+31. Qxd6+ Qxd6 32. Rxd6+ Ke7 33. Rd5 Ke6 34. Rd6+ Ke5 35. Rd7
+Rxc5+ 36. Kd3 Rd5+ 37. Rxd5+ Kxd5 38. f4 Ke6 39. Kd4 f6 40. h4
+fxg5 41. hxg5 h6 42. gxh6 gxh6 43. Kc5 h5 44. Kd4 h4 45. Ke3
+Kd5 46. Kf3 Kd4 47. Kg2 Ke3 0-1

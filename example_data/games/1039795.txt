@@ -1,0 +1,19 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.05.20"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Francis Joseph Lee"]
+[Black "Oldrich Duras"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nc6 4.c4 e6 5.Nc3 Nf6 6.a3 a6 7.Bd3 dxc4
+8.Bxc4 b5 9.Bd3 Bb7 10.O-O cxd4 11.exd4 Be7 12.h3 O-O 13.Be3
+Bd6 14.Re1 Ne7 15.Nd2 Ned5 16.Nce4 Nxe4 17.Nxe4 f5 18.Nc5 Bxc5
+19.dxc5 e5 20.c6 Bxc6 21.Bc5 Qg5 22.Qc1 Nf4 23.g3 Qh5 24.Bxf8
+Bf3 25.h4 Nxd3 26.Qc3 Nxe1 27.Bc5 Ng2 28.Qxe5 Re8 29.Qc7 f4
+30.Bd4 Qg4 31.Rc1 Nxh4 0-1

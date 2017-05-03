@@ -1,0 +1,21 @@
+[Event "EU/MM: CSSR-SU"]
+[Site "Oberhausen FRG"]
+[Date "1961.06.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Milos Altschul"]
+[ECO "B60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7
+7.Nb3 a6 8.Bxf6 gxf6 9.Qh5 b5 10.Be2 Rc8 11.O-O Ne5 12.a4 b4
+13.Nd5 e6 14.Nxb4 a5 15.Na2 Rxc2 16.Nd4 Rc5 17.Bb5 Nc6 18.Qd1
+Nxd4 19.Bxd7+ Qxd7 20.Qxd4 Be7 21.Rac1 Qc6 22.Rfd1 O-O 23.Rxc5
+dxc5 24.Qc4 Rd8 25.Rxd8+ Bxd8 26.Nc1 Qd6 27.Nd3 Bb6 28.g3 Kf8
+29.Kf1 Ke7 30.Ke2 Qd4 31.Qxd4 cxd4 32.Nc1 Kd6 33.Nb3 h6 34.Kd3
+e5 35.f3 Ke6 36.h4 Bd8 37.Kc4 h5 38.g4 f5 39.gxh5 fxe4 40.fxe4
+Kd6 41.h6 1-0

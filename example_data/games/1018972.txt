@@ -1,0 +1,21 @@
+[Event "Leipzig"]
+[Site "Leipzig GER"]
+[Date "1852.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Adolf Anderssen"]
+[Black "Hermann Pollmaecher"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5 5.Bxb5 Bb7 6.Nc3 Nf6
+7.Nf3 Qh6 8.d3 Bc5 9.d4 Bb6 10.Bd3 Nc6 11.Ne2 Nh5 12.c3 g5
+13.g4 Ng3+ 14.Nxg3 Qh3+ 15.Kf2 fxg3+ 16.hxg3 Qxg4 17.Bxg5 Ne5
+18.Bf6 Nxd3+ 19.Qxd3 Rg8 20.Ne5 Qxe4 21.Qxe4 Bxe4 22.Rae1 d5
+23.Rxe4 dxe4 24.Rxh7 c5 25.Rxf7 Bd8 26.Bg7 cxd4 27.cxd4 Be7
+28.Ke3 Bd6 29.Bf6 Rxg3+ 30.Kxe4 Rg6 31.Kf5 Rg2 32.Rh7 a5 33.d5
+Ra6 34.Nc6 Bf8 35.Ke6 Rg6 36.Rc7 Ra8 37.Ne5 Rh6 38.Nf7 Rh2
+39.d6 Re2+ 40.Be5 1-0

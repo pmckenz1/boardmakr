@@ -1,0 +1,22 @@
+[Event "Montevideo"]
+[Site "Montevideo URU"]
+[Date "1939.09.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Baruch Harold Wood"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. e3 O-O 6. Bd3 c5
+7. O-O a6 8. b3 Nc6 9. Bb2 cxd4 10. exd4 b6 11. Qe2 Bb7
+12. Rad1 Qc7 13. Bb1 Rad8 14. Rfe1 Qf4 15. Bc1 Qg4 16. cxd5
+Nxd5 17. Nxd5 Rxd5 18. h3 Qh5 19. Be4 Rd7 20. Qf1 Bf6 21. d5
+Ne5 22. Ba3 Rfd8 23. Nxe5 Bxe5 24. Bf3 Qg5 25. Qe2 Bxd5
+26. Qxe5 Qxe5 27. Rxe5 Bxf3 28. Rxd7 Rxd7 29. gxf3 Rd1+
+30. Kg2 Rd2 31. Re4 b5 32. Bc5 Rxa2 33. b4 h6 34. Rd4 e5
+35. Rd5 Ra4 36. Rxe5 Kh7 37. Re7 Kg6 38. Rb7 Kf6 39. f4 g6
+40. h4 h5 41. Kf3 Ke6 42. Ke4 f5+ 43. Kd4 1-0

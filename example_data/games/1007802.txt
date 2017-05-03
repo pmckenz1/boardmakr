@@ -1,0 +1,22 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.12"]
+[EventDate "1927.06.26"]
+[Round "7"]
+[Result "0-1"]
+[White "Vladimir Vukovic"]
+[Black "Karl Berndtsson Kullberg"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 g6 3. Bf4 Bg7 4. h3 c5 5. e3 Qb6 6. Qb3 Qxb3
+7. axb3 cxd4 8. exd4 Nc6 9. Nf3 d6 10. d5 Nb4 11. Na3 Ne4
+12. Bc1 Nc5 13. Nd2 O-O 14. Kd1 Bf5 15. g4 Bd3 16. Be2 a6
+17. Rf1 Rfe8 18. Bxd3 Nbxd3 19. Kc2 Rac8 20. Nab1 Nb4+ 21. Kd1
+e6 22. dxe6 Rxe6 23. Nc3 Rce8 24. Nd5 Nxd5 25. cxd5 Re5
+26. Kc2 Rxd5 27. Nc4 Re2+ 28. Bd2 b5 29. Kd1 Re4 30. Ne3 Rd3
+31. Kc2 Rxb3 32. Rfb1 Rf4 33. Be1 Kf8 34. Ra2 d5 35. Nxd5 Rc4+
+36. Bc3 b4 37. Nb6 Rf4 38. Bd2 Rxh3 39. Ra5 b3+ 40. Kd1 Rh1+
+41. Ke2 Re4+ 42. Kf3 Rxb1 43. Rxc5 Re8 44. Nd7+ Kg8 0-1

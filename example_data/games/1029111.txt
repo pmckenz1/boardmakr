@@ -1,0 +1,19 @@
+[Event "London (5)"]
+[Site "London (5)"]
+[Date "1886.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emil Schallopp"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3 dxe4 5.fxe5 Ng4 6.d4 e3 7.Nh3
+Bb4 8.a3 Ba5 9.b4 Bb6 10.Ne2 a5 11.Bb2 O-O 12.Ng3 axb4 13.axb4
+Rxa1 14.Bxa1 Nc6 15.c3 Nf2 16.Nxf2 exf2 17.Kxf2 Nxe5 18.Be2
+Qh4 19.Rf1 f5 20.Kg1 Be6 21.Kh1 f4 22.Ne4 Ng4 23.Bxg4 Bxg4
+24.Qb3+ Kh8 25.Nd2 c6 26.c4 f3 27.g3 Qh3 28.Rf2 Re8 29.Qd1
+Qg2+ 0-1

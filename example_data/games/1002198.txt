@@ -1,0 +1,32 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.11"]
+[EventDate "?"]
+[Round "16"]
+[Result "1-0"]
+[White "Isidor Gunsberg"]
+[Black "Henry Edward Bird"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 {Analysis by Wilhelm Steinitz.} e6 2.e4 b6 3.Bd3 Bb7
+4.Nf3 {Not a good post for the Knight in this opening, as it
+mostly of great importance to support the K center by f3,
+which square is now blocked for that pawn.} g6 5.O-O Bg7 6.c3
+h5 {At this point, Black might have utilized White's
+objectionable 4th move by 6. ...f5. If 7. exf5 gxf5 with the
+superior game. Or if 7. e5 Nh6, again with the better
+position. Finally, if 7. Nbd2 Nf6 followed soon by O-O and we
+prefer Black's game. The move in the text is weak.} 7.Be3 d6
+8.Qc2 Nd7 9.Nbd2 Qe7 10.Rae1 h4 11.h3 Bh6 12.e5 dxe5 13.dxe5
+O-O-O 14.Be4 Bxe3 {The adverse attack is greatly strengthened
+by this exchange. Nc5 was by far better.} 15.Bxb7+ Kxb7
+16.Rxe3 Nh6 17.Qe4+ Ka6 {His game was bad, even if he had made
+the best move at his disposal, namely, 17. ...Kc8, whereupon
+after 18. Qa8+ Nb8 19. Nd4, White would have won a pawn at
+least, with a fine game; but the move in the text is a curious
+blunder that confines the King in a mating net.} 18.c4 Nc5 {If
+18. ...b5, his only other alternative, 19. Qc6+ followed by
+Ra3+ wins easily.} 19.Ra3+ 1-0

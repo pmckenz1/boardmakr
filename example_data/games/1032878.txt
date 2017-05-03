@@ -1,0 +1,20 @@
+[Event "10s, Buenos Aires + ch-AR"]
+[Site "Buenos Aires ARG"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Abel Lasalle Casenave"]
+[Black "Fernando Braga"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Be7
+7. O-O a6 8. Qe2 Nf6 9. a4 O-O 10. Rd1 Qc7 11. Bg5 Nc6
+12. Rac1 h6 13. Bh4 Nh5 14. Bxe7 Qxe7 15. e5 d5 16. Ba2 Kh8
+17. Qe3 f5 18. Bb1 Bd7 19. Ne2 g5 20. Nfd4 Qg7 21. Qh3 Nf4
+22. Nxf4 gxf4 23. Ne2 f3 24. Qxf3 Nxe5 25. Qf4 Rac8 26. Ng3
+Nf7 27. Rxc8 Rxc8 28. Qb4 Qg4 29. Qd2 Bxa4 30. Re1 Bd7
+31. Nxf5 exf5 32. Qxd5 Bc6 0-1

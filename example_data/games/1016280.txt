@@ -1,0 +1,18 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.11.19"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Mehrshad Sharif"]
+[Black "Andras Adorjan"]
+[ECO "E42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 O-O 7.a3
+Be7 8.d5 exd5 9.cxd5 Re8 10.g3 Bc5 11.b4 Bb6 12.Bg2 d6 13.O-O
+Nbd7 14.h3 a6 15.Nf4 Ne5 16.Ra2 Bd7 17.Nh5 h6 18.Kh2 Rc8
+19.Bd2 Nfg4+ 20.Kh1 Nxf2+ 21.Rxf2 Bxf2 22.Ne4 Ba7 23.Nxd6 Ba4
+24.Qxa4 Qxd6 25.Ra1 Qg6 26.Qd1 Nd3 0-1

@@ -1,0 +1,19 @@
+[Event "CAN"]
+[Site "CAN"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "David Filipovich"]
+[Black "Lawrence Day"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nc6 4.Nc3 d6 5.e3 Bd7 6.b3 a6 7.Nge2 b5
+8.Rb1 Rb8 9.d3 Qc8 10.Bb2 bxc4 11.dxc4 Nd8 12.Nd5 f6 13.e4 c6
+14.Ne3 c5 15.h4 Nh6 16.h5 g5 17.Qd2 Nc6 18.Rd1 Nf7 19.Nc3 g4
+20.Ncd5 Bh6 21.Qc3 Nfe5 22.O-O Kf7 23.Nxf6 exf6 24.Rxd6 Nd4
+25.Rxd4 cxd4 26.Qxd4 Re8 27.Nf5 Bf8 28.Rd1 Be6 29.Qa7+ Qb7
+30.Qe3 Qc7 0-1

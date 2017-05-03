@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Pham Minh Hoang"]
+[Black "Gagik Khechumyan"]
+[ECO "A29"]
+[WhiteElo "2355"]
+[BlackElo "2370"]
+[PlyCount "81"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Nxe5 Bxf2+ 6. Kxf2
+Nxe5 7. e4 c5 8. d3 d5 9. Nxd5 Nxd5 10. exd5 O-O 11. h3 Qf6+
+12. Kg2 Bf5 13. a4 Rfe8 14. Be2 Re7 15. Rf1 Rae8 16. g4 Ng6
+17. Rf2 Qd6 18. Bg5 Re3 19. gxf5 Qg3+ 20. Kf1 Qxh3+ 21. Ke1
+Rg3 22. fxg6 Rg1+ 23. Kd2 Rxd1+ 24. Rxd1 f6 25. gxh7+ Kh8
+26. Bf4 g5 27. Rh2 Rxe2+ 28. Rxe2 gxf4 29. Kc3 Kxh7 30. Rf2
+Qh5 31. Rdf1 Qe5+ 32. Kc2 Kg7 33. Rxf4 Qe2+ 34. Kc3 Qe5+
+35. Kb3 Qe2 36. R4f3 Qd2 37. d6 Qb4+ 38. Kc2 Qxa4+ 39. Kb1 Kf7
+40. Rxf6+ Ke8 41. Rf7 1-0

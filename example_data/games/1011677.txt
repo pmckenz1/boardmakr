@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Vladimir Frank"]
+[Black "Sasho Nikolov"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 e6 5. Bb5 Nge7 6. O-O a6
+7. Bxc6+ Nxc6 8. d4 cxd4 9. Nxd4 Bd7 10. Nd2 Bd6 11. Nxc6 Bxc6
+12. Qg4 Qc7 13. Nf3 O-O-O 14. Rac1 h5 15. Qh3 Rhg8 16. c4 g5
+17. Nd4 g4 18. Qh4 Be7 19. Qg3 Bd6 20. f4 gxf3 21. Qxf3 Bxh2+
+22. Kh1 Rg6 23. cxd5 exd5 24. Nxc6 bxc6 25. Qh3+ Re6 26. Qxh2
+Rxe3 27. Qxc7+ Kxc7 28. Rxf7+ Rd7 29. Rf6 Rd6 30. Rf5 Rg6
+31. Rf7+ Kd6 32. Ba3+ 1-0

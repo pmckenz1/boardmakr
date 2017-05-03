@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.28"]
+[EventDate "1911.08.21"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Georg Salwe"]
+[Black "Borislav Kostic"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 dxc4 5.e3 a6 6.Bxc4 c5 7.O-O
+Nc6 8.a3 Be7 9.dxc5 Qxd1 10.Rxd1 Bxc5 11.b4 Be7 12.Bb2 O-O
+13.Kf1 b5 14.Bd3 Bb7 15.Ne4 Rfd8 16.Nxf6+ Bxf6 17.Bxf6 gxf6
+18.Be4 f5 19.Bxc6 Bxc6 20.Nd4 Bd5 21.f3 Rac8 22.Rac1 Rxc1
+23.Rxc1 Bc4+ 24.Kf2 f4 25.Rc2 e5 26.Nc6 fxe3 27.Kxe3 Rd3+
+28.Ke4 f6 29.Na5 Rd4+ 30.Ke3 Rd3+ 31.Ke4 Rd4+ 32.Ke3 Rd3+
+33.Kf2 Rxa3 34.Nxc4 bxc4 35.Rxc4 Kf7 36.g4 Kg6 37.Rc6 Rb3
+38.Rb6 h6 39.h4 Ra3 40.Kg2 Rb3 41.Rxa6 Rxb4 42.Kg3 Rb1 43.Kg2
+Rb3 44.Kf2 Rc3 45.Kg2 Rb3 1/2-1/2

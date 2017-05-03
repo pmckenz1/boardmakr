@@ -1,0 +1,21 @@
+[Event "New York op 02"]
+[Site "New York, NY USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bosko Abramovic"]
+[Black "Jay R Bonin"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Be2 Nf6 5.Nc3 O-O 6.O-O Bg4 7.Be3
+Nc6 8.h3 Bxf3 9.Bxf3 e5 10.dxe5 Nxe5 11.Be2 Re8 12.Qd2 Ned7
+13.f3 Nh5 14.Bc4 Nb6 15.Bb3 Be5 16.Bg5 Bd4+ 17.Be3 Bxe3+
+18.Qxe3 Qh4 19.f4 d5 20.f5 g5 21.Kh2 g4 22.f6 d4 23.Qxd4 Qg3+
+24.Kh1 Rad8 25.Qf2 gxh3 26.Ne2 Qxg2+ 27.Qxg2+ hxg2 28.Kxg2
+Rxe4 29.Kf3 Rde8 30.Nc3 Rf4+ 31.Kg2 Rxf6 32.Kh3 Nf4+ 33.Kg4 h5
+34.Kg5 Re5+ 35.Kh4 Nd7 36.Rad1 Nf8 37.Rg1+ N8g6+ 38.Kg3 Re3+
+0-1

@@ -1,0 +1,19 @@
+[Event "Sombor (Yugoslavia)"]
+[Site "Sombor YUG"]
+[Date "1974.10.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Dragoljub Minic"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.Bg5 Be7 6.e3 c6 7.Qc2
+h6 8.Bh4 Nh5 9.Bxe7 Qxe7 10.Be2 Nhf6 11.O-O O-O 12.dxe5 dxe5
+13.Rad1 e4 14.Nd4 Qe5 15.Rd2 Re8 16.Re1 Nf8 17.Qd1 Ng6 18.Bf1
+Qg5 19.Kh1 Bg4 20.Qc2 Re7 21.Nde2 Bf5 22.Ng3 Nh4 23.Red1 Bg6
+24.Rd8+ Rxd8 25.Rxd8+ Kh7 26.Qd2 Nf5 27.Nxf5 Qxf5 28.Kg1
+1/2-1/2

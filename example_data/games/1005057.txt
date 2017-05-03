@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Olli Salmensuu"]
+[Black "Csaba Horvath"]
+[ECO "B33"]
+[WhiteElo "2445"]
+[BlackElo "2520"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6
+12. O-O Bxd5 13. exd5 Ne7 14. c3 Bg7 15. Qh5 e4 16. Bc2 Qc8
+17. Rad1 Qc5 18. Bb3 O-O 19. Nc2 f4 20. Nd4 Rae8 21. a4 b4
+22. Nf5 Nxf5 23. Qxf5 bxc3 24. bxc3 Qxc3 25. Ba2 Qe5 26. Qxe5
+Bxe5 27. Bc4 a5 28. Bb5 Rc8 29. Rc1 Bc3 30. Rc2 Rc5 31. Rfc1
+Bd4 32. Rxc5 Bxc5 33. Kf1 f5 34. Rc4 Rf7 35. f3 Re7 36. g4
+fxg4 37. Rxe4 Rxe4 38. fxe4 Kf7 39. h3 gxh3 40. Be2 Kf6
+41. Bf3 Ke5 42. Ke2 Kd4 43. Bh1 Kc3 44. Kf3 Bd4 0-1

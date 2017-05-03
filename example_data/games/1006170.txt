@@ -1,0 +1,20 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Ingvar Thor Johannesson"]
+[Black "Olafur Isberg Hannesson"]
+[ECO "A17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. d4 b6 5. d5 exd5 6. cxd5 d6
+7. e4 Be7 8. h3 O-O 9. Bf4 Ba6 10. Bxa6 Nxa6 11. O-O Nc7
+12. a4 Nd7 13. g4 Re8 14. Re1 Nf8 15. Qd3 Ng6 16. Bh2 Bf6
+17. Rad1 Bxc3 18. Qxc3 f6 19. Nd2 b5 20. b4 cxb4 21. Qxb4 Ne5
+22. Bxe5 fxe5 23. axb5 Rb8 24. Qa4 Nxb5 25. Rc1 Nd4 26. Kg2
+Qf6 27. Qa3 Rf8 28. Qe3 a5 29. Rf1 a4 30. Nc4 Rb3 31. Rc3 Nc2
+32. Qd3 Ne1+ 33. Rxe1 Qxf2+ 34. Kh1 Qxe1+ 35. Kh2 Rf2+ 0-1

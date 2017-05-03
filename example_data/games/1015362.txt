@@ -1,0 +1,18 @@
+[Event "It (cat.13)"]
+[Site "Jakarta (Indonesia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Utut Adianto"]
+[Black "Ruben Gunawan"]
+[ECO "E80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6
+8.Qd2 exd5 9.cxd5 a6 10.a4 Nbd7 11.Nh3 Re8 12.Be2 Ne5 13.Nf2
+Qc7 14.O-O Rb8 15.Bxf6 Bxf6 16.f4 Nd7 17.e5 dxe5 18.d6 Qd8
+19.Nfe4 Bg7 20.f5 gxf5 21.Rxf5 Nf8 22.Raf1 Bxf5 23.Rxf5 Ne6
+24.Nd5 Nd4 25.Ndf6+ Kh8 26.Rh5 Nxe2+ 27.Kf1 Bxf6 28.Qh6 1-0

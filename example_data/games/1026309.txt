@@ -1,0 +1,18 @@
+[Event "Sutton"]
+[Site "Sutton"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael John Basman"]
+[Black "Stephen Dishman"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. g4 d5 2. h3 e5 3. Bg2 c6 4. d4 Bd6 5. c4 dxc4 6. dxe5 Bxe5
+7. Qxd8+ Kxd8 8. Nf3 Bc7 9. Na3 Ne7 10. Bd2 Ke8 11. Nxc4 Be6
+12. Ne3 Nd5 13. Nf5 Bxf5 14. gxf5 Nd7 15. O-O-O Nf4 16. Bf1
+Nc5 17. Rg1 Ne4 18. Be1 Rg8 19. Rd4 Nf6 20. Bd2 N4d5 21. Rh4
+Bb6 22. Rg2 Ne7 23. e4 Kf8 24. Bc4 1-0

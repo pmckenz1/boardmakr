@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Hartberg (Austria)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Heinz Insam"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 d5 4.c4 e6 5.Nh3 Bd6 6.O-O O-O 7.Qc2
+Nc6 8.Rd1 Kh8 9.a3 Na5 10.b3 Rb8 11.Nd2 Qe8 12.Nf3 b6 13.Nf4
+dxc4 14.bxc4 Bd7 15.a4 c5 16.dxc5 Bxc5 17.Ne5 Bc8 18.Ba3 Nd7
+19.Bb2 Nf6 20.Ned3 Bb7 21.Nxc5 bxc5 22.Be5 Rc8 23.Rd6 Ng4
+24.Rxe6 Qf7 25.Bxb7 Qxb7 26.Bc3 Nxc4 27.h3 1-0

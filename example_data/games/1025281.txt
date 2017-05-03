@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "07"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Romuald Mainka"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 c5 6.e4 Nc6 7.c3 d5
+8.Nbd2 b6 9.exd5 Nxd5 10.Nc4 Qc7 11.Re1 Bb7 12.a4 a6 13.Ng5 e6
+14.Ne4 Rab8 15.Bd2 h6 16.Qe2 Kh7 17.h4 Rbd8 18.f4 Rfe8 19.h5
+e5 20.hxg6 fxg6 21.f5 gxf5 22.Qh5 fxe4 23.Bxe4+ Kg8 24.Bxd5+
+Rxd5 25.Qxe8+ Kh7 26.Qe6 Qd8 27.Re4 b5 28.axb5 axb5 29.Rg4 Qd7
+1-0

@@ -1,0 +1,24 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.12"]
+[EventDate "2000.03.03"]
+[Round "10"]
+[Result "0-1"]
+[White "Kanying Qin"]
+[Black "Xiaomin Peng"]
+[ECO "C90"]
+[WhiteElo "2475"]
+[BlackElo "2624"]
+[PlyCount "104"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. d3 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Bb7 12. Nf1
+Re8 13. Ng3 Bf8 14. h3 h6 15. Bd2 Nc6 16. a3 d5 17. b4 dxe4
+18. dxe4 a5 19. Rb1 axb4 20. axb4 c4 21. Ra1 Qc7 22. Qe2 Ne7
+23. Nh2 Ng6 24. Qf3 Nf4 25. Rxa8 Rxa8 26. Bxf4 exf4 27. Ne2
+Ra3 28. Ng4 Nxg4 29. Qxg4 Qe5 30. Qd7 Ba8 31. Qd8 g6 32. f3
+Bc6 33. Qd2 Bg7 34. Bb1 Qc7 35. Nd4 Be5 36. Rd1 Kg7 37. Kh1
+Qb6 38. Re1 Be8 39. Rd1 Qf6 40. Re1 Ra7 41. Ne2 Rd7 42. Qc1 g5
+43. Rf1 Rd6 44. Re1 h5 45. Rf1 Qd8 46. Re1 Kf8 47. Kg1 Qb6+
+48. Kf1 g4 49. hxg4 hxg4 50. fxg4 Rh6 51. Ng1 Bd7 52. Nf3 Bxg4
+0-1

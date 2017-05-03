@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Mark Geist"]
+[Black "Patrick Yee"]
+[ECO "B90"]
+[WhiteElo "2097"]
+[BlackElo "2296"]
+[PlyCount "66"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6
+7. Be2 Nbd7 8. Be3 b6 9. O-O Bb7 10. f3 Be7 11. Nb3 O-O
+12. Qe1 Qc7 13. Qf2 Rac8 14. Rfd1 Rfe8 15. g4 Nc5 16. Nd4 g6
+17. Bd3 d5 18. g5 Nh5 19. exd5 exd5 20. f4 Bd6 21. Rf1 Rxe3
+22. Qxe3 Nxf4 23. Nce2 Nce6 24. h4 Nxe2+ 25. Qxe2 Nxd4 26. Qg4
+Nxc2 27. h5 Bc5+ 28. Kh1 d4+ 29. Kg1 Nxa1 30. hxg6 hxg6
+31. Rf6 Qe5 32. Bxg6 d3+ 33. Kf1 Qe2+ 0-1

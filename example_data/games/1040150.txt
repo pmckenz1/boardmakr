@@ -1,0 +1,20 @@
+[Event "Ch Israel"]
+[Site "Tel Aviv ISR"]
+[Date "1978.04.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Victor Manievich"]
+[ECO "D09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3 Bg4 6.Bg2 Qd7 7.O-O
+Bh3 8.e6 Bxe6 9.Qa4 O-O-O 10.Rd1 a6 11.Nc3 Nf6 12.Bg5 Be7
+13.Bxf6 Bxf6 14.Nd5 Ne5 15.Qxd7+ Rxd7 16.Nxd4 Nxc4 17.Nxf6
+gxf6 18.e3 Rhd8 19.Rdc1 Ne5 20.Rc3 Kb8 21.b4 Bd5 22.a4 Bxg2
+23.Kxg2 Rd6 24.Rac1 R8d7 25.h3 Rd5 26.f4 Ng6 27.b5 a5 28.Kf3
+Ne7 29.Nb3 c6 30.Nc5 Rd8 31.bxc6 Nxc6 32.Nxb7 Ne5+ 33.fxe5
+Kxb7 34.Rc7+ Kb8 35.Rxf7 Rxe5 1-0

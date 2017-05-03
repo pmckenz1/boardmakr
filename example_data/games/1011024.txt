@@ -1,0 +1,18 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Shamsutdin Radzhabov"]
+[Black "Lenar Murzin"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Nf6 5. f4 d5 6. e5 Ng8
+7. Nf3 Nh6 8. O-O Nf5 9. g4 Nfd4 10. Ne2 h5 11. Nexd4 cxd4
+12. g5 d3 13. cxd3 Bc5+ 14. Kh1 b5 15. Qc2 Qb6 16. g6 Rh6
+17. gxf7+ Kxf7 18. f5 exf5 19. d4 Be7 20. d3 Rg6 21. e6+ Bxe6
+22. Qxc6 1-0

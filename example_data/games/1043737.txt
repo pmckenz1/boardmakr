@@ -1,0 +1,22 @@
+[Event "New York, USA"]
+[Site "New York USA"]
+[Date "1933.08.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Arthur William Dake"]
+[Black "Reuben Fine"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 d6 4. Bg2 Be6 5. d3 Qd7 6. f4 f6
+7. Nf3 Nge7 8. e4 Bh3 9. O-O Bxg2 10. Kxg2 h5 11. f5 g6
+12. Nd5 Bg7 13. Nh4 gxf5 14. Nxf5 Nxf5 15. Rxf5 Nd4 16. Rxh5
+O-O-O 17. Ne3 Bh6 18. Nf5 Nxf5 19. Rxf5 Bxc1 20. Rxc1 Qh7
+21. h4 Rdg8 22. h5 Rg7 23. Rxf6 Rhg8 24. Rg6 Rxg6 25. hxg6
+Qxg6 26. Qf3 Kb8 27. Rf1 Qh6 28. Qf6 Qxf6 29. Rxf6 b6 30. Rf7
+Kb7 31. b4 Kc6 32. Kf3 a5 33. a3 Rh8 34. b5+ Kb7 35. Kg2 Rg8
+36. Rh7 Rg6 37. Rh4 Rg7 38. g4 c6 39. Kg3 cxb5 40. cxb5 Rc7
+41. g5 Rc3 42. Rh7+ 1-0

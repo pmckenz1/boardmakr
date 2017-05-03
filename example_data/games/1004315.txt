@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Hans Mueller"]
+[Black "Sandor Boros"]
+[ECO "D12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. e3 Bf5 5. cxd5 Nxd5 6. Nc3 e6
+7. Bc4 Nd7 8. Qe2 N7b6 9. Bb3 Nf6 10. O-O Be7 11. e4 Bg4
+12. Rd1 O-O 13. h3 Bh5 14. g4 Bg6 15. Ne5 Bb4 16. Bg5 Qc7
+17. Nxg6 hxg6 18. Rac1 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Ch World (team)"]
+[Site "Lucerne SUI"]
+[Date "1989.11.07"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Gennady Sosonko"]
+[Black "Andras Adorjan"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 e6 2.Nf3 Nf6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Nxe4
+Bxe4 8.O-O O-O 9.Nh4 Bxg2 10.Nxg2 d5 11.Qa4 dxc4 12.Qxc4 c5
+13.dxc5 Bxc5 14.Be3 Nd7 15.Rfd1 Qe7 16.Bxc5 Qxc5 17.Rac1 Qxc4
+18.Rxc4 Rfc8 19.Rxc8+ Rxc8 20.Rxd7 Rc1+ 1/2-1/2

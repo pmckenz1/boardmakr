@@ -1,0 +1,20 @@
+[Event "USA speed ch (10-sec/move), USA"]
+[Site "USA speed ch (10-sec/move) USA"]
+[Date "1945.06.24"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Edward Lasker"]
+[Black "Reuben Fine"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. e3 c5 6. a3 cxd4
+7. axb4 dxc3 8. bxc3 O-O 9. Nd4 e5 10. Nb3 Be6 11. Nc5 Qc7
+12. cxd5 Bxd5 13. Bb2 b6 14. Nd3 Rd8 15. Qc1 Bc4 16. Qc2 Nc6
+17. Rc1 a5 18. Be2 a4 19. O-O a3 20. Ba1 Na7 21. Ne1 e4
+22. Bxc4 Qxc4 23. g3 Ng4 24. Ng2 Ne5 25. Nh4 Nb5 26. Rcd1 Rd3
+27. Nf5 Rad8 28. Nd4 Nxd4 29. exd4 Nf3+ 30. Kg2 Nxd4 31. Rxd3
+exd3 32. Qd2 Nb3 33. Qe3 d2 34. Qxb6 Qxf1+ 0-1

@@ -1,0 +1,22 @@
+[Event "Albena (Bulgaria)"]
+[Site "Albena BUL"]
+[Date "1975.09.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Zvonimir Mestrovic"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.Nf3 Nc6 2.d4 d6 3.e4 e5 4.Bb5 exd4 5.Qxd4 Qf6 6.Qd3 Qg6
+7.O-O a6 8.Bxc6+ bxc6 9.Re1 Be7 10.Nc3 Bf6 11.e5 dxe5 12.Qc4
+Ne7 13.Nxe5 Bxe5 14.Rxe5 Qd6 15.Rxe7+ Kxe7 16.Bf4 Qe6 17.Qc5+
+Kd8 18.Rd1+ Bd7 19.Bxc7+ Kxc7 20.Nd5+ Kc8 21.Nb6+ Kc7 22.Qa5
+Ra7 23.Nxd7+ Kc8 24.Nc5 Qe5 25.Qb6 Qc7 26.Qb4 Rd8 27.Re1 h5
+28.g3 g6 29.Qc4 Qd6 30.Nd3 Qd5 31.Qa4 Qb5 32.Qf4 Rad7 33.Re5
+Qb7 34.Rc5 Rd4 35.Qf6 R4d6 36.Qc3 Re8 37.h4 Ree6 38.a4 Qe7
+39.b4 Qf6 40.Qc4 Kb7 41.Ra5 Kc7 42.Qxa6 Qf3 43.Qa7+ Kd8
+44.Qb8+ Ke7 45.Ra7+ Kf6 46.Qh8+ 1-0

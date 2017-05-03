@@ -1,0 +1,18 @@
+[Event "POL"]
+[Site "Tarnow POL"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Andrzej Adamski"]
+[Black "Jerzy Bany"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Be7 6.Nxe4 Nf6
+7.N2g3 O-O 8.c4 Nc6 9.Be3 Nxe4 10.Nxe4 f5 11.d5 Ne5 12.Nc3 Ng4
+13.Qf3 e5 14.O-O-O f4 15.Bd2 Nh6 16.Bd3 Nf5 17.Qe4 Bf6 18.g4
+fxg3 19.hxg3 g6 20.c5 Nd4 21.Bc4 Bf5 22.d6 Ne6 23.Qg2 Bg5
+24.g4 Bxd2+ 25.Rxd2 1-0

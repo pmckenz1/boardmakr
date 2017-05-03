@@ -1,0 +1,27 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Matthew Sadler"]
+[Black "Matthias Wahls"]
+[ECO "E45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. Ng3 O-O
+7. e4 Nc6 8. Bd3 e5 9. d5 Bxc3+ 10. bxc3 Ne7 11. O-O d6 12. a4
+Nd7 13. a5 c6 14. axb6 axb6 15. Bg5 Nc5 16. Be2 Qc7 17. f3
+Rfc8 18. Bxe7 Qxe7 19. Nf5 Qf8 20. dxc6 g6 21. Ne3 Rxc6
+22. Nd5 Kg7 23. Qc2 Bb7 24. Qb2 Nd7 25. Rad1 Rd8 26. Rd2 Ba8
+27. Rfd1 Nf6 28. Nb4 Rcc8 29. Nc2 Rb8 30. Qa3 Ne8 31. Qa7 Rb7
+32. Qa3 Qe7 33. Qb4 Rbb8 34. Kh1 Bc6 35. Ra1 Qb7 36. Rb1 Qc7
+37. Rdd1 h5 38. Ne3 Nf6 39. Rb2 h4 40. Rbd2 Ne8 41. Rb2 Qe7
+42. Bf1 Qg5 43. Re2 h3 44. gxh3 Qf6 45. Bg2 Nc7 46. Red2 Na6
+47. Qb1 Nc5 48. Ng4 Qe7 49. Rb2 Na4 50. Rb3 Bd7 51. Ne3 Be6
+52. Qc1 Qc7 53. Rb4 Nc5 54. Qd2 Ra8 55. h4 Kf8 56. h5 gxh5
+57. f4 f6 58. Nf5 Bxf5 59. exf5 exf4 60. Qd4 Kf7 61. Be4 Nxe4
+62. Qxe4 Kf8 63. Rg1 Ra5 64. Rb2 Qf7 65. Rxb6 Rc5 66. Rb7 Rc7
+67. Rxc7 Qxc7 68. Rg6 1-0

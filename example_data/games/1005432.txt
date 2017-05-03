@@ -1,0 +1,14 @@
+[Event "Shenyang Tan Chin Nam cup, CHN"]
+[Site "Shenyang Tan Chin Nam cup CHN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Xiaomin Peng"]
+[ECO "C45"]
+[WhiteElo "2675"]
+[BlackElo "2570"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nxc6 1/2-1/2

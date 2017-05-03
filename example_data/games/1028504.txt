@@ -1,0 +1,15 @@
+[Event "USA-ch"]
+[Site "New York, NY USA"]
+[Date "1968.07.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Larry Melvyn Evans"]
+[ECO "B31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 a6 6.Bxc6 dxc6 7.d4
+cxd4 8.Nxd4 c5 9.Nb3 Qxd1 10.Rxd1 b6 1/2-1/2

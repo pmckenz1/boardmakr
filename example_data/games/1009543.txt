@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Francesco De Gleria"]
+[Black "Daniel Foetsch"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7
+Qxe7 7. f4 O-O 8. Nf3 c5 9. Qd2 Nc6 10. O-O-O Nb6 11. dxc5
+Qxc5 12. Bd3 Bd7 13. Ne2 Nb4 14. Kb1 Bb5 15. Ned4 Bc4 16. Nb3
+Qb5 17. Nc1 Rfc8 18. Nd4 Qc5 19. Ncb3 Qe7 20. Qf2 Nd7 21. a3
+Bxb3 22. Nxb3 Nxd3 23. cxd3 Nc5 24. Nd4 Qc7 25. Nb5 Qb6
+26. Nd6 Rc6 27. d4 Na4 28. Ka2 Qc7 29. Rd2 b5 30. f5 Rb8
+31. Rf1 b4 32. axb4 Rxb4 33. Ka1 Ra6 34. b3 Nc3+ 35. Kb2 Ra2+
+36. Kc1 Ra1+ 37. Kb2 Ra2+ 38. Kc1 Rxb3 39. Rc2 Rb1+ 40. Kd2
+Rxc2+ 41. Kxc2 Ne4+ 42. Kxb1 Nxf2 43. Rxf2 exf5 44. Rc2 Qb6+
+45. Rb2 Qd8 46. Rc2 Qb6+ 47. Rb2 Qd8 1/2-1/2

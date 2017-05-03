@@ -1,0 +1,22 @@
+[Event "Chaumont"]
+[Site "Chaumont"]
+[Date "1958.05.11"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Enrico Paoli"]
+[Black "Max Euwe"]
+[ECO "B57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4
+Bd7 7. O-O g6 8. a3 Bg7 9. Kh1 Nxe4 10. Nxe4 Nxd4 11. c3 Ne6
+12. f4 Bc6 13. f5 Bxe4 14. fxe6 f6 15. Qg4 Bc6 16. Bd3 Qa5
+17. Bxg6+ hxg6 18. Qxg6+ Kd8 19. Qxg7 Qh5 20. Bf4 Rh7 21. Qg3
+Kc7 22. Rad1 Rah8 23. Rd2 Kc8 24. Kg1 a6 25. b4 Qb5 26. h3 Qc4
+27. Re1 f5 28. Rd4 Qa2 29. Rd2 Qb3 30. Qd3 Rg7 31. Qd4 Rhg8
+32. Ree2 Qb1+ 33. Rd1 Rxg2+ 34. Rxg2 Rxg2+ 35. Kf1 Qb3 36. Rd2
+Rg8 37. h4 Qxe6 38. Bg5 Kd7 39. Kf2 Qe4 40. Qxe4 Bxe4 41. Ke3
+Rc8 0-1

@@ -1,0 +1,20 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1974.01.21"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Milan Matulovic"]
+[Black "Andras Adorjan"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Nf3 c5 6.e5 Nfd7 7.exd6
+O-O 8.Be3 Qb6 9.dxe7 Re8 10.Bc4 Qb4 11.Be2 Nc6 12.a3 Qb6
+13.Na4 Qa5+ 14.Bd2 Qc7 15.d5 Nd4 16.O-O Nf6 17.c4 Nxe2+
+18.Qxe2 Rxe7 19.Qd3 Bf5 20.Qb3 Ne4 21.Rad1 Nxd2 22.Rxd2 Qxf4
+23.d6 Re3 24.Qxb7 Rf8 25.g3 Qxc4 26.d7 Be4 27.Qc8 Rxf3 28.Rfd1
+Bd4+ 29.Rxd4 Rf1+ 30.Rxf1 Qxd4+ 31.Rf2 Bf5 32.Qxc5 Qd1+ 33.Rf1
+Qxd7 34.Nc3 Bh3 35.Nd5 Qe6 36.Nf4 Qc8 37.Qxc8 1-0

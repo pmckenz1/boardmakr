@@ -1,0 +1,24 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN ch"]
+[Date "1977.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Janos Rigo"]
+[Black "Andras Adorjan"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2
+Nxd4 8.Qxd4 Bg7 9.Bg5 O-O 10.Qd2 Be6 11.O-O Qa5 12.Rac1 a6
+13.f3 Rfc8 14.b3 b5 15.Nd5 Qxd2 16.Bxd2 Nxd5 17.exd5 Bd4+
+18.Kh1 Bd7 19.Rfd1 Bb2 20.Rc2 Ba3 21.Bg5 f6 22.Be3 Bf5 23.Bd3
+Bxd3 24.Rxd3 Kf7 25.Kg1 Rab8 26.Kf1 Ke8 27.Ba7 Ra8 28.Bd4 Rab8
+29.f4 bxc4 30.Rxc4 Rxc4 31.bxc4 Bc1 32.g3 Rc8 33.c5 dxc5
+34.Rc3 Ba3 35.Rxa3 cxd4 36.Ke2 Rc5 37.Kd3 Rxd5 38.Rxa6 Kf7
+39.a4 Rd7 40.Rb6 e5 41.a5 Rd5 42.a6 Ra5 43.fxe5 fxe5 44.Ke4
+Ke7 45.g4 Kd7 46.h4 Kc7 47.Rf6 Ra1 48.Kxe5 d3 49.Rf2 Rxa6
+50.Ke4 Ra3 51.Ke3 d2 52.Kxd2 Ra2+ 53.Ke3 Rxf2 54.Kxf2 Kd6
+55.Kf3 Ke5 56.Ke3 h6 57.Kf3 g5 58.hxg5 1/2-1/2

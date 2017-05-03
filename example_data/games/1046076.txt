@@ -1,0 +1,22 @@
+[Event "Palma de Majorca (Spain)"]
+[Site "Palma de Mallorca ESP"]
+[Date "1989.12.09"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Heikki Westerinen"]
+[Black "Lubomir Ftacnik"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6
+7. Be2 e6 8. f4 Qc7 9. Be3 Be7 10. O-O O-O 11. Kh1 Re8 12. Bd3
+Bd7 13. Qf3 Nb4 14. a5 Bc6 15. Qh3 Nd7 16. f5 e5 17. Nb3 Nf6
+18. Bb6 Qc8 19. Rae1 Bd8 20. Bxd8 Qxd8 21. Rd1 Qe7 22. Rfe1
+Rad8 23. Nd2 d5 24. exd5 Nxd3 25. cxd3 Nxd5 26. Nxd5 Rxd5
+27. Nc4 Red8 28. Re3 f6 29. Qh5 Qf7 30. Qxf7+ Kxf7 31. Kg1 Rd4
+32. b3 Be4 33. Nb2 Bxf5 34. Rc1 Be6 35. Rc3 h5 36. Kf2 h4
+37. Na4 Rb4 38. Rc7+ Rd7 39. Rxd7+ Bxd7 40. Nc5 Bc6 41. Re2
+Ke7 42. Rc2 Kd6 43. Ke3 f5 0-1

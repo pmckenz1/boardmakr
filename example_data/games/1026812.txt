@@ -1,0 +1,16 @@
+[Event "Saint"]
+[Site "Saint"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Joel Benjamin"]
+[Black "Mihai Suba"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.b3 a6 7.Nc3 Be7
+8.Bb2 O-O 9.e3 d6 10.Qe2 Nbd7 11.Rfd1 Rb8 12.Rac1 Ne4 13.Nxe4
+Bxe4 14.Ne5 Bxg2 15.Nxd7 Qc8 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Czechoslovakiet"]
+[Site "Prague CSR"]
+[Date "1986.06.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Marek Vokac"]
+[ECO "E70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nge2 d6 6. Ng3 e5
+7. dxe5 dxe5 8. Qxd8 Rxd8 9. Nd5 Nxd5 10. cxd5 c6 11. Bc4 cxd5
+12. Bxd5 Nc6 13. Bg5 Rd7 14. O-O-O Nb4 15. Bb3 Nd3+ 16. Kb1
+Nf4 17. Bxf4 exf4 18. Ne2 Be5 19. Nc1 Re7 20. Nd3 Bd6 21. Rhe1
+Bd7 22. e5 Bc7 23. Nxf4 Bf5+ 24. Ka1 Rxe5 25. Nd5 Rxe1
+26. Rxe1 Ba5 27. Re7 Rc8 28. Nf6+ Kh8 29. Re8+ Kg7 30. Rxc8
+Bxc8 31. Ne8+ Kf8 32. Nd6 Be6 33. Bxe6 fxe6 34. Nxb7 Bb6
+35. Nd6 Bxf2 36. Kb1 Bg1 37. h3 Ke7 38. Ne4 e5 39. Kc2 Ke6
+40. g4 h5 41. Kd3 hxg4 42. hxg4 Bd4 43. b4 Kd5 44. a4 Bb2
+45. a5 Bd4 46. b5 Bg1 47. Nc3+ Kc5 48. b6 axb6 49. a6 Kc6
+50. Nb5 e4+ 51. Kxe4 Bh2 52. Kf3 Be5 53. Kg2 Bb8 54. a7 Bxa7
+55. Nxa7+ Kb7 56. Nb5 Kc6 57. Nc3 Kc5 58. Na4+ Kb5 59. Nxb6
+Kxb6 60. Kf3 Kc5 61. Kf4 1-0

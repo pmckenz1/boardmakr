@@ -1,0 +1,22 @@
+[Event "Santiago ch-CH"]
+[Site "Santiago ch-CH"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Hernandez"]
+[Black "Andres Rodriguez Vila"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3 Bh5 7.g4
+Bg6 8.Bd2 e6 9.Ne5 Bb4 10.Bg2 Qb6 11.Qe2 c6 12.h4 Qxd4
+13.O-O-O Bxc3 14.Bxc3 Qf4+ 15.Kb1 Be4 16.Rd4 Qxe5 17.Rd8+ Kxd8
+18.Bxe5 Bxg2 19.Rd1+ Nbd7 20.Bxf6+ gxf6 21.f3 Bxf3 22.Qxf3 Ke8
+23.Qb3 Rb8 24.Qa3 Rg8 25.Qxa7 Rxg4 26.b3 Rg8 27.a4 Ke7 28.a5
+Rgd8 29.a6 f5 30.axb7 f4 31.Qa3+ c5 32.Qa6 Ne5 33.Rf1 Rd4
+34.Qa7 Nd7 35.Kc1 Rb4 36.Rd1 R8xb7 37.Qa6 R4b6 38.Qd3 Ra7
+39.Qxh7 Ra1+ 40.Kd2 Rd6+ 41.Kc3 Raxd1 42.Qh6 e5 43.Qg5+ Rf6
+0-1

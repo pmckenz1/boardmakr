@@ -1,0 +1,16 @@
+[Event "USA-ch"]
+[Site "New York, NY USA"]
+[Date "1968.07.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Arthur Bisguier"]
+[Black "Pal Benko"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 c5 2.f4 Nf6 3.Nc3 d5 4.Bb5+ Bd7 5.e5 Bxb5 6.exf6 Bc6
+7.fxg7 Bxg7 8.d3 Qd6 9.Nf3 Nd7 10.O-O O-O-O 11.d4 cxd4 12.Nxd4
+Bxd4+ 13.Qxd4 Qc5 14.Be3 1/2-1/2

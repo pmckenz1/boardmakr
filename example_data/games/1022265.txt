@@ -1,0 +1,24 @@
+[Event "Budapest (Hungary)"]
+[Site "Budapest HUN"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Denes Martinidesz"]
+[ECO "A56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 g6 6.Bd3 Bg7 7.h3 O-O
+8.g4 Na6 9.Nge2 h5 10.g5 Nh7 11.h4 Bg4 12.Qd2 f6 13.Ng1 fxg5
+14.hxg5 Nc7 15.Qe3 a6 16.a4 b6 17.f3 Bd7 18.Nge2 Rf7 19.Kd1
+Nf8 20.Kc2 Rb8 21.b3 Rb7 22.Bd2 b5 23.a5 b4 24.Nd1 Rb8 25.Nf2
+Qe7 26.Nh3 Re8 27.Ng3 Qd8 28.Bf1 Qe7 29.Bg2 Bh8 30.Nf2 Rh7
+31.Bh3 Bxh3 32.Rxh3 Nd7 33.Nd3 Rf8 34.Ne2 Ne8 35.Ne1 Rff7
+36.Ng2 Nf8 37.Nh4 Qd8 38.Bc1 Qe7 39.Bb2 Qd7 40.Rh2 Qe7 41.Rg1
+Nc7 42.Nf5 gxf5 43.g6 Nxg6 44.Rxg6+ Bg7 45.f4 Kf8 46.Rhg2 exf4
+47.Nxf4 Qxe4+ 48.Qxe4 fxe4 49.Ne6+ Nxe6 50.dxe6 Ra7 51.Bc1 h4
+52.Bf4 Be5 53.Bxe5 dxe5 54.Rg8+ Ke7 55.R2g6 Rc7 56.Kd2 h3
+57.Rg1 Kxe6 58.Ke3 h2 59.Rh1 Rh5 60.Rg6+ Kf5 61.Rxa6 Rg7 0-1

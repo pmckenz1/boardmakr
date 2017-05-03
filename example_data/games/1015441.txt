@@ -1,0 +1,16 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1968.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Laszlo Liptay"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nge2 e5 7.Nd5
+Nge7 8.Bg5 h6 9.Bf6 O-O 10.Nxe7+ Nxe7 11.Bxg7 Kxg7 12.O-O d5
+1/2-1/2

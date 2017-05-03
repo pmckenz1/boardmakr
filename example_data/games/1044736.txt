@@ -1,0 +1,18 @@
+[Event "Groningen op (05)"]
+[Site "Groningen NED"]
+[Date "1990.12.26"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Rudy C Douven"]
+[Black "Jesper Fischer-Nielsen"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. Nf3 e6 5. Bxc4 cxd4 6. Nxd4 a6
+7. O-O Nf6 8. Bg5 Be7 9. e5 Nfd7 10. Bf4 b5 11. Bxe6 fxe6
+12. Nxe6 Qb6 13. Nxg7+ Kf7 14. Nf5 Nf8 15. Nxe7 Kxe7 16. Nc3
+Bb7 17. Nd5+ Bxd5 18. Qxd5 Qc6 19. Bg5+ Ke8 20. Qd8+ Kf7
+21. Qe7+ Kg6 22. Rad1 1-0

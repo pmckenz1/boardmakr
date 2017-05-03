@@ -1,0 +1,18 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Douglas Marshall Bryson"]
+[Black "Ketevan Arakhamia-Grant"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7
+7. Bd3 Be6 8. O-O a6 9. N5c3 Bg5 10. Nd2 Nge7 11. Nd5 O-O
+12. b3 f5 13. exf5 Nxf5 14. Ba3 Bxd2 15. Qxd2 Ncd4 16. Be4 Kh8
+17. Rae1 Rc8 18. f4 Bxd5 19. Bxd5 Qb6 20. Kh1 Rf6 21. g4 Ne7
+22. Bg2 Qc7 23. fxe5 dxe5 24. Rxf6 gxf6 25. Bxe7 1-0

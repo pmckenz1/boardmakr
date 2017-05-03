@@ -1,0 +1,18 @@
+[Event "Buenos Aires (Argentina)"]
+[Site "Buenos Aires ARG"]
+[Date "1964.07.18"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Bernardo Wexler"]
+[Black "Julio Bolbochan"]
+[ECO "D58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6
+8.Rc1 Bb7 9.cxd5 Nxd5 10.Bg3 c5 11.Bd3 cxd4 12.exd4 Bd6 13.O-O
+Bxg3 14.hxg3 Nc6 15.Re1 Rc8 16.Be4 Nf6 17.Bb1 Rc7 18.Qd2 Rd7
+19.Rcd1 Qb8 20.Qe3 Rfd8 21.Rd2 a6 22.Red1 Nb4 23.Ne5 Rc7 24.a3
+Nbd5 25.Nxd5 Bxd5 26.Rc2 Rxc2 27.Bxc2 Qb7 28.f3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Julian Michael Hodgson"]
+[Black "Philipp Schlosser"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2
+Qxd4 7. Bxb4 Qxe4+ 8. Be2 Nd7 9. Nf3 c5 10. Bc3 Ngf6 11. Qd6
+Qc6 12. Qg3 O-O 13. O-O-O e5 14. Nxe5 Nxe5 15. Bxe5 Bf5
+16. Rd6 Qa4 17. Bd3 Bxd3 18. Qxd3 Ng4 19. Bc3 Rae8 20. Rd5 f6
+21. Rxc5 Nxf2 22. Qd5+ Kh8 23. Ra5 Qc6 24. Qxc6 bxc6 25. Rg1
+Re2 26. Rxa7 Nd3+ 27. Kb1 Nxb2 28. Bxb2 Rb8 29. Ka1 Rexb2
+30. Ra8 Kg8 31. Rxb8+ Rxb8 32. Rb1 Rd8 33. Rb6 Rd2 34. a4 Rxg2
+35. Rb2 Rg5 36. Ka2 Ra5 37. Ka3 Kf7 38. Kb4 Ra7 39. Ra2 Ke6
+40. Kc5 Kd7 41. Kb6 Ra8 42. Rd2+ Kc8 43. a5 Rb8+ 44. Kxc6 Ra8
+45. Re2 Ra6+ 46. Kb5 Ra7 47. a6 Rc7 48. c5 1-0

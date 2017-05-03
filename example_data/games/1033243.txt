@@ -1,0 +1,20 @@
+[Event "10s, AND op"]
+[Site "10s, AND op Hiarcs 7.32"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Fernando Ribeiro"]
+[Black "Fernando Braga"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4
+exd4 7. Nxd4 c5 8. Ne2 Qxd1 9. Rxd1 Bd7 10. Bf4 O-O-O 11. Nbc3
+Ne7 12. Nd5 Nxd5 13. Rxd5 Be7 14. Rad1 Be6 15. Rxd8+ Rxd8
+16. Rxd8+ Kxd8 17. Nc3 Kd7 18. Kf1 Kc6 19. Ke2 b5 20. a3 g5
+21. Bg3 f5 22. f4 h6 23. fxg5 Bxg5 24. Nd5 Bxd5 25. exd5+ Kxd5
+26. b3 c6 27. Bf2 c4 28. a4 cxb3 29. cxb3 bxa4 30. bxa4 Kc4
+31. h4 Bc1 32. Kd1 Bf4 33. Kc2 h5 34. Be1 0-1

@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1868.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jean Dufresne"]
+[Black "Adolf Anderssen"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O
+d6 8.cxd4 Bb6 9.Bb2 Nf6 10.d5 Ne7 11.Nc3 O-O 12.Nd4 c6 13.Rc1
+cxd5 14.exd5 Bg4 15.Qd3 Rc8 16.Ne4 Ng6 17.f4 Bf5 18.Nxf6+ Qxf6
+19.Qd2 Nh4 20.Kh1 Qg6 21.Nxf5 Nxf5 22.Rf3 Rfe8 23.Bd3 Rxc1+
+24.Qxc1 f6 25.h3 Qh5 26.Bb5 Re7 27.g4 Qh4 28.Qc8+ Kf7 29.Qxf5
+Qe1+ 30.Bf1 Re3 31.Qd7+ Kg6 32.f5+ Kh6 33.g5+ Kh5 34.Qxg7 1-0

@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Dimitrij Bunzmann"]
+[Black "Holger Proehl"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6
+7. Bd3 Nbd7 8. Nf3 O-O 9. Qc2 Re8 10. h3 Nf8 11. Bf4 Bd6
+12. Bxd6 Qxd6 13. O-O-O b6 14. Kb1 Bb7 15. e4 dxe4 16. Nxe4
+Nxe4 17. Bxe4 Re7 18. Ne5 Rc8 19. Rhe1 g6 20. Bf3 Ne6 21. Qc3
+Nf4 22. Nc4 Qf6 23. Rxe7 Qxe7 24. Qe3 Qf6 25. Qe5 Qxe5
+26. dxe5 Ba6 27. b3 Bxc4 28. bxc4 Rc7 29. Rd4 Ne6 30. Rd6 c5
+31. Bd5 Nd4 32. f4 Re7 33. Rf6 Kg7 34. a4 Rd7 35. Kb2 Nf5
+36. Bc6 Rd2+ 37. Kc3 Rd8 38. Bd5 Rd7 39. Kd3 h6 40. g4 Nd4
+41. Ke4 Nb3 42. Rd6 Rc7 43. f5 gxf5+ 44. gxf5 Nd4 45. Rd8 Ne2
+46. f6+ Kg6 47. Rg8+ Kh5 48. Rg7 1-0

@@ -1,0 +1,18 @@
+[Event "Botswana"]
+[Site "Botswana"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rupert Jones"]
+[Black "Andras Adorjan"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.g3 d5 3.exd5 Qxd5 4.Qf3 Qd8 5.Bc4 Nf6 6.Ne2 Nc6
+7.O-O e6 8.d3 Be7 9.Bf4 O-O 10.Nbc3 h6 11.Rad1 e5 12.Be3 Bg4
+13.Qh1 Nd4 14.Bxd4 cxd4 15.f3 dxc3 16.fxg4 b5 17.Bb3 Bc5+
+18.Kg2 cxb2 19.h3 a5 20.a4 bxa4 21.Bxa4 Nd5 22.Rf3 Ne3+
+23.Rxe3 Bxe3 24.Qf1 Bc1 25.Nc3 Qd4 26.Qe1 Rac8 0-1

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.08"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Rudy Tia"]
+[Black "Utut Adianto"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3
+Nbd7 8.Be3 Nc5 9.f3 Be7 10.Qd2 Qc7 11.O-O O-O 12.Kh1 b5 13.a3
+Nxb3 14.Nxb3 Bb7 15.Rad1 Rac8 16.Bf4 Rfd8 17.Qf2 Nd7 18.Be3
+Re8 19.f4 Nf6 20.Bb6 Qb8 21.Nd2 Ba8 22.Bd4 b4 23.e5 Ng4 24.Qg3
+dxe5 25.fxe5 bxc3 26.bxc3 Nh6 27.Rb1 Qc7 28.Nf3 Nf5 29.Qg4 Bc5
+30.Ng5 h6 31.Ne4 Bxe4 32.Qxe4 Bxd4 33.cxd4 Qxc2 34.Qb7 Rc7
+35.Qxa6 Ne3 36.Rg1 Rec8 37.Rbe1 Ng4 38.h3 Nf2+ 39.Kh2 Qd2
+40.Qb6 Rc2 41.Qb3 R8c3 42.Qb8+ Kh7 43.Qb1 Qf4+ 44.g3 Ng4+ 0-1

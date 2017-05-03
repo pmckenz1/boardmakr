@@ -1,0 +1,18 @@
+[Event "USSR Championship 1961a"]
+[Site "Moscow URS"]
+[Date "1961.01.10"]
+[EventDate "1961.??.??"]
+[Round "1"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Efim Geller"]
+[ECO "E27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.f3 d5
+7.cxd5 exd5 8.e3 Bf5 9.Ne2 Nbd7 10.Nf4 c5 11.Bd3 Bxd3 12.Qxd3
+Re8 13.O-O Rc8 14.Rb1 Qa5 15.Rxb7 Nb6 16.g4 h6 17.h4 cxd4
+18.g5 dxe3 19.gxf6 Rxc3 20.Qg6 {Analysis 20...fxg6 21.Rxg7+}
+1-0

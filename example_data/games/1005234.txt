@@ -1,0 +1,25 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Joachim Bergre"]
+[Black "Wolfgang Langer"]
+[ECO "B23"]
+[WhiteElo "2120"]
+[BlackElo "2125"]
+[PlyCount "107"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. g3 g6 5. Bg2 Bg7 6. d3 Nge7
+7. Be3 d6 8. O-O Nd4 9. Qd2 O-O 10. Nd1 Rb8 11. Nc1 e5 12. c3
+Ndc6 13. Ne2 Be6 14. d4 cxd4 15. cxd4 d5 16. exd5 Nxd5
+17. dxe5 Nxe5 18. Bh6 Nc4 19. Qc1 Bxh6 20. Qxh6 Qf6 21. Ndc3
+Nxc3 22. bxc3 Ne5 23. Qf4 Kg7 24. a4 Bc4 25. Rfe1 Nd3
+26. Qxf6+ Kxf6 27. Reb1 Rfe8 28. Nd4 Nc5 29. a5 Bd3 30. Rb2
+Be4 31. Bxe4 Nxe4 32. Ra3 Nd6 33. Rb1 Rbc8 34. Nb5 Nc4 35. Ra4
+a6 36. Rxc4 Rxc4 37. Nd6 Rec8 38. Nxc8 Rxc8 39. Rxb7 Rxc3
+40. Rb6+ Kf5 41. Rxa6 Ra3 42. Kg2 h5 43. h3 f6 44. Ra8 Ra4
+45. a6 Ra3 46. a7 Ra4 47. Kf3 Ra3+ 48. Ke2 Kg5 49. Kd2 Kf5
+50. Kc1 Kg5 51. Kb2 Ra6 52. Kc3 Kf5 53. Kd4 Ra5 54. Kc3
+1/2-1/2

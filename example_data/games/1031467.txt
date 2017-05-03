@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Brian McCarthy"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.Nc3 Bg7 5.e4 O-O 6.Nd2 d6 7.Be2 b6
+8.O-O Na6 9.a4 Nc7 10.Kh1 Rb8 11.Nc4 Ba6 12.Bg5 Qd7 13.f4 Bxc4
+14.Bxc4 a6 15.e5 b5 16.axb5 axb5 17.exf6 exf6 18.Bh4 bxc4
+19.f5 Rxb2 20.Ne4 Ne8 21.Ra3 Qb7 22.Rh3 c3 23.Rxc3 Rb4 24.Rb3
+Rxb3 25.cxb3 Qb4 26.Qd3 Qa3 27.Bg3 Qa8 28.h4 Qd8 29.h5 gxf5
+30.Rxf5 Qd7 31.Qf3 Kh8 32.Bh4 Qe7 33.Qf4 Rg8 34.Nxf6 Bxf6
+35.Rxf6 Qe2 36.Qf3 Qxf3 37.gxf3 Kg7 38.Rf4 f6 39.Kg2 Rf8
+40.Kg3 Kh6 41.Rf5 Ng7 42.Bg5+ Kxh5 43.Rxf6 Rxf6 44.Bxf6 Nf5+
+45.Kf4 Kg6 46.Bc3 h5 47.b4 h4 48.Kg4 Ne3+ 49.Kxh4 Nxd5 50.bxc5
+dxc5 1/2-1/2

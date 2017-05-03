@@ -1,0 +1,20 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1896.08.04"]
+[EventDate "1896.07.20"]
+[Round "14"]
+[Result "1-0"]
+[White "Rudolf Rezso Charousek"]
+[Black "Moritz Porges"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+ 5.c3 dxc3 6.O-O c2
+7.Qxc2 Nge7 8.a3 Ba5 9.b4 Bb6 10.Bb2 f6 11.Nc3 d6 12.Nd5 Nxd5
+13.Bxd5 Ne7 14.Rfe1 c6 15.Bb3 Bg4 16.Nd4 Qd7 17.Qc4 Rf8 18.h3
+Bxd4 19.Bxd4 Bh5 20.Qc3 Bf7 21.Bc2 Be6 22.f4 b6 23.Bf2 O-O-O
+24.a4 Kb7 25.Qe3 Kb8 26.b5 Nc8 27.bxc6 Qxc6 28.Bd3 d5 29.f5
+dxe4 30.Bb5 Qd5 31.fxe6 Qxe6 32.a5 f5 33.axb6 Nxb6 34.Bg3+ Ka8
+35.Bc7 Rb8 36.Qc5 Rfc8 37.Qc6+ 1-0

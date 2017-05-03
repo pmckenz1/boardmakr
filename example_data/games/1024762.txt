@@ -1,0 +1,19 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1982.01.19"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Hans Ree"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 d6 7.O-O
+Nf6 8.Be3 Be7 9.f4 O-O 10.a4 Qc7 11.Qe1 Nxd4 12.Bxd4 e5 13.Be3
+exf4 14.Bxf4 Be6 15.Qg3 Kh8 16.e5 Ne8 17.Bd3 dxe5 18.Bxe5 Bd6
+19.Rae1 Bxe5 20.Rxe5 Nf6 21.Rxf6 gxf6 22.Qh4 f5 23.Qf6+ Kg8
+24.Bxf5 Bxf5 25.Rxf5 Rfd8 26.Rg5+ Kf8 27.Qg7+ Ke8 28.Re5+ Kd7
+29.Qg4+ 1-0

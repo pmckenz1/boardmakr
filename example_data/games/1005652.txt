@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "0-1"]
+[White "Karen Askarian"]
+[Black "Valery Shalimov"]
+[ECO "A64"]
+[WhiteElo "2274"]
+[BlackElo "2400"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6
+7. g3 Bg7 8. Bg2 O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. h3
+Rb8 13. Nc4 Nb6 14. Na3 Bd7 15. Re1 Qc7 16. a5 Nc8 17. Nc4 Bb5
+18. Ne3 Na7 19. Bd2 Nd7 20. Kh2 f5 21. Qc1 Ne5 22. f4 Nf7
+23. Ned1 Bd7 24. Nf2 Re7 25. e3 Rbe8 26. Na4 Bxa4 27. Rxa4 Nb5
+28. Rc4 Qd7 29. b4 cxb4 30. Bxb4 Kh8 31. Bd2 Nh6 32. Qd1 Rc8
+33. Qa4 Ng8 34. g4 Nf6 35. Bf3 Rxc4 36. Qxc4 Qe8 37. Qd3 Nd7
+38. gxf5 Nd4 39. Bg2 Nc5 40. Qb1 Ndb3 41. Bc1 Nxc1 42. Qxc1
+gxf5 43. Qb1 Qf7 44. Qb6 Rd7 45. Bf3 Qe7 46. Re2 Rd8 47. Qb2
+Bxb2 0-1

@@ -1,0 +1,18 @@
+[Event "Mar del Plata zt ,MCL 03"]
+[Site "12"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Julio Sumar"]
+[Black "Erich Eliskases"]
+[ECO "B72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O
+O-O 8.Be3 Nc6 9.Kh1 Bd7 10.f4 a6 11.Nb3 b5 12.a3 Kh8 13.Qe1
+Na5 14.Nd2 Bc6 15.Rd1 Qc7 16.Bf3 Nd7 17.g4 e6 18.Qh4 Rae8
+19.Bg2 f5 20.Nf3 fxg4 21.Ng5 h6 22.f5 exf5 23.Bf4 Nc4 24.Nd5
+Bxd5 25.exd5 Qd8 26.Rde1 Nce5 27.Bxe5 Nxe5 28.Rxe5 dxe5 0-1

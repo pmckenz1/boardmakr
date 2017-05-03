@@ -1,0 +1,21 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.03"]
+[EventDate "1904.04.25"]
+[Round "6.1"]
+[Result "0-1"]
+[White "Eugene Delmar"]
+[Black "Jackson Whipps Showalter"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Ne2
+Ne7 8.c3 Ba5 9.Ng3 Ng6 10.h3 c6 11.Ba4 d5 12.Bg5 h6 13.Be3 Kh7
+14.Qc1 Bc7 15.Bc2 Ng8 16.Re1 f5 17.exf5 Bxf5 18.Nxf5 Rxf5
+19.d4 e4 20.Nd2 Qd6 21.Nf1 Raf8 22.c4 Nf4 23.Ng3 Qg6 24.Kh1
+Nxg2 25.Nxf5 Nxe1 26.Qxe1 Rxf5 27.Qg1 Qe6 28.cxd5 cxd5 29.Bd1
+Rf3 30.Qg4 Qd6 31.Qg2 Rf6 32.Bh5 Ne7 33.h4 Nf5 34.Rg1 g6
+35.Bf4 Qxf4 36.Bxg6+ Kh8 37.Bxf5 Qxh4+ 38.Bh3 Rg6 39.Qf1 Qf4
+40.Rg2 Qf3 0-1

@@ -1,0 +1,27 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Martin Borriss"]
+[Black "Martin Breutigam"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Bc4 c6 6. d3 Nxf3+
+7. Qxf3 Qf6 8. Qd1 f4 9. g3 Bb4 10. gxf4 exf4 11. d4 d6
+12. Qd3 Bg4 13. Rg1 Nh6 14. Bd2 O-O-O 15. f3 Qh4+ 16. Kd1 Bd7
+17. Ne2 Bxd2 18. Kxd2 g5 19. Qa3 Kc7 20. Qa5+ Kb8 21. Qxg5
+Qxg5 22. Rxg5 Rdf8 23. Rag1 Be8 24. Be6 Rf6 25. d5 Bf7 26. Nd4
+c5 27. Bxf7 Nxf7 28. Rf5 Rxf5 29. Nxf5 Ne5 30. Ke2 Rd8 31. Rg7
+h5 32. h4 a5 33. a4 Ka7 34. Rg5 c4 35. Rxh5 b5 36. axb5 c3
+37. bxc3 a4 38. Nd4 Kb6 39. Rg5 a3 40. Rg1 Rh8 41. Rh1 Kc5
+42. h5 Kc4 43. Kd2 Rg8 44. Kc1 Rg2 45. Kb1 Kxc3 46. Rd1 Nc4
+47. Rd3+ Kb4 48. Ka2 Rh2 49. h6 Rxh6 50. Rb3+ Ka5 51. b6 Nxb6
+52. Rxa3+ Kb4 53. Rb3+ Ka5 54. Kb2 Nc4+ 55. Kc3 Ne3 56. Nc6+
+Ka6 57. Nb8+ Ka5 58. Nc6+ Ka6 59. Kd3 Rh2 60. Nb8+ Ka5
+61. Nc6+ Ka4 62. Rc3 Nf1 63. Rc4+ Ka3 64. Nd4 Nd2 65. Rc6 Nb1
+66. Rxd6 1-0

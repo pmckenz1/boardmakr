@@ -1,0 +1,19 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.03"]
+[EventDate "1920.08.02"]
+[Round "2"]
+[Result "1-0"]
+[White "R Svanberg"]
+[Black "T C Jensen"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 Bf5 4.Nc3 e6 5.Qb3 b6 6.Bg5 Be7 7.Bxf6
+Bxf6 8.cxd5 exd5 9.Qxd5 Qxd5 10.Nxd5 Kd8 11.Rc1 c6 12.Nxf6
+gxf6 13.e3 b5 14.Be2 Rg8 15.O-O Be4 16.Ne1 f5 17.f3 Bd5 18.a3
+Ke7 19.Nd3 Bc4 20.Rfe1 Nd7 21.Nb4 c5 22.Bxc4 cxb4 23.Bxb5 bxa3
+24.bxa3 Rab8 25.a4 Rb7 26.Rc6 Nb8 27.Rc5 a6 28.Bd3 Rb2 29.Re2
+Rb4 30.a5 Ra4 31.Bxf5 Kd6 32.Rb2 Re8 33.Rb6+ Ke7 34.Re5+ 1-0

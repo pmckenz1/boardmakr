@@ -1,0 +1,23 @@
+[Event "Oakham UENGO"]
+[Site "07"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Demis Hassabis"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.O-O O-O 6.b3 d6 7.Bb2 h6
+8.Nbd2 g5 9.Ne1 c6 10.Nd3 Qe8 11.e4 fxe4 12.Nxe4 Nxe4 13.Bxe4
+Nd7 14.Bg2 Nf6 15.Qe2 Qf7 16.Rae1 Re8 17.f4 Bg4 18.Qd2 Qg6
+19.fxg5 hxg5 20.Bc1 Nd5 21.c3 Bf5 22.Nf2 g4 23.Be4 e6 24.Bg2
+Nf6 25.Qf4 Rad8 26.Ne4 Nd5 27.Qd2 e5 28.Qg5 Rf8 29.dxe5 dxe5
+30.Qxg6 Bxg6 31.Bg5 Rxf1+ 32.Rxf1 Rf8 33.Rxf8+ Bxf8 34.c4 Bxe4
+35.Bxe4 Nc3 36.Bf5 Bc5+ 37.Kf1 Nxa2 38.Bxg4 Nc3 39.Bf5 Bd4
+40.h4 e4 41.h5 a5 42.Bd8 b6 43.Bd7 Na2 44.Bxc6 e3 45.Bg5 Nc1
+46.Ba4 Kg7 47.g4 Nd3 48.Bb5 Nf2 49.Ke2 Nxg4 50.Bc6 Ne5 51.Bd5
+Nd7 52.Be4 Ne5 53.h6+ Kg8 54.Bf6 Nc6 55.h7+ 1-0

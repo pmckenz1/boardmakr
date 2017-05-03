@@ -1,0 +1,29 @@
+[Event "Mar del Plata"]
+[Site "12"]
+[Date "1949.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rene Letelier Martner"]
+[Black "Erich Eliskases"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "176"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 Nbd7 7.O-O
+e5 8.e4 Re8 9.Re1 c6 10.h3 exd4 11.Nxd4 Nc5 12.Rb1 a5 13.b3
+Nfd7 14.Re3 h5 15.f4 Qb6 16.Nde2 Nf8 17.Qxd6 Be6 18.Qd2 Rad8
+19.Qc2 Bc8 20.Kh2 g5 21.fxg5 Ng6 22.Nf4 h4 23.Nce2 Ne6 24.Nxg6
+fxg6 25.e5 hxg3 26.Nxg3 Qd4 27.Qxg6 Nf4 28.Qe4 Rxe5 29.Qxd4
+Rxd4 30.Rxe5 Bxe5 31.Bb2 Ne2 32.Bxd4 Bxg3+ 33.Kh1 Nxd4 34.b4
+axb4 35.Rxb4 Ne6 36.h4 Nc5 37.Bf3 Bxh4 38.Bxc6 Bxg5 39.Rb5 Be7
+40.Bd5+ Kf8 41.Rb6 Bd8 42.Rb1 Ke7 43.Kg2 Kd6 44.Kf3 b6 45.Rd1
+Bd7 46.Kf4 Bf6 47.Bg8 Kc7 48.Rd5 Bc3 49.Ke3 Ba4 50.Bh7 Be8
+51.Rg5 Bf7 52.Bd3 Kd6 53.Rg2 Nd7 54.Rc2 Bb4 55.Rh2 Ne5 56.Rg2
+Kc5 57.Bh7 Nxc4+ 58.Ke2 Ne5 59.Kd1 Ba3 60.Bg8 Bg6 61.Rg3 Bb2
+62.Be6 b5 63.Bg8 Bd4 64.Be6 Be4 65.Bg8 Bf2 66.Rh3 Bd4 67.Rg3
+Bd3 68.Bb3 Bf2 69.Rg8 Kd4 70.Kc1 Kc3 71.Rc8+ Kb4+ 72.Kd2 Bg6
+73.Rb8 Bg3 74.Rb6 Bf4+ 75.Kd1 Be3 76.Re6 Bd4 77.Rd6 Kc3 78.Rd5
+b4 79.Rd8 Bh5+ 80.Ke1 Nf3+ 81.Kd1 Nd2 82.Kc1 Nxb3+ 83.axb3 Bg6
+84.Rg8 Be3+ 85.Kd1 Bh5+ 86.Ke1 Bd2+ 87.Kf2 Kxb3 88.Rh8 Bd1 0-1

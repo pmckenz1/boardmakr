@@ -1,0 +1,28 @@
+[Event "Havana"]
+[Site "Havana CUB"]
+[Date "1913.03.04"]
+[EventDate "1913.02.15"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Charles Jaffe"]
+[Black "Juan Corzo"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "141"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nc6 4. Bd3 Nf6 5. a3 c4 6. Be2 b5
+7. b3 Bb7 8. O-O e6 9. Nc3 a6 10. bxc4 bxc4 11. Ne5 Nxe5
+12. dxe5 Nd7 13. f4 Bc5 14. Kh1 Nb6 15. Bf3 O-O 16. Ne2 Na4
+17. c3 Qa5 18. Qc2 Be7 19. f5 exf5 20. Qxf5 Nc5 21. Rb1 Bc8
+22. Qh5 Be6 23. Nf4 Rad8 24. Bd2 Nb3 25. Be1 Qxa3 26. Rd1 Qc5
+27. Bf2 Qc6 28. Bh4 Bxh4 29. Qxh4 f6 30. exf6 Rxf6 31. Nh5
+Rff8 32. Qg5 Rd7 33. Bxd5 Bxd5 34. Rxf8+ Kxf8 35. Rf1+ Ke8
+36. Nxg7+ Rxg7 37. Qxg7 Qd6 38. e4 Be6 39. e5 Qe7 40. Qh8+ Kd7
+41. Rd1+ Kc7 42. Qa8 Bc8 43. Qa7+ Bb7 44. Rd6 a5 45. Qb6+ Kc8
+46. Qf2 Kb8 47. Qf6 Qc7 48. Rd8+ Ka7 49. e6 Qb6 50. Rf8 Nc5
+51. e7 Qb1+ 52. Qf1 Qxf1+ 53. Rxf1 Bc6 54. Rf8 Kb7 55. e8=Q
+Bxe8 56. Rxe8 a4 57. g4 Kb6 58. g5 a3 59. Re2 Kb5 60. h4 Ka4
+61. h5 Nd7 62. g6 hxg6 63. hxg6 Kb3 64. g7 Nf6 65. Kg2 a2
+66. Re1 Kxc3 67. Rf1 Ng8 68. Kf3 Kb2 69. Ke3 Ne7 70. Kd2 c3+
+71. Kd3 1/2-1/2

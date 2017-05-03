@@ -1,0 +1,20 @@
+[Event "Sydney MM"]
+[Site "Sydney MM"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Guy West"]
+[Black "Lubomir Ftacnik"]
+[ECO "B53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. Be3 Nc6 6. Qb6
+Qxb6 7. Bxb6 Nf6 8. Nc3 Bg4 9. Be2 e6 10. O-O-O Rc8 11. Rhe1
+Be7 12. h3 Bh5 13. Nd2 Bxe2 14. Rxe2 Nd7 15. Be3 b5 16. a4 Rb8
+17. axb5 axb5 18. Bf4 b4 19. Na4 Nd4 20. Ree1 Rc8 21. c3 bxc3
+22. Nxc3 Nb5 23. Ndb1 Nb6 24. Re2 Na4 25. Rc2 Nc5 26. b4 Nb3+
+27. Kb2 N5d4 28. Be3 Bf6 29. Bxd4 Nxd4 30. Rcd2 Rc4 31. b5
+Nxb5 32. Kb3 Rxc3+ 0-1

@@ -1,0 +1,26 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Sandra Ulms"]
+[Black "Ulricke Seidemann"]
+[ECO "E87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "126"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5
+7. d5 Ne8 8. Nge2 f5 9. Qd2 Nd7 10. exf5 gxf5 11. Bg5 Ndf6
+12. O-O-O Qe7 13. Ng3 Qf7 14. Bd3 Qg6 15. Be3 Bd7 16. Rdg1 Nh5
+17. Nge2 Qf7 18. Qc2 Kh8 19. Bd2 c6 20. g4 Nf4 21. Nxf4 exf4
+22. Bxf5 Bxf5 23. gxf5 Rc8 24. f6 Nxf6 25. Bxf4 cxd5 26. Bxd6
+Rfd8 27. Be5 Rxc4 28. Qd3 b5 29. Kb1 b4 30. Ne4 Qe7 31. Rxg7
+Qxe5 32. Rg5 Qe6 33. Nxf6 Qxf6 34. Rxd5 Rxd5 35. Qxc4 Qf5+
+36. Ka1 Qxf3 37. Qc8+ Kg7 38. Rg1+ Kh6 39. Qc1+ Kh5 40. Qe1 a5
+41. Rf1 Qg4 42. Qe8+ Qg6 43. Qe2+ Qg4 44. Qc2 Qg6 45. Qb3 Qd3
+46. Qxd3 Rxd3 47. Kb1 Kg4 48. Rf2 h5 49. Kc2 Rf3 50. Rd2 h4
+51. b3 Kh3 52. Kb2 Rf1 53. a3 Rg1 54. Rd3+ Kxh2 55. axb4 axb4
+56. Rd4 Rg2+ 57. Kb1 h3 58. Rxb4 Kg3 59. Rb8 h2 60. Rh8 Rg1+
+61. Kc2 h1=Q 62. Rxh1 Rxh1 63. Kd3 Kf4 0-1

@@ -1,0 +1,22 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.23"]
+[EventDate "2000.01.21"]
+[Round "3"]
+[Result "1-0"]
+[White "Alexey Yuneev"]
+[Black "Alexander Kalinin"]
+[ECO "E30"]
+[WhiteElo "2430"]
+[BlackElo "2422"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+
+7. bxc3 d6 8. e3 e5 9. Bd3 e4 10. Bc2 Qe7 11. Bxf6 Qxf6
+12. Ne2 Bg4 13. Bxe4 Bxe2 14. Kxe2 Qxc3 15. Qa4+ Ke7 16. Rab1
+b6 17. Qc2 Qxc2+ 18. Bxc2 Nd7 19. f4 a6 20. a4 Rhb8 21. Ra1
+Kf6 22. Rhb1 h5 23. Kf3 g6 24. Rb2 Ke7 25. e4 Kf6 26. Rab1 Ke7
+27. g3 g5 28. e5 gxf4 29. exd6+ Kxd6 30. Kxf4 b5 31. axb5 axb5
+32. Rxb5 Rxb5 33. Rxb5 Ra2 34. Bd1 Rxh2 35. Ra5 Rd2 36. Ra6+
+Ke7 37. Bxh5 Rd4+ 38. Kf5 Rxc4 39. d6+ Kf8 40. Ra7 Nb6
+41. Rxf7+ Kg8 42. Rb7 1-0

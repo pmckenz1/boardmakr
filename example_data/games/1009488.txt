@@ -1,0 +1,22 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Dirk Hennig"]
+[Black "Ferenc Langheinrich"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. Bg5 e6 3. e3 c5 4. c3 d5 5. Nd2 Nc6 6. Bd3 h6
+7. Bh4 Be7 8. Bxf6 gxf6 9. Qh5 Qb6 10. O-O-O Bd7 11. dxc5 Qxc5
+12. Nb3 Qb6 13. Nf3 Rc8 14. Kb1 a5 15. e4 a4 16. exd5 axb3
+17. dxc6 Rxc6 18. Bb5 bxa2+ 19. Ka1 e5 20. Bxc6 Qxc6 21. Rhe1
+Be6 22. Nh4 Qc8 23. h3 b5 24. Rc1 Qc5 25. Nf5 Rg8 26. Nxe7
+Kxe7 27. g4 Qxf2 28. Qxh6 Qf4 29. Qxf4 exf4 30. Re4 Rh8
+31. Rh1 Rh4 32. Rxf4 f5 33. Re1 fxg4 34. hxg4 Kd6 35. Rb4 Kc6
+36. g5 Rxb4 37. cxb4 Kd6 38. Re3 Kd5 39. b3 Kd4 40. Rg3 Bf5
+41. Kxa2 Ke4 42. Kb2 Kd4 43. Rf3 Be6 44. Rf6 Bd5 45. Rb6 1-0

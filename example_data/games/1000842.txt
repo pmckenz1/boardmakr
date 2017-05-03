@@ -1,0 +1,22 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.15"]
+[EventDate "1911.08.21"]
+[Round "19"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Fyodor Ivanovich Dus Chotimirsky"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 b5 6.Bb3 Be7 7.d3
+O-O 8.a4 b4 9.Nd5 a5 10.Nxe7+ Qxe7 11.Bg5 Rb8 12.O-O d6 13.Nd2
+h6 14.Bh4 g5 15.Bg3 Bg4 16.f3 Be6 17.Nc4 Nh5 18.Bf2 Nf4 19.Kh1
+Kh7 20.d4 Bxc4 21.Bxc4 f6 22.d5 Nd8 23.g3 Ng6 24.Be3 Nb7
+25.Bd2 h5 26.c3 h4 27.cxb4 hxg3 28.hxg3 axb4 29.Bxb4 Kg7
+30.Kg2 Rh8 31.Bb5 Nd8 32.Rh1 Rxh1 33.Kxh1 Nf7 34.Qc2 g4
+35.fxg4 Ng5 36.Kg2 Rh8 37.Bd2 Kg8 38.Bxg5 Qh7 39.Kf3 fxg5
+40.Qg2 Qf7+ 41.Ke2 c6 42.Bxc6 Qa7 43.Qf2 Qb8 44.Bb5 Qc8 45.Kd2
+Qxg4 46.Rf1 Rh7 47.Qf5 Qh5 48.Be8 1-0

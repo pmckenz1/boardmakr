@@ -1,0 +1,16 @@
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.03.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Aleksandar Matanovic"]
+[Black "Andras Adorjan"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O Nc6 7.d5
+Nb8 8.Be3 e6 9.dxe6 Bxe6 10.Qd2 Re8 11.Rfe1 Nc6 12.Bg5 Bg4
+13.h3 Bxf3 14.Bxf3 Ne5 15.Be2 Ned7 1/2-1/2

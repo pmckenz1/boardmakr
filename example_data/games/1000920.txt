@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.24"]
+[EventDate "1911.08.21"]
+[Round "25"]
+[Result "1-0"]
+[White "Erich Cohn"]
+[Black "Hans Fahrni"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 e6 2.c4 d5 3.Nc3 c6 4.e3 Nd7 5.Nf3 f5 6.Ne5 Nxe5 7.dxe5
+dxc4 8.Qxd8+ Kxd8 9.Bxc4 Bb4 10.O-O b5 11.Be2 a6 12.Bf3 Bb7
+13.Ne2 Kc7 14.a3 Bf8 15.Bd2 Re8 16.Rfd1 Ne7 17.Rac1 Nd5
+18.Ba5+ Kb8 19.Nd4 c5 20.Nxe6 Nxe3 21.Nxf8 Bxf3 22.gxf3 Nxd1
+23.Nd7+ Kc8 24.Rxd1 Re7 25.Nxc5 Rxe5 26.b4 Rhe8 27.Rd6 f4
+28.Rc6+ 1-0

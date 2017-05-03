@@ -1,0 +1,22 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1975.04.15"]
+[EventDate "1975.04.13"]
+[Round "3.6"]
+[Result "1/2-1/2"]
+[White "Eugenio Torre"]
+[Black "Peter Biyiasas"]
+[ECO "B13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3
+Qc8 8.Nd2 e6 9.Ngf3 Bh5 10.O-O Be7 11.Rfe1 O-O 12.Ne5 Nxe5
+13.Bxe5 Bg6 14.Bxg6 hxg6 15.Nf3 Ne4 16.Re2 Qc6 17.Bf4 g5
+18.Bg3 f6 19.Nd2 Nxd2 20.Rxd2 Rfe8 21.Re1 Kf7 22.Qd1 g6 23.Qf3
+Bf8 24.Rde2 Bg7 25.h4 gxh4 26.Bxh4 Re7 27.g4 Qe8 28.Bxf6 Bxf6
+29.g5 Qh8 30.Kg2 Rf8 31.Rh1 Qg7 32.gxf6 Qxf6 33.Rh7+ Ke8
+34.Qxf6 Rxf6 35.Rxe7+ Kxe7 36.Kg3 Rf5 37.Re5 Kf6 38.Re3 Rg5+
+39.Kh2 b5 40.Rf3+ Rf5 41.Kg3 Rxf3+ 42.Kxf3 Kf5 43.Kg3 a5 44.f3
+a4 45.Kg2 Kf4 46.Kf2 g5 47.a3 g4 48.fxg4 Kxg4 1/2-1/2

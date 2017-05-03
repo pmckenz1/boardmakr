@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.10"]
+[EventDate "1927.06.26"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Ernst Gruenfeld"]
+[Black "Sandor Takacs"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Qc2 Bb4 6. a3 Bxc3+
+7. Qxc3 O-O 8. g3 d6 9. Bg2 Nbd7 10. O-O Qe7 11. b4 Ne4
+12. Qc2 f5 13. Ne1 a5 14. b5 e5 15. d5 Nec5 16. Nd3 Nxd3
+17. Qxd3 Rae8 18. Qc3 Bc8 19. Ra2 f4 20. e4 Nc5 21. f3 g5
+22. g4 Kg7 1/2-1/2

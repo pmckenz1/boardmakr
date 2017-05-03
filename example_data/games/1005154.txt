@@ -1,0 +1,19 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Gagik Khechumyan"]
+[Black "Mihaly Bodrogi"]
+[ECO "B73"]
+[WhiteElo "2370"]
+[BlackElo "2175"]
+[PlyCount "51"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7
+7. Be3 Nc6 8. O-O O-O 9. h3 Nxd4 10. Bxd4 Be6 11. f4 Rc8
+12. Qe1 Bc4 13. Rd1 Bxe2 14. Qxe2 Qa5 15. Qe3 b6 16. e5 dxe5
+17. Bxe5 Rfd8 18. Rd4 Nd5 19. Qd2 Qc5 20. Ne4 Bxe5 21. fxe5
+Qb5 22. a4 Qxb2 23. Rxd5 Rxd5 24. Qxd5 e6 25. Qd7 Rf8 26. c3
+1-0

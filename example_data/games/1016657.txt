@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.19"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Altin Cela"]
+[Black "Andras Adorjan"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O
+O-O 8.f4 Qb6 9.Be3 Qxb2 10.Qd2 Qb4 11.Rab1 Qa5 12.Nd5 Qd8
+13.Nxf6+ Bxf6 14.Nb5 d5 15.e5 Be7 16.Nxa7 Nc6 17.Nxc6 bxc6
+18.c4 Qa5 19.Qxa5 Rxa5 20.Rb2 Ba6 21.Rfb1 dxc4 22.Rc2 Ra4
+23.Rb6 Rc8 24.Bf3 Bb5 25.Rb7 Bf8 26.Ra7 Rxa7 27.Bxa7 Ra8
+28.Bd4 g6 29.Kf2 h5 30.Be2 Ra4 31.g3 Bb4 32.Bxc4 Bxc4 0-1

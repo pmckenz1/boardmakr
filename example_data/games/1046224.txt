@@ -1,0 +1,23 @@
+[Event "Lyon"]
+[Site "Lyon FRA"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Javier Benito Campos-Moreno"]
+[Black "Lubomir Ftacnik"]
+[ECO "D86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 O-O 8. Ne2 Nc6 9. Bg5 Qd7 10. O-O b6 11. Qd2 Bb7
+12. Rad1 e5 13. Bd5 Na5 14. Bxb7 Nxb7 15. Bh6 Rad8 16. Bxg7
+Kxg7 17. f4 f6 18. fxe5 fxe5 19. Qg5 Qd6 20. Ng3 Kh8 21. h3
+Rde8 22. Rxf8+ Rxf8 23. Kh2 Nc5 24. Rd2 exd4 25. e5 Qd8
+26. Qxd8 Rxd8 27. cxd4 Rd5 28. Ne2 Ne6 29. Kg3 c5 30. Kf3 cxd4
+31. Ke4 Rd7 32. Nxd4 Kg8 33. Nb3 Nc5+ 34. Ke3 Rxd2 35. Nxd2
+Kf7 36. Kd4 Ke6 37. Ne4 Nxe4 38. Kxe4 b5 39. Kd4 a6 40. Ke4 h6
+41. Kd4 b4 42. h4 g5 43. hxg5 hxg5 44. Kc4 Kxe5 45. Kxb4 Kf4
+46. Ka5 Kg3 47. Kxa6 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Rilton Cup op"]
+[Site "04"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Johan Upmark"]
+[Black "Yuri Balashov"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.Bg2 d4 5.Nce2 Nc6 6.d3 e5 7.f4 Bd6
+8.Nf3 Nge7 9.O-O f6 10.f5 Bd7 11.g4 h6 12.Ng3 Qc7 13.h4 O-O-O
+14.h5 Kb8 15.Nd2 Nc8 16.a4 Be7 17.Nc4 Be8 18.b3 b6 19.Bd2 a6
+20.Qb1 b5 21.axb5 axb5 22.Nb2 Nb6 23.Ne2 Nb4 24.Rc1 Bc6 25.Nd1
+Kb7 26.Bf1 Ra8 27.Qb2 Bd7 28.Nf2 Rhd8 29.Ng3 Be8 30.Be2 Bf7
+31.Bxb4 cxb4 32.Bd1 Ra3 33.Ne2 Rda8 34.Rxa3 bxa3 35.Qa1 Bb4
+36.c3 dxc3 37.Nxc3 Bxc3 38.Rxc3 Qd6 39.Rc1 Rc8 40.Rxc8 Nxc8
+41.Bc2 b4 42.Kf1 Ne7 0-1

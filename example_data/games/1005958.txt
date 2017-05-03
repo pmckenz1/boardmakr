@@ -1,0 +1,28 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.28"]
+[EventDate "2000.01.21"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Vladimir Georgiev"]
+[Black "Stefan van Blitterswijk"]
+[ECO "A43"]
+[WhiteElo "2538"]
+[BlackElo "2308"]
+[PlyCount "144"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. e4 Be7 6. Nc3 Bf6
+7. f4 Ne7 8. Nf3 Ng6 9. Bd3 O-O 10. O-O Bg4 11. Be3 Re8
+12. Qb3 Na6 13. Nd2 Bd4 14. Rae1 Qf6 15. g3 Nb4 16. Nb5 Bxe3+
+17. Rxe3 Rad8 18. Nxa7 Nxd3 19. Qxd3 Qxb2 20. Nc4 Qxa2 21. Nb5
+Bh3 22. Qe2 Qxe2 23. Rxe2 Bxf1 24. Kxf1 f5 25. Ncxd6 fxe4
+26. Nxe8 Rxe8 27. Rc2 b6 28. d6 Nf8 29. Ra2 Rd8 30. Ra7 Ne6
+31. Rb7 Nd4 32. Rxb6 Nxb5 33. Rxb5 Rxd6 34. Rxc5 Rd2 35. h4
+Rd3 36. Kg2 g6 37. Re5 Rd4 38. h5 Kg7 39. Re7+ Kh6 40. Kh3
+gxh5 41. Kh4 Rd5 42. Rxe4 Kg6 43. Re6+ Kg7 44. Re7+ Kg6
+45. Re8 Kg7 46. Re6 Ra5 47. Kh3 Kf7 48. Rb6 Kg7 49. Rb3 Kf6
+50. Rd3 Rb5 51. Rd8 Kg7 52. Rd2 Kf6 53. Re2 Ra5 54. Re3 Rb5
+55. Kg2 h4 56. g4 h5 57. Kh3 hxg4+ 58. Kxg4 Rb8 59. Kxh4 Rg8
+60. Re5 Rg1 61. Ra5 Rg2 62. Kh5 Rg1 63. Ra8 Kf7 64. Ra6 Rg2
+65. Kh4 Rg1 66. Kh3 Rg8 67. Kh4 Rg1 68. Kh5 Rg2 69. Kh6 Rg1
+70. f5 Rg2 71. Rg6 Rh2+ 72. Kg5 Rg2+ 1/2-1/2

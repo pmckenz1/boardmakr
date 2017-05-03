@@ -1,0 +1,22 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Jack Rudd"]
+[Black "Daniel L Bisby"]
+[ECO "B77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 Nc6 8. Qd2 O-O 9. Bc4 Nd7 10. O-O-O Nb6 11. Bb3 Na5
+12. Kb1 Nbc4 13. Qe2 Nxe3 14. Qxe3 Nxb3 15. cxb3 Bd7 16. h4 h5
+17. g4 hxg4 18. h5 e5 19. Nde2 Qb6 20. Qd2 gxf3 21. Nd5 Qd8
+22. Nec3 Bg4 23. Rdg1 gxh5 24. Ne3 Qg5 25. Rxg4 hxg4 26. Nf5
+f6 27. Qd5+ Rf7 28. Nb5 Bf8 29. Nc7 g3 30. Rh7 Qg6 31. Rxf7
+Qxf7 32. Nxg3 Qxd5 33. Nxd5 Kf7 34. Kc2 Bh6 35. Nf5 f2
+36. Nxh6+ Kg6 37. Ne3 Kxh6 38. Ng4+ Kg5 39. Nxf2 Kf4 40. Kd3
+Rg8 0-1

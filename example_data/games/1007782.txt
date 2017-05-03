@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.07"]
+[EventDate "1927.06.26"]
+[Round "2"]
+[Result "1-0"]
+[White "Frederick Dewhirst Yates"]
+[Black "Karl Berndtsson Kullberg"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 Bg4 5. f3 Bf5 6. Nc3
+Nbd7 7. Nge2 a6 8. Ng3 Nb6 9. Bb3 Bc8 10. O-O Nbxd5 11. Nxd5
+Nxd5 12. d4 e6 13. f4 Be7 14. Qf3 c6 15. Bd2 O-O 16. c4 Nf6
+17. Bc3 Qb6 18. Rae1 Bb4 19. c5 Qa5 20. f5 Bxc3 21. bxc3 exf5
+22. Re7 Qd8 23. Rfe1 Ne4 24. Rxf7 Rxf7 25. Nxe4 Qe7 26. Bxf7+
+Kh8 27. Re2 Bd7 28. Nd6 Qg5 29. Bb3 Qc1+ 30. Kf2 g5 31. Qg3
+1-0

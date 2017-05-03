@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Evgeny E Vorobiov"]
+[Black "Andrei Kosarev"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5
+7. Nb3 Be6 8. Be3 Be7 9. Qd2 O-O 10. O-O-O b5 11. g4 Nbd7
+12. g5 Nh5 13. Nd5 Bxd5 14. exd5 Nb6 15. Na5 Qc7 16. Nc6 Bd8
+17. Kb1 f5 18. Rg1 Rc8 19. c4 bxc4 20. Qa5 Nd7 21. Qxc7 Rxc7
+22. Bxc4 a5 23. Nxa5 f4 24. Bf2 e4 25. fxe4 Ne5 26. b3 Kh8
+27. Bb6 Rc8 28. Bxd8 Rfxd8 29. Nc6 Nxc6 30. dxc6 Rxc6 31. e5
+1-0

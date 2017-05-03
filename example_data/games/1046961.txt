@@ -1,0 +1,30 @@
+[Event "Tilburg UNEDO"]
+[Site "Tilburg NED"]
+[Date "1994.09.19"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Cristina-Adela Foisor"]
+[Black "Alisa Galliamova"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "169"]
+
+1.c4 c6 2.Nf3 d5 3.e3 Nf6 4.Nc3 e6 5.Qc2 Nbd7 6.d4 Bd6 7.Be2
+b6 8.O-O Bb7 9.e4 Nxe4 10.Nxe4 dxe4 11.Qxe4 Nf6 12.Qc2 c5
+13.dxc5 bxc5 14.Qa4+ Qd7 15.Qxd7+ Kxd7 16.Rd1 Ke7 17.h3 a5
+18.Be3 Ra6 19.Rd3 Rb6 20.Rad1 Rc8 21.b3 h6 22.Ne1 Ne4 23.Bf3
+f5 24.Nc2 Be5 25.Rd7+ Kf6 26.Bxe4 Bxe4 27.Na3 a4 28.f4 Bb2
+29.Nb5 axb3 30.axb3 Bc6 31.R7d6 Rb7 32.Rb1 Bxb5 33.cxb5 Ba3
+34.Ra1 Bb4 35.Raa6 Re8 36.Rdb6 Rd7 37.Rc6 Rd3 38.Bxc5 Bxc5+
+39.Rxc5 Rxb3 40.Rd6 g5 41.fxg5+ hxg5 42.b6 f4 43.Rc7 Ra8
+44.Rc1 Ra5 45.Re1 Re5 46.Rxe5 Kxe5 47.Rc6 Kf5 48.Kf2 e5 49.Ke2
+Ke4 50.Kd2 Kd4 51.Rd6+ Kc5+ 52.Re6 Kd5 53.Rg6 Rg3 54.Kc1 Kd4
+55.h4 e4 56.h5 f3 57.gxf3 exf3 58.Rf6 Kc3 59.Rc6+ Kd4+ 60.Rc2
+Rg1+ 61.Kb2 Rg2 62.b7 Rxc2+ 63.Kxc2 f2 64.b8=Q f1=Q 65.Qd6+
+Ke4 66.Qe6+ Kd4 67.Qd7+ Ke5 68.Qe8+ Kd5 69.Qd8+ Ke6 70.Qe8+
+Kd5 71.Qg8+ Ke5 72.Qg7+ Ke6 73.Qg8+ Ke5 74.Qb8+ Ke6 75.Qb6+
+Ke7 76.Qc5+ Ke6 77.Qe3+ Kf7 78.Qa7+ Kg8 79.Qa8+ Kg7 80.Qe8
+Qf5+ 81.Kd2 g4 82.Ke1 Kh6 83.Qh8+ Kg5 84.h6+ Qe6+ 85.Kf2
+1/2-1/2

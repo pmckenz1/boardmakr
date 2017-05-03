@@ -1,0 +1,23 @@
+[Event "Tel Aviv (Israel)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Yair Kraidman"]
+[Black "Nigel Rodney Davies"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 d6 2.e4 g6 3.c4 Bg7 4.Nc3 Nc6 5.Be3 e5 6.d5 Nce7 7.f3 f5
+8.c5 Nf6 9.Bb5+ Kf7 10.Nh3 h6 11.cxd6 cxd6 12.Nf2 f4 13.Bd2 g5
+14.Qe2 Ng6 15.O-O-O h5 16.Kb1 g4 17.Rc1 a6 18.Ba4 Nh4 19.Nd3
+Nh7 20.Be1 Bf6 21.Bb3 Bd7 22.Bxh4 Bxh4 23.g3 fxg3 24.hxg3 Bxg3
+25.Qg2 h4 26.Ne2 Ng5 27.fxg4 Kg7 28.Nxg3 hxg3 29.Qxg3 Rxh1
+30.Rxh1 Qf6 31.Qe3 Rh8 32.Rxh8 Kxh8 33.Nf2 Kg7 34.Qb6 Kh6
+35.Bd1 Be8 36.Qe3 Bg6 37.Kc2 Kg7 38.Kd3 Nf7 39.Ke2 Qh4 40.Bc2
+Qd8 41.a3 Ng5 42.Bd3 Qf6 43.b4 Qd8 44.a4 Qf6 45.Qb6 Kh6 46.a5
+Qf3+ 47.Ke1 Nh3 48.Nxh3 Qxd3 49.Nf2 Qb1+ 50.Ke2 Bxe4 51.Qe3+
+1-0

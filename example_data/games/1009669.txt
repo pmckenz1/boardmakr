@@ -1,0 +1,18 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Erling Mortensen"]
+[Black "Sune Berg Hansen"]
+[ECO "B74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7
+7. O-O O-O 8. Be3 Nc6 9. Nb3 Be6 10. f4 Rc8 11. Kh1 Na5
+12. Nxa5 Qxa5 13. Bd3 Bc4 14. Qe2 Qb4 15. Rab1 b5 16. a3 Qa5
+17. Bd4 Rfe8 18. Rbd1 Bxd3 19. cxd3 b4 20. axb4 Qxb4 21. Bxf6
+Bxf6 22. e5 Bg7 23. d4 f6 1/2-1/2

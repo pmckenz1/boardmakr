@@ -1,0 +1,20 @@
+[Event "Gyor it, HUN"]
+[Site "Gyor HUN"]
+[Date "1930.10.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Herman Steiner"]
+[Black "Ernst Ludwig Klein"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 Qb6 5. Nbd2 cxd4 6. e5 Nd5
+7. Nc4 Qc7 8. Nxd4 a6 9. a4 Nb6 10. Nxb6 Qxe5+ 11. Be3 Qa5+
+12. Qd2 Qxb6 13. Nb5 Qc6 14. Nd4 Qc7 15. Bd3 d5 16. f4 Be7
+17. O-O Bf6 18. c3 Nc6 19. Nf3 Na5 20. Ne5 Nb3 21. Qf2 Nxa1
+22. Bb6 Qb8 23. Rxa1 Bd7 24. Re1 Bc6 25. Ng4 h5 26. Nxf6+ gxf6
+27. Qh4 Kd7 28. Qxf6 Qg8 29. f5 Re8 30. Qe5 Rc8 31. Qf6 Re8
+1/2-1/2

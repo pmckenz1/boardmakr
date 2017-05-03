@@ -1,0 +1,22 @@
+[Event "Israel"]
+[Site "Israel"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yair Kraidman"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nf6 5.f3 O-O 6.Be3 c5 7.Nge2
+Nc6 8.d5 Ne5 9.Nc1 e6 10.Be2 exd5 11.cxd5 a6 12.a4 Ne8 13.O-O
+f5 14.Qd2 fxe4 15.Nxe4 Bf5 16.Ng3 Bd7 17.f4 Ng4 18.Bxg4 Bxg4
+19.Na2 Qd7 20.Nc3 Nf6 21.a5 Rae8 22.Rae1 Bf5 23.Bf2 Ng4
+24.Nge4 Nxf2 25.Nxf2 Bd4 26.b4 Qf7 27.bxc5 dxc5 28.d6 Bd7
+29.Rxe8 Rxe8 30.f5 gxf5 31.Kh1 f4 32.Nfe4 Rf8 33.h3 Be3 34.Qc2
+Qg6 35.Ne2 Bc6 36.Qc4+ Qf7 37.Qc2 Qe6 38.Ng5 Qf5 39.Qxf5 Rxf5
+40.Ne6 f3 41.gxf3 Rf6 42.Rd1 Rxe6 43.d7 Bxf3+ 44.Kh2 Bg5
+45.d8=Q+ Bxd8 46.Rxd8+ Kf7 47.Nf4 Re3 48.Kg3 Bc6 49.Kg4 c4 0-1

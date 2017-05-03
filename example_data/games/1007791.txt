@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet HUN"]
+[Date "1927.07.10"]
+[EventDate "1927.06.26"]
+[Round "5"]
+[Result "0-1"]
+[White "Edgar Colle"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. d4 e6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Qb3
+Na6 7. a3 Ba5 8. Qc2 d5 9. b4 dxc4 10. Ndb5 Bb6 11. e3 Nb8
+12. Bb2 O-O 13. Bxc4 Nc6 14. Rd1 Qe7 15. O-O a6 16. Nd6 Nd4
+17. exd4 Qxd6 18. Ne4 Nxe4 19. Qxe4 Bc7 20. f4 Bd7 21. d5 Ba4
+22. Rd2 Rad8 23. Bc3 Qb6+ 24. Bd4 exd5 25. Bxd5 Qb5 26. Bc3
+Bb6+ 27. Rff2 Rfe8 0-1

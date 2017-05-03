@@ -1,0 +1,17 @@
+[Event "Novgorod op"]
+[Site "Novgorod RUS"]
+[Date "1995.05.28"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Yuri Yakovich"]
+[ECO "A28"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.a3 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O
+d6 8.d4 exd4 9.Nxd4 Bd7 10.Nc2 Ne5 11.b3 Qc8 12.e4 Bh3 13.Ra2
+Bxg2 14.Kxg2 Re8 15.f3 Nfd7 16.Nd4 Nc5 17.Re2 Nc6 18.Nxc6 bxc6
+19.Qc2 1/2-1/2

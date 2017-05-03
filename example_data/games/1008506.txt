@@ -1,0 +1,21 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Aviv Friedman"]
+[Black "Gary Simms"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be6
+7. Bd3 Be7 8. b3 a6 9. N5c3 Bg5 10. Bb2 Nge7 11. O-O O-O
+12. Nd5 Ng6 13. Nbc3 Rc8 14. g3 Bh3 15. Re1 Be6 16. Qh5 Bd2
+17. Rf1 Nge7 18. Nxe7+ Nxe7 19. Nd5 Bxd5 20. exd5 f5 21. Rad1
+Ba5 22. f4 e4 23. Be2 Qe8 24. Qxe8 Bb6+ 25. Kg2 Rfxe8 26. b4
+Ba7 27. a4 Red8 28. a5 Kf8 29. Rb1 Ng8 30. Rbc1 Be3 31. Rc2
+Nf6 32. Rd1 Nd7 33. Rc3 Ba7 34. g4 g6 35. gxf5 gxf5 36. Rh3
+Kg8 37. Rg3+ Kf8 38. Rg5 Ke7 39. Rg7+ Kf8 40. Rxh7 1-0

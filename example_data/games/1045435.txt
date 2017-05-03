@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Lothar Vogt"]
+[ECO "E95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5
+7. O-O Nbd7 8. Re1 c6 9. Bf1 exd4 10. Nxd4 Ng4 11. h3 Qb6
+12. hxg4 Qxd4 13. g5 Qe5 14. Be3 f6 15. Qd2 fxg5 16. Rad1 g4
+17. Bd4 Qxd4 18. Qxd4 Bxd4 19. Rxd4 Ne5 20. Rxd6 Bd7 21. Na4
+b6 22. b3 Kf7 23. c5 Ke7 24. Red1 b5 25. Nb2 Rfd8 26. Nd3 Nf7
+27. e5 Rac8 28. f4 gxf3 29. gxf3 Bf5 30. f4 g5 31. Rf6 Bxd3
+32. Rxd3 Rxd3 33. Bxd3 gxf4 34. Bf5 Rg8+ 35. Kf1 Rg5 1/2-1/2

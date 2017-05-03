@@ -1,0 +1,18 @@
+[Event "Insbruck"]
+[Site "Insbruck"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Jorge Pelaez"]
+[ECO "B80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.Qd2
+Qc7 8.f3 b5 9.O-O-O Nbd7 10.Kb1 Rb8 11.g4 Nb6 12.Ndxb5 axb5
+13.Nxb5 Qc6 14.Nxd6+ Bxd6 15.Qxd6 Qxd6 16.Rxd6 Nbd7 17.g5 Ke7
+18.Rd2 Ne8 19.Be2 Nc7 20.Rhd1 Rd8 21.Ba7 Rb7 22.Bc5+ Ke8 23.a4
+f6 24.gxf6 gxf6 25.f4 Kf7 26.Bh5+ Kg7 27.Be7 1-0

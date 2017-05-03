@@ -1,0 +1,20 @@
+[Event "Dresden"]
+[Site "Dresden GER"]
+[Date "1926.04.10"]
+[EventDate "1926.04.04"]
+[Round "6"]
+[Result "1-0"]
+[White "Frederick Dewhirst Yates"]
+[Black "Max Bluemich"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6
+bxc6 7. Bd3 d5 8. O-O Be7 9. Qf3 O-O 10. Re1 d4 11. Ne2 Nd7
+12. Qg3 Bf6 13. Rf1 Ne5 14. f4 Nxd3 15. cxd3 Re8 16. Qf3 Ba6
+17. Ng3 Rb8 18. e5 Be7 19. f5 Qd5 20. f6 Qxf3 21. Rxf3 Bf8
+22. Ne4 g6 23. b3 Red8 24. Rh3 Rd5 25. Bf4 h6 26. Rf1 g5
+27. Rg3 Rbb5 28. Nxg5 hxg5 29. Rxg5+ Bg7 30. Rf3 Rxe5 31. Bxe5
+Rxe5 32. Rxe5 Bh6 33. Rh5 Be3+ 34. Kh1 1-0

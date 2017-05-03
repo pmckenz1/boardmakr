@@ -1,0 +1,23 @@
+[Event "Blindfold rapid, NY"]
+[Site "New York, NY USA"]
+[Date "1945.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Hermann Helms"]
+[ECO "E72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5
+7. Nge2 Bg4 8. f3 Be6 9. b3 c6 10. O-O Qc7 11. d5 Bd7 12. Be3
+c5 13. Qd2 a6 14. a4 b6 15. h3 Ra7 16. Bh6 Re8 17. g4 Bc8
+18. Ng3 Nbd7 19. Kh2 Nf8 20. Rg1 Qe7 21. Bf1 N8d7 22. Bxg7
+Kxg7 23. Bd3 Ng8 24. Rg2 Kh8 25. Qe3 Nf8 26. a5 bxa5 27. Rga2
+Qb7 28. Rxa5 Qxb3 29. Nb5 axb5 30. Rxa7 bxc4 31. R7a3 Qb2+
+32. Qe2 c3 33. Qxb2 cxb2 34. Rb1 Bd7 35. Rxb2 Rc8 36. Rb6 c4
+37. Bc2 Kg7 38. Rxd6 c3 39. Ne2 f5 40. gxf5 gxf5 41. exf5 Nf6
+42. Rxc3 Ra8 43. Ng3 Ra2 44. Kg1 Bb5 45. Rc7+ N8d7 46. Ne4
+Nxe4 47. Bxe4 1-0

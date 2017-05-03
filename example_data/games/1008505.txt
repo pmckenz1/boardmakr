@@ -1,0 +1,26 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Stanley W Fink"]
+[Black "Vadim Martirosov"]
+[ECO "E09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O c6
+7. Qc2 Nbd7 8. Nbd2 b6 9. e4 dxe4 10. Nxe4 Bb7 11. Rd1 Qc8
+12. Bh3 Nxe4 13. Qxe4 Nf6 14. Qe2 Ba6 15. Ne5 Qb7 16. Bg2 Rac8
+17. Qf3 Bd6 18. b3 Bxe5 19. dxe5 Nd7 20. Bb2 Qc7 21. Qxc6 Qxc6
+22. Bxc6 Nc5 23. Bf3 Rfd8 24. Ba3 Bb7 25. Bxb7 Nxb7 26. Be7
+Re8 27. Rd7 Na5 28. Rad1 Nc6 29. Bd6 Red8 30. Bc7 Rxd7
+31. Rxd7 g5 32. f3 Nb4 33. a4 Nc6 34. Bd6 Nd4 35. Rxa7 Nxb3
+36. Rb7 Rxc4 37. Rxb6 Nd4 38. Kf2 Rxa4 39. Rb8+ Kg7 40. Be7
+Ra2+ 41. Kf1 Nxf3 42. h3 Nxe5 43. Bxg5 Nf3 44. Be7 e5 45. Rb6
+f5 46. Bd6 e4 47. Bf4 Kf7 48. g4 fxg4 49. hxg4 Nh2+ 50. Bxh2
+Rxh2 51. Rb4 e3 52. Re4 Rf2+ 53. Ke1 Rg2 54. Rxe3 Rxg4 55. Kf2
+h5 56. Rg3 Ra4 57. Rg5 h4 58. Kg2 Kf6 59. Rg8 Ra5 60. Kh3
+1/2-1/2

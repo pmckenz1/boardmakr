@@ -1,0 +1,20 @@
+[Event "Beverwijk"]
+[Site "Beverwijk NED"]
+[Date "1965.01.21"]
+[EventDate "?"]
+[Round "13"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Theo Daniel van Scheltinga"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 Nbd7
+7.Qc2 c6 8.Bd3 O-O 9.Nf3 Re8 10.O-O-O Nf8 11.h3 Ne4 12.Bxe4
+Bxg5 13.Bd3 Be7 14.Kb1 Be6 15.Ne2 Rc8 16.Nf4 c5 17.Nxe6 Nxe6
+18.Bxh7+ Kf8 19.Bf5 cxd4 20.Qd3 dxe3 21.fxe3 Rc6 22.Ne5 Rd6
+23.Bxe6 Rxe6 24.Qh7 Bf6 25.Ng4 Rb6 26.Rd2 Qd6 27.Rc1 Rc6
+28.Rcd1 Rb8 29.b3 Qe6 30.Rxd5 g6 31.Nh6 Ke7 32.Rd7+ Qxd7
+33.Qxf7+ 1-0

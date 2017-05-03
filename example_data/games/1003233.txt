@@ -1,0 +1,27 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.31"]
+[EventDate "1905.08.14"]
+[Round "16"]
+[Result "1-0"]
+[White "A H Pettersson"]
+[Black "Julius Perlis"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Be3 Bb4
+7. O-O Bg4 8. a3 Ba5 9. Bb5 O-O 10. Kh1 Bxc3 11. bxc3 d5
+12. Bxc6 bxc6 13. Bg5 h6 14. Bxf6 Qxf6 15. Qe2 Rab8 16. exd5
+Bxf3 17. Qxf3 Qxf3 18. gxf3 cxd5 19. Rab1 Rb6 20. Rfe1 f6
+21. Rb3 Kf7 22. Kg2 g5 23. Rh1 Kg6 24. Rhb1 Re8 25. Re1 Reb8
+26. Reb1 Kf5 27. a4 Rxb3 28. cxb3 c5 29. b4 d4 30. b5 dxc3
+31. Rc1 Ke6 32. Rxc3 Kd5 33. Rb3 f5 34. Kf1 e4 35. fxe4+ fxe4
+36. dxe4+ Kxe4 37. Ke2 Kd4 38. Rd3+ Kc4 39. Rd7 Ra8 40. Rd6
+Kb3 41. b6 c4 42. a5 c3 43. b7 Rb8 44. a6 c2 45. Rc6 Kb2
+46. Ke3 c1=Q+ 47. Rxc1 Kxc1 48. Kd4 Kd2 49. Kc5 Ke2 50. Kc6
+Kxf2 51. Kc7 Rf8 52. b8=Q Rxb8 53. Kxb8 Kg2 54. Kxa7 Kxh2
+55. Kb6 g4 56. a7 g3 57. a8=Q g2 58. Qa2 Kg3 59. Qb3+ Kf2
+60. Qf7+ Kg3 61. Qg7+ Kf3 62. Kc6 Kf2 63. Qb2+ Kf3 64. Qf6+
+Kg3 65. Qe5+ Kf3 66. Qh2 1-0

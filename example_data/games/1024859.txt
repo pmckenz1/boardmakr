@@ -1,0 +1,17 @@
+[Event "Helsinki"]
+[Site "Helsinki FIN"]
+[Date "1984.06.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Jorma Paavilainen"]
+[Black "Yuri Balashov"]
+[ECO "B53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Bd7 5.c4 Nc6 6.Qd2 Nf6 7.Nc3
+g6 8.b3 Bg7 9.Bb2 O-O 10.Be2 Qa5 11.Rb1 Bg4 12.O-O Rfd8
+13.Rfd1 a6 14.a3 e6 15.Qe3 Qc5 16.Qf4 e5 17.Qe3 Bxf3 18.Bxf3
+Qa5 19.Rbc1 1/2-1/2

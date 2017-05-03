@@ -1,0 +1,19 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.19"]
+[EventDate "2000.01.18"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Willy Hendriks"]
+[Black "Joost Berkvens"]
+[ECO "B90"]
+[WhiteElo "2373"]
+[BlackElo "2297"]
+[PlyCount "54"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. f4 Nc5 9. f5 Be7 10. Qf3 e5 11. Nde2 Nxb3
+12. axb3 O-O 13. Bg5 b5 14. Bxf6 Bxf6 15. Nxb5 d5 16. Nbc3 d4
+17. Nd5 Bb7 18. O-O Bxd5 19. exd5 e4 20. Qxe4 Re8 21. Qg4 Qxd5
+22. Ng3 d3 23. cxd3 Qxd3 24. Kh1 Rad8 25. Rad1 Rd4 26. Rxd3
+Rxg4 27. Rd6 Rb4 1/2-1/2

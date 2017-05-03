@@ -1,0 +1,15 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Yevgen Kuzmenko"]
+[Black "Alexander Aniskovitch"]
+[ECO "A48"]
+[WhiteElo "2252"]
+[BlackElo "2111"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. c3 O-O 5. Nbd2 d6 6. e4 Nbd7
+7. h3 e5 8. dxe5 Nxe5 9. Nxe5 dxe5 10. Qc2 Be6 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "02, Nabereznye Chelny"]
+[Site "02, Nabereznye Chelny"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Ashot Anastasian"]
+[ECO "E38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5
+7.Bg5 h6 8.Bh4 Qa5 9.a3 Nd4 10.Nxd4 Bxd4 11.Rc1 Bxc3+ 12.Qxc3
+Qxc3+ 13.Rxc3 Ne4 14.Rc2 b6 15.f3 g5 16.Bg3 Nxg3 17.hxg3 f5
+18.e3 Bb7 19.Bd3 1/2-1/2

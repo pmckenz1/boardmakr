@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.10"]
+[EventDate "2000.04.05"]
+[Round "6"]
+[Result "0-1"]
+[White "Benedikt Jonasson"]
+[Black "Julen Luis Arizmendi Martinez"]
+[ECO "B40"]
+[WhiteElo "2285"]
+[BlackElo "2445"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2
+Bb4 7. O-O Bxc3 8. bxc3 Nxe4 9. Bd3 d5 10. Nxc6 bxc6 11. Bxe4
+dxe4 12. Qg4 O-O 13. Qxe4 Qd5 14. Qh4 Ba6 15. Re1 e5 16. Qg3
+f6 17. Ba3 Rf7 18. Red1 Qe4 19. Rd2 Bc4 20. Bc5 Bd5 21. Rad1
+Qc4 22. Qe3 Qxa2 23. f4 Qc4 24. fxe5 fxe5 25. Bd6 Rf5 26. Re1
+a5 27. h3 Re8 28. Rd4 Qa2 29. c4 Bf7 30. Re4 Qxc2 31. Bxe5 Bg6
+32. Qd4 Rf7 33. R4e2 Qf5 34. Bf4 Rxe2 35. Rxe2 Rd7 36. Qe3 a4
+37. Rf2 Qe4 38. Qb6 h6 39. Qa6 Rf7 40. Qc8+ Kh7 41. Qb8 a3
+42. Qe5 Rxf4 43. Qxf4 Qxf4 44. Rxf4 a2 0-1

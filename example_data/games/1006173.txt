@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Larus Knutsson"]
+[Black "Stefan Kristjansson"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "2254"]
+[PlyCount "56"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5
+7. Qg4 Kf8 8. Nf3 Qa5 9. Bd2 Qa4 10. Rc1 b6 11. Ng5 h6 12. Nf3
+Ba6 13. Bxa6 Qxa6 14. dxc5 bxc5 15. a4 Nbc6 16. Rb1 Rb8
+17. Rxb8+ Nxb8 18. Qh5 Nd7 19. g4 Qc4 20. Ng5 Ng6 21. Nxe6+
+fxe6 22. Qxg6 Nxe5 23. Qxe6 Qe4+ 24. Kd1 Qf3+ 25. Ke1 Qxh1+
+26. Ke2 Qe4+ 27. Kf1 Nc4 28. Qc8+ Kf7 0-1

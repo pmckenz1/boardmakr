@@ -1,0 +1,19 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "1"]
+[Result "1-0"]
+[White "Valery Shalimov"]
+[Black "Leonid Gavrish"]
+[ECO "A43"]
+[WhiteElo "2400"]
+[BlackElo "2037"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 b5
+7. e5 Ng4 8. Bf4 b4 9. Ne4 d6 10. exd6 exd6 11. O-O Bxb2
+12. Rb1 Bg7 13. Bxd6 Re8 14. Nfd2 Nf6 15. Nxf6+ Bxf6 16. Bxc5
+Na6 17. Bxb4 Rb8 18. Bxa6 Bxa6 19. c4 Be5 20. Re1 Qc7 21. Nf3
+Bf6 22. Qa4 Rxe1+ 23. Rxe1 Qc8 24. Bd6 Ra8 25. c5 Bd3 26. h3
+a6 27. g4 Bb5 28. Qf4 Bg7 29. Re7 Be8 30. Ng5 f6 31. Nxh7 1-0

@@ -1,0 +1,24 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.06"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Jean Taubenhaus"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 {Notes by Blackburne.} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6
+5.Nc3 Be7 6.d4 exd4 7.Nxd4 Bd7 8.Nxc6 bxc6 9.Bd3 O-O 10.h3 Ne8
+11.Ne2 Bf6 12.c3 g6 13.f4 Rb8 14.Nd4 Ng7 15.Nf3 d5 16.e5 Be7
+17.Qc2 Bf5 18.g4 Bxd3 19.Qxd3 f5 20.Nd4 {Kg2 was perhaps
+better.} Bc5 21.Kg2 {He should have shut out the Queen with
+g5.} Bxd4 22.cxd4 Ne6 23.Rf2 Rb4 24.Be3 fxg4 25.hxg4 Qh4 {Now
+the attack comes into the hand of Black.} 26.Qd1 c5 27.dxc5
+Rbxf4 {This is decisive.} 28.Bxf4 Nxf4+ 29.Rxf4 {He has
+nothing better.} Rxf4 30.Qxd5+ Kf8 {Though White forfeited by
+the time rule, he might as well have resigned. His game was
+hopeless.} 0-1

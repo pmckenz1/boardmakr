@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.15"]
+[EventDate "1883.04.26"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Johannes Zukertort"]
+[Black "Simon Winawer"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2
+Nd6 7. Bxc6 bxc6 8. dxe5 Nb7 9. Nd4 O-O 10. Nc3 Nc5 11. Re1
+Ne6 12. Be3 Nxd4 13. Bxd4 f6 14. Rad1 fxe5 15. Bxe5 Bf6
+16. Qc4+ Kh8 17. Rd3 Bxe5 18. Rxe5 Qf6 19. Rf3 Ba6 20. Rxf6
+Bxc4 21. Rxf8+ Rxf8 22. Re7 Rd8 23. b3 Be6 24. Na4 Kg8 25. Nc5
+Bf5 26. f3 Kf8 27. Re2 d6 28. Na6 Re8 29. Rd2 Bc8 30. Nb4 Bd7
+31. Na6 Bc8 32. Nb4 Bd7 33. Na6 Re7 34. Kf2 Bc8 35. Nb4 Bd7
+1/2-1/2

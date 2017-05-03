@@ -1,0 +1,25 @@
+[Event "Tartu (Estonia)"]
+[Site "Tartu (Estonia)"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Iivo Nei"]
+[Black "David Bronstein"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3
+O-O 7. Ne2 Nbd7 8. O-O e5 9. Bg5 Be7 10. Ng3 h6 11. Be3 exd4
+12. Bxd4 c5 13. Be3 Ne5 14. Be2 Be6 15. Qxd8 Rfxd8 16. Rad1
+Nc6 17. Rxd8+ Rxd8 18. Rd1 Nd4 19. Bd3 Kf8 20. h3 a6 21. a4
+Ke8 22. Rd2 Bxh3 23. Bxd4 cxd4 24. gxh3 dxc3 25. bxc3 g6
+26. Kf1 h5 27. Rd1 h4 28. Ne2 Ne4 29. Re1 Nc5 30. Rb1 Bf6
+31. Rb4 Nxd3 32. cxd3 Rxd3 33. Rxb7 Rxh3 34. Rb6 Be5 35. Rxa6
+Rd3 36. Ra5 Bc7 37. Ra8+ Ke7 38. Rh8 g5 39. Kg2 Be5 40. Rh5
+Bf6 41. a5 Rd2 42. Nd4 Bxd4 43. cxd4 Kf6 44. a6 Ra2 45. Rh6+
+Kf5 46. Rb6 g4 47. Rb7 f6 48. a7 h3+ 49. Kg3 Ra3+ 50. Kh2 Kf4
+51. d5 Ke5 52. d6 Kxd6 53. f3 Ra2+ 54. Kg3 h2 55. Rh7 Rxa7
+56. Rxh2 1/2-1/2

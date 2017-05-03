@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Juan M Santa Torres"]
+[Black "Mark Geist"]
+[ECO "A84"]
+[WhiteElo "2360"]
+[BlackElo "2097"]
+[PlyCount "90"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 d5 5. Bg2 c6 6. O-O Bd6
+7. b3 Qe7 8. Bb2 O-O 9. Qc2 Ne4 10. Nc3 Nd7 11. e3 g5 12. Ne1
+g4 13. Nd3 Qg5 14. Ne2 h5 15. Nef4 Rf6 16. Ne5 Rh6 17. Rfd1
+Qg7 18. Ned3 h4 19. Kf1 Ndf6 20. Ke2 Nh5 21. Nxh5 Rxh5 22. Nf4
+Rh6 23. Rh1 Bd7 24. Rag1 Kf7 25. a3 Rah8 26. Qc1 Ng5 27. Rd1
+R8h7 28. Qa1 Qh8 29. Rdg1 Ne4 30. Rd1 Be8 31. Rc1 hxg3
+32. hxg3 Rh2 33. Rxh2 Rxh2 34. Rg1 Bxf4 35. exf4 Qg8 36. Qc1
+Qf8 37. cxd5 exd5 38. Qe3 Qe7 39. Bxe4 Qxe4 40. Qxe4 fxe4
+41. Ke3 Ke7 42. Bc3 Rh5 43. Bb4+ Ke6 44. Rc1 Rh8 45. a4 Rh2
+1/2-1/2

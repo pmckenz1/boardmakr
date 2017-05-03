@@ -1,0 +1,23 @@
+[Event "ARG-ch"]
+[Site "ARG-ch"]
+[Date "1955.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Jose Maria Suarez"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.c4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.b3 O-O 6.O-O d6 7.d4 Qe8
+8.Bb2 Qh5 9.e3 Nbd7 10.Nbd2 Rf7 11.Re1 Ne4 12.Nxe4 fxe4 13.Nd2
+Qxd1 14.Raxd1 d5 15.f3 exf3 16.Nxf3 a5 17.Nd2 Nf6 18.a3 c6
+19.e4 Bd7 20.Nf3 Bf8 21.Ne5 Re7 22.a4 Bc8 23.Ba3 Re8 24.Bxf8
+Kxf8 25.g4 h6 26.h4 g5 27.Rf1 Kg7 28.hxg5 hxg5 29.Rd2 Rf8
+30.Rdf2 Ra6 31.cxd5 exd5 32.exd5 cxd5 33.Rc1 Rd6 34.Rc7+ Kg8
+35.Ng6 Re8 36.Rxc8 Rxc8 37.Ne7+ Kg7 38.Nxc8 Re6 39.Bf3 Re3
+40.Kg2 Rxb3 41.Rc2 Rb4 42.Nd6 Rxa4 43.Nf5+ Kg6 44.Rc7 Ra2+
+45.Kg3 Ne4+ 46.Bxe4 dxe4 47.Rxb7 a4 48.Rb6+ Kh7 49.Rh6+ Kg8
+50.Ra6 a3 51.d5 Ra1 52.d6 a2 53.d7 Rd1 54.Nd6 1-0

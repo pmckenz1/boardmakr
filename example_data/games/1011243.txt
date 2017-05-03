@@ -1,0 +1,18 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "1/2-1/2"]
+[White "Jacek Gdanski"]
+[Black "Michal Sosnicki"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1. Nf3 Nf6 2. d4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. c4 dxc4
+7. Qc2 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bf4 Bd6 11. Nbd2 Nbd7
+12. a3 Qe7 13. Bxd6 cxd6 14. Qc7 Rab8 15. Rfc1 Rfc8 16. Qa5
+Nf8 17. e3 Qd7 18. Nb3 Bd5 19. Qb4 Rxc1+ 20. Rxc1 Rc8 21. Rxc8
+Qxc8 22. Nfd2 Bxg2 23. Kxg2 Qc6+ 24. Kg1 N8d7 1/2-1/2

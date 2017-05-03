@@ -1,0 +1,29 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUS"]
+[Date "1909.03.11"]
+[EventDate "1909.02.15"]
+[Round "18"]
+[Result "1-0"]
+[White "Oldrich Duras"]
+[Black "Amos Burn"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 {Notes by Lasker.} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3
+d6 6.h3 Be7 7.c4 O-O 8.Be3 Nd7 9.Nc3 f5 10.exf5 Rxf5 11.O-O
+Nf8 {According to the old and good rule, Black plays strongly
+for development.} 12.d4 exd4 13.Nxd4 Nxd4 14.Bxd4 Ne6 15.Be3
+Bf6 {Up to this point Black played the game in the very best
+style, but here he unnecessarily endangers the position of his
+Rook, by hampering its mobility. Had he played Bg5, the Knight
+at e6, which commands the important squares c5, d4, and f4,
+would have attained far greater effect by getting rid of
+White's QB, which counteracts his movements.} 16.Bc2 Re5
+{Likewise after 16...Ra5 17.Nd5 Bxb2 18.Bxh7+, the Rook would
+remain in a miserable plight.} 17.Nd5 g6 18.f4 Rxe3 19.Nxe3
+Bd4 20.Qe1 Qf6 21.Kh1 Bxb2 22.Nd5 Qg7 23.Rb1 Nf8 24.Qe7 Bd4
+25.Rfd1 Be6 26.Qxg7+ Bxg7 27.Nxc7 Rc8 28.Nxe6 Nxe6 29.Rxd6
+Nxf4 30.Rxb7 Re8 31.Rdd7 Bf8 32.c5 Re1+ 33.Kh2 Bxc5 34.Bb3+
+Ne6 35.Rb8+ Bf8 36.Rdd8 1-0

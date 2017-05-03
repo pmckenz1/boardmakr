@@ -1,0 +1,21 @@
+[Event "Biel (Switzerland)"]
+[Site "Biel (Switzerland)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Afrim Fejzullahu"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 d5 7.Qa4+
+c6 8.cxd5 exd5 9.Ne5 O-O 10.O-O Re8 11.e4 dxe4 12.Nxe4 Nd5
+13.Nc3 Bd6 14.Nxd5 cxd5 15.Nd3 Qd7 16.Qxd7 Nxd7 17.Bf4 Bxf4
+18.Nxf4 Nf6 19.Rac1 Rac8 20.Rfd1 Kf8 21.h4 h6 22.a3 Ke7 23.Bh3
+Rxc1 24.Rxc1 Kd6 25.Nd3 Rf8 26.f3 Ng8 27.Ne5 Ne7 28.Kf2 Nc6
+29.Nxc6 Bxc6 30.Re1 Re8 31.Re3 Rxe3 32.Kxe3 Bd7 33.Bxd7 Kxd7
+34.Kf4 Ke6 35.Kg4 g6 36.b3 a6 37.a4 b5 38.axb5 axb5 39.b4 f5
+40.Kf4 Kf6 1/2-1/2

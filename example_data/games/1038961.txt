@@ -1,0 +1,18 @@
+[Event "Moscow (Russia)"]
+[Site "It"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexey Dreev"]
+[Black "Alexander Semeniuk"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+Na6 8.Be2 c5 9.d5 e6 10.O-O exd5 11.exd5 Bf5 12.Bf4 Ne8 13.a3
+Nd6 14.Qb3 Re8 15.Rad1 Bxc3 16.Bxa6 Bf6 17.Bxd6 Qxd6 18.Qxb7
+Rab8 19.Qc6 Red8 20.Rfe1 Kg7 21.Bb7 Bxb2 22.a4 c4 23.Nd4 Bxd4
+24.Rxd4 Qb4 0-1

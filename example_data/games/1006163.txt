@@ -1,0 +1,32 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "1-0"]
+[White "Julius Fridjonsson"]
+[Black "Sigurbjorn Bjornsson"]
+[ECO "A18"]
+[WhiteElo "2191"]
+[BlackElo "2282"]
+[PlyCount "181"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Ne4 5. Nxe4 dxe4 6. Qg4 c5
+7. Qxe4 Nc6 8. Nf3 Qd7 9. b3 b6 10. Bb2 Bb7 11. O-O-O O-O-O
+12. Qe3 h6 13. Be2 g5 14. h3 Rg8 15. g4 Nd4 16. Rhe1 Nxe2+
+17. Rxe2 Qc6 18. Ng1 Be7 19. d3 h5 20. Red2 hxg4 21. hxg4 Rh8
+22. Ne2 Qf3 23. Rg1 Rh3 24. Kc2 Qxe3 25. fxe3 Rxe3 26. Ng3 Rf3
+27. Bc1 Rd4 28. Ne2 Rd8 29. Ng3 Rh8 30. Nh5 Bd8 31. Re2 Rh3
+32. Rf2 Bf3 33. Bd2 Bc7 34. Bxg5 Bxe5 35. Bf6 Bxf6 36. Nxf6
+Rh2 37. Rgf1 Be2 38. Nh5 Rxf2 39. Rxf2 Bxg4 40. Ng7 Rf8
+41. Rf4 Bh3 42. Rf3 Rg8 43. Rxf7 a6 44. Kc3 Bg4 45. b4 Rd8
+46. bxc5 bxc5 47. Rf4 Bh3 48. Rf3 Bg4 49. Rg3 Bf5 50. Nxf5
+exf5 51. Rg6 Kb7 52. Rf6 Rh8 53. Rxf5 Kb6 54. Rf6+ Kb7 55. Rd6
+Rh1 56. Kb2 Rd1 57. a3 Rd2+ 58. Kb3 Rd1 59. Ka4 Ra1 60. Rh6
+Ra2 61. Rh1 Rd2 62. Rb1+ Ka7 63. Rb3 Ra2 64. Ka5 Ra1 65. a4
+Ra2 66. Rb1 Ra3 67. Rh1 Kb7 68. Rh7+ Kc6 69. Rh6+ Kc7 70. Rh3
+Kb7 71. Rg3 Kc6 72. Rg6+ Kc7 73. Kxa6 Rxd3 74. Kb5 Ra3 75. a5
+Ra1 76. a6 Kb8 77. Rg7 Rh1 78. Kxc5 Rh6 79. Kb5 Rf6 80. c5 Rf1
+81. Rg8+ Ka7 82. Rg7+ Ka8 83. Kb6 Rb1+ 84. Kc7 Ka7 85. c6 Ka8
+86. Rd7 Rc1 87. Rd4 Rh1 88. Kc8 Rh8+ 89. Rd8 Rh7 90. c7 Rg7
+91. Rd6 1-0

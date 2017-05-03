@@ -1,0 +1,26 @@
+[Event "New Orleans m ;HCL 34"]
+[Site "New Orleans, LA USA"]
+[Date "1845.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "0-1"]
+[White "Eugene Rousseau"]
+[Black "Charles Henry Stanley"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 Be6 5.Qb3 b6 6.Nf3 Ne7 7.Nc3
+c6 8.Be3 Nd7 9.Bd3 Nf6 10.Bg5 dxc4 11.Bxc4 Nfd5 12.O-O f6
+13.Rfe1 Kf7 14.a4 h6 15.Bd2 Qd7 16.Re2 Kg8 17.Rae1 Bf7 18.h3
+Rd8 19.Nh2 Nf5 20.Be3 Bd6 21.Nf1 Bc7 22.Nxd5 Bxd5 23.Bxd5+
+Qxd5 24.Qxd5+ Rxd5 25.Rc2 Nxd4 26.Bxd4 Rxd4 27.Re7 Be5 28.Rxa7
+c5 29.Ne3 Kh7 30.g3 Rhd8 31.Nc4 Rb8 32.f4 Rd1+ 33.Kg2 Bd4
+34.Re2 b5 35.axb5 Rxb5 36.Nd6 Rxb2 37.Rxb2 Bxb2 38.Nf5 c4
+39.Rxg7+ Kh8 40.Rc7 c3 41.Ne3 Rd3 42.Kf2 Kg8 43.Nf1 Kf8 44.Ke2
+Rd6 45.Ne3 Rd2+ 46.Kf3 Ke8 47.h4 Kd8 48.Rc4 h5 49.g4 hxg4
+50.Kxg4 Kd7 51.h5 Kd6 52.Rc8 Kd7 53.Rc4 Kd8 54.f5 Kd7 55.Kg3
+Rd3 56.Kf2 Bc1 57.Re4 Rd2+ 58.Kg3 c2 59.Kg4 Rh2 60.Rd4+ Ke8
+61.Nxc2 Rxc2 62.Rd1 Rc4+ 63.Kg3 Bg5 64.Rh1 Kf7 65.h6 Kg8
+66.h7+ Kh8 0-1

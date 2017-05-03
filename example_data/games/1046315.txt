@@ -1,0 +1,18 @@
+[Event "Munich op9293"]
+[Site "Munich op9293"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Uwe Boensch"]
+[Black "Lubomir Ftacnik"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. g3 O-O
+7. Bg2 d5 8. Qb3 Bxc3+ 9. Qxc3 e5 10. Nb3 d4 11. Qa5 Qe8
+12. Bg5 Nc6 13. Qa3 Qe6 14. Rc1 b6 15. O-O Bb7 16. Bxf6 Qxf6
+17. c5 Rfc8 18. Nd2 Nd8 19. Ne4 Qe6 20. b4 Rc7 21. Qa4 h6
+22. Rc2 f5 23. Nd6 Bxg2 24. Kxg2 bxc5 25. bxc5 Nf7 1/2-1/2

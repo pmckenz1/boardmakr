@@ -1,0 +1,16 @@
+[Event "Debrecen (Hungary)"]
+[Site "Debrecen (Hungary)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "29"]
+[Result "1/2-1/2"]
+[White "Istvan Csom"]
+[Black "Gerardo F Barbero"]
+[ECO "A42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.d4 g6 2.Nf3 Bg7 3.c4 d6 4.g3 Nd7 5.Bg2 e5 6.Nc3 Ne7 7.e4
+exd4 8.Nxd4 Nc6 9.Nxc6 bxc6 10.Qc2 Ne5 11.O-O O-O 12.b3 g5
+13.f4 gxf4 14.Bxf4 c5 15.Qd2 Be6 16.Rae1 a5 17.Nd5 1/2-1/2

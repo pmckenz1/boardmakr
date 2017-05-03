@@ -1,0 +1,23 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Charles E Tippleston"]
+[Black "Donald J Mason"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6
+7. Ngf3 cxd4 8. Nxd4 Nxd4 9. cxd4 Nb8 10. Nf3 Nc6 11. a3 b5
+12. Bd3 Qb6 13. Bc2 b4 14. O-O Rb8 15. axb4 Bxb4 16. Kh1 Bd7
+17. Be3 Be7 18. b3 Nb4 19. Bb1 g6 20. Rf2 Rc8 21. Kg1 Bb5
+22. g3 Kd7 23. Ng5 Rcf8 24. h4 h6 25. Nf3 h5 26. Ng5 Rhg8
+27. Kh2 Rg7 28. Rg2 Rc8 29. Qd2 a6 30. Nxf7 Rxf7 31. Bxg6 Rg7
+32. Bxh5 Rc2 33. Qd1 Rxg2+ 34. Kxg2 Bxh4 35. g4 Bd3 36. Rc1
+Be4+ 37. Kh3 Be7 38. Qd2 Nd3 39. Ra1 Qxb3 40. Kh2 Bb4 41. Qe2
+a5 42. g5 Qb2 43. Qxb2 Nxb2 44. Be2 Nc4 45. Bf2 Bd2 46. Ra4
+Bxf4+ 47. Bg3 0-1

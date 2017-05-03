@@ -1,0 +1,28 @@
+[Event "It (open), Hamburg (Germany)"]
+[Site "It (open), Hamburg (Germany)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Ralf Steinbrecht"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "147"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 c5 4. Nc3 cxd4 5. Nxd4 Bb4 6. g3 O-O
+7. Bg2 d5 8. Qb3 Bxc3+ 9. Qxc3 e5 10. Nb3 d4 11. Qa5 Qe7
+12. O-O Nc6 13. Qc5 Qe6 14. f4 Re8 15. Bxc6 bxc6 16. fxe5 Qxe5
+17. Qxe5 Rxe5 18. Nxd4 Re4 19. Rf4 c5 20. Rxe4 Nxe4 21. Nf3 f6
+22. Be3 Be6 23. Rc1 Rb8 24. b3 a5 25. Bf4 Rb7 26. Nd2 Nxd2
+27. Bxd2 a4 28. Rc3 axb3 29. axb3 Kf7 30. Be3 Rc7 31. Kf2 Bf5
+32. Ke1 Ke6 33. h4 h6 34. Kf2 g5 35. Rc1 Rb7 36. Bxc5 Rxb3
+37. Bd4 Be4 38. Ra1 gxh4 39. Ra6+ Kd7 40. gxh4 Bc6 41. Ra7+
+Rb7 42. Ra5 Rb4 43. Rc5 f5 44. Rxf5 Rxc4 45. Ke3 Ba4 46. Rh5
+Bd1 47. Bg7 Ke7 48. Kd2 Kf7 49. Ba1 Kg6 50. Rd5 Bc2 51. h5+
+Kf7 52. Rd6 Bb1 53. Rxh6 Rh4 54. Rd6 Ba2 55. Rd7+ Kg8 56. Rg7+
+Kf8 57. Rg5 Bb1 58. Be5 Kf7 59. Ke3 Bc2 60. Bf4 Rh3+ 61. Kf2
+Be4 62. Re5 Bc2 63. Kg2 Rh4 64. Kg3 Rh1 65. h6 Bg6 66. Ra5 Rh5
+67. Ra7+ Kf6 68. Ra6+ Kf7 69. Kg4 Rf5 70. Ra7+ Ke6 71. Bg5 Rd5
+72. h7 Bf5+ 73. Kf4 Rd4+ 74. Kf3 1-0

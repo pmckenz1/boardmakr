@@ -1,0 +1,21 @@
+[Event "9, Wijk aan Zee II (10s)"]
+[Site "9, Wijk aan Zee II Hiarcs 7.32 (10s)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Borislav Ivkov"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Be7
+7. Bf4 a6 8. Nf3 Bf6 9. h3 Nxd4 10. Nxd4 Bxd4 11. Bb5+ axb5
+12. Qxd4 Ne7 13. Qxg7 Rg8 14. Qd4 c6 15. O-O-O Be6 16. g4 Qa5
+17. Bd6 Nc8 18. Bb4 Qa7 19. Qf4 b6 20. Rhe1 Ne7 21. Rd3 c5
+22. Nxb5 Qb8 23. Qc7 Qxc7 24. Nxc7+ Kd7 25. Nxa8 Rxa8 26. Bd2
+d4 27. Rf3 Nd5 28. c3 dxc3 29. Bxc3 b5 30. Bd2 Ra4 31. Rd3 Kc6
+32. Re5 Rc4+ 33. Kd1 Ra4 34. Bc1 Ra8 35. f4 Nb6 36. Be3 Nd7
+37. Rh5 Bc4 38. Rh6+ Kc7 39. Rc3 1-0

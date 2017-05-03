@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.04"]
+[EventDate "1923.04.28"]
+[Round "5"]
+[Result "0-1"]
+[White "Jacob Bernstein"]
+[Black "Karel Treybal"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bf5 5. cxd5 Nxd5 6. Qb3 Qb6
+7. Qxb6 axb6 8. Nxd5 cxd5 9. Bb5+ Bd7 10. Bxd7+ Kxd7 11. Nf3
+Nc6 12. Bd2 e6 13. Ke2 Bd6 14. Rhc1 Ra4 15. a3 Rha8 16. Rc2 f6
+17. Rd1 b5 18. Ne1 Rc4 19. Bc3 Rc8 20. Rdc1 Nd8 21. Nd3 b6
+22. Kd2 Nb7 23. f3 Na5 24. Bxa5 bxa5 25. g3 h5 26. f4 g5
+27. fxg5 fxg5 28. Ne5+ Bxe5 29. dxe5 a4 30. Rxc4 bxc4 31. Rf1
+Rb8 32. Kc1 Rb3 33. Rf7+ Ke8 34. Rg7 g4 35. Rh7 Rxe3 36. Rxh5
+Kf7 37. Rg5 Re4 38. Kd1 d4 39. Kd2 d3 40. Kd1 Ke8 41. Rg7 Kf8
+42. Rc7 Kg8 43. Ra7 Rxe5 44. Rxa4 Rc5 45. Ra7 Kf8 46. a4 e5
+47. Kd2 Rd5 48. Rc7 Rd4 49. Rc5 e4 50. Re5 c3+ 51. bxc3 Rxa4
+52. Ke3 Kf7 53. Rc5 Ke6 54. c4 Ra1 55. Rc6+ Kd7 56. Rc5 Re1+
+57. Kd2 Re2+ 58. Kd1 Kd6 59. Rg5 Rxh2 60. Rxg4 Ke5 61. c5 e3
+0-1

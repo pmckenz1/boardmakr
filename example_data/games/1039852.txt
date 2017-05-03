@@ -1,0 +1,19 @@
+[Event "Abbazia"]
+[Site "Abbazia CRO"]
+[Date "1912.01.29"]
+[EventDate "1912.01.15"]
+[Round "11"]
+[Result "0-1"]
+[White "Gustaf Nyholm"]
+[Black "Oldrich Duras"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Nc6 5.Nf3 Bb4 6.O-O d6 7.d3
+Ne5 8.Bb3 Ng6 9.Ne2 Nh5 10.d4 O-O 11.Qd3 Ba5 12.Kh1 Bb6 13.c3
+Bg4 14.Bd2 Qe7 15.Nfg1 Rae8 16.Rae1 Qh4 17.Nf3 Qe7 18.Neg1 Be6
+19.e5 d5 20.Bc2 Qd8 21.Ne2 f6 22.exf6 Rxf6 23.Nh4 Bf7 24.Nf5
+Rfe6 25.Qf3 Qg5 26.Ng1 Nh4 27.Qh3 Nxf5 28.Bxf5 Rh6 29.Rxe8+
+Bxe8 30.Be6+ Kh8 31.Ne2 Qe7 32.Nxf4 Nxf4 33.Qf5 Rf6 0-1

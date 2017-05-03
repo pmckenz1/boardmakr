@@ -1,0 +1,29 @@
+[Event "Leningrad masters"]
+[Site "Leningrad masters"]
+[Date "1933.03.28"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Alexander Ilyin-Zhenevsky"]
+[Black "Mikhail Botvinnik"]
+[ECO "C71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "168"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4
+exd4 8.Bd5 Rb8 9.Qxd4 Bd7 10.a3 Nf6 11.O-O Be7 12.Nc3 O-O
+13.Bf4 Ng4 14.Rad1 Bf6 15.Qd2 Re8 16.f3 Ne5 17.Bxe5 Bxe5 18.f4
+Bf6 19.e5 Be7 20.Bb3 Bg4 21.Rde1 dxe5 22.Qxd8 Rbxd8 23.f5 c5
+24.h3 c4 25.Ba2 Rd2 26.hxg4 Bc5+ 27.Kh2 Bd4 28.Nd1 Rxc2 29.Bb1
+Rd2 30.Be4 Kf8 31.Bb7 Rb8 32.Bf3 f6 33.Re2 Rxe2 34.Bxe2 Rd8
+35.Bf3 a5 36.Nc3 b4 37.axb4 axb4 38.Nd5 b3 39.Rc1 Bxb2 40.Rxc4
+Ba3 41.Ra4 b2 42.Nc3 Bc5 43.Ra8 Rxa8 44.Bxa8 Bb4 45.Nb1 g6
+46.Be4 Kg7 47.Kh3 Kh6 48.Kh4 Kg7 49.Bc2 Be1+ 50.g3 Bb4 51.Be4
+Kf7 52.g5 gxf5 53.Bxf5 fxg5 54.Kxg5 Kg7 55.Be4 Be7+ 56.Kh5 Bb4
+57.Bc2 Kg8 58.Kh6 Bf8+ 59.Kg5 Be7+ 60.Kh6 Bf8+ 61.Kg5 Be7+
+62.Kh5 Bb4 63.Be4 Kh8 64.g4 Kg7 65.g5 Kg8 66.Kg4 Kg7 67.Kf5
+Kf7 68.Bc2 e4 69.Bxe4 Kg7 70.Ke6 Kg8 71.Kf6 Kh8 72.Kf7 Be1
+73.Kf6 Bb4 74.Bd5 Ba5 75.Bc4 Be1 76.Bd3 Bb4 77.Bc2 Kg8 78.Bb3+
+Kf8 79.Bc2 Kg8 80.Bd3 Kh8 81.Kf7 Be1 82.Bxh7 Bh4 83.g6 Bf6
+84.Nd2 Bc3 1/2-1/2

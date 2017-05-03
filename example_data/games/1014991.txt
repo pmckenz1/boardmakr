@@ -1,0 +1,22 @@
+[Event "First Lady Cup 2nd"]
+[Site "Indonesia"]
+[Date "1983.11.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Ron W Henley"]
+[Black "Utut Adianto"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Qb3 a5 6.e3 Bb7 7.Bd3
+O-O 8.O-O Bxc3 9.Qxc3 Ne4 10.Qc2 f5 11.Nd2 Nxd2 12.Bxd2 Nc6
+13.a3 Qh4 14.f4 Rf6 15.Be1 Qh6 16.d5 Ne7 17.Bc3 Rf7 18.dxe6
+dxe6 19.b4 g5 20.bxa5 bxa5 21.Rab1 Bc6 22.Qf2 Qg6 23.Rb2 h5
+24.Rfb1 Rff8 25.Qg3 Rfd8 26.Rd1 Rd7 27.Be2 Rxd1+ 28.Bxd1 g4
+29.Qe1 Nc8 30.c5 a4 31.Be5 Qf7 32.Be2 Ne7 33.Bxc7 Nd5 34.Be5
+Nxe3 35.Bd3 Nxg2 36.Rxg2 Bxg2 37.Kxg2 Qb7+ 38.Kg1 Qd5 39.Qe3
+Rd8 40.Bf1 h4 41.Bf6 Rc8 42.Be7 Kf7 43.Bd6 h3 44.Kf2 Rg8
+45.Qd3 g3 46.Kg1 Qa2 0-1

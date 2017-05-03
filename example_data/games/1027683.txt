@@ -1,0 +1,20 @@
+[Event "Ch Europe (team)"]
+[Site "Kapfenberg AUT"]
+[Date "1970.05.10"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Atanas Stefanov Kolarov"]
+[Black "Istvan Bilek"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.d4 g6 2.Nf3 Bg7 3.g3 c5 4.Bg2 cxd4 5.Nxd4 Nc6 6.Nb3 d6 7.O-O
+Be6 8.N1d2 Qd7 9.Ne4 Bh3 10.Bxh3 Qxh3 11.Qd5 Nh6 12.Bxh6 Bxh6
+13.c3 O-O 14.f4 Qf5 15.Rad1 Qxd5 16.Rxd5 f5 17.Ned2 Rfd8
+18.Nf3 e6 19.Rd2 Kf7 20.Rfd1 Ke7 21.e3 Bg7 22.Re1 d5 23.Nfd4
+Rdc8 24.h3 Nd8 25.Nf3 Nf7 26.g4 Nd6 27.Rg2 Bf6 28.Kf1 b5 29.a3
+a5 30.Nbd4 Rab8 31.gxf5 Nxf5 32.Nxf5+ gxf5 33.Nd4 b4 34.axb4
+axb4 35.Ra1 Rc7 36.Ra6 bxc3 37.bxc3 1/2-1/2

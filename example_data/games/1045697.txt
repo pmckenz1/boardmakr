@@ -1,0 +1,35 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Petar Popovic"]
+[Black "Lubomir Ftacnik"]
+[ECO "B91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "211"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5
+7. Nb3 Be7 8. Bg2 O-O 9. O-O Be6 10. a4 Nbd7 11. a5 Qc7 12. h3
+h6 13. Re1 b5 14. axb6 Nxb6 15. Na5 Rfc8 16. Be3 Nc4 17. Nxc4
+Bxc4 18. Qd2 Rab8 19. Reb1 a5 20. Qe1 Bd8 21. Bd2 Qd7 22. Kh2
+Be6 23. b3 h5 24. Rc1 h4 25. g4 d5 26. exd5 Nxd5 27. Nxd5 Bxd5
+28. Bxd5 Qxd5 29. Bxa5 Bg5 30. Rd1 Qf3 31. Rd3 Qf4+ 32. Kg2
+Rxc2 33. Rf3 Qd4 34. Bc3 Qd5 35. Qxe5 Qxe5 36. Bxe5 Rb5
+37. Bd4 f6 38. Ra4 Rc1 39. Ra1 Rc8 40. Rb1 Rd8 41. Bc3 Rdd5
+42. b4 Kh7 43. Ra1 Rb7 44. Rf5 Rd3 45. Be1 Rb3 46. Rd1 Kg6
+47. Rf3 R7xb4 48. Bxb4 Rxb4 49. Rd7 Rc4 50. Rfd3 Ra4 51. R7d4
+Ra2 52. Rc4 Rb2 53. Rdc3 Bh6 54. Kf1 Rb1+ 55. Ke2 Rb2+ 56. Rc2
+Rb3 57. R4c3 Rb1 58. Kf3 Rb4 59. Rc4 Rb3+ 60. Kg2 Ra3 61. Re4
+Rb3 62. Rc5 Rb2 63. Rd5 Ra2 64. Rd1 Rb2 65. Rf1 Ra2 66. Rfe1
+Rb2 67. R1e2 Rb3 68. Rc2 Ra3 69. Rb2 Rd3 70. Rb1 Ra3 71. Rh1
+Ra2 72. Rf1 Rb2 73. Kh1 Rb3 74. Kh2 Rb2 75. Ra4 Rc2 76. Kg2
+Rb2 77. Ra5 Bg5 78. Rf5 Bh6 79. Kh1 Rb3 80. f3 Be3 81. Rh5 Bg5
+82. Kg1 Rb4 83. Kg2 Ra4 84. Rh8 Rb4 85. Re8 Bh6 86. Re4 Rb3
+87. f4 Rg3+ 88. Kh2 Ra3 89. Rf2 Rb3 90. Rc4 Rb5 91. Rc6 Kh7
+92. Rf3 Rb4 93. f5 Bf4+ 94. Kg2 Be5 95. Rd3 Rf4 96. Rc8 Ra4
+97. Re8 Ra2+ 98. Kf3 Ra4 99. Ke2 Ra2+ 100. Kd1 Ra1+ 101. Kc2
+Ra2+ 102. Kb3 Rf2 103. Kc4 Bg3 104. Rdd8 Kh6 105. Rh8+ Kg5
+106. Rd4 1-0

@@ -1,0 +1,24 @@
+[Event "x"]
+[Site "x"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Pavel Blatny"]
+[Black "Predrag Ostojic"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.e5 Nc6 5.Nf3 Qb6 6.a3 c4 7.g3 Bd7
+8.Nbd2 Na5 9.Bg2 f5 10.exf6 gxf6 11.O-O O-O-O 12.Rb1 Bd6
+13.Re1 Bc7 14.Nf1 Ne7 15.Bh3 Ng6 16.Bh6 Rhg8 17.Ne3 Nh8 18.Ng2
+e5 19.Bxd7+ Rxd7 20.Be3 Qa6 21.Qe2 Ng6 22.Rbd1 Kb8 23.Nfh4 Qe6
+24.dxe5 fxe5 25.f4 Nxh4 26.Nxh4 Qf6 27.Ng2 Nc6 28.Rf1 Rgd8
+29.Qg4 e4 30.Kh1 d4 31.cxd4 Nxd4 32.f5 Qf7 33.Nh4 Nc2 34.Rxd7
+Qxd7 35.Qxe4 Nxe3 36.Qxe3 Qd5+ 37.Qf3 Qe5 38.f6 Rf8 39.f7 Qxb2
+40.Qe4 Qe5 41.Qxc4 Bd6 42.Ng2 Qe7 43.a4 a6 44.Qd3 Be5 45.Qxh7
+Bf6 46.Qg8 Qxf7 47.Qxf7 Rxf7 48.Nh4 b5 49.axb5 axb5 50.Ng6 Kc7
+51.g4 Kd6 52.g5 Ke6 53.Nf4+ Kf5 54.gxf6 Kxf6 55.Nd3 Ke7
+56.Rxf7+ Kxf7 57.Kg2 Ke6 58.h4 1-0

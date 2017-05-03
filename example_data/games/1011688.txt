@@ -1,0 +1,25 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Igor Sitnik"]
+[Black "Srdjan Sale"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6
+7. Nd2 Bg7 8. e4 O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. f4
+Re8 13. Re1 Rb8 14. Ra3 a6 15. Bf3 b5 16. axb5 axb5 17. Ra1 h5
+18. h3 Nd7 19. Nb3 Qh4 20. Be3 b4 21. Na4 Ra8 22. e5 Nb5
+23. e6 Nf8 24. Qd3 Nc7 25. Qd2 fxe6 26. dxe6 Ra6 27. Be2 Rxa4
+28. Rxa4 Bxe6 29. Bf2 Qf6 30. Na5 Nd5 31. Bf3 Nxf4 32. Bc6 Rc8
+33. Be3 g5 34. b3 Bf7 35. Rf1 Qe5 36. Bf3 Re8 37. Bf2 d5
+38. Bxc5 N8e6 39. Nc6 Qc3 40. Qxc3 bxc3 41. Bf2 Bg6 42. Re1 c2
+43. Nb4 d4 44. Nxc2 Bxc2 45. g3 Nxh3+ 46. Kg2 Nxf2 47. Bd5 d3
+48. Rxe6 Rxe6 49. Bxe6+ Kf8 50. Bf5 Bxb3 51. Ra8+ Ke7 52. Ra7+
+Kf6 53. Rd7 Kxf5 54. Kxf2 Ke4 55. Rxg7 d2 56. Re7+ Kf5 57. Rd7
+d1=Q 58. Rxd1 Bxd1 0-1

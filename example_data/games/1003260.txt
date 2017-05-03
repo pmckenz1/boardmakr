@@ -1,0 +1,28 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Arthur Sartori"]
+[Black "Kurt Petzold"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Re1 Qd7 11. Nd4 Nxd4
+12. cxd4 h6 13. f3 Ng5 14. Bc2 c5 15. a4 Rc8 16. axb5 axb5
+17. Be3 cxd4 18. Bxd4 O-O 19. Nc3 Bc5 20. Ne2 Bf5 21. Bb3 Ne6
+22. Bxc5 Rxc5 23. Qd2 Rd8 24. Nd4 Nxd4 25. Qxd4 Rdc8 26. Re2
+Be6 27. Kf2 Qc7 28. Ra6 Rd8 29. h4 Qe7 30. Rd2 Qc7 31. g4 Qe7
+32. Kg3 Bc8 33. Ra1 Rc7 34. Rad1 Bb7 35. Qf4 Rcd7 36. Bc2 Re8
+37. Re1 Rc7 38. Qf5 g6 39. Qf4 Kg7 40. g5 h5 41. Rde2 Qe6
+42. Qf6+ Kh7 43. Bd3 b4 44. Bb5 Ree7 45. Rd2 Bc8 46. Bf1 Rc5
+47. Rh2 Qxf6 48. gxf6 Rec7 49. Bh3 Be6 50. Bxe6 fxe6 51. Rg2
+d4 52. Kf4 d3 53. Rd1 Rd5 54. Rg5 d2 55. Ke3 Rc2 56. b3 Rc3+
+57. Ke2 Rxb3 58. Rxd2 Rxd2+ 59. Kxd2 Rxf3 60. Kc2 Rf4 61. Rg1
+Rxh4 62. Rd1 Rh2+ 63. Kb3 h4 64. Rd6 h3 65. Rxe6 Rf2 66. Re7+
+Kh6 67. Re8 Kg5 68. Rh8 Kf4 69. f7 Kxe5 70. f8=Q Rxf8 71. Rxf8
+g5 72. Kxb4 0-1

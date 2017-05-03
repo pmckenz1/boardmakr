@@ -1,0 +1,18 @@
+[Event "Vrnjachka Banja (Yugoslavia)"]
+[Site "Vrnjacka Banja YUG"]
+[Date "1966.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bruno Parma"]
+[Black "Istvan Bilek"]
+[ECO "B75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+Nc6 8.Qd2 Bd7 9.Bc4 Rc8 10.Bb3 Ne5 11.O-O-O Nc4 12.Qe2 Nxe3
+13.Qxe3 Qa5 14.g4 Qc5 15.Qd3 h5 16.gxh5 Rxh5 17.Nde2 b5 18.Ng3
+Rh4 19.Kb1 Qe5 20.Nge2 b4 21.f4 Qc5 22.Na4 Qa5 23.e5 Bxa4
+24.exf6 Bxf6 25.Rhe1 Bxb3 26.Qxb3 Kf8 0-1

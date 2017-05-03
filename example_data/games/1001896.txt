@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.15"]
+[EventDate "1883.04.26"]
+[Round "12"]
+[Result "1-0"]
+[White "Berthold Englisch"]
+[Black "Arthur Skipworth"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. e3 Be7 5. Nf3 O-O 6. Bd3 c5
+7. cxd5 cxd4 8. Nxd4 Nxd5 9. Nxd5 Qxd5 10. O-O g6 11. Qe2 e5
+12. Nb5 Na6 13. Nc3 Qe6 14. e4 Nc7 15. Bc4 Qg4 16. f3 Qh5
+17. Nd5 Nxd5 18. Bxd5 Bc5+ 19. Be3 Bxe3+ 20. Qxe3 Qh4 21. Rac1
+Qe7 22. Qc5 Qf6 23. Qc7 Rd8 24. Bxf7+ Kf8 25. Bd5 Rd7 26. Qc5+
+Kg7 27. Rfd1 b6 28. Qb5 Rb8 29. Rxc8 Rbb7 30. Qe2 Qd6 31. Qf2
+Re7 32. Rg8+ 1-0

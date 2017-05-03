@@ -1,0 +1,20 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.23"]
+[EventDate "1912.05.20"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Karoly Sterk"]
+[Black "Zsigmond Barasz"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. a4 b4 12. cxb4
+cxb4 13. Nbd2 O-O 14. b3 Bg4 15. Bb2 Nc6 16. h3 Bxf3 17. Nxf3
+Nd7 18. Rc1 Bf6 19. Bd3 Qb6 20. d5 Na5 21. Nd2 Nc5 22. Nc4
+Nxc4 23. Bxc4 g6 24. Rc2 Bg7 25. Bc1 a5 26. Be3 Rac8 27. Qe2
+Rc7 28. Rec1 Rfc8 29. Bb5 Qb8 30. Bxc5 Rxc5 31. Rxc5 Rxc5
+32. Rxc5 dxc5 1/2-1/2

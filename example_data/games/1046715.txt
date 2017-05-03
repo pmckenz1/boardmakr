@@ -1,0 +1,21 @@
+[Event "It (open), Ljubljana (Slovenia)"]
+[Site "It (open), Ljubljana (Slovenia)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Ivan Farago"]
+[Black "Lubomir Ftacnik"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4
+O-O 7. e4 a6 8. Be2 b5 9. Qb3 c5 10. dxc5 Bb7 11. e5 Nfd7
+12. Be3 e6 13. O-O Qc7 14. a4 Nxc5 15. Qb4 Nxa4 16. Nxa4 bxa4
+17. Rfc1 Nc6 18. Qxa4 Rfc8 19. Rc5 Bf8 20. Rc2 Qb8 21. Rac1
+Nb4 22. Rxc8 Bxc8 23. Bc5 Nd5 24. Bxf8 Kxf8 25. Qd4 Bb7
+26. Ng5 Kg7 27. Bf1 Qd8 28. Ne4 Nf4 29. Qxd8 Rxd8 30. Nd6 Bxg2
+31. Rc7 Bxf1 32. Rxf7+ Kg8 33. Rxf4 Bh3 34. Rh4 Bf5 35. Ra4
+Rb8 36. Rxa6 1/2-1/2

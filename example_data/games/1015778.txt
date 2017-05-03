@@ -1,0 +1,21 @@
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.03.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Jovan Sofrevski"]
+[Black "Andras Adorjan"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Be2 Nf6 5.Nc3 O-O 6.O-O Nc6 7.Be3
+e5 8.Qd2 exd4 9.Nxd4 Re8 10.f3 d5 11.Bb5 Bd7 12.Bxc6 bxc6
+13.exd5 Nxd5 14.Nxd5 cxd5 15.c3 c5 16.Nb3 d4 17.cxd4 Ba4
+18.Bg5 Qd5 19.dxc5 Bxb3 20.axb3 Qxc5+ 21.Kh1 Qb5 22.b4 Re2
+23.Ra5 Rxd2 24.Rxb5 Rxb2 25.Be3 Bf8 26.Ra5 a6 27.Bc5 Bxc5
+28.bxc5 Rb5 29.Rfa1 Rxa5 30.Rxa5 Kg7 31.Kg1 Kf6 32.Kf2 Ke5
+33.Ke3 Kd5 34.Kd3 f5 35.Kc3 Re8 36.c6 Kd6 37.Rxa6 Re2 38.c7
+Kxc7 39.Ra7+ Kd6 40.Rxh7 Rxg2 1/2-1/2

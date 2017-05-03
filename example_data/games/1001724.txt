@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1882.06.07"]
+[EventDate "1882.05.10"]
+[Round "23"]
+[Result "0-1"]
+[White "Vincenz Hruby"]
+[Black "Alexander Wittek"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3
+Nge7 7. Nc2 d6 8. Be2 Qg6 9. Bf3 Ne5 10. b4 Bxe3 11. Nxe3 h5
+12. Na3 Bd7 13. Qe2 a6 14. Nac4 Qe6 15. a4 Nxf3+ 16. gxf3 O-O
+17. Qa2 Qf6 18. Ke2 Be6 19. Qd2 b5 20. Nb2 Ng6 21. Nd3 c5
+22. a5 Bc4 23. Nxc4 bxc4 24. Nb2 d5 25. bxc5 Nf4+ 26. Kf1 Qh4
+27. Qd4 Qh3+ 28. Ke1 Qxf3 29. Rg1 Qe2# 0-1

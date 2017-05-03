@@ -1,0 +1,22 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Viktoria Artamonova"]
+[Black "Marat Burakovsky"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 h6
+7. Bh4 g5 8. Bg3 Nc6 9. Nxc6 bxc6 10. Bc4 Be6 11. Bxe6 fxe6
+12. e5 Nd5 13. Qh5+ Kd7 14. Ne4 Qe8 15. Qxe8+ Rxe8 16. c4 Nb4
+17. Nf6+ Kd8 18. Nxe8 Kxe8 19. Kd2 c5 20. Rhe1 Kd7 21. Re3 h5
+22. h3 Bh6 23. Ra3 Rb8 24. exd6 Nc6 25. dxc7 Rxb2+ 26. Ke1 e5
+27. Rd1+ Kxc7 28. Rd5 g4 29. Bxe5+ Nxe5 30. Rxe5 Bd2+ 31. Kd1
+Bb4 32. Rxa7+ Kb6 33. Rf7 Rd2+ 34. Kc1 Rd6 35. Rxh5 gxh3
+36. Rxh3 Bd2+ 37. Kc2 Be1 38. Rhh7 Ka5 39. Rd7 Rf6 40. Rhf7
+Rg6 41. Rde7 1-0

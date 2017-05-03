@@ -1,0 +1,17 @@
+[Event "Prague (Czech Republic)"]
+[Site "Prague CSR"]
+[Date "1985.02.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Wlodzimierz Schmidt"]
+[Black "Andras Adorjan"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.g3 c5 2.c4 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e3 e5 6.Nge2 Nge7 7.d3
+d6 8.a3 O-O 9.Rb1 Be6 10.Nd5 b5 11.Nxe7+ Nxe7 12.cxb5 Rb8
+13.Nc3 d5 14.a4 f5 15.d4 f4 16.dxc5 fxe3 17.O-O Rxf2 18.Rxf2
+exf2 19.Kxf2 Qc7 20.b4 e4 21.Ne2 Bg4 22.Kg1 Rf8 1/2-1/2

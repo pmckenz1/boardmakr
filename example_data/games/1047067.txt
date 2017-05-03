@@ -1,0 +1,18 @@
+[Event "Olympiad (w)"]
+[Site "Yerevan ARM"]
+[Date "1996.09.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Susan Arkell Lalic"]
+[Black "Alisa Galliamova"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 g6 5.Nf3 Bg7 6.Be3 cxd4
+7.cxd4 Qa5+ 8.Nc3 Nh6 9.Qb3 O-O 10.Bc4 Nf5 11.O-O Nc6 12.Rad1
+Nd6 13.d5 Nb4 14.Bg5 Re8 15.Rfe1 Bf5 16.Rd2 Bc2 17.Rxc2 Nxc2
+18.Qxc2 Nxc4 19.Bxe7 Nxb2 20.d6 Qxc3 21.Qxc3 Bxc3 22.Re3 Ba5
+23.d7 Rxe7 24.Rxe7 Kf8 25.Re2 Nc4 26.Ng5 Rd8 0-1

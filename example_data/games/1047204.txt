@@ -1,0 +1,21 @@
+[Event "Jugoslavija"]
+[Site "Jugoslavija"]
+[Date "1971.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexandra Nicolau van der Mije"]
+[Black "Nona Gaprindashvili"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nc6 5.Be3 Nf6 6.Nf3 O-O 7.d5
+Nb8 8.Be2 c6 9.O-O cxd5 10.exd5 Nbd7 11.Nd2 Nb6 12.Bf3 Bd7
+13.Qe2 Qc7 14.a4 Rfc8 15.g4 Nc4 16.Nxc4 Qxc4 17.Qg2 Qb4 18.Ra3
+Bxg4 19.Bxg4 Nxg4 20.Qxg4 Qxb2 21.Nb1 Rxc2 22.Rd3 Rxh2 23.Nd2
+Rh5 24.Nf3 Qc2 25.Rdd1 Qxa4 26.Rc1 Qe4 27.Rc8+ Rxc8 28.Qxc8+
+Bf8 29.Kf2 Qxd5 30.Rc1 e6 31.Qc4 Qf5 32.Bxa7 e5 33.Be3 e4
+34.Nd2 d5 35.Qd4 Rh2+ 36.Ke1 Qg4 37.Bf2 Rh1+ 38.Nf1 Qg2 39.Ke2
+Qf3+ 40.Kd2 Qxf4+ 41.Be3 Qg4 42.Kc2 Rxf1 0-1

@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Vladimir Ljamin"]
+[Black "Zurab Igriashvili"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. d3 Nge7 6. Rb1 Nd4
+7. e3 Ne6 8. Nge2 c6 9. e4 d6 10. Be3 Nd4 11. O-O O-O 12. Qd2
+Be6 13. Bg5 f6 14. Bh6 Nxe2+ 15. Nxe2 c5 16. Nc3 Nc6 17. Be3
+Qd7 18. Nd5 Rab8 19. f4 b5 20. fxe5 Nxe5 21. Bf4 Nc6 22. b3 b4
+23. Be3 a5 24. Kh1 h5 25. Rf2 Kh7 26. Rc1 Bxd5 27. cxd5 Ne5
+28. d4 Ng4 29. Re2 Nxe3 30. Qxe3 Rfc8 31. Rec2 cxd4 32. Qxd4
+Rxc2 33. Rxc2 Rc8 0-1

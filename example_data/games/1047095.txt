@@ -1,0 +1,20 @@
+[Event "FIDE Cand Groningen UNEDO"]
+[Site "17"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "1-0"]
+[White "Nana Ioseliani"]
+[Black "Alisa Galliamova"]
+[ECO "B67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Bd7 9.f3 Qc7 10.Kb1 Be7 11.h4 h6 12.Be3 h5 13.Bg5
+Ne5 14.f4 Neg4 15.g3 b5 16.Re1 O-O 17.Bh3 Rfe8 18.Rhf1 Rac8
+19.a3 Qb6 20.Bxg4 hxg4 21.Nb3 a5 22.Bxf6 Bxf6 23.e5 Be7 24.f5
+exf5 25.Nd5 Qa6 26.Nxe7+ Rxe7 27.exd6 Re4 28.Rxe4 fxe4 29.Qf4
+f5 30.h5 Rc6 31.h6 Rxd6 32.Qg5 Rxh6 33.Qd8+ Kh7 34.Qxd7 b4
+35.Qxf5+ Kh8 36.Rd1 1-0

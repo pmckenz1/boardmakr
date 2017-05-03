@@ -1,0 +1,15 @@
+[Event "RUS-ch Elista ;CBM 50"]
+[Site "Elista RUS"]
+[Date "1995.10.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexander N Panchenko"]
+[Black "Efim Geller"]
+[ECO "D59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 h6 6.Bh4 O-O 7.e3 b6
+8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Be2 Be6 12.O-O 1/2-1/2

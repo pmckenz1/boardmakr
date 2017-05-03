@@ -1,0 +1,18 @@
+[Event "Vrnjachka Banja (Yugoslavia)"]
+[Site "Vrnjachka Banja (Yugoslavia)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Milos Pavlovic"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 c5 2.Nf3 d6 3.g3 g6 4.Bg2 Bg7 5.O-O Nc6 6.c3 Bg4 7.h3
+Bxf3 8.Qxf3 Nf6 9.d3 O-O 10.Be3 Nd7 11.Rd1 Rb8 12.Qe2 b5 13.d4
+Qc7 14.Na3 b4 15.Nc4 Na5 16.Rac1 bxc3 17.Rxc3 Rfc8 18.e5 cxd4
+19.Rxd4 Nc5 20.Rd5 Rd8 21.Nxd6 exd6 22.exd6 Qd7 23.Rcxc5 Rxb2
+24.Qa6 Nb7 25.Rc7 Rb1+ 26.Kh2 1-0

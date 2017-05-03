@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "0-1"]
+[White "Mark Knecht"]
+[Black "Rodion Rubenchik"]
+[ECO "D02"]
+[WhiteElo "2112"]
+[BlackElo "2346"]
+[PlyCount "90"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nc3 Bg4 6. Bb5 e6
+7. h3 Bxf3 8. Qxf3 cxd4 9. exd4 Be7 10. O-O Rc8 11. Rfd1 O-O
+12. Ne2 Qb6 13. Bd3 Nb4 14. c3 Nxd3 15. Qxd3 Rc6 16. Rdb1 Rfc8
+17. a4 Ne4 18. Ng3 Nxg3 19. Bxg3 Rc4 20. a5 Qb3 21. Qd1 Qb5
+22. Qf1 a6 23. Bf4 Ra4 24. Qxb5 axb5 25. Bd2 Ra8 26. b4 Rxa1
+27. Rxa1 Ra6 28. Kf1 g5 29. f4 gxf4 30. Bxf4 f6 31. Re1 Kf7
+32. Re3 Bd8 33. Rg3 b6 34. axb6 Bxb6 35. Ke2 Ra2+ 36. Kd3 Rf2
+37. Bh6 e5 38. dxe5 fxe5 39. Rf3+ Rxf3+ 40. gxf3 Kg6 41. Bf8
+Kf5 42. Bh6 Bd8 43. Be3 Bg5 44. f4 Bxf4 45. Bxf4 Kxf4 0-1

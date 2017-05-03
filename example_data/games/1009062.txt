@@ -1,0 +1,19 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Anh Dung Nguyen"]
+[Black "Peter Lukacs"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3
+Bxc3 7. bxc3 d6 8. Re1 h6 9. d4 Bd7 10. Bd3 Bg4 11. Bb2 Re8
+12. h3 Bh5 13. Rb1 Qc8 14. Kh2 a6 15. d5 Nb8 16. g4 Bg6
+17. Nh4 Nbd7 18. Nf5 Qd8 19. Rg1 Nc5 20. Qe1 c6 21. dxc6 bxc6
+22. Ba3 Nxd3 23. cxd3 Bxf5 24. gxf5 d5 25. Qe3 Kh7 26. Rb7 Nd7
+27. f6 Nxf6 28. Rxf7 Rg8 29. Qg3 1-0

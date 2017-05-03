@@ -1,0 +1,17 @@
+[Event "Budapest (Hungary)"]
+[Site "It"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Stuart C Conquest"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 c5 2.d3 Nc6 3.g3 d5 4.Nd2 g6 5.Bg2 e6 6.Nh3 Bg7 7.O-O
+Nge7 8.f4 b6 9.e5 Bb7 10.c3 b5 11.Nb3 Qb6 12.Be3 d4 13.Bf2 Nf5
+14.Ng5 Ne3 15.Bxe3 dxe3 16.Ne4 c4 17.Nbc5 cxd3 18.Qxd3 O-O
+19.Nxb7 e2 20.Rf2 Qxb7 21.Nd6 Qb6 22.Qxb5 1-0

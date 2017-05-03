@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Chicago (USA)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Howard Wachtel"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "106"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 b5 6.cxb5 Bxb5 7.Bg2
+c5 8.O-O Bc6 9.Ba3 Na6 10.Nbd2 Be7 11.Rc1 cxd4 12.Bxe7 Qxe7
+13.Nc4 O-O 14.Qxd4 Bxf3 15.Bxf3 d5 16.Ne5 Rfc8 17.Nc6 Qd7
+18.Qa4 Qb7 19.e3 Rc7 20.Be2 Nb8 21.Na5 Qb6 22.Qa3 Nc6 23.Nxc6
+Rxc6 24.Rxc6 Qxc6 25.Rc1 Qb6 26.Qc5 g6 27.Qxb6 axb6 28.a4 Ne4
+29.Rc6 Rb8 30.b4 Kf8 31.f3 Nf6 32.Kf2 Ke8 33.Rc7 Kf8 34.Ke1
+Ne8 35.Rc6 Ke7 36.Bb5 Rb7 37.Kd2 Nc7 38.Bd3 Kd7 39.Rc1 Ra7
+40.Ra1 Kd6 41.h4 h6 42.g4 e5 43.Kc3 Ne6 44.Kb3 Rc7 45.a5 bxa5
+46.Rxa5 d4 47.Bc4 dxe3 48.Rd5+ Kc6 49.b5 Kb7 50.Rxe5 Nd4+
+51.Kb4 Nc2+ 52.Kb3 Nd4+ 53.Kb4 Nc2+ 1/2-1/2

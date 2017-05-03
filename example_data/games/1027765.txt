@@ -1,0 +1,20 @@
+[Event "Berlin (Germany)"]
+[Site "Berlin (Germany)"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "154"]
+[Result "1-0"]
+[White "Istvan Bilek"]
+[Black "Ventzislav V Inkiov"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.c3 Nc6 5.e3 d5 6.Nbd2 Bd6 7.Bg3
+cxd4 8.exd4 Nh5 9.Bxd6 Qxd6 10.g3 O-O 11.Bg2 f5 12.O-O Nf6
+13.Ne1 b6 14.Nd3 Ba6 15.Nf3 Ne4 16.Re1 Bxd3 17.Qxd3 g5 18.Ne5
+g4 19.Nxg4 fxg4 20.Bxe4 dxe4 21.Qxe4 Rf6 22.Qxg4+ Kh8 23.Re4
+Raf8 24.f4 Rg6 25.Qf3 Ne7 26.Rae1 Nf5 27.Kf2 Rff6 28.R4e2 Kg7
+29.Qb7+ Rf7 30.Qe4 Qd7 31.Rd2 h5 32.d5 h4 33.dxe6 Qxd2+ 34.Re2
+hxg3+ 35.hxg3 Qd6 36.exf7 1-0

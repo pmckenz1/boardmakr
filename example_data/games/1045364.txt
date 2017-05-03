@@ -1,0 +1,26 @@
+[Event "CSR-ch"]
+[Site "Trnava CSR"]
+[Date "1980.08.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Jiri Lechtynsky"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 d5 5. O-O Nc6 6. dxc5 Bxc5
+7. c4 O-O 8. cxd5 exd5 9. Bg5 Be6 10. Nbd2 h6 11. Bf4 g5
+12. Nb3 Bxf2+ 13. Rxf2 gxf4 14. Nfd4 fxg3 15. hxg3 Ng4 16. Rf4
+Qg5 17. Nf3 Qh5 18. Qd2 Ne7 19. Rb4 b6 20. Nbd4 Ng6 21. a4 Bd7
+22. a5 Nf6 23. Nh2 Ne4 24. Qe3 Rfe8 25. axb6 axb6 26. Rxa8
+Rxa8 27. Rxb6 Ra1+ 28. Nf1 Ne5 29. Rb8+ Kg7 30. Nf3 Ng4
+31. Qd4+ Ngf6 32. b4 Rc1 33. Qe5 Qxe5 34. Nxe5 Nxg3 35. Kf2
+Nxf1 36. Bxf1 Ne4+ 37. Kg2 Bf5 38. Nd3 Rb1 39. e3 Ng5 40. Be2
+Rb3 41. Nf4 Rxe3 42. Kf2 d4 43. Rd8 Ne4+ 44. Kg2 Nc3 45. Kf2
+Ne4+ 46. Kg2 Rg3+ 47. Kh2 Rb3 48. Rd5 Kf6 49. Bd3 Rb2+ 50. Kg1
+Rxb4 51. Nh5+ Ke6 52. Nf4+ Kf6 53. Nh5+ Kg6 54. Nf4+ Kg5
+55. Bxe4 Kxf4 56. Bxf5 h5 57. Kh2 Rb2+ 58. Kh3 Rf2 59. Bh7
+1/2-1/2

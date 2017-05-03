@@ -1,0 +1,21 @@
+[Event "SSSR"]
+[Site "SSSR"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Georgy Konstantinovich Borisenko"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.Nf3 O-O 7.h3 e6
+8.Bd3 exd5 9.exd5 Qe7+ 10.Qe2 Re8 11.Qxe7 Rxe7+ 12.Kd1 Nbd7
+13.Bg5 h6 14.Bh4 g5 15.Bg3 Ne8 16.Kd2 Ne5 17.Nxe5 Bxe5 18.Bxe5
+Rxe5 19.f4 gxf4 20.Raf1 Rg5 21.Rh2 Bf5 22.Rxf4 Bxd3 23.Kxd3 f5
+24.g4 fxg4 25.hxg4 Rg6 26.Re2 Ng7 27.Re7 Rf8 28.Rxf8+ Kxf8
+29.Rxb7 Rxg4 30.Ne4 Nf5 31.Rxa7 Rf4 32.a4 Rf3+ 33.Kd2 Rf4
+34.Nc3 Rxc4 35.Rb7 Rd4+ 36.Ke2 Rb4 37.Rxb4 cxb4 38.Na2 b3
+39.Nc1 Ne7 40.Nxb3 Nxd5 41.Kd3 h5 1/2-1/2

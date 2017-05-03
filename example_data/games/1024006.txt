@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Vlissingen (Netherlands)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "G Minaux"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.b3 e5 2.Bb2 Nc6 3.c4 f5 4.Nc3 Nf6 5.e3 Bc5 6.Nf3 e4 7.d4
+exd3 8.Bxd3 d6 9.a3 a5 10.Nd5 Nxd5 11.cxd5 Ne5 12.Nxe5 dxe5
+13.Bxe5 O-O 14.O-O Qe7 15.Bb2 Bd7 16.Qc2 c6 17.Bc4 Kh8 18.Rad1
+Bxa3 19.d6 Bxd6 20.Qd2 1-0

@@ -1,0 +1,18 @@
+[Event "Ch World FIDE, Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Jordi Magem Badals"]
+[Black "Judit Polgar"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 Qb6
+7. Nb3 e6 8. Qe2 Nc6 9. Be3 Qc7 10. g4 b5 11. Qg2 Ne5
+12. O-O-O h6 13. h4 Bb7 14. g5 hxg5 15. hxg5 Rxh1 16. Qxh1 b4
+17. Ne2 Nfd7 18. Ned4 Nc5 19. Kb1 O-O-O 20. Be2 d5 21. exd5
+Rxd5 22. Qf1 Ned7 23. f4 Kb8 24. Bf3 1/2-1/2

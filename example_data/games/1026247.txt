@@ -1,0 +1,25 @@
+[Event "Staatsliga 1994/95"]
+[Site "Austria"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Egon Brestian"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4 Nc6 5.Nf3 Bb4+ 6.Nc3 Bxc3+
+7.bxc3 Qe7 8.Qd5 f6 9.exf6 Nxf6 10.Qd3 d6 11.g3 O-O 12.Bg2 Kh8
+13.O-O Bg4 14.Rae1 Rae8 15.Bg5 Qf7 16.Bxf6 Qxf6 17.Nd2 Re5
+18.f4 Ra5 19.Qc2 Be6 20.Rb1 Nd8 21.Rb5 Ra6 22.e4 Qf7 23.Rf2
+Bd7 24.Rb1 Ne6 25.Nb3 Ra4 26.f5 Nd8 27.c5 Qe7 28.Rd1 Nf7
+29.Rd4 Ne5 30.cxd6 cxd6 31.Qd1 Ra6 32.Rfd2 Qg5 33.Qe1 Qe7
+34.h3 Bxf5 35.Qd1 Be6 36.Rxd6 Rxd6 37.Rxd6 Nc4 38.Rd4 Ne3
+39.Qd2 Nxg2 40.Kxg2 h6 41.Qe2 Qc7 42.c4 Qc8 43.g4 h5 44.e5 b5
+45.cxb5 Qc3 46.Rd3 Qc4 47.Nd4 Rd8 48.Qd1 Qxa2+ 49.Rd2 Rxd4
+50.Rxa2 Rxd1 51.Rxa7 hxg4 52.hxg4 Rb1 53.Re7 Bd5+ 54.Kg3 Rxb5
+55.Re8+ Kh7 56.e6 Kg6 57.Kf4 Ra5 58.g5 Bc4 59.e7 Kf7 60.Rg8
+Bb5 0-1

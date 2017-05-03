@@ -1,0 +1,23 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Sasha Soloveychik"]
+[Black "Tim Reilly"]
+[ECO "B09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6
+7. a3 c5 8. Bxa6 cxd4 9. Nxd4 bxa6 10. Nf3 Bb7 11. Qd3 Qc7
+12. O-O Rac8 13. Be3 Ng4 14. Bd4 e5 15. fxe5 dxe5 16. Bf2 Rfd8
+17. Qe2 Nxf2 18. Qxf2 Qb6 19. Qxb6 axb6 20. Rad1 f6 21. h3 Bf8
+22. Nd2 Bc5+ 23. Kh2 Bxa3 24. Na4 Rxc2 25. bxa3 Rdxd2 26. Rxd2
+Rxd2 27. Nxb6 Bxe4 28. Rg1 Kf7 29. Nc4 Rd4 30. Ne3 Rd3 31. Nc4
+Bd5 32. Nb6 Ke6 33. a4 Rd2 34. Nxd5 Kxd5 35. Rb1 e4 36. Kg3 f5
+37. h4 Ra2 38. Rb7 Rxa4 39. Rxh7 Rb4 40. Rh6 e3 41. Kf3 Re4
+42. Ke2 Re6 43. h5 gxh5 44. Rxh5 Ke4 45. g3 Rg6 46. Rh3 a5
+47. Rh1 Rxg3 48. Ra1 Rg2+ 49. Kf1 Kf3 0-1

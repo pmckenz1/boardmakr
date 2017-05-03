@@ -1,0 +1,17 @@
+[Event "Groningen Chess Fest"]
+[Site "Groningen Chess Fest"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Semen I Dvoirys"]
+[ECO "D78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d5 5.Bg2 dxc4 6.O-O O-O 7.Na3
+Nc6 8.Nxc4 Be6 9.b3 Bd5 10.Bb2 a5 11.Nfe5 Bxg2 12.Kxg2 Nb4
+13.a3 Nbd5 14.Qe1 c6 15.e4 Nb6 16.Nxa5 Na4 17.Naxc6 Qb6
+18.Nxe7+ Kh8 19.Qb4 1-0

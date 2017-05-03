@@ -1,0 +1,21 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jakub Kolski"]
+[Black "Teodor Regedzinski"]
+[ECO "E19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4
+7. Qc2 Nxc3 8. Qxc3 O-O 9. O-O d6 10. Qc2 f5 11. Ne1 Bxg2
+12. Nxg2 Qd7 13. e4 Nc6 14. Be3 Bf6 15. Rad1 fxe4 16. Qxe4 d5
+17. cxd5 exd5 18. Qc2 Ne7 19. Bf4 Rac8 20. Be5 c5 21. Qd2 Bxe5
+22. dxe5 d4 23. f4 Rfd8 24. b3 b5 25. Rde1 d3 26. f5 Nxf5
+27. e6 Qd4+ 28. Kh1 Nh6 29. Qg5 c4 30. Re5 Rf8 31. Nf4 Rce8
+32. h3 c3 33. Kh2 d2 34. Rd5 Qf6 35. Qh5 Rxe6 36. Nxe6 Qxf1
+37. Nxf8 Qf2+ 0-1

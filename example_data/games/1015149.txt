@@ -1,0 +1,24 @@
+[Event "NOR-INA"]
+[Site "NOR"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Utut Adianto"]
+[Black "Berge Ostenstad"]
+[ECO "D79"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.c4 c6 7.cxd5
+cxd5 8.Ne5 e6 9.Nc3 Nfd7 10.f4 Nxe5 11.dxe5 Nc6 12.Be3 b6
+13.Bf2 Qd7 14.Rc1 Bb7 15.Ne4 Rab8 16.Nf6+ Bxf6 17.exf6 Rfc8
+18.e4 Ba6 19.Re1 Nb4 20.Qd2 Nd3 21.Rxc8+ Rxc8 22.Rd1 Qd8 23.e5
+Nxf2 24.Qxf2 Qc7 25.Bf3 Qc2 26.Qe3 Kh8 27.Qf2 Qxf2+ 28.Kxf2
+Rc2+ 29.Ke3 Rxb2 30.g4 Bc4 31.h4 Rxa2 32.f5 Kg8 33.h5 g5 34.h6
+Rh2 35.Kd4 Rxh6 36.Ra1 a5 37.Rb1 b5 38.Kc5 Rh3 39.Bd1 h6
+40.Kd6 Kf8 41.Ra1 a4 42.Bxa4 bxa4 43.Rxa4 Bb5 44.Ra8+ Be8
+45.fxe6 fxe6 46.Kxe6 Rf3 47.Kxd5 Rf4 48.Ke6 Rf1 49.Ra7 Rf2
+50.Rh7 Kg8 51.Ra7 Kf8 52.Rb7 Rf1 53.Rh7 Kg8 54.Rg7+ Kf8 55.Rh7
+Kg8 1/2-1/2

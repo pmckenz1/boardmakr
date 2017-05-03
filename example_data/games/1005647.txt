@@ -1,0 +1,21 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "8"]
+[Result "0-1"]
+[White "Valery Shalimov"]
+[Black "Oleg Budnikov"]
+[ECO "A30"]
+[WhiteElo "2400"]
+[BlackElo "2363"]
+[PlyCount "74"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7
+7. d4 cxd4 8. Qxd4 Nc6 9. Qf4 d6 10. Rd1 O-O 11. b3 Qb8 12. e4
+a6 13. Ba3 Ne5 14. Qe3 Nxf3+ 15. Bxf3 Nd7 16. Rd2 Rc8 17. Rad1
+Nc5 18. Bg2 Bc6 19. b4 Nd7 20. b5 axb5 21. Bxd6 Bxd6 22. Rxd6
+b4 23. Nb5 Nf8 24. Qb3 Qb7 25. R6d2 Bxb5 26. cxb5 Qe7 27. Rd6
+Ra3 28. Qxb4 Rxa2 29. Qd4 Rcc2 30. Qxb6 Rab2 31. Bf1 Qf6
+32. Rd8 g5 33. f4 Rxh2 34. Rxf8+ Kxf8 35. Qc5+ Kg7 36. Qxg5+
+Qxg5 37. fxg5 Rbd2 0-1

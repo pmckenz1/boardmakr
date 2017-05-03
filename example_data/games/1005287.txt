@@ -1,0 +1,25 @@
+[Event "Beirut Lebanese ch"]
+[Site "LIB"]
+[Date "1999.08.09"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Mahmoud Abdulaziz"]
+[Black "Ahmad Najjar"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "2303"]
+[PlyCount "117"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Bd6 5. O-O c6 6. b3 O-O
+7. Nc3 e5 8. cxd5 cxd5 9. Bb2 Nc6 10. d4 e4 11. Ne1 Re8 12. f3
+exf3 13. Bxf3 Bh3 14. Ng2 Bc7 15. Re1 Nxd4 16. Kh1 Nxf3
+17. exf3 Rxe1+ 18. Qxe1 Bxg2+ 19. Kxg2 Qd7 20. Qd2 h6 21. Rd1
+Ba5 22. Qd3 Bxc3 23. Bxc3 Rd8 24. Rd2 Qc6 25. Bd4 b6 26. g4
+Qd6 27. Qf5 Nh7 28. Re2 Nf8 29. h4 Qd7 30. Qe5 Ne6 31. Bc3 d4
+32. Rd2 f6 33. Qe4 Qd5 34. Qxd5 Rxd5 35. Bb2 Kf7 36. Kg3 g6
+37. Kf2 h5 38. gxh5 Rxh5 39. Bxd4 Rxh4 40. Be3 Rh2+ 41. Ke1
+Rxd2 42. Kxd2 Ke7 43. Kc3 Kd6 44. Kc4 Kc6 45. a4 a5 46. b4
+axb4 47. Kxb4 g5 48. Kc4 Nc5 49. a5 b5+ 50. Kd4 Nb3+ 51. Ke4
+Nxa5 52. Bd4 Nc4 53. Bxf6 Nd6+ 54. Kd3 Nf7 55. Kc3 Kc5 56. Kb3
+Kd5 57. Kb4 Kc6 58. Kc3 Kc5 59. Kb3 1/2-1/2

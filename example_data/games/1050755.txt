@@ -1,0 +1,21 @@
+[Event "USSR Championship"]
+[Site "Riga (RUS)"]
+[Date "1958.??.??"]
+[EventDate "1958.??.??"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Georgy Konstantinovich Borisenko"]
+[Black "Aivars Gipslis"]
+[ECO "E55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.e3 O-O 6.Bd3 d5 7.O-O
+dxc4 8.Bxc4 Nbd7 9.Qd3 a6 10.a3 cxd4 11.axb4 dxc3 12.bxc3 Nb6
+13.Rd1 Qc7 14.Bb3 Bd7 15.c4 Rfd8 16.c5 Nbd5 17.Qd4 Bb5 18.Bb2
+Be2 19.Re1 Bxf3 20.gxf3 Ne7 21.Qh4 Ng6 22.Qg3 Qxg3+ 23.hxg3
+Nd5 24.Bxd5 Rxd5 25.Red1 Rc8 26.e4 Rdd8 27.Rxd8+ Rxd8 28.c6
+bxc6 29.Rxa6 Rc8 30.f4 f6 31.Bd4 e5 32.fxe5 fxe5 33.Bc5 Kf7
+34.Ra7+ Kf6 35.Kg2 h5 36.Kh3 Re8 37.Rc7 Re6 38.f3 Nh8 39.Rc8
+Nf7 40.Kg2 g5 41.Rg8 Nh6 42.Rh8 Kg7 43.Rc8 Kg6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Richard Bitoon"]
+[Black "Gerry Cabellon"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ndf6 6. Nxf6+
+Nxf6 7. c3 b5 8. Bb3 Bb7 9. Qe2 e6 10. Nf3 Be7 11. O-O O-O
+12. Ne5 a6 13. Bg5 Qc7 14. a4 b4 15. Bf4 Qd8 16. Rfd1 Nd5
+17. Bd2 bxc3 18. bxc3 a5 19. c4 Nf6 20. Rab1 Qc8 21. Qe1 Bd8
+22. Bc2 Nd7 23. Rb3 Nxe5 24. dxe5 Ba6 25. Rh3 g6 26. Qe3 f5
+27. exf6 Bxf6 28. Rxh7 Rf7 29. Rxf7 Kxf7 30. Qe4 Qh8 31. Qxc6
+Qc8 32. Qe4 Qe8 1-0

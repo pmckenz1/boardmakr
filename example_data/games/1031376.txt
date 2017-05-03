@@ -1,0 +1,22 @@
+[Event "Barclay Int-NY"]
+[Site "New York, NY USA"]
+[Date "1984.07.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Jay R Bonin"]
+[Black "Juergen Meyer"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Bg5 c6 7.Qd2 a6
+8.Nf3 b5 9.e5 dxe5 10.dxe5 Qxd2+ 11.Nxd2 Ng4 12.Bxe7 Re8
+13.Bd6 Nxe5 14.O-O Bf5 15.a4 Nd3 16.Bxd3 Bxd3 17.Rfe1 Nd7
+18.cxb5 cxb5 19.axb5 axb5 20.Rxa8 Rxa8 21.h3 Nb6 22.Re3 Bc4
+23.b3 Nd5 24.Nxd5 Bxd5 25.Ne4 f5 26.Nc3 Bxb3 27.Nxb5 Bc4
+28.Na3 Bf7 29.Nc2 Rd8 30.Be5 Rd1+ 31.Kh2 Bxe5+ 32.Rxe5 Rd2
+33.Ne3 Rxf2 34.Kg3 Ra2 35.Kf3 Kg7 36.g4 Kf6 37.Rb5 Be6 38.h4
+Ra3 39.gxf5 gxf5 40.Rc5 Ra4 41.Ng2 Bd7 42.Nf4 Rd4 43.Ke3 Re4+
+44.Kf3 Ke7 45.Rc3 Rd4 46.Re3+ Kd6 47.Rd3 Bc6+ 48.Kg3 1/2-1/2

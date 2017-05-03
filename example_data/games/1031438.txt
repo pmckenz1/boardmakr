@@ -1,0 +1,27 @@
+[Event "Ch Manhattan Chess Club"]
+[Site "New York (USA)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Asa Hoffmann"]
+[Black "Jay R Bonin"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1.e4 e6 2.Qe2 c5 3.f4 Nc6 4.Nf3 Nge7 5.d3 d5 6.c3 g6 7.Nbd2
+Bg7 8.g3 b6 9.e5 a5 10.a4 Ba6 11.Bh3 h6 12.O-O Ra7 13.Re1 Nf5
+14.Nf1 d4 15.c4 Nb4 16.Rd1 Rd7 17.b3 Bb7 18.Ne1 h5 19.Bd2 Bf8
+20.Bg2 Bxg2 21.Qxg2 h4 22.g4 h3 23.Qe4 Nh6 24.g5 Nf5 25.Bxb4
+cxb4 26.Ra2 Bc5 27.Nf3 Kf8 28.Rf2 Kg7 29.Ng3 Ne3 30.Re1 Qc7
+31.Rfe2 Qd8 32.Nh1 Ng2 33.Rc1 Ne3 34.Rd2 Qa8 35.Qxa8 Rxa8
+36.Nf2 Rh8 37.Kh1 Rdd8 38.Rg1 Rh5 39.Re2 Ng2 40.Re4 Ne3 41.Rg3
+Rdh8 42.Ng4 Nxg4 43.Rxg4 Rc8 44.Nd2 Rhh8 45.Rg3 Rcd8 46.Kg1
+Rh7 47.Kf2 Rdh8 48.Re1 Rd8 49.Ke2 Rh4 50.Rf1 Kf8 51.Rff3 Ke7
+52.Rxh3 Rdh8 53.Rxh4 Rxh4 54.h3 Kd7 55.Kf2 Ke7 56.Kg3 Rh8
+57.Rf2 Kf8 58.h4 Kg7 59.Rh2 Be7 60.Kf3 Bc5 61.Ke4 Rd8 62.Nf3
+Rd7 63.h5 gxh5 64.Rxh5 Rd8 65.Nh4 b5 66.cxb5 Ba7 67.g6 fxg6
+68.Rg5 Rh8 69.Rxg6+ Kf7 70.Rf6+ Kg8 71.Ng6 Rh3 72.Rxe6 Re3+
+73.Kf5 1-0

@@ -1,0 +1,21 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Walter F Buchanan"]
+[Black "Colin A McNab"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 c6 5. Nf3 Nd7 6. O-O Qc7
+7. a4 Ngf6 8. h3 O-O 9. Be3 b6 10. Qd2 Bb7 11. Bh6 a6 12. Qg5
+e5 13. dxe5 dxe5 14. Qh4 Nh5 15. Bxg7 Kxg7 16. Rad1 Rae8
+17. Ng5 Ndf6 18. Bxh5 Nxh5 19. Nxh7 Rh8 20. Ng5 f6 21. Nf3 Bc8
+22. Rd3 Qe7 23. Nxe5 g5 24. Nxc6 Qc5 25. Rg3 Nxg3 26. Qxg3
+Qxc6 27. f4 Rh6 28. Nd5 g4 29. hxg4 Reh8 30. g5 Rh1+ 31. Kf2
+Rxf1+ 32. Kxf1 Rh1+ 33. Ke2 Qxc2+ 34. Ke3 Qc1+ 35. Ke2 Qd1+
+36. Ke3 Re1+ 0-1

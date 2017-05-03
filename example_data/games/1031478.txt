@@ -1,0 +1,19 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jay R Bonin"]
+[Black "Ron W Henley"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Bd2
+Nd7 8.Qc2 c5 9.e4 N5f6 10.d5 exd5 11.exd5 Bd6 12.O-O-O O-O
+13.Bb5 a6 14.Bxd7 Qxd7 15.Ng5 Rfe8 16.Rde1 h6 17.Nge4 Nxd5
+18.Nxd5 Bxd5 19.Nxd6 Qxd6 20.Qd3 b5 21.Rxe8+ Rxe8 22.Re1 Rxe1+
+23.Bxe1 Qe5 24.Bc3 Qg5+ 25.Qe3 Qxg2 26.Qxc5 Qg5+ 27.Qe3 Qg1+
+28.Kd2 Qxh2 29.Bxg7 Kxg7 30.Qd4+ Kg6 31.Qxd5 Qxf2+ 0-1

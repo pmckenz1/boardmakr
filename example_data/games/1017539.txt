@@ -1,0 +1,20 @@
+[Event "06, USA op"]
+[Site "Portland, OR USA"]
+[Date "1987.08.07"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Lev Alburt"]
+[Black "Vivek Rao"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.e4 Nxc3
+7.bxc3 c5 8.Bb5+ Nc6 9.O-O cxd4 10.cxd4 O-O 11.Be3 Bg4 12.Bxc6
+bxc6 13.Rc1 Qa5 14.Qe2 Rfd8 15.Rfd1 e5 16.dxe5 Bxe5 17.h3 Bxf3
+18.gxf3 Rxd1+ 19.Rxd1 Rd8 20.f4 Bc7 21.Rc1 Bb6 22.Bxb6 Qxb6
+23.e5 Qd4 24.Qe3 Qxe3 25.fxe3 Rd3 26.Kf2 Rd2+ 27.Kf3 Rxa2
+28.Rxc6 Rh2 29.Rc8+ Kg7 30.Rc7 Rxh3+ 31.Ke4 Kg8 32.Rxa7 Rh5
+33.Kd4 Rh3 34.Ra3 Rh1 35.Ra8+ Kg7 1/2-1/2

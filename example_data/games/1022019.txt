@@ -1,0 +1,17 @@
+[Event "Koop Tjuchem Invitational Groningen NED"]
+[Site "Groningen NED"]
+[Date "1994.12.20"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Zurab Azmaiparashvili"]
+[Black "Ivan Sokolov"]
+[ECO "D17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.Nf3 d5 2.c4 c6 3.d4 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Nh4 Bc8 7.e3
+e5 8.Bxc4 exd4 9.exd4 Be7 10.O-O O-O 11.Re1 Nd5 12.Nf3 Na6
+13.Ne5 Nab4 14.Ra3 Be6 15.Ne4 f6 16.Nd3 Nxd3 17.Rxd3 Bf5
+18.Qb3 Qd7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "London ;HCL 34"]
+[Site "qf"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Edward Lowe"]
+[Black "Arthur Simons"]
+[ECO "A03"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.f4 d5 2.Nf3 Nc6 3.d4 e6 4.e3 f6 5.c4 dxc4 6.Bxc4 Bd6 7.e4
+Nh6 8.O-O O-O 9.f5 Qe7 10.Bxh6 gxh6 11.fxe6 Kh8 12.d5 Ne5
+13.Nbd2 Ng4 14.Qe2 Rg8 15.h3 Bc5+ 16.Kh1 Ne3 17.Rg1 Nxc4
+18.Nxc4 Bxg1 19.Rxg1 Qc5 20.Ne3 c6 21.Nh4 cxd5 22.exd5 b5
+23.Nhf5 Bb7 24.d6 Qe5 25.e7 Bc8 26.Nxh6 Rg7 27.Qf3 Bb7 28.Qxb7
+Rag8 29.Nxg8 Rxg8 30.Qxa7 Qxd6 31.Nf5 Qe6 32.Qf2 Re8 33.Re1
+1-0

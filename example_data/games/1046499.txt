@@ -1,0 +1,25 @@
+[Event "GER"]
+[Site "GER"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Peter Enders"]
+[Black "Lubomir Ftacnik"]
+[ECO "B99"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6
+12. g5 Nd7 13. f5 Bxg5+ 14. Kb1 Ne5 15. Qh5 Qd8 16. Rg1 Bf6
+17. fxe6 g6 18. exf7+ Kxf7 19. Qe2 Rf8 20. Qe3 Ng4 21. Qh3 Kg8
+22. Nd5 Nf2 23. Qb3 Kg7 24. Rd2 Nxe4 25. Rd1 Bxd4 26. Rxd4 Qg5
+27. Qe3 Qxe3 28. Nxe3 Bb7 29. Bg2 Rae8 30. a4 Nc5 31. Nd1 Bxg2
+32. Rxg2 Nxa4 33. Rxd6 Rd8 34. Rxd8 Rxd8 35. Ne3 Re8 36. Nd5
+Nc5 37. c3 Re5 38. Nc7 Re7 39. Nd5 Rd7 40. Ne3 Rd3 41. Re2 Kf6
+42. Kc2 Rd6 43. b4 Ne6 44. Rf2+ Kg5 45. Nf1 Kh4 46. Nd2 Ng5
+47. c4 bxc4 48. Nxc4 Rd4 49. Kb3 Kh3 50. Ne5 Rd5 51. Nxg6 hxg6
+52. Rf6 Re5 53. Rxg6 Ne6 54. Rh6+ Kg4 55. h4 Re1 56. Kc4 Nc7
+57. Kc5 Ra1 58. Kc6 Nb5 59. Kb7 1/2-1/2

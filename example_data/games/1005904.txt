@@ -1,0 +1,19 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.25"]
+[EventDate "2000.01.21"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Ted Barendse"]
+[Black "Peter Burlage"]
+[ECO "B62"]
+[WhiteElo "2198"]
+[BlackElo "2232"]
+[PlyCount "57"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6
+7. Qd3 a6 8. O-O-O Bd7 9. f4 b5 10. Be2 b4 11. Nxc6 Bxc6
+12. e5 bxc3 13. Qxc3 Bxg2 14. exf6 g6 15. Rhe1 Qb6 16. Bg4 Kd7
+17. Bxe6+ fxe6 18. f7 h6 19. f5 gxf5 20. Be3 Qc6 21. Qxh8 Rc8
+22. Rd2 Be4 23. Ree2 e5 24. Bxh6 Bxc2 25. Rxc2 Qh1+ 26. Kd2
+Qd5+ 27. Kc1 Qh1+ 28. Kd2 Qd5+ 29. Kc1 1/2-1/2

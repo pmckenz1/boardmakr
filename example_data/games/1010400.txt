@@ -1,0 +1,22 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Saha Suvrajit"]
+[Black "Ramachandran Ramesh"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e6
+7. e4 Be7 8. h3 Bh5 9. Qe2 O-O 10. a4 dxe4 11. dxe4 e5 12. Rd1
+Qc7 13. b3 Rfe8 14. Bb2 a5 15. Nc4 Bf8 16. g4 Bg6 17. Nh4 Nc5
+18. Nf5 Nfd7 19. Bc3 Red8 20. Qe1 b6 21. Rd2 Ne6 22. Ncd6 Nd4
+23. Bxd4 exd4 24. Rxd4 Bxf5 25. Nxf5 g6 26. Rad1 gxf5 27. Qd2
+fxg4 28. hxg4 Ra7 29. Qg5+ Bg7 30. e5 Re8 31. Rxd7 Qxd7
+32. Rxd7 Rxd7 33. f4 Re6 34. Qf5 Rd1+ 35. Kf2 Bf8 36. g5 h6
+37. Be4 Bg7 38. gxh6 Bxh6 39. Qg4+ Kf8 40. Qxd1 Bxf4 41. Qd8+
+Kg7 42. Bf5 Rxe5 43. Qd4 Kf6 44. Bh3 Kg5 45. Kf3 1-0

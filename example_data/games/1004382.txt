@@ -1,0 +1,17 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Zoltan von Balla"]
+[Black "Janos Balogh"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2 f5 11. exf6 Nxf6
+12. Nd4 Nxd4 13. cxd4 O-O 14. Bc2 Bd6 15. h3 Qd7 16. f4 Rae8
+17. Nf3 Ne4 18. Ne5 Qe7 19. Qe1 1/2-1/2

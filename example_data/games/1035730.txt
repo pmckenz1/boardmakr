@@ -1,0 +1,21 @@
+[Event "Los Angeles op"]
+[Site "Los Angeles op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Timothy Taylor"]
+[Black "Walter Shawn Browne"]
+[ECO "E42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.a3
+Be7 8.c5 b6 9.b4 O-O 10.Bf4 bxc5 11.dxc5 Nc6 12.Nd4 Nxd4
+13.Qxd4 Ng4 14.Be2 e5 15.Qxd5 exf4 16.Qxa8 Qd4 17.O-O Qxc3
+18.Qxa7 Bh4 19.Bxg4 Bxf2+ 20.Kh1 Bxg4 21.Ra2 Bd4 22.Qc7 f3
+23.Qg3 Qc4 24.Raf2 Bxf2 25.Qxf2 fxg2 26.Qxg2 Be6 27.Qf2 Ra8
+28.Qf4 Qxf4 29.Rxf4 Rxa3 30.b5 Rb3 31.b6 Kf8 32.Ra4 Bd5+
+33.Kg1 Ke7 34.Ra7+ Ke6 35.Rc7 Rb5 36.Kf2 Rb3 37.Ke2 Ke5 38.Kd2
+Kd4 39.Kc2 Rb5 40.c6 Rxb6 0-1

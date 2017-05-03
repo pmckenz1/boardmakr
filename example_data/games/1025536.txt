@@ -1,0 +1,21 @@
+[Event "Kstovo op"]
+[Site "02"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Genba"]
+[Black "Yuri Balashov"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.e4 d6 2.g3 g6 3.Bg2 Bg7 4.Ne2 e5 5.O-O Nd7 6.c3 Ngf6 7.d4
+O-O 8.f4 Re8 9.Qc2 Qe7 10.Nd2 b6 11.fxe5 dxe5 12.Nb3 a5 13.a4
+Ba6 14.d5 Nc5 15.Nxc5 Qxc5+ 16.Kh1 c6 17.dxc6 Rad8 18.Rf3 Qxc6
+19.Bg5 Rd6 20.Bxf6 Bxf6 21.Ng1 Red8 22.Qf2 Kg7 23.b4 Rd2
+24.Qe3 R8d3 25.Qe1 Qxc3 26.Rxd3 Rxd3 27.Bf1 Bb7 28.bxa5 bxa5
+29.Bxd3 Qxd3 30.h4 Bxe4+ 31.Kh2 Bc6 32.Qf2 Qd5 33.Ne2 Be7
+34.Nc3 Qd3 35.Nb5 Bc5 36.Qb2 Qf3 37.Qxe5+ Kg8 38.Qb8+ Bf8
+39.Rg1 Qf2+ 0-1

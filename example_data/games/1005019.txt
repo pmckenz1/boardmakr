@@ -1,0 +1,22 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Michael Hoffmann"]
+[Black "Olli Salmensuu"]
+[ECO "C03"]
+[WhiteElo "2405"]
+[BlackElo "2445"]
+[PlyCount "81"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Bd3 c5 5. dxc5 Nf6 6. exd5
+Qxd5 7. Ngf3 Qxc5 8. O-O Nbd7 9. Qe2 a6 10. Ne4 Qc7 11. Bg5
+Nxe4 12. Qxe4 Nc5 13. Qe3 Nxd3 14. cxd3 Bxg5 15. Nxg5 Bd7
+16. Rac1 Bc6 17. Nf3 Qe7 18. Ne5 Bd5 19. Rc5 O-O 20. Rfc1 Qd6
+21. h4 f6 22. Nc4 Qd8 23. Nd2 Qe8 24. Rc7 Rf7 25. Ne4 Rxc7
+26. Rxc7 Rd8 27. Qg3 Qg6 28. Qxg6 hxg6 29. a3 a5 30. Kf1 e5
+31. g3 Bc6 32. Nc5 Bf3 33. Ke1 b6 34. Rd7 Rc8 35. Ne6 Rc2
+36. Rxg7+ Kh8 37. Rxg6 f5 38. Ng5 Bc6 39. Nf7+ Kh7 40. Nxe5
+Be8 41. Rxb6 1-0

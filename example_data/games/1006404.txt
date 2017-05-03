@@ -1,0 +1,16 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.12"]
+[EventDate "2000.03.03"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Evgeny Pigusov"]
+[Black "Viktor Bologan"]
+[ECO "E63"]
+[WhiteElo "2610"]
+[BlackElo "2589"]
+[PlyCount "24"]
+
+1. Nf3 Nf6 2. g3 g6 3. c4 Bg7 4. Bg2 d6 5. d4 O-O 6. O-O Nc6
+7. Nc3 a6 8. h3 Bd7 9. e4 e5 10. dxe5 dxe5 11. Be3 Qc8 12. Kh2
+Be6 1/2-1/2

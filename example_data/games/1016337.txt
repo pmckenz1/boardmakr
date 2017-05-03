@@ -1,0 +1,17 @@
+[Event "Linares 5th"]
+[Site "Linares ESP"]
+[Date "1985.03.19"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Jan Timman"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Bc5 4.Nf3 c6 5.Nc3 Qe7 6.d3 h6 7.e3
+Bb6 8.Be2 Nf6 9.O-O O-O 10.b3 d5 11.cxd5 cxd5 12.Nb5 Rd8
+13.Ba3 Qe6 14.Qc1 Nc6 15.Bc5 Ne8 16.Bxb6 axb6 17.Qb2 Bd7
+18.Rfe1 Ne7 1/2-1/2

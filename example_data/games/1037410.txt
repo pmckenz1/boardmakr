@@ -1,0 +1,22 @@
+[Event "14, Wijk aan Zee"]
+[Site "Wijk aan Zee NED"]
+[Date "1970.01.29"]
+[EventDate "?"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Lawrence Day"]
+[Black "Petar Smederevac"]
+[ECO "A92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.Nf3 e6 2.g3 f5 3.Bg2 Nf6 4.O-O Be7 5.d4 O-O 6.c4 d5 7.Qc2 c6
+8.Nbd2 Bd7 9.Ne5 Be8 10.Ndf3 Ne4 11.Ne1 Nd7 12.Nxd7 Qxd7
+13.Nd3 Bd6 14.Bf4 Rc8 15.Bxd6 Nxd6 16.c5 Nf7 17.Qc3 Qc7 18.f3
+Bd7 19.Rae1 Rce8 20.e4 b6 21.exf5 exf5 22.f4 bxc5 23.dxc5 Bc8
+24.Nb4 Nh6 25.h3 a5 26.Nc2 Kh8 27.Rxe8 Rxe8 28.Re1 Rxe1+
+29.Qxe1 Ng8 30.Qe8 Bd7 31.Qf8 Qb7 32.b3 a4 33.b4 a3 34.Qd8 g6
+35.Kh2 h5 36.Qa5 h4 37.Qxa3 Nf6 38.Qe3 hxg3 39.Qxg3 Kg7 40.Qe3
+Kf7 41.a3 Qb8 42.Qe5 Qh8 43.Kh1 Qh4 44.b5 Qf2 45.bxc6 Ne4
+46.cxd7 Ng3+ 1/2-1/2

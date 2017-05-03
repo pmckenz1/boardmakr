@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Efim Geller"]
+[Black "Oleg Romanishin"]
+[ECO "C95"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1
+Bf8 14.Ng3 g6 15.a4 c5 16.d5 Nb6 17.Qe2 Nxa4 18.Bxa4 bxa4
+19.Rxa4 Bc8 20.Bg5 h6 21.Be3 Rb8 22.Rea1 Nh7 23.Qc2 h5 24.Nd2
+Be7 25.Nc4 Bg5 26.Qd2 h4 27.Nf1 Kg7 28.Nxd6 Qxd6 29.Bxg5 Nxg5
+30.Qxg5 Rxb2 31.Qxh4 Qb6 32.Qg5 Rb1 33.Qd2 Bd7 34.R4a2 Rb8
+35.c4 Qb3 36.Rxb1 Qxb1 37.Qc2 Qe1 38.Qe2 Qxe2 39.Rxe2 Rb4
+40.Rc2 Ba4 41.Rc1 a5 42.Nd2 f5 43.Ra1 fxe4 44.Ra2 Kf8 45.Kf1
+Bd1 46.Rxa5 Bc2 47.Ke2 Ke7 48.Ke3 Kd6 49.Nxe4+ 1-0

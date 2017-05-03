@@ -1,0 +1,17 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.31"]
+[EventDate "1905.08.14"]
+[Round "16"]
+[Result "1-0"]
+[White "Leo Fleischmann Forgacs"]
+[Black "Benjamin Leussen"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. c3 Be7 6. Qb3 Ngf6
+7. Bxf7+ Kf8 8. Ng5 Nb6 9. dxe5 Nfd5 10. Ne6+ Bxe6 11. Bxe6
+Bg5 12. f4 Nxf4 13. O-O dxe5 14. g3 Qf6 15. gxf4 exf4 16. Na3
+h5 17. Be3 f3 18. Bc5+ Ke8 19. Bf5 1-0

@@ -1,0 +1,26 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1899.06.05"]
+[EventDate "1899.05.30"]
+[Round "5"]
+[Result "0-1"]
+[White "Francis Joseph Lee"]
+[Black "Joseph Henry Blackburne"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.d4 {Notes by Blackburne.} c5 {One of those eccentricities
+which occasionally I endulge in, but not recommended to the
+student. The correct reply to it is d5.} 2.e3 Nf6 3.Nf3 cxd4
+4.exd4 g6 5.Bd3 Bg7 6.c3 d6 7.h3 {Lost time. There is no
+danger from Bg4.} O-O 8.O-O Nc6 9.Bf4 Nd5 10.Bd2 e5 11.Be4 Nb6
+12.Bg5 f6 13.Bxc6 fxg5 14.Bb5 g4 {Black has now the superior
+game.} 15.hxg4 Bxg4 16.Be2 e4 17.Ne1 Be6 18.Nd2 d5 19.Bg4 Qd7
+20.Bxe6+ Qxe6 21.Nc2 Bh6 22.Ne3 Rf4 {This is what I relied
+on. It prevents Qg4, and also threatens Rh4.} 23.Nb3 {If 24.g3
+then follows ...Qh3 25.Re1 (If gxf4 then ...Bxf4, and when
+White plays Ng4 to save mate ...h5 wins easily.) Rxf2 26.Kxf2
+Qh2+ 27.Ng2 Rf8+ and White has no escape.} Raf8 24.Nc5 Qc8
+25.Qe2 Rh4 26.Rfc1 Bxe3 27.Qxe3 Qg4 28.Qg3 Qh5 29.f3 exf3 0-1

@@ -1,0 +1,20 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Arnold Zakharchenko"]
+[Black "K Ivanov"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 c6 5. Qc2 Nbd7 6. O-O Bd6
+7. d4 O-O 8. b3 Re8 9. Bb2 dxc4 10. bxc4 e5 11. e3 exd4
+12. exd4 c5 13. Nc3 a6 14. Rfe1 Rxe1+ 15. Rxe1 Rb8 16. Nd5
+Nxd5 17. cxd5 cxd4 18. Bxd4 Nf8 19. Qb2 f6 20. Ba7 Ra8 21. Bb6
+Qd7 22. Nd4 Qf7 23. Ba5 Rb8 24. Qb6 Be5 25. Nf3 Bg4 26. Nxe5
+fxe5 27. h3 Nd7 28. Qd6 Rf8 29. f4 Bh5 30. g4 Qxf4 31. Qxd7
+Qf2+ 32. Kh1 Qxa2 33. Bb4 Ra8 34. gxh5 Qb3 35. Qe6+ Kh8 1-0

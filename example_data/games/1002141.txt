@@ -1,0 +1,42 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.04"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "John Washington Baird"]
+[Black "James Mason"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "146"]
+
+1.e4 {Notes by Steinitz.} e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7
+5.Nc3 d6 6.h3 O-O 7.d3 Ne8 8.Nd5 f5 9.Nxe7+ Qxe7 10.Bg5 Qf7
+11.Bc4 Be6 12.Bxe6 Qxe6 13.exf5 Qxf5 14.Bd2 Qh5 15.Ng5 Qg6
+16.f4 exf4 17.Rxf4 Rxf4 18.Bxf4 h6 19.Nf3 Qf7 20.Qd2 Nf6 21.a3
+{The game has been quite evenly contested so far, but the
+useless advance in the text causes him embarrasment in the
+ending.} Nh5 22.Be3 Re8 23.Qf2 a6 24.Re1 Ne5 25.Nxe5 Rxe5
+26.Qxf7+ Kxf7 27.Bf2 Rxe1+ 28.Bxe1 {A draw ought to be the
+legitimate result arising from this position.} Nf4 29.Kf2 Ne6
+30.Ke3 d5 31.Bg3 Kf6 32.d4 Kf5 33.Be5 h5 34.g3 {It would have
+probably facilitated his playing for a draw if he had not
+advanced this Pawn.} g5 35.Kf3 g4 36.hxg4+ hxg4 37.Ke3 c5
+38.c3 c4 39.Bd6 Kf6 40.Bf4 Ke7 41.Be5 Kd7 42.Kd2 Kc6 43.Kc2
+Ng5 44.Kd2 Kd7 45.Ke3 Ne6 46.Kd2 Kc6 47.Kc2 Kb5 48.Bd6 Ka4
+49.Be7 a5 50.Bd6 Ng5 51.Bf4 Ne4 52.Be5 Nf2 53.Bd6 b5 54.Bc7
+Ne4 55.Be5 b4 56.axb4 axb4 57.cxb4 Kxb4 58.Bf4 Ka4 59.Be5 Kb5
+60.Bf4 Kc6 61.Be5 Kd7 62.Bf4 {He allows himself to be wearied
+by the patient manouvering of his clever opponent. If he had
+looked out as shrp as he had done through the greater part of
+the game, he would have seen the importance of trying to
+exchange the isolated b-pawn at once in order to be in time to
+stop the adversary's King from entering at e4. 62.b3 cxb3+
+63.Kxb3 Nf2 64.Kc2 Ke6 65.Kd2 Kf5 66.Ke3 would have brought
+White's King up for the defence of the center in proper time.}
+Ke6 63.Be5 Kf5 64.b3 cxb3 65.Kxb3 Nf2 66.Ka4 Ke4 67.Kb5 Nd3
+68.Bf6 Kf3 69.Be5 Ke4 70.Bf6 Nc1 {After a delay of one move
+Black sees the decisive effect of this fine coup.} 71.Kb4 {No
+help for it. If Kc5, Black would answer Nb3+.} Ne2 72.Kc5 Nxg3
+73.Be5 Ne2 0-1

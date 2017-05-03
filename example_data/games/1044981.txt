@@ -1,0 +1,22 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1942.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Salomon Flohr"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 h5 5.h3 Nxe5 6.Be3 Nbc6 7.Nc3
+Bb4 8.Qd2 d6 9.f4 Ng6 10.Nf3 Qe7 11.Bd3 f5 12.exf5 Nxf4
+13.O-O-O Bxc3 14.bxc3 Nxd3+ 15.Qxd3 Bd7 16.Rhe1 O-O-O 17.Bg5
+Qf7 18.Bxd8 Rxd8 19.g4 Na5 20.Qd5 Qxd5 21.cxd5 Rf8 22.Re7 g6
+23.fxg6 hxg4 24.g7 Rg8 25.Rf7 Be8 26.Rf8 Rxg7 27.Rxe8+ Kd7
+28.Re3 gxf3 29.Rxf3 Nc4 30.Rdf1 Ne5 31.Re3 Rh7 32.Rf4 c6 33.c4
+Kc7 34.Kc2 Kb6 35.dxc6 bxc6 36.Kc3 Kc5 37.h4 Rb7 38.Rg3 a6
+39.h5 Rh7 40.Rg5 a5 41.Rf6 Rb7 42.h6 Rb1 43.Rh5 Rc1+ 44.Kd2
+Ra1 45.h7 1-0

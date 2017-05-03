@@ -1,0 +1,20 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.22"]
+[EventDate "1926.03.07"]
+[Round "12"]
+[Result "1-0"]
+[White "Walter Michel"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "D60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Nbd7 5. e3 Be7 6. Nc3 O-O
+7. Bd3 b6 8. cxd5 exd5 9. O-O Bb7 10. Bh4 Ne4 11. Bxe7 Qxe7
+12. Rc1 c5 13. Bb5 Ndf6 14. dxc5 a6 15. Be2 bxc5 16. Qb3 Rfe8
+17. Na4 Rac8 18. h3 g5 19. Rfd1 h5 20. Nh2 Rc7 21. Bf3 Rec8
+22. Nc3 Qe5 23. Bxe4 dxe4 24. Rd2 g4 25. hxg4 hxg4 26. Nf1 Kg7
+27. Ng3 Nh5 28. Nce2 Nf6 29. Nf4 Nd5 30. Ngh5+ Kh6 31. Nxd5
+Kxh5 32. Nxc7 Qxc7 33. Rcd1 Bc6 34. Rd7 Bxd7 35. Qxf7+ 1-0

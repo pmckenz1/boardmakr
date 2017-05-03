@@ -1,0 +1,21 @@
+[Event "Olympiad"]
+[Site "Moscow URS"]
+[Date "1956.09.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "William Dunphy"]
+[Black "Julio Bolbochan"]
+[ECO "B91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2
+Be7 8.Bg2 O-O 9.O-O Be6 10.Nd5 Nxd5 11.exd5 Bg4 12.b3 Nd7
+13.Qd2 Rc8 14.a4 f5 15.f4 Bf6 16.Ra2 Bxe2 17.Qxe2 exf4 18.Bxf4
+Re8 19.Qd1 Bc3 20.Bd2 Qa5 21.Bxc3 Qxc3 22.Qf3 g6 23.Qxc3 Rxc3
+24.Rf3 Rc7 25.c4 a5 26.h3 Nc5 27.g4 fxg4 28.hxg4 Rf7 29.Rxf7
+Kxf7 30.Kf2 Kf6 31.Bf3 Nxb3 32.Rb2 Nc5 33.Rb5 Ra8 34.Ke3 Ke5
+35.Bd1 h6 36.Bc2 Rf8 37.Bxg6 Rf4 38.Bf5 Rxc4 39.Rxa5 h5 40.Bd3
+Rc3 0-1

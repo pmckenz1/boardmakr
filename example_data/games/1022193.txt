@@ -1,0 +1,20 @@
+[Event "Ch Hungary (open)"]
+[Site "Gyor HUN"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Vasilievich Alexeev"]
+[Black "Alexander Baburin"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Bc4 Nb6 5.Bb3 Nc6 6.Nf3 Bf5
+7.d4 e6 8.O-O Be7 9.Re1 O-O 10.Bf4 Na5 11.Qe2 c6 12.Ne4 Nd5
+13.Bg3 Nf6 14.Nc5 Nxb3 15.axb3 b6 16.Nd3 Qc8 17.Nde5 c5 18.c3
+Be4 19.dxc5 Bxc5 20.Ng4 Nxg4 21.Qxe4 Nf6 22.Qa4 a5 23.Rad1 Rd8
+24.Ne5 Qb7 25.Bh4 Rxd1 26.Rxd1 b5 27.Qf4 Nd5 28.Qf3 Bd6 29.Ng4
+Qc7 30.Ne3 Nb6 31.Qh5 Bxh2+ 32.Kh1 Qe5 33.Qf3 g5 34.Ng4 Qg7
+35.Nf6+ Kh8 36.Qxa8+ 1-0

@@ -1,0 +1,24 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.06.09"]
+[EventDate "1900.??.??"]
+[Round "12.2"]
+[Result "1-0"]
+[White "Leon Rosen"]
+[Black "James Mason"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 Nf6 5.O-O fxe4 6.dxe4 d6 7.Qd3
+Be7 8.Qc4 a6 9.Bxc6+ bxc6 10.Rd1 Bd7 11.Nc3 Qc8 12.Ng5 Rf8
+13.f4 exf4 14.Bxf4 Nh5 15.Be3 h6 16.Nf3 a5 17.a4 Rb8 18.Nd4 c5
+19.Ndb5 Be6 20.Qxe6 Qxe6 21.Nxc7+ Kd7 22.Nxe6 Kxe6 23.Nb5 Rb7
+24.Bd2 Ra8 25.Ra3 Nf6 26.Re3 Ne8 27.Bc3 Bf6 28.Bxf6 gxf6
+29.Rh3 Rh7 30.Rd5 Rg7 31.Kf2 Rg5 32.c4 Rxd5 33.exd5 Ke5
+34.Rxh6 Ng7 35.Rh7 Nf5 36.g4 Nd4 37.Re7+ Kf4 38.Nxd6 Kxg4
+39.Re4+ Kg5 40.h4+ Kg6 41.Rg4+ Kh5 42.Rf4 Kg6 43.Rxd4 cxd4
+44.c5 Rb8 45.Nb5 Kf5 46.c6 Ke5 47.d6 Rh8 48.d7 Ke6 49.Nxd4+
+Kd6 50.Kf3 f5 51.h5 Rb8 52.h6 Rh8 53.Kf4 Rf8 54.h7 Rh8 55.Kxf5
+Kc7 56.Ne6+ 1-0

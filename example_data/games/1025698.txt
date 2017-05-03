@@ -1,0 +1,19 @@
+[Event "1st World Team Ch"]
+[Site "Lucerne SUI"]
+[Date "1985.11.20"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Gerardo F Barbero"]
+[Black "Dieter Keller"]
+[ECO "D23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "56"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Qa4+ Nc6 5.Qxc4 Bf5 6.Bg5 e6
+7.Nbd2 Bb4 8.e3 O-O 9.Be2 e5 10.dxe5 Bxd2+ 11.Nxd2 Nxe5 12.Qc3
+Re8 13.e4 Nd5 14.Bxd8 Nxc3 15.bxc3 Raxd8 16.exf5 Nd3+ 17.Kf1
+Nf4 18.Bb5 Re5 19.Nb3 Rxb5 20.g3 Nd3 21.g4 c5 22.Kg2 c4 23.Nd4
+Rb2 24.Rhf1 g5 25.fxg6 hxg6 26.Rab1 Rxb1 27.Rxb1 Rxd4 28.cxd4
+c3 0-1

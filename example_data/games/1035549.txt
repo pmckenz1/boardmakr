@@ -1,0 +1,26 @@
+[Event "It (open)"]
+[Site "Estes Park (USA)"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Walter Shawn Browne"]
+[Black "Dimitri Gurevich"]
+[ECO "A70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Bf4
+a6 8.a4 Bg7 9.e4 Bg4 10.Be2 Bxf3 11.Bxf3 Qe7 12.O-O Nbd7 13.a5
+O-O 14.Re1 Rfd8 15.Na4 Rab8 16.Rb1 Ne5 17.Bxe5 Qxe5 18.b4 cxb4
+19.Rxb4 Rdc8 20.Qb1 Rc7 21.Nb6 Nd7 22.Nxd7 Rxd7 23.Rc1 h5
+24.g3 Bh6 25.Rc2 Qf6 26.Be2 Qd8 27.Rb6 Bg7 28.Qb4 Rc8 29.Rxc8
+Qxc8 30.Bxa6 Qc1+ 31.Bf1 Bc3 32.Qc4 Qd2 33.Qc8+ Kg7 34.Rb3 Bd4
+35.Rf3 Re7 36.Qd8 Rxe4 37.Qd7 Bf6 38.Qxd6 Qb2 39.Qa3 Qxa3
+40.Rxa3 Rd4 41.Rb3 Rxd5 42.Rxb7 Rxa5 43.Bc4 Bd4 44.Rxf7+ Kh6
+45.Rd7 Ba7 46.Rd6 Kg7 47.Bd3 Ra2 48.Rxg6+ Kf7 49.Bc4+ Kxg6
+50.Bxa2 h4 51.Kg2 hxg3 52.hxg3 Kf6 53.f4 Be3 54.Kf3 Bc1 55.g4
+Bd2 56.g5+ Kg7 57.Kg4 Bc1 58.f5 Bb2 59.Bc4 Bc3 60.Bd3 Bd4
+61.Kf3 Bc3 62.Bb1 Bb2 63.Bc2 Bc3 64.Ke3 Bb2 65.Kd3 Ba3 66.f6
+Kf7 67.Bb1 Bb2 1/2-1/2

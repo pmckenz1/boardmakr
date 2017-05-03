@@ -1,0 +1,24 @@
+[Event "Ch Amateur Team, Parsippany (USA)"]
+[Site "Ch Amateur Team, Parsippany (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Eric C Johnson"]
+[Black "Anjelina Belakovskaia"]
+[ECO "D47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. dxe6
+cxd3 13. exf7+ Kxf7 14. Qb3+ Ke8 15. Ng5 Qe7 16. Nd5 Nc5
+17. Qd1 Qd8 18. b4 Nxd5 19. exd5 Qxd5 20. Qg4 Qxg2+ 21. Qxg2
+Bxg2 22. Re1+ Kd7 23. Kxg2 Na4 24. Bd2 Be7 25. Nf7 Bf6
+26. Nxh8 Bxa1 27. Rxa1 Rxh8 28. Re1 Re8 29. Rxe8 Kxe8 30. Kf3
+Kd7 31. Ke3 Ke6 32. Kxd3 Kd5 33. Bc1 g6 34. f3 Ke5 35. h3 Nb6
+36. Be3 Nd5 37. a3 Nf4+ 38. Kd2 Nxh3 39. Bh6 Nf4 40. Ke3 Nd5+
+41. Kd3 Nb6 42. Kc3 Kd5 43. Bc1 Nc4 44. Kd3 h5 45. f4 h4
+46. Ke2 Ke4 47. Kf2 Kf5 48. Kf3 Nb6 49. Bd2 Nd5 50. Bc1 h3
+51. Kg3 Nxf4 0-1

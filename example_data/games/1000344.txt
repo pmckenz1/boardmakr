@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.03"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Julian Michael Hodgson"]
+[Black "Anton Paolo C del Mundo"]
+[ECO "D00"]
+[WhiteElo "2659"]
+[BlackElo "2267"]
+[PlyCount "51"]
+
+1. d4 d5 2. Bg5 Nd7 3. c4 c6 4. cxd5 cxd5 5. Nc3 Ngf6 6. e3
+Ne4 7. Bf4 Ndf6 8. Bd3 e6 9. Nf3 Bd6 10. Ne5 O-O 11. O-O a6
+12. Rc1 Nxc3 13. Rxc3 Qe7 14. Bg5 h6 15. Bh4 g5 16. Bg3 Bd7
+17. f4 Bb5 18. fxg5 hxg5 19. Bxb5 axb5 20. Rxf6 Qxf6 21. Nd7
+Qf5 22. Bxd6 Rfd8 23. e4 dxe4 24. Rc5 Qg6 25. Ne5 Qg7 26. Nxf7
+1-0

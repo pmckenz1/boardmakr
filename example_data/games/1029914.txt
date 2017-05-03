@@ -1,0 +1,23 @@
+[Event "06"]
+[Site "?"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert Kuczynski"]
+[Black "Pavel Blatny"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 h6 4.O-O d6 5.c3 Qf6 6.d3 Nge7 7.Be3
+g5 8.d4 Ng6 9.Bb5 a6 10.Qa4 Bd7 11.d5 Nb8 12.Bxd7+ Nxd7 13.c4
+g4 14.Nfd2 h5 15.Nc3 Bh6 16.Rae1 Ke7 17.b4 Rag8 18.c5 Nh4
+19.Kh1 Bf4 20.Bxf4 Qxf4 21.Re3 Qh6 22.Qc2 Ng6 23.c6 bxc6
+24.dxc6 Nf6 25.Nc4 Nf4 26.Rd3 h4 27.Ne3 Rg5 28.Nf5+ Rxf5
+29.exf5 g3 30.h3 Rg8 31.fxg3 Nxd3 32.Qxd3 Rxg3 33.Nd5+ Kf8
+34.Qd1 Ne4 35.Qc2 Re3 36.Nxc7 Re2 37.Ne6+ Ke7 38.Qc1 Ng3+
+39.Kg1 Rd2 40.Re1 fxe6 41.c7 Qf4 42.Qc6 Qf2+ 43.Kh2 Qxe1
+44.Qe8+ Kxe8 45.c8=Q+ Ke7 46.Qxe6+ Kd8 47.Qf6+ Kc7 48.Qe7+ Kc6
+49.Qe8+ Kd5 0-1

@@ -1,0 +1,21 @@
+[Event "Simul, 30b"]
+[Site "Sarajevo YUG"]
+[Date "1931.01.14"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "T Krespi"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3
+Bd6 7. Bg5 h6 8. Be3 b6 9. Bb5 Bb7 10. Qe2 a6 11. Bd3 Qe7
+12. O-O-O b5 13. Nd2 O-O 14. Nde4 Bd5 15. Kb1 Rfb8 16. Nxd6
+cxd6 17. Bf4 Nb6 18. Nf5 Qd7 19. Nxd6 Qc6 20. f3 Nh5 21. Qe3
+Nc4 22. Nxc4 bxc4 23. Bxb8 cxd3 24. Rxd3 Rxb8 25. b3 Nf6
+26. Rc1 Bc4 27. Rd2 Nd5 28. Qe5 Qb6 29. Ka1 f6 30. Qe1 Nc3
+31. Rf2 Nd5 32. Qd2 a5 33. c3 Ba6 34. c4 Nb4 35. Re2 a4
+36. bxa4 Qc6 37. Qc3 Nd5 38. Qd3 Rb4 39. cxd5 0-1

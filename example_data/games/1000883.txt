@@ -1,0 +1,23 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.19"]
+[EventDate "1911.08.21"]
+[Round "22"]
+[Result "1/2-1/2"]
+[White "Hans Fahrni"]
+[Black "Oldrich Duras"]
+[ECO "A30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.c4 c5 2.g3 e6 3.Nf3 d5 4.Bg2 d4 5.O-O Nc6 6.d3 Bd6 7.e4 Nge7
+8.Ne1 e5 9.f4 g6 10.fxe5 Nxe5 11.Nd2 N7c6 12.Ndf3 Ng4 13.e5
+Ngxe5 14.Nxe5 Nxe5 15.Bh6 Ng4 16.Qd2 Qe7 17.Nc2 Nxh6 18.Qxh6
+Be6 19.a3 O-O-O 20.Qd2 h5 21.b4 h4 22.bxc5 Bxc5 23.Rab1 b6
+24.Nb4 hxg3 25.hxg3 Qc7 26.Qf2 Bd6 27.Qf3 Bxg3 28.Na6 Bh2+
+29.Kh1 Bd6 30.Kg1 Bh2+ 31.Kh1 Bf4 32.Kg1 Be3+ 33.Rf2 Bxf2+
+34.Kxf2 Bd5 35.Qf6 Qd6 36.Qxd6 Rxd6 37.cxd5 Re8 38.Bh3+ Kd8
+39.Nb4 Re3 40.Bg2 Rf6+ 41.Kg1 Rf4 42.Rb2 a5 43.Nc6+ Kc7 44.Rc2
+Kd6 45.Na7 Rxd3 46.Nb5+ Kd7 47.Rc7+ Kd8 48.d6 Rf6 49.Rb7 Rd1+
+50.Kh2 Rd2 51.Kg3 Rxg2+ 52.Kxg2 d3 53.Rb8+ 1/2-1/2

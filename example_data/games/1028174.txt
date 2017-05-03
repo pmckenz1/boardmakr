@@ -1,0 +1,33 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.10"]
+[EventDate "1895.08.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Henry Edward Bird"]
+[Black "Emanuel Lasker"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.f4 {Notes by Blackburne} e5 2.fxe5 d6 3.exd6 Bxd6 4.g3 {One
+of Bird's innovations, but not so strong as the usual move
+Nf3.} f5 {h5 may also be played with advantage.} 5.d3 Nf6 6.c3
+Nc6 7.Bg2 Ne5 8.Nd2 Qe7 9.Nf1 Bd7 10.Bf4 {Perhaps White is
+right in not taking the b-pawn, as it would lose time, and
+still further weaken his position.} O-O 11.Bxe5 Bxe5 12.Qc2
+Kh8 13.Bf3 {Castling would certainly have been better, but
+even then his position would not be easy.} Rab8 14.Qd2 Rfe8
+15.h3 {White's last two moves have not in anyway improved his
+position; if anything, the reverse.} Qd6 16.Kf2 c5 17.e3 Bb5
+{An awkward move to parry, and there does not appear any
+better defence than the one selected.} 18.Rd1 Rbd8 19.c4 Bc6
+20.Qe2 b5 21.b3 bxc4 22.bxc4 Ba4 23.Rb1 Rb8 24.Nd2 {White's
+position is now hopeless. Mr. Lasker's play throughout the
+whole of this game is characterised by his usual correctness
+and force, but who would recognise Mr. Bird's play? He
+evidently was out of form this day, or it may be this opening
+is not suited to his attacking style.} Bxg3+ 25.Kg2 Bh4 26.Rh2
+Bc2 27.Rxb8 Rxb8 28.d4 cxd4 29.exd4 Re8 30.Qf1 Re1 31.c5 Qxd4
+32.Qxe1 Bxe1 33.Nb3 Bxb3 34.axb3 Qxc5 0-1

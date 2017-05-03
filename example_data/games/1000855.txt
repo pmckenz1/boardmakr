@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.16"]
+[EventDate "1911.08.21"]
+[Round "20"]
+[Result "0-1"]
+[White "Oscar Chajes"]
+[Black "Erich Cohn"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 d5 2.Nf3 c5 3.dxc5 e6 4.e4 Bxc5 5.exd5 exd5 6.Bb5+ Nc6
+7.O-O Ne7 8.b4 Bxb4 9.Bb2 O-O 10.Nd4 Bc5 11.Nb3 Bb6 12.Nc3 Be6
+13.Ne2 Ng6 14.Kh1 Qh4 15.f4 Bg4 16.f5 Bc7 17.g3 Bxg3 18.Nxg3
+Bxd1 19.Raxd1 Nge5 20.Rxd5 Ng4 21.Rd2 Rad8 22.Bd3 Rfe8 23.f6
+g6 24.Nc5 Ne3 25.Rg1 Nc4 26.Nf5 Qf4 27.Ne7+ Nxe7 28.Ne6 Qf3+
+29.Rdg2 Rxd3 30.Ng5 Qxg2+ 31.Kxg2 Rd2+ 32.Kh3 Nf5 0-1

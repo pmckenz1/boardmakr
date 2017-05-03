@@ -1,0 +1,27 @@
+[Event "Cup Russia"]
+[Site "St. Petersburg RUS"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Victor Bakhrakh"]
+[Black "Alisa Galliamova"]
+[ECO "B26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 Qa5 7.Qd2
+Nd4 8.f4 Nf6 9.h3 O-O 10.g4 Ne8 11.Nf3 Nc7 12.O-O f5 13.gxf5
+gxf5 14.Rf2 Bd7 15.Nd1 Qxd2 16.Rxd2 fxe4 17.dxe4 Nce6 18.f5
+Nxf3+ 19.Bxf3 Nd4 20.Bg2 Rad8 21.Nf2 Nc6 22.Rb1 Bc8 23.b3 e6
+24.Bg5 Rde8 25.f6 Bxf6 26.Bxf6 Rxf6 27.Rxd6 Ne5 28.Rbd1 Ref8
+29.R1d2 b6 30.Ng4 Nxg4 31.hxg4 e5 32.Rxf6 Rxf6 33.g5 Rf8
+34.Rd5 Re8 35.Kf2 Kg7 36.Rd6 Re7 37.Ke3 Be6 38.a4 Bf7 39.Bh3
+Rc7 40.Bf5 c4 41.b4 c3 42.Be6 Bxe6 43.Rxe6 Rc4 44.Rxe5 Rxb4
+45.Re7+ Kg6 46.Rxa7 Kxg5 47.Rxh7 Rxa4 48.Rf7 Ra1 49.Rf5+ Kg4
+50.Rb5 Re1+ 51.Kd3 Kf4 52.Rf5+ Kg4 53.Rf6 b5 54.Rb6 Kf4
+55.Rxb5 Rd1+ 56.Kxc3 Kxe4 57.Rh5 Rd8 58.Kc4 Rd4+ 59.Kb5 Rd8
+60.c4 Rb8+ 61.Kc5 Rc8+ 62.Kb4 Rb8+ 63.Rb5 Rd8 64.Rb7 Ke5
+65.Kb5 Kd6 66.c5 Kd5 67.Kb6 Ke6 68.Rh7 Rb8+ 69.Kc7 Ra8 70.Kb7
+Ra2 71.c6 Kd6 72.Rh6+ 1-0

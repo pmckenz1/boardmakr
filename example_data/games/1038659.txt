@@ -1,0 +1,17 @@
+[Event "It (open)"]
+[Site "Chicago (USA)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Gregory Kaidanov"]
+[Black "Nick DeFirmian"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.dxc5 Nxe4 5.cxd6 Nxd6 6.Nc3 Nc6
+7.Bf4 Bg4 8.h3 Bxf3 9.Qxf3 e5 10.Be3 Nd4 11.Bxd4 exd4 12.Nd5
+Qa5+ 13.b4 Qa4 14.Bd3 O-O-O 15.O-O Qc6 16.c4 dxc3 17.Rac1 Nb5
+18.Bxb5 1-0

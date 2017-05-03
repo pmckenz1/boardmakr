@@ -1,0 +1,19 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.14"]
+[EventDate "1920.08.02"]
+[Round "10"]
+[Result "1-0"]
+[White "Jacob Antoni Brekke"]
+[Black "T C Jensen"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 exd4 6.Nxd4 Bd7
+7.Bxc6 bxc6 8.O-O Be7 9.Qf3 O-O 10.e5 dxe5 11.Nxc6 Bxc6
+12.Qxc6 Bd6 13.Bg5 Qe8 14.Qxe8 Nxe8 15.Rad1 Rb8 16.b3 h6
+17.Be3 a6 18.Ne4 f5 19.Nxd6 cxd6 20.f3 Rf6 21.Rd3 Rc8 22.c4 g5
+23.Bd2 f4 24.Bb4 h5 25.Rfd1 Rc6 26.Rd5 g4 27.c5 gxf3 28.cxd6
+Rg6 29.d7 Rxg2+ 30.Kh1 Re6 31.d8=Q 1-0

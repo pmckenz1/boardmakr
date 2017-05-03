@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Cappelle la Grande (France)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Alexander Baburin"]
+[Black "Friso Nijboer"]
+[ECO "E63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O a6 7.Nc3
+Nc6 8.d5 Na5 9.Nd2 c5 10.Qc2 Rb8 11.b3 b5 12.Bb2 Ng4 13.h3 Nh6
+14.e4 e5 15.Ne2 Bd7 16.Rab1 f5 17.f4 Qe7 18.Bc3 Nb7 19.Rbe1
+Rbe8 20.Kh2 g5 21.fxe5 Bxe5 22.Nf3 Bxc3 23.Nxc3 Qg7 24.exf5
+Nxf5 25.Ne4 g4 26.hxg4 Nh6 27.g5 Ng4+ 28.Kg1 Bf5 29.Bh3 Bxe4
+30.Rxe4 Ne3 31.Rxe8 Nxc2 32.Be6+ Kh8 33.Rxf8+ Qxf8 34.Ne1 Qg7
+35.Rf7 Qxf7 36.Bxf7 Nxe1 37.a4 bxc4 38.bxc4 Na5 0-1

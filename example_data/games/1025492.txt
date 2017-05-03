@@ -1,0 +1,23 @@
+[Event "Dortmund op-A"]
+[Site "07"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Udo Lau"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.g3 O-O 7.Bg2
+Re8 8.O-O c6 9.h3 Bf8 10.f4 Na6 11.Nf3 Be6 12.Kh2 Bc4 13.Re1
+Nc7 14.Be3 d5 15.e5 Nd7 16.Nd2 Ba6 17.Nf3 f6 18.exf6 Nxf6
+19.Bd4 Qd7 20.Be5 Rad8 21.Qd2 Ne6 22.Bxf6 gxf6 23.Nh4 Kh8
+24.Rad1 Bd6 25.Bf3 Qf7 26.Be2 Bxe2 27.Rxe2 Qh5 28.Ng2 Nc5
+29.Rde1 Rxe2 30.Rxe2 Re8 31.Rxe8+ Qxe8 32.Qd4 Kg7 33.Ne3 Qe6
+34.b4 Nd7 35.Ncd1 Kf7 36.c3 a5 37.bxa5 Nc5 38.Nf2 Ne4 39.Nxe4
+dxe4 40.Nc4 Bc7 41.Kg2 Bxa5 42.f5 Qe7 43.Nxa5 Qa3 44.Nc4 Qxa2+
+45.Kg1 Qb1+ 46.Kf2 Kg7 47.Nd2 Qc2 48.Ke3 Qc1 49.Kxe4 c5
+50.Qd7+ Kh6 51.Kd3 Qh1 52.Qf7 Qc6 53.Qe6 1-0

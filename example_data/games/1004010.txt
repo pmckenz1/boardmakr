@@ -1,0 +1,27 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "12"]
+[Result "1-0"]
+[White "Ladislav Prokes"]
+[Black "Jakob Adolf Seitz"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Bf5 6. Bd3
+Ne7 7. a3 Bxd3 8. Qxd3 Bd6 9. O-O c6 10. Ne2 Nd7 11. Re1 Qc7
+12. Ng3 O-O-O 13. Ng5 Rdf8 14. Nxh7 Re8 15. Ng5 Nf5 16. Rxe8+
+Rxe8 17. Bd2 Nxg3 18. hxg3 Nf6 19. Re1 Rxe1+ 20. Bxe1 Qe7
+21. Qf5+ Kc7 22. Kf1 Qe8 23. Bd2 c5 24. dxc5 Bxc5 25. Bc3 Qb5+
+26. Kg1 Qe8 27. Qe5+ Kd7 28. Qxe8+ Kxe8 29. Bxf6 gxf6 30. Nh3
+Kd7 31. Kf1 Kc6 32. Ke2 Bd4 33. b3 b5 34. Kd3 Bb2 35. a4 bxa4
+36. bxa4 Kc5 37. Nf4 Be5 38. c3 d4 39. c4 Kb4 40. Ne2 a5
+41. Nxd4 Kxa4 42. Nc6 Bc7 43. Kc3 Bb6 44. f3 f5 45. Ne7 Bc7
+46. f4 Bd6 47. Nxf5 Bb4+ 48. Kc2 Be1 49. g4 Kb4 50. Nd6 a4
+51. Kb2 f6 52. Ne4 Kxc4 53. Ka2 f5 54. gxf5 Kd4 55. Ng5 Ke3
+56. Nh3 Bh4 57. g4 Ke4 58. Ka3 Be1 59. f6 Bc3 60. g5 Kf5
+61. Kxa4 Kg4 62. Kb3 Ba1 63. Kc4 Kxh3 64. Kd5 Kg4 65. Ke6 Kh5
+66. Kf7 1-0

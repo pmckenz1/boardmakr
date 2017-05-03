@@ -1,0 +1,21 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Igor Sitnik"]
+[Black "Branko Lovric"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. d4 b6 2. c4 e6 3. e4 Bb7 4. Nc3 Bb4 5. f3 f5 6. e5 c5 7. a3
+Ba5 8. Be3 Nc6 9. h4 f4 10. Bf2 cxd4 11. Bxd4 Nxd4 12. Qxd4
+Bxc3+ 13. Qxc3 Nh6 14. Bd3 Nf7 15. Ne2 Qc7 16. Nxf4 Rc8
+17. Be2 Nxe5 18. Nd3 Nxd3+ 19. Qxd3 Qg3+ 20. Kf1 O-O 21. Rh3
+Qc7 22. Rd1 d5 23. Qe3 Kh8 24. Rd4 e5 25. Rg4 d4 26. Qd2 b5
+27. cxb5 Qc1+ 28. Qxc1 Rxc1+ 29. Kf2 Bc8 30. Rhg3 Bxg4
+31. Rxg4 Rc2 32. Ke1 Rd8 33. Re4 d3 34. Bd1 Rxb2 35. Rxe5 Rxg2
+36. a4 Rh2 0-1

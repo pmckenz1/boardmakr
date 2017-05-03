@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Philadelphia (USA)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Joel Benjamin"]
+[Black "Ilya M Gurevich"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be2
+Be7 8.O-O Qc7 9.f4 O-O 10.Kh1 Rd8 11.Be3 Nbd7 12.Bf3 Ne5
+13.Ndb5 axb5 14.Nxb5 Qc6 15.fxe5 dxe5 16.Qe2 b6 17.Qf2 Bc5
+18.Bxc5 Qxc5 19.Qe2 Bb7 20.Rfd1 h6 21.h3 Rxd1+ 22.Qxd1 Nxe4
+23.Qe1 Nf2+ 0-1

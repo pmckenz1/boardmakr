@@ -1,0 +1,24 @@
+[Event "London ;HCL 34"]
+[Site "qf"]
+[Date "1849.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Edward Flower"]
+[Black "Elijah Williams"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Qb6 7.b3 cxd4
+8.O-O dxc3 9.Nxc3 Nge7 10.Bf4 Ng6 11.Bg3 Be7 12.Bd3 O-O 13.Rc1
+Rac8 14.Bb1 Ba3 15.Rc2 Nb4 16.Na4 Bxa4 17.Rxc8 Rxc8 18.bxa4
+Nc6 19.Qd3 Be7 20.h4 Nb4 21.Qd2 Nf8 22.h5 h6 23.Bh4 Bxh4
+24.Nxh4 Nc6 25.Rc1 Re8 26.Qf4 Qd4 27.Qxd4 Nxd4 28.Rc7 Rb8
+29.g4 a6 30.Bd3 Nc6 31.f4 Nb4 32.Bb1 Nc6 33.Bd3 Na5 34.f5 Rd8
+35.Nf3 Nd7 36.Kg2 Nb6 37.fxe6 fxe6 38.Re7 Nxa4 39.Rxe6 Nc5
+40.Bf5 Nxe6 41.Bxe6+ Kf8 42.Bf5 d4 43.Bd3 Nc6 44.a3 Ke7 45.Kf2
+Rf8 46.Bf5 Rd8 47.Ke2 Rd5 48.Be4 Rd8 49.Kd3 a5 50.Bxc6 bxc6
+51.Nd2 Ke6 52.Nc4 a4 53.Nb6 Kxe5 54.Nxa4 Ra8 55.Nb6 Rxa3+
+56.Kd2 Ke4 57.Nc4 Ra2+ 58.Kd1 Rg2 59.Na5 d3 60.Nxc6 Ke3 0-1

@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Alexander Zaitsev"]
+[ECO "D34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6
+7. Bg2 Be7 8. O-O O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8
+12. Qb3 Na5 13. Qc2 Nc4 14. Bc1 Nb6 15. b3 Bg4 16. Bb2 Qd7
+17. Rfd1 Rac8 18. Qd3 Bc5 19. a4 a5 20. Rac1 Bh3 21. e3 Bxg2
+22. Kxg2 Ne4 23. Nxe4 dxe4 24. Qb5 Qxb5 25. Nxb5 Bb4 26. Rxc8
+Rxc8 27. Be5 Rc2 28. Rd8+ Kh7 29. g4 f6 30. Bd4 Nc8 31. Rd7
+Kg6 32. h4 h5 33. gxh5+ Kh6 34. Bc3 Nb6 35. Rd8 Kxh5 36. Bxb4
+axb4 37. Nd4 Rc5 38. Rd6 Nc8 39. Rd7 b6 40. Rxg7 Kxh4 41. Rf7
+Rg5+ 42. Kf1 Rg6 43. Rd7 Kg4 44. Rd8 Ne7 45. Rd7 Rg7 46. Ne6
+Rh7 47. Ke2 f5 48. Nf4 Rf7 49. Rb7 Rh7 50. Ng6 Nxg6 51. Rxh7
+1-0

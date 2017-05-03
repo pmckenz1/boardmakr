@@ -1,0 +1,25 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.10"]
+[EventDate "1883.04.26"]
+[Round "9"]
+[Result "1-0"]
+[White "Berthold Englisch"]
+[Black "James Mortimer"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Ne7 5. Nc3 c6 6. Bc4 d5
+7. Bb3 Ng6 8. O-O Bg4 9. h3 Be6 10. exd5 cxd5 11. d4 e4
+12. Ne5 Bd6 13. Bg5 Bc7 14. f3 exf3 15. Ba4+ Kf8 16. Nxf3 h6
+17. Be3 Rc8 18. Ne2 Ne4 19. c3 f5 20. Bc2 Kg8 21. Nd2 Qh4
+22. Qe1 Qe7 23. Nf4 Bxf4 24. Bxf4 Nxf4 25. Rxf4 g5 26. Rf1 h5
+27. Nf3 Rh7 28. h4 gxh4 29. Qxh4 Qxh4 30. Nxh4 Rf8 31. Ng6
+Rff7 32. Nf4 Rh6 33. Bb3 Rd7 34. Nxe6 Rxe6 35. Rxf5 Nf6
+36. Raf1 Kg7 37. Rg5+ Kh6 38. Re5 Red6 39. Rff5 Kg6 40. Bc2
+Kg7 41. Rg5+ Kf8 42. Bf5 Rc7 43. Re6 Rcc6 44. Re2 Rc7 45. Kh2
+b6 46. Kh3 a5 47. Bg6 Rg7 48. Kh4 Kg8 49. Bxh5 Rxg5 50. Kxg5
+Ne4+ 51. Kf4 Kg7 52. Bf3 Rf6+ 53. Ke3 Ng3 54. Re1 Rf5 55. Kd3
+Kf6 56. Re8 Kg5 57. Rg8+ 1-0

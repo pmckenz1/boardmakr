@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1935.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Hans Mueller"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e3 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Be7 5.b3 O-O 6.Bb2 c5 7.cxd5
+Nxd5 8.Nxd5 Qxd5 9.Bc4 Qd8 10.Rc1 Nc6 11.Bc3 b6 12.O-O Bb7
+13.Qe2 Bf6 14.Rfd1 Qe7 15.Ba6 Bxc3 16.dxc3 Bxa6 17.Qxa6 Rad8
+18.Qa4 Rxd1+ 19.Rxd1 Rd8 20.Rxd8+ Qxd8 21.g3 Qd6 22.Qe4 h6
+23.h3 Kh8 24.g4 Qd5 25.Qf4 Kg8 26.c4 Qd7 27.Ne5 Nxe5 28.Qxe5
+1/2-1/2

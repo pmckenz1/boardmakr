@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.07"]
+[EventDate "1920.08.02"]
+[Round "5"]
+[Result "1-0"]
+[White "Heinrich von Hennig"]
+[Black "Anders Larsson"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 b5 6.Bb3 Be7 7.O-O
+d6 8.a4 b4 9.Nd5 Na5 10.Ba2 Nxd5 11.Bxd5 c6 12.Ba2 c5 13.Bd5
+Ra7 14.h3 O-O 15.d3 Be6 16.Bxe6 fxe6 17.Nh2 Nc6 18.c3 Rf6
+19.f4 exf4 20.Bxf4 Rg6 21.Qe2 Bf6 22.Bd2 a5 23.Ng4 Qe8 24.Rf3
+Ne5 25.Nxe5 Bxe5 26.Bf4 Bxf4 27.Rxf4 Rf6 28.Rxf6 gxf6 29.cxb4
+cxb4 30.Qf2 Qd8 31.Qxa7 1-0

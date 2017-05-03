@@ -1,0 +1,21 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Jack Rudd"]
+[Black "Nigel Rodney Davies"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7
+7. O-O d6 8. c4 Nf6 9. Nc3 O-O 10. f4 b6 11. Qf3 Bb7 12. Qh3
+Nbd7 13. Be3 Qc7 14. Rac1 Rac8 15. g4 g6 16. Nd2 Rfe8 17. f5
+exf5 18. exf5 d5 19. fxg6 hxg6 20. Nxd5 Bxd5 21. cxd5 Qxc1
+22. Rxc1 Rxc1+ 23. Nf1 Bc5 24. Kg2 Bxe3 25. Nxe3 Re1 26. Nf1
+Nc5 27. Bc4 R1e4 28. Qc3 Rxg4+ 29. Ng3 Nce4 30. Qf3 b5 31. Bb3
+Kg7 32. Bc2 Nxg3 33. hxg3 Re5 34. Bb3 Rf5 35. Qc3 b4 36. Qd3
+Nh5 37. Qd2 Nxg3 38. Kh3 Nf1 0-1

@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Ivar Bern"]
+[ECO "A90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 e6 4.c4 d5 5.Nh3 Be7 6.O-O O-O 7.b3 c6
+8.Bb2 a5 9.Nc3 Qe8 10.e3 Kh8 11.Qe2 b6 12.f3 Ba6 13.Kh1 b5
+14.Nf4 Bd6 15.cxb5 cxb5 16.Nd3 b4 17.Na4 Qh5 18.Kg1 Ne4
+19.Rfd1 Rf6 20.Bf1 Bxd3 21.Rxd3 Ng5 22.f4 Qxe2 23.Bxe2 Ne4
+24.Rdd1 Rf8 25.Bb5 Ra7 26.Rac1 Nd7 27.Rc6 Ndf6 28.Nc5 Re7
+29.Rc1 Nxc5 30.dxc5 Bc7 31.Ra6 Rb8 32.Bd3 Kg8 33.Ra7 Kf7
+34.Bd4 Bd8 35.Rxe7+ Kxe7 36.Be5 Ra8 37.h3 Ne8 38.g4 g6 39.g5
+Bc7 40.Bd4 Bd8 41.Bb5 Bc7 42.Kf2 h5 43.gxh6 Nf6 44.c6 Rh8
+45.Be5 Bxe5 46.fxe5 Ne4+ 47.Kg2 Nc3 48.c7 1-0

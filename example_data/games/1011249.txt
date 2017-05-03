@@ -1,0 +1,18 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Dinara Khaziyeva"]
+[Black "Julia Luraschi"]
+[ECO "C64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. d3 Nge7 5. c3 O-O 6. O-O d6
+7. Nbd2 a6 8. Ba4 b5 9. Bc2 Bg4 10. Re1 Re8 11. Nf1 d5
+12. exd5 Nxd5 13. h3 Bh5 14. Ng3 Bg6 15. Ng5 Nf4 16. N5e4 Bb6
+17. Qf3 f5 18. Nd2 Qh4 19. Qxc6 Qxg3 20. Qf3 Bxf2+ 21. Kf1
+Bxe1 22. Bb3+ Kh8 23. Qxg3 Bxg3 0-1

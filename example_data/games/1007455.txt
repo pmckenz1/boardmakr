@@ -1,0 +1,19 @@
+[Event "Marienbad"]
+[Site "Marienbad CZE"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "15"]
+[Result "1-0"]
+[White "Karel Opocensky"]
+[Black "August Konrad Haida"]
+[ECO "E76"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 Nc6 6.Nf3 O-O 7.Be2
+Nd7 8.e5 Ncb8 9.O-O c5 10.exd6 exd6 11.d5 Re8 12.Bd3 Nf8
+13.Bd2 Bg4 14.h3 Bxf3 15.Qxf3 f5 16.g4 fxg4 17.hxg4 Nbd7
+18.Kg2 a6 19.Rae1 Qf6 20.g5 Qf7 21.Ne4 Qe7 22.Nf6+ Bxf6
+23.Rxe7 Bxe7 24.Bc3 Bd8 25.Qh3 Re7 26.Qh6 Rf7 27.Re1 Be7
+28.Re6 1-0

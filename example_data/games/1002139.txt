@@ -1,0 +1,29 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.04"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "Dionisio M Martinez"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "173"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.d5 Nd6 7.Nc3
+e4 8.Nd2 Ne5 9.Ndxe4 Nxb5 10.Nxb5 d6 11.f4 Ng6 12.Nd4 f5
+13.Ng3 O-O 14.Qd3 Nh4 15.Be3 Qe8 16.Rae1 Qf7 17.c4 Bf6 18.Re2
+Bd7 19.Rfe1 Rae8 20.Nc2 c5 21.b4 b6 22.b5 Re7 23.a4 Rfe8 24.a5
+bxa5 25.Qa3 a4 26.Qxa4 Bc3 27.Rd1 a5 28.Rd3 Bb4 29.Rf2 Qf6
+30.Qb3 Kf8 31.Rf1 Qg6 32.Rf2 Qf6 33.Qb1 Kg8 34.Qb3 h6 35.Bc1
+Qf7 36.Bb2 Kh7 37.Rd1 Bc8 38.Ra1 Bb7 39.Qd3 Bc8 40.Nf1 Qh5
+41.Nce3 Kg8 42.Nc2 Qg4 43.Ng3 Qg6 44.Qf1 Qf7 45.Qd3 Bd7 46.Nf1
+Qh5 47.Nce3 Qf7 48.g3 Ng6 49.Nc2 Nf8 50.Nd2 Nh7 51.Nb3 Qh5
+52.Qf3 Qf7 53.Nxa5 Bxa5 54.Rxa5 Nf6 55.h3 Ne4 56.Rg2 Bc8
+57.Ra1 g5 58.h4 g4 59.Qa3 Bb7 60.Qd3 Kh7 61.Kh2 Ba8 62.Ne3 Qh5
+63.Re1 Bb7 64.Rge2 Bc8 65.Kg2 Qg6 66.Nf1 Bb7 67.Ba1 Qf7 68.Re3
+Ra8 69.Qc2 Bxd5 70.cxd5 Qxd5 71.Kg1 Ra2 72.Qb3 Qa8 73.Bb2 d5
+74.R3e2 Ra4 75.Qd3 Rd7 76.Nd2 c4 77.Qe3 Rb4 78.Nxe4 dxe4
+79.Ra1 Qd8 80.Qc5 Rxb2 81.Qxf5+ Kg7 82.Qe5+ Qf6 83.Qxf6+ Kxf6
+84.Rxb2 c3 85.Rc2 Rd3 86.b6 Ke7 87.b7 1-0

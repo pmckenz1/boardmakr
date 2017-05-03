@@ -1,0 +1,22 @@
+[Event "New York op 16"]
+[Site "02"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Anatoly Davidovich Machulsky"]
+[Black "Jay R Bonin"]
+[ECO "A43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg4 6.Be2 Bxf3 7.Bxf3
+Bg7 8.O-O O-O 9.Bf4 Nbd7 10.Qd2 Rb8 11.a4 a6 12.a5 b5 13.axb6
+Rxb6 14.b3 c4 15.bxc4 Qc7 16.Be2 Nc5 17.Be3 Nfd7 18.Bd4 Bxd4
+19.Qxd4 Rfb8 20.h4 Qd8 21.h5 Qf8 22.f4 Qg7 23.Qxg7+ Kxg7
+24.hxg6 hxg6 25.Kf2 Rb2 26.Rfc1 g5 27.g3 Rh8 28.Rab1 Rhb8
+29.Ke3 Rxb1 30.Rxb1 Rxb1 31.Nxb1 gxf4 32.gxf4 f5 33.exf5 Kf6
+34.Bg4 a5 35.Kd4 a4 36.Na3 Nb6 37.Nb5 Nbd7 38.Bh3 Kf7 39.Kc3
+Ne4+ 40.Kb4 Ndc5 41.Nd4 Nd2 42.Ne6 Kf6 43.Bg4 a3 44.Kxa3 Nxc4+
+45.Kb4 Ne3 46.Nxc5 dxc5 47.Kxc5 Nxg4 48.d6 1/2-1/2

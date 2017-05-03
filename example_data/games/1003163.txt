@@ -1,0 +1,22 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.22"]
+[EventDate "1905.08.14"]
+[Round "8"]
+[Result "1-0"]
+[White "Arturo Reggio"]
+[Black "John Washington Baird"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Nc3 d6 6. d3 O-O
+7. Ne2 Bg4 8. c3 Nd7 9. Ng3 f5 10. exf5 Bxf5 11. Nxf5 Rxf5
+12. Ba4 Kh8 13. Bc2 d5 14. d4 e4 15. Nd2 Bd6 16. g3 Rg5
+17. Nxe4 dxe4 18. Bxg5 Qxg5 19. Bxe4 Rf8 20. Bc2 Nf6 21. Qd3
+Qh5 22. f3 Qh3 23. Rf2 Ne7 24. Re1 g6 25. Qf1 Qxf1+ 26. Kxf1
+Nfd5 27. c4 Nb4 28. c5 Bxg3 29. hxg3 Nxc2 30. Rxe7 Nxd4
+31. Rxc7 b6 32. cxb6 axb6 33. Kg2 Rf6 34. Rd7 Ne6 35. b4 Ng5
+36. Rc2 Nf7 37. Rcc7 Kg7 38. a4 Kf8 39. Rxf7+ Rxf7 40. Rxf7+
+Kxf7 41. a5 bxa5 42. bxa5 1-0

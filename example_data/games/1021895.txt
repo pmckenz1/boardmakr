@@ -1,0 +1,22 @@
+[Event "San Sebastian rapid"]
+[Site "San Sebastian rapid"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Anatoli Vaisser"]
+[Black "Zurab Azmaiparashvili"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 d6 2.c4 e5 3.Nf3 exd4 4.Nxd4 g6 5.Nc3 Bg7 6.e4 Ne7 7.Be3
+O-O 8.Qd2 Nbc6 9.h4 f5 10.Nxc6 bxc6 11.Bd3 fxe4 12.Bxe4 Be6
+13.Bd4 Bxd4 14.Qxd4 Qe8 15.O-O-O Qf7 16.h5 gxh5 17.c5 Qf4+
+18.Rd2 d5 19.g3 Qf6 20.Qxf6 Rxf6 21.Bd3 Bg4 22.f4 Re6 23.Ne2
+Re3 24.Nd4 a5 25.Rg1 a4 26.Nc2 Re6 27.Nd4 Rf6 28.Re1 Kf8
+29.Bxh7 Ra5 30.Rc2 h4 31.gxh4 Rxf4 32.b4 axb3 33.Nxb3 Raa4
+34.Bd3 Nf5 35.Rh2 Nd4 36.Nxd4 Raxd4 37.Re3 Bh5 38.Rb2 Rf3
+39.Rb8+ Kf7 40.Rxf3+ Bxf3 41.Kc2 Rxh4 42.Rc8 Ke6 43.Rxc7 Ke5
+44.Rxc6 Kd4 45.Bb5 Rh3 46.Kb3 Be2+ 47.Kb4 Bxb5 48.Kxb5 1/2-1/2

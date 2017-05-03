@@ -1,0 +1,24 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1960.04.12"]
+[EventDate "1960.03.29"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Carlos Bielicki"]
+[Black "Erich Eliskases"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "119"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg5 d6 5.e3 O-O 6.Nf3 c6 7.Be2 a6
+8.O-O b5 9.a3 bxc4 10.Bxc4 Nbd7 11.Qe2 Nb6 12.Bd3 h6 13.Bh4
+Nfd5 14.Nxd5 Nxd5 15.Bg3 Qb6 16.Qc2 a5 17.Nd2 Ba6 18.Bxa6 Qxa6
+19.Rfc1 Rfc8 20.Rab1 Qb5 21.Nc4 Nb6 22.Nxb6 Qxb6 23.Qe4 Ra7
+24.h4 h5 25.Bf4 Qb5 26.Bg3 a4 27.f3 c5 28.Bf2 c4 29.Be1 Qf5
+30.Qxf5 gxf5 31.Bc3 d5 32.Kf2 Ra6 33.Rg1 Rg6 34.g3 e6 35.Rg2
+Bf6 36.Re1 Kg7 37.f4 Be7 38.Kf3 Rb8 39.Rh2 Rb3 40.Ra1 f6
+41.Rd2 Kf7 42.Re2 Rg8 43.Rc2 Rgb8 44.Ra2 R8b5 45.Rc1 Bd8
+46.Ke2 Ba5 47.Kd1 Bxc3 48.bxc3 Rb2 49.Rc2 Rb1+ 50.Rc1 R5b2
+51.Rxb1 Rxa2 52.Kc1 Rxa3 53.Kb2 Rb3+ 54.Kc2 Ke7 55.Ra1 a3
+56.Rb1 a2 57.Ra1 Ra3 58.Kb2 Rb3+ 59.Kc2 Ra3 60.Kb2 1/2-1/2

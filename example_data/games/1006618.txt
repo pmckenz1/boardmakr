@@ -1,0 +1,21 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.02"]
+[EventDate "1920.08.02"]
+[Round "1"]
+[Result "1-0"]
+[White "Anton Olson"]
+[Black "Arthur Hakansson"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.d4 e6 2.Nf3 f5 3.c4 Nf6 4.Nc3 Bb4 5.Qb3 c5 6.dxc5 Bxc5 7.Bf4
+d6 8.Rd1 O-O 9.Bxd6 Bxd6 10.c5 Ne4 11.cxd6 Qb6 12.e3 Bd7
+13.Bc4 Qxb3 14.Bxb3 Nc5 15.Bc4 Nc6 16.a3 a5 17.O-O a4 18.Rfe1
+Na5 19.Bb5 Bxb5 20.Nxb5 Rad8 21.Re2 Kf7 22.Rc2 b6 23.Ne5+ Kf6
+24.f4 Nab7 25.Nc4 Nd7 26.h3 h5 27.Kf2 g5 28.g3 Nbc5 29.Nd2 g4
+30.h4 e5 31.Nc4 exf4 32.exf4 Rb8 33.Ne3 Rfc8 34.Kg2 Ne6
+35.Nd5+ Kf7 36.Ndc7 Rb7 37.Re2 Nxc7 38.dxc7 Rcxc7 39.Nd6+ Kf6
+40.Nxb7 Rxb7 41.Rd6+ 1-0

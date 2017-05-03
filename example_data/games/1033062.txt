@@ -1,0 +1,19 @@
+[Event "10s, Alessandria"]
+[Site "10s, Alessandria Hiarcs 7.32"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Darryl K Johansen"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3
+Bxc3+ 7. bxc3 Be6 8. Rb1 Qe7 9. Ne2 O-O-O 10. O-O Qd7 11. Nf4
+Bg4 12. f3 Bf5 13. Bb5 Nge7 14. Nd3 Qd6 15. Nc5 Na5 16. Qe2 b6
+17. Re1 Nec6 18. Bf4 Qxf4 19. Bxc6 Qd6 20. Qa6+ Kb8 21. Bb7
+Nc4 22. Rb4 Rhe8 23. Rxe8 Rxe8 24. Ra4 Na5 25. Rxa5 bxa5
+26. Bc6 1-0

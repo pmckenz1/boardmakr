@@ -1,0 +1,21 @@
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1930.07.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Ilmari Rahm"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.e3 c5 6.Nf3 Nc6 7.a3
+cxd4 8.axb4 dxc3 9.bxc3 O-O 10.Be2 Qc7 11.O-O dxc4 12.Bxc4 Bd7
+13.Bd3 a6 14.Bb2 h6 15.Qb3 Ne5 16.Nxe5 Qxe5 17.c4 Qh5 18.Ra5
+b5 19.Rfa1 Rac8 20.f3 Qh4 21.e4 Nh5 22.c5 e5 23.Bxe5 Rfe8
+24.Bc3 Nf4 25.Be1 Qg5 26.Bf1 Be6 27.Qc2 Rcd8 28.Rxa6 h5 29.Rd1
+Rxd1 30.Qxd1 h4 31.Qd2 Qf6 32.Rd6 Ng6 33.c6 Kh7 34.Qd4 Qg5
+35.Bd2 Qh5 36.Bc3 f6 37.Qc5 Qh6 38.Bd2 Nf4 39.Bxf4 Qxf4
+40.Qh5+ 1-0

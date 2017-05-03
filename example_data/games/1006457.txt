@@ -1,0 +1,18 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.03.02"]
+[EventDate "2000.02.26"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Hafizulhelmi Mas"]
+[Black "Wynn Zaw Htun"]
+[ECO "B21"]
+[WhiteElo "2413"]
+[BlackElo "2524"]
+[PlyCount "47"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. c4
+e6 7. dxe6 Qxe6+ 8. Qe2 Bd6 9. Qxe6+ fxe6 10. Ne2 Nc6 11. Nbc3
+O-O 12. O-O Rad8 13. a3 e5 14. d3 Be7 15. fxe5 Nxe5 16. Nf4
+Rfe8 17. Nb5 Bd6 18. Be3 Nxd3 19. Nxd3 Rxe3 20. Nxd6 Rxd6
+21. Nxc5 Re2 22. Rad1 Rxd1 23. Rxd1 Rxb2 24. Nd7 1/2-1/2

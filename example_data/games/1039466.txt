@@ -1,0 +1,15 @@
+[Event "Ch Russia (team)"]
+[Site "Podolsk (Russia)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "301"]
+[Result "1/2-1/2"]
+[White "Alexey Dreev"]
+[Black "Sergey Dolmatov"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1.d4 e6 2.e4 d5 3.exd5 exd5 4.Nf3 Nc6 5.Bb5 Bd6 6.c4 dxc4 7.d5
+a6 8.Ba4 b5 9.dxc6 bxa4 10.O-O Ne7 11.Qxa4 O-O 1/2-1/2

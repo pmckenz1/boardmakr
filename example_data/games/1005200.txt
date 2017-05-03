@@ -1,0 +1,27 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Yelena Dembo"]
+[Black "Viktor Vass"]
+[ECO "C36"]
+[WhiteElo "2180"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. Bb5+ Bd7 6. Bxd7+
+Nbxd7 7. c4 Qe7+ 8. Qe2 Qxe2+ 9. Kxe2 h6 10. d4 g5 11. Nc3
+O-O-O 12. Bd2 Bg7 13. Rae1 Rhe8+ 14. Kd3 Ng4 15. Rhf1 f5
+16. h3 Ngf6 17. b4 a6 18. Rxe8 Rxe8 19. Re1 Rxe1 20. Bxe1 Kd8
+21. a4 Ke7 22. a5 c6 23. dxc6 bxc6 24. b5 cxb5 25. cxb5 axb5
+26. Nxb5 Nd5 27. a6 N7b6 28. Ba5 Kd7 29. Bxb6 Nxb6 30. Ne5+
+Bxe5 31. dxe5 Ke6 32. Kd4 g4 33. hxg4 fxg4 34. Ke4 f3 35. Nd4+
+Kd7 36. gxf3 gxf3 37. Nxf3 Kc7 38. e6 Nc8 39. Kd5 Kb6 40. Nd4
+Kxa6 41. Kc6 Ne7+ 42. Kd6 Ng6 43. Nc6 h5 44. Ne5 h4 45. Nxg6
+h3 46. e7 h2 47. e8=Q h1=Q 48. Qa4+ Kb6 49. Qb4+ Ka6 50. Nf4
+Qh6+ 51. Ne6 Qh2+ 52. Kd7 Qh7+ 53. Kc8 Qh8+ 54. Nf8 Qh3+
+55. Kd8 Qd3+ 56. Nd7 Qb5 57. Nb8+ Kb6 58. Qd6+ Ka5 59. Qa3+
+Kb6 60. Nd7+ Kb7 61. Qf3+ Ka7 62. Qe3+ Kb7 63. Qe4+ Ka7
+64. Kc7 Qb8+ 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "18th DSB Kongress"]
+[Site "Breslau GER"]
+[Date "1912.07.15"]
+[EventDate "1912.07.15"]
+[Round "1"]
+[Result "0-1"]
+[White "David Przepiorka"]
+[Black "Amos Burn"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "104"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d3 Nc6 11.Nbd2 O-O 12.Nf1 Qc7 13.a4 b4
+14.Ne3 Rb8 15.d4 Na5 16.dxe5 dxe5 17.cxb4 cxb4 18.b3 Rd8
+19.Qe2 Nc6 20.Bb2 Nd4 21.Nxd4 exd4 22.Nd5 Nxd5 23.exd5 Bf8
+24.Bxd4 Bb7 25.Rac1 Qd7 26.Qe4 f5 27.Qxf5 Qxf5 28.Bxf5 Bxd5
+29.Be5 Bd6 30.Bxd6 Rxd6 31.Rcd1 Rbd8 32.Rxd5 Rxd5 33.Be6+ Kf8
+34.Bxd5 Rxd5 35.g3 Kf7 36.Kg2 Kf6 37.Re3 g5 38.g4 Rd4 39.h3 h5
+40.gxh5 Rh4 41.f3 Rxh5 42.Re8 Kf5 43.Re4 a5 44.Rc4 Ke5 45.Kg3
+Kd5 46.Rg4 Ke5 47.Re4+ Kd5 48.Rc4 Rh8 49.f4 gxf4 50.Rxf4 Rc8
+51.h4 Rc3+ 52.Rf3 Ke4 0-1

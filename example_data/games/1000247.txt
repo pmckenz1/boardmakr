@@ -1,0 +1,15 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Mark Paragua"]
+[Black "Aditya Prasetyo"]
+[ECO "B12"]
+[WhiteElo "2425"]
+[BlackElo "2112"]
+[PlyCount "21"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 Nd7 6. Bc4 h6
+7. O-O Ngf6 8. dxe5 Bc5+ 9. Kh1 Nxe4 10. Bxf7+ Ke7 11. Bg6 1-0

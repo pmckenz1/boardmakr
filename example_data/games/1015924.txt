@@ -1,0 +1,18 @@
+[Event "Riga Interzonal"]
+[Site "Riga LAT"]
+[Date "1979.09.24"]
+[EventDate "1979.09.05"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "James Tarjan"]
+[ECO "A14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nc6 7.O-O
+Be7 8.d4 O-O 9.e4 Ndb4 10.a3 cxd4 11.axb4 dxc3 12.bxc3 b6
+13.Bf4 Bb7 14.Qb3 a5 15.Rfd1 Qc8 16.b5 Nb8 17.Ne5 Ra7 18.Bh3
+Ba8 19.Nxf7 Kxf7 20.Bxb8 Qxb8 21.Qxe6+ Ke8 22.Rd7 Rxd7
+23.Qxd7+ Kf7 24.Qe6+ Ke8 25.Qd7+ 1/2-1/2

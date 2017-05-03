@@ -1,0 +1,23 @@
+[Event "team"]
+[Site "Ch Moscow , Moscow (Russia)"]
+[Date "1966.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "David Bronstein"]
+[Black "Mikhail Botvinnik"]
+[ECO "B12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 h5 7.Be2 c5
+8.dxc5 Bxc5 9.Nd2 Nc6 10.Nb3 Bb6 11.Bxh5 Nxe5 12.Bxg6 Nxg6
+13.Bg5 Qd6 14.Qe2 Qe5 15.Qxe5 Nxe5 16.f3 f6 17.Bd2 Nc4
+18.O-O-O Nxd2 19.Nxd2 Ne7 20.h5 Kf7 21.Ne2 g6 22.hxg6+ Nxg6
+23.c4 dxc4 24.Nxc4 Rac8 25.b3 Rxh1 26.Rxh1 Ne5 27.Rh7+ Kg6
+28.Rxb7 Nxc4 29.bxc4 Rxc4+ 30.Kd1 Ra4 31.Re7 e5 32.Nc3 Ra3
+33.Ne4 Rxa2 34.Re6 Rxg2 35.Rxf6+ Kg7 36.Re6 Bd4 37.Rd6 Kf8
+38.Rd7 a5 39.Rd5 a4 40.Ra5 Ra2 41.f4 exf4 42.Rf5+ Ke7 43.Rxf4
+Ke6 44.Nd2 Kd5 45.Rf5+ Kc6 46.Nc4 Bc3 47.Kc1 Re2 48.Kb1 Re4
+49.Kc2 Bg7 50.Nd2 Rg4 1/2-1/2

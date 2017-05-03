@@ -1,0 +1,20 @@
+[Event "* North Bay International"]
+[Site "* North Bay International"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lawrence Day"]
+[Black "Paul H Beckwith"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.e4 c5 2.f4 e6 3.Qe2 Nc6 4.Nf3 Nge7 5.b3 d5 6.Bb2 dxe4 7.Qxe4
+Nf5 8.Na3 Be7 9.Ne5 Bd7 10.Nxd7 Qxd7 11.g3 O-O-O 12.O-O-O Bf6
+13.c3 Rhe8 14.g4 Nd6 15.Qe3 e5 16.f5 b6 17.Nb5 h6 18.h4 e4
+19.Nxd6+ Qxd6 20.g5 hxg5 21.hxg5 Be5 22.Rh4 f6 23.g6 Ne7
+24.Rxe4 Kb8 25.Bb5 Nxf5 26.Qf3 Ng3 27.Rg4 Rh8 28.Ba6 Qc7 29.c4
+Nh5 30.Rh4 Nf4 31.Bxe5 fxe5 32.Rxh8 Rxh8 33.Rh1 Rd8 34.Qe4
+Nd3+ 35.Kb1 Nf2+ 36.Qg2 Nxh1 37.Qxh1 Qd7 38.Qe4 Qd3+ 0-1

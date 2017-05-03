@@ -1,0 +1,19 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Soenke Maus"]
+[Black "Lubomir Ftacnik"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. c4 g6 2. g3 Bg7 3. Nc3 e5 4. Bg2 Ne7 5. d3 O-O 6. h4 c6
+7. h5 d5 8. hxg6 hxg6 9. cxd5 cxd5 10. Bh6 Bxh6 11. Rxh6 Kg7
+12. Qd2 d4 13. Ne4 Nbc6 14. Nf3 Qa5 15. Qxa5 Nxa5 16. Rh2 f6
+17. Kd2 Be6 18. Rah1 Bg8 19. b4 Nac6 20. a3 b5 21. Ne1 a5
+22. bxa5 b4 23. axb4 Nxb4 24. e3 Rxa5 25. exd4 Ra2+ 26. Ke3
+Nf5+ 0-1

@@ -1,0 +1,18 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "David Filipovich"]
+[Black "Marc Esserman"]
+[ECO "A05"]
+[WhiteElo "2347"]
+[BlackElo "2142"]
+[PlyCount "41"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O d6 5. d4 O-O 6. b3 e5
+7. dxe5 Ng4 8. Bb2 Nxe5 9. Nxe5 dxe5 10. Nc3 Nc6 11. Qxd8 Rxd8
+12. Nd5 Bh3 13. e4 Bxg2 14. Kxg2 Nd4 15. c3 Ne6 16. Rad1 c6
+17. Ne3 Nc5 18. Kf3 b5 19. Rxd8+ Rxd8 20. Rd1 Rxd1 21. Nxd1
+1/2-1/2

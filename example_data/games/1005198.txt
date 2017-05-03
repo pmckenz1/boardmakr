@@ -1,0 +1,24 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Maria Cleven"]
+[Black "Joachim Bergre"]
+[ECO "A04"]
+[WhiteElo "2040"]
+[BlackElo "2120"]
+[PlyCount "110"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nd7 5. e4 e5 6. d5 Ne7
+7. Be2 O-O 8. g4 a5 9. h4 f5 10. gxf5 gxf5 11. h5 Nc5 12. h6
+Bf6 13. Rg1+ Ng6 14. Ng5 f4 15. Nf3 Kh8 16. b3 Rg8 17. Ba3 b6
+18. Bxc5 bxc5 19. Qd3 Bd7 20. O-O-O a4 21. Nxa4 Bxa4 22. bxa4
+Rxa4 23. Rd2 Qa8 24. Kb1 Ra3 25. Qc2 Qa5 26. Ka1 Nh4 27. Rxg8+
+Kxg8 28. Nxh4 Bxh4 29. Qb2 Qb4 30. Bh5 Rh3 31. Qxb4 cxb4
+32. Rb2 Rh1+ 33. Rb1 Rxb1+ 34. Kxb1 Bxf2 35. Kc2 Kf8 36. Kb3
+Bc5 37. Kc2 Ke7 38. Kd2 Kf6 39. Ke2 Kg5 40. Be8 Kg4 41. Bd7+
+Kg3 42. Kf1 f3 43. Bf5 Be3 44. Bxh7 Bxh6 45. Bf5 Bg5 46. Kg1
+Bh4 47. Bd7 Kf4 48. Bf5 Ke3 49. Kh2 Kf2 50. Bh3 Bg3+ 51. Kh1
+Bf4 52. Bf1 Kxf1 53. a3 bxa3 54. c5 Ke2 55. cxd6 a2 0-1

@@ -1,0 +1,17 @@
+[Event "Finnland op, SW 91-31"]
+[Site "Finnland op, SW 91-31"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Viktor Kupreichik"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.c4 g6 2.Nf3 Bg7 3.d4 d6 4.g3 e5 5.Nc3 Bg4 6.dxe5 dxe5
+7.Qxd8+ Kxd8 8.Ng5 Nh6 9.Bg2 Kc8 10.O-O Nc6 11.h3 Bd7 12.Nge4
+f5 13.Nc5 e4 14.Rd1 Ne5 15.Bf4 Nhf7 16.Nd5 Rd8 17.Bxe5 Nxe5
+18.Ne6 Rh8 19.Nxg7 Rf8 20.Ne7+ Kb8 21.Rd5 1-0

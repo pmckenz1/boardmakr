@@ -1,0 +1,18 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.02.28"]
+[EventDate "2000.02.26"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Chuin Hoong Ronnie Lim"]
+[Black "Hafizulhelmi Mas"]
+[ECO "B92"]
+[WhiteElo "2214"]
+[BlackElo "2413"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. O-O O-O 9. Kh1 Be6 10. f4 exf4 11. Bxf4 Nc6
+12. Qe1 Ne8 13. Rd1 Bh4 14. Bg3 Bf6 15. Nc5 Qe7 16. Nxe6 fxe6
+17. Bc4 Rc8 18. Bb3 b5 19. Qf2 Na5 20. Qb6 Nxb3 21. cxb3 Bxc3
+22. bxc3 Rxc3 23. Qxa6 Rxf1+ 24. Rxf1 Qd7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Montevideo"]
+[Site "Montevideo URU"]
+[Date "1928.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "Cipriano Herrera"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4
+c6 7. e3 Ne4 8. Bd3 Ndf6 9. Qc2 Bb4 10. O-O Nxc3 11. bxc3 Be7
+12. h3 O-O 13. Ne5 h6 14. c4 Be6 15. c5 Nd7 16. Rab1 Nxe5
+17. Bxe5 Qd7 18. Rb3 f6 19. Bg3 Bd8 20. Rc1 f5 21. Be5 Rf7
+22. f4 Bf6 23. Rcb1 Bxe5 24. fxe5 Rb8 25. Ba6 f4 26. Rxb7 Rxb7
+27. Rxb7 Qe8 28. exf4 Rxf4 29. Qb1 Bf5 30. Bd3 Bxd3 31. Qxd3
+Rf7 32. Rb3 Qe6 33. Rb8+ Rf8 34. Rxf8+ Kxf8 35. Qf3+ Ke7
+36. Qg4 Qg8 37. Qg6 1-0

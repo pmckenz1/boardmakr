@@ -1,0 +1,23 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.03"]
+[EventDate "2000.03.03"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Aung Myo Hlaing Aung Aung"]
+[Black "Kanying Qin"]
+[ECO "D85"]
+[WhiteElo "2595"]
+[BlackElo "2475"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Ba3 O-O 8. Bc4 b6 9. Qf3 Qd7 10. Bd5 c6 11. Bb3 c5
+12. Ne2 Nc6 13. Rd1 Ba6 14. dxc5 Qc7 15. Qe3 Ne5 16. cxb6 axb6
+17. Bb4 Rfd8 18. Nd4 e6 19. a4 Nc4 20. Qc1 Rac8 21. Nb5 Bxb5
+22. axb5 Nd6 23. O-O Nxb5 24. Rxd8+ Rxd8 25. Qe3 Nxc3 26. Bxc3
+Bxc3 27. Rc1 Rc8 28. g3 b5 29. Kg2 b4 30. f4 Qc6 31. Qf3 Rd8
+32. Rd1 Bd4 33. f5 gxf5 34. exf5 Qxf3+ 35. Kxf3 e5 36. Ke4 Rc8
+37. g4 h6 38. h4 Rc3 39. Rd3 Rc1 40. g5 hxg5 41. hxg5 Rf1
+42. g6 Rf4+ 43. Kd5 Rxf5 44. Rxd4 exd4+ 45. Kxd4 Kf8 46. gxf7
+Ke7 47. Kc4 Rxf7 48. Kxb4 Rf4+ 49. Kc5 1/2-1/2

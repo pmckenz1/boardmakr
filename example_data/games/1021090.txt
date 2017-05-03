@@ -1,0 +1,16 @@
+[Event "San Francisco op"]
+[Site "San Francisco op"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "H Jobet"]
+[Black "Andres Rodriguez Vila"]
+[ECO "C19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.Nf3 c5 6.a3 Bxc3+ 7.bxc3
+Nbc6 8.Bb5 cxd4 9.Bxc6+ bxc6 10.O-O dxc3 11.Qd3 Qa5 12.Re1 c5
+13.Bg5 Ba6 14.Qe3 Nf5 15.Qf4 h6 16.Bh4 g5 0-1

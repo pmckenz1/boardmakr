@@ -1,0 +1,25 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "7"]
+[Result "1-0"]
+[White "Jakob Adolf Seitz"]
+[Black "Arpad Vajda"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. h3 Nc6
+7. Be3 Kh8 8. Qd2 Ng8 9. d5 Nb8 10. Bd3 e5 11. g4 Nd7
+12. O-O-O Nc5 13. Bc2 f5 14. gxf5 gxf5 15. exf5 Bxf5 16. Ng5
+Qe7 17. b4 Nd7 18. Bxf5 Rxf5 19. Ne6 Nf8 20. Qc2 Rh5 21. Qe2
+Rh4 22. Nxg7 Qxg7 23. Rdg1 Qf7 24. Rg3 Ng6 25. Rg4 Rxg4
+26. hxg4 Nf4 27. Qc2 Rf8 28. Ne4 Qg6 29. g5 a6 30. Kd2 Kg7
+31. Ng3 Qxc2+ 32. Kxc2 Kg6 33. Ne4 Nh5 34. a4 Ne7 35. Kd3 Nf5
+36. c5 Ne7 37. Kc4 c6 38. cxd6 cxd5+ 39. Kc5 Nc6 40. b5 axb5
+41. axb5 dxe4 42. bxc6 bxc6 43. Kxc6 Nf4 44. d7 Kxg5 45. Rd1
+h5 46. d8=Q+ Rxd8 47. Rxd8 h4 48. Kd6 Kf5 49. Rf8+ Kg4
+50. Bxf4 exf4 51. Ke5 e3 52. Rxf4+ Kh3 53. fxe3 Kg3 54. Rf8 h3
+55. Rh8 1-0

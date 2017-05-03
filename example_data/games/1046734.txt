@@ -1,0 +1,19 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Semen I Dvoirys"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.Nf3 d5 2.g3 c5 3.c4 d4 4.Bg2 Nc6 5.O-O Nf6 6.Nh4 Bd7 7.e4
+dxe3 8.dxe3 g6 9.b3 Bg7 10.Bb2 O-O 11.Nc3 Qc8 12.Qe2 Bh3
+13.Nd5 Bxg2 14.Nxg2 Nxd5 15.cxd5 Bxb2 16.Qxb2 Nb4 17.e4 f5
+18.f3 fxe4 19.fxe4 Qg4 20.Nf4 Rf6 21.a3 Raf8 22.axb4 Rxf4
+23.Rxf4 Rxf4 24.Qe5 Rxe4 25.Qb8+ Kg7 26.Rf1 Kh6 27.bxc5 Re3
+28.c6 Rxb3 29.Qf8+ Kh5 30.Qxe7 Rxg3+ 1/2-1/2

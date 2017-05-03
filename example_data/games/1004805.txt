@@ -1,0 +1,21 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Isaak Appel"]
+[Black "Vladimir Petrov"]
+[ECO "D19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6
+7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Ne4 10. Bd3 Bxc3 11. Bxe4 Bb4
+12. Bxf5 exf5 13. Qc4 Qe7 14. Ne5 a5 15. Nd3 Bd6 16. Bd2 Nd7
+17. Rfc1 Nf6 18. Be1 Rfe8 19. b4 axb4 20. Bxb4 Bxb4 21. Nxb4
+Ng4 22. Nd3 Qd6 23. Ne5 Nxe5 24. dxe5 Rxe5 25. Qb3 Re7 26. Rd1
+Qe5 27. Rab1 h6 28. Rd4 Qa5 29. Rb4 Rd8 30. h3 Red7 31. Rxb7
+Rxb7 32. Qxb7 Qxa4 33. Qc7 Rd1+ 34. Kh2 Rxb1 35. Qc8+ Kh7
+36. Qxf5+ 1/2-1/2

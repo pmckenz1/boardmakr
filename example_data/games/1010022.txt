@@ -1,0 +1,21 @@
+[Event "Ch World FIDE, Las Vegas (USA)"]
+[Site "Las Vegas, NV USA"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Rafael Duailibe Leitao"]
+[Black "Bartlomiej Macieja"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Bxd2
+Bb7 7. Bg5 d6 8. e3 Nbd7 9. Bh4 h6 10. Qc2 Qe7 11. Rd1 g5
+12. Bg3 Ne4 13. Nd2 Ndf6 14. Nxe4 Nxe4 15. Bd3 Nxg3 16. fxg3
+O-O-O 17. O-O f5 18. b4 c5 19. e4 f4 20. gxf4 gxf4 21. Rxf4
+cxd4 22. Qf2 Rh7 23. Rf6 e5 24. Rf1 Kc7 25. Qf5 Bc8 26. Qh5
+Qe8 27. Qh4 h5 28. Qg5 h4 29. c5 bxc5 30. bxc5 dxc5 31. Bc4
+Kb8 32. Bf7 Qd7 33. Rb1+ Bb7 34. Bd5 Ka8 35. Rxb7 Qxb7 36. Rd6
+Rc8 37. Qxe5 Rhc7 38. Bxb7+ Kxb7 39. Qd5+ 1-0

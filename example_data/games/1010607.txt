@@ -1,0 +1,27 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Dmitry Kamenetz"]
+[Black "Vas Leschenko"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 h6 4. Bf4 e6 5. Nd2 Nxd2 6. Qxd2 d5
+7. O-O-O c5 8. dxc5 Nc6 9. e4 dxe4 10. Bd6 Bxd6 11. cxd6 Bd7
+12. Qe3 Qa5 13. Bc4 Ne5 14. Bb3 Ng4 15. Qg3 Qf5 16. Nh3 O-O
+17. Rhe1 Bc6 18. c3 Nf6 19. Bc2 Qc5 20. Rd4 a5 21. Qe3 Rfd8
+22. Red1 Rd7 23. Qe2 e5 24. R4d2 Bb5 25. Qe1 Bc6 26. Qe2 Rad8
+27. g4 Bb5 28. Qe1 e3 29. fxe3 Nxg4 30. Rd5 Qb6 31. Rxb5 Qxb5
+32. Bf5 Nf6 33. Bxd7 Rxd7 34. Nf2 Ne8 35. Ne4 Qc4 36. Qh1 Qxa2
+37. Qf3 a4 38. Qf5 a3 39. bxa3 Qxa3+ 40. Kd2 Qb2+ 41. Ke1 Qb5
+42. c4 Qa5+ 43. Ke2 Rd8 44. c5 Qa2+ 45. Rd2 Qc4+ 46. Kf2 f6
+47. h5 b6 48. cxb6 Qb3 49. d7 Qxb6 50. dxe8=Q+ Rxe8 51. Rd7
+Qb2+ 52. Kg3 Qb6 53. Kh4 Qb4 54. Kh3 Qb6 55. Kg4 Kh8 56. Nd6
+Qxe3 57. Nxe8 Qg1+ 58. Kf3 Qf1+ 59. Ke4 Qc4+ 60. Ke3 Qc5+
+61. Kf3 e4+ 62. Qxe4 Qxh5+ 63. Qg4 Qh1+ 64. Ke2 Qh2+ 65. Kd3
+g5 66. Qd4 Qg3+ 67. Kc4 Qf4 68. Qxf4 1-0

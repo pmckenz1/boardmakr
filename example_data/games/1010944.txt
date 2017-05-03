@@ -1,0 +1,23 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Ratmir Kholmov"]
+[Black "Andrei Shchekachev"]
+[ECO "B54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 e6
+7. Nc3 Be7 8. Be2 O-O 9. Nc2 a6 10. Be3 Bd7 11. Qd2 Na7
+12. Nd4 Qb8 13. a4 Nc6 14. O-O Rc8 15. Rab1 Be8 16. Rfd1 Nb4
+17. Kh1 Bd8 18. Nb3 Bc7 19. Bf4 Rd8 20. Bg5 Rd7 21. Bxf6 gxf6
+22. Qh6 Bd8 23. f4 Be7 24. Rf1 Bf8 25. Qxf6 Qd8 26. Qd4 Bg7
+27. Qd2 Nc6 28. f5 Qh4 29. g3 Qh6 30. Qxh6 Bxh6 31. Bg4 Re7
+32. fxe6 fxe6 33. Rf6 Bg7 34. Rxe6 Bf7 35. Rxe7 Nxe7 36. Nd5
+Nxd5 37. cxd5 Be8 38. Na5 Bxa4 39. b3 Bb5 40. Nxb7 Be5 41. Rc1
+a5 42. Kg2 a4 43. bxa4 Rxa4 44. Bf5 Ra2+ 45. Kh3 Rf2 46. Kg4
+Rxh2 47. Kf3 h5 48. Rc7 Ra2 49. Nd8 Ra3+ 50. Kf2 1/2-1/2

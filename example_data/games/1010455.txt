@@ -1,0 +1,18 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "17"]
+[Result "1/2-1/2"]
+[White "Saha Suvrajit"]
+[Black "Ravi Gopal Hegde"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. c4 c5 5. O-O g6 6. b3 Bg7
+7. Bb2 O-O 8. d4 cxd4 9. Qxd4 d6 10. Nc3 Ne4 11. Qd3 Nd7
+12. Rac1 Rc8 13. Rfd1 a6 14. Nd4 Ndc5 15. Qe3 Nxc3 16. Bxc3
+Qd7 17. Nf3 Bxc3 18. Rxc3 b5 19. cxb5 Qxb5 20. a4 Qb6 21. Bh3
+Rc7 1/2-1/2

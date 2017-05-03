@@ -1,0 +1,22 @@
+[Event "It (a)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Gad Rechlis"]
+[Black "Nigel Rodney Davies"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Nf3 Qd7 7.a4 Nc6
+8.Bb5 a6 9.Be2 Nge7 10.Nd1 a5 11.O-O Nf5 12.Ne3 h5 13.Qf4 Nce7
+14.Nxf5 Nxf5 15.h3 Ba6 16.Bxa6 Rxa6 17.b3 Ra8 18.c4 Rd8 19.Rd1
+Be7 20.Ba3 Bxa3 21.Rxa3 Qe7 22.Raa1 c5 23.dxc5 Qxc5 24.cxd5
+Rxd5 25.Rdc1 Qe7 26.Rc6 O-O 27.Rxb6 Rfd8 28.Rb5 Nd4 29.Nxd4
+Rxd4 30.Qf3 h4 31.Rxa5 Rd3 32.Qe4 Rxb3 33.Ra8 g6 34.a5 Rxa8
+35.Qxa8+ Kg7 36.a6 Ra3 37.Rxa3 Qxa3 38.Kh2 Qc5 39.f4 Qc4
+40.Qf3 Qxa6 41.Qg4 Qd3 42.Qxh4 Qe3 43.Qg3 Qe2 44.Qg5 Qf2
+45.Qg3 Qe2 46.Qc3 Qf2 47.Qg3 1/2-1/2

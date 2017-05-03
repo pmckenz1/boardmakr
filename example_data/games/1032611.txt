@@ -1,0 +1,20 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm Interzonal"]
+[Date "1962.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Erik Ruben Lundin"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6
+7.O-O Be7 8.a3 Be6 9.d3 f5 10.b4 Bf6 11.Bd2 O-O 12.Rc1 Kh8
+13.b5 Na5 14.Rb1 e4 15.Ne1 Nac4 16.dxc4 Nxc4 17.Nxe4 fxe4
+18.Bb4 Re8 19.Bxe4 Bh3 20.Qc2 Bxf1 21.Kxf1 Nd6 22.Bxd6 Qxd6
+23.Bxh7 Rad8 24.Nf3 Rf8 25.Bg6 Qe6 26.Kg2 Rd5 27.e4 Rd6 28.Rb4
+Be7 29.Bf5 Qh6 30.Rc4 Bd8 31.e5 Rd5 32.Nh4 Rd2 33.Qc3 Kg8
+34.Rf4 Rd5 35.Qf3 1-0

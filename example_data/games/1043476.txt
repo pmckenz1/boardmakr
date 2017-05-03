@@ -1,0 +1,15 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1990.01.26"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Luc Winants"]
+[Black "John Fedorowicz"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.d4 O-O 5.e3 d6 6.Be2 Nbd7 7.b4
+e5 8.Bb2 Re8 9.dxe5 dxe5 10.a3 e4 11.Nd4 h5 12.h3 Nf8 1/2-1/2

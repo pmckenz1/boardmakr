@@ -1,0 +1,19 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Hans-Joachim Schubert"]
+[Black "Stefan Arnalds"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 a6 6. Be3 c4
+7. b3 cxb3 8. axb3 Bd6 9. Bd3 Bg4 10. Nbd2 Nf6 11. Qc2 Nc6
+12. h3 Bh5 13. Nh4 Rc8 14. Qb1 O-O 15. Nf5 Bb8 16. g4 Bg6
+17. Nf3 Re8 18. Kf1 Ne4 19. Bxe4 Rxe4 20. N3h4 Qe8 21. Qd3 Ne7
+22. Nxe7+ Qxe7 23. Nxg6 fxg6 24. Kg2 Qf7 25. Bg5 Rf8 26. Ra2
+Qe6 27. Bh4 h5 28. Bg3 Bxg3 29. fxg3 Re3 30. Qd1 Rff3 0-1

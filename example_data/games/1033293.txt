@@ -1,0 +1,16 @@
+[Event "5, Alicante op (10s)"]
+[Site "Alicante ESP"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Alejandro Hoffman"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4
+Bd6 7. Qe2+ Qe7 8. Qxe7+ Kxe7 9. Ne2 Be6 10. Bxe6 fxe6 11. Bf4
+Bxf4 12. Nxf4 Re8 13. O-O-O Nd7 14. Rhe1 Kf7 1/2-1/2

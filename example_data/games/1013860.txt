@@ -1,0 +1,22 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Kiril Ninov"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.f4 a6 7.Nf3
+b5 8.Bd3 Bb7 9.O-O Bc5+ 10.Kh1 d6 11.a3 Nge7 12.b4 Bb6 13.Bb2
+f6 14.Bxb5 axb5 15.Nxb5 Qd7 16.Nxd6+ Kf8 17.c4 Nc8 18.Nxb7
+Qxb7 19.e5 f5 20.Ng5 Qe7 21.Qf3 N8a7 22.b5 h6 23.Nh3 Kf7
+24.bxc6 Rac8 25.Rad1 Rxc6 26.Rd6 Rhc8 27.Rfd1 Kg8 28.Nf2 Bxf2
+29.Qxf2 R8c7 30.Rxc6 Nxc6 31.Qb6 Rd7 32.Rg1 Nd8 33.Bc1 Rd3
+34.a4 Kh7 35.a5 Rc3 36.a6 Rxc4 37.a7 Ra4 38.Be3 Qd7 39.Qb3 Nb7
+40.Rc1 Ra6 41.Bg1 Na5 42.Qb8 Nc6 43.a8=Q Nxb8 44.Qxb8 Ra2
+45.Qd6 Qa4 46.Qxe6 1-0

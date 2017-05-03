@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "New York (USA)"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Maxim Dlugy"]
+[Black "Andras Adorjan"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qa4 Bb7 6.Bg2 c5 7.dxc5
+Bxc5 8.O-O O-O 9.Nc3 Be7 10.Bf4 Na6 11.Rad1 Nc5 12.Qc2 Qc8
+13.Nb5 Nce4 14.Nfd4 a6 15.Nc7 Ra7 16.f3 g5 17.fxe4 gxf4 18.Nd5
+exd5 19.exd5 Nh5 20.Nf5 Kh8 21.Kh1 Qe8 22.gxf4 d6 23.e4 f6
+24.Qc3 Bc8 25.Nd4 Bd8 26.Rde1 Rg7 27.Nf5 Bxf5 28.exf5 Qf7
+29.Rf2 Rfg8 30.Qe3 b5 31.c5 Ba5 32.Rc1 Bb4 33.c6 Bc5 34.Rxc5
+dxc5 35.Qe6 Qa7 36.d6 c4 37.Qe2 Qd4 38.Qd2 Qe4 39.d7 Qb1+ 0-1

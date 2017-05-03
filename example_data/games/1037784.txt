@@ -1,0 +1,19 @@
+[Event "London CAN op"]
+[Site "04"]
+[Date "1993.07.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Hans Rudolf Jung"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 c5 2.Nf3 e6 3.Qe2 g6 4.Na3 a6 5.c3 Bg7 6.d4 cxd4 7.cxd4
+b5 8.Bg5 Ne7 9.Qd2 d5 10.e5 h6 11.Bf4 g5 12.Be3 Nf5 13.g4 Nxe3
+14.Qxe3 Qa5+ 15.Nd2 Qb4 16.O-O-O Nc6 17.Nc2 Qe7 18.h4 Bd7
+19.hxg5 hxg5 20.Rxh8+ Bxh8 21.Nf3 f6 22.Bd3 O-O-O 23.Rh1 Bg7
+24.Kb1 Rf8 25.a4 fxe5 26.Nxe5 Bxe5 27.dxe5 Qf7 28.Qb6 Qf3
+29.Qxa6+ Kc7 30.Rc1 Qxd3 31.axb5 Rb8 32.b6 1-0

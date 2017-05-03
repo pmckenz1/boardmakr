@@ -1,0 +1,16 @@
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1969.10.04"]
+[EventDate "1969.??.??"]
+[Round "19"]
+[Result "1/2-1/2"]
+[White "Vasily Smyslov"]
+[Black "Efim Geller"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg5 d6 5.e3 c6 6.Nf3 Qa5 7.Qd2
+Bg4 8.Be2 Nbd7 9.a3 Bxf3 10.Bxf6 Nxf6 11.Bxf3 O-O 12.O-O Qg5
+13.Rfd1 Rac8 1/2-1/2

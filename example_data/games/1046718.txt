@@ -1,0 +1,20 @@
+[Event "It (open), Ljubljana (Slovenia)"]
+[Site "It (open), Ljubljana (Slovenia)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Nenad Fercec"]
+[ECO "E94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5
+7. O-O Na6 8. Re1 Qe8 9. Bf1 Bg4 10. d5 Nb4 11. a3 Bxf3
+12. gxf3 Na6 13. b4 Nh5 14. c5 dxc5 15. Bxa6 bxa6 16. bxc5 Qe7
+17. d6 cxd6 18. Nd5 Qh4 19. cxd6 Rad8 20. Ne7+ Kh8 21. a4 Rd7
+22. Rb1 h6 23. Rb3 Kh7 24. Rd3 Bf6 25. Kh1 Bg5 26. Rg1 Bxc1
+27. Qxc1 Nf4 28. Rd2 Rfd8 29. Qc5 Qh3 30. Rg3 Qf1+ 31. Rg1 Qh3
+32. Rg3 Qf1+ 33. Rg1 Qh3 1/2-1/2

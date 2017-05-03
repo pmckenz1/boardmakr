@@ -1,0 +1,21 @@
+[Event "Gijon-EACC"]
+[Site "08"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Pavel Blatny"]
+[Black "Branko Damljanovic"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 c5 2.c3 d6 3.d4 Nf6 4.Bd3 g6 5.h3 Bg7 6.Nf3 O-O 7.Be3
+Nbd7 8.O-O Qc7 9.Nbd2 b6 10.Qe2 e5 11.Rfd1 a6 12.dxe5 dxe5
+13.Nf1 Bb7 14.Ng3 b5 15.b3 Bc6 16.Rd2 Rfe8 17.Rad1 Qb7 18.Bc2
+Rac8 19.Nh4 b4 20.Bd3 Ra8 21.cxb4 cxb4 22.Bc4 Bb5 23.Bxb5 axb5
+24.Qf3 Nf8 25.Bg5 N6d7 26.Nhf5 gxf5 27.Nxf5 Ra6 28.Ne7+ Rxe7
+29.Bxe7 Nf6 30.Bxf8 Bxf8 31.Qg3+ Kh8 32.Rd8 Qe7 33.Qf3 Re6
+34.Rb8 Nd7 35.Rb7 Rd6 36.Rxd6 Qxd6 37.Qxf7 Nf6 38.Ra7 h6
+39.Qg6 Be7 40.Qxh6+ Kg8 41.Qg6+ Kf8 1-0

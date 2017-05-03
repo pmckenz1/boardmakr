@@ -1,0 +1,22 @@
+[Event "San Francisco"]
+[Site "San Francisco, CA USA"]
+[Date "1991.03.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Ian Rogers"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 c6 6. Bd3 d6
+7. O-O Bg4 8. Be3 Nfd7 9. Be2 c5 10. d5 Qa5 11. Bd2 Bxf3
+12. Bxf3 Na6 13. Rb1 Rfb8 14. Be2 Qd8 15. f4 Nc7 16. Bd3 a6
+17. a4 b5 18. cxb5 axb5 19. Nxb5 Nb6 20. b3 c4 21. Bxc4 Nxc4
+22. bxc4 Na6 23. a5 Nc5 24. Qe2 Nb7 25. e5 Nxa5 26. e6 fxe6
+27. Qxe6+ Kh8 28. Rfc1 Rc8 29. Qe4 Qd7 30. Bc3 Bxc3 31. Rxc3
+Rab8 32. Rb2 Kg8 33. h4 Qg4 34. h5 Qd1+ 35. Kf2 Qxh5 36. c5
+Qh4+ 37. Kg1 Rxc5 38. Rxc5 dxc5 39. d6 exd6 40. Nxd6 Rxb2
+41. Qe6+ Kg7 42. Qe5+ Kg8 43. Qe6+ 1/2-1/2

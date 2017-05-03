@@ -1,0 +1,17 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1973.01.23"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Ulf Andersson"]
+[ECO "B85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 a6 6.Be2 Qc7 7.O-O
+Nf6 8.Be3 d6 9.f4 Be7 10.Qe1 O-O 11.Qg3 Nxd4 12.Bxd4 b5 13.a3
+Bb7 14.Bd3 g6 15.f5 Rae8 16.Qh3 gxf5 17.Qh6 e5 18.Rxf5 Ng4
+19.Qh3 exd4 20.Nd5 Qd7 21.e5 Kh8 22.Rh5 f5 23.e6 1-0

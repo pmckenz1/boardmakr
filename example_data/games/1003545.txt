@@ -1,0 +1,18 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.07.15"]
+[EventDate "1905.06.12"]
+[Round "24"]
+[Result "1/2-1/2"]
+[White "Semion Alapin"]
+[Black "Siegbert Tarrasch"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5
+Bg7 8.d4 Nh5 9.O-O O-O 10.Nxg4 Qxh4 11.Nh2 Kh8 12.Be2 Ng3
+13.Rxf4 Qe7 14.Bf1 c5 15.c3 Nd7 16.Rf3 Nxf1 17.Rxf1 Nb6 18.Re1
+Qd6 19.Be3 cxd4 20.Bxd4 Qxd5 21.Bxg7+ Kxg7 22.Qxd5 Nxd5 23.Nd2
+1/2-1/2

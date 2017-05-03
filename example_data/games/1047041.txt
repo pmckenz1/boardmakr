@@ -1,0 +1,20 @@
+[Event "Cup Russia"]
+[Site "St. Petersburg (Russia)"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Sergei Pozdniakov"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 Be7 6.d5 d6 7.g3 e5
+8.Bg2 O-O 9.O-O Nbd7 10.b4 a5 11.Rb1 Re8 12.Ne1 Bf8 13.e4 Ba6
+14.Qb3 g6 15.Nd3 Nh5 16.Bd2 axb4 17.axb4 f5 18.f4 exf4 19.Nxf4
+Nxf4 20.Bxf4 Ne5 21.Bxe5 Rxe5 22.exf5 gxf5 23.Qc2 Bxc4 24.Rxf5
+Bg7 25.Rxe5 Bxe5 26.Bf1 Ra3 27.Bxc4 Rxc3 28.Qe4 Qg5 29.Bd3 Qh6
+30.Rf1 Qh5 31.b5 Ra3 32.Qc4 Ra1 33.Bb1 Ra8 34.Qe4 Re8 35.Rf5
+Qd1+ 36.Kg2 Qd2+ 37.Rf2 Qh6 38.Rf4 Re7 39.Rh4 Qd2+ 40.Kh3 1-0

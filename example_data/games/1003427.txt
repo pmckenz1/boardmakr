@@ -1,0 +1,19 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1905.06.20"]
+[EventDate "1905.06.12"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Paul Saladin Leonhardt"]
+[Black "Jean Taubenhaus"]
+[ECO "C24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.f4 d5 5.exd5 Nxd5 6.fxe5 Bc5
+7.Nf3 Bg4 8.h3 Bh5 9.g4 Bg6 10.Nc3 Nxc3 11.bxc3 O-O 12.d4 Be4
+13.Bd3 Bxd3 14.Qxd3 Be7 15.h4 f6 16.exf6 Bxf6 17.Ba3 Re8+
+18.Kd2 Qd5 19.Rae1 Qa5 20.Bc5 Qxa2 21.Ng5 Bxg5+ 22.hxg5 g6
+23.Rxh7 Kxh7 24.Qh3+ Kg8 25.Rh1 Re2+ 26.Kxe2 Qxc2+ 27.Kf1 Qd1+
+28.Kf2 Qd2+ 29.Kf1 Qd1+ 30.Kf2 Qd2+ 1/2-1/2

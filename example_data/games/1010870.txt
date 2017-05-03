@@ -1,0 +1,26 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Valentin Bobylev"]
+[Black "Sergei Konotop"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d6 5. Bg2 g6 6. O-O Bg7
+7. Re1 Nge7 8. Nbd2 O-O 9. h4 Rb8 10. h5 b6 11. Nf1 Bb7 12. c3
+d5 13. e5 d4 14. c4 a6 15. N1h2 b5 16. b3 bxc4 17. bxc4 Qc7
+18. Ng4 Nf5 19. Bf4 Qa5 20. Nf6+ Bxf6 21. exf6 Rbd8 22. Qc1
+Qc3 23. Bc7 Rc8 24. Qf4 Nb4 25. Ba5 Nxd3 26. Qxf5 gxf5
+27. Bxc3 Bxf3 28. Bxf3 dxc3 29. Re3 Rfd8 30. Be2 Nb4 31. Rxc3
+Rd2 32. Kf1 Nxa2 33. Re3 Rb8 34. Rd1 Rxd1+ 35. Bxd1 Nb4 36. g4
+Rd8 37. Be2 fxg4 38. Re5 h6 39. Rxc5 e5 40. Rxe5 Rd6 41. Re8+
+Kh7 42. Rb8 a5 43. Rb5 Nc6 44. Bxg4 Rxf6 45. Bd7 Rd6 46. Be8
+a4 47. Rb6 a3 48. Ra6 Kg7 49. c5 Rd1+ 50. Ke2 Nb4 51. Rxa3 Rc1
+52. Ra5 Kf8 53. Ba4 Nd5 54. c6 Nb6 55. Bb3 Rxc6 56. Rf5 f6
+57. Ra5 Rc3 58. Rb5 Nd7 59. Rb7 Nc5 60. Rb8+ Ke7 61. Bd5 Ne6
+62. Bxe6 Kxe6 1/2-1/2

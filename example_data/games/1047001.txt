@@ -1,0 +1,19 @@
+[Event "Lvov UUKRO"]
+[Site "Lvov <UKR>"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Viktor Savelievich Zheliandinov"]
+[Black "Alisa Galliamova"]
+[ECO "B59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3
+Be7 8.Be3 O-O 9.f3 a5 10.a3 Be6 11.Nd5 a4 12.Bb6 Qd7 13.Nc1
+Bd8 14.Nxf6+ Bxf6 15.Bb5 Bh4+ 16.g3 Bd8 17.Bf2 f5 18.exf5 Ba5+
+19.c3 Rxf5 20.O-O Qf7 21.Be3 Rf8 22.Bxa4 Ne7 23.Bc2 Rf6 24.Be4
+d5 25.Bd3 Bh3 26.Rf2 e4 27.Nb3 Bc7 28.Be2 Nf5 29.Bc5 e3 30.Rf1
+Rd8 31.Qd3 Qg6 32.Kh1 Nxg3+ 0-1

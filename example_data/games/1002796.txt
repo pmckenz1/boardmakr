@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1897.09.16"]
+[EventDate "1897.09.13"]
+[Round "4"]
+[Result "1-0"]
+[White "Emmanuel Schiffers"]
+[Black "Karl August Walbrodt"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bg5 Be7 6. Bxf6
+Bxf6 7. Nf3 c5 8. c3 cxd4 9. cxd4 O-O 10. O-O Qb6 11. Nc3 Qxb2
+12. Qd3 g6 13. Nb5 Qb4 14. Nc7 Bd8 15. Nxa8 f5 16. Qb1 Qe7
+17. Bd3 b6 18. Re1 g5 19. d5 g4 20. Nd4 e5 21. Ne6 Bxe6
+22. Rxe5 Nd7 23. Rxe6 Qg7 24. Re1 Ne5 25. Rxe5 Qxe5 26. Qe1
+Qb8 27. Qe6+ Kh8 28. Rc1 Bg5 29. Rc7 Bf4 30. d6 Qe8 31. Qxe8
+Rxe8 32. Re7 Rd8 33. d7 Bg5 34. Re8+ Kg7 35. Bxf5 Kf7 36. Be6+
+Kg7 37. Bxg4 h5 38. Nc7 Kh6 39. Bf5 h4 40. Ne6 Rxd7 41. Rh8+
+Rh7 42. Rxh7# 1-0

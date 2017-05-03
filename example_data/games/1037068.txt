@@ -1,0 +1,18 @@
+[Event "Preston (England)"]
+[Site "Preston ENG"]
+[Date "1989.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nigel Rodney Davies"]
+[Black "Patrick Wolff"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.e3 g6 6.Nc3 Bg7 7.a4 O-O
+8.Ra3 Bb7 9.Nh3 e6 10.Nf4 e5 11.Nh3 e4 12.Nf4 d6 13.Be2 axb5
+14.Bxb5 Na6 15.O-O Nb4 16.Bc4 Qe7 17.Qd2 g5 18.Nfe2 Ng4 19.b3
+Qe5 20.g3 Qf5 21.Nxe4 Qxe4 22.f3 Qxe3+ 23.Qxe3 Nxe3 24.Bxe3
+Nc2 25.Bc1 Nxa3 26.Bxa3 Ba6 27.Rc1 Rfb8 0-1

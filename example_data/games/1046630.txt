@@ -1,0 +1,23 @@
+[Event "Slovak League (1st) 1995/96, Slovakia"]
+[Site "Slovak League (1st) 1995/96, Slovakia"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Karol Petrik"]
+[Black "Lubomir Ftacnik"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. g3 g6 5. Bg2 Bg7 6. d4 cxd4
+7. Nxd4 Nc6 8. Nde2 Nf6 9. O-O O-O 10. Rb1 Bd7 11. b3 h5
+12. Bb2 h4 13. Nf4 hxg3 14. hxg3 Ne5 15. Ncd5 Nxd5 16. Nxd5
+Bc6 17. f4 Bxd5 18. exd5 Qb6+ 19. Rf2 Nd7 20. c4 a5 21. Qe1
+Bxb2 22. Rbxb2 Rfe8 23. Rbe2 Qb4 24. Qc1 f6 25. Re3 a4
+26. Rfe2 axb3 27. axb3 Qb6 28. Kh2 Nf8 29. Qe1 Rac8 30. Rxe7
+Rxe7 31. Rxe7 Qxb3 32. Qa1 Nh7 33. Qa7 g5 34. Rxb7 Qc2 35. Rb8
+Qxc4 36. Qa8 Rf8 37. Rxf8+ Nxf8 38. Qc6 Qb4 39. fxg5 fxg5
+40. Qc1 Qg4 41. Qe3 Qh5+ 42. Kg1 Qd1+ 43. Kf2 Qc2+ 44. Kg1
+Qd1+ 1/2-1/2

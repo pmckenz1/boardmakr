@@ -1,0 +1,19 @@
+[Event "Olympiad"]
+[Site "Varna BUL"]
+[Date "1962.10.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Kick Langeweg"]
+[Black "Istvan Bilek"]
+[ECO "A71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3
+Bg7 8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.Nd2 Nxg3 12.hxg3 O-O
+13.Be2 f5 14.exf5 Bxf5 15.O-O Nd7 16.Nc4 Ne5 17.Ne3 Bg6 18.Bh5
+Bh7 19.Qd2 b5 20.Nxb5 Rb8 21.Be2 g4 22.b3 Qd7 23.Na3 Rb4
+24.Nac2 Re4 25.f3 gxf3 26.gxf3 Rxe3 27.Nxe3 Qh3 28.Rad1 Qg4
+29.Kh1 Rf6 30.Qa5 Qh3+ 31.Kg1 Rg6 32.Ng4 Rxg4 0-1

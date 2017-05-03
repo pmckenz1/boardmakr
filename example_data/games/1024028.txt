@@ -1,0 +1,22 @@
+[Event "IV Anibal Open, Linares ESP"]
+[Site "09"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Tal Shaked"]
+[ECO "E90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.h3 e5 7.d5 Nh5
+8.Nh2 a5 9.g3 Na6 10.Be2 Nc5 11.Bxh5 gxh5 12.g4 hxg4 13.hxg4
+Qh4 14.Be3 h5 15.Kd2 hxg4 16.Nf3 Qd8 17.Qg1 Qf6 18.Nh4 c6
+19.f3 Bh6 20.fxg4 Bxe3+ 21.Qxe3 Qf4 22.Qxf4 exf4 23.Raf1 b5
+24.Rxf4 bxc4 25.dxc6 Rb8 26.Rb1 Kg7 27.e5 Nd3 28.Rxc4 Nxe5
+29.Rd4 Rh8 30.Nf5+ Bxf5 31.gxf5 Nf3+ 32.Ke3 Nxd4 33.Kxd4 Rhc8
+34.f6 Kxf6 35.Nd5+ Kg7 36.c7 Rb7 37.b3 Rbxc7 38.Nxc7 Rxc7
+39.Kd5 Rc2 40.a4 f5 41.Ke6 f4 42.Rg1+ Kf8 43.Rf1 Re2+ 44.Kxd6
+Re4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Brett Tindall"]
+[Black "Ian Wright"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 Nf4 11. Bf1 h6 12. Be3
+f5 13. Nd2 Nxg2 14. Bxg2 f4 15. c5 fxe3 16. Rxe3 g5 17. Rc1
+Ng6 18. cxd6 cxd6 19. Nb5 Rf7 20. Rec3 Bf8 21. Nc4 Rf6 22. Ne3
+Nf4 23. Rc7 a6 24. Na3 b5 25. Nb1 Bh3 26. Bf3 Rc8 27. R7c6
+Rxc6 28. dxc6 Rf7 29. Nc3 Be6 30. Ncd5 Nh3+ 31. Kg2 g4
+32. Nxg4 Bxg4 33. Bxg4 Nxf2 34. c7 Qh4 35. Qb3 Nxg4 36. Qg3
+Qg5 37. c8=Q Rg7 38. Rf1 Qd2+ 39. Kh1 Nf2+ 40. Qxf2 1-0

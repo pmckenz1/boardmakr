@@ -1,0 +1,32 @@
+[Event "It (open)"]
+[Site "Philadelphia (USA)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alex Yermolinsky"]
+[Black "Nick DeFirmian"]
+[ECO "A35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "200"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.g3 b6 5.Bg2 Bb7 6.O-O e6 7.e4 d6
+8.d4 cxd4 9.Nxd4 Nxd4 10.Qxd4 Be7 11.b3 O-O 12.Bb2 Qc7 13.Rac1
+Rfd8 14.Rfe1 Rac8 15.Nd1 Bc6 16.Ne3 Qb7 17.Nc2 Qa8 18.Qe3 Bb7
+19.Re2 h6 20.Rce1 Nd7 21.Qd2 a6 22.Nd4 Nc5 23.Qd1 Bf8 24.Qb1
+Qb8 25.Rd2 b5 26.cxb5 axb5 27.b4 Na4 28.a3 e5 29.Nf5 Nb6
+30.Ne3 Qa8 31.Red1 Re8 32.Qd3 Nc4 33.Re2 Nxe3 34.Qxe3 Rc4
+35.f3 Rec8 36.Red2 Be7 37.h4 Rc2 38.Bh3 R8c7 39.Bf1 Qa4
+40.Rxc2 Rxc2 41.Rd2 Rxd2 42.Qxd2 Bc6 43.Be2 Qa8 44.Kg2 Qb7
+45.Bd1 Bd7 46.Bb3 Be6 47.Qc2 Bxb3 48.Qxb3 Qc6 49.h5 Bg5 50.Qd3
+Kf8 51.a4 bxa4 52.b5 Qc5 53.Ba3 Qe3 54.Bxd6+ Ke8 55.Qc2 Qb6
+56.Qc8+ Bd8 57.Qc6+ Qxc6 58.bxc6 Bf6 59.Kf1 Kd8 60.Ke2 a3
+61.Bxa3 Kc7 62.Bf8 g6 63.hxg6 fxg6 64.Bxh6 Kxc6 65.Kf2 Kd7
+66.Kg2 Ke6 67.Kh3 Be7 68.Kg4 Bd8 69.Bd2 Be7 70.Bg5 Bb4 71.Kh3
+Bc5 72.Kg2 Bb4 73.Kf1 Bc5 74.Ke2 Bb4 75.Kd3 Be1 76.g4 Ba5
+77.Kc4 Bc7 78.Kc5 Bd6+ 79.Kc6 Bb4 80.Kc7 Ba5+ 81.Kc8 Bb6
+82.Bd2 Kd6 83.Bc3 Bc5 84.Kd8 Ke6 85.Ke8 Bd6 86.Bd2 Be7 87.Bh6
+g5 88.Bg7 Bb4 89.Kd8 Be7+ 90.Kc7 Bb4 91.Kc6 Ba3 92.Bh6 Kf6
+93.Kd5 Bb4 94.Bxg5+ Kxg5 95.Kxe5 Bc3+ 96.Kd5 Kf4 97.Ke6 Kxf3
+98.Kf5 Kg3 99.g5 Kh4 100.g6 Kh5 1/2-1/2

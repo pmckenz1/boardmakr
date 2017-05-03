@@ -1,0 +1,17 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Viktor Vass"]
+[Black "Wolfgang Langer"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "2125"]
+[PlyCount "35"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. c3 Nf6 6. Nf3 c6
+7. O-O O-O 8. Bg5 Nbd7 9. Qc2 h6 10. Bh4 Qc7 11. Nbd2 b6
+12. Rfe1 Bb7 13. Bg3 Bxg3 14. hxg3 Rfe8 15. Rxe8+ Rxe8 16. Re1
+Rxe1+ 17. Nxe1 c5 18. dxc5 1/2-1/2

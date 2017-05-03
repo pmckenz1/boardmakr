@@ -1,0 +1,19 @@
+[Event "Unknown"]
+[Site "Unknown"]
+[Date "1865.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Bernhard von Guretzky-Cornitz"]
+[Black "Adolf Anderssen"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 e5 2.Nc3 Bc5 3.f4 d6 4.Nf3 Nf6 5.d4 exd4 6.Nxd4 O-O 7.Be3
+Re8 8.Bd3 Ng4 9.Bg1 c6 10.Qf3 Qb6 11.Nce2 Qxb2 12.Rd1 Qxa2
+13.h3 Nf6 14.g4 Qa5+ 15.Kf1 Qd8 16.g5 Nfd7 17.Nf5 Bxg1 18.Rxg1
+Nf8 19.Nh6+ gxh6 20.gxh6+ Ng6 21.f5 Qh4 22.Nf4 Qxh6 23.Bc4 d5
+24.fxg6 fxg6 25.exd5 Rf8 26.dxc6+ Kh8 27.cxb7 Bxb7 28.Qc3+ Qg7
+29.Qxg7+ Kxg7 30.Rd4 Nc6 31.Rd7+ Kh8 32.Bf7 Ba6+ 0-1

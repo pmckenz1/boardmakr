@@ -1,0 +1,25 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Djordje Brkic"]
+[Black "Milan Franic"]
+[ECO "B87"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 b5 8. Qf3 Qb6 9. Be3 Qb7 10. a3 Nbd7 11. O-O Nc5
+12. Rfe1 Be7 13. Bg5 O-O 14. Ba2 h6 15. Bh4 Ra7 16. h3 Qa8
+17. Qe2 Bb7 18. Bxf6 Bxf6 19. Rad1 Qb8 20. Qg4 Ba8 21. f4 Na4
+22. Nxa4 bxa4 23. Nxe6 Re8 24. b4 axb3 25. Bxb3 Rae7 26. f5
+fxe6 27. fxe6 Be5 28. Rf1 Qb6+ 29. Kh1 Qe3 30. Ba4 Qg3
+31. Qxg3 Bxg3 32. Bxe8 Rxe8 33. Rd4 Rxe6 34. Rf3 Be5 35. Rb4
+Kh7 36. Rf8 Bc6 37. Rc8 a5 38. Rxc6 axb4 39. axb4 Bg3 40. Rc3
+Be1 41. Rc4 Bg3 42. Rc3 Bf4 43. g3 Be5 44. Rb3 Bd4 45. b5 Bb6
+46. Rb4 Kg6 47. Kg2 Rf6 48. Rc4 Rf2+ 49. Kh1 Kf6 50. Rc6 Bc5
+51. b6 Rxc2 52. b7 Rb2 53. Rc7 Bd4 54. h4 h5 55. Rd7 Be5
+56. g4 hxg4 0-1

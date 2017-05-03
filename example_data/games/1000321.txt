@@ -1,0 +1,21 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "6"]
+[Result "1-0"]
+[White "Samson Benen"]
+[Black "Mark Knecht"]
+[ECO "C05"]
+[WhiteElo "2258"]
+[BlackElo "2112"]
+[PlyCount "75"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6
+7. f4 g6 8. Ne2 Ba6 9. Bxa6 Nxa6 10. O-O b5 11. Kh1 c4 12. Qe1
+Be7 13. g4 Qb6 14. f5 O-O-O 15. Nf3 h6 16. a3 Nc7 17. f6 Bf8
+18. Be3 a5 19. Qd2 Qb7 20. Rg1 Nb6 21. Rg3 Na4 22. Rh3 Na6
+23. Kg2 Qd7 24. Rb1 b4 25. axb4 axb4 26. Bxh6 Bxh6 27. Rxh6
+Qb7 28. Rxh8 Rxh8 29. Qc2 Nb6 30. h4 Qd7 31. Rh1 Qa4 32. Qxa4
+Nxa4 33. Ra1 Nxb2 34. Rxa6 Kb7 35. Ra2 b3 36. Rxb2 Ra8 37. Nc1
+Ra1 38. Nxb3 1-0

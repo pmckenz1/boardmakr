@@ -1,0 +1,15 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Sandor Farago"]
+[Black "Joachim Wallner"]
+[ECO "B90"]
+[WhiteElo "2310"]
+[BlackElo "2290"]
+[PlyCount "20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. Be2 Qc7 8. O-O Nbd7 9. Kh1 b6 10. f4 Bb7 1/2-1/2

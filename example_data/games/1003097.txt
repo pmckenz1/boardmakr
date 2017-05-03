@@ -1,0 +1,19 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.14"]
+[EventDate "1905.08.14"]
+[Round "1"]
+[Result "0-1"]
+[White "Alfred Ehrhardt Post"]
+[Black "Horatio Caro"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2
+Nd6 7. Bxc6 bxc6 8. dxe5 Nb7 9. Nc3 Nc5 10. Nd4 O-O 11. Re1
+Ne6 12. Nf5 f6 13. Nxe7+ Qxe7 14. Qc4 Rb8 15. b3 Rb4 16. exf6
+Rxf6 17. Qe2 Qc5 18. Qe3 Qf5 19. Bd2 Rg4 20. h3 Rf4 21. Rac1
+d5 22. Nd1 Re4 23. Qd3 Nf4 24. Qf1 Rxe1 25. Bxe1 Nxh3+ 26. Kh2
+Qf4+ 0-1

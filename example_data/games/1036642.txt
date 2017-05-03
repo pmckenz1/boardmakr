@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1907.03.24"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Mikhail Chigorin"]
+[ECO "A54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e3 e5 5. Bd3 Be7 6. Nge2 O-O
+7. f4 exd4 8. exd4 Re8 9. O-O Nf8 10. f5 d5 11. Ng3 c5 12. Be3
+a6 13. cxd5 Bd6 14. Bg5 cxd4 15. Nce4 Be5 16. Nh5 N8d7 17. Re1
+b5 18. Rc1 Bb7 19. Rc6 Bxc6 20. dxc6 Nf8 21. Bxf6 Qc7 22. Qg4
+Bxh2+ 23. Kh1 g6 24. Qg5 Bd6 25. Qh6 Ne6 26. Be5 Bxe5
+27. Nef6+ Bxf6 28. Nxf6+ Kh8 29. Qxh7# 1-0

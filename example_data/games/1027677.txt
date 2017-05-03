@@ -1,0 +1,19 @@
+[Event "Ch BRD"]
+[Site "Bad Pyrmont (Germany)"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Hans Ree"]
+[Black "Istvan Bilek"]
+[ECO "B75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+a6 8.Bc4 b5 9.Bb3 Bb7 10.Qd2 Nbd7 11.a4 b4 12.Nd5 a5 13.Bh6
+O-O 14.O-O-O Nc5 15.Bxg7 Kxg7 16.Nxf6 exf6 17.h4 h5 18.Nb5 d5
+19.exd5 Bc8 20.Qd4 Nxb3+ 21.cxb3 Bd7 22.Kb1 Bxb5 23.axb5 a4
+24.Qxb4 axb3 25.Rd3 Ra5 26.Rhd1 Qa8 27.Qxb3 Rb8 28.d6 Raxb5
+29.Qxb5 Rxb5 30.d7 Qd8 31.Re3 1/2-1/2

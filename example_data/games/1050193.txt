@@ -1,0 +1,18 @@
+[Event "50th USSR Championship"]
+[Site "Moscow URS"]
+[Date "1983.04.18"]
+[EventDate "1983.04.03"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Efim Geller"]
+[Black "Lev Polugaevsky"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 d6 6.Be2 Nf6 7.Be3
+Be7 8.O-O O-O 9.f4 a6 10.a4 Qc7 11.Kh1 Re8 12.Bg1 e5 13.Nb3
+exf4 14.a5 Ne5 15.Rxf4 Be6 16.Nd5 Bxd5 17.exd5 Nfd7 18.c4 g6
+19.Nd2 Bg5 20.Rd4 f5 21.b4 Re7 22.c5 Rae8 23.Rc1 Nf7 24.cxd6
+Qxd6 25.Bf1 Bf6 26.Rd3 Qxb4 27.Rb3 Qxa5 1/2-1/2

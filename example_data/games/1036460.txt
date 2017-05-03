@@ -1,0 +1,20 @@
+[Event "Petersburg (Match)"]
+[Site "Petersburg (Match)"]
+[Date "1897.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Emmanuel Schiffers"]
+[Black "Mikhail Chigorin"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 Qe7 4. Nf3 d5 5. d3 dxe4 6. dxe4
+Qxe4+ 7. Be2 Nc6 8. O-O Bd7 9. Nc3 Qg6 10. Ne5 Nxe5 11. Bh5
+O-O-O 12. Bxg6 hxg6 13. Qe2 Bd6 14. Ne4 Nf3+ 15. gxf3 Bxh2+
+16. Kg2 Bh3+ 17. Kh1 Be5 18. Qe1 Bg4+ 19. Kg1 Bxf3 20. Ng3 Ne7
+21. Qe3 Bc6 22. Qxa7 b6 23. Be3 Nf5 24. f4 Nxg3 25. fxe5 Rh1+
+26. Kf2 Rh2+ 27. Kxg3 Rdh8 28. Qa6+ Kb8 29. Bxb6 Rg2+ 30. Kf4
+Rh4+ 1/2-1/2

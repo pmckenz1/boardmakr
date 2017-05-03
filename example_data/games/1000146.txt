@@ -1,0 +1,25 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.29"]
+[EventDate "1900.??.??"]
+[Round "7.1"]
+[Result "1/2-1/2"]
+[White "James Mortimer"]
+[Black "Jacques Mieses"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Bc5 6.Nb3 Bb6
+7.Bg5 d5 8.e5 h6 9.Bh4 g5 10.Bg3 Nfd7 11.h4 Nc6 12.Bb5 a6
+13.Bxc6 bxc6 14.Qh5 gxh4 15.Rxh4 Nf8 16.Rg4 Ng6 17.N1d2 Qd7
+18.O-O-O a5 19.Ne4 Qe7 20.Nd6+ Kf8 21.Rd3 Rh7 22.Rf3 Nh8
+23.Rf6 Qa7 24.Bf4 Bxf2 25.Bxh6+ Ke7 26.Qg5 Kd7 27.Qf4 Ba6
+28.Qxf2 Qxf2 29.Rxf2 Rxh6 30.Nc5+ Ke7 31.Nxa6 Rxa6 32.Rg7 Kf8
+33.Rg3 Rh5 34.Rb3 Ra7 35.Rb8+ Kg7 36.Rf3 Ng6 37.Ne8+ Kh6
+38.Nf6 Rh1+ 39.Kd2 Kg5 40.Rg8 Rh4 41.Rg7 Rf4 42.Rg3+ Kf5
+43.R3xg6 fxg6 44.Rxa7 Kxe5 45.Nd7+ Kd6 46.Nb8 Rf2+ 47.Kc3 Rxg2
+48.b3 e5 49.Ra6 Kc7 50.Rxc6+ Kxb8 51.Rc5 d4 52.Kd3 Rg3+ 53.Ke4
+Re3+ 54.Kd5 g5 55.Rxa5 g4 56.Ra6 g3 57.Rg6 Re2 58.Rxg3 Rxc2
+1/2-1/2

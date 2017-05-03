@@ -1,0 +1,17 @@
+[Event "Wijk aan Zee (Netherlands)"]
+[Site "Wijk aan Zee NED"]
+[Date "1974.01.22"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Hans Ree"]
+[ECO "C69"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Ne7 6.Nxe5 Qd4
+7.Qh5 g6 8.Qg5 Bg7 9.Nf3 Qxe4 10.Re1 Qb4 11.c3 Qd6 12.d4 h6
+13.Qg3 Qxg3 14.hxg3 Be6 15.Bf4 O-O-O 16.Be5 Bxe5 17.Nxe5 Rhe8
+18.Nd2 c5 19.Ndf3 cxd4 20.Nxd4 Bd5 21.Ng4 1/2-1/2

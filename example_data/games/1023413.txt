@@ -1,0 +1,17 @@
+[Event "61, Tashkent Uzbekistan"]
+[Site "61, Tashkent Uzbekistan"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Iossif Davidovich Dorfman"]
+[ECO "A55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.e4 c6 6.Be2 Be7 7.O-O
+O-O 8.Qc2 a6 9.Rd1 Qc7 10.b3 b5 11.a3 Re8 12.Bg5 Bb7 13.Rac1
+Rac8 14.dxe5 Nxe5 15.Nxe5 dxe5 16.b4 h6 17.Bh4 Rcd8 18.Bg3
+1/2-1/2

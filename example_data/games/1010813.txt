@@ -1,0 +1,22 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Denis Krasnikov"]
+[Black "Bator Sambuev"]
+[ECO "B26"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "84"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6
+7. Qd2 Nd4 8. Nge2 Ne7 9. O-O O-O 10. Rab1 Nec6 11. a3 Qa5
+12. Kh1 Nxe2 13. Nxe2 Qxd2 14. Bxd2 Bd7 15. Bf4 Be5 16. Be3
+Nd4 17. Nxd4 cxd4 18. Bd2 Rac8 19. Rfc1 Ba4 20. c4 Bb3 21. Bb4
+g5 22. a4 Bxa4 23. Ra1 Bc6 24. Rxa7 f5 25. exf5 Rxf5 26. Bxc6
+bxc6 27. Be1 Rf3 28. Ra3 c5 29. Kg2 Rcf8 30. Rb1 h5 31. b4
+cxb4 32. Rxb4 g4 33. Rb7 h4 34. Rab3 h3+ 35. Kf1 Bxg3 36. hxg3
+Rxg3 37. Rb8 h2 38. Rxf8+ Kxf8 39. fxg3 h1=Q+ 40. Ke2 Qf3+
+41. Kd2 e5 42. Ra3 Ke7 0-1

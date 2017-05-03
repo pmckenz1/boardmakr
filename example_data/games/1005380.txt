@@ -1,0 +1,22 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "10"]
+[Result "1-0"]
+[White "Vladislav Borovikov"]
+[Black "Anatolij Bets"]
+[ECO "D43"]
+[WhiteElo "2470"]
+[BlackElo "2439"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6
+7. e3 Nd7 8. Bd3 g6 9. e4 dxe4 10. Nxe4 Qf4 11. c5 Be7 12. O-O
+O-O 13. Re1 Rd8 14. Qc2 Bf8 15. Re3 Qc7 16. Rae1 Bg7 17. Nd6
+b6 18. Bc4 Nf8 19. Ne5 Rxd6 20. cxd6 Qxd6 21. Rf3 Qxd4
+22. Nxf7 Bd7 23. Rd1 Qxb2 24. Nxh6+ Kh7 25. Qxb2 Bxb2 26. Ng4
+Kg7 27. Rxf8 Rxf8 28. Rxd7+ Rf7 29. Bxe6 Rxd7 30. Bxd7 c5
+31. Bb5 Kf7 32. Bc4+ Ke7 33. f4 Bd4+ 34. Kf1 b5 35. Bxb5 Ke6
+36. Ke2 g5 37. fxg5 Kf5 38. Kf3 Kxg5 39. Bd3 Bc3 40. g3 a5
+41. a4 1-0

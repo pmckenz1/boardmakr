@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1896.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jacoby"]
+[Black "Rudolf Rezso Charousek"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6
+7.Bxc6 bxc6 8.dxe5 Nb7 9.b3 O-O 10.Bb2 d5 11.Nbd2 Nc5 12.c4
+Ne6 13.g3 f6 14.Rfe1 fxe5 15.Nxe5 Bc5 16.Ndf3 Ng5 17.Bd4 Bxd4
+18.Nxd4 Nh3+ 19.Kh1 Nxf2+ 20.Kg1 Nh3+ 21.Kh1 dxc4 22.Nexc6 Bb7
+23.Qxc4+ Kh8 24.Re6 Qg5 25.Qb5 Qxb5 26.Nxb5 Rae8 0-1

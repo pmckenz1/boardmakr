@@ -1,0 +1,18 @@
+[Event "It (open)"]
+[Site "Osterskars (Sweden)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Nigel Rodney Davies"]
+[Black "Christer Hartman"]
+[ECO "D21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.c4 e6 2.Nf3 d5 3.d4 dxc4 4.e4 b5 5.a4 c6 6.b3 Bb4+ 7.Bd2
+Bxd2+ 8.Qxd2 Nf6 9.e5 Nd5 10.bxc4 bxc4 11.Bxc4 a5 12.O-O Ba6
+13.Rc1 Bxc4 14.Rxc4 O-O 15.Rc1 Ra7 16.Na3 Rb7 17.Nc4 Nb4
+18.Nd6 Rc7 19.Ra3 f6 20.Nc4 Rd7 21.exf6 gxf6 22.Re1 e5 23.Nh4
+Rg7 24.Nf5 Rg5 25.Ncd6 Nd7 26.f4 exf4 27.Re7 Rg6 28.Rh3 1-0

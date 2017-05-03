@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Anatoly Davidovich Machulsky"]
+[Black "Efim Geller"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.Re1
+b5 8.e5 Nxe5 9.Rxe5 bxa4 10.Nxd4 O-O 11.Nc3 Re8 12.Bg5 Bb7
+13.Nf5 Bf8 14.Qd4 c5 15.Qf4 Rxe5 16.Nh6+ gxh6 17.Bxf6 Qxf6
+18.Qxf6 Rae8 19.f4 R5e6 20.Qf5 Rd6 21.Rd1 Be4 22.Nxe4 Rxd1+
+23.Kf2 Rxe4 24.Qxe4 a3 25.bxa3 d5 26.Qe2 Rd4 27.g3 c4 28.Qg4+
+Bg7 29.Qc8+ Bf8 30.Kf3 Rd2 31.Qf5 Bxa3 32.Qg4+ Kf8 33.Qc8+ Kg7
+34.Qxa6 Bb2 35.Qb7 Ba3 36.f5 Bc5 37.f6 Kg6 38.g4 Bd6 39.a4
+Kxf6 40.a5 Ke5 41.Qxf7 Kd4 42.Qe6 c3 43.Qxd6 Rxc2 44.Qb4+ Kd3
+45.Qb5+ 1-0

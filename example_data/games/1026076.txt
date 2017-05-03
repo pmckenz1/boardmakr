@@ -1,0 +1,31 @@
+[Event "Staatsliga"]
+[Site "Klagenfurt (Austria)"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Arne Duer"]
+[Black "Gerardo F Barbero"]
+[ECO "D94"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "179"]
+
+1.c4 c6 2.d4 d5 3.Nf3 Nf6 4.e3 g6 5.Nc3 Bg7 6.Bd3 O-O 7.O-O
+Bg4 8.h3 Bxf3 9.Qxf3 e6 10.Rd1 Nbd7 11.Bf1 Re8 12.Qe2 a6
+13.Bd2 Nb6 14.b3 e5 15.dxe5 Rxe5 16.Be1 Qe7 17.Rac1 Re8 18.a4
+dxc4 19.bxc4 Nbd7 20.Rb1 Nc5 21.Qc2 h5 22.Ne2 h4 23.Bb4 Nfe4
+24.Nc3 Nxc3 25.Bxc3 Rf5 26.Bb4 Qc7 27.Bd3 Rh5 28.Be2 Rhe5
+29.Bf3 f5 30.Rd2 a5 31.Ba3 Qf7 32.Rbd1 Bf8 33.Bb2 R5e6 34.Rd4
+Be7 35.Bc3 Bf6 36.Rf4 Bxc3 37.Qxc3 g5 38.Rfd4 Re5 39.Rd8 Kh7
+40.Rxe8 Qxe8 41.Qxa5 Qe7 42.Qa8 Qg7 43.Qc8 Re6 44.Qd8 Re7
+45.a5 Rd7 46.Qe8 Rxd1+ 47.Bxd1 Qf6 48.Bc2 Kg7 49.Qh5 Qa1+
+50.Kh2 Ne6 51.Qf3 Qe5+ 52.g3 Kf6 53.Kg2 hxg3 54.Qxg3 Qc3
+55.Bxf5 Qxc4 56.Bxe6 Qxe6 57.Qf3+ Kg6 58.Qg4 Qd5+ 59.e4 Qxa5
+60.Qe6+ Kg7 61.Qe7+ Kg6 62.Qxb7 Qa4 63.Qe7 Qb5 64.Qd6+ Kf7
+65.Kg3 Qf1 66.Qd7+ Kf8 67.Qxc6 Qg1+ 68.Kf3 Qh1+ 69.Ke2 Qxh3
+70.Qf6+ Ke8 71.Qxg5 Qb3 72.Qe5+ Kf8 73.Qd6+ Ke8 74.f3 Qc2+
+75.Qd2 Qc5 76.Qd3 Qg1 77.Qb5+ Kd8 78.Qa5+ Ke8 79.Kd3 Qf1+
+80.Ke3 Qg1+ 81.Kf4 Qh2+ 82.Ke3 Qg1+ 83.Kf4 Qh2+ 84.Kg5 Qg3+
+85.Kf6 Qxf3+ 86.Qf5 Qc3+ 87.e5 Kd8 88.Qe4 Qc6+ 89.Kf5 Qxe4+
+90.Kxe4 1/2-1/2

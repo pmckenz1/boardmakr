@@ -1,0 +1,24 @@
+[Event "Zurich"]
+[Site "Zurich SUI"]
+[Date "1934.07.14"]
+[EventDate "1934.07.14"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Fritz Gygli"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "D53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Bd3 dxc4 7.Bxc4
+a6 8.Nf3 b5 9.Bd3 Bb7 10.Qe2 c5 11.O-O Nbd7 12.Rad1 cxd4
+13.Nxd4 Qb6 14.Qc2 h6 15.Bh4 Rac8 16.Qb1 Ne5 17.Bxf6 Bxf6
+18.Be4 Rfd8 19.Bxb7 Qxb7 20.Nb3 Nc4 21.Rxd8+ Rxd8 22.Rd1 Rxd1+
+23.Nxd1 Qd5 24.h3 b4 25.Qc2 a5 26.Nc1 Be5 27.b3 Na3 28.Qd3
+Qxd3 29.Nxd3 Bd6 30.Kf1 Kf8 31.Ke2 Ke7 32.N3b2 Kd7 33.Kd3 Kc6
+34.Nc4 Nxc4 35.Kxc4 f5 36.e4 Bc5 37.exf5 exf5 38.f3 g5 39.g4
+fxg4 40.hxg4 Be7 41.Nb2 Bc5 42.Nd3 Bd6 43.Kd4 Bg3 44.Nc1 Kd6
+45.Ke4 Ke6 46.Nd3 Bd6 47.Nb2 Bc7 48.Nc4 Bd8 49.Ne3 Be7 50.Nf5
+Bf8 51.Nd4+ Kd6 52.Nf5+ Ke6 53.Ne3 Be7 54.Nc4 Bd8 55.Ne5 Bb6
+56.Nd3 Ba7 57.Nb2 Bb6 1/2-1/2

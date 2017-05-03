@@ -1,0 +1,20 @@
+[Event "Debrecen"]
+[Site "Debrecen HUN"]
+[Date "1925.??.??"]
+[EventDate "1925.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "Vladimir Vukovic"]
+[Black "Arpad Vajda"]
+[ECO "D64"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O
+7. Rc1 c6 8. a3 a6 9. Qc2 dxc4 10. Bxc4 b5 11. Ba2 c5 12. Rd1
+c4 13. Bb1 h6 14. h4 Re8 15. Ne5 Bb7 16. Rh3 Nf8 17. Bxh6 Nh5
+18. Qe2 g6 19. g4 Ng7 20. h5 Bf6 21. hxg6 Bxe5 22. gxf7+ Kxf7
+23. dxe5 Qa5 24. e4 Re7 25. Bg5 Rd7 26. Qf3+ Kg8 27. Bf6 b4
+28. axb4 Qxb4 29. Rxd7 Nxd7 30. Qe3 Qf8 31. Qg5 Nc5 32. Qg6
+Ra7 33. Rh7 Bc6 34. Qh6 1-0

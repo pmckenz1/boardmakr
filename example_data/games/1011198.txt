@@ -1,0 +1,21 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Piotr Staniszewski"]
+[Black "Bartosz Socko"]
+[ECO "E67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7
+7. O-O e5 8. h3 Re8 9. e4 exd4 10. Nxd4 a6 11. Re1 Rb8 12. Nc2
+Ne5 13. Na3 Be6 14. f4 Nc6 15. Be3 Qc8 16. Kh2 h5 17. Rc1 Nd7
+18. Qd2 Nc5 19. Nd5 f5 20. Bxc5 dxc5 21. e5 Kf7 22. Qf2 Nd4
+23. Nc2 c6 24. Nxd4 cxd4 25. Qxd4 Qd8 26. Qf2 h4 27. Rcd1 Rh8
+28. Nf6 Qe7 29. gxh4 Rbd8 30. h5 gxh5 31. Bf3 Rxd1 32. Rxd1
+Bxf6 33. exf6 Qxf6 34. Qb6 Qh4 35. Qc7+ Qe7 36. Qe5 Qf6
+37. Qc7+ Qe7 38. Qe5 Qf6 39. Qc7+ 1/2-1/2

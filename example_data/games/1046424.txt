@@ -1,0 +1,22 @@
+[Event "Czechoslovakiet"]
+[Site "Czechoslovakiet"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Jiri Lechtynsky"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 c5 5. e3 O-O 6. a3
+Bxd2+ 7. Bxd2 cxd4 8. exd4 d5 9. Bd3 dxc4 10. Bxc4 Nc6 11. Bg5
+Qd6 12. Bxf6 gxf6 13. O-O Rd8 14. Qe2 Ne7 15. Rad1 Rb8 16. Nd2
+f5 17. Qh5 Ng6 18. Nf3 Kg7 19. Rd3 b5 20. Ba2 Qe7 21. Qh3 b4
+22. Re1 bxa3 23. bxa3 Rb2 24. Bc4 Qc7 25. Ne5 Rc2 26. Bb3 Nxe5
+27. dxe5 Rxd3 28. Qxd3 Rc3 29. Qd2 Rxb3 30. Qg5+ Kf8 31. Rd1
+Qd7 32. Qc1 Qe8 33. Qh6+ Kg8 34. Qg5+ Kf8 35. h4 Bd7 36. Qh6+
+Kg8 37. Qg5+ Kf8 38. Qf6 Rb8 39. h5 Qd8 40. Qh8+ Ke7 41. Qf6+
+Kf8 42. Qh8+ Ke7 43. Qf6+ 1/2-1/2

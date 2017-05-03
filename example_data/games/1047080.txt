@@ -1,0 +1,25 @@
+[Event "FIDE Cand Groningen UNEDO"]
+[Site "01"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alisa Galliamova"]
+[Black "Ketevan Arakhamia-Grant"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Nf3 c5 8.Rb1 O-O 9.Be2 cxd4 10.cxd4 Qa5+ 11.Qd2 Qxd2+
+12.Bxd2 b6 13.O-O Bb7 14.Bd3 e6 15.Rfc1 Nc6 16.e5 Rad8 17.Bg5
+Nxd4 18.Bxd8 Nxf3+ 19.gxf3 Rxd8 20.Be4 Bxe4 21.fxe4 Bxe5
+22.Rd1 Bd4 23.e5 Rd5 24.a4 Kg7 25.Kg2 Bxe5 26.Rxd5 exd5 27.Rb5
+Kf6 28.Rxd5 Ke6 29.Rd8 a5 30.h3 Bd6 31.Kf3 Bc5 32.Ke2 h5 33.f4
+Kf5 34.Kf3 f6 35.Rd3 Bg1 36.Rd5+ Ke6 37.Rd1 Bc5 38.Ke4 f5
+39.Kf3 Bd6 40.Rd2 Bc5 41.Rd8 h4 42.Rg8 Kd5 43.Rxg6 Kc4 44.Ke2
+Kb3 45.Kd3 Kxa4 46.Kc2 Be3 47.Rh6 b5 48.Rxh4 b4 49.Rh5 Ka3
+50.Rxf5 a4 51.Kb1 Kb3 52.Re5 Bxf4 53.Re4 Bd2 54.Re2 Bc3 55.h4
+a3 56.h5 Ka4 57.Rc2 Be5 58.Re2 Bc3 59.Re3 Kb3 60.Re2 Ka4
+61.Rc2 Be5 62.Rc5 Bb2 63.Rc2 Be5 64.Re2 Bc3 1/2-1/2

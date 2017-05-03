@@ -1,0 +1,31 @@
+[Event "October Revolution 60th Anniversary"]
+[Site "Leningrad URS"]
+[Date "1977.06.28"]
+[EventDate "1977.??.??"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Guillermo Garcia Gonzales"]
+[Black "Yuri Balashov"]
+[ECO "E55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "190"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O
+dxc4 8.Bxc4 Nbd7 9.a3 cxd4 10.axb4 dxc3 11.bxc3 Qc7 12.Be2 e5
+13.c4 b6 14.Bb2 Bb7 15.Qb3 Rfe8 16.Rfd1 a5 17.c5 axb4 18.cxb6
+Nxb6 19.Rxa8 Bxa8 20.Bxe5 Qc6 21.Bf1 Nfd5 22.Bd4 Qa4 23.Rb1
+Qxb3 24.Rxb3 Na4 25.Ne5 f6 26.Nd3 Kf8 27.g4 Bc6 28.Bg2 Nac3
+29.Bc5+ Kf7 30.Nxb4 Nxb4 31.Rxb4 Rc8 32.Bxc6 Rxc6 33.Rb7+ Kg8
+34.Ba3 Ra6 35.Bb2 Ne4 36.Kg2 Ra5 37.Re7 Nd6 38.h4 h6 39.Rd7
+Nc4 40.Bd4 Ne5 41.Rd8+ Kf7 42.Kg3 Ke7 43.Rg8 Kf7 44.Rc8 Nd7
+45.Rc7 Ke7 46.f4 Rb5 47.Kf3 Kd6 48.Ra7 Ke6 49.Ke4 Kd6 50.Kd3
+Rb1 51.Ra6+ Ke7 52.Kc4 Rg1 53.Kd5 Rxg4 54.Ra7 Rg1 55.Bc5+ Ke8
+56.Bd6 Re1 57.Ra8+ Kf7 58.Kc6 Ne5+ 59.fxe5 Rxe3 60.Kd5 fxe5
+61.Bxe5 Kg6 62.Ra7 Kh5 63.Rxg7 Kxh4 64.Bf4 Re2 65.Bxh6 Kh3
+66.Bf4 Rg2 67.Rh7+ Kg4 68.Ke4 Rc2 69.Be3 Rg2 70.Rh1 Kg3
+71.Bf4+ Kf2 72.Rc1 Ke2 73.Rc3 Kf2 74.Ra3 Ke2 75.Bg3 Kf1
+76.Rf3+ Ke2 77.Re3+ Kd2 78.Kd4 Kd1 79.Ra3 Ke2 80.Ke4 Kf1
+81.Kf3 Rf2+ 82.Kg4 Rc2 83.Re3 Re2 84.Rf3+ Kg2 85.Rf4 Ra2
+86.Re4 Rc2 87.Bd6 Kf1 88.Bb4 Rg2+ 89.Kh3 Rc2 90.Ba5 Ra2 91.Bb6
+Ra3+ 92.Kg4 Rg3+ 93.Kf4 Rf3+ 94.Ke5 Kg2 95.Re2+ Kg3 1/2-1/2

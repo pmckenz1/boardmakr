@@ -1,0 +1,24 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Jon Loftur Arnason"]
+[ECO "B25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "121"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.f4 e6 7.Nf3 Nge7
+8.O-O O-O 9.Be3 Nd4 10.e5 Nef5 11.Bf2 Nxf3+ 12.Qxf3 Nd4 13.Qd1
+f5 14.exf6 Qxf6 15.Ne4 Qe7 16.c3 Nc6 17.Qd2 e5 18.Rae1 Bf5
+19.fxe5 Nxe5 20.d4 cxd4 21.Bxd4 Kh8 22.Ng5 a6 23.Bd5 h6 24.Nf3
+g5 25.Qe3 Bh3 26.Rf2 Nxf3+ 27.Bxf3 Qxe3 28.Bxe3 Rab8 29.Bb6
+Rfe8 30.Rxe8+ Rxe8 31.Re2 Rxe2 32.Bxe2 Be6 33.Bf3 Bxa2 34.Bxb7
+Bc4 35.Kf2 Be5 36.Ke3 Kg7 37.Bd4 Kf6 38.b4 h5 39.Ke4 Ke6
+40.Bc8+ Kf6 41.h4 d5 42.Ke3 gxh4 43.gxh4 Bf1 44.Kd2 Bb5 45.Bh3
+Be8 46.Ke3 Bc6 47.Bf1 Bb5 48.Bg2 Ke6 49.Bxe5 Kxe5 50.Bf3 Be8
+51.Be2 Bg6 52.Bxa6 Be8 53.Be2 Bf7 54.b5 Be8 55.b6 Kd6 56.Kf4
+Bf7 57.Bb5 Bg6 58.Kg5 Bf7 59.Kf6 Bg8 60.Kg6 Be6 61.Kxh5 1-0

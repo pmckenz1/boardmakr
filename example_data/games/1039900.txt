@@ -1,0 +1,22 @@
+[Event "St. Petersburg Quadrangular"]
+[Site "St Petersburg (RUS)"]
+[Date "1913.04.22"]
+[EventDate "1913.04.18"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Oldrich Duras"]
+[Black "Grigory Levenfish"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bd6 7.O-O
+O-O 8.e4 dxc4 9.Bxc4 e5 10.Bb3 Qe7 11.Re1 exd4 12.Nxd4 Ne5
+13.Bg5 Bg4 14.Nf5 Bxd1 15.Nxe7+ Bxe7 16.Rexd1 Rfd8 17.h3 h6
+18.Be3 Nd3 19.Rab1 Bb4 20.Bc2 Ne5 21.Rxd8+ Rxd8 22.Bxa7 Rd2
+23.Rc1 Bxc3 24.bxc3 Nc4 25.Bb3 Na5 26.Bc2 Nc4 27.Bd4 Na3
+28.Bxf6 gxf6 29.Bb3 c5 30.c4 Rd4 31.f3 Kf8 32.Kf2 Rd2+ 33.Kg3
+Ke7 34.f4 Kd6 35.Kf3 Kc7 36.g3 Rd3+ 37.Kg4 Kd6 38.Kf5 Ke7
+39.Ba4 h5 40.g4 Rxh3 41.Rd1 hxg4 42.Rd7+ Kf8 43.Kxg4 Rc3
+44.Kf5 Kg7 45.Bb3 Nxc4 46.Bxc4 Rxc4 47.Rxb7 1/2-1/2

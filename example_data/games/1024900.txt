@@ -1,0 +1,19 @@
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Juan Manuel Bellon Lopez"]
+[ECO "B42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 d6 6.Nc3 Nd7 7.O-O
+g6 8.Be3 Ngf6 9.Qd2 Bg7 10.Bh6 O-O 11.Bxg7 Kxg7 12.Kh1 b5
+13.f4 Bb7 14.a3 e5 15.Nde2 Nc5 16.fxe5 dxe5 17.Qg5 Nfxe4
+18.Nxe4 Qxg5 19.Nxg5 e4 20.Nxe4 Bxe4 21.Bxe4 Nxe4 22.Rad1 Rfd8
+23.Nd4 Rd5 24.Kg1 Rad8 25.c3 R8d7 26.Rde1 Nd2 27.Rf2 Nc4
+28.Re8 Re5 29.Rxe5 Nxe5 30.Re2 1/2-1/2

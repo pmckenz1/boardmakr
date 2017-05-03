@@ -1,0 +1,27 @@
+[Event "Simul, 6b"]
+[Site "London ENG"]
+[Date "1928.06.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexander Alekhine"]
+[Black "Victor Berger"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1. d4 Nf6 2. Nf3 b6 3. Nc3 Bb7 4. Bg5 h6 5. Bxf6 exf6 6. e3 g6
+7. h4 h5 8. d5 a6 9. a3 Qe7 10. Bc4 c5 11. a4 d6 12. Nd2 Nd7
+13. Qe2 Ne5 14. f4 Ng4 15. Rh3 Bh6 16. Nde4 Bc8 17. Rf3 O-O
+18. g3 Re8 19. Kd2 Bf5 20. Nf2 Nh2 21. Rh1 Nxf3+ 22. Qxf3 Bd7
+23. Bd3 f5 24. e4 fxe4 25. Ncxe4 Bg7 26. c3 b5 27. Ng5 c4
+28. Bc2 f5 29. Nd1 Qf6 30. Ne3 Re7 31. Ne6 Rae8 32. axb5 axb5
+33. Nxg7 Rxg7 34. Ra1 Qd8 35. Bd1 Rge7 36. Nc2 Qb6 37. Qg2 Kg7
+38. Bf3 Bc8 39. Qg1 Qxg1 40. Rxg1 Ra7 41. Nb4 Kf6 42. Rb1 Bd7
+43. Rf1 Rea8 44. Kc2 Ra1 45. Bd1 Re8 46. Kd2 Ke7 47. Rg1 Kd8
+48. Rf1 Kc7 49. Rg1 Kb6 50. Rf1 Kc5 51. Rg1 Bc8 52. Rf1 Bb7
+53. Rg1 Re4 54. Rg2 Bxd5 55. Nxd5 Kxd5 56. Bf3 Rf1 57. Bxe4+
+Kxe4 58. Re2+ Kf3 59. Re3+ Kg2 60. Re6 Kxg3 61. Rxd6 Kxf4
+62. Rxg6 Rf2+ 63. Ke1 Rxb2 64. Rg5 Rc2 65. Rxh5 Rxc3 66. Rh8
+b4 67. h5 b3 68. Rb8 Rh3 0-1

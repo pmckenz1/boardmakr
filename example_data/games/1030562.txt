@@ -1,0 +1,24 @@
+[Event "Bled"]
+[Site "Bled SVN"]
+[Date "1931.09.20"]
+[EventDate "1931.08.23"]
+[Round "21"]
+[Result "0-1"]
+[White "Vasja Pirc"]
+[Black "Borislav Kostic"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 Bf5 4.cxd5 Nxd5 5.g3 Nb4 6.Na3 N8c6
+7.Bg2 Be4 8.O-O e6 9.b3 Be7 10.Bb2 O-O 11.Nc4 Bf6 12.Nce5 Qd5
+13.a3 Nc2 14.Nxc6 bxc6 15.Rc1 Qxb3 16.Nd2 Qxb2 17.Bxe4 Nxd4
+18.e3 Nf5 19.Nc4 Qb5 20.Qd7 Ne7 21.Qxc7 Nd5 22.Qa5 Rad8 23.a4
+Qxa5 24.Nxa5 Nc3 25.Bf3 c5 26.Nc6 Rd7 27.a5 Rc7 28.a6 Rfc8
+29.Na5 c4 30.Rc2 Nd5 31.Rb1 Kf8 32.Rb5 Rc5 33.Rxc5 Rxc5
+34.Nxc4 Nb4 35.Rc1 Nxa6 36.Be2 Nc7 37.Rc2 a5 38.Kf1 Nd5 39.Ra2
+Bd8 40.Ra3 Nb4 41.e4 Ke7 42.f4 f6 43.Kf2 Bc7 44.Ra1 h6 45.Bf1
+g5 46.Kf3 gxf4 47.gxf4 Rh5 48.h3 Rh4 49.e5 Nd5 50.exf6+ Kxf6
+51.Nxa5 Rxf4+ 52.Ke2 Bb6 53.Nb3 Rf2+ 54.Kd3 Rf3+ 55.Kc2 Ne3+
+0-1

@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad YUG"]
+[Date "1978.10.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Efim Geller"]
+[Black "Dragutin Sahovic"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 b6 2.d4 Bb7 3.Bd3 e6 4.Nf3 c5 5.O-O cxd4 6.Nxd4 Bc5 7.Nb3
+Be7 8.Nc3 Nc6 9.Qg4 g6 10.Qg3 Nf6 11.Bh6 Nh5 12.Qe3 d6 13.Be2
+Nf6 14.Rad1 a6 15.f4 Qc7 16.e5 dxe5 17.fxe5 Nd7 18.Qf4 Ndxe5
+19.Ne4 f5 20.Bg7 Rg8 21.Nf6+ Bxf6 22.Bxf6 Rc8 23.Qh4 Rf8
+24.Rfe1 Kf7 25.Bxa6 Bxa6 26.Bxe5 Nxe5 27.Rxe5 Kg8 28.Rxe6 Qxc2
+29.Rd2 Qc4 30.Qxc4 Bxc4 31.Rxb6+ Rfe8 32.Kf2 Re4 33.Rb4 Rf4+
+34.Kg3 Rg4+ 35.Kh3 Re8 36.Nd4 Re3+ 37.Nf3 Rxf3+ 0-1

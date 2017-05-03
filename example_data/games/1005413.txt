@@ -1,0 +1,20 @@
+[Event "Shenyang Tan Chin Nam cup, CHN"]
+[Site "Shenyang Tan Chin Nam cup CHN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Xiaomin Peng"]
+[Black "Wang Zili"]
+[ECO "B52"]
+[WhiteElo "2570"]
+[BlackElo "2520"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3
+Ne5 7. d4 Nxf3+ 8. gxf3 cxd4 9. Qxd4 Nf6 10. Bg5 Qc6 11. Bxf6
+gxf6 12. O-O-O Rg8 13. Kb1 Rg6 14. f4 b6 15. f5 Rg4 16. Rdg1
+Rh4 17. f3 Bh6 18. Qf2 Bg5 19. Nd5 Kd7 20. f4 Rxf4 21. Nxf4
+Qxe4+ 22. Qc2 Qxc2+ 23. Kxc2 Bxf4 24. Rg7 h5 25. h4 Rc8
+26. Kd3 a5 27. Rhg1 Rc5 28. Rxf7 d5 29. cxd5 Bd6 30. Rf1 Rxd5+
+31. Kc3 Rc5+ 32. Kd3 Rd5+ 33. Kc3 Rc5+ 34. Kd3 1/2-1/2

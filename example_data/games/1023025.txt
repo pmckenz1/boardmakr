@@ -1,0 +1,21 @@
+[Event "CSSR 15/547"]
+[Site "CSSR 15/547"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Maroshczik"]
+[Black "Vladimir Bagirov"]
+[ECO "D80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 c5 6.cxd5 Nxc3
+7.bxc3 Qxd5 8.e3 Bg7 9.Qf3 Qd8 10.Bb5+ Nd7 11.Ne2 cxd4 12.exd4
+O-O 13.O-O Nf6 14.Rfe1 Bg4 15.Qxb7 Rb8 16.Qa6 Nd5 17.Bg3 Rc8
+18.h3 Bxe2 19.Bxe2 Nxc3 20.Bg4 e6 21.Be5 Bxe5 22.dxe5 Qb6
+23.Qxb6 axb6 24.Bf3 Rfd8 25.a4 Rc5 26.Ra3 Rd2 27.Re3 Rc2
+28.Ra1 Kg7 29.Bb7 Rb2 30.Bf3 Rb4 31.Kh2 Rxa4 32.Rxa4 Nxa4
+33.Re4 b5 34.g4 Nc3 35.Rb4 Rxe5 36.Bc6 Rc5 37.Be8 Kf8 38.Bd7
+Ke7 39.Rd4 Nd5 0-1

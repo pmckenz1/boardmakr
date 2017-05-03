@@ -1,0 +1,24 @@
+[Event "Tallinn"]
+[Site "Tallinn EST"]
+[Date "1981.03.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Iivo Nei"]
+[ECO "E00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 c5 6. Bg2 O-O
+7. cxd5 exd5 8. O-O Nc6 9. Bf4 cxd4 10. Nxd4 Bg4 11. h3 Bd7
+12. Nc3 Rc8 13. Rc1 Nxd4 14. Qxd4 Bc5 15. Qd1 Be6 16. a3 Qd7
+17. Be5 d4 18. Na4 b6 19. Kh2 Rfd8 20. b4 Be7 21. Nb2 Rxc1
+22. Qxc1 Bd5 23. f3 Qe6 24. Nd3 Bc4 25. Re1 b5 26. Qa1 Bd6
+27. Qxd4 Bc7 28. Qa1 Bxe5 29. Qxe5 Bxd3 30. exd3 Qb3 31. Qxb5
+Qxa3 32. Re7 h5 33. Qc4 Nd5 34. Rd7 Rxd7 35. Qc8+ Kh7 36. Qxd7
+Nf6 37. Qxf7 h4 38. Qc4 hxg3+ 39. Kxg3 Qa1 40. f4 Qe1+ 41. Kh2
+Qf2 42. f5 Nh5 43. Qe4 Nf4 44. f6+ Kg8 45. fxg7 Ne2 46. Qd5+
+Kxg7 47. Qg5+ Kf7 48. h4 Nf4 49. h5 Nxg2 50. Qxg2 Qh4+ 51. Kg1
+Qxb4 52. Qg6+ Kf8 53. Qf6+ 1/2-1/2

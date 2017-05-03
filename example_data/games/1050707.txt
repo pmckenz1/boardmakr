@@ -1,0 +1,18 @@
+[Event "Tournament"]
+[Site "Riga (Latvia)"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "Aivars Gipslis"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 d5 5.Qc2 Nbd7 6.a3 Bxc3+
+7.Qxc3 h6 8.Bh4 O-O 9.Nf3 b6 10.e3 Bb7 11.Ne5 Qc8 12.Nxd7 Nxd7
+13.Rc1 c5 14.cxd5 Bxd5 15.dxc5 Nxc5 16.Rd1 Qb7 17.b4 Ne4
+18.Qd4 Rac8 19.f3 Nc3 20.Ra1 g5 21.Bg3 Bxf3 22.Qf6 Qe4 23.Qxf3
+Qc2 24.Ba6 1-0

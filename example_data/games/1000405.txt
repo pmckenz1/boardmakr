@@ -1,0 +1,23 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "0-1"]
+[White "Anna Hahn"]
+[Black "Valeriane Gaprindashvili"]
+[ECO "E47"]
+[WhiteElo "2559"]
+[BlackElo "2271"]
+[PlyCount "92"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 cxd4
+7. exd4 d5 8. O-O dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Bg5 Bxc3
+12. bxc3 Nbd7 13. Rac1 Qc7 14. Bd3 Ng4 15. Be4 Bxe4 16. Qxe4
+Ngf6 17. Qe2 Qb7 18. Rfe1 Rac8 19. Qd3 Rc7 20. Ne5 Nxe5
+21. Rxe5 Nd5 22. Bd2 Rfc8 23. Rh5 Nf6 24. Re5 Qc6 25. Qb1 Rd7
+26. h3 Rd5 27. Ree1 Qc4 28. Qb2 Rb5 29. Qc2 Ra5 30. Ra1 Ra4
+31. Qb3 Nd5 32. Rec1 b5 33. Qb2 a6 34. a3 Qc6 35. Rc2 h6
+36. Rac1 Nb6 37. Qb3 Nc4 38. Ra2 Qd6 39. Rca1 Qc7 40. Rc1 Qa5
+41. Qd1 Rxa3 42. Rxa3 Qxa3 43. Ra1 Qd6 44. Bc1 Qc6 45. Qg4 Kh7
+46. Qe2 Nd6 0-1

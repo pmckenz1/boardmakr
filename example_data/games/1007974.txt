@@ -1,0 +1,24 @@
+[Event "San Remo"]
+[Site "San Remo ITA"]
+[Date "1930.02.02"]
+[EventDate "1930.01.16"]
+[Round "14"]
+[Result "0-1"]
+[White "Milan Vidmar"]
+[Black "Frederick Dewhirst Yates"]
+[ECO "D66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Nc3 O-O 7.Rc1
+c6 8.Bd3 a6 9.O-O dxc4 10.Bxc4 b5 11.Bd3 c5 12.a4 c4 13.Bb1
+Nd5 14.Bxe7 Qxe7 15.axb5 Nxc3 16.bxc3 axb5 17.e4 Rd8 18.e5 Bb7
+19.Nd2 Ra3 20.f4 g6 21.Be4 Nb6 22.Bxb7 Qxb7 23.Qe1 Nd5 24.Ne4
+Ra2 25.Qh4 Rda8 26.Rf2 Kg7 27.Rcf1 Qe7 28.Qg3 Kh8 29.Ng5 Kg7
+30.Ne4 Ra1 31.f5 exf5 32.Rxf5 b4 33.R5f2 R8a3 34.Nd6 Nxc3
+35.Qg4 h5 36.Qc8 Ne2+ 37.Kh1 Qe6 38.Qd8 Ra8 39.Qg5 Nxd4
+40.Nxf7 Nf5 41.Nd6 Nxd6 42.exd6 b3 43.h3 b2 44.Qb5 c3 45.Qb7+
+Kg8 46.d7 Rd8 47.Qb4 Rxd7 48.Qxc3 Rxf1+ 49.Rxf1 Rb7 50.Rb1 Rb3
+51.Qc2 Rb8 52.Qc3 Qb3 53.Qe5 Rb7 54.Qe2 Qb4 55.Qf2 Qc3 56.Qf1
+Kg7 57.Kh2 Qe5+ 58.Kh1 Rc7 59.Qd1 Qf4 0-1

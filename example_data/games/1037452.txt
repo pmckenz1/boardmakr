@@ -1,0 +1,18 @@
+[Event "cr CA-PE"]
+[Site "cr CA-PE"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Roman Paz"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bb5+ c6 6.dxc6 bxc6
+7.Bc4 Nd5 8.O-O Bd6 9.Nc3 Be6 10.Ne4 Bc7 11.b3 O-O 12.Bb2 Nd7
+13.Nd4 Qh4 14.Qe1 Qxe1 15.Raxe1 Bb6 16.Kh1 Bxd4 17.Bxd4 N7b6
+18.Be2 Rfd8 19.c3 Nd7 20.Bd3 h6 21.Bb1 Nf8 22.Nc5 g5 23.h4 Bg4
+24.hxg5 hxg5 25.c4 Nc7 26.Bf6 1-0

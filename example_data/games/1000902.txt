@@ -1,0 +1,19 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.21"]
+[EventDate "1911.08.21"]
+[Round "23"]
+[Result "0-1"]
+[White "Hugo Suechting"]
+[Black "Paul F Johner"]
+[ECO "C82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Bc5 10.Nbd2 O-O 11.Bc2 f5 12.Nb3 Bb6
+13.Nbd4 Nxd4 14.Nxd4 Bxd4 15.cxd4 f4 16.Re1 Qh4 17.Rxe4 dxe4
+18.Bxe4 Rad8 19.d5 c6 20.d6 Qg5 21.Qd4 c5 22.Qxc5 Rc8 23.Bc6
+Kh8 24.a4 b4 25.h4 Qd8 26.Bd2 Bd7 27.Qxb4 Bxc6 28.e6 Qxh4
+29.d7 Qg4 30.f3 Bxf3 0-1

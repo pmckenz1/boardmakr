@@ -1,0 +1,15 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "M Wickert"]
+[Black "Michael Adams"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "14"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 c5 4.d5 Qb6 5.Nd2 Qxb2 6.Ngf3 Nc3
+7.Nc4 Nxd1 0-1

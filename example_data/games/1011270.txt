@@ -1,0 +1,17 @@
+[Event "Ch Quebec (w), Quebec (Canada)"]
+[Site "Ch Quebec (w), Quebec (Canada)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Anne Marie Charbonneau"]
+[Black "Olga Mogilevsky"]
+[ECO "E47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6
+7. Qc2 d6 8. O-O Re8 9. dxc5 Bxc3 10. Qxc3 dxc5 11. Rd1 Qe7
+12. b3 e5 13. Nd2 b6 14. Ne4 Bb7 15. Nd6 Red8 16. Nxb7 Qxb7
+17. Bb2 Rd7 18. Qd2 Rad8 19. Qe1 0-1

@@ -1,0 +1,22 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.03"]
+[EventDate "2000.??.??"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Rusudan Goletiani"]
+[Black "Peter Gilruth"]
+[ECO "A06"]
+[WhiteElo "2425"]
+[BlackElo "2271"]
+[PlyCount "82"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. g3 Be7 5. Bg2 O-O 6. O-O b6
+7. d3 Bb7 8. Nbd2 c5 9. Qe1 Nc6 10. Ne5 Qc7 11. f4 d4 12. Nxc6
+Bxc6 13. Bxc6 Qxc6 14. e4 dxe3 15. Qxe3 Ng4 16. Qe2 Bf6
+17. Bxf6 Nxf6 18. g4 Qd5 19. g5 Qd4+ 20. Kh1 Nd5 21. Ne4 Nxf4
+22. Qg4 Ng6 23. Rae1 Rae8 24. Qh5 f5 25. gxf6 gxf6 26. Rg1 Re7
+27. Rg2 Rg7 28. Rf1 f5 29. Nd2 Nf4 30. Rxg7+ Kxg7 31. Qg5+ Ng6
+32. Nf3 Qd5 33. h4 f4 34. Qg4 Qf5 35. Qg2 Qh5 36. Qh2 Qf5
+37. Qg2 Qh5 38. Qh3 Rf6 39. Rg1 Qf5 40. Qh2 Qd5 41. Qh3 Qf5
+1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Kemeri"]
+[Site "Kemeri (LVA)"]
+[Date "1937.06.16"]
+[EventDate "1937.06.16"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Fricis Apsenieks"]
+[Black "Ludwig Rellstab"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. Nf3 c5 3. g3 cxd4 4. Nxd4 g6 5. Bg2 Bg7 6. O-O
+O-O 7. c3 d5 8. Qb3 Nc6 9. Rd1 Qa5 10. Bg5 Rd8 11. Na3 h6
+12. Bf4 g5 13. Nxc6 bxc6 14. Be5 Ba6 15. e3 Nd7 16. Bxg7 Kxg7
+17. c4 Rab8 18. Qc2 e6 19. cxd5 cxd5 20. Nb1 Qb4 21. Rd2 Ne5
+22. Na3 Rdc8 23. Qd1 Rb6 24. f4 gxf4 25. gxf4 Ng6 26. Rc1 Rbc6
+27. Rxc6 Rxc6 28. Nc2 Qxb2 29. f5 exf5 30. Bxd5 Rc5 31. Nd4
+Rc1 32. Rxb2 Rxd1+ 33. Kg2 f4 34. Kf3 Kf6 35. Rc2 Rf1+ 36. Ke4
+Ne5 37. Rc3 f3 38. Nc6 Ng6 39. Bc4 Bxc4 40. Rxc4 f2 41. Rc2
+Kg5 42. Nd4 Kg4 43. Nf5 Nh4 44. Nxh4 Kxh4 45. Kf3 Kh3 46. Rc7
+Kxh2 47. Rxf7 Ra1 48. Kxf2 Rxa2+ 49. Kf3 1/2-1/2

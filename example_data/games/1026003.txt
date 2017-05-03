@@ -1,0 +1,16 @@
+[Event "It (cat.3)"]
+[Site "Graz (Austria)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Gerardo F Barbero"]
+[Black "Peter K Wells"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4+ 6.Bd2 Bc5
+7.Qe2 d6 8.g3 Qd8 9.Be3 Bxe3 10.Qxe3 Nf6 11.N1c3 O-O 12.O-O-O
+Re8 13.Bg2 Bd7 14.h3 a6 15.Nd4 Nxd4 16.Qxd4 Bc6 1/2-1/2

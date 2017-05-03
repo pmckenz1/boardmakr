@@ -1,0 +1,17 @@
+[Event "10s, AND"]
+[Site "Andorra"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Pascual Alonso"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 c5 5. Nbd2 Nc6 6. c3 Bd6
+7. Bg3 O-O 8. Bd3 Re8 9. Ne5 Bxe5 10. dxe5 Nd7 11. Nf3 f5
+12. exf6 Qxf6 13. O-O Nde5 14. Nxe5 Nxe5 15. Bxh7+ Kf8 16. Qh5
+Nf7 17. Bg6 e5 18. Bh4 Qe6 19. f4 1-0

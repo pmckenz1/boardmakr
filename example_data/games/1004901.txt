@@ -1,0 +1,26 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lajos Steiner"]
+[Black "Vera Menchik"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7
+Qxe7 7. Qd2 O-O 8. f4 c5 9. Nf3 Nc6 10. g3 a6 11. Bg2 b5
+12. O-O Nb6 13. Qf2 Bb7 14. f5 b4 15. Ne2 exf5 16. Nh4 g6
+17. c3 cxd4 18. cxd4 Nd8 19. Bh3 Bc8 20. Ng2 Ne6 21. Ne3 Ng5
+22. Bg2 Be6 23. Qf4 Rac8 24. Kh1 Ne4 25. g4 fxg4 26. b3 f5
+27. Qh6 Rc6 28. Rac1 Rfc8 29. Rxc6 Rxc6 30. Bxe4 dxe4 31. Nf4
+Rc3 32. Nxg4 fxg4 33. Nxg6 hxg6 34. Qxg6+ Kh8 35. Qh6+ Kg8
+36. Rf6 Rh3 37. Qg6+ Kh8 38. Rxe6 Rxh2+ 39. Kg1 Rh1+ 40. Kg2
+Rh2+ 41. Kf1 Rh1+ 42. Ke2 Rh2+ 43. Kf1 Rh1+ 44. Kg2 Rh2+
+45. Kg1 Rh1+ 46. Kf2 Qh4+ 47. Ke3 Nd5+ 48. Kxe4 Nc3+ 49. Kd3
+Qh3+ 50. Kc4 Qf1+ 51. Kxb4 Nxa2+ 52. Kc5 Qb5+ 53. Kd6 Qb4+
+54. Kd5 Qxb3+ 55. Kd6 Qb4+ 56. Kd5 Nc3+ 57. Kc6 Qb5+ 58. Kd6
+Qb8+ 59. Kd7 Qb7+ 60. Ke8 Qa8+ 0-1

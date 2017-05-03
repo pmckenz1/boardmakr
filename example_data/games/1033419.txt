@@ -1,0 +1,16 @@
+[Event "10s, It op General Pico City ARG"]
+[Site "10s, It op General Pico City ARG Hiarcs 7.32"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Jorge Martin del Campo"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. e4 e6 2. d4 b6 3. Bd3 Bb7 4. Nf3 c5 5. c3 cxd4 6. cxd4 Ba6
+7. Bxa6 Nxa6 8. O-O Nf6 9. Nc3 Bb4 10. e5 Bxc3 11. exf6 Qxf6
+12. bxc3 1-0

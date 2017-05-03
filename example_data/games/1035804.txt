@@ -1,0 +1,22 @@
+[Event "Las Vegas USA"]
+[Site "Las Vegas USA"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Walter Shawn Browne"]
+[Black "Maxim Dlugy"]
+[ECO "D20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bb3 Nc6 7.Ne2
+Bf5 8.Nbc3 e6 9.O-O Nb4 10.Be3 N4d5 11.Rc1 Rc8 12.Nxd5 Nxd5
+13.Bxd5 Qxd5 14.Qa4+ Qd7 15.Qxa7 Bd3 16.Rfe1 Ba6 17.Nf4 Be7
+18.d5 exd5 19.Bc5 O-O 20.Bxe7 Qxe7 21.Nxd5 Qe6 22.Qc5 Kh8
+23.Nxc7 Qxa2 24.b4 Bd3 25.b5 Bf5 26.h3 h6 27.Qb6 Rb8 28.Red1
+Qe2 29.Qc5 Rfd8 30.Rd6 Rdc8 31.b6 Ra8 32.Qd4 Ra2 33.Qf4 Bg6
+34.e6 fxe6 35.Rxe6 Qd3 36.Rd6 Qe4 37.Qxe4 Bxe4 38.Re1 Bc6
+39.Re7 Rg8 40.Rg6 Rb2 41.Ne6 Re2 42.Rg3 Bd5 43.Nf4 Rd2 44.Nxd5
+Rxd5 45.Rxb7 Rb5 46.Rg6 Kh7 47.Rd6 h5 1-0

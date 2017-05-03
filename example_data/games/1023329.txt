@@ -1,0 +1,22 @@
+[Event "Ch URS (1 liga)"]
+[Site "Telavi (Georgia)"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Vitaly Tseshkovsky"]
+[Black "Vladimir Bagirov"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 c5 7.c3
+e6 8.Bd3 cxd4 9.Nxd4 Bc5 10.Bc2 Ne5 11.O-O O-O 12.Bg5 h6
+13.Bxf6 Qxf6 14.Re1 Nd7 15.Nh5 Qg5 16.h4 Qxh4 17.Re4 Qe7
+18.Nf5 exf5 19.Rxe7 Bxe7 20.Qe2 Bg5 21.Rd1 g6 22.f4 Bd8 23.Rd6
+gxh5 24.Qxh5 Nf6 25.Qxh6 Be6 26.Qg5+ Kh8 27.Rxd8 Rfxd8
+28.Qxf6+ Kg8 29.g4 Rd2 30.gxf5 Bd5 31.Bb3 Re8 32.Qg5+ Kf8
+33.Qh4 Bxb3 34.f6 Rd1+ 35.Kf2 Rd2+ 36.Kg1 Re1+ 37.Qxe1 Rd1
+38.Qxd1 Bxd1 39.Kf2 Ke8 40.Ke3 Kd7 41.f5 Kd6 42.c4 Bc2 43.Kf4
+a5 0-1

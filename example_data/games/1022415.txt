@@ -1,0 +1,25 @@
+[Event "Chess Festival Dublin IRE"]
+[Site "Chess Festival Dublin IRE"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Alexander Baburin"]
+[Black "Colm Daly"]
+[ECO "E62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "125"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 d6 5.Bg2 O-O 6.O-O c6 7.Nc3
+Bf5 8.b3 Ne4 9.Bb2 Nxc3 10.Bxc3 Be4 11.e3 Nd7 12.Bh3 Bxf3
+13.Qxf3 e6 14.e4 c5 15.Rad1 Qe7 16.Qe3 Nb8 17.e5 cxd4 18.Bxd4
+Bxe5 19.Bxe5 dxe5 20.Qxe5 Nc6 21.Qe3 Rad8 22.Bg2 Qa3 23.Bxc6
+bxc6 24.Rd2 Rxd2 25.Qxd2 a5 26.Rd1 c5 27.h4 Qb4 28.Qe3 h5
+29.Rd7 a4 30.g4 axb3 31.axb3 hxg4 32.h5 Qa3 33.hxg6 Qa1+
+34.Kg2 Qf6 35.gxf7 Rxf7 36.Rxf7 Kxf7 37.Kg3 Qf5 38.Qf4 Ke7
+39.Qxg4 Qe5+ 40.Qf4 Qc3+ 41.Qe3 Qg7+ 42.Kf3 Qf6+ 43.Qf4 Qc3+
+44.Kg4 Kd7 45.Qf7+ Kd6 46.Qf8+ Kd7 47.Qxc5 Qg7+ 48.Kf3 Qf6+
+49.Ke4 Qg6+ 50.Ke3 Qc2 51.Qd4+ Ke7 52.Qd3 Qc1+ 53.Kf3 Qh1+
+54.Ke2 Qh5+ 55.Kd2 Qa5+ 56.Qc3 Qg5+ 57.Qe3 Qa5+ 58.Kc2 Qa1
+59.c5 Qa2+ 60.Kc3 Qa5+ 61.Kb2 Qb4 62.c6+ Kd6 63.Qd3+ 1-0

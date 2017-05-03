@@ -1,0 +1,16 @@
+[Event "Berlin UTYSO Thaelma"]
+[Site "East Berlin GDR"]
+[Date "1989.04.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Zurab Azmaiparashvili"]
+[Black "Gennadi Zaichik"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Qe8 12.Qxe8 Rxe8
+13.cxd5 exd5 14.Be3 Na6 15.Rac1 Rac8 16.Nf4 1/2-1/2

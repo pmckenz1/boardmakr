@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "M Sonnenberg"]
+[Black "Max Euwe"]
+[ECO "E61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d5 6. cxd5 Nxd5
+7. Bg2 c5 8. e3 cxd4 9. exd4 Nc6 10. O-O Nb6 11. Ne2 Be6
+12. Bd2 Qd7 13. Re1 Rfd8 14. Bc3 Nd5 15. Qd2 Nxc3 16. bxc3 Na5
+17. Nf4 Bh6 18. Ne5 Qa4 19. Ned3 Qa3 20. Qe2 Bc4 21. Qxe7 Qxe7
+22. Rxe7 g5 23. Ne5 gxf4 24. Nxc4 Nxc4 25. Bxb7 Rab8 26. Ba6
+Nd2 27. gxf4 Bxf4 28. Kg2 Rd6 29. Bd3 Rc8 30. Rxa7 Rxc3
+31. Bf5 Rd5 0-1

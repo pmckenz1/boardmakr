@@ -1,0 +1,20 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.12"]
+[EventDate "1920.08.02"]
+[Round "8"]
+[Result "0-1"]
+[White "Anton Olson"]
+[Black "Walter John"]
+[ECO "C83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.dxe5 Be6 9.c3 Be7 10.Qe2 O-O 11.Bc2 Nc5 12.Nd4 Nxd4
+13.cxd4 Nb7 14.f4 f5 15.exf6 Rxf6 16.f5 Bd7 17.Nc3 c6 18.Bg5
+Rf7 19.f6 gxf6 20.Rae1 Nd6 21.Qh5 Rg7 22.Bh6 Bg4 23.Qh4 f5
+24.Qf2 Rg6 25.Qe3 Bh4 26.g3 Nc4 27.Qc1 Qf6 28.Bf4 Qxd4+ 29.Kg2
+Bf6 30.h3 Bh5 31.Bxf5 Nxb2 32.Nxb5 cxb5 33.Qc6 Rf8 34.Qe6+ Kh8
+35.Bxg6 Bxg6 36.Be3 Qe4+ 37.Qxe4 Bxe4+ 0-1

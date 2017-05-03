@@ -1,0 +1,18 @@
+[Event "Esbjerg"]
+[Site "Esbjerg DEN"]
+[Date "1982.07.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Vlastimil Jansa"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4
+7. Be3 Nc6 8. Qd2 e5 9. dxe5 dxe5 10. Rad1 Qc8 11. Qc1 Rd8
+12. Rxd8+ Qxd8 13. Rd1 Qf8 14. h3 Bxf3 15. Bxf3 Rd8 16. Nb5
+Rc8 17. c3 a6 18. Na3 Rd8 19. Rxd8 Qxd8 20. Qc2 Qf8 21. Qb3 b5
+22. Nc2 Na5 23. Qa3 1/2-1/2

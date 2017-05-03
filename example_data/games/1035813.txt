@@ -1,0 +1,17 @@
+[Event "USA op Concord CA"]
+[Site "Concord, CA USA"]
+[Date "1995.08.10"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Walter Shawn Browne"]
+[Black "John A Curdo"]
+[ECO "A88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 g6 4.c4 Bg7 5.Nf3 O-O 6.Nc3 d6 7.O-O c6
+8.d5 e5 9.dxe6 Bxe6 10.b3 Na6 11.Bb2 Qe7 12.Ng5 Rad8 13.Qc2
+Nc5 14.Rad1 Bc8 15.b4 Ne6 16.Nxe6 Bxe6 17.b5 Bxc4 18.bxc6 bxc6
+19.Bxc6 Rc8 20.Qa4 Bxe2 21.Rde1 Ne4 22.Rxe2 Bxc3 23.Bxc3 1-0

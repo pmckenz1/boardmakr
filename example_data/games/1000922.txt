@@ -1,0 +1,21 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.24"]
+[EventDate "1911.08.21"]
+[Round "25"]
+[Result "1-0"]
+[White "Paul Saladin Leonhardt"]
+[Black "Georg Rotlewi"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.O-O Nf6 7.Re1
+d6 8.h3 O-O 9.a4 a6 10.Bg5 Re8 11.Na3 Bd7 12.Nc2 h6 13.Bh4 g5
+14.Nxg5 hxg5 15.Bxg5 exd4 16.cxd4 Nxd4 17.Nxd4 Qe5 18.Nf3 Qg3
+19.Be3+ Bxe3 20.Rxe3 Qf4 21.Qb3 Nxe4 22.Bxf7+ Qxf7 23.Qxf7+
+Kxf7 24.Rxe4 Rxe4 25.Ng5+ Kg6 26.Nxe4 Re8 27.f3 Re5 28.Kf2 Rd5
+29.Ke3 Bf5 30.Rc1 c5 31.Rc2 Bxe4 32.fxe4 Rd1 33.Rd2 Re1+
+34.Kf3 Rf1+ 35.Ke2 Rf6 36.a5 Re6 37.Kf3 Kf6 38.Rd3 Ke5 39.Rd5+
+Kf6 40.Kf4 1-0

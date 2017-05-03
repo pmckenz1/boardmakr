@@ -1,0 +1,27 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Klaudiusz Urban"]
+[Black "Jan Pinski"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "136"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O c5 6. c3 cxd4
+7. cxd4 h6 8. Re1 Be7 9. Qd3 b4 10. a3 bxa3 11. bxa3 O-O
+12. Nc3 d6 13. Rb1 Bc6 14. d5 Bxd5 15. Nxd5 exd5 16. Nd4 Nbd7
+17. Nf5 Nb6 18. Bb2 Re8 19. Ne3 Rb8 20. Bxf6 Bxf6 21. Nxd5
+Nxd5 22. Bxd5 Qc7 23. e3 Bb2 24. Re2 Qc3 25. Qxc3 Bxc3 26. Rc1
+Ba5 27. Rc6 Rb6 28. Rec2 Rxc6 29. Rxc6 Rd8 30. a4 Kf8 31. Ra6
+Bb6 32. a5 Bc5 33. Rc6 Re8 34. g4 g5 35. Kf1 Re5 36. e4 Re7
+37. a6 Re8 38. Kg2 Re7 39. Rc8+ Kg7 40. Rb8 Kf6 41. Rb7 Bd4
+42. f4 Be3 43. fxg5+ hxg5 44. Kf3 Bd2 45. Ke2 Bf4 46. h3 Bc1
+47. Kd3 Bf4 48. Kc4 Bd2 49. Kb5 Bf4 50. Kc6 Bd2 51. Kb5 Bf4
+52. Ka4 Be3 53. Kb3 Bf2 54. Ka3 Be3 55. Ka2 Bf2 56. Kb2 Be3
+57. Ka1 Bd4+ 58. Kb1 Be3 59. Kc2 Bf4 60. Kd1 Be3 61. Ke1 Bc1
+62. Ke2 Bf4 63. Kf3 Bd2 64. Rb2 Bc3 65. Rb3 Bd2 66. Rd3 Bb4
+67. Rb3 Bd2 68. Rb7 Bc1 1/2-1/2

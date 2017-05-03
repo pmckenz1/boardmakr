@@ -1,0 +1,25 @@
+[Event "Shenzhen (China)"]
+[Site "It"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andras Adorjan"]
+[Black "Weiguo Lin"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6
+7.O-O Be7 8.Rb1 O-O 9.b4 a6 10.a3 Re8 11.d3 Bf8 12.Bb2 Nd4
+13.Nd2 c6 14.e3 Nb5 15.Nf3 Nxc3 16.Bxc3 f6 17.Qc2 Bf5 18.e4
+Bg6 19.Nh4 Bf7 20.Bh3 Qc7 21.Kh1 Rad8 22.Bd2 Be6 23.Bxe6+ Rxe6
+24.Be3 Nc8 25.Rfd1 Qf7 26.a4 Red6 27.Kg2 R6d7 28.Bc5 g6
+29.Bxf8 Qxf8 30.Nf3 Kg7 31.Rd2 Qe7 32.Qc3 Nb6 33.Qb3 Qf7
+34.Qc2 Qe7 35.Qb3 Na8 36.b5 axb5 37.axb5 c5 38.Ra1 Nb6 39.Qc3
+Rc7 40.h3 Rd6 41.Rc1 Qe8 42.Kh2 Rc8 43.Qa5 Nd7 44.Qa3 Ra8
+45.Qc3 Ra4 46.Rb2 Qa8 47.Rcc2 c4 48.dxc4 Nc5 49.Nxe5 Ra3
+50.Qb4 b6 51.Nc6 Ra1 52.Rb1 Rd1 53.Rxd1 Rxd1 54.Rd2 Qa1
+55.Rxd1 Qxd1 56.Qc3 Nxe4 57.Qd4 Nd2 58.Qd5 h5 59.Nd4 Qe1
+60.Qb7+ Kh6 61.Qxb6 Qxf2+ 0-1

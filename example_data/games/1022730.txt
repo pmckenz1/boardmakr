@@ -1,0 +1,23 @@
+[Event "USSR Championship"]
+[Site "Leningrad (RUS)"]
+[Date "1960.02.13"]
+[EventDate "1960.??.??"]
+[Round "12"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Vladimir Simagin"]
+[ECO "B98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+h6 8.Bh4 Be7 9.Qf3 Qc7 10.O-O-O Nbd7 11.Bd3 b5 12.Bxf6 gxf6
+13.Qh5 Qc5 14.Nxe6 Qxh5 15.Ng7+ Kf8 16.Nxh5 Nb6 17.h3 Bb7
+18.g4 b4 19.Ne2 d5 20.Neg3 Rc8 21.Rhe1 a5 22.Nf5 Rc7 23.Nxe7
+Rxe7 24.Nxf6 dxe4 25.Bxe4 Bxe4 26.Rxe4 Rxe4 27.Nxe4 Kg7 28.Nd6
+Rb8 29.Nf5+ Kh7 30.Rd6 h5 31.Rh6+ Kg8 32.Rxh5 Re8 33.b3 Re1+
+34.Kd2 Ra1 35.Ne3 Rxa2 36.Rb5 Nd7 37.Nc4 a4 38.Rxb4 axb3
+39.Rxb3 Ra4 40.Ne5 Nc5 41.Rb8+ Kg7 42.Ke3 Ne6 43.Nd3 Rc4
+44.Kd2 Nxf4 45.Nxf4 Rxf4 46.Re8 Rd4+ 47.Ke2 f5 48.c3 Rd5 49.g5
+Rc5 50.Kd3 f4 51.h4 f3 52.Re6 Rd5+ 53.Ke3 Rf5 54.Rf6 1-0

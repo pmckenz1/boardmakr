@@ -1,0 +1,23 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.22"]
+[EventDate "1905.08.14"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Curt von Bardeleben"]
+[Black "Semion Alapin"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bd3 Bd6 6. Nf3
+O-O 7. O-O Bg4 8. Bg5 c6 9. Qd2 Nbd7 10. Rae1 Qc7 11. Bxf6
+Bxf3 12. Be5 Bh5 13. Qg5 Bg6 14. Qg3 Bxe5 15. dxe5 Bxd3
+16. cxd3 d4 17. Nd1 Rae8 18. f4 f6 19. exf6 Nxf6 20. Re5 Rxe5
+21. fxe5 Nd7 22. Rxf8+ Kxf8 23. Qf2+ Ke8 24. e6 Nf8 25. Qxd4
+Qb6 26. Qxb6 axb6 27. Ne3 Nxe6 28. Nc4 Nf4 29. d4 Ne2+ 30. Kf2
+Nxd4 31. Nxb6 Ke7 32. Ke3 Nf5+ 33. Ke4 Nd6+ 34. Ke5 Nf7+
+35. Kd4 Kd6 36. b4 Nd8 37. Nc4+ Kc7 38. Ke5 Kd7 39. Nd6 b5
+40. h4 Ne6 41. Nf5 h5 42. Ng3 g6 43. Ne4 Ke7 44. g3 Nc7
+45. Kd4 Ne6+ 46. Ke5 Nc7 1/2-1/2

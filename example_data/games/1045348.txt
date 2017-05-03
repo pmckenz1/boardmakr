@@ -1,0 +1,22 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Henryk Dobosz"]
+[Black "Lubomir Ftacnik"]
+[ECO "B51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Ngf6 5. e5 Qa5+ 6. Nc3
+Ne4 7. Bd2 Nxc3 8. Bxd7+ Bxd7 9. Bxc3 Qa6 10. d5 Bg4 11. h3
+Bh5 12. exd6 exd6 13. g4 Bg6 14. Nh4 Kd7 15. Nf5 Bxf5 16. gxf5
+Re8+ 17. Kd2 Qc4 18. Qf3 Re4 19. Rad1 Rf4 20. Qg2 Rxf5 21. Kc1
+h5 22. Rhe1 Rh6 23. Re4 Rg6 24. Qh1 Qxa2 25. b3 Qa6 26. f4 Rg3
+27. Qe1 Rg2 28. Rd3 g5 29. Re8 Rg1 30. Qxg1 Kxe8 31. fxg5 Be7
+32. g6 Rg5 33. Qe1 Kd7 34. gxf7 Qa3+ 35. Kb1 c4 36. Re3 Bf8
+37. Bb4 Qa6 38. Re8 cxb3 39. Qe6+ Kc7 40. Re7+ Kb6 41. Qxd6+
+Kb5 42. Qc5+ 1-0

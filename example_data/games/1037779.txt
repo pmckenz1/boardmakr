@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.10"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Matthias Wahls"]
+[Black "Lawrence Day"]
+[ECO "B27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.Bb5 a6 5.Ba4 Nf6 6.Qe2 O-O 7.O-O
+d6 8.d4 cxd4 9.cxd4 Bd7 10.Bxd7 Nfxd7 11.Rd1 Nc6 12.d5 Nce5
+13.Nd4 Rc8 14.b3 Nf3+ 15.Qxf3 Bxd4 16.Rxd4 Rxc1+ 17.Rd1 Qc7
+18.Na3 Rxa1 19.Rxa1 b5 20.Qe2 Rc8 21.Rd1 Nf6 22.Kf1 Qc1 23.e5
+dxe5 24.Nc4 Qf4 25.g3 Qf5 26.Ne3 Qh3+ 27.Kg1 Ne4 28.Rf1 h5
+29.a4 Nd6 30.Nc2 Rc3 31.Nb4 Qg4 32.Qxg4 hxg4 33.Rb1 a5 34.Nc6
+bxa4 35.bxa4 Rc4 36.Ra1 Ne4 1/2-1/2

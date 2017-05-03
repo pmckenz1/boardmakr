@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1944.04.21"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Reuben Fine"]
+[Black "Aaron Rothman"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 g6 4. d4 cxd4 5. Nxd4 Bg7 6. c4 Nc6
+7. Nxc6 bxc6 8. cxd5 Qb6 9. dxc6 Bxb2 10. Bxb2 Qxb2 11. Nd2
+Be6 12. Rb1 Qxa2 13. c7 Rc8 14. Rb8 Nf6 15. Bb7 1-0

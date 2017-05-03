@@ -1,0 +1,23 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.11"]
+[EventDate "2000.04.05"]
+[Round "7"]
+[Result "1-0"]
+[White "Bjorn Thorfinnsson"]
+[Black "Timo Lampen"]
+[ECO "D02"]
+[WhiteElo "2195"]
+[BlackElo "2307"]
+[PlyCount "95"]
+
+1. d4 d5 2. Nf3 c6 3. Bg5 f6 4. Bh4 Qb6 5. b3 g5 6. Bg3 Nh6
+7. e3 Nf5 8. Bd3 h5 9. c4 Na6 10. h4 Nxg3 11. fxg3 g4 12. Ng1
+e5 13. Ne2 Bh6 14. Qd2 c5 15. Nbc3 cxd4 16. Nxd5 Qd6 17. Rf1
+O-O 18. Qc2 f5 19. Bxf5 Bxf5 20. Rxf5 Nb4 21. Qe4 Rxf5
+22. Qxf5 Rf8 23. Qe4 d3 24. Nec3 Nc2+ 25. Kd2 Rf2+ 26. Kd1
+Rf1+ 27. Kd2 Rf2+ 28. Kd1 Nxa1 29. Qxd3 Nc2 30. Ne4 Nxe3+
+31. Ke1 Qa3 32. Nxf2 Qc1+ 33. Nd1 e4 34. Nf6+ Kf7 35. Nxe4
+Nxd1 36. Nd6+ Ke6 37. Qd5+ Kf6 38. Qxd1 Qe3+ 39. Kf1 Qe5
+40. Nxb7 Qf5+ 41. Kg1 Be3+ 42. Kh2 Qf2 43. Nd6 Kg7 44. b4 Kh8
+45. c5 Bd4 46. Nf5 Be5 47. Qd8+ Kh7 48. Qe7+ 1-0

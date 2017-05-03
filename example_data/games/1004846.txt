@@ -1,0 +1,26 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vera Menchik"]
+[Black "Jan Foltys"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. e3 Nc6 6. Bd3 dxc4
+7. Bxc4 a6 8. a4 Be7 9. O-O O-O 10. Ne5 cxd4 11. Nxc6 bxc6
+12. exd4 Bb7 13. Be3 Nd5 14. Nxd5 cxd5 15. Bd3 Bd6 16. b4 f5
+17. Rb1 f4 18. Bd2 Qf6 19. Qf3 g6 20. Rfe1 Rfe8 21. b5 Qxd4
+22. bxa6 Bxa6 23. Bxa6 Rxa6 24. Bc3 Qxa4 25. Rb7 Ra7 26. Rb6
+Ra6 27. Rb7 Ra7 28. Rb6 Qd7 29. Qd3 Bc5 30. Rb5 Bf8 31. Be5
+Ra3 32. Qb1 Ra7 33. Bxf4 Bg7 34. Qb3 Qf7 35. Rb8 Rae7 36. Bd6
+Rxb8 37. Qxb8+ Re8 38. Qb6 Qd7 39. g3 d4 40. f4 Rd8 41. Be5
+Bxe5 42. Rxe5 d3 43. Re1 Kf7 44. Kf2 Qd5 45. Qa7+ Rd7 46. Qe3
+d2 47. Rd1 Qh5 48. Qf3 Qxh2+ 49. Ke3 h5 50. Ke4 Qh3 51. Ke3
+Qf5 52. Rxd2 Qc5+ 53. Ke2 Rxd2+ 54. Kxd2 Qd5+ 55. Ke2 Qxf3+
+56. Kxf3 Kf6 57. g4 h4 58. Ke4 g5 59. Kf3 gxf4 60. Kxf4 e5+
+0-1

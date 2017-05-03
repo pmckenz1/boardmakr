@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.28"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Mejdi Kaabi"]
+[Black "Luis J Torres"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 exd5 7.g3
+Be7 8.Qa4+ c6 9.Bg2 O-O 10.O-O Nbd7 11.Rd1 Re8 12.Bf4 Nh5
+13.Bd2 Bd6 14.Nh4 Ndf6 15.Nf5 Ne4 16.Nxe4 dxe4 17.Qc2 Nf6
+18.Bg5 Bf8 19.Bxf6 Qxf6 20.Bxe4 g6 21.Ne3 Rad8 22.Ng4 Qe6
+23.Bf3 Bg7 24.Qa4 a5 25.Rd3 h5 26.Ne3 Ba6 27.d5 cxd5 28.Rxd5
+Bxb2 29.Rb1 Bg7 30.Qd1 Rxd5 31.Bxd5 Qf6 32.Qb3 Bxe2 33.Qxb6
+Qxb6 34.Rxb6 Kf8 35.Rb7 Re7 36.Rb8+ Re8 37.Rb7 Re7 38.Rb8+ Re8
+1/2-1/2

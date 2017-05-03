@@ -1,0 +1,25 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.07"]
+[EventDate "1920.08.02"]
+[Round "5"]
+[Result "0-1"]
+[White "Adolf Georg Olland"]
+[Black "Arthur Hakansson"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 Nxd5 5.Bd3 c5 6.Nf3 Nc6
+7.Nxd5 Qxd5 8.c4 Qd8 9.dxc5 Bxc5 10.O-O Nb4 11.Be4 Qxd1
+12.Rxd1 Be7 13.a3 Nc6 14.Be3 f6 15.b4 a6 16.Bb6 Bd7 17.Rd2 Bd8
+18.Bxd8 Rxd8 19.Rad1 Ke7 20.b5 axb5 21.cxb5 Na5 22.a4 Nb3
+23.Re2 Nc5 24.Bc2 e5 25.Rc1 Bg4 26.Re3 b6 27.h3 Bxf3 28.Rxf3
+Rd4 29.Rc3 Kd6 30.Ra1 Ra8 31.f3 g6 32.Kf2 Rd2+ 33.Kg3 f5
+34.Rd1 Rxd1 35.Bxd1 Kd5 36.Bc2 Kd4 37.Ra3 e4 38.Kf2 Nd3+
+39.Ke2 exf3 40.gxf3 Nf4+ 41.Kd2 Nxh3 42.Rd3+ Ke5 43.Rd7 Rb8
+44.Rxh7 Ng5 45.Re7+ Kf4 46.Bd1 Nxf3+ 47.Bxf3 Kxf3 48.Rg7 Rd8+
+49.Kc3 Rd6 50.Kc4 Kg4 51.a5 bxa5 52.Kc5 Rf6 53.b6 g5 54.b7 Rf8
+55.Rc7 Rb8 56.Kb6 f4 57.Ka7 Rxb7+ 58.Kxb7 f3 59.Kc6 f2 60.Rf7
+Kg3 61.Rf5 g4 62.Kd5 Kg2 0-1

@@ -1,0 +1,16 @@
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee NED"]
+[Date "1984.01.24"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Robert Huebner"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Nd5 Nxd5 6.cxd5 Nd4
+7.Nxd4 exd4 8.Qc2 Qe7 9.Bg2 Ba5 10.O-O O-O 11.e3 c5 12.exd4
+cxd4 13.d3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Erling Mortensen"]
+[ECO "E30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 d5 6.e3 c5 7.cxd5
+exd5 8.Bb5+ Bd7 9.Bxd7+ Nbxd7 10.Ne2 O-O 11.O-O Bxc3 12.Nxc3
+Qa5 13.dxc5 Qxc5 14.Rc1 Rac8 15.Qd2 Qb4 16.Bxf6 Nxf6 17.Rfd1
+Rc4 18.a3 Qa5 19.Ne4 Qxd2 20.Nxd2 Rc6 21.Rxc6 bxc6 22.Rc1 Rb8
+23.b4 a5 24.bxa5 c5 25.Rxc5 Ne4 26.Rxd5 Nxd2 27.h4 Nc4 28.a6
+Ra8 29.Rc5 Nxa3 30.Rc6 Kf8 31.g4 Nb5 32.g5 hxg5 33.hxg5 Ke7
+34.g6 f5 35.Rc5 Nd6 36.Rc7+ Kf6 37.Rc6 Ke5 38.Rc7 Ne8 39.Rc6
+Kd5 40.Rb6 Nd6 41.Kg2 Kc5 42.Rb1 Rxa6 43.Rb8 Kd5 44.Rg8 Ra7
+45.Kg3 Ke6 46.Kh4 Kf6 47.Rd8 Ne4 48.f3 Ng5 49.Kh5 Ne6 50.Rd6
+Ra1 0-1

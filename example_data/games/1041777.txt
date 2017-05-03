@@ -1,0 +1,23 @@
+[Event "Manila (Philippines)"]
+[Site "Manila (Philippines)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "153"]
+[Result "1/2-1/2"]
+[White "Vince Alaan"]
+[Black "Eugenio Torre"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "97"]
+
+1.e4 d6 2.d4 Nf6 3.Bd3 e5 4.c3 Nc6 5.d5 Nb8 6.c4 Be7 7.Nc3
+Nfd7 8.Nf3 Nc5 9.Bc2 Bg4 10.Be3 O-O 11.Qd2 b6 12.Ng1 a5 13.h3
+Bd7 14.Nge2 Nba6 15.O-O Nb4 16.Bb1 h6 17.Nc1 Bg5 18.a3 Nba6
+19.b3 Bxe3 20.Qxe3 Qh4 21.Bc2 f5 22.exf5 Bxf5 23.Bxf5 Rxf5
+24.Rb1 Raf8 25.N1e2 Nd7 26.Ne4 R5f7 27.b4 axb4 28.axb4 Nf6
+29.N2g3 Nxe4 30.Nxe4 Qe7 31.Qd3 Nb8 32.c5 Nd7 33.cxd6 cxd6
+34.Rbc1 Nf6 35.Ng3 Qa7 36.Rc6 Qa2 37.Rxd6 Ne8 38.Rg6 Rxf2
+39.Rxf2 Qxf2+ 40.Kh2 Qd4 41.Qxd4 exd4 42.Rg4 d3 43.Rd4 Nd6
+44.Rxd3 Rf4 45.Rc3 Nc4 46.Ne2 Re4 47.Ng3 Rf4 48.Ne2 Re4 49.Ng3
+1/2-1/2

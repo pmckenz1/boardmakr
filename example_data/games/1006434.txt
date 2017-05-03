@@ -1,0 +1,25 @@
+[Event "Penang Wah Seong IM"]
+[Site "MAS"]
+[Date "2000.02.27"]
+[EventDate "2000.02.26"]
+[Round "2"]
+[Result "1-0"]
+[White "Haji Ardiansyah"]
+[Black "Wynn Zaw Htun"]
+[ECO "E62"]
+[WhiteElo "2396"]
+[BlackElo "2524"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 d6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nc6
+7. O-O Bf5 8. h3 Ne4 9. Nd5 Bd7 10. Ne1 Nf6 11. Nc2 e6 12. Nc3
+d5 13. cxd5 exd5 14. Bg5 Ne7 15. Qc1 Re8 16. g4 c6 17. Qf4 Qb8
+18. Qf3 Qd6 19. Qg3 Nc8 20. Bxf6 Qxf6 21. e4 dxe4 22. Nxe4 Qe7
+23. Rfe1 Be6 24. Nc5 Nb6 25. Nxe6 fxe6 26. Re5 Rad8 27. Rae1
+Qd6 28. Qb3 Nd5 29. Qxb7 Rb8 30. Rxe6 Qxe6 31. Rxe6 Rxb7
+32. Rxe8+ Kf7 33. Bxd5+ cxd5 34. Rc8 Rxb2 35. Rc7+ Kg8 36. a3
+Rb1+ 37. Kg2 Rc1 38. Rc6 Rd1 39. Rc8+ Bf8 40. g5 Rb1 41. a4 a5
+42. Rc6 Be7 43. h4 Rd1 44. Kg3 Kf7 45. Kf4 Rh1 46. Ke5 Rxh4
+47. f4 h6 48. Ne3 hxg5 49. Nxd5 gxf4 50. Rc7 Rh5+ 51. Ke4 Rxd5
+52. Kxd5 g5 53. Ke4 Ke6 54. Rc8 Kd7 55. Rg8 Bf6 56. Rf8 Be7
+57. Rf5 Bd8 58. Rd5+ Kc8 59. Kf3 Bf6 60. Rc5+ Kb7 61. d5 1-0

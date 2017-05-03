@@ -1,0 +1,19 @@
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.13"]
+[EventDate "1926.03.07"]
+[Round "5"]
+[Result "1-0"]
+[White "Karl Gilg"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 dxc4 5. a4 Bb4 6. e3 Qd5
+7. Ne5 Nf6 8. Nxc4 O-O 9. Bd2 Bxc3 10. Bxc3 Nbd7 11. Qc2 Ne4
+12. Bb4 Rd8 13. f3 Nef6 14. e4 Qg5 15. h4 Qg3+ 16. Qf2 Qxf2+
+17. Kxf2 Nb6 18. Ba5 Rxd4 19. Bxb6 axb6 20. Nxb6 Rb8 21. Be2
+e5 22. Nc4 Nd7 23. Rhd1 f6 24. b4 b6 25. Nd6 Kf8 26. a5 g6
+27. a6 Rxd1 28. Bxd1 Bxa6 29. Rxa6 Ke7 30. Nc4 f5 31. Ra7 1-0

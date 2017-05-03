@@ -1,0 +1,17 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1984.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Arshak B Petrosian"]
+[Black "Vladimir Bagirov"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 e6 5.cxd5 exd5 6.O-O Nf6 7.d3
+Be7 8.Nbd2 Qc8 9.Re1 O-O 10.b3 Bh3 11.Bh1 Qg4 12.Bb2 Nbd7
+13.Qc2 Rfe8 14.e4 Bf8 15.e5 Nh5 16.Nf1 Nf4 17.Ne3 Qg6 18.Nh4
+Qg5 19.Nf3 Qg6 20.Nh4 Qg5 21.Nf3 1/2-1/2

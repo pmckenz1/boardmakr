@@ -1,0 +1,23 @@
+[Event "Beijing"]
+[Site "Beijing"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Weiguo Lin"]
+[Black "Utut Adianto"]
+[ECO "D24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3 a6 5.e4 b5 6.e5 Nd5 7.a4 Bb7
+8.e6 f6 9.Be2 Nxc3 10.bxc3 Qd5 11.O-O Qxe6 12.Re1 g6 13.Nh4
+Qd7 14.Bg4 f5 15.Bf3 Nc6 16.Ba3 e6 17.d5 Bxa3 18.dxc6 Bxc6
+19.Rxa3 Rd8 20.Qxd7+ Kxd7 21.Kf1 Bd5 22.Bxd5 exd5 23.Nf3 Rhe8
+24.Ne5+ Rxe5 25.Rxe5 Kd6 26.f4 Rb8 27.axb5 axb5 28.Ra5 c6
+29.Ke2 b4 30.cxb4 Rxb4 31.Re8 Rb2+ 32.Ke3 Rxg2 33.Rc8 Rxh2
+34.Ra6 Rh3+ 35.Kf2 Kc5 36.Raxc6+ Kd4 37.Rd8 Rb3 38.Rd7 Rb2+
+39.Kg3 Rb3+ 40.Kh4 Ke4 41.Kg5 Rg3+ 42.Kf6 Rd3 43.Rxh7 Kxf4
+44.Kxg6 Kg4 45.Kf6 c3 46.Ke5 f4 47.Rg6+ Kf3 48.Rh3+ Ke2
+49.Rg2+ Kf1 50.Rxd3 Kxg2 51.Kxf4 1-0

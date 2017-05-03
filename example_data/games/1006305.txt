@@ -1,0 +1,22 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.13"]
+[EventDate "2000.04.05"]
+[Round "9"]
+[Result "0-1"]
+[White "Anatoly A Bykhovsky"]
+[Black "Stefan Kristjansson"]
+[ECO "C07"]
+[WhiteElo "2409"]
+[BlackElo "2254"]
+[PlyCount "84"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4
+Qd6 7. O-O Nf6 8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Qxd4 Qxd4 11. Nxd4
+Bd7 12. Bf4 Rc8 13. Bb3 Bc5 14. Rad1 O-O 15. Nf3 Rfd8 16. Ne5
+Be8 17. Bg5 Bd4 18. Bxf6 gxf6 19. Nd3 Bb5 20. Rfe1 a5 21. a4
+Bxd3 22. Rxd3 Bxb2 23. Red1 Rxd3 24. Rxd3 Rc7 25. Kf1 f5
+26. Ke2 Be5 27. h3 Kf8 28. g4 fxg4 29. hxg4 h6 30. Ke3 Ke7
+31. Ke4 Rc5 32. c4 Bg7 33. Rd1 h5 34. gxh5 Rxh5 35. Rd3 b6
+36. Kf3 Be5 37. Bd1 Rh3+ 38. Ke2 Rh4 39. Bb3 Bd4 40. Kf3 Rh3+
+41. Ke2 Rxd3 42. Kxd3 Bxf2 0-1

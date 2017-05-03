@@ -1,0 +1,23 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Michael Hoffmann"]
+[Black "Daniel Fuhrmann"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4
+7. cxd5 Nxd5 8. Qb3 Bxf3 9. gxf3 Nb6 10. d5 Nd4 11. Bb5+ Nd7
+12. Qa4 Nxb5 13. Qxb5 g6 14. O-O Bg7 15. Re1 O-O 16. Bg5 Bf6
+17. Bxf6 exf6 18. Re3 Ne5 19. Rd1 Qc8 20. d6 Rd8 21. Qd5 Qc6
+22. Qxc6 Nxc6 23. Nd5 Rxd6 24. Ne7+ Nxe7 25. Rxd6 Nf5 26. Rd7
+Nxe3 27. fxe3 Rb8 28. e4 g5 29. Kf2 Kg7 30. Ke3 h5 31. h3 Kg6
+32. a4 f5 33. exf5+ Kf6 34. f4 g4 35. hxg4 hxg4 36. Kf2 a5
+37. Rd5 b6 38. Rb5 Ke7 39. Kg3 Kd6 40. f6 Ke6 41. b4 axb4
+42. a5 b3 43. axb6 Kxf6 44. Kxg4 Rb7 45. Rxb3 Ke6 46. Kg5 Kd5
+47. Kf6 Ke4 48. f5 Kd5 49. Re3 Kd6 50. Kg7 1-0

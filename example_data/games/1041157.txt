@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "17"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Merlo"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 e5 4.cxd5 Nxd4 5.e3 Nf5 6.e4 Nh4 7.g3
+Ng6 8.Bb5+ Bd7 9.Qb3 Rb8 10.Be3 c5 11.d6 Rc8 12.O-O-O Nh6
+13.h4 Rg8 14.Bg5 1-0

@@ -1,0 +1,17 @@
+[Event "Olympiad"]
+[Site "Thessaloniki GRE"]
+[Date "1984.12.01"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Florin Gheorghiu"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O d6 7.d4
+cxd4 8.Qxd4 a6 9.Rd1 Be7 10.Ng5 Bxg2 11.Kxg2 Nc6 12.Qf4 O-O
+13.b3 Ra7 14.Bb2 h6 15.Nf3 Rd7 16.Rac1 Qb8 17.Ne4 Nxe4 18.Qxe4
+Rc8 19.Rd2 1/2-1/2

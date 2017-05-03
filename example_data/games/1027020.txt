@@ -1,0 +1,22 @@
+[Event "It (open)"]
+[Site "?"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Joel Benjamin"]
+[Black "Gata Kamsky"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 g6 3.d5 d6 4.Nc3 Bg7 5.e4 c6 6.Nf3 Bg4 7.Be2
+Nbd7 8.Be3 O-O 9.Nd2 Bxe2 10.Qxe2 Qa5 11.O-O Rac8 12.Rab1 Qa6
+13.Bd4 Rfe8 14.dxc6 bxc6 15.b4 c5 16.b5 Qa3 17.Rb3 Qa5 18.Bxf6
+Bxf6 19.Ndb1 e6 20.Qd2 Qc7 21.Rc1 Nb6 22.Ne2 d5 23.cxd5 exd5
+24.exd5 Nxd5 25.Rd3 Rxe2 26.Qxe2 Nf4 27.Qf3 Nxd3 28.Qxd3 c4
+29.Qf3 Bg5 30.Rc2 Qe5 31.Qe2 Qa1 32.Qf1 Qd4 33.g3 c3 34.Qe2
+Kg7 35.Qf3 Bf6 36.Kg2 Rc5 37.h4 h5 38.Qe2 Qb4 39.Rc1 Rxb5
+40.a3 Qb2 41.Nxc3 Qxc1 42.Nxb5 Qc6+ 43.Kg1 a6 44.Na7 Qc1+
+45.Qf1 Qc7 46.Qxa6 Bd4 0-1

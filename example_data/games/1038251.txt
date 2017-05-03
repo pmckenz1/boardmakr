@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "Estes Park, CO USA"]
+[Date "1987.11.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Nick DeFirmian"]
+[Black "Yasser Seirawan"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Bd3 e5 6.dxe5 dxe5 7.f5
+gxf5 8.exf5 e4 9.Nxe4 Bxf5 10.Nxf6+ Qxf6 11.Qe2+ Be6 12.Nf3
+Nc6 13.O-O O-O-O 14.Ng5 Qd4+ 15.Be3 Qxb2 16.Rab1 Nd4 17.Qh5
+Qxa2 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Ch Kiev, Kiev (Ukraine)"]
+[Site "Ch Kiev, Kiev (Ukraine)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Elena Grechanovskaya"]
+[Black "Alexander Kiselev"]
+[ECO "D24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. Nc3 a6 5. e4 b5 6. e5 Nd5
+7. a4 b4 8. Ne4 e6 9. Bxc4 Be7 10. Nfg5 h6 11. Nh3 Bb7 12. O-O
+Nc6 13. a5 Qd7 14. Qd3 O-O 15. Bb3 Rad8 16. Bc2 b3 17. Nc5
+bxc2 18. Nxd7 Rxd7 19. Be3 Ndb4 20. Qe4 Rfd8 21. Qg4 Nxd4
+22. Bxh6 Nf5 23. Bf4 Nd3 24. Qe2 Nxf4 25. Nxf4 Nd4 26. Qc4 Bc6
+27. Rfe1 Bg5 28. Nd3 Bd2 29. Nc5 Bb5 30. Qa2 Rd5 31. Qa3 Bxe1
+32. Nd7 Ne2+ 33. Kh1 R8xd7 34. b4 Rd1 35. Qb2 Rxa1 0-1

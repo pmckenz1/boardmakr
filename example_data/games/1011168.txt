@@ -1,0 +1,21 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Bartlomiej Macieja"]
+[Black "Miroslav Grabarczyk"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Bc5 5. c3 Qe7 6. h3 O-O
+7. d3 a6 8. Ba4 d6 9. Nbd2 Nd8 10. Nf1 Ne6 11. N3h2 Ne8 12. g4
+g6 13. Rg1 N8g7 14. Be3 c6 15. O-O-O Bxe3+ 16. fxe3 d5
+17. exd5 cxd5 18. d4 e4 19. Bb3 Nc7 20. Kb1 b5 21. g5 Bxh3
+22. Qf2 a5 23. Qh4 Be6 24. Ng4 Bxg4 25. Rxg4 Nf5 26. Qh3 a4
+27. Bc2 b4 28. c4 b3 29. axb3 axb3 30. Bxb3 dxc4 31. Bxc4 Rfb8
+32. Qh2 Qa3 33. Bxf7+ Kf8 34. Bb3 Rxb3 35. Kc1 Qa1+ 36. Kd2
+Rxb2+ 0-1

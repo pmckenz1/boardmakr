@@ -1,0 +1,21 @@
+[Event "It (open)"]
+[Site "San Bernadino SUI"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Chernin"]
+[Black "Gerardo F Barbero"]
+[ECO "E71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 Na6 7.Bd3 c5
+8.d5 e6 9.Nf3 h6 10.Be3 Nc7 11.a4 Re8 12.O-O b6 13.Qd2 Kh7
+14.dxe6 Bxe6 15.b3 Bd7 16.Rae1 Nh5 17.Kh2 Bc6 18.Nd5 Bxd5
+19.cxd5 Rb8 20.Qc2 a6 21.b4 Qd7 22.Rb1 Nf6 23.Nd2 a5 24.b5
+Nfxd5 25.exd5 Nxd5 26.Bc4 Nxe3 27.fxe3 d5 28.Ba2 Rxe3 29.Nf3
+Rbe8 30.Rbd1 Qd6+ 31.Kh1 Rc3 32.Qd2 c4 33.Bb1 Qg3 34.Qxd5 Re2
+35.Ng1 Rf2 36.Rxf2 Qxf2 37.Nf3 Re3 38.Qxf7 Qg3 39.Ng1 Re1
+40.Qxg6+ 1-0

@@ -1,0 +1,23 @@
+[Event "Reykjavik op19"]
+[Site "ISL"]
+[Date "2000.04.09"]
+[EventDate "2000.04.05"]
+[Round "5"]
+[Result "0-1"]
+[White "Andreas Arnold Schmitz"]
+[Black "Dagur Arngrimsson"]
+[ECO "B22"]
+[WhiteElo "2159"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6
+7. Na3 cxd4 8. Nb5 Rc8 9. Nbxd4 Nf6 10. Qa4 Bc5 11. Nxc6 bxc6
+12. O-O O-O 13. Rd1 Qe4 14. Qa6 Qc2 15. Qd3 Qxd3 16. Rxd3 e5
+17. Rd1 e4 18. Nd4 Bxd4 19. Bxg4 Bxf2+ 20. Kxf2 Nxg4+ 21. Kg3
+Ne5 22. Be3 Nd3 23. Bxa7 f5 24. b4 f4+ 25. Kg4 Rf6 26. Rxd3
+exd3 27. Bd4 Re6 28. a4 Re2 29. Kf3 Rce8 30. a5 Re1 31. Ra2
+R8e2 32. Rxe2 Rxe2 33. a6 Ra2 34. a7 g5 35. g4 Kf7 36. c4 Ke6
+37. Bb6 d2 38. Ke2 f3+ 39. Kd1 Kd7 40. b5 cxb5 41. cxb5 Kc8
+42. Be3 Kb7 43. Bf2 Ra4 44. Kxd2 Rxg4 45. Ke3 Rf4 46. h4 h6
+47. hxg5 hxg5 48. b6 Rf6 49. Kd2 Re6 50. Bg3 g4 0-1

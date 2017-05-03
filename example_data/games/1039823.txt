@@ -1,0 +1,24 @@
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1910.08.05"]
+[EventDate "1910.07.18"]
+[Round "16"]
+[Result "1-0"]
+[White "Abraham Speijer"]
+[Black "Oldrich Duras"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.Nd5 Be7 6.Nxe7 Qxe7
+7.O-O O-O 8.Re1 Qc5 9.Bxc6 dxc6 10.d4 exd4 11.Bf4 Bg4 12.Qxd4
+Qh5 13.Bxc7 Rfc8 14.Be5 Bxf3 15.gxf3 Re8 16.Bxf6 Re6 17.Rad1
+Rae8 18.Bd8 Qh3 19.Bc7 h5 20.Re3 h4 21.Kh1 Rg6 22.Rg1 Ree6
+23.Rd3 Rxg1+ 24.Kxg1 Rg6+ 25.Bg3 hxg3 26.fxg3 Rh6 27.Rd2 b6
+28.Qd7 Qh5 29.Qc8+ Kh7 30.Qf5+ Qxf5 31.exf5 a5 32.Kg2 c5
+33.Rd7 Kg8 34.Rd8+ Kh7 35.a4 Rc6 36.g4 c4 37.Kg3 Rc5 38.Rb8
+Rc6 39.h4 g6 40.fxg6 Kxg6 41.h5+ Kg7 42.g5 Rd6 43.Rc8 Rd5
+44.Rxc4 b5 45.axb5 Rxb5 46.b3 Rd5 47.Kg4 Rd7 48.f4 Rb7 49.Rc5
+Ra7 50.Kf5 a4 51.bxa4 Rxa4 52.c4 Ra6 53.Rc7 Kg8 54.g6 fxg6+
+55.hxg6 Kh8 56.Kg5 1-0

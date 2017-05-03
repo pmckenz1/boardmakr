@@ -1,0 +1,21 @@
+[Event "Berliner Sommer"]
+[Site "Berliner Sommer"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Christian Graf"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.b3 Nf6 2.Bb2 g6 3.e4 d6 4.g3 Bg7 5.Bg2 O-O 6.Ne2 e5 7.O-O
+Re8 8.d3 c5 9.Nd2 Nc6 10.h3 Nd4 11.c3 Nxe2+ 12.Qxe2 Be6 13.d4
+exd4 14.cxd4 Bd5 15.Qd3 Bc6 16.d5 Bd7 17.Nc4 Bb5 18.Rfe1 Bxc4
+19.bxc4 Nd7 20.Bxg7 Kxg7 21.Rab1 b6 22.f4 f6 23.h4 Rb8 24.Bh3
+Rb7 25.Re2 Nf8 26.Kg2 Rbe7 27.Rbe1 h6 28.a4 Nd7 29.h5 g5 30.e5
+dxe5 31.Qg6+ Kh8 32.Bxd7 Qxd7 33.Qxf6+ Rg7 34.Rxe5 Rxe5
+35.Qxh6+ Kg8 36.Rxe5 gxf4 37.Rg5 Rxg5 38.Qxg5+ Kh7 39.Qg6+ Kh8
+40.Qh6+ Kg8 41.Qe6+ Qxe6 42.dxe6 a6 43.h6 1-0

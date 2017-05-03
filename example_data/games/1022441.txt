@@ -1,0 +1,23 @@
+[Event "It (open)"]
+[Site "Isle of Man (Great Britain)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Susan Arkell Lalic"]
+[Black "Alexander Baburin"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.f4 c5 5.Nf3 Nc6 6.d4 cxd4 7.Nb5
+Nc5 8.Nbxd4 Bg4 9.c3 e6 10.Be2 Be7 11.O-O O-O 12.Nxc6 bxc6
+13.Nd4 Bxe2 14.Qxe2 Qe8 15.f5 exf5 16.Nxf5 Ne4 17.Qg4 Bc5+
+18.Kh1 Qxe5 19.Bf4 Qf6 20.b4 Bxb4 21.Be3 Qg6 22.Qh4 Bd6 23.Bf4
+Kh8 24.Bxd6 Nxd6 25.Ne7 Qe6 26.Nxc6 Nf5 27.Qf4 Qxc6 28.Qxf5
+Rfd8 29.Rad1 Qxc3 30.Rxd5 Rxd5 31.Qxd5 Kg8 32.Qf3 Qxf3 33.gxf3
+Rc8 34.Rd1 g6 35.Rd2 Kg7 36.Kg2 Rc3 37.a4 Rc4 38.a5 Rc5 39.a6
+Rc6 40.Ra2 Kf6 41.Kg3 Ke5 42.f4+ Kd6 43.h4 h5 44.f5 Kc7
+45.fxg6 fxg6 46.Kf4 Kb6 47.Ke5 Kb5 48.Kd5 Rf6 49.Ra1 Rf4
+50.Rb1+ Kxa6 0-1

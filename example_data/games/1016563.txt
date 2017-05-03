@@ -1,0 +1,22 @@
+[Event "Altensteig (Germany)"]
+[Site "It"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Matthias Wahls"]
+[Black "Andras Adorjan"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5
+O-O 8.Be2 Na6 9.Bf3 Qb6 10.Qxb6 axb6 11.Nge2 Nb4 12.O-O Rd8
+13.d6 Rxd6 14.Bf4 Rd7 15.Rfd1 Nbd5 16.Be5 Rd8 17.Nf4 Nxf4
+18.Bxf4 Bg4 19.Bxb7 Bxd1 20.Bxa8 Bg4 21.Bb7 Rxd4 22.Be3 Rd7
+23.Ba6 Rd6 24.Rc1 Nd5 25.Nxd5 Rxd5 26.b4 Bb2 27.Rf1 Bd4 28.a4
+Bxe3 29.fxe3 Rd2 30.Bc4 Be2 31.Bxe2 Rxe2 32.Ra1 Rxe3 33.a5
+bxa5 34.bxa5 Rb3 35.a6 Rb8 36.Kf2 Kf8 37.Ke3 Ke8 38.Kd4 Kd7
+39.Kc5 Kc7 40.g4 h6 41.h4 f6 42.Re1 e5 43.Rf1 Rf8 44.Kd5 Rd8+
+45.Kc5 Rf8 46.Kd5 1/2-1/2

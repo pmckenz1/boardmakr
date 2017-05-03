@@ -1,0 +1,19 @@
+[Event "Dortmund op-A"]
+[Site "03"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Martin-Michael Faust"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d3
+Be7 8.a4 b4 9.Nbd2 a5 10.Nc4 d6 11.Ne3 g6 12.Nd5 Nxd5 13.Bxd5
+Qd7 14.c3 Nd8 15.Bxb7 Nxb7 16.d4 f6 17.Be3 Qe6 18.Qc2 c5 19.d5
+Qd7 20.Nd2 O-O 21.Nc4 Bd8 22.b3 g5 23.Bd2 Bc7 24.Ne3 Nd8
+25.Nf5 Nf7 26.g3 h6 27.Kg2 Kh7 28.h4 gxh4 29.Rh1 Rh8 30.Rxh4
+Kg6 31.Rah1 1-0

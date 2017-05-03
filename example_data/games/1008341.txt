@@ -1,0 +1,50 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.20"]
+[EventDate "1936.08.10"]
+[Round "9"]
+[Result "1-0"]
+[White "Savielly Tartakower"]
+[Black "William Winter"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. f4 {Notes by Alekhine} e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5
+{The Lasker Attack (Bird-Lasker, 2nd match-game, 1892) leads
+to lively situations if White avoids, as in the present game,
+the exchange variation : 5 d4 g4 6 Ne5 Bxe5 7 dxe5 Qxd1+ etc.}
+5. d4 g4 6. Ng5 {If Black replies ...f5 then 7 e4 h6 8 Nh3
+sacrificing a piece for an interesting attack. After Black's
+actual move White should keep his superiority without any
+sacrifices.} Qe7 7. Qd3 {! Threatening 8 Ne4 and preparing
+also for h3.} f5 8. h3 Nc6 9. hxg4 {9 c3 was also to be
+considered, but the text move is keener and better.} Nb4
+10. Qb3 f4 11. Bd2 {? A tame move which spoils the whole
+effect of the energetic opening play. Logical was 11 Rxh7!
+Rxh7 (Qxg5 12 Qf7+ followed by 13 Rxh8 and wins) 12 Qxg8+ Kd7
+13 Nxh7 Nxc2+ 14 Kd1 Nxa1! 15 e4! fxe3 16 Bxe3 with an
+overwhelming attack, as Black must be mated or lose his queen
+if he takes the bishop (16...Qxe3 17 Nf6+, etc.). After the
+exchanges in the text Black gets ample compensation for his
+slight material inferiority.} Nxc2+ 12. Qxc2 Qxg5 13. Nc3 {If
+13 Rxh7 then simply rxh7 (not Bf5 14 Qa4+) 17 Qxh7 Bxg4 with a
+promising position.} Nf6 14. Ne4 Nxe4 15. Qxe4+ Qe7 16. Qf3
+{16 Qxe7+ Kxe7 17 Bc3 Bxg4 18 d5 h5 19 Bxh8 Rxh8 gives Black a
+splendid game. White's bishop being imprisoned.} Be6 17. Qxb7
+{Not merely for the sake of a pawn but also tp prevent O-O-O.}
+O-O 18. Qf3 Qg7 19. Bc3 Bxg4 20. Qd5+ Kh8 21. O-O-O Rae8
+22. Rd3 {The only possible attempt to bring the king bishop to
+life; but without the opponent's help it certainly could not
+succeed.} Bf5 23. Rf3 Be4 {Why such a hurry? After Re7 for
+instance, White would be without useful moves.} 24. Qh5 Bxf3
+{? So false an appreciation of the position by a player of
+Winter's experience can only be due to shortage of time. By
+24... c6 25 Rfh3 (d5 26 Be5) Rf7 followed by Bd5 he could
+still keep up a tremendous pressure. The "win" of the
+exchange, on the contrary, completely changes the aspect of
+the game in his opponent's favour.} 25. exf3 Re3 26. Bc4 Rfe8
+27. Bb3 R8e7 28. Qf5 c5 {? A last error. But also after
+28...Re8 29 Bc2 his position would remain very difficult.}
+29. Rxh7+ Qxh7 30. Qf8+ 1-0

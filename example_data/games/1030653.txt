@@ -1,0 +1,46 @@
+[Event "Goteborg/Stockholm m (09)"]
+[Site "Goteborg/Stockholm m (09)"]
+[Date "1920.01.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Efim Bogoljubov"]
+[Black "Akiba Rubinstein"]
+[ECO "C48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 {Notes by Dr. Savielly Tartakower, and Richard Reti from
+"Algemeen Handelsblad", March 17, 1920.} e5 2.Nf3 Nc6 3.Nc3
+Nf6 4.Bb5 Nd4 5.Nxe5 Nxe4 {?! Tartakower: The only correct
+reply is 5...Qe7.} 6.Nxe4 Nxb5 7.Nxf7 Qe7 {Tartakower: If
+7...Kxf7? 8.Qh5+, followed by 9.Qxb5.} 8.Nxh8 Qxe4+ 9.Kf1
+{Tartakower: The first surprise. After 9.Qe2 Qxe2+ 10.Kxe2 d5,
+etc., Black would have an easy task. *** Reti: The right
+continuation. After the exchange of queens Black will capture
+the knight on h8 for an advantage in the endgame.} Nd4
+{Tartakower: Or 9...g6 10.d3 Qe5 11.Qf3 Qxh8 12.Bg5 Nd4
+13.Re1+ Ne6 14.c3, and White holds the reins. *** Reti: Better
+was 9...Qf5, neutralizing the threat 10.Qh5+ and immediately
+leaving the dangerous e-file.} 10.d3 Qf5 11.h4 {! Tartakower:
+The second surprise. Not only does White's king obtain a
+flight square, if it should be wanted, but his h-pawn becomes
+a trenchant weapon, whilst his "motorized" rook on h1
+threatens to get into action via h3.} b6 {Reti: With the idea
+of ...Bb7 and ...O-O-O, but this plan is unfeasible. Better is
+11...d5. *** Tartakower: He refrains from playing 11...d5 in
+order to be able, later on, to obstruct the open e-file by
+...Ne6.} 12.Bg5 {Tartakower: Supported by the advanced h-pawn,
+the white bishop is now comfortably settled in the hostile
+camp. If now 12...h6, he replies simply 13.Be3, followed by
+14.h5 and 15.Ng6, saving the knight.} g6 13.Qd2 Bg7 14.Re1+
+Ne6 {Tartakower: Or 14...Kf8 15.h5 Bxh8 16.hxg6 Qxg6 17.Qf4+
+Kg8 18.Rh6, winning.} 15.h5 gxh5 16.Rxh5 Bxh8 {Tartakower: Or
+16...h6 17.Rxh6 Bxh6 18.Bxh6 Qh7 19.Qg5 Qxh8 20.Qh5+ Ke7
+21.Bg5+, winning the queen. After the text move, Black has
+become the stronger in material, but the disorganized position
+of his pieces will cause his ruin.} 17.Qb4 c5 {Tartakower:
+After 17...d6 18.g4, and if 17...Kf7 18.Qe7+ Kg8 19.Rxe6! dxe6
+20.Bh6 wins.} 18.Qh4 Kf7 19.Bd8 {!} Qg6 20.Rh6 Qxh6 {Reti: If
+20...Qf5 21.g4, and White wins.} 21.Qxh6 Nxd8 22.Qh5+ 1-0

@@ -1,0 +1,24 @@
+[Event "Minsk"]
+[Site "11"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Slavoljub Marjanovic"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O Be6 9.Be3 O-O 10.Qd2 Nbd7 11.a4 Rc8 12.a5 Qc7
+13.Rfc1 Kh8 14.Bf3 Rg8 15.Nd5 Bxd5 16.exd5 g5 17.c4 g4 18.Be2
+Ne4 19.Qc2 f5 20.Nd2 Nxd2 21.Bxd2 Bg5 22.b4 Bxd2 23.Qxd2 Nf6
+24.c5 Ne4 25.Qb2 dxc5 26.bxc5 Qg7 27.Bd3 Ng5 28.Kh1 e4
+29.Qxg7+ Rxg7 30.Bf1 Rgc7 31.c6 Kg7 32.h4 gxh3 33.cxb7 Rxc1
+34.Rxc1 Rxc1 35.b8=Q Rxf1+ 36.Kh2 hxg2 37.Kxg2 Rd1 38.Qb7+ Kf6
+39.Qxa6+ Ke5 40.Qe2 Rxd5 41.Qb2+ Kd6 42.a6 Ne6 43.a7 Nc7
+44.Qb6+ Kd7 45.Qxc7+ Kxc7 46.a8=Q Kd6 47.Kg3 Rd3+ 48.Kf4 Rf3+
+49.Kg5 Kc5 50.Qa4 Kd5 51.Qb4 Ke5 52.Qc5+ Ke6 53.Qd4 h6 54.Kxh6
+e3 55.Qb6+ Ke5+ 56.fxe3 f4 57.Qd4+ Kf5 58.Qd5+ 1-0

@@ -1,0 +1,28 @@
+[Event "Ch Poland, Polanica Zdroj (Poland)"]
+[Site "Ch Poland, Polanica Zdroj (Poland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Artur Jakubiec"]
+[Black "Robert Kuczynski"]
+[ECO "B96"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "143"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. f4 Nbd7 8. Qf3 Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 O-O-O
+12. f5 e5 13. Nb3 Be7 14. Bxf6 Nxf6 15. Nd5 Nxd5 16. exd5 Kb8
+17. g3 Qb6 18. Kb1 Rc8 19. Bf1 Rc7 20. Re4 Rhc8 21. c3 a5
+22. a3 Bf6 23. h4 Ka7 24. Ka2 Rb8 25. Qe3 Qxe3 26. Rxe3 Kb6
+27. Bg2 Rbc8 28. Nd2 a4 29. Ne4 Be7 30. Nf2 Rc4 31. Kb1 Rg8
+32. Ne4 Bc8 33. Rf1 Rc7 34. Kc1 Bb7 35. Nf2 Rc5 36. Nd3 Rc4
+37. Nb4 Bf6 38. Be4 Bc8 39. Kc2 Bb7 40. Kd3 Bc8 41. Ke2 Bb7
+42. Bb1 Rgc8 43. Ba2 R4c5 44. Re4 R8c7 45. Rd1 h5 46. Nc2 Bc8
+47. Ne3 Bd7 48. Rb4 Ka7 49. Bb1 Rc8 50. Be4 Rh8 51. Bg2 Bd8
+52. Rf1 Ba5 53. Re4 Bb6 54. g4 hxg4 55. Rxg4 Rh7 56. Be4 Bd8
+57. Rh1 Rc8 58. Bd3 Bb6 59. Nf1 Rc5 60. Be4 Rc4 61. Kd3 Rc8
+62. Nd2 Rch8 63. Rh2 Bd8 64. Rhg2 Bf6 65. Nf3 Kb6 66. Ng5 Rxh4
+67. Rxh4 Rxh4 68. Nxf7 Rh3+ 69. Kd2 Rh4 70. Kd3 Rh3+ 71. Kd2
+Rh4 72. Kd3 1/2-1/2

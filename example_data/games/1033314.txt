@@ -1,0 +1,20 @@
+[Event "10s, MESA"]
+[Site "10s, MESA Hiarcs 7.32"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "David Marciano"]
+[Black "Fernando Braga"]
+[ECO "B33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7
+12. Nxe7 Qxe7 13. c4 f5 14. O-O O-O 15. Qh5 Rb8 16. exf5 e4
+17. Rae1 Bb7 18. Re3 bxc4 19. Bxc4 Qe5 20. Rh3 h6 21. Nc2 d5
+22. Ne3 dxc4 23. Ng4 Qf4 24. f6 Bc8 25. Rg3 Bxg4 26. Rxg4 Qxf6
+27. Rxe4 Rxb2 28. Rxc4 Re8 29. g3 Rxa2 30. Rf4 Re5 31. Qd1 Qe6
+32. Qb1 Ree2 33. Rc1 Be5 0-1

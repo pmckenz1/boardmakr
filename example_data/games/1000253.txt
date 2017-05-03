@@ -1,0 +1,20 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.02"]
+[EventDate "2000.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Edward W Formanek"]
+[Black "Peter Gilruth"]
+[ECO "B15"]
+[WhiteElo "2407"]
+[BlackElo "2271"]
+[PlyCount "67"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4
+Nd7 7. Nf3 Bd6 8. Qe2+ Qe7 9. Qxe7+ Kxe7 10. O-O Re8 11. Re1+
+Kf8 12. Bd2 Nb6 13. Rxe8+ Kxe8 14. Re1+ Kf8 15. Bd3 h5 16. c4
+c5 17. b4 Na4 18. bxc5 Be7 19. Rb1 Bd7 20. Be4 Bc6 21. Bxc6
+bxc6 22. Rb4 Nxc5 23. dxc5 Bxc5 24. Rb7 Rd8 25. Kf1 Rd3
+26. Rb3 Rd7 27. Ke2 g5 28. Be3 Re7 29. Kd2 Bd6 30. h4 Re4
+31. Kd3 Rg4 32. g3 Bxg3 33. fxg3 Rxg3 34. Nd4 1-0

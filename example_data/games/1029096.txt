@@ -1,0 +1,18 @@
+[Event "Hereford"]
+[Site "Hereford"]
+[Date "1885.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "George Henry Mackenzie"]
+[Black "Joseph Henry Blackburne"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 e6 2.d4 d5 3.e5 f6 4.Bd3 g6 5.exf6 Nxf6 6.Be3 Bg7 7.Nd2
+Nc6 8.Ngf3 O-O 9.c3 Ng4 10.Bg5 Nxf2 11.Bxd8 Nxd1 12.Bxc7 Ne3
+13.g3 e5 14.dxe5 Bg4 15.Ke2 Bxe5 16.Bxe5 Nxe5 17.Kxe3 Bxf3
+18.Rhf1 Rae8 19.Kd4 Nc6+ 20.Kc5 Rc8 21.Rae1 Ne5 22.Kd4 Nc6+
+23.Kc5 Ne5 1/2-1/2

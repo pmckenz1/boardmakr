@@ -1,0 +1,18 @@
+[Event "3, La Habana-B (10s)"]
+[Site "Havana CUB"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Luis Sieiro Gonzalez"]
+[Black "Fernando Braga"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5
+7. Bd2 Qa4 8. Nf3 Nc6 9. Qb1 c4 10. g3 Nge7 11. Bh3 h6 12. O-O
+b6 13. Ne1 Bd7 14. f4 O-O-O 15. Ng2 Kb7 16. Ne3 g6 17. Rf2 Bc8
+18. Qd1 Nf5 19. Nf1 Ng7 20. Bg2 Ne7 21. g4 h5 22. h3 hxg4
+23. hxg4 Ka6 1/2-1/2

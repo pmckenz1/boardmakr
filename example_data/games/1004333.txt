@@ -1,0 +1,18 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Lajos Merenyi"]
+[Black "Kornel Havasi"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Nxe5 5. d4 Bd6 6. dxe5
+Bxe5 7. Bc4 Nf6 8. O-O O-O 9. Bg5 c6 10. Kh1 Qb6 11. Rb1 Qa5
+12. Bxf6 Bxf6 13. Bd3 d6 14. Ne2 Be6 15. b3 Qa3 16. f4 Bg4
+17. Qe1 Bxe2 18. Qxe2 Rfe8 19. Qg4 Re7 20. Rf3 Qxa2 21. Rbf1
+Qa5 22. e5 h5 23. Qf5 1-0

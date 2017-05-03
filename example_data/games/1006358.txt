@@ -1,0 +1,21 @@
+[Event "Shanghai Sufe cup"]
+[Site "CHN"]
+[Date "2000.03.05"]
+[EventDate "2000.03.03"]
+[Round "3"]
+[Result "0-1"]
+[White "Hao Yin"]
+[Black "Xiaomin Peng"]
+[ECO "C58"]
+[WhiteElo "2496"]
+[BlackElo "2624"]
+[PlyCount "74"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+
+Bd7 7. Qe2 Be7 8. b4 Bxb4 9. Qxe5+ Qe7 10. Qxe7+ Bxe7
+11. Bxd7+ Nxd7 12. Ne4 Nf6 13. Nbc3 Nxe4 14. Nxe4 O-O-O
+15. Bb2 Rhg8 16. d3 Rxd5 17. O-O Nc6 18. Rfe1 f5 19. Ng3 g6
+20. Nf1 Rb5 21. Rab1 Ra5 22. d4 Bd6 23. Ra1 Ra4 24. c3 Na5
+25. Ne3 Re8 26. Kf1 c6 27. h3 Bf4 28. Nc2 Rxe1+ 29. Nxe1 Nc4
+30. Nd3 Nxb2 31. Nxf4 Ra3 32. Ne2 Na4 33. c4 Nb2 34. c5 Nd3
+35. f3 Nb4 36. Rb1 a5 37. Nc1 Nc2 0-1

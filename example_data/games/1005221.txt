@@ -1,0 +1,18 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Viktor Vass"]
+[Black "Frank Jansen"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "2140"]
+[PlyCount "46"]
+
+1. e4 c5 2. Nf3 e6 3. Be2 Nc6 4. O-O g6 5. d4 cxd4 6. Nxd4 Bg7
+7. Nb5 Bf8 8. Be3 d6 9. N1c3 a6 10. Nd4 e5 11. Nb3 Be6 12. f4
+exf4 13. Bxf4 Ne5 14. Nd5 Bxd5 15. Qxd5 Qb6+ 16. Qd4 Qxd4+
+17. Nxd4 Ne7 18. Nf3 N7c6 19. Bxe5 Nxe5 20. Nxe5 dxe5 21. Bc4
+Bc5+ 22. Kh1 Rf8 23. Rad1 Ke7 1/2-1/2

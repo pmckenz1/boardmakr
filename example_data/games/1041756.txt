@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.21"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Alexandre Nascimento"]
+[Black "Eugenio Torre"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 Na6 7.Nf3
+h6 8.Bxf6 Bxf6 9.Qd2 Bg7 10.O-O e5 11.Rad1 Qe8 12.d5 f5 13.Ne1
+Nc5 14.f3 a5 15.Nd3 Nxd3 16.Bxd3 b6 17.b3 Rf7 18.a4 Qf8
+19.Rde1 Bf6 20.Qc2 f4 21.Rb1 g5 22.Kf2 h5 23.h3 Rg7 24.Rh1 Kf7
+25.Ke2 Bd7 26.Kd2 Re8 27.Kc1 Qe7 28.Kb2 Reg8 29.Rh2 Ke8 30.Rc1
+Rh7 31.Rch1 Rgh8 32.Qd2 g4 33.hxg4 hxg4 34.Rxh7 Rxh7 35.Rxh7
+Qxh7 36.Nb5 Kd8 37.Na7 Qh1 38.Qe2 Qg1 39.fxg4 Bh4 40.Nc6+ Bxc6
+41.dxc6 Qd4+ 42.Ka2 Ke7 43.Qf3 Kf6 44.g5+ Bxg5 45.Qg4 Qxd3
+46.Qf5+ Kg7 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Alexander Moroz"]
+[Black "Viktor Moskalenko"]
+[ECO "C05"]
+[WhiteElo "2493"]
+[BlackElo "2469"]
+[PlyCount "39"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6
+7. Ndf3 Qb6 8. g3 cxd4 9. cxd4 f6 10. Bh3 Bb4+ 11. Kf1 O-O
+12. Kg2 fxe5 13. fxe5 Ndxe5 14. dxe5 Nxe5 15. Qe2 Nc4 16. b3
+Bc3 17. Rb1 e5 18. Qd3 Be1 19. Qe2 Bc3 20. Qd3 1/2-1/2

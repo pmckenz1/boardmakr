@@ -1,0 +1,19 @@
+[Event "Hyeres (France)"]
+[Site "It"]
+[Date "1987.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alexandra Nicolau van der Mije"]
+[Black "Nona Gaprindashvili"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be3 e5 7.Nb3
+Be7 8.f3 O-O 9.Qd2 Be6 10.Nd5 Bxd5 11.exd5 Nb8 12.c4 Nbd7
+13.Be2 a5 14.Rd1 Nh5 15.O-O f5 16.f4 Nxf4 17.Bxf4 exf4 18.Nd4
+Qb6 19.Kh1 Bf6 20.Ne6 Rf7 21.Qxf4 Qxb2 22.Bd3 g6 23.Rb1 Qe5
+24.Rxb7 Qxf4 25.Rxf4 Ne5 26.Rb3 a4 27.Ra3 Rb7 28.Bf1 Rb1 29.c5
+dxc5 30.Nxc5 Be7 31.Raxa4 Rxa4 32.Nxa4 Bg5 33.Nc3 Re1 0-1

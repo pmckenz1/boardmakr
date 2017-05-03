@@ -1,0 +1,23 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.19"]
+[EventDate "1922.??.??"]
+[Round "11"]
+[Result "0-1"]
+[White "Karel Opocensky"]
+[Black "Ernst Gruenfeld"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Nf3 Nf6 5. Nxf6+ Qxf6 6. d3
+Bd6 7. Be2 O-O 8. Bd2 Nc6 9. Bc3 Nd4 10. Nd2 Bd7 11. Ne4 Qg6
+12. Bf3 Nxf3+ 13. Qxf3 Bc6 14. Qe3 f5 15. Nxd6 cxd6 16. Rg1 f4
+17. Qd2 Qh5 18. f3 Qxh2 19. O-O-O Qh6 20. Kb1 Rae8 21. Rde1
+Qe6 22. a3 Qd5 23. Qf2 b6 24. Rh1 Bd7 25. Rh5 Bf5 26. Kc1 Bg6
+27. Rhh1 Rc8 28. Kd2 Bxd3 29. cxd3 Rxc3 30. Qe2 Rb3 31. Rb1
+Rc8 32. Qe4 Qxe4 33. fxe4 h6 34. g3 fxg3 35. Rhg1 a5 36. Rxg3
+Kh7 37. Rf3 Rc7 38. Rf8 Rcc3 39. bxc3 Rxb1 40. Rd8 h5 41. Kc2
+Rg1 42. d4 exd4 43. Rxd6 dxc3 44. Kxc3 h4 45. Rxb6 h3 46. Rb2
+Rg2 47. Rb1 h2 48. Rh1 g5 49. e5 Kg7 0-1

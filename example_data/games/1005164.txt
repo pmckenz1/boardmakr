@@ -1,0 +1,26 @@
+[Event "Budapest First Saturday IM04 B, HUN"]
+[Site "Budapest First Saturday IM04 B HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Gagik Khechumyan"]
+[Black "Eric N Cooke"]
+[ECO "A07"]
+[WhiteElo "2370"]
+[BlackElo "2165"]
+[PlyCount "120"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3 Be7
+7. O-O O-O 8. Qe2 b5 9. a4 b4 10. Re1 Ba6 11. e5 Nd7 12. h4
+Re8 13. Nf1 Qc7 14. N1h2 Rac8 15. Bf4 b3 16. c3 d4 17. c4 Nb4
+18. Ng5 Bb7 19. Bxb7 Qxb7 20. Rad1 Nc2 21. Qh5 Bxg5 22. hxg5
+Nxe1 23. Rxe1 Kf8 24. g6 h6 25. Bxh6 gxh6 26. Qxh6+ Ke7
+27. Qh4+ f6 28. Qh7+ Kd8 29. exf6 Kc7 30. f7 Rh8 31. Qg7 Qc6
+32. Re4 Rhf8 33. Nf3 Qxa4 34. Rxe6 Qa1+ 35. Re1 Qxb2 36. Re7
+Qc1+ 37. Kg2 b2 38. Qe5+ Kb6 39. Qd6+ Ka5 40. Qxd7 b1=Q
+41. Qxa7+ Kb4 42. Rb7+ Kc3 43. Rxb1 Qxb1 44. g7 Rxf7 45. Qxf7
+Qb8 46. Nh4 Qa8+ 47. Kh2 Re8 48. Ng6 Re1 49. f3 Qc8 50. Nf4
+Re8 51. g4 Qb8 52. Kh3 Kd2 53. Kh4 Qe5 54. Ng6 Qh2+ 55. Kg5
+Qb8 56. f4 Qd8+ 57. Qf6 Qxf6+ 58. Kxf6 Rg8 59. Ne5 Ke3 60. Kf7
+Rxg7+ 1-0

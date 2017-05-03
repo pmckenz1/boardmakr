@@ -1,0 +1,15 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1977.03.30"]
+[EventDate "1977.03.20"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Kenneth Frey Beckman"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 Be7 6.O-O b5 7.Bb3
+d6 8.a4 Bg4 9.c3 O-O 10.d3 Na5 1/2-1/2

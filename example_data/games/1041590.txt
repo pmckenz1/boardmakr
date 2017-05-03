@@ -1,0 +1,24 @@
+[Event "Izt"]
+[Site "Biel SUI"]
+[Date "1985.08.01"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "John van der Wiel"]
+[Black "Eugenio Torre"]
+[ECO "C90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.a4 Bg4 10.d3 Na5 11.Bc2 Bxf3 12.Qxf3 b4 13.Nd2
+Nd7 14.Qg4 Bg5 15.h4 Bxh4 16.Nf3 Bf6 17.cxb4 Nc6 18.Bd2 Rb8
+19.b5 axb5 20.axb5 Rxb5 21.Ba4 Rb6 22.Rec1 Ncb8 23.Ba5 Rb7
+24.b4 Nb6 25.Bb5 Qc8 26.Qh5 Bd8 27.d4 Nd5 28.Bc4 Nf4 29.Qh2
+Bf6 30.d5 Qg4 31.Qg3 Qh5 32.Ra2 Bd8 33.Rac2 f5 34.Re1 fxe4
+35.Rxe4 Qf5 36.Nd2 Nd7 37.Ba6 Ra7 38.Bc8 Ra8 39.Bxd7 Qxd7
+40.Nf1 Nxd5 41.Qb3 Qf7 42.Ne3 Nf4 43.Qxf7+ Rxf7 44.g3 Ne6
+45.f4 Nd4 46.Rf2 Nc6 47.fxe5 Rxf2 48.Kxf2 Nxe5 49.Ke2 Kf7
+50.Rf4+ Ke8 51.Nf5 g6 52.Nd4 Ke7 53.Nb3 c6 54.Kd2 Ke6 55.Kc2
+Bg5 56.Rf1 Be3 57.Kc3 h5 58.Rd1 Ra7 0-1

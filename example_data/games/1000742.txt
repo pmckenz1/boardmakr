@@ -1,0 +1,21 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.04"]
+[EventDate "1911.08.21"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Paul Saladin Leonhardt"]
+[Black "Hugo Suechting"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Re8 7.Bg5
+a6 8.Ba4 b5 9.Bb3 Be7 10.a4 b4 11.Bxf6 Bxf6 12.Nd5 Rb8 13.Qd2
+Na5 14.Ba2 c5 15.Bc4 d6 16.h3 h6 17.b3 Nc6 18.Kh2 Ra8 19.g4
+Ra7 20.Rg1 Bg5 21.Nxg5 hxg5 22.Kg3 Nd4 23.f3 Be6 24.Raf1 Bxd5
+25.Bxd5 Qf6 26.Rf2 g6 27.Rh1 Kg7 28.h4 Qf4+ 29.Kg2 Qxd2
+30.Rxd2 gxh4 31.Rxh4 g5 32.Rh5 f6 33.Bc4 a5 34.Bd5 Rh8 35.Rxh8
+Kxh8 36.Rf2 Rh7 37.Kg1 Rh3 38.Kg2 Rh7 39.Kg1 Rh3 40.Kg2 Rh7
+1/2-1/2

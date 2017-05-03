@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1954.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Bernardo Wexler"]
+[ECO "D75"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.c4 Nf6 2.Nf3 g6 3.d4 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O
+c5 8.dxc5 Na6 9.Ng5 Ndb4 10.Nc3 Nxc5 11.Be3 Nca6 12.a3 Nc6
+13.Rc1 h6 14.Nge4 Be6 15.b4 Nd4 16.b5 Nc7 17.Nc5 Ncxb5 18.Nxb5
+Nxb5 19.Nxe6 fxe6 20.Qb3 Qd7 21.Bh3 Kf7 22.Rfd1 Nd6 23.Rc4 Ke8
+24.Re4 Rf6 25.Rxe6 Rxe6 26.Bxe6 Qc6 27.Rc1 Qe4 28.Bd5 Qg4
+29.Bxb7 Nxb7 30.Qg8+ Bf8 31.Bxh6 Qf5 32.Bxf8 Kd7 33.Qb3 Nd6
+34.Bg7 Qe4 35.Rd1 Rc8 36.Bd4 1-0

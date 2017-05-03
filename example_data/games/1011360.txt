@@ -1,0 +1,25 @@
+[Event "Ch Scotland, Edinburgh (Scotland)"]
+[Site "Ch Scotland, Edinburgh (Scotland)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "Ketevan Arakhamia-Grant"]
+[Black "Paul Motwani"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5
+7. a4 Rb8 8. axb5 axb5 9. Bg5 h6 10. Bh4 d6 11. Nc3 g5 12. Bg3
+Bg4 13. h4 Nd4 14. hxg5 Nh5 15. Bxe5 Bxf3 16. gxf3 dxe5
+17. Rxh5 Rg8 18. Kd2 Rxg5 19. Rxh6 Rg2 20. Rh8+ Bf8 21. f4 Qf6
+22. Rxf8+ Kxf8 23. Nd5 Qh4 24. Kc3 Qxf2 25. Qe1 Ne2+ 26. Kd2
+Nxf4+ 27. Qxf2 Rxf2+ 28. Ke3 Re2+ 29. Kf3 Rd2 30. Rh1 Kg7
+31. Nxc7 Rc8 32. Nxb5 Rcxc2 33. Bxc2 Rxc2 34. Rg1+ Kf6 35. d4
+Ne6 36. dxe5+ Kxe5 37. Na3 Rc8 38. Ke3 Rb8 39. Nc4+ Kf6
+40. Rf1+ Ke7 41. e5 Rb3+ 42. Kd2 Nc5 43. Kc2 Ke6 44. Rd1 Rb4
+45. Kc3 Rb3+ 46. Kd4 Na4 47. Rf1 Rb4 48. Rf6+ Ke7 49. b3 Rxb3
+50. Nd6 Rb4+ 51. Kd5 Nc3+ 52. Kc6 Rb6+ 53. Kxb6 Nd5+ 54. Kc6
+1/2-1/2

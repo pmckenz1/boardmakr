@@ -1,0 +1,17 @@
+[Event "Memorial M.Chigorin"]
+[Site "Sochi URS"]
+[Date "1976.09.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Nikolai V Krogius"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.Ndf3 cxd4 7.Nxd4
+Nc6 8.Ngf3 Nc5 9.c3 Bd7 10.Be3 a6 11.Be2 Be7 12.O-O O-O 13.Rc1
+Rc8 14.Nxc6 Bxc6 15.Nd4 Bd7 16.Bg4 g6 17.Qe2 Ne4 18.Bf3 Qa5
+19.a3 f5 20.exf6 Bxf6 21.c4 Qa4 22.Rfd1 Rfe8 1/2-1/2

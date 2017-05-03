@@ -1,0 +1,25 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Dmitry Grin"]
+[Black "Evgenij Miroshnichenko"]
+[ECO "B56"]
+[WhiteElo "2282"]
+[BlackElo "2465"]
+[PlyCount "111"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f3 e5
+7. Nb3 Be7 8. Be3 O-O 9. Qd2 a5 10. Bb5 Na7 11. Bd3 Be6
+12. O-O Nc8 13. Qf2 a4 14. Nc1 a3 15. b3 Nh5 16. N1e2 Bg5
+17. Rad1 Bxe3 18. Qxe3 Na7 19. Rd2 Qa5 20. Nd1 b5 21. f4 Nxf4
+22. Nxf4 exf4 23. Qxf4 Nc6 24. Be2 Qb6+ 25. Qe3 Qb8 26. Nc3
+Ra5 27. Rfd1 Rd8 28. Nd5 Bxd5 29. Rxd5 Nb4 30. R5d2 Nc6
+31. Rd5 b4 32. Bc4 Rxd5 33. Bxd5 Ne5 34. c3 bxc3 35. Rc1 Rc8
+36. Rc2 Qb4 37. h3 h6 38. Kh2 Rc7 39. Bc4 Nxc4 40. Qxc3 Qb8
+41. bxc4 Re7 42. Qxa3 d5+ 43. Qg3 Qb1 44. Qb3 Qf1 45. cxd5
+Rxe4 46. Qf3 Qxf3 47. gxf3 Rd4 48. Kg3 Rxd5 49. a4 Ra5 50. Rc4
+Kf8 51. h4 Ke7 52. Re4+ Kd6 53. Rd4+ Ke6 54. Re4+ Kd6 55. Rd4+
+Ke6 56. Re4+ 1/2-1/2

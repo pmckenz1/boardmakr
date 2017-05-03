@@ -1,0 +1,18 @@
+[Event "New York (USA)"]
+[Site "New York (USA)"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Roman Dzindzichashvili"]
+[Black "Lev Alburt"]
+[ECO "A32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e6 5.g3 d5 6.Bg2 e5 7.Nf3
+d4 8.O-O Nc6 9.e3 Bc5 10.exd4 exd4 11.Re1+ Be6 12.Bg5 O-O
+13.Nbd2 h6 14.Bxf6 Qxf6 15.Ne4 Qe7 16.Nfd2 Bb6 17.a3 d3 18.c5
+Bxc5 19.Nb3 Bb6 20.Qxd3 Rac8 21.Rad1 Ne5 22.Qb5 Bc4 23.Qa4 Nd3
+24.Re2 Bxb3 25.Qxb3 Nc1 26.Qb5 Nxe2+ 27.Qxe2 0-1

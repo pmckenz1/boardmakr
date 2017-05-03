@@ -1,0 +1,27 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.11"]
+[EventDate "1911.08.21"]
+[Round "16"]
+[Result "0-1"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Hans Fahrni"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Be2 Bd6 7.O-O
+O-O 8.Qc2 dxc4 9.Bxc4 e5 10.Rd1 Qe7 11.h3 e4 12.Ng5 Nb6 13.Bb3
+Bf5 14.f3 Rae8 15.Ngxe4 Nxe4 16.Nxe4 Bxe4 17.Qxe4 Qxe4 18.fxe4
+Rxe4 19.Rf1 c5 20.Bd2 cxd4 21.exd4 Rxd4 22.Bc3 Rf4 23.g3 Rxf1+
+24.Rxf1 Nc8 25.Kg2 Ne7 26.g4 Ng6 27.Kf3 Be5 28.Bb4 Rd8 29.Rf2
+Rd4 30.Bd2 Bf4 31.Bc3 Rd3+ 32.Ke4 Re3+ 33.Kd4 Re7 34.Kd3 Re3+
+35.Kd4 Re7 36.Kd3 Be5 37.Bb4 Rd7+ 38.Kc2 Nf4 39.Bd2 Rc7+
+40.Kb1 Ng6 41.Re2 Re7 42.Re4 h6 43.h4 Bf6 44.Ra4 b5 45.Ra5
+Nxh4 46.Rxb5 Nf3 47.Bb4 Re2 48.Rb8+ Kh7 49.Bc2+ g6 50.Rb7 Kg7
+51.Rxa7 Rg2 52.a4 Rxg4 53.Rb7 Nd4 54.Bd3 Nc6 55.Bc5 h5 56.Bb5
+Nd8 57.Rd7 Ne6 58.b4 h4 59.Rd3 g5 60.Bd7 Nxc5 61.bxc5 Rd4
+62.Rxd4 Bxd4 63.c6 Bb6 64.Kc2 Kg6 65.Bh3 f5 66.Kb3 g4 67.Bf1
+h3 68.Kb4 f4 69.a5 h2 70.axb6 h1=Q 71.Bd3+ Kf6 72.c7 Qb7
+73.Ka5 Qd5+ 74.Bb5 Qc5 75.Ka6 g3 0-1

@@ -1,0 +1,18 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Vlastimil Jansa"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 c5 8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 a6 11. Rc1 cxd4
+12. cxd4 Qxd2+ 13. Kxd2 e6 14. d5 exd5 15. exd5 Ne5 16. Nxe5
+Bxe5 17. g3 Bf5 18. Bg2 Kd7 19. d6 Bxd6 20. Bxb7 Rab8 21. Bc6+
+Ke7 22. Bd4 Rhc8 1/2-1/2

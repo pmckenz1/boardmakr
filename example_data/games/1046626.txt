@@ -1,0 +1,19 @@
+[Event "07, Open 1, Vienna AUT"]
+[Site "07, Open 1, Vienna AUT"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "Stefan E S Kindermann"]
+[ECO "E97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. Nd2 a5 10. Rb1 Bd7 11. a3 a4 12. b4
+axb3 13. Nxb3 b6 14. Ra1 Qe8 15. Bb2 Kh8 16. g3 Nfg8 17. f4 f5
+18. Qd2 exf4 19. gxf4 fxe4 20. Nxe4 Nf5 21. Bd3 Qe7 22. Ng3
+Qe3+ 23. Qxe3 Nxe3 24. Bxg7+ Kxg7 25. Rf3 Rae8 26. Nd4 Bg4
+27. Rf2 Nd1 28. Rf1 Ne3 29. Rf2 Nd1 30. Rf1 Ne3 1/2-1/2

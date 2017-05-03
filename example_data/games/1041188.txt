@@ -1,0 +1,21 @@
+[Event "Torremolinos"]
+[Site "10"]
+[Date "1961.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Erich Eliskases"]
+[Black "Francisco Jose Perez Perez"]
+[ECO "E98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O
+Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.exf5 gxf5 12.f4 e4 13.Nf2
+Nf6 14.Be3 Ng6 15.Qd2 Bd7 16.Rad1 Qe8 17.g3 h5 18.h4 Ng4
+19.Nxg4 hxg4 20.Bd4 Bh6 21.Be3 Kf7 22.Rf2 Qe7 23.Rh2 Rh8
+24.Kf2 Rag8 25.Rdh1 Nf8 26.b4 Nh7 27.Bd1 Nf6 28.Bb3 Nh5 29.c5
+Rg6 30.c6 Bc8 31.cxb7 Bxb7 32.Nb5 a6 33.Nd4 Bc8 34.Kg2 Bg7
+35.Ne6 Rxe6 36.dxe6 Bxe6 37.Bxe6+ Qxe6 38.Rc1 Rc8 39.Rhh1
+1/2-1/2

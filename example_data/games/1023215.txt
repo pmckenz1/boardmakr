@@ -1,0 +1,20 @@
+[Event "Berlin East DSV"]
+[Site "Berlin East"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Jan Plachetka"]
+[Black "Vladimir Bagirov"]
+[ECO "D44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6
+8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7 11.exf6 Bb7 12.g3 c5 13.d5
+Nb6 14.dxe6 Qxd1+ 15.Rxd1 Bxh1 16.e7 a6 17.exf8=Q+ Kxf8 18.Be3
+Rh5 19.Rd6 Rb8 20.Be2 Re5 21.Kd2 b4 22.Nd1 Kg8 23.Bf4 Ree8
+24.Ne3 c3+ 25.bxc3 bxc3+ 26.Kxc3 Na4+ 27.Kd2 Rb2+ 28.Ke1 Nc3
+29.Bd3 Rxa2 30.Rxa6 Rxa6 31.Bxa6 Nd5 32.Bb5 Re6 33.Bc4 Nxf4
+34.gxf4 Rxf6 35.f5 Be4 36.Ng4 Rd6 37.f6 Bf3 38.Ne3 Rxf6 0-1

@@ -1,0 +1,30 @@
+[Event "Chicago"]
+[Site "Chicago, IL USA"]
+[Date "1985.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eric Schiller"]
+[Black "Lawrence Day"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.Nf3 {Notes by Eric Schiller} d6 2.e4 Bg4 3.d4 e6 {This is
+the small center approach in the Wade Defense, and it is not
+too bad, though it is unambitious. My opponent, one of
+Canada's best players and an International Master, is known
+for his slow buildup method of opening play.} 4.Nc3 Nf6 5.Be2
+Be7 6.Bf4 O-O 7.Qd2 a6 8.Rd1 Nfd7 9.e5 Bxf3 10.exd6 cxd6
+11.Bxf3 d5 12.O-O Nc6 13.Ne2 Qa5 14.Qxa5 Nxa5 15.Bc7 Nc6 16.c3
+Rfc8 17.Bf4 b5 18.Rc1 {My opponent decides to go for broke on
+the kingside.} g5 19.Bd2 f5 20.g4 f4 21.h4 {!} h6 22.Kg2 Kg7
+{I am threatening to take over the kingside.} 23.b3 Nb6
+24.Rfe1 Bd6 25.Rh1 Ne7 26.hxg5 hxg5 27.Rh5 Kf6 28.Rch1 Ng6
+29.Rh6 Ra7 30.Ng1 a5 {Black does not appreciate the
+danger. This is because my light-squared bishop is at f3. In
+my mind's eye, it drifts to d3. Of such things are
+combinations born!} 31.Be2 b4 {Black's position looks good but
+White wins with a combination.} 32.Rxg6+ Kxg6 33.Bd3+ Kg7
+34.Rh7+ Kf6 35.Rxa7 1-0

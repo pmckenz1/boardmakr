@@ -1,0 +1,18 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.10"]
+[EventDate "1920.08.02"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Victor Sjoberg"]
+[Black "Ernst Jacobson"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb7 5.Bg5 Be7 6.e3 d5 7.cxd5
+Nxd5 8.Bxe7 Qxe7 9.Bd3 O-O 10.Rc1 Rc8 11.O-O Nd7 12.Bb1 c5
+13.Ne2 cxd4 14.Qxd4 Nf8 15.e4 Nf6 16.Rc3 Rxc3 17.Nxc3 Rd8
+18.Qa4 a6 19.Rd1 Rxd1+ 20.Qxd1 Qb4 21.Qe2 Ng6 22.g3 Qc5 23.Qd3
+Qc7 24.h3 Nd7 25.Qe3 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vera Menchik"]
+[Black "Vasja Pirc"]
+[ECO "D52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5
+7. cxd5 exd5 8. Bd3 Ne4 9. O-O Nxg5 10. Nxg5 Nf6 11. e4 h6
+12. Nf3 dxe4 13. Nxe4 Nxe4 14. Bxe4 Bd6 15. d5 c5 16. Bc2 O-O
+17. Qd3 f5 18. Rfe1 Qc7 19. Qc3 b5 20. Rad1 b4 21. Qc4 Bd7
+22. a4 bxa3 23. bxa3 Qa5 24. Re6 Bxe6 25. dxe6 Be7 26. Rd7
+Qxa3 27. h3 Qa1+ 28. Kh2 Qf6 29. g3 Rad8 30. Rxa7 Kh8 31. Rxe7
+Qxe7 32. Ne5 Qf6 33. Nd7 Rxd7 34. exd7 Qd6 35. h4 g6 36. h5
+gxh5 37. Qd3 Qxd3 38. Bxd3 Kg7 39. Bxf5 Kf6 40. g4 hxg4
+41. Bxg4 c4 42. Kg3 c3 43. Bd1 Ke7 44. Ba4 Ra8 45. Bb3 Ra3 0-1

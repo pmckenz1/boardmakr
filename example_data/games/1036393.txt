@@ -1,0 +1,25 @@
+[Event "Petersburg"]
+[Site "Petersburg"]
+[Date "1894.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Allies"]
+[Black "Mikhail Chigorin"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. Nc3 c6 5. Nf3 Bd6 6. Bd3 Nbd7
+7. e4 dxe4 8. Nxe4 Nxe4 9. Bxe4 c5 10. O-O Qc7 11. b3 Nf6
+12. Bc2 b6 13. dxc5 bxc5 14. h3 Bb7 15. Re1 Rd8 16. Qe2 Qc6
+17. Bg5 Be7 18. Bxf6 Bxf6 19. Rad1 Bd4 20. Be4 Qxe4 21. Qxe4
+Bxe4 22. Nxd4 Bb7 23. Nb5 Ke7 24. Nxa7 Rxd1 25. Rxd1 Ra8
+26. Nb5 Rxa2 27. Nc3 Ra5 28. f3 Bc6 29. Kf2 Ra3 30. Rd3 f5
+31. Ke3 g5 32. Nb1 Ra1 33. Rd1 h5 34. Ke2 h4 35. Nd2 Ra2
+36. Ke3 e5 37. Re1 Kd6 38. Re2 Ra1 39. Kf2 Rc1 40. Re1 Rc2
+41. Re2 Ke6 42. Nb1 Rc1 43. Na3 Ra1 44. Nc2 Rc1 45. Ne1 Rd1
+46. Re3 e4 47. Re2 Ke5 48. fxe4 fxe4 49. Rb2 Kd4 50. Ke2 Ra1
+51. Rd2+ Kc3 52. Rd6 Be8 53. Re6 Bh5+ 54. Kf1 Kd4 55. Rh6 Bd1
+56. Kf2 Ra2+ 57. Kg1 Bxb3 58. Rg6 Ra1 0-1

@@ -1,0 +1,22 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.30"]
+[EventDate "1905.08.14"]
+[Round "15"]
+[Result "0-1"]
+[White "Hans Fahrni"]
+[Black "Rudolf Swiderski"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. Nc3 Nf6 5. Bf4 Bd6 6. Bg5 Nbd7
+7. cxd5 exd5 8. e3 Qa5 9. Nd2 O-O 10. Bd3 Re8 11. O-O Qc7
+12. g3 h6 13. Bf4 Nf8 14. Kh1 g5 15. Bxd6 Qxd6 16. Be2 Bf5
+17. Bf3 Re7 18. Nb3 Rae8 19. Nc5 N8h7 20. Qd2 g4 21. Bg2 Ng5
+22. Nd3 Bxd3 23. Qxd3 Nfe4 24. Nxe4 dxe4 25. Qc3 Rd8 26. Rfc1
+Qf6 27. Qd2 Rd5 28. Rc5 Red7 29. Rac1 Qf5 30. Qe2 Kg7 31. b3
+R7d6 32. Kg1 h5 33. R5c2 h4 34. Kh1 Nf3 35. Bxf3 exf3 36. Qf1
+Qe4 37. gxh4 Rh5 38. Rc5 Rxh4 39. Re5 Rdh6 40. Qg1 Qh7
+41. Rg5+ Kh8 42. Rg8+ Kxg8 43. Qxg4+ Rxg4 44. h4 Rhxh4# 0-1

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.10"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Rudsel Wolf"]
+[Black "Eugenio Torre"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O c5 7.dxc5
+dxc5 8.Qxd8 Rxd8 9.e5 Ng4 10.Nb5 Nc6 11.Nc7 Rb8 12.e6 Bxe6
+13.Nxe6 fxe6 14.Ng5 Nge5 15.Nxe6 Nd4 16.Nxd4 cxd4 17.Bg5 Nf7
+18.Bh4 Rbc8 19.Bd3 Rd7 20.f4 Nd6 21.g4 Nc4 22.b3 Ne3 23.Rfe1
+Kf7 24.Re2 Nxg4 25.Bc4+ Rxc4 26.bxc4 d3 27.Rd1 Bd4+ 28.Kf1
+dxe2 29.Kxe2 Rd6 30.Bg3 Bc5 31.Rf1 Ne3 32.Rf3 Nf5 33.Rf1 Re6+
+34.Kd2 Bb4+ 35.c3 Rd6+ 36.Ke2 Bxc3 37.Be1 Re6+ 38.Kf2 Bd4+
+39.Kf3 Re3+ 40.Kg2 Re2+ 41.Kf3 Rxa2 0-1

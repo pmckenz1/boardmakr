@@ -1,0 +1,25 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.06.30"]
+[EventDate "2000.??.??"]
+[Round "2"]
+[Result "1-0"]
+[White "Edward W Formanek"]
+[Black "Aaron Pixton"]
+[ECO "C11"]
+[WhiteElo "2407"]
+[BlackElo "2272"]
+[PlyCount "119"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6
+Bxf6 7. Nf3 O-O 8. c3 Nd7 9. Bd3 b6 10. Qe2 Bb7 11. O-O-O c5
+12. dxc5 Qe7 13. Nxf6+ Nxf6 14. cxb6 axb6 15. Kb1 Nd5 16. Qc2
+h6 17. Bh7+ Kh8 18. Be4 Rfc8 19. Rd4 Ra5 20. Rhd1 Rca8
+21. Bxd5 Bxd5 22. a3 Bxf3 23. gxf3 Rf5 24. Qe4 Raa5 25. Rd6
+Rae5 26. Qb4 Qg5 27. Qxb6 Qh5 28. R6d3 Qxh2 29. Qb8+ Kh7
+30. Re3 Qh5 31. Rxe5 Rxe5 32. Qd6 Rf5 33. Qd3 g6 34. Qe4 Rxf3
+35. Rd2 Rf5 36. a4 Qg5 37. Qe3 Qg2 38. b4 h5 39. a5 h4 40. Kb2
+Qf1 41. f4 Rxf4 42. a6 Rg4 43. a7 Qh1 44. Qf2 Kg7 45. Qh2 Qc6
+46. Qd6 Qh1 47. Qd8 Rg1 48. Qd4+ e5 49. Qxg1 Qxg1 50. a8=Q h3
+51. Qe4 Qg3 52. Re2 f5 53. Qxe5+ Qxe5 54. Rxe5 f4 55. b5 Kf6
+56. Re1 Kf5 57. b6 h2 58. b7 Kg4 59. b8=Q g5 60. Qh8 1-0

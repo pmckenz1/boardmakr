@@ -1,0 +1,20 @@
+[Event "Stockholm Interzonal"]
+[Site "Stockholm SWE"]
+[Date "1962.02.21"]
+[EventDate "1962.??.??"]
+[Round "16"]
+[Result "1-0"]
+[White "Julio Bolbochan"]
+[Black "Manuel Aaron"]
+[ECO "D56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4
+Ne4 8.Bxe7 Qxe7 9.Rc1 Nxc3 10.Rxc3 c6 11.Bd3 Nd7 12.cxd5 exd5
+13.Qb1 Nf6 14.Nd2 Re8 15.O-O Ne4 16.Bxe4 dxe4 17.b4 Be6 18.b5
+cxb5 19.Qxb5 Rec8 20.Nxe4 Bxa2 21.Rfc1 Rxc3 22.Nxc3 Be6 23.d5
+Bg4 24.h3 Qa3 25.Rc2 Bf5 26.Qxb7 Bxc2 27.Qxa8+ Kh7 28.Qc6 Qc1+
+29.Kh2 Qd2 30.Kg3 h5 31.h4 g5 32.Qf6 gxh4 33.Kxh4 Bg6 34.d6 a5
+35.Kg3 Qd3 36.Qe5 Qe2 37.Nd5 a4 38.d7 1-0

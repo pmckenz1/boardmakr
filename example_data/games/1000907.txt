@@ -1,0 +1,18 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.09.22"]
+[EventDate "1911.08.21"]
+[Round "24"]
+[Result "0-1"]
+[White "Fyodor Ivanovich Dus Chotimirsky"]
+[Black "Milan Vidmar"]
+[ECO "D02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.d4 d5 2.Nf3 c5 3.c3 e6 4.Bf4 Nc6 5.e3 Nf6 6.Nbd2 Bd6 7.Bg3
+O-O 8.Ne5 Bxe5 9.dxe5 Nd7 10.Bd3 Ncxe5 11.Bxe5 Nxe5 12.Bxh7+
+Kxh7 13.Qh5+ Kg8 14.Qxe5 f6 15.Qh5 Qb6 16.O-O-O e5 17.g4 d4
+18.c4 Bd7 19.g5 fxg5 20.Qxg5 Rxf2 21.exd4 cxd4 22.Qxe5 Re8
+23.Qg3 Ree2 24.Rhe1 Rxd2 0-1

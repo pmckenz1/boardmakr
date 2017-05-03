@@ -1,0 +1,20 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Attila Groszpeter"]
+[Black "Lubomir Ftacnik"]
+[ECO "D91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3
+7. bxc3 dxc4 8. e3 Be6 9. Be2 O-O 10. O-O Nd7 11. Ng5 Bd5
+12. e4 h6 13. exd5 hxg5 14. Bxg5 Nb6 15. Qd2 Re8 16. Bh6 Bf6
+17. Kh1 Qxd5 18. Bf3 Qd7 19. Bxb7 Rad8 20. Be4 c5 21. f4 cxd4
+22. f5 dxc3 23. Qe2 Kh7 24. Rad1 Qc8 25. fxg6+ Kxh6 26. gxf7
+Rxd1 27. Qxd1 Rh8 28. Bf5 Qf8 29. Qg4 Qg7 30. Qh3+ Kg5
+31. Qe3+ Kh5 32. g4+ Kh4 33. Qg3+ Kg5 34. Qf4+ Kh4 35. g5+ 1-0

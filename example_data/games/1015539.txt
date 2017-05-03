@@ -1,0 +1,19 @@
+[Event "Rubinstein Memorial 8th"]
+[Site "Polanica-Zdroj POL"]
+[Date "1970.08.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Jerzy Kostro"]
+[Black "Andras Adorjan"]
+[ECO "C85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6
+7.d3 Nd7 8.Nbd2 O-O 9.Nc4 Bf6 10.Bd2 Re8 11.Bc3 c5 12.a4 b6
+13.h3 g6 14.Nh2 Bg7 15.Qd2 Nb8 16.f4 f6 17.fxe5 fxe5 18.Qf2
+Qe7 19.Qg3 Nc6 20.Ng4 Nd4 21.Rf2 Bxg4 22.Qxg4 b5 23.Ne3 c6
+24.b3 Rf8 25.Raf1 Rxf2 26.Rxf2 Rf8 27.Rxf8+ Qxf8 28.Bxd4 cxd4
+29.Qe6+ Qf7 30.Qc8+ Qf8 31.Qe6+ Qf7 1/2-1/2

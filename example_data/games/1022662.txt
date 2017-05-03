@@ -1,0 +1,23 @@
+[Event "01, Tbilisi ch URS"]
+[Site "01, Tbilisi ch URS"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Dzharulla Abakarov"]
+[Black "Vladimir Bagirov"]
+[ECO "C17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3
+b6 8.b4 O-O 9.Nf3 h6 10.Bd3 Ba6 11.bxc5 bxc5 12.dxc5 Qc7
+13.O-O Qxc5 14.Bb4 Qc7 15.Bd6 Qd7 16.Rb1 Bxd3 17.cxd3 Nbc6
+18.Qa4 Rfd8 19.Qa6 Qc8 20.Qb5 Nf5 21.Rbc1 Nxd6 22.exd6 Rxd6
+23.Ne5 Nxe5 24.Rxc8+ Rxc8 25.d4 Nc4 26.Qb7 Rdd8 27.h3 a5
+28.Ra1 Rb8 29.Qe7 Re8 30.Qd7 Red8 31.Qc7 Rdc8 32.Qg3 a4 33.Qh4
+Re8 34.Qf4 Rec8 35.Qh4 Kf8 36.g4 Nd6 37.Re1 Rb3 38.Re3 Nc4
+39.Re2 Nd6 40.Re3 Ne4 41.Qh5 Ng5 42.h4 Nh3+ 43.Rxh3 Rxh3 44.g5
+Rc1+ 45.Kg2 Rhh1 46.gxh6 Rcg1+ 47.Kf3 gxh6 48.Qxh6+ Kg8 49.Kf4
+Rg6 50.Qh5 Re1 0-1

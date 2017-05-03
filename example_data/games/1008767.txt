@@ -1,0 +1,15 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1/2-1/2"]
+[White "David Ledger"]
+[Black "Andrew Ledger"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Bd7 5. d4 Qb6 6. Be2 Bb5
+7. O-O Bxe2 8. Qxe2 cxd4 9. Nxd4 Nc6 10. Nxc6 bxc6 1/2-1/2

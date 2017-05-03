@@ -1,0 +1,21 @@
+[Event "It (w)"]
+[Site "Alma-Ata (Kazakhstan)"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Nona Gaprindashvili"]
+[Black "Alon Greenfeld"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Qg4
+O-O 8.Nf3 f6 9.exf6 Rxf6 10.Bg5 Rf8 11.Bd3 Nbc6 12.Qh4 h6
+13.dxc5 hxg5 14.Qh7+ Kf7 15.Nxg5+ Kf6 16.Qh4 Rh8 17.Ne4+ Kf7
+18.Ng5+ Kf6 19.Ne4+ Kf7 20.Ng5+ Kf6 21.Bh7 Nf5 22.Ne4+ Kf7
+23.Qh5+ Kf8 24.O-O-O Qh4 25.Qxh4 Nxh4 26.Ng5 Nxg2 27.c4 Nf4
+28.Rhe1 g6 29.cxd5 exd5 30.c4 dxc4 31.Re4 Nd3+ 32.Kd2 Bf5
+33.Rxc4 Kg7 34.Rh4 Rad8 35.Kc3 Nxc5 36.Rg1 Ne4+ 37.Nxe4 Rxh7
+38.Rxh7+ Kxh7 39.Ng5+ 0-1

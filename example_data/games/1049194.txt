@@ -1,0 +1,23 @@
+[Event "Chile"]
+[Site "Chile"]
+[Date "1965.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Patricio Flores"]
+[Black "Efim Geller"]
+[ECO "B97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.Bxf6 gxf6 11.Be2 Bg7 12.f5 Bh6
+13.Qd3 Qc5 14.Rd1 Nc6 15.Nxc6 bxc6 16.Qxd6 Qxd6 17.Rxd6 Ke7
+18.Rd3 Rb8 19.O-O Rb2 20.e5 exf5 21.exf6+ Kxf6 22.Rd6+ Be6
+23.Rxc6 Rc8 24.Rxc8 Bxc8 25.Bd3 Be3+ 26.Kh1 Bd4 27.Nd5+ Ke5
+28.Ne7 Be6 29.Nc6+ Kd5 30.Nxd4 Kxd4 31.Bxa6 Rxc2 32.Bb7 Rxa2
+33.h3 Ke5 34.Kh2 Bc4 35.Re1+ Kf6 36.Rc1 Bd3 37.Bd5 Rd2 38.Re1
+Be2 39.Kg3 Kg5 40.h4+ Kf6 41.Bf3 Bc4 42.Rc1 Rd4 43.Rd1 Rxd1
+44.Bxd1 Ke5 45.Bf3 h6 46.Bd1 Bd5 47.Be2 f4 48.Kf2 Kf5 49.Bd1
+Be4 50.Be2 Ke5 51.Bh5 1/2-1/2

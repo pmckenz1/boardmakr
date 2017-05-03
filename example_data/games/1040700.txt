@@ -1,0 +1,21 @@
+[Event "ICS"]
+[Site "ICS"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "BigJoe"]
+[Black "Roman Dzindzichashvili"]
+[ECO "E81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.Nge2
+Nc6 8.Qd2 b6 9.h4 e5 10.dxc5 bxc5 11.h5 Nd4 12.hxg6 fxg6
+13.O-O-O Be6 14.Nd5 Bxd5 15.cxd5 Rb8 16.Nc3 Qa5 17.Bh6 Bxh6
+18.Rxh6 Rb7 19.Bc4 Rfb8 20.b3 Qa3+ 21.Qb2 Qb4 22.Rd2 a5 23.Na4
+Rg7 24.Rh3 Qb7 25.g4 Qc8 26.Qc3 Rb4 27.Nb2 Rgb7 28.Rdh2 Qb8
+29.Nd3 R4b6 30.f4 Nxe4 31.Qe1 a4 32.Qxe4 axb3 33.g5 bxa2
+34.Qxg6+ Kf8 35.Qf6+ Kg8 36.Qg6+ Rg7 37.Qxg7+ Kxg7 38.Rxh7+
+Kg6 39.Nxe5+ Kf5 40.Bd3+ Kxf4 41.Rf7+ Kxe5 0-1

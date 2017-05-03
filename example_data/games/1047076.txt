@@ -1,0 +1,21 @@
+[Event "Ch Russia (w)"]
+[Site "Elista (Russia)"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Irina Umanskaya"]
+[ECO "A57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nd2 bxc4 5.e4 d6 6.Bxc4 g6 7.b3 Bg7
+8.Bb2 O-O 9.Ngf3 Nbd7 10.O-O Nb6 11.h3 e6 12.dxe6 fxe6 13.Re1
+Nh5 14.Bxg7 Nxg7 15.Bf1 e5 16.Nc4 Nxc4 17.Bxc4+ Be6 18.Bxe6+
+Nxe6 19.Qd5 Qe7 20.Red1 Rad8 21.Ng5 Rfe8 22.Nxe6 Qxe6 23.Qc6
+Qe7 24.Rac1 Kh8 25.Rc4 Rf8 26.Qd5 Rfe8 27.Qd2 Kg7 28.Rc3 Rf8
+29.Rd3 Rf6 30.Rd5 Qc7 31.Rxe5 Rdf8 32.Rd5 Rxf2 33.Qc3+ Kg8
+34.Rxd6 Qf7 35.Rd7 Rf1+ 36.Rxf1 Qxf1+ 37.Kh2 Qf4+ 38.Qg3 Qxe4
+39.Rxa7 Rf4 40.Ra4 1-0

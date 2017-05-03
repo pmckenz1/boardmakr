@@ -1,0 +1,26 @@
+[Event "Brighton ch-GB"]
+[Site "Brighton ENG"]
+[Date "1984.08.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Michael John Basman"]
+[Black "Daniel John King"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1. g4 d5 2. h3 e5 3. Bg2 c6 4. d4 e4 5. c4 Na6 6. Nc3 Nc7
+7. f3 f5 8. cxd5 cxd5 9. Qb3 Bd6 10. Kf1 Ne7 11. g5 Rb8 12. h4
+b5 13. Nh3 Bd7 14. Bf4 Bc6 15. e3 Ne6 16. Ne2 Ng6 17. Rc1 Rb6
+18. Rxc6 Rxc6 19. Qxd5 Qd7 20. fxe4 Nexf4 21. Nhxf4 Bxf4
+22. Qxd7+ Kxd7 23. exf4 Rc2 24. exf5 Ne7 25. f6 gxf6 26. gxf6
+Nc6 27. Bh3+ Kd6 28. Rg1 Nb4 29. Rg7 Rc7 30. Nc3 Rxg7 31. Ne4+
+Kc6 32. fxg7 Rg8 33. f5 Rxg7 34. f6 Rb7 35. Be6 Nd5 36. f7 Rb8
+37. Kf2 Nf4 38. Ng5 h6 39. d5+ Kd6 40. Nh7 Ng6 41. Kg3 Ke5
+42. h5 Nf8 43. Nxf8 Rxf8 44. Kf3 Rd8 45. Ke3 Rf8 46. Kd3 a5
+47. Kc3 Rd8 48. a4 bxa4 49. Kc4 Kd6 50. Kb5 Rb8+ 51. Kxa4 Ke7
+52. b3 Kf8 53. d6 Rb6 54. d7 Rb8 55. Kxa5 Ke7 56. Bc4 Kxd7
+57. b4 Ra8+ 58. Kb6 Ke7 59. b5 Rc8 60. Bd5 Rc1 61. Bb3 Rb1
+1/2-1/2

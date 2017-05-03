@@ -1,0 +1,21 @@
+[Event "14, Calgary CAN ch zt"]
+[Site "Calgary CAN"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "14"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "Jean Hebert"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c6 2.d3 g6 3.f4 Bg7 4.Nf3 d5 5.Nbd2 Nh6 6.g3 f6 7.Bg2 O-O
+8.Qe2 Na6 9.h3 Nc7 10.O-O a5 11.a4 Nf7 12.Nb3 b6 13.exd5 cxd5
+14.Be3 Rb8 15.Qf2 Qd6 16.c4 Ba6 17.c5 bxc5 18.Bxc5 Qd7 19.Nxa5
+Rfc8 20.Rfd1 Ne6 21.Ba3 f5 22.d4 Qc7 23.b4 Nd6 24.Qe1 Ne4
+25.b5 Bb7 26.Rac1 Qb6 27.Nxb7 Rxc1 28.Bxc1 Nxd4 29.Be3 Nxf3+
+30.Bxf3 Qxb7 31.Qb4 Rc8 32.Bxe4 fxe4 33.b6 Rc3 34.Rc1 Rxc1+
+35.Bxc1 d4 36.Qc4+ Kf8 37.Qc7 Qa6 38.b7 Qd3 39.b8=Q+ Kf7
+40.Qb2 Qxg3+ 41.Qg2 1-0

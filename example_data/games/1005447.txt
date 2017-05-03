@@ -1,0 +1,23 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Alexander Kovalenko"]
+[Black "Dmitry Grin"]
+[ECO "A36"]
+[WhiteElo "?"]
+[BlackElo "2282"]
+[PlyCount "96"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. e3 e5 6. Nge2 Nge7
+7. O-O O-O 8. b3 d6 9. Bb2 a6 10. d3 Rb8 11. Qd2 b5 12. Nd5
+Nxd5 13. cxd5 Ne7 14. e4 Bd7 15. f4 f6 16. fxe5 fxe5 17. Rxf8+
+Bxf8 18. Kh1 Bg7 19. Rf1 h6 20. Ng1 g5 21. Bc3 b4 22. Bb2 a5
+23. Qf2 Qe8 24. Nf3 Qg6 25. Nd2 Bb5 26. Qe3 g4 27. Nc4 Bxc4
+28. dxc4 h5 29. Bc1 Rf8 30. Rxf8+ Kxf8 31. Bf1 Ng8 32. Qf2+
+Qf6 33. Kg2 Kf7 34. Qxf6+ Nxf6 35. Bd3 Kg6 36. Kf2 Nd7 37. Be3
+Bh6 38. Bxh6 Kxh6 39. Be2 Nb6 40. Ke3 Kg6 41. Bd1 Kg5 42. Be2
+a4 43. Kd3 a3 44. Bd1 Kg6 45. Ke3 Nd7 46. Bc2 Nf6 47. Bd3 Nh7
+48. Bc2 Ng5 1/2-1/2

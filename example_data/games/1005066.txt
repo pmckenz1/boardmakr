@@ -1,0 +1,21 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "0-1"]
+[White "Ilija Balinov"]
+[Black "Anh Dung Nguyen"]
+[ECO "B22"]
+[WhiteElo "2430"]
+[BlackElo "2485"]
+[PlyCount "75"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 g6
+7. d4 cxd4 8. cxd4 Bg7 9. d5 Nxe5 10. Nxe5 Bxe5 11. Bh6 d6
+12. Nc3 e6 13. Qd2 exd5 14. O-O d4 15. Nb5 Be6 16. f4 Bf6
+17. Rae1 d5 18. f5 gxf5 19. Rxf5 Rc8 20. Qf4 Be7 21. Rxf7 Rc6
+22. Rxe7+ Qxe7 23. Nxd4 Kd7 24. Qe5 Rhc8 25. Bd1 Nc4 26. Nxc6
+Rxc6 27. Qc3 Qc5+ 28. Kh1 Qf2 29. Qg7+ Kc8 30. Qh8+ Kc7
+31. Qxh7+ Kb6 32. Rg1 Bf5 33. Qh8 Be4 34. Bg7 Ka6 35. Bd4 Qd2
+36. Bf3 Bxf3 37. gxf3 Rh6 38. Qb8 0-1

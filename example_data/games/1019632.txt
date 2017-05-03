@@ -1,0 +1,21 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1973.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Wlodzimierz Schmidt"]
+[Black "Ulf Andersson"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Nc6 6.e4 d6 7.f3
+Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Qa5 11.Rc1 Be6 12.Nd5 Qxa2
+13.Nxe7+ Kh8 14.Be2 Ng8 15.Nd5 Qxb2 16.Qxb2 Bxb2 17.Rb1 Bg7
+18.Nc7 Rac8 19.Rxb7 Rb8 20.Rxb8 Rxb8 21.Nxe6 fxe6 22.Bxa7 Rb1+
+23.Bd1 Ne7 24.O-O Nc6 25.Bf2 Bd4 26.Ba4 Bxf2+ 27.Kxf2 Rb2+
+28.Kg3 Nd4 29.f4 Kg7 30.Rd1 e5 31.fxe5 dxe5 32.c5 Ra2 33.Bd7
+Rc2 34.c6 h5 35.h4 Nxc6 36.Rd5 Nd4 37.Rxe5 Ne2+ 38.Kf3 Ng1+
+39.Kg3 Ne2+ 40.Kh2 Nf4 41.Rg5 Re2 42.e5 Re3 43.Be8 Kh7 1/2-1/2

@@ -1,0 +1,28 @@
+[Event "x,III-IV"]
+[Site "Oakham ENG"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Alisa Galliamova"]
+[Black "Hsu Li Yang"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "162"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 c5 5.Nf3 O-O 6.Bg2 cxd4 7.Nxd4
+d5 8.Qb3 Bxc3+ 9.Qxc3 e5 10.Nb3 d4 11.Qa5 Qe8 12.O-O Nc6
+13.Qc5 Bd7 14.Bg5 Qe6 15.f4 b6 16.f5 Qe8 17.Qd6 Qb8 18.Qa3 Qd8
+19.Nd2 h6 20.Bh4 Rc8 21.Rac1 Qe7 22.c5 bxc5 23.Ne4 d3 24.Qxd3
+Nd4 25.Qe3 Kh7 26.Rf2 Rg8 27.Qa3 Bc6 28.Bxf6 gxf6 29.Qxc5 Qxc5
+30.Nxf6+ Kg7 31.Nh5+ Kh8 32.Rxc5 Bb5 33.Rxe5 Rc1+ 34.Bf1 Rgc8
+35.Nf4 R8c2 36.Nd3 Rd1 37.Kg2 Bc6+ 38.e4 Rdd2 39.Rxd2 Rxd2+
+40.Nf2 Rxb2 41.Bc4 Nxf5 42.Bxf7 Ne3+ 43.Kf3 Rxf2+ 44.Kxe3 Rxf7
+45.Re6 Bb7 46.Rxh6+ Kg7 47.Re6 Bc8 48.Rc6 Bb7 49.Rc4 Kf6 50.h4
+Kg6 51.Ra4 Bc8 52.Ra5 Kf6 53.a3 Rg7 54.Kf4 Rg4+ 55.Kf3 Rg7
+56.Kf4 a6 57.Rc5 Bd7 58.Rd5 Rf7 59.g4 Ke6 60.Rf5 Rh7 61.h5 Ke7
+62.Rg5 Rf7+ 63.Ke5 Rh7 64.Kf4 Be6 65.Rg6 a5 66.Kg5 Bf7 67.Ra6
+Rg7+ 68.Kf4 Be8 69.Rxa5 Bd7 70.Rg5 Rf7+ 71.Kg3 Bc6 72.Rf5 Rg7
+73.h6 Rg8 74.Kf4 Bd7 75.Rg5 Rf8+ 76.Ke5 Rf7 77.Rg6 Rh7 78.g5
+Be8 79.Re6+ Kf8 80.Kf4 Bh5 81.e5 Rf7+ 1-0

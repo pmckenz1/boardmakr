@@ -1,0 +1,21 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "1-0"]
+[White "Mikhail Simantsev"]
+[Black "Georgy Dubivka"]
+[ECO "A56"]
+[WhiteElo "2447"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O
+7. Nf3 Ne8 8. O-O Bg4 9. h3 Bxf3 10. Qxf3 Bg5 11. g3 Bxc1
+12. Raxc1 Nd7 13. Qe3 Qe7 14. Rce1 Nc7 15. f4 b5 16. cxb5 a6
+17. a4 axb5 18. axb5 Nb6 19. Ra1 exf4 20. Qxf4 Nd7 21. Ra3 Ne5
+22. Be2 c4 23. Rfa1 Rxa3 24. bxa3 Qd7 25. Qf5 Qe8 26. a4 g6
+27. Qf6 Qd7 28. Kg2 Ne8 29. Qf4 Qa7 30. Qf2 Qa5 31. Qd4 Nf6
+32. b6 Nfd7 33. Rb1 Nc5 34. Rb5 Qa6 35. Bxc4 Rb8 36. a5 Nb7
+37. Be2 Ra8 38. Rb4 1-0

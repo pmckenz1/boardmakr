@@ -1,0 +1,16 @@
+[Event "Taxco Interzonal"]
+[Site "Taxco de Alarcón MEX"]
+[Date "1985.06.10"]
+[EventDate "1985.06.10"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Eduard Prandstetter"]
+[Black "Yuri Balashov"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7
+7.Nc2 Bxe3 8.Nxe3 Qe5 9.Qf3 O-O 10.Bc4 d6 11.Nd2 Be6 12.O-O
+Bxc4 13.Ndxc4 Qe6 14.Qg4 Qxg4 1/2-1/2

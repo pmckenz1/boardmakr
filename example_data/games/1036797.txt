@@ -1,0 +1,20 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.04.29"]
+[EventDate "1904.04.25"]
+[Round "4.4"]
+[Result "0-1"]
+[White "William Ewart Napier"]
+[Black "Thomas Francis Lawrence"]
+[ECO "C80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3
+d5 8.a4 Rb8 9.axb5 axb5 10.dxe5 Be6 11.c3 Bc5 12.Nbd2 O-O
+13.Bc2 f5 14.Nb3 Bb6 15.Nfd4 Nxd4 16.cxd4 f4 17.f3 Ng3 18.Re1
+Qh4 19.Nc5 Bxc5 20.dxc5 c6 21.Ra6 Rbc8 22.b4 Nf5 23.Bxf5 Rxf5
+24.Re2 Rh5 25.h3 Bxh3 26.Qd2 Be6 27.Qxf4 Qh1+ 28.Kf2 Rh2
+29.Kg3 Rf8 30.Qe3 h5 31.f4 h4+ 32.Kf3 Rh3+ 33.Kf2 Rxe3 34.Bxe3
+d4 0-1

@@ -1,0 +1,19 @@
+[Event "Marganets it"]
+[Site "UKR"]
+[Date "1999.??.??"]
+[EventDate "1999.06.??"]
+[Round "7"]
+[Result "1-0"]
+[White "Yuri Privalov"]
+[Black "Georgy Arzumanian"]
+[ECO "B22"]
+[WhiteElo "2325"]
+[BlackElo "2363"]
+[PlyCount "57"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nbd7 5. Be3 cxd4 6. cxd4 g6
+7. Nc3 Bg7 8. Bd3 O-O 9. Nge2 a6 10. O-O e5 11. d5 Kh8 12. Ng3
+Ng8 13. Qd2 Ne7 14. Kh1 f5 15. exf5 Nxf5 16. Bxf5 gxf5 17. f4
+Qe8 18. fxe5 Nxe5 19. Bh6 Bxh6 20. Qxh6 Qe7 21. Nce4 Nf7
+22. Qf6+ Qxf6 23. Nxf6 Nh6 24. Ngh5 Ng8 25. Nxg8 Kxg8 26. Rae1
+Bd7 27. Re7 Bb5 28. Rc1 Rac8 29. Nf6+ 1-0

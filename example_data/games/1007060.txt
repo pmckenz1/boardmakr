@@ -1,0 +1,26 @@
+[Event "Karlsbad"]
+[Site "Karlsbad CZE"]
+[Date "1923.05.09"]
+[EventDate "1923.04.28"]
+[Round "9"]
+[Result "1-0"]
+[White "Ernst Gruenfeld"]
+[Black "Karel Treybal"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "131"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 g6 5. Nf3 Bg7 6. Bd3 f5
+7. O-O Nd7 8. b3 Nh6 9. cxd5 exd5 10. Ba3 Qa5 11. Qc1 Nf7
+12. b4 Qd8 13. b5 Qa5 14. Rb1 Bf8 15. Rb3 Bxa3 16. Rxa3 Qb4
+17. bxc6 bxc6 18. Rb3 Qd6 19. Na4 O-O 20. Rc3 Nd8 21. Nc5 Nxc5
+22. Rxc5 Rf7 23. Qc2 Re7 24. Ne5 Bd7 25. Rc1 Be8 26. g3 Kg7
+27. Ra5 Rb8 28. Qa4 Rbb7 29. Kg2 Qb8 30. Qa3 Kf6 31. Rc3 Ke6
+32. Ra6 Rb6 33. h3 Rxa6 34. Bxa6 Bd7 35. Rb3 Qc7 36. Qc5 Be8
+37. Nd3 Kf6 38. Qa3 Bd7 39. Nf4 Be8 40. Nd3 Bd7 41. Kh2 Be8
+42. Nc5 Bd7 43. Nd3 Be8 44. Kg2 Bd7 45. Qb4 Nf7 46. Nc5 Nd6
+47. Qb8 Be8 48. Qxc7 Rxc7 49. Rb8 Ke7 50. f3 Kf7 51. a4 Ke7
+52. Kf2 g5 53. Ra8 Bg6 54. Bd3 Be8 55. g4 fxg4 56. hxg4 h6
+57. e4 Nc4 58. Bxc4 dxc4 59. Ke3 c3 60. a5 c2 61. Kd2 h5
+62. a6 h4 63. Rb8 Bf7 64. Kxc2 Bc4 65. Kc3 Bf1 66. Rb7 1-0

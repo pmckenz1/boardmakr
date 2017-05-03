@@ -1,0 +1,20 @@
+[Event "It (open)"]
+[Site "Chicago, CA USA"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Jay R Bonin"]
+[Black "Marc Lonoff"]
+[ECO "D85"]
+[WhiteElo "2400"]
+[BlackElo "2335"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Nf3 c5 8.Bb5+ Bd7 9.Bxd7+ Qxd7 10.O-O O-O 11.Rb1 cxd4
+12.cxd4 b6 13.Bb2 Qb7 14.d5 Nd7 15.Bxg7 Kxg7 16.Qd4+ Kg8 17.e5
+Rac8 18.Rbd1 Rc5 19.Rfe1 f6 20.e6 Nb8 21.h4 Rd8 22.d6 Nc6
+23.Qe4 Kg7 24.d7 Rb8 25.Nd4 Nd8 26.Qf4 Qc7 27.Qxc7 Rxc7 28.Nb5
+Rc2 29.Rc1 Rxc1 30.Rxc1 Nxe6 31.Rc8 Rb7 32.Nc7 Kf7 33.Rf8+
+Kxf8 34.Nxe6+ Kf7 35.Nd8+ 1-0

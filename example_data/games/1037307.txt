@@ -1,0 +1,20 @@
+[Event "It (cat.11)"]
+[Site "Rishon LeZion ISR"]
+[Date "1994.11.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Alexander Chernin"]
+[Black "Nigel Rodney Davies"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.g3 Nbd7
+7.Bg2 c6 8.Na3 Ne4 9.Qc2 Qa5+ 10.Nd2 Qxd2+ 11.Qxd2 Nxd2
+12.Kxd2 Nf6 13.Rhd1 Ke7 14.Ke1 Bd7 15.Rac1 Rhc8 16.Nb1 Rab8
+17.Nd2 b6 18.Nf1 dxc4 19.Rxc4 c5 20.dxc5 Rxc5 21.Rxc5 bxc5
+22.b3 a5 23.Rc1 a4 24.Nd2 Rc8 25.Nc4 axb3 26.axb3 Rb8 27.Nd2
+Rc8 28.Bb7 Rc7 29.Bf3 Bb5 30.b4 Kd6 31.bxc5 Rxc5 32.Rxc5 Kxc5
+33.Ne4+ 1/2-1/2

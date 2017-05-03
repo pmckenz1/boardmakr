@@ -1,0 +1,16 @@
+[Event "Vilnius (Lithuania)"]
+[Site "Vilnius LTU"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "David Bronstein"]
+[Black "Vladimir Savon"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d6 6. Bd2 Nbd7
+7. a3 Bxc3 8. Bxc3 Qe7 9. e4 e5 10. d5 Nc5 11. Nd2 Bd7 12. Be2
+Ne8 13. b4 Na4 14. O-O f5 15. exf5 Nxc3 16. Qxc3 Bxf5 1/2-1/2

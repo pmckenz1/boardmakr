@@ -1,0 +1,24 @@
+[Event "Slovak League /95, Slovakia (5)"]
+[Site "Slovak League 1994/95, Slovakia (5)"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Vladimir Sergeev"]
+[Black "Lubomir Ftacnik"]
+[ECO "A48"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "102"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. c3 O-O 5. Nbd2 d5 6. e3 Nbd7
+7. Be2 Re8 8. O-O c6 9. Nb3 a5 10. Rc1 Qb6 11. Qc2 Ne4 12. Bh4
+e5 13. a4 h6 14. dxe5 Nxe5 15. Nxe5 Bxe5 16. Nd4 Bd7 17. Rfd1
+f5 18. Bg3 Bf6 19. Rb1 h5 20. Bf4 g5 21. Bxh5 gxf4 22. Bxe8
+Rxe8 23. exf4 Nd6 24. Rd3 Re4 25. Ne2 Be8 26. b3 Bf7 27. c4
+Qc5 28. Qd2 dxc4 29. Rxd6 Rxe2 30. Qxe2 Qxd6 31. bxc4 Qxf4
+32. Rxb7 Qc1+ 33. Qf1 Qc2 34. h3 Qxa4 35. Qe1 Qa1 36. Rb1 Qc3
+37. Qd1 Qxc4 38. Qd2 Qe4 39. Re1 Qb4 40. Qc1 Bd5 41. Re3 f4
+42. Rd3 Qe4 43. Rf3 Qg6 44. Qxf4 Bxf3 45. Qxf3 Bd4 46. Qf4 Qf6
+47. Qb8+ Kh7 48. Qc7+ Kg6 49. Kh1 Bxf2 50. Qxa5 Qd4 51. g4
+Qd5+ 0-1

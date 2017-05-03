@@ -1,0 +1,20 @@
+[Event "Breslau"]
+[Site "Breslau GER"]
+[Date "1889.07.17"]
+[EventDate "1889.07.15"]
+[Round "4"]
+[Result "0-1"]
+[White "Johann Hermann Bauer"]
+[Black "Max Harmonist"]
+[ECO "D53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Bxf6 Bxf6 7.Nf3
+b6 8.Rc1 Bb7 9.cxd5 exd5 10.Bd3 c5 11.O-O Nd7 12.Bb1 Re8
+13.dxc5 Nxc5 14.Nd4 Ne4 15.Qd3 g6 16.Rfd1 Rc8 17.a3 Bg7 18.Ba2
+Qf6 19.Rc2 Rcd8 20.Qb5 a6 21.Qf1 Rd7 22.Rdc1 Qd6 23.Nce2 Bh6
+24.Nf3 Nxf2 25.Kxf2 Bxe3+ 26.Ke1 d4 27.Rd2 d3 28.Ng3 Bxd2+
+29.Kxd2 Qf4+ 30.Kd1 d2 31.Rc3 Bxf3+ 32.gxf3 Re1+ 33.Qxe1
+dxe1=Q+ 34.Kxe1 Qd2+ 35.Kf1 Qxh2 36.Re3 Qxg3 37.Bb3 Rd2 0-1

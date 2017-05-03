@@ -1,0 +1,29 @@
+[Event "07, Luzern"]
+[Site "07, Luzern"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Artur Frolov"]
+[Black "Vladimir Bagirov"]
+[ECO "B19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "164"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3
+Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Bb4+ 12.c3 Be7
+13.Ne4 Ngf6 14.Nxf6+ Nxf6 15.Be5 Qd5 16.c4 Qa5+ 17.Ke2 O-O
+18.a3 Ng4 19.b4 Qa4 20.Rhb1 Rfd8 21.Qb3 Qxb3 22.Rxb3 Rd7
+23.Rd1 b5 24.cxb5 cxb5 25.Rc1 f6 26.Bf4 a5 27.bxa5 Rxa5
+28.Rc8+ Kf7 29.Nh4 b4 30.Ng6 e5 31.dxe5 Rxa3 32.Rb2 fxe5
+33.Bxe5 Rda7 34.Bd4 Rd7 35.Rc4 Ra5 36.f3 Bf6 37.fxg4 Rxd4
+38.Rxd4 Bxd4 39.Rxb4 Ra2+ 40.Kf3 Bf6 41.Rb7+ Ke6 42.Nf4+ Kd6
+43.Rb6+ Kd7 44.Nd5 Ba1 45.Rb3 Ke6 46.Nf4+ Kf7 47.Rb5 Bf6
+48.Ke4 Ra7 49.Kf5 Re7 50.Rc5 Bd4 51.Rd5 Bf6 52.Rb5 Ra7 53.Nd3
+Rd7 54.Nf2 Ra7 55.Ne4 Be7 56.Nc3 Rc7 57.Nd5 Rd7 58.Nf4 Bf6
+59.Ne6 Be7 60.Nf4 Bf6 61.Rd5 Ra7 62.Nd3 Rc7 63.Nc5 Rc6 64.Ne4
+Be7 65.Rd7 Ra6 66.Nc3 Rf6+ 67.Ke5 Re6+ 68.Kf4 Ke8 69.Rb7 Bd6+
+70.Kf3 Re7 71.Ne4 Be5 72.Rb6 Rf7+ 73.Ke2 Re7 74.Ra6 Kf8 75.Ke3
+Bb2 76.Rc6 Kg8 77.Kd3 Rd7+ 78.Kc2 Be5 79.Re6 Rd5 80.g5 hxg5
+81.Nxg5 Kf8 82.Nf3 Bf6 1/2-1/2

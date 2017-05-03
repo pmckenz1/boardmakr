@@ -1,0 +1,23 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.19"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "1-0"]
+[White "Sven Johan Bjurulf"]
+[Black "Axel Martinius Erichsen"]
+[ECO "C12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3
+Ne4 8.Qg4 Kf8 9.Bd3 Nxd2 10.Kxd2 c5 11.dxc5 Nc6 12.f4 Qa5
+13.Ne2 Qxc5 14.Rhb1 b6 15.a4 Bb7 16.Qh4 a6 17.g4 d4 18.c4 Na5
+19.Qg3 Rd8 20.f5 Nxc4+ 21.Bxc4 Qxc4 22.f6 Be4 23.Qb3 Qxb3
+24.Rxb3 gxf6 25.exf6 Rg8 26.h3 Rg5 27.Ng3 Bg6 28.Rxb6 Rc5
+29.Ra2 Rc3 30.Rb3 Rdc8 31.Ne2 Rxb3 32.cxb3 e5 33.b4 Ke8 34.h4
+h5 35.g5 Rc4 36.b5 axb5 37.axb5 Rb4 38.Ra5 e4 39.Nf4 e3 40.Ke2
+Rb2+ 41.Kf3 Rf2+ 42.Kg3 d3 43.b6 Kd7 44.Nxd3 Bxd3 45.Rd5+ Kc6
+46.Rxd3 Rb2 47.Rxe3 Rxb6 48.Re7 Rb3+ 49.Kf4 Rh3 50.Rxf7 Rxh4+
+51.Kf5 Rh1 52.Kg6 Kd6 53.Kg7 1-0

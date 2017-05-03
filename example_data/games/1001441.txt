@@ -1,0 +1,25 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1851.??.??"]
+[EventDate "1851.??.??"]
+[Round "4.1"]
+[Result "1/2-1/2"]
+[White "Hugh Alexander Kennedy"]
+[Black "Jozsef Szen"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Bb4 6. Nxc6
+bxc6 7. Bd3 d5 8. O-O Ne7 9. Qg4 Bxc3 10. bxc3 O-O 11. e5 Ng6
+12. f4 c5 13. Be3 c4 14. Bxg6 fxg6 15. h4 Qe7 16. h5 gxh5
+17. Qxh5 Bd7 18. g4 Qf7 19. Qxf7+ Kxf7 20. f5 g6 21. Bc5 exf5
+22. Bxf8 Rxf8 23. Rab1 Ke6 24. Rb7 a5 25. gxf5+ gxf5 26. Re1
+Rg8+ 27. Kf2 Rg6 28. Rh1 Ba4 29. Rd1 Bxc2 30. Rb6+ Ke7
+31. Rxg6 hxg6 32. Ke3 g5 33. Kd4 Ke6 34. Rh1 Kf7 35. Rh6 g4
+36. Kxd5 g3 37. e6+ Kg7 38. e7 Ba4 39. Rh3 f4 40. Rh4 Kf7
+41. Rxf4+ Kxe7 42. Rxc4 Bd1 43. Re4+ Kf6 44. Re3 g2 45. Rg3
+Kf5 46. Kd4 Bf3 47. Ke3 Bc6 48. c4 a4 49. a3 Bb7 50. c5 Bc6
+51. Kf2 Ke5 52. Rd3 Bd5 53. Rd1 Ke6 54. Rd4 Bb7 55. Rd6+ Ke7
+56. Rb6 Bd5 57. Rd6 Be4 1/2-1/2

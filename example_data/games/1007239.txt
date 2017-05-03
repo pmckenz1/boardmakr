@@ -1,0 +1,26 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.04.29"]
+[EventDate "1925.04.16"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Jan Willem te Kolste"]
+[Black "George Alan Thomas"]
+[ECO "C49"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5
+Bxc3 8.bxc3 h6 9.Bh4 Kh8 10.Re1 Qe7 11.d4 Bg4 12.Bxc6 bxc6
+13.Qd3 g5 14.dxe5 dxe5 15.Bg3 Rfd8 16.Qe3 Bxf3 17.Qxf3 Rd2
+18.Qf5 Re8 19.h4 g4 20.h5 Qe6 21.Rab1 Rxc2 22.Rb7 Qxf5 23.exf5
+Nxh5 24.Rxe5 Rc1+ 25.Kh2 Rh1+ 26.Kxh1 Nxg3+ 27.fxg3 Rxe5
+28.Kg1 Ra5 29.Rxc7 Kg7 30.Rxc6 Rxa2 31.c4 h5 32.Rd6 Ra1+
+33.Kh2 Ra5 34.Rc6 Ra3 35.Rd6 Ra4 36.c5 Ra3 37.c6 Rc3 38.Rd7
+Rxc6 39.Rxa7 Rc5 40.Ra4 Rxf5 41.Rb4 Kf6 42.Re4 Re5 43.Ra4 Kg5
+44.Ra8 Re6 45.Rf8 f5 46.Rg8+ Rg6 47.Rf8 Rh6 48.Rg8+ Kf6 49.Ra8
+Rh7 50.Rf8+ Kg6 51.Rg8+ Kf7 52.Ra8 Rh6 53.Ra7+ Kg6 54.Ra8 h4
+55.Rg8+ Kh5 56.gxh4 Kxh4 57.g3 Kh5 58.Ra8 Kg5 59.Kg2 Rb6
+60.Ra2 Kf6 61.Kf2 Rc6 62.Re2 Rc4 63.Ra2 Ke5 64.Ke3 Rc3+ 65.Kf2
+Kd4 66.Re2 Rc5 67.Ra2 1/2-1/2

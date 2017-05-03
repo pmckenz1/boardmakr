@@ -1,0 +1,23 @@
+[Event "Budapest First Saturday GM04, HUN"]
+[Site "Budapest First Saturday GM04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Csaba Horvath"]
+[Black "Hoang Thanh Trang"]
+[ECO "A81"]
+[WhiteElo "2520"]
+[BlackElo "2455"]
+[PlyCount "99"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. c3 Nf6 5. Qb3 Nc6 6. Nh3 e6
+7. Nd2 d5 8. Nf3 O-O 9. Nf4 Qe7 10. h4 Ne4 11. Nd3 b6 12. Bf4
+Bb7 13. Qc2 Nd8 14. Be5 Bh6 15. c4 dxc4 16. Qxc4 Rc8 17. O-O
+Nf7 18. Bf4 Bg7 19. Rac1 Rfd8 20. Qa4 a6 21. Be3 Nf6 22. Nfe5
+Bxg2 23. Kxg2 Nd5 24. Nc6 Qd7 25. Qxa6 Re8 26. Bd2 Ra8 27. Qb5
+Nd6 28. Qb3 Qc8 29. Nf4 Kh8 30. a3 Ne4 31. Rfd1 Ndf6 32. Be1
+Bh6 33. f3 Bxf4 34. gxf4 Nd6 35. Bd2 Nd5 36. Qc2 b5 37. e4
+fxe4 38. fxe4 Nb6 39. Ne5 Nbc4 40. b3 Nxa3 41. Qxc7 Qxc7
+42. Rxc7 Nxe4 43. Bb4 Nf6 44. Nf7+ Kg8 45. Nh6+ Kh8 46. d5
+exd5 47. Bc3 Rf8 48. Rxd5 Nb1 49. Bxf6+ Rxf6 50. Rdd7 1-0

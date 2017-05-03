@@ -1,0 +1,17 @@
+[Event "URS-chT"]
+[Site "URS-chT"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Evgeny Pigusov"]
+[ECO "B24"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Rb8 6.Be3 d6 7.Qd2 b5
+8.Nge2 Nd4 9.O-O b4 10.Nd1 e6 11.Nc1 Ne7 12.a3 a5 13.axb4 axb4
+14.c3 bxc3 15.bxc3 Ndc6 16.Bh6 O-O 17.Bxg7 Kxg7 18.Ne3 d5
+19.Qc2 d4 20.cxd4 cxd4 1/2-1/2

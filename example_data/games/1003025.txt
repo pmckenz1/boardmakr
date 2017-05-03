@@ -1,0 +1,21 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.21"]
+[EventDate "1905.08.14"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Walter John"]
+[Black "Johann Nepomuk Berger"]
+[ECO "C68"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4
+Qxd4 7. Nxd4 c5 8. Ne2 Bd7 9. Nbc3 O-O-O 10. Be3 Bc6 11. f3 b6
+12. Kf2 Bd6 13. Bf4 Bxf4 14. Nxf4 Rd2+ 15. Ke3 Rxc2 16. Rab1
+Bb5 17. Nxb5 axb5 18. a4 Ne7 19. axb5 Rd8 20. Rhc1 Rxc1
+21. Rxc1 Rd4 22. Nd3 f5 23. b4 f4+ 24. Ke2 cxb4 25. Nxf4 b3
+26. Nd3 Ra4 27. Rb1 Ra2+ 28. Rb2 c5 29. bxc6 Nxc6 30. Ke3 Na5
+31. Kd4 Ra4+ 32. Kd5 Ra2 33. e5 Kd7 34. f4 b5 35. Kd4 Rxb2
+36. Nxb2 Nc4 37. Kc3 Ne3 1/2-1/2

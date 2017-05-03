@@ -1,0 +1,23 @@
+[Event "Biel"]
+[Site "Biel SUI"]
+[Date "1984.07.23"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Pia Cramling"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6
+7. Nd2 Bg7 8. Nc4 O-O 9. Bg5 Qe7 10. Qd2 Nbd7 11. Qf4 h6
+12. Bxh6 Bxh6 13. Qxh6 Ne5 14. e3 Bf5 15. Rd1 Rab8 16. Qh4 Kg7
+17. Nxe5 Qxe5 18. Qg3 Qe7 19. Be2 b5 20. Nxb5 Ne4 21. Qf4 a6
+22. g4 Bxg4 23. Bxg4 Rxb5 24. Bf3 Nf6 25. Rd2 Rh8 26. Qa4 Qe5
+27. Qxa6 Rhb8 28. b3 c4 29. bxc4 Rb1+ 30. Ke2 Rxh1 31. Bxh1
+Qxh2 32. Bf3 g5 33. Qa7 Re8 34. Qa4 Qh3 35. Rd4 Rb8 36. Qd1 g4
+37. Bh1 Rh8 38. Qa1 Kg6 39. Rf4 Qh4 40. Bg2 Qg5 41. Be4+ Kg7
+42. Rf5 Qh4 43. c5 g3 44. c6 Re8 45. Rf4 Qh6 46. c7 gxf2
+47. Rxf2 Rc8 48. Qc3 Qh5+ 49. Rf3 Qh2+ 50. Kd3 1-0

@@ -1,0 +1,19 @@
+[Event "Bundesliga 1998/99 (w), Germany"]
+[Site "Bundesliga 1998/99 (w), Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Maia Lomineishvili"]
+[Black "Anna Dergatschova-Daus"]
+[ECO "D07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2
+Bxc3 7. bxc3 Nf6 8. f3 Qd6 9. Bd3 O-O 10. Ne2 Re8 11. Qb1 Rb8
+12. a4 Bd7 13. O-O a5 14. Ng3 Ne7 15. Kh1 c5 16. dxe5 Qxe5
+17. c4 h5 18. f4 Qc7 19. Bc3 h4 20. Bxf6 hxg3 21. Be5 Qc6
+22. Rf3 gxh2 23. Rg3 f6 24. Bxb8 Rxb8 25. Be4 Qa6 26. Bd5+ Be6
+27. Qe4 Bxd5 28. Qxe7 Bf7 29. Rd1 Qxc4 30. Qxf6 1-0

@@ -1,0 +1,21 @@
+[Event "FRG-ch International"]
+[Site "Hannover FRG"]
+[Date "1983.08.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Eugenio Torre"]
+[Black "Wolfram Hartmann"]
+[ECO "E17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Be7 5.Bg2 Bb7 6.O-O O-O 7.Nc3
+Ne4 8.Bd2 d6 9.d5 Nxd2 10.Qxd2 e5 11.Ne1 Bg5 12.f4 exf4
+13.gxf4 Bh6 14.e4 Nd7 15.Nd3 Ne5 16.Qe2 Nxd3 17.Qxd3 Qf6
+18.Qd2 Rae8 19.Rae1 g6 20.Rf3 a6 21.Qf2 Bg7 22.e5 Qe7 23.Rfe3
+dxe5 24.fxe5 Qc5 25.b3 Qd4 26.Ne2 Qb2 27.Nf4 Qxf2+ 28.Kxf2 Bc8
+29.Kg3 Re7 30.Bh3 Bxh3 31.Kxh3 Rfe8 32.Nd3 c6 33.d6 Ra7 34.c5
+bxc5 35.Nxc5 Rd8 36.e6 fxe6 37.Rxe6 Rf7 38.Re8+ Rf8 39.d7 Bf6
+40.Rxf8+ Rxf8 1-0

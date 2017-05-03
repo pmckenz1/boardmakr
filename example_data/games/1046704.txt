@@ -1,0 +1,18 @@
+[Event "Ch City, Hamburg (Germany)"]
+[Site "Ch City, Hamburg (Germany)"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Dorian Rogozenco"]
+[Black "Lubomir Ftacnik"]
+[ECO "D72"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6
+7. Ne2 e5 8. d5 c6 9. O-O O-O 10. Nbc3 cxd5 11. exd5 Na6
+12. b3 f5 13. a4 f4 14. a5 f3 15. axb6 fxg2 16. Kxg2 e4
+17. Nd4 h5 18. h3 Qxb6 19. Be3 Qd8 20. Qe2 Qd7 21. Rh1 Qf7
+22. Rad1 1/2-1/2

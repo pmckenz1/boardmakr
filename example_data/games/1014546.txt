@@ -1,0 +1,15 @@
+[Event "New York PCA-op plof"]
+[Site "New York, NY USA"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jonathan Speelman"]
+[Black "Michael Adams"]
+[ECO "E43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bxc3+ 6.bxc3 O-O
+7.Nf3 c5 8.O-O Nc6 9.Ne1 e5 10.d5 Na5 1/2-1/2

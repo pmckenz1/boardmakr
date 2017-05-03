@@ -1,0 +1,32 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Uwe Boensch"]
+[Black "Yuri Balashov"]
+[ECO "E46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "199"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 d5 6.a3 Be7 7.cxd5
+Nxd5 8.g3 Nxc3 9.Nxc3 c5 10.d5 exd5 11.Nxd5 Nc6 12.Bg2 Be6
+13.O-O Rc8 14.b3 Bf6 15.Ra2 Bxd5 16.Bxd5 b5 17.Rd2 Qb6 18.Qe2
+Rfd8 19.Rfd1 Rd7 20.Bb2 Bxb2 21.Rxb2 Re8 22.Bg2 Rxd1+ 23.Qxd1
+Ne5 24.Qd5 g6 25.h3 Re7 26.Kh2 h5 27.Rc2 c4 28.bxc4 Nxc4 29.a4
+a6 30.Bf1 Ne5 31.axb5 axb5 32.Bxb5 Nf3+ 33.Qxf3 Qxb5 34.Qf6
+Qd7 35.Rc6 Re8 36.h4 Qe7 37.Qc3 Rd8 38.Qc4 Kg7 39.Qc3+ Kg8
+40.Rc7 Qe6 41.Rc4 Qf5 42.Rf4 Qe6 43.Rf6 Qe7 44.Rc6 Rd6 45.Rc8+
+Rd8 46.Rc4 Qe6 47.e4 Re8 48.Kg2 Qe7 49.Qa5 Qe6 50.Qd5 Kg7
+51.Rd4 Qe5 52.Qc4 Qe6 53.Qc3 Kh7 54.Qd2 Kg7 55.Kh2 Kh7 56.Rd7
+Kg7 57.Qd4+ Qe5 58.Qc4 Qe6 59.Qc3+ Qe5 60.Qb3 Qe6 61.Qb7 Kg8
+62.Kg1 Kg7 63.Rc7 Kg8 64.e5 Rd8 65.Qf3 Rd5 66.Re7 Qxe7 67.Qxd5
+Qc7 68.Kg2 Qc3 69.Qe4 Kg7 70.Qf4 Qc6+ 71.Qf3 Qc4 72.Qe3 Kg8
+73.Qf3 Kg7 74.Qf6+ Kg8 75.Qd6 Qe4+ 76.Kf1 Kg7 77.Qc5 Qd3+
+78.Ke1 Kg8 79.Qe3 Qc2 80.Qd4 Kf8 81.Kf1 Kg8 82.Qd5 Kg7 83.Kg2
+Qe2 84.Qd4 Kg8 85.Qe3 Qc2 86.Kh3 Qb1 87.Kh2 Qa2 88.Qf3 Qb2
+89.Qf4 Qe2 90.Kg2 Kg7 91.Qe3 Qc2 92.Qd4 Qc6+ 93.Kf1 Qb5+
+94.Ke1 Kg8 95.Kd2 Qb3 96.Qc3 Qb6 97.Ke2 Kh7 98.Kf3 Kg8 99.Qe3
+Qb4 100.Qe4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Oberwart"]
+[Site "Oberwart"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Kvetoslav Znamenacek"]
+[Black "Gunther Adam"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5 6.Nc3 O-O
+7.O-O Nc6 8.Nxd5 Qxd5 9.d3 e5 10.Be3 Qb5 11.Qd2 Re8 12.Rfc1 e4
+13.dxe4 Qxb2 14.Rab1 Qxd2 15.Nxd2 a5 16.Kf1 Ra6 17.f4 Bf8
+18.e5 f6 19.Ne4 Nb4 20.Bd4 fxe5 21.Bxe5 Nd5 22.Kf2 c6 23.Nc5
+Bxc5+ 24.Rxc5 Rd8 25.Rd1 Rf8 26.e4 Nf6 27.Bxf6 Rxf6 28.Bf1 Ra8
+29.Bc4+ Kg7 30.Re5 Bg4 31.Re7+ Kf8 32.Rxh7 Bxd1 33.Rh8+ Ke7
+34.Rxa8 b5 35.e5 Rf8 36.Ra7+ Ke8 37.Be6 a4 38.Bd7+ Kd8 39.Bxc6
+Bb3 40.axb3 axb3 41.Bxb5 b2 42.Bd3 1-0

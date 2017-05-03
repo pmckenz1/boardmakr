@@ -1,0 +1,25 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.11"]
+[EventDate "?"]
+[Round "16"]
+[Result "1/2-1/2"]
+[White "Max Judd"]
+[Black "James Mason"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.d4 exd4 6.e5 Ne4 7.Re1
+Nc5 8.Nxd4 Nxd4 9.Qxd4 O-O 10.Nc3 Ne6 11.Qe4 Nc5 12.Qe2 d5
+13.exd6 Bxd6 14.Ne4 Nxe4 15.Qxe4 f5 16.Qe2 Bd7 17.Bxd7 Qxd7
+18.Qc4+ Qf7 19.Qxf7+ Kxf7 20.Bd2 Rfe8 21.Bc3 g5 22.h3 h5
+23.Rxe8 Rxe8 24.Re1 Rxe1+ 25.Bxe1 Be5 26.b3 Ke6 27.Kf1 Kd5
+28.Ke2 g4 29.hxg4 fxg4 30.Ke3 h4 31.c4 Ke6 32.f4 h3 33.gxh3
+gxh3 34.Bg3 Bd6 35.Ke4 Kf6 36.Bh2 Bc5 37.Kf3 Kf5 38.Kg3 Bd6
+39.Kf3 a6 40.Bg3 Ba3 41.Bh2 Bc5 42.Kg3 Be3 43.Kf3 Bd2 44.Bg3
+c6 45.a4 Bb4 46.Bh2 Bc5 47.Kg3 Ke4 48.Kxh3 Kd3 49.Kg4 Kc3
+50.f5 Kxb3 51.f6 Kxc4 52.Kf5 Kd5 53.Bc7 Bf8 54.a5 c5 55.Be5 c4
+56.Bc3 Kc6 57.Ke6 b5 58.axb6 Kxb6 59.Kf7 Bc5 60.Ke8 Kc6 61.f7
+Kd5 62.Bf6 Ke6 63.Bc3 Bd6 64.Be1 1/2-1/2

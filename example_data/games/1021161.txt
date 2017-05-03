@@ -1,0 +1,23 @@
+[Event "ANU Carbon v Silicon Match"]
+[Site "Canberra B1"]
+[Date "1994.07.15"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Guy West"]
+[Black "HIARCS (Computer)"]
+[ECO "C28"]
+[WhiteElo "2355"]
+[BlackElo "2215"]
+[PlyCount "95"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 h6 6. Bh4 g5
+7. Bg3 d5 8. exd5 Nxd5 9. Nge2 Bg4 10. Bxd5 Bxc3+ 11. bxc3
+Qxd5 12. f3 Be6 13. O-O O-O-O 14. Rb1 Qxa2 15. Qc1 f6 16. c4
+Qa6 17. Ra1 Qb6+ 18. Bf2 Qb4 19. Rb1 Qd6 20. c5 Qe7 21. Qb2 b6
+22. Qb5 Kd7 23. cxb6 axb6 24. d4 Bf5 25. d5 Qd6 26. dxc6+ Ke7
+27. Ra1 Bxc2 28. Qb2 Bg6 29. Ra7 Rb8 30. Nc3 Rhc8 31. Nb5 Qd8
+32. Qb3 Bf7 33. Qa4 Bd5 34. Rd1 Kf7 35. Nc3 Kf8 36. Rxd5 Qe7
+37. Rd7 Qe6 38. Nd5 Rd8 39. Nxc7 Qf5 40. Qb4+ Kg8 41. Nd5 Rxd7
+42. Rxd7 Kh8 43. h3 b5 44. Qe7 Qg6 45. Nxf6 Qb1+ 46. Kh2 Qc2
+47. Qh7+ Qxh7 48. Rxh7# 1-0

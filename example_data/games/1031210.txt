@@ -1,0 +1,17 @@
+[Event "Mar del Plata (Argentina)"]
+[Site "Zt"]
+[Date "1951.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Julio Bolbochan"]
+[Black "Carlos Enrique Guimard"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nc6 5.c3 Bd6 6.Qf3 Nge7
+7.Ne2 Be6 8.Bf4 Ng6 9.Bxd6 Qxd6 10.Qg3 O-O-O 11.Qxd6 Rxd6
+12.Nd2 Nce7 13.Nf3 f6 14.h3 Bf5 15.O-O-O Re6 16.Rhe1 Bxd3
+17.Rxd3 Nf5 18.Ng3 Rxe1+ 19.Nxe1 Nxg3 20.Rxg3 1/2-1/2

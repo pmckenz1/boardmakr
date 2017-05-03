@@ -1,0 +1,28 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.18"]
+[EventDate "1900.??.??"]
+[Round "2"]
+[Result "0-1"]
+[White "James Mason"]
+[Black "Georg Marco"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "152"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Bc5 6.d4 Bb4 7.Bd2
+Nxd2 8.Qxd2 Bf5 9.Be2 O-O 10.O-O c6 11.Ng5 Bg6 12.a3 Be7
+13.Nh3 Nd7 14.Nf4 Bg5 15.Bg4 Re8 16.Qf2 Bxf4 17.Qxf4 Nf8
+18.Rf2 Ne6 19.Bxe6 Rxe6 20.Raf1 Qe7 21.Qg4 f6 22.exf6 Rxf6
+23.Rxf6 gxf6 24.Ne2 Qe3+ 25.Kh1 Re8 26.Ng3 Kh8 27.Qd7 Qe7
+28.Qxe7 Rxe7 29.Rxf6 Kg7 30.Rf2 Re1+ 31.Rf1 Rxf1+ 32.Nxf1 Bxc2
+33.Kg1 Kf6 34.Kf2 Bd3 35.Ng3 b6 36.Ke3 Bg6 37.Ne2 Be4 38.Nf4
+c5 39.g3 Kf5 40.h3 Kf6 41.Ne2 Bg2 42.Nf4 Be4 43.dxc5 bxc5
+44.b4 cxb4 45.axb4 Ke5 46.Ne2 Bg2 47.h4 Bh3 48.Nd4 Bd7 49.Nf3+
+Kf5 50.Kd4 Be6 51.Ke3 Bc8 52.Nd4+ Kg4 53.Kf2 a6 54.Nc6 Be6
+55.Ne5+ Kf5 56.Nd3 d4 57.Nc5 Bc4 58.Nd7 Bb5 59.Nc5 h5 60.Kf3
+Bc6+ 61.Kf2 Bb5 62.Kf3 Bc6+ 63.Kf2 Bb5 64.Kf3 Bc4 65.Kf2 Ke5
+66.Kf3 Bd5+ 67.Ke2 Bc4+ 68.Kf3 Bb5 69.Nb3 Bc6+ 70.Kf2 Kd5
+71.Nd2 Bd7 72.Kf3 Bg4+ 73.Kf4 Bd1 74.Kf5 d3 75.Kf4 Kd4 76.Ne4
+Be2 0-1

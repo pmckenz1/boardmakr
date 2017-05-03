@@ -1,0 +1,19 @@
+[Event "cr RUS"]
+[Site "cr RUS"]
+[Date "1905.09.27"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "A Giese"]
+[Black "Alexander Alekhine"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nc3
+Ne7 7. d4 Bg7 8. Nf3 Qh5 9. h4 h6 10. e5 Nbc6 11. Kg1 g4
+12. Ne1 Bf5 13. Bxc6+ Nxc6 14. Ne2 Be4 15. Bxf4 Qf5 16. Qd2
+O-O-O 17. Ng3 Qh7 18. Qe2 Nxd4 19. Qc4 Bc6 20. c3 Ne6 21. Qf1
+h5 22. Bg5 Bxe5 23. Bxd8 Bxg3 24. Bf6 Qe4 25. Nd3 Nf4 26. Rh3
+Qe3+ 27. Nf2 Nxh3+ 28. gxh3 Bh2+ 29. Kxh2 Qf4+ 0-1

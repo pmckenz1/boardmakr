@@ -1,0 +1,24 @@
+[Event "Vienna open"]
+[Site "Vienna AUT"]
+[Date "1995.11.05"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Evgeny Prokopchuk"]
+[ECO "A53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 Nbd7 4.g3 e5 5.Nc3 c6 6.Bg2 e4 7.Ng5 d5
+8.cxd5 cxd5 9.O-O Be7 10.Qb3 h6 11.Nh3 Nb6 12.Bf4 g5 13.Be5
+O-O 14.Bxf6 Bxf6 15.Rad1 Bg7 16.e3 Bg4 17.f3 exf3 18.Rxf3 Nc4
+19.Rd3 Bxf3 20.Bxf3 Rc8 21.Nf2 Nb6 22.a4 Qd7 23.a5 Nc4 24.Qb4
+Qd6 25.Qxd6 Nxd6 26.Bxd5 Rfe8 27.e4 Nc4 28.e5 Nxb2 29.Rf3 Re7
+30.Nfe4 Nc4 31.Nb5 Nxa5 32.Nbd6 Rc1+ 33.Kg2 Nc6 34.Nxf7 Kh7
+35.Nf6+ Bxf6 36.Be4+ Kg7 37.exf6 Kxf7 38.Bd5+ Kf8 39.fxe7 Kxe7
+40.Rf7+ Kd6 41.Be4 Nxd4 42.Rxb7 a5 43.Kf2 Rc3 44.Ra7 Ke5
+45.Bh7 Rf3+ 46.Kg2 Ra3 47.Bg8 Nf5 48.Kf2 Ke4 49.Ra6 h5 50.Bh7
+Ke5 51.Rg6 g4 52.Rg5 Rf3+ 53.Ke2 a4 54.Rxh5 a3 55.Bxf5 Rxf5
+56.Rh8 a2 57.Ra8 Rh5 58.Ke3 Rxh2 59.Ra5+ 1/2-1/2

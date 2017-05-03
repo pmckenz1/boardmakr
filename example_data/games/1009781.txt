@@ -1,0 +1,25 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Canberra AUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Robert Raposio"]
+[Black "Nikolai Stawski"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. g3 Nf6 5. Bg2 dxc4 6. O-O b5
+7. a4 Bb7 8. Ne5 Qb6 9. b3 cxb3 10. Qxb3 Nbd7 11. a5 Qa6
+12. Ba3 c5 13. Nxd7 Nxd7 14. Bxb7 Qxb7 15. dxc5 Nxc5 16. Qe3
+b4 17. Bb2 Qe4 18. Qxe4 Nxe4 19. f3 Bc5+ 20. Kg2 Nf6 21. Nd2
+Ke7 22. e4 Rhc8 23. Nc4 Ne8 24. Rfd1 Rd8 25. Kf1 f6 26. Ke2
+Rxd1 27. Rxd1 Rd8 28. Rd3 Nc7 29. Rxd8 Kxd8 30. Kd3 Nb5
+31. Ke2 Kc7 32. g4 Kc6 33. Kd3 e5 34. Nd2 Na3 35. g5 Kb5
+36. gxf6 gxf6 37. Nf1 Nc4 38. Bc1 Bd4 39. Ng3 Nxa5 40. Kc2 b3+
+41. Kb1 Nc4 42. Nh5 b2 43. Bxb2 Bxb2 44. Nxf6 Kb4 45. Ka2 h6
+46. h4 Kc3 47. Nd5+ Kd4 48. h5 Bc1 49. Kb1 Bf4 50. Kc2 Ne3+
+51. Nxe3 Kxe3 52. Kc3 Kxf3 53. Kc4 Kxe4 54. Kb5 Kd5 55. Kb4 e4
+56. Ka5 Kc4 57. Ka6 Be3 58. Kb7 Bf2 0-1

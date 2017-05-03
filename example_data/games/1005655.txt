@@ -1,0 +1,24 @@
+[Event "Kharkov Caissa op"]
+[Site "UKR"]
+[Date "2000.??.??"]
+[EventDate "2000.01.27"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Robert Gevorkyan"]
+[Black "Denis Lineykin"]
+[ECO "B32"]
+[WhiteElo "2241"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Nxc6
+dxc6 7. Qxd8+ Kxd8 8. Bc4 Ke8 9. a4 Nd7 10. O-O e5 11. Kh1 Nc5
+12. f4 Be6 13. Be2 exf4 14. Bxf4 Bg7 15. Bf3 Nd7 16. Rae1 Be5
+17. Nd5 Bxf4 18. Nxf4 Ne5 19. b3 Rd8 20. Rd1 Ke7 21. Be2 Bg4
+22. h3 Be6 23. Kg1 h5 24. Kf2 h4 25. Ke3 g5 26. Nxe6 fxe6
+27. a5 Ng6 28. Rxd8 Rxd8 29. Rd1 Rf8 30. Rd4 c5 31. Rc4 b6
+32. axb6 axb6 33. Ra4 Kd6 34. Ra7 Nf4 35. Bf3 e5 36. Rb7 c4
+37. b4 Ra8 38. Rxb6+ Kc7 39. Rb5 Ra3+ 40. Kd2 Kd6 41. Rc5 Nxh3
+42. Rd5+ Kc6 43. Rxe5 Nf4 44. Rxg5 h3 45. Rg4 hxg2 46. Bxg2
+Nxg2 47. Rxg2 Kb5 48. Rg5+ Kxb4 49. Rd5 Rh3 50. c3+ Rxc3
+51. Rb5+ Kxb5 52. Kxc3 Kc5 53. e5 Kd5 54. e6 Kxe6 1/2-1/2

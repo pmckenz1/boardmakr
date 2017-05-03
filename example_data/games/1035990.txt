@@ -1,0 +1,22 @@
+[Event "Liverpool (m/4)"]
+[Site "Liverpool ENG"]
+[Date "1900.02.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Amos Burn"]
+[Black "George Edward H Bellingham"]
+[ECO "C29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3 exf4 5.e5 d4 6.Nce2 Ng4 7.Nf3
+Nc6 8.Bxf4 Qd5 9.c3 dxc3 10.Nxc3 Bb4 11.Qd2 Bxc3 12.bxc3 Ngxe5
+13.Bxe5 Nxe5 14.Qe3 O-O 15.Nxe5 Re8 16.d4 b5 17.Bd3 Bb7 18.Qh3
+Rxe5+ 19.dxe5 Qxe5+ 20.Kd2 Be4 21.Rhe1 Rd8 22.Re3 b4 23.Rc1 f5
+24.cxb4 f4 25.Rxe4 Qxe4 26.a3 h6 27.Rxc7 f3 28.Rd7 Qf4+ 29.Kc2
+Rc8+ 30.Kb3 Qc1 31.Qe6+ Kh8 32.Qe4 Rc3+ 33.Ka4 Rxa3+ 34.Kb5
+Qg5+ 35.Rd5 a6 36.Kc4 Qc1+ 37.Bc2 Qf1+ 38.Kd4 Qa1+ 39.Kc5 Qc3+
+40.Kd6 Qf6+ 41.Kd7 Qf7+ 42.Kd8 Qf6+ 43.Ke8 Qc6+ 44.Rd7 Qxe4+
+45.Bxe4 f2 46.Rd8 1-0

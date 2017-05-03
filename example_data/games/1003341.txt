@@ -1,0 +1,25 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "13"]
+[Result "0-1"]
+[White "Janos Gajdos"]
+[Black "Oldrich Duras"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "118"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Nc6 12. d5 Na7
+13. Nbd2 a5 14. a4 b4 15. c4 Bd7 16. Nf1 h6 17. Ng3 O-O-O
+18. Nh2 Nh7 19. Nhf1 Bg5 20. Ne3 Rdg8 21. Qf3 g6 22. Ng4 h5
+23. Nh2 f6 24. Nhf1 Kb7 25. Kh2 Nc8 26. Be3 Nf8 27. Kg1 Nb6
+28. b3 Bc8 29. Qe2 Bf4 30. Qf3 Bg5 31. Bd3 Qg7 32. Ra2 Bd7
+33. Nh2 Nh7 34. Kf1 h4 35. Ne2 f5 36. Ng1 Bd8 37. Qd1 Nf6
+38. f3 Nh5 39. Ne2 Rf8 40. Kg1 Rf7 41. Kh1 Na8 42. Kg1 Nc7
+43. Qa1 Ne8 44. Qb1 Qh7 45. Qd1 Nef6 46. Rb2 Ng3 47. Qb1 Rg7
+48. Bc1 fxe4 49. fxe4 g5 50. Nf3 g4 51. Ng5 Qg8 52. Kh2 Rxg5
+53. Bxg5 Qxg5 54. Qc1 Qg7 55. Ng1 Nfh5 56. hxg4 Nf4 57. Bf1
+Qxg4 58. Qe3 h3 59. gxh3 Nxf1+ 0-1

@@ -1,0 +1,22 @@
+[Event "It (cat.11)"]
+[Site "Rishon (Israel)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Victor Mikhalevski"]
+[Black "Nigel Rodney Davies"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Bg4 5.e3 c5 6.dxc5 Bxc3+
+7.bxc3 dxc5 8.Qxd8+ Kxd8 9.Ne5 Be6 10.e4 Nf6 11.Rb1 Nxe4
+12.Rxb7 Nd6 13.Rb1 Nd7 14.Bf4 Nb6 15.Be2 f6 16.Nd3 Rc8 17.Bxd6
+exd6 18.Nf4 Bf7 19.O-O Kc7 20.Rfd1 Rb8 21.Rb3 Nxc4 22.Ra1 Rhe8
+23.Bf3 Nd2 24.Ra3 Nxf3+ 25.gxf3 Rb7 26.Rd1 g5 27.Nd5+ Bxd5
+28.Rxd5 Kc6 29.Rd2 Ree7 30.Kg2 d5 31.f4 gxf4 32.Kf3 Rb6 33.Ra4
+Rb1 34.Rxf4 Re6 35.Ra4 Re7 36.Rf4 Re6 37.Ra4 Kb5 38.Rxa7 Rc1
+39.Rxd5 Rxc3+ 40.Kg4 Rc2 41.Rf5 Ree2 42.Rb7+ Kc6 43.Rf7 Rxa2
+44.R5xf6+ Kd5 45.Rd7+ Ke5 46.Rdd6 Re4+ 47.Kg5 h6 48.Rxh6 0-1

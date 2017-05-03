@@ -1,0 +1,19 @@
+[Event "It (cat.8), Budapest (Hungary)"]
+[Site "It (cat.8), Budapest (Hungary)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Hoang Thanh Trang"]
+[Black "Szidonia Lazarne Vajda"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6
+7. Be3 e5 8. d5 c6 9. g4 a6 10. a4 a5 11. h4 Ne8 12. Qd2 Kh7
+13. Nh3 f5 14. exf5 gxf5 15. Bd3 e4 16. Bc2 Nd7 17. f4 exf3
+18. gxf5 Nef6 19. Ng5+ hxg5 20. hxg5+ Kg8 21. gxf6 Qxf6
+22. O-O-O c5 23. Rdg1 Rf7 24. Rh3 Ne5 25. Bg5 Bxf5 26. Bxf6
+Bxh3 27. Bxg7 Rxg7 28. Rxg7+ Kxg7 29. Qg5+ 1-0

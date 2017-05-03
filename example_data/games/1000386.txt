@@ -1,0 +1,16 @@
+[Event "World Open"]
+[Site "Philadelphia, PA USA"]
+[Date "2000.07.01"]
+[EventDate "2000.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Tim Redman"]
+[Black "George O Umezinwa"]
+[ECO "D35"]
+[WhiteElo "2012"]
+[BlackElo "2277"]
+[PlyCount "32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. g3 c6 5. Bg2 Nbd7 6. Nf3 dxc4
+7. O-O Be7 8. e4 O-O 9. Qe2 b5 10. a4 b4 11. Na2 a5 12. Rd1
+Nb6 13. Ne5 Bb7 14. Be3 Nxa4 15. Nxc4 Ba6 16. Qc2 Bxc4 0-1

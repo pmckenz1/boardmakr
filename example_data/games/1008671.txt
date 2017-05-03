@@ -1,0 +1,19 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "3"]
+[Result "0-1"]
+[White "Rohan M Churm"]
+[Black "Paul McMahon"]
+[ECO "C89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7
+7. Re1 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf6
+12. d4 Bd6 13. Re1 Ng4 14. g3 Qf6 15. Be3 Re8 16. Bd5 Rxe3
+17. f3 Qg5 18. Bxa8 Nxh2 19. Rxe3 Qxe3+ 20. Kg2 Bh3+ 21. Kxh3
+Qf2 22. f4 Nf1 23. Qd3 g5 24. Nd2 Qh2+ 25. Kg4 h5+ 26. Kxg5
+Qh3 27. Re1 Qg4+ 28. Kf6 Qg7+ 29. Kf5 Qg6# 0-1

@@ -1,0 +1,21 @@
+[Event "Marshall Int"]
+[Site "New York, NY USA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "1-0"]
+[White "Bernard Zuckerman"]
+[Black "Jay R Bonin"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1.e4 c6 2.d4 g6 3.Nf3 d5 4.Nbd2 Bg7 5.c3 Nh6 6.Bd3 O-O 7.O-O
+f6 8.Re1 Nf7 9.c4 Na6 10.cxd5 Nb4 11.Bc4 cxd5 12.exd5 Bf5
+13.Nh4 Bc2 14.Qe2 g5 15.a3 Nxd5 16.Ne4 gxh4 17.Qxc2 Nb6 18.Ba2
+Rc8 19.Nc5 Qxd4 20.Bb1 f5 21.Be3 Qf6 22.Qxf5 Qxf5 23.Bxf5 Rc6
+24.Be4 Rcc8 25.Ne6 Rfe8 26.Nxg7 Kxg7 27.Bxb7 Rc7 28.Be4 Nd6
+29.Bd3 e5 30.Rac1 Rec8 31.Rxc7+ Rxc7 32.Rc1 Rxc1+ 33.Bxc1 a5
+34.b3 a4 35.Bb2 Kf6 36.f4 Ke6 37.fxe5 Nf7 38.bxa4 Nxe5 39.Bxe5
+Kxe5 40.a5 Nc8 41.Bxh7 1-0

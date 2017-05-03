@@ -1,0 +1,26 @@
+[Event "Havana"]
+[Site "Havana CUB"]
+[Date "1913.02.28"]
+[EventDate "1913.02.15"]
+[Round "10"]
+[Result "1-0"]
+[White "Abraham Kupchik"]
+[Black "Rafael Blanco Estera"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. d4 f5 2. Bg5 h6 3. Bh4 Nf6 4. Bxf6 exf6 5. e4 Qe7 6. Qh5+
+Kd8 7. Nc3 d5 8. Nxd5 Qxe4+ 9. Ne3 Bb4+ 10. c3 f4 11. Qd5+
+Qxd5 12. Nxd5 Bd6 13. Ne2 g5 14. Nxf6 Bf5 15. f3 h5 16. Ne4
+Be7 17. g3 Bxe4 18. fxe4 f3 19. Nc1 g4 20. h3 Rf8 21. hxg4
+hxg4 22. Nd3 Nd7 23. Nf2 c5 24. Nxg4 cxd4 25. cxd4 Rc8 26. Kd2
+Rg8 27. Bh3 Bg5+ 28. Kd3 Ke7 29. Raf1 Rgf8 30. Ne3 Bxe3
+31. Bxd7 Kxd7 32. Kxe3 Rc2 33. Rf2 Rc4 34. Kd3 Rc6 35. Rhf1
+Rg6 36. Rxf3 Rxg3 37. Rxg3 Rxf1 38. Rg7+ Kc6 39. d5+ Kb6
+40. Kd4 Rf2 41. Rg3 a5 42. Rb3+ Kc7 43. e5 Rd2+ 44. Ke4 Re2+
+45. Kf5 a4 46. d6+ Kc8 47. Rc3+ Kd8 48. e6 Rf2+ 49. Ke4 Re2+
+50. Re3 Rd2 51. Ke5 Rxb2 52. Rh3 Re2+ 53. Kf5 Rf2+ 54. Kg4
+Rg2+ 55. Kf3 Rg8 56. Ke4 b5 57. Rh5 Re8 58. Kd5 Rg8 59. Kc6
+1-0

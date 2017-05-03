@@ -1,0 +1,19 @@
+[Event "Tatatovaros it"]
+[Site "HUN"]
+[Date "1935.??.??"]
+[EventDate "1935.??.??"]
+[Round "5"]
+[Result "1-0"]
+[White "Albert Becker"]
+[Black "Imre Korody Keresztely"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 Bb6 6. d5 Nb8
+7. d6 Qxd6 8. Qxd6 cxd6 9. Na3 Nf6 10. Bd5 Nc6 11. Nb5 O-O
+12. Be3 Bxe3 13. fxe3 Ne8 14. O-O a6 15. Na3 Rb8 16. Rf2 Nd8
+17. Nc4 b5 18. Na5 Ne6 19. b4 N6c7 20. Nh4 Nxd5 21. exd5 Nf6
+22. Rxf6 gxf6 23. Rf1 f5 24. Nxf5 f6 25. Rf3 Kh8 26. e4 Bb7
+27. Nxd6 Bc8 28. a3 Rb6 29. c4 bxc4 30. Naxc4 Rb8 31. Kf2 1-0

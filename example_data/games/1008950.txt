@@ -1,0 +1,20 @@
+[Event "Ch Great Britain, Scarborough (England)"]
+[Site "Ch Great Britain, Scarborough (England)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Neil Berry"]
+[Black "Edmund C Player"]
+[ECO "D27"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6
+7. Bb3 Be7 8. Qe2 Nc6 9. Rd1 Qc7 10. Nc3 O-O 11. a3 b5 12. d5
+Na5 13. Bc2 b4 14. axb4 cxb4 15. Ne4 Nxd5 16. Neg5 g6 17. e4
+Nf6 18. e5 Nh5 19. Ne4 Bb7 20. Nd6 Bxf3 21. gxf3 Nc6 22. Be4
+Nxe5 23. Bxa8 Bxd6 24. Rxa6 Nc4 25. Rc6 Bxh2+ 26. Kh1 Qe5
+27. Qxc4 Bf4 28. Rc8 Qf5 29. Rxf8+ Kxf8 30. Qf1 Bxc1 31. Rxc1
+Nf4 32. Qg1 Kg7 33. Be4 1-0

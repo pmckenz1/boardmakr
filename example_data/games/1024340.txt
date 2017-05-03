@@ -1,0 +1,22 @@
+[Event "Vilnius 20/326"]
+[Site "Vilnius LTU"]
+[Date "1975.08.??"]
+[EventDate "?"]
+[Round "15"]
+[Result "1-0"]
+[White "Yuri Balashov"]
+[Black "Vladimir Savon"]
+[ECO "C93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Bd7 13.Ng3
+Na5 14.Bc2 Nc4 15.a4 g6 16.b3 Na5 17.axb5 axb5 18.Be3 c5 19.d5
+Nb7 20.Qd2 Kh7 21.b4 Qc7 22.Bd3 Ra4 23.Bc2 Raa8 24.Bd3 Ra4
+25.Rxa4 bxa4 26.Ra1 Ra8 27.Qb2 Be8 28.Nd2 Be7 29.Nc4 Nd7
+30.Qd2 h5 31.Qd1 Nf6 32.Na3 Qd8 33.Nf1 Bd7 34.Nd2 Ne8 35.Nac4
+Bg5 36.Bc2 Bxe3 37.Nxe3 Nc7 38.Bxa4 Bxa4 39.Rxa4 Nb5 40.Nb1
+Rc8 41.Qd3 Qd7 42.Nc4 cxb4 43.Rxb4 Rc5 44.Nb6 Qe8 45.Na4 Nc7
+46.Nxc5 Nxc5 47.Qf3 f5 48.exf5 e4 49.fxg6 Qxg6 50.Qf8 1-0

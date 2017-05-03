@@ -1,0 +1,19 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "Franciszek Sulik"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3
+Qd8 7. Bd3 Nd7 8. Qe2 Be7 9. Bd2 c6 10. O-O b6 11. c4 Bb7
+12. Bc3 Bf6 13. Rad1 Qc7 14. Nd2 Be7 15. f4 Nf6 16. f5 O-O-O
+17. fxe6 Bd6 18. Nf3 Rhe8 19. Ne5 fxe6 20. b4 c5 21. dxc5 bxc5
+22. b5 Nd7 23. Nf7 Bxh2+ 24. Kh1 Bg3 25. Be4 e5 26. Nd6+ Kb8
+27. Nxb7 Re6 28. Rf3 1-0

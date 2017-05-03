@@ -1,0 +1,15 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1978.04.12"]
+[EventDate "1978.04.02"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "John Fedorowicz"]
+[Black "Walter D Morris"]
+[ECO "A00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.g3 Nf6 2.Bg2 g6 3.c4 Bg7 4.Nc3 O-O 5.Nf3 d6 6.O-O e5 7.d3
+Nc6 8.Rb1 a5 9.a3 Nd4 1/2-1/2

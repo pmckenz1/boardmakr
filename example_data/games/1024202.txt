@@ -1,0 +1,20 @@
+[Event "USSR Championship"]
+[Site "Baku AZE"]
+[Date "1972.11.26"]
+[EventDate "1972.11.17"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Yuri Balashov"]
+[Black "Albert Zinovievich Kapengut"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5
+h6 8.Bh4 g5 9.Bg3 Nh5 10.e3 Nxg3 11.hxg3 Bg7 12.Bd3 Nd7 13.Qc2
+Qe7 14.O-O h5 15.Bf5 g4 16.Nd2 a6 17.a4 Ne5 18.Bxc8 Rxc8 19.f4
+gxf3 20.Nxf3 Nxf3+ 21.Rxf3 Rc7 22.Raf1 Qe5 23.Qf2 Bh6 24.Kh1
+Kd8 25.e4 Rg8 26.Rf5 Qxg3 27.Qxg3 Rxg3 28.e5 dxe5 29.d6 Rc6
+30.Rxf7 Rg4 31.R1f6 Rh4+ 32.Kg1 Be3+ 33.Kf1 Rf4+ 34.Ke2 Bd4
+35.Rf8+ 1/2-1/2

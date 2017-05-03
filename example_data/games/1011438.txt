@@ -1,0 +1,26 @@
+[Event "Ch USA (juniors), San Francisco (USA)"]
+[Site "Ch USA (juniors), San Francisco (USA)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Dmitry Schneider"]
+[Black "Gregory Braylovsky"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "129"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be6
+7. N1c3 a6 8. Na3 Be7 9. b3 Bg5 10. Bb2 Nge7 11. Bd3 O-O
+12. O-O g6 13. Nd5 f5 14. exf5 gxf5 15. f4 Bh6 16. Qh5 Bg7
+17. Rf3 Bf7 18. Qh3 e4 19. Rg3 Bg6 20. Bxg7 Kxg7 21. Bf1 Nxd5
+22. cxd5 Qb6+ 23. Kh1 Qd4 24. Nc2 Qxd5 25. Ne3 Qf7 26. Rd1 Ne7
+27. Rxd6 b5 28. Qh4 Ra7 29. Kg1 Nc8 30. Rd5 Qe6 31. Re5 Qb6
+32. Rh3 Rd7 33. Qf2 Qd4 34. Rg3 Kh8 35. Rg5 Ne7 36. Re6 Rf6
+37. Rxf6 Qxf6 38. Rg3 Qd4 39. Rh3 Nd5 40. Nxd5 Rxd5 41. Qxd4+
+Rxd4 42. Rc3 Rd1 43. a3 Ra1 44. b4 Ra2 45. h3 Kg7 46. g4 Kf7
+47. Rc7+ Kf8 48. Rc6 Rxa3 49. gxf5 Bh5 50. Rh6 Bf7 51. Be2 Ra2
+52. Bg4 Kg7 53. Rd6 h5 54. f6+ Kg6 55. Be6 Bxe6 56. Rxe6 Rb2
+57. Rxa6 Rxb4 58. Kf2 Rb3 59. Rb6 h4 60. f5+ Kf7 61. Re6 Rf3+
+62. Ke2 Rf4 63. Ke3 Rxf5 64. Rxe4 Kxf6 65. Rxh4 1/2-1/2

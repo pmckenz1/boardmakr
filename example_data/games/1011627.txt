@@ -1,0 +1,20 @@
+[Event "It (open), Zagreb (Croatia)"]
+[Site "It (open), Zagreb (Croatia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Sasho Nikolov"]
+[Black "Blazimir Kovacevic"]
+[ECO "A84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. Nf3 Bb4 5. Bd2 b6 6. g3 Bb7
+7. Bg2 O-O 8. O-O Qe7 9. Qb3 Bxc3 10. Bxc3 d6 11. Rfd1 Nbd7
+12. Rac1 Ne4 13. Be1 g5 14. d5 e5 15. Qc2 a5 16. b3 Ndc5
+17. a3 a4 18. b4 Nb3 19. Rb1 Bc8 20. h3 Qf7 21. e3 Qh5 22. Nh2
+Bd7 23. Nf1 Rae8 24. g4 Qg6 25. f3 Nf6 26. Bf2 e4 27. Ng3 exf3
+28. gxf5 Bxf5 29. Qxf5 Qxf5 30. Nxf5 fxg2 31. Rb2 Ne4 32. Nd4
+Nxd4 33. exd4 Rf3 34. Re1 Kf7 35. Rbe2 Rxf2 0-1

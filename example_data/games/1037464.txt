@@ -1,0 +1,21 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1975.04.15"]
+[EventDate "1975.04.13"]
+[Round "3.22"]
+[Result "1-0"]
+[White "Lawrence Day"]
+[Black "David A Berry"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "85"]
+
+1.e4 e6 2.Qe2 c5 3.b3 d5 4.exd5 Qxd5 5.Bb2 Nc6 6.Nf3 Bd7 7.Nc3
+Qf5 8.Ne4 Nf6 9.Nxf6+ gxf6 10.d3 O-O-O 11.O-O-O e5 12.Qe3 Nd4
+13.Nd2 Bc6 14.Ne4 Kb8 15.Kb1 Rg8 16.f3 Qg6 17.Qe1 f5 18.Nd2
+Bg7 19.Nc4 e4 20.f4 Rge8 21.Qf2 Nb5 22.Ne5 Bxe5 23.fxe5 Nd4
+24.b4 Ba4 25.Rc1 Qg5 26.bxc5 e3 27.Qe1 f4 28.Qb4 Bxc2+ 29.Rxc2
+Nxc2 30.Kxc2 Qh5 31.Qe4 f6 32.d4 fxe5 33.d5 Qg6 34.Bd3 Qxe4
+35.Bxe4 Rc8 36.Ba3 Rg8 37.Kd3 h5 38.Rb1 Ka8 39.Ke2 a6 40.c6
+bxc6 41.dxc6 Rg7 42.c7 Ka7 43.Bc5# 1-0

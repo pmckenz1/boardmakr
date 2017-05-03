@@ -1,0 +1,49 @@
+[Event "Nottingham"]
+[Site "Nottingham ENG"]
+[Date "1936.08.13"]
+[EventDate "1936.08.10"]
+[Round "4"]
+[Result "1-0"]
+[White "Mikhail Botvinnik"]
+[Black "Savielly Tartakower"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. Nf3 {Notes by Alekhine} Nf6 2. c4 d6 3. d4 Nbd7 {This
+defence, in some aspects similar to the Hanham, was often
+adopted by Tchigorin who did not mind defensive cramped
+positions. Nowadays it is mostly played in connection with the
+fianchetto of the king's bishop, in fact a more promising
+procedure.} 4. g3 e5 5. Bg2 Be7 6. O-O O-O 7. Nc3 c6 8. e4
+{Another effective line of development is 8 b3 followed by
+Bb2.} Qc7 9. h3 Re8 10. Be3 Nf8 {? The first of a series of
+weak moves, which rapidly ruin Black's position. His best
+chance to obtain some activity for his pieces in spite of the
+weak d-pawn was 10...exd4 11 Nxd4 Nc5 12 Qc2 a5; or 11 Bxd4
+Nb6, etc.} 11. Rc1 h6 {? Either loss of time or preparation
+for a bad move (g5). Indicated was 11...Bd7.} 12. d5 Bd7 {If
+12...g5 then 13 h4 Ng4 14 hxg5 Nxe3 15 fxe3 hxg5 16 Nh2
+followed by Qh5 etc.} 13. Nd2 g5 {? After this the game can
+hardly be saved. A much lesser evil was 13...Ng6 14 f4 exf4 15
+gxf4 Bf8 etc.} 14. f4 gxf4 15. gxf4 Kg7 16. fxe5 {The attack
+from now on is very easy to conduct as there are "many roads
+to Rome".} dxe5 17. c5 cxd5 {? Black sees that he must lose
+anyhow and does not even try to resist. After 17...Qc8 16 d6
+Bd8 the attack would not develop quite as rapidly as in the
+actual game.} 18. Nxd5 Qc6 19. Nc4 Ng6 20. Nd6 {Decisive as
+the Black rook cannot move. If for instance 20...Rf8 then 21
+Qd2 Rh8 22 Qf2 and wins.} Be6 21. Nxe7 {Instead of taking the
+exchange plus a pawn by 21 Nxe8+ Rxe8 22 Nxe7 followed by
+Bxh6+ and Rxf6, White prefers to sacrifice material in order
+to buid up a mating attack. It is difficult to say which of
+the two methods is stronger as they both secure the win. But
+certainly Botvinnik's way is the more elegant.} Nxe7 {If
+21...Rxe7 22 Nf5+ and wins.} 22. Rxf6 {The continuation is by
+no means difficult, but makes a specially pleasant impression
+because of the text-moves are of a so-called "quiet" nature,
+that is, without checks.} Kxf6 23. Qh5 {Threatening mate in
+two.} Ng6 24. Nf5 {!} Rg8 {If 24...Rh8 then simply 25 Rf1.}
+25. Qxh6 Bxa2 26. Rd1 Rad8 27. Qg5+ {A more logical move was
+first 27 Rxd8.} Ke6 28. Rxd8 f6 29. Rxg8 Nf4 30. Qg7 1-0

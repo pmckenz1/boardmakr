@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1960.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Svend Hamann"]
+[Black "Efim Geller"]
+[ECO "E91"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 Bg4 7.O-O
+Nfd7 8.Be3 Nc6 9.d5 Bxf3 10.Bxf3 Na5 11.Qa4 Bxc3 12.bxc3 b6
+13.Be2 e5 14.g3 Nc5 15.Qc2 Qd7 0-1

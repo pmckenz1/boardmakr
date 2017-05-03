@@ -1,0 +1,16 @@
+[Event "Bugojno"]
+[Site "Bugojno BIH"]
+[Date "1978.03.16"]
+[EventDate "1978.02.26"]
+[Round "15"]
+[Result "1/2-1/2"]
+[White "Enver Bukic"]
+[Black "Yuri Balashov"]
+[ECO "D98"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qa4+ Bd7 6.Qb3 dxc4
+7.Qxc4 O-O 8.e4 Bg4 9.Be2 Nc6 10.d5 Bxf3 11.gxf3 Na5 12.Qd3
+1/2-1/2

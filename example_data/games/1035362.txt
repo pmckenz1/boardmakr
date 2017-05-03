@@ -1,0 +1,19 @@
+[Event "Manila"]
+[Site "Manila PHI"]
+[Date "1976.07.18"]
+[EventDate "1976.07.13"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Anatoly Karpov"]
+[Black "Walter Shawn Browne"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O Be6 9.f4 Qc7 10.a4 Nbd7 11.Be3 O-O 12.Kh1 exf4
+13.Rxf4 Ne5 14.a5 Rac8 15.Ra4 Nfd7 16.Rf1 Nc4 17.Bxc4 Bxc4
+18.Rf2 Bf6 19.Bd4 Rfe8 20.h3 Be5 21.Bxe5 Nxe5 22.Rd2 Red8
+23.Qg1 Be6 24.Qa1 Nc4 25.Rd3 Ne5 26.Rd2 Nc4 27.Rd3 Ne5 28.Rd2
+1/2-1/2

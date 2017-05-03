@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.10.31"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Jouni Yrjola"]
+[Black "Utut Adianto"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Be7 5.Bf4 O-O 6.e3 c6 7.Qc2
+Nbd7 8.cxd5 exd5 9.Bd3 Re8 10.h3 Nf8 11.O-O-O a5 12.Kb1 b5
+13.Ne5 Qb6 14.g4 N6d7 15.Rdg1 Nxe5 16.Bxe5 a4 17.g5 Bd7 18.h4
+Qa5 19.Bxh7+ Nxh7 20.g6 Nf6 21.gxf7 Kxf7 22.Qg6+ Ke6 23.Ne2
+Bf8 24.h5 a3 25.b3 Qd2 26.Nf4+ Ke7 27.Bxf6+ gxf6 28.Nd3 Kd8
+29.Rd1 Qe2 30.h6 Kc7 31.h7 Bb4 32.Qg3+ Bd6 33.Qg7 Re7 34.Qg6
+Rh8 0-1

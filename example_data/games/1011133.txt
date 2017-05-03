@@ -1,0 +1,21 @@
+[Event "Ch Philippines, Quezon City (Philippines)"]
+[Site "Ch Philippines, Quezon City (Philippines)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Ben Flores"]
+[Black "Rogelio Antonio Jr"]
+[ECO "A62"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6
+7. g3 Bg7 8. Bg2 O-O 9. O-O a6 10. a4 Re8 11. Bf4 h6 12. h3
+Nh5 13. Bc1 Nd7 14. g4 Nhf6 15. Bf4 Qc7 16. Nd2 Ne5 17. Bxe5
+Rxe5 18. Nc4 Re8 19. e4 g5 20. f4 gxf4 21. Qf3 Nd7 22. Qxf4
+Ne5 23. Nxe5 Rxe5 24. Kh1 Qe7 25. Nd1 Rg5 26. Ne3 Bxb2
+27. Rab1 Be5 28. Qf3 Rb8 29. Rb6 h5 30. gxh5 Rg3 31. Nf5 Bxf5
+32. Qxf5 Rg5 33. Qf3 c4 34. Rfb1 c3 35. Qe2 Kh7 36. Bf3 Rbg8
+37. Qf2 Rg3 0-1

@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.18"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Vladimir Bagirov"]
+[Black "Goran Dizdar"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.b3 Nf6 2.Bb2 e6 3.e3 Be7 4.f4 O-O 5.Nf3 b6 6.Nc3 Bb7 7.Bd3
+d6 8.O-O Nbd7 9.Qe1 Nc5 10.Be2 Nd5 11.Nxd5 Bxd5 12.d3 f5 13.c4
+Bxf3 14.gxf3 Bf6 15.d4 Rf7 16.Qd2 Nb7 17.Rad1 g6 18.b4 Qe7
+19.Rf2 Bg7 20.Bf1 Rd8 21.a3 Qh4 22.Rg2 c5 23.Qc2 cxd4 24.Bxd4
+Bxd4 25.Rxd4 a5 26.Qd1 axb4 27.axb4 Ra8 28.Rgd2 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Bad Pistyan"]
+[Site "Piestany CSR"]
+[Date "1922.04.17"]
+[EventDate "1922.??.??"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Alexey Sergeevich Selezniev"]
+[Black "Karel Hromadka"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "128"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 e6
+7. Bd3 Bd6 8. Bxd6 Qxd6 9. Nf3 Bd7 10. O-O O-O 11. Rc1 Rac8
+12. Qe2 Rfd8 13. Rfd1 Be8 14. Ne1 e5 15. dxe5 Qxe5 16. Nf3 Qh5
+17. Bc2 Bd7 18. Nd4 Qg5 19. Rd2 Re8 20. Nf3 Qh5 21. Rcd1 Be6
+22. Nd4 Bg4 23. f3 Ne5 24. Bb3 Be6 25. Nxe6 fxe6 26. e4 Nc4
+27. Rd4 Na5 28. Ba4 Nc6 29. R4d2 Kh8 30. exd5 exd5 31. Qf2 Re5
+32. Bxc6 bxc6 33. Qxa7 Rce8 34. Qf2 Qf5 35. b4 Re3 36. Ne2 Qe5
+37. Nd4 Qc7 38. Nc2 R3e5 39. a4 Nh5 40. g3 Nf6 41. Re1 h5
+42. Rxe5 Rxe5 43. a5 Re8 44. Rd3 Rf8 45. Qd4 Qd7 46. Kg2 Qf5
+47. Ne3 Qc8 48. h4 Qa6 49. Nc2 c5 50. bxc5 Qxa5 51. Qc3 Qa2
+52. Rd2 Rc8 53. c6 Qb1 54. Nd4 Qe1 55. Rc2 Qb1 56. Qd3 Qb6
+57. Qf5 Rc7 58. Qe5 Kh7 59. Qd6 Rc8 60. Ne6 Qb3 61. Rf2 Qc3
+62. c7 Re8 63. Nf8+ Rxf8 64. Qxf8 Qxc7 1/2-1/2

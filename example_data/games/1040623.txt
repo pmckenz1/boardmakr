@@ -1,0 +1,20 @@
+[Event "06, Wall Street Blitz 1-"]
+[Site "06, Wall Street Blitz 1-"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Roman Dzindzichashvili"]
+[Black "Alexander Shabalov"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.c4 b6 2.Nf3 Bb7 3.Nc3 e6 4.d3 Bb4 5.e4 Ne7 6.Be2 O-O 7.O-O
+f5 8.e5 d6 9.d4 Bxc3 10.bxc3 Qe8 11.Ba3 Qd7 12.Re1 Ng6 13.d5
+exd5 14.cxd5 Na6 15.e6 Qe7 16.c4 Nc5 17.Bb2 c6 18.Qd4 cxd5
+19.cxd5 Rac8 20.Rac1 a5 21.h4 Ne4 22.Bd3 Rc5 23.Bxe4 fxe4
+24.Rxc5 bxc5 25.Qxe4 Rf4 26.Qd3 Rg4 27.g3 h5 28.Qf5 Nf4 29.Ng5
+Rxg5 30.hxg5 Nxd5 31.g6 Nf6 32.Bxf6 gxf6 33.Qxh5 Bc6 34.Rb1
+Qc7 35.Rb8+ 1-0

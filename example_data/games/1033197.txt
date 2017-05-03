@@ -1,0 +1,17 @@
+[Event "10s, BL"]
+[Site "10s, BL Hiarcs 7.32"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Helmut Pfleger"]
+[ECO "B17"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+
+Nxf6 7. Ne5 Be6 8. Be2 g6 9. O-O Bg7 10. c3 O-O 11. Nd3 Bc4
+12. Ne5 Bxe2 13. Qxe2 Nd7 14. Bf4 Nxe5 15. Bxe5 Bxe5 16. Qxe5
+e6 17. Rfe1 Qd5 18. Kf1 1/2-1/2

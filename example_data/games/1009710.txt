@@ -1,0 +1,21 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Mikhail Gluzman"]
+[Black "Adrian Carl Chek"]
+[ECO "B14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 g6
+7. Qb3 Na5 8. Qc2 Bf5 9. Qd1 Nxc4 10. Ne5 Bg7 11. g4 Be6
+12. g5 Nd7 13. Nxc4 dxc4 14. d5 Bf5 15. Bxc4 Rc8 16. Be2 Ne5
+17. Qa4+ Nd7 18. Be3 O-O 19. O-O Ne5 20. Rfd1 a6 21. Qh4 b5
+22. d6 e6 23. d7 Nxd7 24. a4 b4 25. Ne4 Bxe4 26. Qxe4 Qe7
+27. Qb7 Rfd8 28. Bxa6 Rb8 29. Qc7 Be5 30. Rxd7 Bxh2+ 31. Kxh2
+Qxd7 32. Qxd7 Rxd7 33. a5 Ra8 34. Bf1 Kf8 35. a6 Ke8 36. Bb5
+1-0

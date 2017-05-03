@@ -1,0 +1,15 @@
+[Event "Trnava-A"]
+[Site "Trnava-A"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Jan Smejkal"]
+[Black "Yuri Balashov"]
+[ECO "D55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1.c4 Nf6 2.Nf3 e6 3.Nc3 d5 4.d4 Be7 5.Bg5 O-O 6.e3 h6 7.Bxf6
+Bxf6 8.Rc1 c6 9.Bd3 Nd7 10.O-O a6 11.Qe2 b5 12.cxd5 1/2-1/2

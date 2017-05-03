@@ -1,0 +1,21 @@
+[Event "Ostende-B"]
+[Site "Ostend BEL"]
+[Date "1907.06.03"]
+[EventDate "?"]
+[Round "14"]
+[Result "0-1"]
+[White "Georg Schories"]
+[Black "Oldrich Duras"]
+[ECO "C88"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Bg4 9.h3 Bh5 10.a4 O-O 11.d3 Na5 12.Bc2 c5 13.Nbd2 Qc7
+14.Nf1 b4 15.Ne3 Rab8 16.Bd2 b3 17.Bb1 Rfd8 18.g4 Bg6 19.g5
+Ne8 20.Nd5 Qd7 21.Nh4 Nc7 22.Nxe7+ Qxe7 23.Qg4 Ne6 24.Nf5 Qf8
+25.h4 Re8 26.h5 Bxf5 27.exf5 Nc7 28.Kh2 d5 29.Rg1 Nc6 30.g6
+fxg6 31.fxg6 Ne6 32.d4 e4 33.f4 cxd4 34.c4 d3 35.cxd5 Ned4
+36.Bc3 Nf3+ 37.Qxf3 exf3 38.gxh7+ Kh8 39.Rg3 Re2+ 40.Kg1 Rg2+
+41.Rxg2 fxg2 42.Bxd3 Qxf4 43.Kxg2 Ne5 0-1

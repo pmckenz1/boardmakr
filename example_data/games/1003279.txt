@@ -1,0 +1,22 @@
+[Event "Barmen Main A, GER"]
+[Site "Barmen Main A GER"]
+[Date "1905.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Wilhelm Kunze"]
+[Black "Dirk Bleijkmans"]
+[ECO "A80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "82"]
+
+1. d4 f5 2. Bg5 Nf6 3. Nc3 d5 4. e3 e6 5. Bd3 c5 6. Bb5+ Bd7
+7. Qe2 a6 8. Bxd7+ Nbxd7 9. Nf3 Qc7 10. Ne5 Bd6 11. f4 O-O
+12. O-O b5 13. Nxd7 Qxd7 14. Bxf6 Rxf6 15. Qf3 Rc8 16. Ne2 c4
+17. c3 a5 18. a3 Rb8 19. Kh1 Rh6 20. Ng1 g5 21. g4 Rh4
+22. gxf5 gxf4 23. Rf2 fxe3 24. Rg2+ Kh8 25. Qxe3 exf5 26. Qg5
+Qe7 27. Qxf5 Rf8 28. Qc2 Rf6 29. Rd1 Bf4 30. Nf3 Rh5 31. Rdg1
+Rf8 32. Rg7 Qe4 33. Qxe4 dxe4 34. h4 exf3 35. R7g4 Bg5 36. Rf1
+Rxh4+ 37. Rxh4 Bxh4 38. Kh2 f2 39. Kh3 Bg5 40. Kg2 Be3 41. Rd1
+Rg8+ 0-1

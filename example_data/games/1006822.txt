@@ -1,0 +1,19 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.19"]
+[EventDate "1920.08.02"]
+[Round "13"]
+[Result "0-1"]
+[White "R Svanberg"]
+[Black "Aage Kier"]
+[ECO "D32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Na4 Nc6 7.Bd2
+Nf6 8.Nf3 Be7 9.g3 Ne4 10.b4 Bf6 11.Bg2 O-O 12.O-O Bg4 13.Rb1
+Bf5 14.Rc1 Qd7 15.a3 Rfd8 16.Nb2 Nc3 17.Bxc3 dxc3 18.Qxd7 Rxd7
+19.Nc4 c2 20.Ne3 Bb2 21.Rxc2 Bxc2 22.Nxc2 Rad8 23.b5 Na5 24.e3
+Rd3 25.Ncd4 Rxa3 26.c6 bxc6 27.Nxc6 Nxc6 28.bxc6 Rad3 29.h3
+Rd1 30.Ne1 a5 0-1

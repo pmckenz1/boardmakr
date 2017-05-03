@@ -1,0 +1,20 @@
+[Event "Cup Doeberl, Canberra (Australia)"]
+[Site "Cup Doeberl, Canberra (Australia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Narelle Szuveges"]
+[Black "Peter Jovanovic"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 a6
+7. N5c3 b5 8. a3 Qa5 9. Nd2 e4 10. Nb3 Qd8 11. Qd4 Be7 12. Bf4
+Bb7 13. Rd1 Bd6 14. Bxd6 Qxd6 15. Nxe4 Nxe4 16. Qxe4+ Kf8
+17. Qb4 Qxb4+ 18. axb4 Nd7 19. Nc5 Bc8 20. e4 Ke7 21. Be2 Re8
+22. f4 Kf8 23. e5 Nb6 24. Kf2 Bd7 25. Bf3 Ra7 26. Rc1 a5
+27. bxa5 Rxa5 28. Nxd7+ Nxd7 29. Rc7 Nb6 30. Rhc1 Ra2 31. R1c2
+Nc4 32. Be2 Nxb2 33. Bxb5 Rea8 34. Rc8+ Rxc8 35. Rxc8+ 1-0

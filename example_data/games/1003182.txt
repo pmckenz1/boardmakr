@@ -1,0 +1,21 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.25"]
+[EventDate "1905.08.14"]
+[Round "11"]
+[Result "0-1"]
+[White "John Washington Baird"]
+[Black "Benjamin Leussen"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. O-O d6 6. d3 Nf6
+7. Be3 O-O 8. h3 Na5 9. Bb3 Ne8 10. e5 Nxb3 11. axb3 f5
+12. Qd2 b6 13. exd6 Qxd6 14. Bh6 Bb7 15. Bxg7 Nxg7 16. Qe2 Ne6
+17. Rfe1 Rf6 18. Nb5 Qd7 19. c4 a6 20. Nc3 Kf8 21. Ne5 Qd6
+22. Qd2 Nd4 23. Qh6+ Kg8 24. Ra3 Nc2 25. Re2 Nxa3 26. bxa3 Re6
+27. f4 Qd4+ 28. Kh2 Qxc3 29. Re3 Qd2 30. Rg3 Rxe5 31. Rxg6+
+hxg6 32. Qxg6+ Kf8 33. Qh6+ Ke8 34. Qg6+ Kd7 35. fxe5 Qxg2+
+0-1

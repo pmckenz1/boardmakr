@@ -1,0 +1,24 @@
+[Event "Stary Smokovec"]
+[Site "Stary Smokovec"]
+[Date "1981.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Ivan Novak"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.Qa4+ c6 6.Qd4 Rg8
+7.e4 Bg7 8.Qa4 Nb6 9.Qc2 e5 10.b3 Bg4 11.Be2 Na6 12.Bxa6 bxa6
+13.d3 Bxf3 14.gxf3 Qf6 15.Ke2 O-O-O 16.Be3 Bf8 17.Na4 Kb7
+18.Nc5+ Bxc5 19.Qxc5 Qd6 20.Qxd6 Rxd6 21.Rac1 Rgd8 22.Rc3 Na8
+23.f4 exf4 24.Bxf4 Re6 25.h4 Nc7 26.Bxc7 Kxc7 27.h5 g5 28.Rc5
+Rd5 29.Rhc1 Kb6 30.b4 h6 31.Ke3 Kb7 32.f3 Kb6 33.d4 f6 34.Kd3
+Rd7 35.R1c3 Kb7 36.Ke3 Red6 37.R3c4 Re7 38.f4 Rde6 39.e5 f5
+40.d5 cxd5 41.Rxd5 Rg7 42.Rcd4 Ree7 43.Kf3 g4 44.Kg3 Rc7 45.e6
+Rc3+ 46.Rd3 Rxd3+ 47.Rxd3 Kc6 48.Re3 Kd6 49.Re5 a5 50.b5 a4
+51.Rxf5 Kxe6 52.Rc5 Kf6 53.a3 Ke6 54.f5+ Kf6 55.Kf4 Rg5
+56.Rc6+ Kf7 57.Rxh6 g3 58.Kxg5 1-0

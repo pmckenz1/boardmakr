@@ -1,0 +1,15 @@
+[Event "07.DSB-Kongress"]
+[Site "Dresden GER"]
+[Date "1892.07.22"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Joseph Henry Blackburne"]
+[Black "Siegbert Tarrasch"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O g6 6.Nc3 h6 7.h3 Bg7
+8.Be3 O-O 9.Qe2 Be6 10.Rad1 Qe7 11.Nh2 1/2-1/2

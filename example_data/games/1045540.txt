@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.07"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Lubomir Ftacnik"]
+[Black "James Tarjan"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 d5 5. Nc3 Bb7 6. cxd5 exd5
+7. g3 Be7 8. Qa4+ c6 9. Bg2 O-O 10. O-O Nbd7 11. Rd1 Re8
+12. Bf4 Nh5 13. Bd2 Bd6 14. b4 a6 15. Nh4 Ndf6 16. Nf5 Bc7
+17. Qc2 Qd7 18. Rac1 g6 19. Nh4 Rac8 20. Nf3 Ng7 21. Ne5 Qe6
+22. Nd3 Qe7 23. Bh3 Ne6 24. e3 Rcd8 25. f4 Bc8 26. Bg2 Bb7
+27. Qb3 b5 28. Ne5 Nd7 29. Nxd7 Rxd7 30. Be1 Rdd8 31. Bf2 f5
+32. Ne2 Bd6 33. Rc3 Kg7 34. Nc1 Nf8 35. Nd3 Nd7 36. Ne5 Rc8
+37. Rdc1 Nxe5 38. fxe5 Bb8 39. Qb1 Qe6 40. g4 fxg4 41. Bh4 Rf8
+42. Rf1 Rxf1+ 43. Qxf1 Rf8 44. Bf6+ Kg8 45. Rc2 Bc7 46. Qf4
+Bd8 47. Rf2 Bc8 48. Bf1 h6 49. Bd3 g5 50. Qg3 Bxf6 51. Bf5
+Qxf5 52. Rxf5 Bxf5 53. exf6 Rxf6 54. Qe5 Kf7 55. Qc7+ Kg6
+56. Qd8 Kf7 57. Qc7+ Kf8 1/2-1/2

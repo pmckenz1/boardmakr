@@ -1,0 +1,20 @@
+[Event "9, OHRA-B Amsterdam (10s)"]
+[Site "9, OHRA-B Amsterdam Hiarcs 7.32 (10s)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fernando Braga"]
+[Black "Gert-Jan de Boer"]
+[ECO "B83"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7
+7. O-O O-O 8. f4 Nc6 9. Be3 Qc7 10. Kh1 Nxd4 11. Qxd4 a6
+12. a4 Bd7 13. e5 Ne8 14. Ne4 Bc6 15. Bd3 Rd8 16. Qa7 f5
+17. Bb6 Qb8 18. Qxb8 Rxb8 19. exd6 Nxd6 20. Nc5 Rf6 21. Rfe1
+Kf7 22. Rad1 Rg8 23. Bc7 Ne8 24. Nxe6 Rxe6 25. Rxe6 Nxc7
+26. Re5 Rf8 27. Rxf5+ Bf6 28. Bc4+ Ke7 29. b3 g6 30. Rc5 Bg7
+31. b4 Rxf4 32. b5 Rxc4 33. bxc6 Rb4 34. Rd7+ 1-0

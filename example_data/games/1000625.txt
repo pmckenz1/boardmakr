@@ -1,0 +1,49 @@
+[Event "Karlsbad"]
+[Site "Karlsbad"]
+[Date "1911.08.22"]
+[EventDate "1911.08.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Akiba Rubinstein"]
+[Black "Oldrich Duras"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.c4 {Notes by Nimzowitsch} e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O
+5.Nf3 Re8 6.O-O Nc6 {The exchange ...Bxc3 was to be
+considered.} 7.Nd5 Bf8 8.d3 h6 9.b3 d6 10.Bb2 Nxd5 11.cxd5 Ne7
+12.e4 c5 {In the long run something must be done for the
+c-Pawn.} 13.dxc6 Nxc6 14.d4 Bg4 15.d5 Ne7 {We have now got our
+Pawn chain, and the Black base, the pawn at d6, already seems
+exposed (from the side), just as if the typical attack had
+been made on it by c4-c5-cxd ...cxd.} 16.Qd3 Qd7 17.Nd2 {The
+Knight is already being sent forward to the attack on the
+exposed base.} Bh3 18.a4 {To safeguard the Knight position on
+c4.} Bxg2 19.Kxg2 Reb8 20.Nc4 b5 21.axb5 Qxb5 22.Ra3 {In this
+and similar positions the question arises, which Pawn is the
+weaker, White's b-Pawn or Black's a-Pawn? In the present case
+this problem could be solved by logical deduction. Since
+Black's Pawn at d6 is weaker than White's Pawn at d5, a like
+relation must exist throughout what remains of the Queen's
+wing. Were this not the case then White's a4 must have been
+wrong, and that is unlikely. Was he in fact not justified in
+supporting2 his own important Knight at c4? But that would be
+absurd. No, Nc4 was indicated, similarly a4; hence ... b5 must
+have led to a less favorable position for Black. And the
+course of the game proves the correctness of this judgement.}
+Ng6 {...Nc8 would perhaps have been better.} 23.Rfa1 a6 24.Bc1
+Rb7 25.Be3 f6 26.f3 {If Black could manage to play ...f5, his
+position would not be so bad. But this is out of the question,
+and Black is besieged.} Ne7 27.Qf1 {Threatening Nxd6.} Nc8
+28.Nd2 Qb4 29.Qc4 Qxc4 30.Nxc4 Rab8 31.Nd2 Rc7 32.Rxa6 {The
+masterly and varied uses made of the points d2 and c4 should
+be noted.} Rc2 33.R6a2 Rxa2 34.Rxa2 {The rest of the game
+which consists of bringing the King to the center followed by
+an advance in close order of the fighting unit Bishop, Knight
+and King is easily intelligible.} Be7 35.Kf2 Kf7 36.Ke2 Ke8
+37.Kd3 Kd7 38.Kc3 Bd8 39.Nc4 {c3 is our shelter.} Bc7 40.g4
+Bd8 41.Ra6 Bc7 42.h4 Bd8 43.h5 Bc7 44.b4 Rb7 45.Ra8 Kd8 46.Kb3
+Rb8 47.Rxb8 Bxb8 48.b5 Ne7 49.b6 f5 {There is nothing left to
+hope for.} 50.gxf5 Ng8 51.Bf2 Kc8 52.Bh4 1-0

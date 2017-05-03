@@ -1,0 +1,30 @@
+[Event "London"]
+[Site "London"]
+[Date "1888.11.22"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Henry Edward Bird"]
+[Black "Joseph Henry Blackburne"]
+[ECO "A02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "66"]
+
+1.f4 {Notes by Blackburne.} e5 2.fxe5 d6 3.exd6 Bxd6 4.Nf3 Nf6
+{Nh6 answered very well in a previous game whivh I played with
+Mr. Bird, and was also played by Herr Zukertort on several
+occasions.} 5.d4 {He has here the choice of three moves, the
+other two being c3 and d3.} Ng4 6.Bg5 f6 7.Bh4 g5 8.Bf2 Nxf2
+9.Kxf2 g4 10.Nh4 f5 11.g3 f4 12.Qd3 {Better than e4.} O-O
+13.Ke1 Nc6 14.Nd2 Qe7 {Black could here win a Pawn, but it
+would lead to a tremenous attack on the exposed King's wing.}
+15.c3 Bd7 16.Ne4 {The following outlet from this cramped
+position has been suggested 16.e4 fxe3 17.Ne4 Rae8 18.Bg2.}
+Rae8 17.Nxd6 cxd6 18.Rd1 {Kd2 was imperative.} Qg5 {To hinder
+the King's escape to safer quarters.} 19.Qd2 Qd5 20.Ng2 f3
+21.Nf4 fxe2 {If 21...f2+ 22.Kxf2 Qxh1 23.Bg2 Qxh2 24.Rh1
+winning the Queen.} 22.Bg2 exd1=Q+ 23.Kxd1 {The loss of the
+Rook is decisive.} Qf5 24.Kc1 Ne7 25.h3 Qg5 26.hxg4 Bxg4
+27.Bxb7 Ng6 28.Bd5+ Kh8 29.Bc6 Re7 30.Rf1 Nxf4 31.gxf4 Re2
+32.Qxe2 Bxe2 33.fxg5 Bxf1 0-1

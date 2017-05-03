@@ -1,0 +1,17 @@
+[Event "Ch Hungary (team) 1993/94"]
+[Site "Hungary"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Istvan Bilek"]
+[Black "Zoltan Varga"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.d4 g6 5.O-O cxd4 6.Nxd4 Bg7 7.Nb3
+e6 8.c4 dxc4 9.Qxd8+ Kxd8 10.Bxc6 bxc6 11.Rd1+ Kc7 12.Nc5 Ne7
+13.e4 Rd8 14.Bf4+ e5 15.Rxd8 Kxd8 16.Bd2 Rb8 17.Na3 Rxb2
+1/2-1/2

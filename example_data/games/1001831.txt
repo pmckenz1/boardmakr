@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1883.05.01"]
+[EventDate "1883.04.26"]
+[Round "4"]
+[Result "1/2-1/2"]
+[White "Alexander G Sellman"]
+[Black "Berthold Englisch"]
+[ECO "C77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. e5 Ne4
+7. O-O Nc5 8. Bxc6 dxc6 9. Nxd4 Ne6 10. Nf5 Qxd1 11. Rxd1 g6
+12. Ng3 Bg7 13. f4 O-O 14. Ne4 f6 15. exf6 Bxf6 16. Nxf6+ Rxf6
+17. g3 Ng7 18. b3 Bg4 19. Re1 Rd8 20. Bb2 Re6 21. Be5 Ne8
+22. Na3 b5 23. c3 Rd2 24. Nb1 Rb2 25. Rf1 Re2 26. Na3 Nd6
+27. Rf2 Rxf2 28. Kxf2 Nf7 29. Re1 Nxe5 30. fxe5 Bf5 31. Kf3 h5
+32. Kf4 Kf7 33. Nb1 Re8 34. Nd2 Rd8 35. Nf3 c5 36. h4 Rd3
+37. Rc1 Ke7 1/2-1/2

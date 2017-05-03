@@ -1,0 +1,23 @@
+[Event "Delmenhorst (Germany)"]
+[Site "It"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gerardo F Barbero"]
+[Black "Kai Wesseln"]
+[ECO "A61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Nd2
+Nbd7 8.e4 Bg7 9.Be2 O-O 10.O-O Re8 11.Qc2 Ne5 12.a4 g5 13.Nc4
+Nxc4 14.Bxc4 Nh5 15.Ne2 Qf6 16.Ra3 Qg6 17.Ng3 Nf4 18.f3 Be5
+19.Kh1 Qh6 20.Qf2 Kh8 21.Rb3 Rg8 22.Bd2 b6 23.Re1 Qh4 24.Kg1
+Rg6 25.Nf1 Qh5 26.Kh1 g4 27.fxg4 Rxg4 28.Rg3 Bd7 29.Rxg4 Qxg4
+30.Ne3 Qg6 31.Nf5 Re8 32.b3 Nh5 33.Bb5 Bxb5 34.axb5 Nf6 35.h3
+Nh5 36.g4 Nf6 37.Qf3 Nd7 38.g5 f6 39.Rg1 fxg5 40.Bxg5 Qf7
+41.Bf4 Rf8 42.Bxe5+ Nxe5 43.Qg3 Qf6 44.Nxd6 Ng6 45.Nf5 Re8
+46.Re1 Re5 47.Nh6 Rh5 48.Ng4 Qg7 49.Qb8+ Nf8 50.Rf1 Rxh3+
+51.Nh2 1-0

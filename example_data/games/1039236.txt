@@ -1,0 +1,16 @@
+[Event "It (cat.9)"]
+[Site "Tbilisi (Georgia)"]
+[Date "1989.??.??"]
+[EventDate "?"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Valery Neverov"]
+[Black "Alexey Dreev"]
+[ECO "D43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1.Nf3 d5 2.c4 c6 3.d4 Nf6 4.Nc3 e6 5.cxd5 exd5 6.Bg5 Be7 7.Qc2
+Nbd7 8.e3 O-O 9.Bd3 Re8 10.O-O Nf8 11.Ne5 Ng4 12.Bxe7 Qxe7
+13.Nxg4 1/2-1/2

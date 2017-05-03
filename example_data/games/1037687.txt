@@ -1,0 +1,31 @@
+[Event "Chess Olympiad"]
+[Site "Dubai UAE"]
+[Date "1986.11.24"]
+[EventDate "?"]
+[Round "9"]
+[Result "1-0"]
+[White "Constantin Ionescu"]
+[Black "Lawrence Day"]
+[ECO "A55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "187"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 Nbd7 4.Nc3 e5 5.e4 c6 6.Be2 Be7 7.O-O
+O-O 8.Rb1 a6 9.b4 b5 10.c5 Qc7 11.dxe5 dxe5 12.Qb3 Nh5 13.Re1
+Ndf6 14.h3 Be6 15.Qc2 g6 16.Bf1 Nd7 17.Bh6 Rfd8 18.g3 f6
+19.Rbd1 Nf8 20.Be3 Bf7 21.Kh2 Be6 22.Rxd8 Rxd8 23.a4 Qb8
+24.Qb2 Rd7 25.Ra1 Rb7 26.axb5 axb5 27.Ra6 Qc7 28.Qa1 Ng7
+29.Nb1 Ne8 30.Nbd2 Nd7 31.Ne1 Nb8 32.Ra8 g5 33.Nd3 Qd7 34.Nc1
+Nc7 35.Ra3 Qe8 36.Ne2 Qf7 37.Ng1 Bf8 38.Ngf3 Qd7 39.Ne1 Nca6
+40.Nd3 Ra7 41.Nf3 Qc8 42.Bd2 Bc4 43.Nb2 Bf7 44.Nd1 Rd7 45.Ne3
+Bh5 46.Qa2+ Kh8 47.Be2 Bf7 48.Qc2 Be6 49.Bf1 Qd8 50.Qb2 Bg7
+51.Bc3 Qe8 52.Be2 h5 53.Nd2 g4 54.Qa1 Nc7 55.h4 Qg6 56.Qb1 Bh6
+57.Ndf1 Bxe3 58.Nxe3 Nd5 59.Nxd5 Bxd5 60.Bd3 Bg8 61.Ra8 Rd8
+62.Bc2 Qe8 63.Qc1 Kg7 64.Qe3 Nd7 65.Ra6 Nf8 66.Bd2 Nh7 67.Bc1
+Bf7 68.Bb3 Bxb3 69.Qxb3 Kh8 70.Bh6 Qg6 71.Qe3 Qe8 72.Ra7 Rd7
+73.Qa3 Nf8 74.Bxf8 Rxa7 75.Qxa7 Qxf8 76.Qd7 Qa8 77.Qf7 Qd8
+78.Qxh5+ Kg7 79.Qxg4+ Kh6 80.h5 Qe8 81.Qg6+ Qxg6 82.hxg6 Kxg6
+83.Kh3 Kg5 84.f3 Kh5 85.f4 Kh6 86.Kh4 Kg6 87.f5 Kh6 88.g4 Kh7
+89.Kh5 Kg7 90.g5 Kh7 91.gxf6 Kh8 92.Kh6 Kg8 93.Kg6 Kh8 94.Kf7
+1-0

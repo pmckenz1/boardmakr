@@ -1,0 +1,20 @@
+[Event "Boblingen op"]
+[Site "Boeblingen GER"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Andrei Kovalev"]
+[Black "Alexander Baburin"]
+[ECO "B92"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O O-O 9.Be3 Be6 10.Qd2 Nbd7 11.a4 b6 12.f4 Qc7 13.Rad1
+Rfc8 14.Kh1 Bc4 15.Nc1 Bxe2 16.N1xe2 Qc6 17.Ng3 Bf8 18.Qe2 b5
+19.axb5 axb5 20.fxe5 dxe5 21.Nf5 Kh8 22.Nd5 Qxc2 23.Qf3 Qxe4
+24.Qxe4 Nxe4 25.Nfe7 Rc2 26.Rxf7 Ndf6 27.Nxf6 Nxf6 28.b4 Ng4
+29.Bg1 Nh6 30.Rxf8+ Rxf8 31.h3 Re8 32.Rd7 e4 33.Bd4 Rd2 34.Nc6
+e3 35.Bxg7+ Kg8 36.Be5 Nf5 0-1

@@ -1,0 +1,24 @@
+[Event "Titovo Uzice"]
+[Site "Titovo Uzice YUG"]
+[Date "1978.06.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Vlastimil Jansa"]
+[ECO "A77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "111"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.e4
+Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Nbd7 11.a4 a6 12.Ra3 Rb8 13.a5
+Qe7 14.Nc4 b5 15.axb6 Nxb6 16.Na5 Qc7 17.Qc2 Ra8 18.h3 Nfd7
+19.Rd1 c4 20.Be3 Nc5 21.Nxc4 Nxc4 22.Bxc4 Rb8 23.Bxc5 Qxc5
+24.Bxa6 Bd7 25.Bd3 Qb4 26.Ra7 Red8 27.Ra2 Rdc8 28.Qd2 Qb3
+29.Rda1 h5 30.Qd1 Qb4 31.Qf3 Bd4 32.Ba6 Rc7 33.Bf1 Kg7 34.Rd1
+Be5 35.Qe3 Qb3 36.Rda1 Qb4 37.g3 Rcb7 38.Kg2 Qd4 39.Qxd4 Bxd4
+40.Rd1 Bf6 41.Rd2 Rb3 42.Rc2 R3b4 43.h4 R8b7 44.Be2 Be5 45.Rd2
+Kf8 46.f3 Ke7 47.Nd1 Ba4 48.Nf2 Rxb2 49.Rdxb2 Rxb2 50.Rxa4
+Rxe2 51.f4 Bc3 52.Kf3 Rb2 53.e5 dxe5 54.Ra7+ Ke8 55.Ne4 Rb3
+56.Ra8+ 1-0

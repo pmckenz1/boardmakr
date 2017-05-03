@@ -1,0 +1,18 @@
+[Event "Kecskemet (Hungary)"]
+[Site "Kecskemet (Hungary)"]
+[Date "1990.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "1-0"]
+[White "Joseph G Gallagher"]
+[Black "Istvan Bilek"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Nc3 Qa5 5.Be3 Nf6 6.Qd2 Nc6 7.d5
+Nb4 8.e5 Ng4 9.Bf4 f6 10.exf6 Nxf6 11.Bc4 b5 12.Nxb5 Ne4
+13.Qe2 O-O 14.Bc7 Nxc2+ 15.Kf1 Qa4 16.d6+ e6 17.Qxe4 Nd4 18.b3
+Qb4 19.Nbxd4 cxd4 20.a3 Qb7 21.Qxb7 Bxb7 22.Bd3 Rf4 23.Nd2
+Raf8 24.f3 Bh6 25.Ke2 Rh4 26.Ne4 Be3 27.Raf1 1-0

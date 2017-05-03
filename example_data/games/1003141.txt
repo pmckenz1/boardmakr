@@ -1,0 +1,27 @@
+[Event "Barmen Meisterturnier B"]
+[Site "Barmen GER"]
+[Date "1905.08.19"]
+[EventDate "1905.08.14"]
+[Round "6"]
+[Result "0-1"]
+[White "A H Pettersson"]
+[Black "Wilhelm Schwan"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 c6 6. Bd2
+Qc7 7. Qe2 Bg4 8. Nf3 e6 9. h3 Bxf3 10. Qxf3 Nbd7 11. Bb3
+O-O-O 12. O-O-O Nc5 13. Kb1 Nxb3 14. axb3 Bb4 15. Qg3 Qe7
+16. Rhg1 h6 17. Qf4 Rd7 18. Nb5 Bd6 19. Nxd6+ Qxd6 20. Qxd6
+Rxd6 21. Bc3 Ne8 22. Rge1 Rg8 23. Be5 Rd7 24. f3 f6 25. Bg3 e5
+26. Re2 Nc7 27. Bf2 b6 28. Re4 Nd5 29. g3 Nc7 30. Ra4 Kb7
+31. Re4 Rgd8 32. Re2 c5 33. Kc1 Ne6 34. f4 Nc7 35. fxe5 Re8
+36. Rde1 Rde7 37. g4 Nb5 38. Re4 fxe5 39. Bg3 Nd4 40. Bxe5 Nf3
+41. Bd6 Rxe4 42. Rxe4 Rxe4 43. dxe4 g6 44. Bf8 h5 45. gxh5
+gxh5 46. Be7 Kc6 47. Kd1 Kd7 48. Bf6 Ke6 49. e5 Kf5 50. c3 Ng1
+51. h4 Nf3 52. Ke2 Nxe5 53. Bxe5 Kxe5 54. Ke3 b5 55. c4 b4
+56. Kf3 Kf5 57. Ke3 Kg4 58. Kf2 Kxh4 59. Kf3 Kg5 60. Kg3 h4+
+61. Kh3 a6 62. Kh2 Kg4 63. Kg2 Kf4 64. Kh3 Ke3 65. Kxh4 Kd3
+66. Kg4 Kc2 0-1

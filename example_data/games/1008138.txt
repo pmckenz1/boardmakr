@@ -1,0 +1,20 @@
+[Event "Hastings 1936/37"]
+[Site "Hastings (ENG)"]
+[Date "1937.01.05"]
+[EventDate "1936.12.28"]
+[Round "8"]
+[Result "1-0"]
+[White "Erich Eliskases"]
+[Black "George Alan Thomas"]
+[ECO "C71"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4 Bd7 6.d4 Nxd4 7.Nxd4
+exd4 8.Bxd7+ Qxd7 9.Qxd4 Ne7 10.O-O Nc6 11.Qc3 Qg4 12.f3 Qg6
+13.Qb3 Rb8 14.Nc3 Be7 15.Nd5 Bd8 16.Bd2 O-O 17.Bc3 Ne7 18.Nb4
+Ra8 19.Nd3 b6 20.Rae1 c5 21.f4 f5 22.Rf3 Qe6 23.exf5 Qxf5
+24.g4 Qd7 25.f5 Nc6 26.Nf4 Bf6 27.Ne6 Bxc3 28.Qxc3 Ne5 29.Nxf8
+Nxf3+ 30.Qxf3 Rxf8 31.Qd5+ Qf7 32.Re6 Rd8 33.g5 Kf8 34.g6 hxg6
+35.fxg6 Qf4 36.Re2 Qd4+ 37.Rf2+ 1-0

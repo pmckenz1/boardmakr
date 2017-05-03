@@ -1,0 +1,20 @@
+[Event "Barmen Meisterturnier A"]
+[Site "Barmen GER"]
+[Date "1905.08.21"]
+[EventDate "1905.08.14"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Hugo Suechting"]
+[Black "Paul Saladin Leonhardt"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Re1
+Nd6 7. Bxc6 dxc6 8. Nxe5 O-O 9. Nd2 f6 10. Nd3 Bf5 11. Nc5 Re8
+12. c3 Bf8 13. Nf1 b6 14. Nb3 Qd7 15. Bf4 Rxe1 16. Qxe1 Re8
+17. Qd1 g5 18. Bg3 Ne4 19. Nbd2 Nxg3 20. Nxg3 Bg6 21. Nf3 Bd6
+22. Qf1 h5 23. Qc4+ Bf7 24. Qd3 Bxg3 25. hxg3 Kg7 26. b3 a5
+27. Rd1 a4 28. c4 Bg6 29. Qd2 axb3 30. axb3 Be4 31. Re1 Bxf3
+32. Rxe8 1/2-1/2

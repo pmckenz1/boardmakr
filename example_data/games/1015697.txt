@@ -1,0 +1,20 @@
+[Event "Budapest HUN ch"]
+[Site "Budapest HUN"]
+[Date "1974.12.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Ivan Farago"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "75"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.c3 c5 6.f4 Nc6 7.Ndf3
+Qa5 8.Be3 cxd4 9.Nxd4 Nxd4 10.Bxd4 Nb8 11.Nf3 Nc6 12.Bd3 Bd7
+13.Be3 f5 14.b4 Qc7 15.O-O Be7 16.a3 O-O 17.Ra2 Be8 18.c4 d4
+19.Nxd4 Nxd4 20.Bxd4 a5 21.Rb2 Rd8 22.Be3 b5 23.Qc2 axb4
+24.axb4 Rxd3 25.Qxd3 bxc4 26.Qc3 Bb5 27.Ra2 Qc6 28.Ra7 Bh4
+29.Rd1 Qe4 30.Qd4 Qc2 31.Qd2 Qe4 32.Bc5 Bc6 33.Ra3 Rd8 34.Bd6
+Bf6 35.Re1 c3 36.Rxe4 cxd2 37.Rd4 g5 38.exf6 1-0

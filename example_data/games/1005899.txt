@@ -1,0 +1,20 @@
+[Event "Corus"]
+[Site "NED"]
+[Date "2000.01.24"]
+[EventDate "2000.01.21"]
+[Round "4"]
+[Result "0-1"]
+[White "Daniel Stellwagen"]
+[Black "Dirk Daniel van Geet"]
+[ECO "A40"]
+[WhiteElo "2265"]
+[BlackElo "2346"]
+[PlyCount "70"]
+
+1. e4 Na6 2. d4 c6 3. f4 d5 4. e5 Nc7 5. Nf3 Bg4 6. Bd3 Qd7
+7. h3 Bf5 8. O-O e6 9. Be2 Be7 10. Nbd2 h5 11. Rf2 h4 12. Nf1
+Nh6 13. Ne3 O-O-O 14. b3 Be4 15. a4 Nf5 16. Nxf5 exf5 17. Be3
+Ne6 18. c3 Rdg8 19. c4 Kb8 20. c5 g5 21. Nxg5 Nxg5 22. fxg5
+Bxg5 23. Bxg5 Rxg5 24. Bf3 Rhg8 25. Raa2 Qe6 26. b4 Rg3
+27. Kh1 f4 28. Qf1 Qg6 29. Kh2 Bd3 30. Be2 Bf5 31. Bg4 Bxg4
+32. hxg4 h3 33. gxh3 Qxg4 34. Rxf4 Rxh3+ 35. Qxh3 Qg1# 0-1

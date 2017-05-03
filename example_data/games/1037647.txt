@@ -1,0 +1,18 @@
+[Event "7, Ottawa CAN ch"]
+[Site "Ottawa CAN"]
+[Date "1984.07.??"]
+[EventDate "?"]
+[Round "7"]
+[Result "0-1"]
+[White "Rob Hawkes"]
+[Black "Lawrence Day"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 b6 2.Nc3 Bb7 3.Bc4 e6 4.Qe2 a6 5.Nf3 b5 6.Bb3 c5 7.d3 Nc6
+8.a4 Nd4 9.Nxd4 cxd4 10.Nb1 Rc8 11.Bd2 Bc5 12.O-O Qc7 13.Qg4
+g6 14.axb5 axb5 15.Na3 Qb6 16.Qf4 Bd6 17.Qg5 Rc5 18.Qg4 Rh5
+19.h3 f5 20.Qe2 fxe4 21.dxe4 Nf6 22.c4 Nxe4 23.Nxb5 Bb8 24.Bc2
+Nf6 25.Bb4 Rg5 26.g3 d3 0-1

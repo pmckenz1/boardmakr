@@ -1,0 +1,24 @@
+[Event "It (open) Biel (Switzerland)"]
+[Site "Biel SUI"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Alexander Baburin"]
+[Black "Julian Michael Hodgson"]
+[ECO "A41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "109"]
+
+1.d4 d6 2.Nf3 Bg4 3.c4 Nd7 4.d5 a5 5.Nc3 g6 6.Nd4 Nc5 7.f3 Bd7
+8.e4 e5 9.dxe6 fxe6 10.Be3 Bh6 11.Bf2 e5 12.Ndb5 Nf6 13.Nd5
+Nxd5 14.cxd5 O-O 15.Nc3 a4 16.Be2 Qg5 17.O-O a3 18.h4 Qd2
+19.Qxd2 Bxd2 20.Rad1 Bxc3 21.bxc3 Na4 22.Rc1 b5 23.Rc2 Nb2
+24.Rb1 Nc4 25.Rb4 Rfb8 26.Rc1 Kf7 27.Kf1 h6 28.Ke1 g5 29.Rcb1
+Nb2 30.Be3 gxh4 31.Kf2 h5 32.Rh1 h3 33.gxh3 h4 34.f4 exf4
+35.Bxf4 Rg8 36.e5 dxe5 37.Bxe5 Rg5 38.Rf4+ Rf5 39.Bxc7 Na4
+40.Rxf5+ Bxf5 41.Bxb5 Nxc3 42.Bc4 Ra4 43.Bb3 Rd4 44.d6 Kf6
+45.Re1 Rd2+ 46.Kf3 Rd3+ 47.Kf4 Rd4+ 48.Kf3 Rd3+ 49.Re3 Rxe3+
+50.Kxe3 Bxh3 51.Bc4 Bd7 52.Bd8+ Ke5 53.Bxh4 Kxd6 54.Kd4 Nb5+
+55.Bxb5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Ch Moscow, Moscow (Russia)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Andrei Gutov"]
+[Black "Alexander Rustemov"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "65"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 O-O
+7. Bd3 c5 8. Nf3 Nc6 9. O-O Bg4 10. dxc5 Bxc5 11. h3 Bxf3
+12. Qxf3 d4 13. Ne4 Be7 14. Rad1 Qa5 15. Ng3 dxe3 16. Nf5
+exf2+ 17. Kh1 Rfe8 18. Qg3 Nh5 19. Qg4 g6 20. Rxf2 Bf8 21. Bd2
+Qc5 22. Qh4 Rad8 23. Rc1 Qb6 24. Bc4 Ne5 25. Bb3 Rd3 26. Bc3
+Ng3+ 27. Nxg3 Qxf2 28. Bxe5 Rxe5 29. Rf1 Re1 30. Bxf7+ Kh8
+31. Rxe1 Qxe1+ 32. Kh2 Be7 33. Qg4 0-1

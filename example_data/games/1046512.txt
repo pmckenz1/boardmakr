@@ -1,0 +1,19 @@
+[Event "It (open), Hamburg (Germany)"]
+[Site "It (open), Hamburg (Germany)"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Bernd Wronn"]
+[ECO "D46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 e6 5. e3 Bd6 6. Bd3 Nbd7
+7. O-O O-O 8. e4 dxe4 9. Nxe4 Nxe4 10. Bxe4 f5 11. Bc2 e5
+12. Bg5 Qa5 13. c5 Bb8 14. Be7 Re8 15. Bb3+ Kh8 16. Bd6 e4
+17. Ng5 h6 18. Bxb8 Rxb8 19. Nf7+ Kh7 20. Nd6 Rf8 21. Be6 Nf6
+22. Nxc8 Rbxc8 23. Bxf5+ g6 24. Bxc8 Rxc8 25. Qb3 Qc7 26. f3
+1-0

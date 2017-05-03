@@ -1,0 +1,21 @@
+[Event "10s, MEX"]
+[Site "10s, MEX Hiarcs 7.32"]
+[Date "1980.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Alexander Kochyev"]
+[ECO "B22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Nb6 6. Bb3 d5
+7. cxd4 Bf5 8. Nc3 e6 9. Nge2 h5 10. Ng3 Bg6 11. f4 h4 12. f5
+Bh7 13. fxe6 fxe6 14. Nh5 Nc6 15. O-O Bf5 16. Be3 Qd7 17. Bc2
+Bxc2 18. Qxc2 O-O-O 19. Nf4 Nc4 20. Bf2 g5 21. Ng6 Qh7
+22. Rac1 Rg8 23. Nxf8 Qxc2 24. Rxc2 Rdxf8 25. b3 Na3 26. Rcc1
+Kd7 27. Be3 Rxf1+ 28. Kxf1 Ne7 29. Ke2 Nf5 30. Kd3 h3 31. g3
+Nxe3 32. Kxe3 Rc8 33. Ne2 Rxc1 34. Nxc1 Nc2+ 35. Kd3 Ne1+
+36. Ke2 Nc2 37. Kd3 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "USA-06.Congress New York"]
+[Site "New York, NY USA"]
+[Date "1889.05.07"]
+[EventDate "?"]
+[Round "32"]
+[Result "1-0"]
+[White "Jackson Whipps Showalter"]
+[Black "Nicholas MacLeod"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 {Notes by Steinitz.} e5 2.f4 d6 3.Nf3 Nc6 4.Bc4 exf4 5.d4
+Nf6 6.O-O d5 7.exd5 Nxd5 8.Nc3 Be6 9.Qe2 Be7 10.Ne4 O-O 11.c3
+h6 {Black has ably defended himsef in an original
+manner. Here, however, he loses precious time. If 11...Re8
+instead conveyed a rather unpleasant threat against the
+adverse Knight and Queen 0n the same file within two moves.}
+12.Bd3 Bg4 13.Nf2 Bxf3 14.Qxf3 Bg5 15.Nh3 Ne3 16.Qe4 g6
+17.Nxg5 hxg5 18.Re1 Re8 19.Qf3 Ne5 {An error that causes him
+great trouble. Qd7 was the proper play.} 20.dxe5 Qxd3 21.Bxe3
+fxe3 22.Rxe3 Qb5 {The losing move which his opponent perceives
+with a keen eye. Qa6, in order that he might reach e5 speedi,
+was his best plan.} 23.Rf1 Re7 24.Qf6 Rae8 25.Kh1 Qa6 26.e6
+{Finely played and unanswerable in view of the terrible second
+check, threatened by Rh3 after 26...Rxe6 27.Qxf7+.} 1-0

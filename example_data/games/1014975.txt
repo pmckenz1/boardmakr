@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.06"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Victor Ciocaltea"]
+[Black "Utut Adianto"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "98"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Qe2 a6 5.Bxc6 dxc6 6.h3 Qc7 7.d3
+e5 8.a4 b5 9.Nc3 Rb8 10.Nd1 Be7 11.Bd2 h6 12.Bc3 Bd6 13.b3 Be6
+14.Nd2 Nd7 15.Ne3 f6 16.Nf5 Bf8 17.axb5 axb5 18.O-O g6 19.Nh4
+Kf7 20.Ra6 Be7 21.Rfa1 Rb6 22.R6a2 Rb7 23.Nf1 c4 24.bxc4 bxc4
+25.d4 exd4 26.Bxd4 Qf4 27.Nf3 Qc7 28.Ra7 c5 29.Rxb7 Qxb7
+30.Bc3 Ra8 31.Rd1 Nb6 32.Qe3 g5 33.Ng3 Ra3 34.Qe1 Na4 35.Bd2
+c3 36.Be3 Nb2 37.Rb1 Qc6 38.Qe2 Bc4 39.Qe1 Qa4 40.Rc1 Be6
+41.Qe2 Bc4 42.Nxg5+ hxg5 43.Qh5+ Ke6 44.e5 Ra1 45.exf6 Rxc1+
+46.Bxc1 Bxf6 47.Qg4+ Kf7 48.Qh5+ Ke6 49.Qg4+ Kf7 1/2-1/2

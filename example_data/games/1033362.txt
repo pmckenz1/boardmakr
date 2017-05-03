@@ -1,0 +1,16 @@
+[Event "5, Barcelona UGA (10s)"]
+[Site "5, Barcelona UGA Hiarcs 7.32 (10s)"]
+[Date "1993.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Oscar Humberto Castro Rojas"]
+[Black "Fernando Braga"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "24"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. Be2 cxd4
+7. cxd4 Nge7 8. Nc3 Nf5 9. Na4 Qa5+ 10. Bd2 Bb4 11. Bc3 Bxc3+
+12. Nxc3 Qb6 1/2-1/2

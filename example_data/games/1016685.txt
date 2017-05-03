@@ -1,0 +1,23 @@
+[Event "Bacolod (Philippines)"]
+[Site "It"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Ruben Rodriguez"]
+[Black "Andras Adorjan"]
+[ECO "A04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O d6 7.d4
+cxd4 8.Qxd4 a6 9.Rd1 Be7 10.e4 Nbd7 11.b3 Qc8 12.Bb2 O-O
+13.Rac1 Re8 14.Qe3 Qc7 15.Nd4 Rad8 16.h3 Qb8 17.Re1 Bf8
+18.Rcd1 Nc5 19.Qc1 Qa8 20.f3 Qb8 21.g4 Ba8 22.Qe3 g6 23.Kh1
+Bg7 24.Qf2 h6 25.h4 Ncd7 26.Bc1 Qc7 27.g5 hxg5 28.Bxg5 Rb8
+29.Qd2 Nh7 30.Be3 Ndf6 31.Nde2 Bf8 32.Ng3 b5 33.cxb5 axb5
+34.Rc1 Qd8 35.Kg1 d5 36.e5 Nd7 37.f4 Qxh4 38.Kf2 d4 39.Bxd4
+Nc5 40.Bxa8 Rxa8 41.Rh1 Qg4 42.b4 Red8 43.bxc5 Bxc5 44.Nge2
+Ng5 45.Qe3 Rxd4 46.Nxd4 Bxd4 47.Qxd4 Qf3+ 48.Kg1 Qg3+ 49.Kf1
+Qf3+ 50.Kg1 1/2-1/2

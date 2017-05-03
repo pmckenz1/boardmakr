@@ -1,0 +1,21 @@
+[Event "It (cat.11)"]
+[Site "Protvino (Russia)"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Nigel Rodney Davies"]
+[Black "Alexander Chernin"]
+[ECO "A08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.d4 Nf6 5.O-O e6 6.c4 dxc4 7.dxc5
+Qxd1 8.Rxd1 Bxc5 9.Nbd2 Na5 10.Ne5 c3 11.bxc3 Nd7 12.Nec4 Nxc4
+13.Nxc4 f6 14.Nd6+ Bxd6 15.Rxd6 Nb6 16.Rd4 Rb8 17.Be3 Nd5
+18.Bxd5 exd5 19.Rxd5 b6 20.Rd2 Ke7 21.a4 Rd8 22.Rb2 Ba6 23.f3
+Bc4 24.Kf2 Rd7 25.Bd4 Rc8 26.e4 h5 27.h3 Ke6 28.g4 g5 29.Ke3
+Rh7 30.Rab1 hxg4 31.hxg4 Rcc7 32.Ra1 Rh3 33.a5 b5 34.a6 Rhh7
+35.Ra5 Rc6 36.Ra1 Rcc7 37.Ra5 Rc6 38.Ra1 Rcc7 39.Ra3 Rc8
+40.Ra5 1/2-1/2

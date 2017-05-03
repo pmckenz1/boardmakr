@@ -1,0 +1,15 @@
+[Event "Bundesliga 1998/99, Germany"]
+[Site "Bundesliga 1998/99, Germany"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Igors Rausis"]
+[Black "Vereslav Eingorn"]
+[ECO "E11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 a5 5. g3 b6 6. Bg2 Bb7
+7. O-O O-O 8. Qc2 Bxd2 9. Bxd2 Be4 10. Qc3 Nc6 1/2-1/2

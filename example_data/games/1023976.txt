@@ -1,0 +1,22 @@
+[Event "Weilburg op"]
+[Site "Weilburg op"]
+[Date "1995.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Rolf Sicker"]
+[Black "Vladimir Bagirov"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "94"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Bc4 Nb6 5.Bb3 Nc6 6.Qf3 e6
+7.Nge2 Be7 8.O-O O-O 9.Rd1 Na5 10.d4 Bd7 11.Nf4 c6 12.Ne4 Nxb3
+13.axb3 Kh8 14.c4 Be8 15.Bd2 Nc8 16.Bc3 Nd6 17.Ng3 Bd7 18.Re1
+Ne8 19.Re2 Kg8 20.Rae1 a5 21.Ngh5 Bg5 22.Nd3 Nf6 23.Ng3 Bh6
+24.b4 axb4 25.Bxb4 Re8 26.Ne5 Ra4 27.Bc3 Bc8 28.b3 Ra8 29.Ne4
+Qe7 30.Bb4 Qxb4 31.Nxf6+ gxf6 32.Qxf6 Qf8 33.Re4 Bg7 34.Rg4 b5
+35.h3 Ra7 36.Nxc6 Rc7 37.d5 Kh8 38.Qf4 e5 39.Nxe5 Bxg4 40.d6
+Ra7 41.hxg4 f6 42.Qd4 Raa8 43.d7 Rxe5 44.Rd1 Rd8 45.Qb6 bxc4
+46.bxc4 f5 47.g5 Qe7 0-1

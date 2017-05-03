@@ -1,0 +1,25 @@
+[Event "Izt (cat.13) (w)"]
+[Site "Bad Kissingen (Germany)"]
+[Date "1982.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Tatjana Lematschko"]
+[Black "Nona Gaprindashvili"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5
+Bxc5 8.cxd5 Nxd5 9.Nxd5 exd5 10.Bd3 Bb4+ 11.Ke2 Nc6 12.Qc2 h6
+13.h3 Bd6 14.Bxd6 Qxd6 15.Rhd1 Be6 16.Rac1 Rac8 17.Qc5 Qb8
+18.Qa3 Rfd8 19.Bb5 Ne5 20.Nd4 a6 21.Bd3 Rxc1 22.Rxc1 Rc8
+23.Rc5 Rxc5 24.Qxc5 Nxd3 25.Kxd3 Qh2 26.Nxe6 fxe6 27.Qe7 Qxg2
+28.Qxe6+ Kh7 29.Qf5+ Kh8 30.Kd4 Qf1 31.Qc8+ Kh7 32.Qc2+ Kh8
+33.h4 Qb5 34.f4 Qb6+ 35.Kd3 Qg6+ 36.Kd2 Qg2+ 37.Kc3 d4 38.exd4
+Qc6+ 39.Kb3 Qb6+ 40.Ka3 Qxd4 41.Qc8+ Kh7 42.Qxb7 Qxf4 43.Qxa6
+g5 44.Qd3+ Kg7 45.h5 g4 46.Qg6+ Kf8 47.b4 g3 48.b5 Qe3+ 49.Ka4
+Qd4+ 50.Kb3 Qd5+ 51.Kb4 Qd2+ 52.Kb3 Qe3+ 53.Ka4 Qf4+ 54.Ka5
+Qd2+ 55.Kb6 Qf2+ 56.Kc6 Qf3+ 57.Kd6 Qa3+ 58.Kc6 Qf3+ 59.Kd6
+1/2-1/2

@@ -1,0 +1,20 @@
+[Event "2, Frunze URS sf"]
+[Site "Frunze KGZ"]
+[Date "1979.10.??"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Vladimir Bagirov"]
+[Black "Konstantin Zaivelevich Lerner"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.cxd5 exd5 5.Bf4 c6 6.e3 Bf5 7.Nge2
+Nd7 8.Ng3 Bg6 9.Be2 Ngf6 10.h4 h5 11.Bf3 Qb6 12.Qe2 a5 13.Bg5
+Qa6 14.Qxa6 Rxa6 15.O-O-O Bd6 16.Bf4 Bb4 17.Be2 Ra8 18.f3 O-O
+19.a3 Be7 20.e4 b5 21.Nf5 Bxf5 22.exf5 b4 23.Nb1 c5 24.Bb5
+Rfc8 25.Rhe1 cxd4 26.Kd2 Kf8 27.Re2 bxa3 28.bxa3 d3 29.Bxd3 d4
+30.Bg5 Rab8 31.Ke1 Bc5 32.a4 Nd5 33.Bb5 N7f6 34.Bd2 Nb4 35.Bf4
+Rb6 36.Kf1 d3 37.Rb2 Nfd5 38.Bd2 Nc2 0-1

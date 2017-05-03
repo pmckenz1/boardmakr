@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Manila PHI"]
+[Date "1992.06.18"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "Jacek Gdanski"]
+[Black "Lawrence Day"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 b5 6.Bd3 Bb7 7.f4
+Nc6 8.Nf3 Nge7 9.O-O Ng6 10.Kh1 b4 11.Ne2 Qc7 12.Qe1 Be7 13.b3
+O-O 14.Bb2 Bd6 15.e5 Be7 16.Qg3 a5 17.Rad1 Ba6 18.c4 bxc3
+19.Nxc3 Bxd3 20.Rxd3 f5 21.Rfd1 Rfd8 22.Nd4 Nb4 23.R3d2 Qb7
+24.Nf3 Na6 25.h4 Nf8 26.h5 h6 27.Nd4 Nc7 28.Kh2 Bb4 29.Rd3
+Bxc3 30.Rxc3 a4 31.Ba3 axb3 32.Rxb3 Qe4 33.Re3 Qb7 34.Be7 Re8
+35.Bf6 g6 36.Nxf5 Rxa2 37.Nxh6+ Kh7 1-0

@@ -1,0 +1,21 @@
+[Event "Hastings (England)"]
+[Site "Hastings (England)"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Andras Adorjan"]
+[Black "Murray Chandler"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.d3
+Be7 8.a3 O-O 9.O-O Be6 10.b4 Nd4 11.Bb2 Bb3 12.Qc1 c5 13.bxc5
+Bxc5 14.Nxd4 exd4 15.Ne4 Be7 16.Qb1 Be6 17.a4 a5 18.Nd2 Qd7
+19.Nf3 Bf6 20.e3 Nxa4 21.Bxd4 Nc3 22.Qb2 Bxd4 23.Nxd4 Nd5
+24.Rfb1 Nb4 25.Rxa5 Rxa5 26.Qxb4 Ra7 27.h4 Bd5 28.Qb5 Bc6
+29.Bxc6 bxc6 30.Qxc6 Qxc6 31.Nxc6 Ra2 32.Ne7+ Kh8 33.Kg2 Rfa8
+34.Nc6 g6 35.d4 Rd2 36.Rb7 f6 37.Rb1 Raa2 38.Rf1 h5 39.Ne7 Kg7
+40.Nd5 Rac2 41.Nf4 Kh6 42.Ne6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Budapest First Saturday IM04 A, HUN"]
+[Site "Budapest First Saturday IM04 A HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Joachim Wallner"]
+[Black "Markus Bawart"]
+[ECO "C54"]
+[WhiteElo "2290"]
+[BlackElo "2330"]
+[PlyCount "25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4
+Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Na5
+11. Qa4+ Nc6 12. Qb3 Na5 13. Qa4+ 1/2-1/2

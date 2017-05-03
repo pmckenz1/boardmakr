@@ -1,0 +1,19 @@
+[Event "Gothenburg B"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.13"]
+[EventDate "1920.08.02"]
+[Round "9"]
+[Result "0-1"]
+[White "Victor Sjoberg"]
+[Black "Karl Berndtsson Kullberg"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.d4 d5 2.Nf3 e6 3.c4 c5 4.Nc3 cxd4 5.Qxd4 Nc6 6.Qd1 d4 7.Ne4
+f5 8.Ned2 e5 9.Nb3 Nf6 10.a3 a5 11.Bg5 a4 12.Nc1 e4 13.Nd2 Bc5
+14.b4 axb3 15.Qxb3 d3 16.e3 O-O 17.Ra2 Qe7 18.g3 Bxa3 19.Bxf6
+gxf6 20.Bg2 Nb4 21.O-O Nxa2 22.Nxa2 Bd7 23.Nc3 Qb4 24.Rb1 Qxb3
+25.Nxb3 Rac8 26.Nb5 Bxb5 27.cxb5 Rfd8 28.Bf1 d2 29.Rd1 Bb4
+30.Be2 Rc3 31.Kf1 Kh8 32.Nd4 Rc1 33.Nb3 Rdc8 34.Nd4 R8c3 0-1

@@ -1,0 +1,21 @@
+[Event "Budapest First Saturday ELO04, HUN"]
+[Site "Budapest First Saturday ELO04 HUN"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Michael Johansson"]
+[Black "Gabor Szamoskozi"]
+[ECO "A56"]
+[WhiteElo "2105"]
+[BlackElo "2060"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. Nf3 Bg7 6. h3 O-O
+7. e4 b5 8. cxb5 a6 9. b6 Nbd7 10. Bd3 Nxb6 11. O-O Bd7
+12. Re1 e5 13. dxe6 Bxe6 14. Bg5 h6 15. Bh4 Qc8 16. Qd2 Kh7
+17. Rad1 Ra7 18. Qf4 Ne8 19. e5 d5 20. Ne2 d4 21. Nexd4 cxd4
+22. Qxd4 Qb8 23. Bd8 Nd5 24. Qh4 Kg8 25. Ba5 Nec7 26. Bd2 Qd8
+27. Bg5 hxg5 28. Nxg5 Re8 29. Qh7+ Kf8 30. Qh4 Qe7 31. f4 Qc5+
+32. Kh1 Ne3 33. Nh7+ Kg8 34. Nf6+ Bxf6 35. exf6 Nxd1 36. Qh6
+Qf8 37. Qh4 Nxb2 38. Bb1 Nd5 39. Re5 Nxf6 40. Qxf6 Qe7 0-1

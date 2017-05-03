@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow RUS"]
+[Date "1994.12.13"]
+[EventDate "?"]
+[Round "12"]
+[Result "1-0"]
+[White "Lubomir Ftacnik"]
+[Black "Michele Godena"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. c4 e6 2. Nf3 d5 3. d4 c6 4. Qc2 Nf6 5. g3 Bb4+ 6. Nbd2 O-O
+7. a3 Be7 8. Bg2 b6 9. O-O Bb7 10. b4 a5 11. cxd5 cxd5 12. b5
+a4 13. Ne5 Ne8 14. e4 Nd6 15. Nc6 Qc7 16. exd5 Nxb5 17. Nxe7+
+Qxe7 18. Qd3 Nd6 19. Re1 Ra5 20. Bb2 Rxd5 21. Bc3 Rb5 22. Bb4
+Bxg2 23. Qxb5 Bd5 24. Qxd5 1-0

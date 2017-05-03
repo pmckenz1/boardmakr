@@ -1,0 +1,25 @@
+[Event "Nagpur Indian ch A, IND"]
+[Site "Nagpur Indian ch A IND"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "S K Rathore"]
+[Black "Venkatachalam Saravanan"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "113"]
+
+1. e4 c5 2. Ne2 Nc6 3. c4 e6 4. Nbc3 Nf6 5. d4 cxd4 6. Nxd4
+Bb4 7. Nxc6 bxc6 8. Bd3 e5 9. O-O Bc5 10. Qf3 d6 11. h3 h6
+12. Be3 Nd7 13. Na4 Bxe3 14. Qxe3 O-O 15. c5 Nxc5 16. Nxc5
+dxc5 17. Bc4 Qe7 18. Rfc1 Rd8 19. Rc3 Rd4 20. Rac1 Be6 21. b3
+Rad8 22. Bxe6 Qxe6 23. Rxc5 R8d6 24. Ra5 Rd7 25. Ra6 Qg6
+26. Raxc6 Qxe4 27. Rc8+ Kh7 28. Qxe4+ Rxe4 29. R8c7 Red4
+30. Rxd7 Rxd7 31. Rc2 Kg6 32. Kf1 Rd6 33. Ke2 f5 34. b4 Kf6
+35. b5 a6 36. a4 axb5 37. axb5 Ke6 38. Rc5 Rd5 39. Rc6+ Rd6
+40. Ra6 Kd5 41. b6 Rd8 42. Ra5+ Kd4 43. b7 Rb8 44. Rb5 g6
+45. g3 g5 46. g4 f4 47. Kd2 Ke4 48. Rb1 Kd4 49. Rb4+ Kc5
+50. Kc3 Kc6 51. Kc4 Rxb7 52. Rxb7 Kxb7 53. Kd5 Kb6 54. Kxe5
+Kc5 55. Ke4 Kc4 56. h4 gxh4 57. Kxf4 1/2-1/2

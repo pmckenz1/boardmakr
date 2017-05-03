@@ -1,0 +1,22 @@
+[Event "It (cat.4)"]
+[Site "Tel Aviv (Israel)"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ronen Lev"]
+[Black "Nigel Rodney Davies"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1.d4 d6 2.e4 g6 3.c4 e5 4.Ne2 Nc6 5.Nbc3 Bg7 6.Be3 f5 7.exf5
+gxf5 8.dxe5 dxe5 9.Qxd8+ Nxd8 10.Nb5 Ne6 11.Bxa7 Nh6 12.Be3
+O-O 13.Nec3 e4 14.g3 Ng4 15.Bh3 Ne5 16.Bf1 Nf3+ 17.Ke2 c6
+18.Nd6 Nfd4+ 19.Bxd4 Nxd4+ 20.Kd1 Be6 21.Rc1 b6 22.c5 bxc5
+23.Be2 Rab8 24.Nc4 Bh6 25.Rc2 Rfd8 26.Ne3 Nxc2 27.Kxc2 Rd4
+28.b3 Rbd8 29.Rd1 Kf7 30.Na4 Rxd1 31.Bxd1 c4 32.Bh5+ Ke7
+33.Nc5 Ra8 34.Kb1 cxb3 35.axb3 Bg7 36.Nc2 Bd5 37.Be2 Kd6
+38.Nb7+ Kc7 39.Nc5 Bf8 40.b4 Bxc5 41.bxc5 Ra5 42.Nd4 Rxc5
+43.Kb2 Ra5 44.Kc3 Ra2 45.Nc2 Kd6 46.h4 Ke5 0-1

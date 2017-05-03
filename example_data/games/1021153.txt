@@ -1,0 +1,28 @@
+[Event "ANU Carbon v Silicon Match"]
+[Site "Canberra B1"]
+[Date "1994.07.15"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Guy West"]
+[Black "Desperado (Computer)"]
+[ECO "B23"]
+[WhiteElo "2410"]
+[BlackElo "2000"]
+[PlyCount "150"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 Nf6 6. exd5 Nxd5
+7. Bxc6+ bxc6 8. d3 Nxc3 9. bxc3 Be7 10. O-O O-O 11. c4 a5
+12. Rb1 Ba6 13. Ne5 Qd6 14. Qf3 Rfc8 15. Rb6 f6 16. Rxc6 Rxc6
+17. Qxc6 Rf8 18. Qxd6 Bxd6 19. Nc6 a4 20. Ba3 Rc8 21. Nd4 Kf7
+22. Nb5 Ke7 23. Nc3 Ra8 24. g3 Bb7 25. Rb1 Bc6 26. Rb6 Kd7
+27. Nb5 e5 28. fxe5 fxe5 29. Nxd6 Kxd6 30. Kf2 Rf8+ 31. Ke3
+Rf3+ 32. Ke2 e4 33. Ra6 exd3+ 34. cxd3 Rf7 35. Ra5 Bd7
+36. Bxc5+ Ke5 37. Ke3 Kf6 38. Bd4+ Kg6 39. Be5 Re7 40. d4 Bc6
+41. Ra6 Re6 42. Kf4 Bd7 43. Rxe6+ Bxe6 44. d5 Bh3 45. Bb2 Bf1
+46. d6 Kf7 47. c5 Bb5 48. Ke5 Bc6 49. Kf5 Bd7+ 50. Ke5 Bc6
+51. d7 Bxd7 52. Kd6 Be6 53. a3 Bh3 54. Kc7 g5 55. c6 Bg2
+56. Kd7 Bh3+ 57. Kd8 h5 58. Bc1 h4 59. Bxg5 hxg3 60. hxg3 Kg6
+61. Bf4 Kf5 62. c7 Kg6 63. c8=Q Bxc8 64. Kxc8 Kh7 65. Kd7 Kg7
+66. Ke6 Kg6 67. g4 Kg7 68. Kf5 Kf7 69. g5 Kg7 70. g6 Kf8
+71. Kf6 Kg8 72. g7 Kh7 73. Bb8 Kg8 74. Bd6 Kh7 75. Kf7 Kh6 1-0

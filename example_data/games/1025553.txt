@@ -1,0 +1,20 @@
+[Event "Minsk"]
+[Site "01"]
+[Date "1994.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Yuri Balashov"]
+[Black "Sergei Vesselovsky"]
+[ECO "B52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1.Nf3 c5 2.e4 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nf6 6.c4 Nxe4
+7.Re1 Nf6 8.d4 e6 9.Nc3 Be7 10.Bf4 O-O 11.dxc5 dxc5 12.Qb3 Nc6
+13.Rad1 Qc8 14.h3 b6 15.Qc2 Qb7 16.Rd2 Rad8 17.Red1 Rxd2
+18.Rxd2 Rd8 19.Rxd8+ Bxd8 20.Qa4 Bc7 21.Bg5 Nd7 22.Nb5 h6
+23.Be3 Nde5 24.Nd2 Bb8 25.a3 Ng6 26.Nf3 Nge5 27.Nd2 f5 28.Qd1
+Qd7 29.Qh5 Qf7 30.Qxf7+ Kxf7 31.b3 Nd3 32.g3 g5 33.Nf1 Na5
+34.b4 cxb4 35.axb4 Nxc4 0-1

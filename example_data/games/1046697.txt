@@ -1,0 +1,21 @@
+[Event "Bundesliga 1997/98, Germany"]
+[Site "Bundesliga 1997/98, Germany"]
+[Date "1998.??.??"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Eduardas Rozentalis"]
+[Black "Lubomir Ftacnik"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "73"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6
+7. a4 a5 8. h3 Na6 9. Bf4 Nb4 10. Qd2 e5 11. dxe5 dxe5
+12. Bxe5 Qxd2 13. Nxd2 Nxc2 14. Rac1 Nb4 15. Nc4 Be6 16. Nd6
+Nd7 17. Bxg7 Kxg7 18. Nxb7 Rfb8 19. Nd6 Nc5 20. Rfd1 Bb3
+21. Rd2 Ra7 22. Ncb5 cxb5 23. Rxc5 bxa4 24. e5 Nd5 25. Nb5 Rd7
+26. Nd4 Nf4 27. Bg4 Rdd8 28. Rxa5 h5 29. Bf3 Ne6 30. Nxb3 Rxb3
+31. Bd5 Rb4 32. Rc2 Nf4 33. Ba2 Rd7 34. Ra6 Rbb7 35. Rcc6 Nd3
+36. e6 Nxb2 37. Bc4 1/2-1/2

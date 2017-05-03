@@ -1,0 +1,20 @@
+[Event "Ch Denmark, Aarhus (Denmark)"]
+[Site "Ch Denmark, Aarhus (Denmark)"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Henrik El-Kher"]
+[Black "Sune Berg Hansen"]
+[ECO "E15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+
+7. Bd2 c5 8. O-O O-O 9. Qc2 Be4 10. Qb2 Nc6 11. Bxb4 cxb4
+12. Nbd2 d5 13. Rfd1 Rc8 14. a3 bxa3 15. Rxa3 a5 16. Raa1 Nb4
+17. Rac1 Qe7 18. Nxe4 Nxe4 19. cxd5 exd5 20. Bh3 Rxc1 21. Rxc1
+Qf6 22. Rc7 h5 23. Qc1 g5 24. g4 Na2 25. Qe3 Qd6 26. Ra7 hxg4
+27. Bxg4 f5 28. Nxg5 Qg6 29. Nh7 Qxg4+ 30. Kh1 Rf7 31. Rxf7
+Kxf7 32. Qh6 Nxf2# 0-1

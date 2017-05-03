@@ -1,0 +1,22 @@
+[Event "Gothenburg C"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.10"]
+[EventDate "1920.08.02"]
+[Round "7"]
+[Result "0-1"]
+[White "Aage Kier"]
+[Black "Axel Martinius Erichsen"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qe5+ 4.Be2 Bg4 5.d4 Bxe2 6.Ngxe2 Qh5
+7.Bf4 Na6 8.Qd2 Nf6 9.Ng3 Qa5 10.O-O e6 11.a3 Bd6 12.Bxd6 cxd6
+13.d5 O-O-O 14.b4 Qb6 15.Rfb1 Nc7 16.dxe6 fxe6 17.a4 Rhf8
+18.a5 Qc6 19.b5 Qc5 20.b6 axb6 21.Rxb6 Ng4 22.Nce4 Qe5 23.Rab1
+Rf4 24.f3 Rxe4 25.fxg4 Rd4 26.Qc1 Qxa5 27.Rxb7 Kd7 28.Qb2 Rxg4
+29.Rf1 Qc5+ 30.Kh1 Ke7 31.Rb8 Rxb8 32.Qxb8 Ne8 33.Qb7+ Qc7
+34.Qb3 Qc4 35.Qb7+ Qc7 36.Qf3 Rg6 37.Rb1 Qxc2 38.Rb7+ Nc7
+39.h3 Rf6 40.Qe3 Qc6 41.Qa7 Kd7 42.Rb6 Qa8 43.Qxa8 Nxa8 44.Rb8
+Nc7 0-1

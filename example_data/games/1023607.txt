@@ -1,0 +1,23 @@
+[Event "Budapest Spring-op ,"]
+[Site "Budapest HUN"]
+[Date "1989.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Vladimir Bagirov"]
+[Black "Katalin Jakus"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "100"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 Bd6 5.c4 dxc4 6.Nf3 Bg4 7.h3
+Bxf3 8.Qxf3 Nge7 9.bxc4 O-O 10.O-O Nb4 11.d4 exd4 12.exd4 c6
+13.Ba4 Qa5 14.Nc3 Qf5 15.Qxf5 Nxf5 16.Rfd1 Rad8 17.Ne4 Rfe8
+18.Nxd6 Nxd6 19.Bc3 Na6 20.Bb3 Ne4 21.Be1 Nc7 22.f3 Nd6 23.Bf2
+Nf5 24.Rab1 b5 25.d5 bxc4 26.Bc2 Ne3 27.Bxe3 Rxe3 28.dxc6
+Rxd1+ 29.Rxd1 Kf8 30.Be4 Ke8 31.Rd4 Ra3 32.Rxc4 Rxa2 33.Rd4
+Ne6 34.Rb4 a5 35.Rb7 Ra1+ 36.Kf2 Rc1 37.Ra7 Rc5 38.Ke3 Rc3+
+39.Kd2 Rc5 40.Bc2 g6 41.Bb3 h5 42.h4 Kf8 43.Bxe6 fxe6 44.c7
+Ke8 45.Ke3 Kd7 46.Kf4 e5 47.Ke4 Rxc7 48.Rxa5 Rc4+ 49.Kxe5 Rxh4
+50.Kf6 Rh2 1-0

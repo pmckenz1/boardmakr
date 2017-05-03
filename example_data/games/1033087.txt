@@ -1,0 +1,17 @@
+[Event "10s, Palermo"]
+[Site "10s, Palermo Hiarcs 7.32"]
+[Date "1986.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Fernando Braga"]
+[Black "Pierluigi Passerotti"]
+[ECO "C60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 Be7 6. Bf4 Nf6
+7. e5 Nd5 8. Bh6 Bf8 9. Qd2 Qe7 10. O-O Qb4 11. Bxf8 Kxf8
+12. Qh6+ Kg8 13. Bd3 Qf8 14. Qh4 d6 15. exd6 Qxd6 16. Nxd4 Bd7
+17. Nb5 Qf4 18. Qxf4 Nxf4 19. N5c3 1/2-1/2

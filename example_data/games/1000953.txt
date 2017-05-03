@@ -1,0 +1,22 @@
+[Event "Bad Pistyan"]
+[Site "Bad Pistyan CZE"]
+[Date "1912.05.22"]
+[EventDate "1912.05.20"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Georg Salwe"]
+[Black "Semion Alapin"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "87"]
+
+1. d4 d5 2. c4 c6 3. e3 Bf5 4. Qb3 Qc7 5. Nc3 e6 6. Nf3 Nd7
+7. Be2 Be7 8. O-O h6 9. Bd2 Ngf6 10. Rfc1 Rc8 11. Be1 O-O
+12. Nd2 Qb8 13. Nf1 Nb6 14. c5 Nbd7 15. Qd1 e5 16. f3 Bd8
+17. b4 Bc7 18. Bd3 Bxd3 19. Qxd3 exd4 20. exd4 b5 21. a4 a6
+22. axb5 axb5 23. Bg3 Rfe8 24. Ra6 Qb7 25. Rca1 Bxg3 26. hxg3
+Ra8 27. R6a2 Rxa2 28. Rxa2 Ra8 29. Qb1 Nf8 30. Qa1 Rxa2
+31. Qxa2 Ne6 32. Ne2 Ne8 33. Ne3 N8c7 34. Nf5 Kf8 35. Qa5 Qa6
+36. Qb6 Qxb6 37. cxb6 Na6 38. Nf4 Nxb4 39. Nxe6+ fxe6 40. Nd6
+Na6 41. Kf1 Nb4 42. Ke2 Ke7 43. Nc8+ Kf6 44. f4 1/2-1/2
