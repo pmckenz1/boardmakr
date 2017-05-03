@@ -1,0 +1,16 @@
+Package: boardmakr
+Type: Package
+Title: boardmakr
+Version: 0.0.0.9000
+Date: 2017-04-10
+Author: Patrick McKenzie
+Maintainer: Patrick McKenzie <pmckenz1@utk.edu>
+Description: Contains tools for working with chess board layouts. 
+License: CC0
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
+

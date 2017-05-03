@@ -1,0 +1,124 @@
+---
+title: "boardmakr vignette"
+author: "Patrick McKenzie"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This is a vignette for the boardmakr package.
+
+## Intro: Chess analysis concepts
+
+For any analysis of trends across chess games, standard notation will not suffice. To be able to characterize everything happening on a board, we need instantaneous data on all interactions between pieces on the board. That is, rather than thinking of the game as an unfolding process that happens move by move, we need to be able to examine each instant of the game knowing piece locations, so that we can determine who's under attack at any moment, what style of game is being played, and how decisions are made from move to move.
+
+Representing games as series of board layouts allows each move to be treated as an independent decision based on the layout of the entire board, rather than considering each move independently. For example, standard PGN notation might show "Nxe4," which is useful only in that it tells us that a knight took a pawn. By looking at the board layout before and after this move, however, we can examine why that move was made: Who was under attack? How did the use of that knight to take that pawn change the layout of the board? Etc.
+
+**Game representation using PGN:**
+```{r echo = F}
+cat('[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.21"]
+[EventDate "1900.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Frank James Marshall"]
+[Black "David Janowski"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "108"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.O-O d6 6.c3 d3 7.Qxd3
+Nf6 8.e5 dxe5 9.Qxd8+ Kxd8 10.b4 Bb6 11.Ng5 Ke7 12.Nxf7 Rf8
+13.b5 Rxf7 14.Ba3+ Ke8 15.bxc6 bxc6 16.Bxf7+ Kxf7 17.Nd2 Ba6
+18.Rfe1 Re8 19.Ne4 Bd3 20.Nc5 Bb5 21.Rad1 Bc4 22.Nd7 e4 23.Bc5
+Nd5 24.Bd4 Bxa2 25.Rd2 Bb3 26.Rb2 Ba4 27.Ne5+ Kg8 28.Ra1 Bb5
+29.Bxb6 axb6 30.c4 Rxe5 31.cxb5 cxb5 32.Rxb5 Kf7 33.Rc1 Ke6
+34.f4 exf3 35.gxf3 Kd6 36.Kf2 c5 37.Rb3 Kc6 38.Rcb1 Re7 39.f4
+Rb7 40.f5 Rf7 41.Rf3 b5 42.Ke2 c4 43.Kd2 b4 44.Re1 Ra7 45.Re6+
+Kc5 46.f6 Ra2+ 47.Kc1 gxf6 48.Rf5 b3 49.Re8 c3 50.Rc8+ Kd4
+51.Rxd5+ Kxd5 52.Rxc3 Rc2+ 53.Rxc2 bxc2 54.Kxc2 Ke4 0-1')
+```
+
+
+### Move 1:
+
+**PGN:**
+
+We can see that the first move is **e4**. We know that this move indicates the central white pawn moving to board space e4.
+
+**Board snapshot of move #1:**
+```{r echo = FALSE}
+before1 <- matrix(c("R1_w", "p1_w", "none", "none", "none", "none", "p1_b", "R1_b", "N1_w", "p2_w", "none", "none", "none","none", "p2_b", "N1_b", "B1_w", "p3_w", "none", "none", "none", "none", "p3_b", "B1_b", "Q_w",  "p4_w","none", "none", "none", "none", "p4_b", "Q_b",  "K_w",  "p5_w", "none", "none", "none", "none", "p5_b","K_b",  "B2_w", "p6_w", "none", "none", "none", "none", "p6_b", "B2_b", "N2_w", "p7_w", "none", "none","none", "none", "p7_b", "N2_b", "R2_w", "p8_w", "none", "none", "none", "none", "p8_b", "R2_b"),nrow=8,ncol = 8)
+row.names(before1) <- 1:8
+colnames(before1) <- letters[1:8]
+
+after1 <-  matrix(c("R1_w", "p1_w", "none", "none", "none", "none", "p1_b", "R1_b", "N1_w", "p2_w", "none", "none", "none","none", "p2_b", "N1_b", "B1_w", "p3_w", "none", "none", "none", "none", "p3_b", "B1_b", "Q_w",  "p4_w","none", "none", "none", "none", "p4_b", "Q_b",  "K_w",  "none", "none", "p5_w", "none", "none", "p5_b","K_b",  "B2_w", "p6_w", "none", "none", "none", "none", "p6_b", "B2_b", "N2_w", "p7_w", "none", "none","none", "none", "p7_b", "N2_b", "R2_w", "p8_w", "none", "none", "none", "none", "p8_b", "R2_b"),nrow=8,ncol=8)
+row.names(after1) <- 1:8
+colnames(after1) <- letters[1:8]
+cat("Move #1, by white:")
+list(before1,after1)
+```
+
+Now we can see the same move, **e4**, in the context of the rest of the board.
+
+### Move 27:
+
+The advantage of being to examine each move individually is more apparent when considering a move in the middle of the game. 
+
+**PGN:**
+
+PGN offers no information other than **Ne5+**. 
+
+*  This tells us that a knight moved to space e5 and put the black king in check. 
+
+The same move represented by two board snapshots, in contrast, offers full context for the move.
+
+**Board snapshot of move #27:**
+```{r echo = FALSE}
+before27 <- matrix(c("none", "none", "none", "B1_b", "none", "none", "p1_b", "none", "none", "R1_w", "none", "none",
+"none", "B2_b", "none", "none", "none", "none", "p3_w", "none", "none", "p2_b", "p3_b", "none",
+"none", "none", "none", "B1_w", "N2_b", "none", "N1_w", "none", "R2_w", "none", "none", "p4_b",
+"none", "none", "none", "R1_b", "none", "p6_w", "none", "none", "none", "none", "K_b", "none",
+"K_w",  "p7_w", "none", "none", "none", "none", "p7_b", "none", "none", "p8_w", "none", "none",
+"none", "none", "p8_b", "none"),nrow=8,ncol=8)
+row.names(before27) <- 1:8
+colnames(before27) <- letters[1:8]
+
+after27 <- matrix(c("none", "none", "none", "B1_b", "none", "none", "p1_b", "none", "none", "R1_w", "none", "none",
+"none", "B2_b", "none", "none", "none", "none", "p3_w", "none", "none", "p2_b", "p3_b", "none",
+"none", "none", "none", "B1_w", "N2_b", "none", "none", "none", "R2_w", "none", "none", "p4_b",
+"N1_w", "none", "none", "R1_b", "none", "p6_w", "none", "none", "none", "none", "K_b",  "none",
+"K_w",  "p7_w", "none", "none", "none", "none", "p7_b", "none", "none", "p8_w", "none", "none",
+"none", "none", "p8_b", "none"),nrow=8,ncol=8)
+row.names(after27) <- 1:8
+colnames(after27) <- letters[1:8]
+
+cat("Move #27, by white:")
+list(before27,after27)
+```
+
+Here, we aren't losing any information -- we can still see that a knight moved to e5 and put the black king in check. But now we have the location of all pieces on the board, and we know exactly where the knight moved from to land on e5. We can examine the implications of this move in the context of other pieces on the board.
+
+## Workflow
+
+This package offers a foundation for conducting analysis of chess games. It supplies functions for downloading chess games from an online database and converting these games to a format useful for analysis in R.
+
+### Downloading games
+
+### Importing data to R
+
+## Sample analysis
+
+### Getting data
+
+### Importing data to R
+
+### Analysis: Knights vs. Bishops
+
+
+
