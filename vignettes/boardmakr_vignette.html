@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="author" content="Patrick McKenzie" />
+
+<meta name="date" content="2017-05-04" />
+
+<title>boardmakr vignette</title>
+
+
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+
+
+<link href="data:text/css;charset=utf-8,body%20%7B%0Abackground%2Dcolor%3A%20%23fff%3B%0Amargin%3A%201em%20auto%3B%0Amax%2Dwidth%3A%20700px%3B%0Aoverflow%3A%20visible%3B%0Apadding%2Dleft%3A%202em%3B%0Apadding%2Dright%3A%202em%3B%0Afont%2Dfamily%3A%20%22Open%20Sans%22%2C%20%22Helvetica%20Neue%22%2C%20Helvetica%2C%20Arial%2C%20sans%2Dserif%3B%0Afont%2Dsize%3A%2014px%3B%0Aline%2Dheight%3A%201%2E35%3B%0A%7D%0A%23header%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0A%23TOC%20%7B%0Aclear%3A%20both%3B%0Amargin%3A%200%200%2010px%2010px%3B%0Apadding%3A%204px%3B%0Awidth%3A%20400px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Aborder%2Dradius%3A%205px%3B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Afont%2Dsize%3A%2013px%3B%0Aline%2Dheight%3A%201%2E3%3B%0A%7D%0A%23TOC%20%2Etoctitle%20%7B%0Afont%2Dweight%3A%20bold%3B%0Afont%2Dsize%3A%2015px%3B%0Amargin%2Dleft%3A%205px%3B%0A%7D%0A%23TOC%20ul%20%7B%0Apadding%2Dleft%3A%2040px%3B%0Amargin%2Dleft%3A%20%2D1%2E5em%3B%0Amargin%2Dtop%3A%205px%3B%0Amargin%2Dbottom%3A%205px%3B%0A%7D%0A%23TOC%20ul%20ul%20%7B%0Amargin%2Dleft%3A%20%2D2em%3B%0A%7D%0A%23TOC%20li%20%7B%0Aline%2Dheight%3A%2016px%3B%0A%7D%0Atable%20%7B%0Amargin%3A%201em%20auto%3B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dcolor%3A%20%23DDDDDD%3B%0Aborder%2Dstyle%3A%20outset%3B%0Aborder%2Dcollapse%3A%20collapse%3B%0A%7D%0Atable%20th%20%7B%0Aborder%2Dwidth%3A%202px%3B%0Apadding%3A%205px%3B%0Aborder%2Dstyle%3A%20inset%3B%0A%7D%0Atable%20td%20%7B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dstyle%3A%20inset%3B%0Aline%2Dheight%3A%2018px%3B%0Apadding%3A%205px%205px%3B%0A%7D%0Atable%2C%20table%20th%2C%20table%20td%20%7B%0Aborder%2Dleft%2Dstyle%3A%20none%3B%0Aborder%2Dright%2Dstyle%3A%20none%3B%0A%7D%0Atable%20thead%2C%20table%20tr%2Eeven%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Ap%20%7B%0Amargin%3A%200%2E5em%200%3B%0A%7D%0Ablockquote%20%7B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Apadding%3A%200%2E25em%200%2E75em%3B%0A%7D%0Ahr%20%7B%0Aborder%2Dstyle%3A%20solid%3B%0Aborder%3A%20none%3B%0Aborder%2Dtop%3A%201px%20solid%20%23777%3B%0Amargin%3A%2028px%200%3B%0A%7D%0Adl%20%7B%0Amargin%2Dleft%3A%200%3B%0A%7D%0Adl%20dd%20%7B%0Amargin%2Dbottom%3A%2013px%3B%0Amargin%2Dleft%3A%2013px%3B%0A%7D%0Adl%20dt%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Aul%20%7B%0Amargin%2Dtop%3A%200%3B%0A%7D%0Aul%20li%20%7B%0Alist%2Dstyle%3A%20circle%20outside%3B%0A%7D%0Aul%20ul%20%7B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Apre%2C%20code%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0Aborder%2Dradius%3A%203px%3B%0Acolor%3A%20%23333%3B%0Awhite%2Dspace%3A%20pre%2Dwrap%3B%20%0A%7D%0Apre%20%7B%0Aborder%2Dradius%3A%203px%3B%0Amargin%3A%205px%200px%2010px%200px%3B%0Apadding%3A%2010px%3B%0A%7D%0Apre%3Anot%28%5Bclass%5D%29%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Acode%20%7B%0Afont%2Dfamily%3A%20Consolas%2C%20Monaco%2C%20%27Courier%20New%27%2C%20monospace%3B%0Afont%2Dsize%3A%2085%25%3B%0A%7D%0Ap%20%3E%20code%2C%20li%20%3E%20code%20%7B%0Apadding%3A%202px%200px%3B%0A%7D%0Adiv%2Efigure%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0Aimg%20%7B%0Abackground%2Dcolor%3A%20%23FFFFFF%3B%0Apadding%3A%202px%3B%0Aborder%3A%201px%20solid%20%23DDDDDD%3B%0Aborder%2Dradius%3A%203px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Amargin%3A%200%205px%3B%0A%7D%0Ah1%20%7B%0Amargin%2Dtop%3A%200%3B%0Afont%2Dsize%3A%2035px%3B%0Aline%2Dheight%3A%2040px%3B%0A%7D%0Ah2%20%7B%0Aborder%2Dbottom%3A%204px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Apadding%2Dbottom%3A%202px%3B%0Afont%2Dsize%3A%20145%25%3B%0A%7D%0Ah3%20%7B%0Aborder%2Dbottom%3A%202px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Afont%2Dsize%3A%20120%25%3B%0A%7D%0Ah4%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23f7f7f7%3B%0Amargin%2Dleft%3A%208px%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Ah5%2C%20h6%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23ccc%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Aa%20%7B%0Acolor%3A%20%230033dd%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0Aa%3Ahover%20%7B%0Acolor%3A%20%236666ff%3B%20%7D%0Aa%3Avisited%20%7B%0Acolor%3A%20%23800080%3B%20%7D%0Aa%3Avisited%3Ahover%20%7B%0Acolor%3A%20%23BB00BB%3B%20%7D%0Aa%5Bhref%5E%3D%22http%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0Aa%5Bhref%5E%3D%22https%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0A%0Acode%20%3E%20span%2Ekw%20%7B%20color%3A%20%23555%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Edt%20%7B%20color%3A%20%23902000%3B%20%7D%20%0Acode%20%3E%20span%2Edv%20%7B%20color%3A%20%2340a070%3B%20%7D%20%0Acode%20%3E%20span%2Ebn%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Efl%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Ech%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Est%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Eco%20%7B%20color%3A%20%23888888%3B%20font%2Dstyle%3A%20italic%3B%20%7D%20%0Acode%20%3E%20span%2Eot%20%7B%20color%3A%20%23007020%3B%20%7D%20%0Acode%20%3E%20span%2Eal%20%7B%20color%3A%20%23ff0000%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Efu%20%7B%20color%3A%20%23900%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%20code%20%3E%20span%2Eer%20%7B%20color%3A%20%23a61717%3B%20background%2Dcolor%3A%20%23e3d2d2%3B%20%7D%20%0A" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+
+
+
+<h1 class="title toc-ignore">boardmakr vignette</h1>
+<h4 class="author"><em>Patrick McKenzie</em></h4>
+<h4 class="date"><em>2017-05-04</em></h4>
+
+
+
+<p>This is a vignette for the boardmakr package.</p>
+
+<p>Contents:</p>
+<ol style="list-style-type: decimal">
+<li>Intro</li>
+<li>Workflow
+<ul>
+<li>Downloading games</li>
+<li>Importing data to R</li>
+<li>Working with data</li>
+</ul></li>
+<li>Sample Analysis: Knights vs. Bishops</li>
+</ol>
+
+<div id="intro-chess-analysis-concepts" class="section level2">
+<h2>Intro: Chess analysis concepts</h2>
+<p>For any analysis of trends across chess games, standard notation will not suffice. To be able to characterize everything happening on a board, we need instantaneous data on all interactions between pieces on the board. That is, rather than thinking of the game as an unfolding process that happens move by move, we need to be able to examine each instant of the game knowing piece locations, so that we can determine who’s under attack at any moment, what style of game is being played, and how decisions are made from move to move.</p>
+<p>Representing games as series of board layouts allows each move to be treated as an independent decision based on the layout of the entire board, rather than considering each move independently. For example, standard PGN notation might show “Nxe4,” which is useful only in that it tells us that a knight took a pawn. By looking at the board layout before and after this move, however, we can examine why that move was made: Who was under attack? How did the use of that knight to take that pawn change the layout of the board? Etc.</p>
+<p><strong>Game representation using PGN:</strong></p>
+<pre><code>## [Event &quot;Paris&quot;]
+## [Site &quot;Paris FRA&quot;]
+## [Date &quot;1900.05.21&quot;]
+## [EventDate &quot;1900.??.??&quot;]
+## [Round &quot;3&quot;]
+## [Result &quot;0-1&quot;]
+## [White &quot;Frank James Marshall&quot;]
+## [Black &quot;David Janowski&quot;]
+## [ECO &quot;C45&quot;]
+## [WhiteElo &quot;?&quot;]
+## [BlackElo &quot;?&quot;]
+## [PlyCount &quot;108&quot;]
+## 
+## 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.O-O d6 6.c3 d3 7.Qxd3
+## Nf6 8.e5 dxe5 9.Qxd8+ Kxd8 10.b4 Bb6 11.Ng5 Ke7 12.Nxf7 Rf8
+## 13.b5 Rxf7 14.Ba3+ Ke8 15.bxc6 bxc6 16.Bxf7+ Kxf7 17.Nd2 Ba6
+## 18.Rfe1 Re8 19.Ne4 Bd3 20.Nc5 Bb5 21.Rad1 Bc4 22.Nd7 e4 23.Bc5
+## Nd5 24.Bd4 Bxa2 25.Rd2 Bb3 26.Rb2 Ba4 27.Ne5+ Kg8 28.Ra1 Bb5
+## 29.Bxb6 axb6 30.c4 Rxe5 31.cxb5 cxb5 32.Rxb5 Kf7 33.Rc1 Ke6
+## 34.f4 exf3 35.gxf3 Kd6 36.Kf2 c5 37.Rb3 Kc6 38.Rcb1 Re7 39.f4
+## Rb7 40.f5 Rf7 41.Rf3 b5 42.Ke2 c4 43.Kd2 b4 44.Re1 Ra7 45.Re6+
+## Kc5 46.f6 Ra2+ 47.Kc1 gxf6 48.Rf5 b3 49.Re8 c3 50.Rc8+ Kd4
+## 51.Rxd5+ Kxd5 52.Rxc3 Rc2+ 53.Rxc2 bxc2 54.Kxc2 Ke4 0-1</code></pre>
+<div id="example-move-1" class="section level3">
+<h3>Example: Move 1</h3>
+<p><strong>PGN:</strong></p>
+<p>We can see that the first move is <strong>e4</strong>. We know that this move indicates the central white pawn moving to board space e4.</p>
+<p><strong>Board snapshot of move #1:</strong></p>
+<pre><code>## Move #1, by white:</code></pre>
+<pre><code>## [[1]]
+##   a      b      c      d      e      f      g      h     
+## 1 &quot;R1_w&quot; &quot;N1_w&quot; &quot;B1_w&quot; &quot;Q_w&quot;  &quot;K_w&quot;  &quot;B2_w&quot; &quot;N2_w&quot; &quot;R2_w&quot;
+## 2 &quot;p1_w&quot; &quot;p2_w&quot; &quot;p3_w&quot; &quot;p4_w&quot; &quot;p5_w&quot; &quot;p6_w&quot; &quot;p7_w&quot; &quot;p8_w&quot;
+## 3 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 4 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 5 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 6 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 7 &quot;p1_b&quot; &quot;p2_b&quot; &quot;p3_b&quot; &quot;p4_b&quot; &quot;p5_b&quot; &quot;p6_b&quot; &quot;p7_b&quot; &quot;p8_b&quot;
+## 8 &quot;R1_b&quot; &quot;N1_b&quot; &quot;B1_b&quot; &quot;Q_b&quot;  &quot;K_b&quot;  &quot;B2_b&quot; &quot;N2_b&quot; &quot;R2_b&quot;
+## 
+## [[2]]
+##   a      b      c      d      e      f      g      h     
+## 1 &quot;R1_w&quot; &quot;N1_w&quot; &quot;B1_w&quot; &quot;Q_w&quot;  &quot;K_w&quot;  &quot;B2_w&quot; &quot;N2_w&quot; &quot;R2_w&quot;
+## 2 &quot;p1_w&quot; &quot;p2_w&quot; &quot;p3_w&quot; &quot;p4_w&quot; &quot;none&quot; &quot;p6_w&quot; &quot;p7_w&quot; &quot;p8_w&quot;
+## 3 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 4 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;p5_w&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 5 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 6 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 7 &quot;p1_b&quot; &quot;p2_b&quot; &quot;p3_b&quot; &quot;p4_b&quot; &quot;p5_b&quot; &quot;p6_b&quot; &quot;p7_b&quot; &quot;p8_b&quot;
+## 8 &quot;R1_b&quot; &quot;N1_b&quot; &quot;B1_b&quot; &quot;Q_b&quot;  &quot;K_b&quot;  &quot;B2_b&quot; &quot;N2_b&quot; &quot;R2_b&quot;</code></pre>
+<p>Now we can see the same move, <strong>e4</strong>, in the context of the rest of the board.</p>
+</div>
+<div id="example-move-27" class="section level3">
+<h3>Example: Move 27</h3>
+<p>The advantage of being to examine each move individually is more apparent when considering a move in the middle of the game.</p>
+<p><strong>PGN:</strong></p>
+<p>PGN offers no information other than <strong>Ne5+</strong>.</p>
+<ul>
+<li>This tells us that a knight moved to space e5 and put the black king in check.</li>
+</ul>
+<p>The same move represented by two board snapshots, in contrast, offers full context for the move.</p>
+<p><strong>Board snapshot of move #27:</strong></p>
+<pre><code>## Move #27, by white:</code></pre>
+<pre><code>## [[1]]
+##   a      b      c      d      e      f      g      h     
+## 1 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;R2_w&quot; &quot;none&quot; &quot;K_w&quot;  &quot;none&quot;
+## 2 &quot;none&quot; &quot;R1_w&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;p6_w&quot; &quot;p7_w&quot; &quot;p8_w&quot;
+## 3 &quot;none&quot; &quot;none&quot; &quot;p3_w&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 4 &quot;B1_b&quot; &quot;none&quot; &quot;none&quot; &quot;B1_w&quot; &quot;p4_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 5 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;N2_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 6 &quot;none&quot; &quot;B2_b&quot; &quot;p2_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 7 &quot;p1_b&quot; &quot;none&quot; &quot;p3_b&quot; &quot;N1_w&quot; &quot;none&quot; &quot;K_b&quot;  &quot;p7_b&quot; &quot;p8_b&quot;
+## 8 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;R1_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 
+## [[2]]
+##   a      b      c      d      e      f      g      h     
+## 1 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;R2_w&quot; &quot;none&quot; &quot;K_w&quot;  &quot;none&quot;
+## 2 &quot;none&quot; &quot;R1_w&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;p6_w&quot; &quot;p7_w&quot; &quot;p8_w&quot;
+## 3 &quot;none&quot; &quot;none&quot; &quot;p3_w&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 4 &quot;B1_b&quot; &quot;none&quot; &quot;none&quot; &quot;B1_w&quot; &quot;p4_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 5 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;N2_b&quot; &quot;N1_w&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 6 &quot;none&quot; &quot;B2_b&quot; &quot;p2_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;
+## 7 &quot;p1_b&quot; &quot;none&quot; &quot;p3_b&quot; &quot;none&quot; &quot;none&quot; &quot;K_b&quot;  &quot;p7_b&quot; &quot;p8_b&quot;
+## 8 &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot; &quot;R1_b&quot; &quot;none&quot; &quot;none&quot; &quot;none&quot;</code></pre>
+<p>Here, we aren’t losing any information – we can still see that a knight moved to e5 and put the black king in check. But now we have the location of all pieces on the board, and we know exactly where the knight moved from to land on e5. We can examine the implications of this move in the context of other pieces on the board.</p>
+</div>
+</div>
+<div id="workflow" class="section level2">
+<h2>Workflow</h2>
+<p>This package offers a foundation for conducting analysis of chess games. It supplies functions for downloading chess games from an online database and converting these games to a format useful for analysis in R.</p>
+<div id="downloading-games" class="section level3">
+<h3>Downloading games</h3>
+<ul>
+<li>The data acquisition functions in this package scrape games from “chessgames.com,” a chess game database that is designed to allow users to study individual games based on specific players, tournaments, opening styles, etc. (read more on chessgames.com at their <a href="http://www.chessgames.com/chessabout.html">“about” page</a>)
+<ul>
+<li><code>download_random_games()</code>
+<ul>
+<li>Downloads a user-specified number of random chess games straight from “chessgames.com” – where they are saved as .txt files in PGN format – to a user-specified <strong>empty</strong> directory.</li>
+</ul></li>
+<li><code>download_games_id()</code>
+<ul>
+<li>Exists to download specific games from chessgames.com. The user supplies a vector of game IDs and a destination directory.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="importing-data-to-r" class="section level3">
+<h3>Importing data to R</h3>
+<ul>
+<li>Cleaning data:
+<ul>
+<li><code>get_moves()</code>
+<ul>
+<li>Trims the PGN text file and stores vectors of black and white moves.</li>
+<li>Returned vectors of moves are in a format usable for <code>get_boards()</code>.</li>
+</ul></li>
+</ul></li>
+<li>Producing games as collections of board snapshots:
+<ul>
+<li><code>get_boards()</code>
+<ul>
+<li>Takes cleaned PGN move vectors from <code>get_moves()</code> and produces a list of
+<ol style="list-style-type: decimal">
+<li>all board snapshots</li>
+<li>white move snapshot pairs</li>
+<li>black move snapshot pairs</li>
+</ol></li>
+<li><code>white_move()</code> and <code>black_move()</code>
+<ul>
+<li>Internal functions for <code>get_boards</code></li>
+<li>Contain rules for how to interpret each move in PGN notation</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="working-with-data" class="section level3">
+<h3>Working with data</h3>
+<ul>
+<li>Functions in progress. Currently:
+<ul>
+<li><code>get_captures_by_partition()</code>
+<ul>
+<li>Divides the game into “partitions” defined by how many of a specific piece remain on the board. If the specified piece is “bishop,” for example, the game is partitioned based on when there are two bishops on the board, one bishop on the board, and no bishops on the board. The function returns the number of captures by each color during each partition.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="analysis-knights-vs.bishops" class="section level1">
+<h1>Analysis: Knights vs. Bishops</h1>
+<div id="intro" class="section level2">
+<h2>Intro</h2>
+<p>In the classic method of assigning point values to pieces, knights and bishops are both assigned values of 3. More recently, the value of bishops tends to be adjusted to being just higher than that of knights, as most people consider bishops to be stronger pieces.</p>
+</div>
+<div id="counting-the-number-of-pieces-captured-by-bishops-vs.knights" class="section level2">
+<h2>Counting the number of pieces captured by bishops vs. knights</h2>
+<p>A simple way to start is to take an average number of pieces taken by bishops across a lot of games and to compare that with the average number of pieces taken by knights.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">files &lt;-<span class="st"> </span><span class="kw">list.files</span>(<span class="st">&quot;../../data/games&quot;</span>)
+knight_caps &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+bishop_caps &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+queen_caps &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (q in files[<span class="dv">1</span>:<span class="dv">1000</span>]) {
+  <span class="kw">tryCatch</span>({
+
+    
+    firstfile &lt;-<span class="st"> </span>q
+    test &lt;-<span class="st"> </span><span class="kw">readLines</span>(<span class="kw">paste0</span>(<span class="st">&quot;../../data/games/&quot;</span>,firstfile))
+    mymoves &lt;-<span class="st"> </span><span class="kw">get_moves</span>(test)
+    full_game &lt;-<span class="kw">get_boards</span>(mymoves)
+    
+    
+    <span class="co"># now we want all of the &quot;moves&quot; -- this captures all board transitions that involve two changing squares. </span>
+    <span class="co"># this excludes castling.</span>
+    involved_spaces &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+    for(i in <span class="dv">1</span>:(<span class="kw">length</span>(full_game$boardpositions)-<span class="dv">1</span>)) { 
+      move &lt;-<span class="st"> </span>full_game$boardpositions[[i]][!(full_game$boardpositions[[i]] ==<span class="st"> </span>full_game$boardpositions[[i<span class="dv">+1</span>]])]
+      if (<span class="kw">length</span>(move) ==<span class="st"> </span><span class="dv">2</span>) {
+        involved_spaces &lt;-<span class="st"> </span><span class="kw">rbind</span>(involved_spaces,move)
+      }
+    }
+    
+    white &lt;-<span class="st"> </span>involved_spaces[!(<span class="dv">1</span>:<span class="kw">nrow</span>(involved_spaces) %%<span class="st"> </span><span class="dv">2</span> ==<span class="st"> </span><span class="dv">0</span>),] <span class="co"># sorts out all white moves</span>
+    black &lt;-<span class="st"> </span>involved_spaces[(<span class="dv">1</span>:<span class="kw">nrow</span>(involved_spaces) %%<span class="st"> </span><span class="dv">2</span> ==<span class="st"> </span><span class="dv">0</span>),] <span class="co"># sorts out all black moves</span>
+    
+    whitecaptures &lt;-<span class="st"> </span>white[-<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;none&quot;</span>, white),<span class="kw">dim</span>(white))[,<span class="dv">1</span>],] <span class="co">#this sorts out all of the non-captures</span>
+    blackcaptures &lt;-<span class="st"> </span>black[-<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;none&quot;</span>, black),<span class="kw">dim</span>(black))[,<span class="dv">1</span>],]
+    
+    whiteknightcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N1_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],],
+                                 whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N2_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],])
+    whitebishopcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B1_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],],
+                                 whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B2_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],])
+    whitequeencaptures &lt;-<span class="st"> </span>whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;Q_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],]
+    
+    blackknightcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N1_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],],
+                                 blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N2_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],])
+    blackbishopcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B1_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],],
+                                 blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B2_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],])
+    blackqueencaptures &lt;-<span class="st"> </span>blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;Q_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],]    
+    numknightcaptures &lt;-<span class="st"> </span><span class="kw">nrow</span>(whiteknightcaptures) +<span class="st"> </span><span class="kw">nrow</span>(blackknightcaptures)
+    numbishopcaptures &lt;-<span class="st"> </span><span class="kw">nrow</span>(whitebishopcaptures) +<span class="st"> </span><span class="kw">nrow</span>(blackbishopcaptures)
+    numqueencaptures &lt;-<span class="st"> </span><span class="kw">nrow</span>(whitequeencaptures) +<span class="st"> </span><span class="kw">nrow</span>(blackqueencaptures)
+    
+    knight_caps &lt;-<span class="st"> </span><span class="kw">c</span>(knight_caps,numknightcaptures)
+    bishop_caps &lt;-<span class="st"> </span><span class="kw">c</span>(bishop_caps,numbishopcaptures)
+    queen_caps &lt;-<span class="st"> </span><span class="kw">c</span>(queen_caps,numqueencaptures)
+    
+  }, <span class="dt">error=</span>function(e){<span class="kw">cat</span>(<span class="st">&quot;ERROR :&quot;</span>,<span class="kw">conditionMessage</span>(e), <span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>)})
+}</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(knight_caps)</code></pre></div>
+<pre><code>## [1] 2.957763</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(bishop_caps)</code></pre></div>
+<pre><code>## [1] 3.077626</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(queen_caps)</code></pre></div>
+<pre><code>## [1] 2.227545</code></pre>
+<ul>
+<li>Notice that the queen captures fewer pieces on average, but remember that there is only one queen while there are two of each knights and bishops.</li>
+</ul>
+<p>So we can see that, on average, bishops capture more pieces during these games than knights do.</p>
+<p>This opens up all sorts of new questions…</p>
+<ol style="list-style-type: decimal">
+<li>Does this hold when different numbers of each knights and bishops are left on the board? Or might single knights perform better than single bishops? This might be tough to answer, given that each type of piece might exist as a “single” for different amounts of time, on average, and at different phases of the game.</li>
+<li>Do knights tend to do better in closed games than in open games, as we might be led to believe from literature? If so, this might be an effect of the piece actually performing better, or it might be the effect of chess players using the pieces differently based on what mainstream chess theory teaches about using knights and bishops.</li>
+<li>Are knights and bishops used differently depending on the skill of the player? What about the time in history?</li>
+</ol>
+</div>
+<div id="partitioning-games-based-on-number-of-remaining-knights-bishops" class="section level2">
+<h2>Partitioning games based on number of remaining knights / bishops</h2>
+<ul>
+<li>We would love to be able to estimate the average number of pieces captured when only one bishop or one knight is on the board, but this is biased – such scenarios only exist toward the end of the game, when pieces might not be captured as frequently.
+<ul>
+<li>We’ll try fixing this by taking a proportion: The number of captures by a piece during a partition divided by the total number of captures during that partition. However, this seems like it might be easily skewed if, for example, the bishop is the only remaining piece to make captures toward the end of a game.</li>
+</ul></li>
+<li><em>Side note:</em> It might be easy and interesting to characterize the rate, generally, at which pieces are captured through games. Have “number of total pieces remaining” on the y-axis and “move” on the x-axis, and then divide by the total number of moves.</li>
+</ul>
+<p>The functions below break the game up in three partitions for a designated piece: where two of that piece are surviving, where one is surviving, and where neither is surviving. They then calculate the proportion of captures made during each partition by the designated “capturing piece.”</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">get_captures_by_partition &lt;-<span class="st"> </span>function(game,partitionpiece,<span class="dt">capturingpiece =</span> <span class="ot">NULL</span>) { <span class="co">#partitionpiece = single letter (like &quot;B&quot;). Refers to the piece for which you want to break captures apart by (if bishop, it'll be partitioned into &quot;two,one, and no bishop captures&quot;)</span>
+
+allblackmoves &lt;-<span class="st"> </span>game$black.moves
+allwhitemoves &lt;-<span class="st"> </span>game$white.moves
+
+premove &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(allblackmoves,head,<span class="dt">n=</span><span class="dv">1</span>),<span class="dt">recursive =</span> <span class="ot">FALSE</span>)
+premovebishops &lt;-<span class="st"> </span><span class="kw">lapply</span>(premove,grep,<span class="dt">pattern=</span>partitionpiece)
+num.black &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (i in <span class="dv">1</span>:<span class="kw">length</span>(premove)) {
+  survivingpieces &lt;-premove[[i]][premovebishops[[i]]]
+  temp.num.black &lt;-<span class="st"> </span><span class="kw">length</span>(<span class="kw">grep</span>(<span class="st">&quot;b&quot;</span>,survivingpieces))
+  num.black &lt;-<span class="st"> </span><span class="kw">c</span>(num.black,temp.num.black)
+}
+premove &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(allwhitemoves,head,<span class="dt">n=</span><span class="dv">1</span>),<span class="dt">recursive =</span> <span class="ot">FALSE</span>)
+premovebishops &lt;-<span class="st"> </span><span class="kw">lapply</span>(premove,grep,<span class="dt">pattern=</span>partitionpiece)
+num.white &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (i in <span class="dv">1</span>:<span class="kw">length</span>(premove)) {
+  survivingpieces &lt;-premove[[i]][premovebishops[[i]]]
+  temp.num.white &lt;-<span class="st"> </span><span class="kw">length</span>(<span class="kw">grep</span>(<span class="st">&quot;w&quot;</span>,survivingpieces))
+  num.white &lt;-<span class="st"> </span><span class="kw">c</span>(num.white,temp.num.white)
+}
+<span class="co">#Now get captures per move</span>
+two.black &lt;-<span class="st"> </span>allblackmoves[(num.black ==<span class="st"> </span><span class="dv">2</span>)]
+one.black &lt;-<span class="st"> </span>allblackmoves[(num.black ==<span class="st"> </span><span class="dv">1</span>)]
+no.black &lt;-<span class="st"> </span>allblackmoves[(num.black ==<span class="st"> </span><span class="dv">0</span>)]
+two.white &lt;-<span class="st"> </span>allwhitemoves[(num.white ==<span class="st"> </span><span class="dv">2</span>)]
+one.white &lt;-<span class="st"> </span>allwhitemoves[(num.white ==<span class="st"> </span><span class="dv">1</span>)]
+no.white &lt;-<span class="st"> </span>allwhitemoves[(num.white ==<span class="st"> </span><span class="dv">0</span>)]
+nummoves.two.black &lt;-<span class="st"> </span><span class="kw">length</span>(two.black)
+nummoves.one.black &lt;-<span class="st"> </span><span class="kw">length</span>(one.black)
+nummoves.no.black &lt;-<span class="st"> </span><span class="kw">length</span>(no.black)
+nummoves.two.white &lt;-<span class="st"> </span><span class="kw">length</span>(two.white)
+nummoves.one.white &lt;-<span class="st"> </span><span class="kw">length</span>(one.white)
+nummoves.no.white &lt;-<span class="st"> </span><span class="kw">length</span>(no.white)
+
+get_involved_spaces &lt;-<span class="st"> </span>function(x) { <span class="co"># retrieves the two spaces involved in each move</span>
+  if (<span class="kw">length</span>(x) &gt;<span class="st"> </span><span class="dv">0</span>) {
+    involved_spaces &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+    for(i in <span class="dv">1</span>:(<span class="kw">length</span>(x))) {
+      move &lt;-<span class="st"> </span>x[[i]][[<span class="dv">1</span>]][!(x[[i]][[<span class="dv">1</span>]] ==<span class="st"> </span>x[[i]][[<span class="dv">2</span>]])]
+      if (<span class="kw">length</span>(move) ==<span class="st"> </span><span class="dv">2</span>) {
+        involved_spaces &lt;-<span class="st"> </span><span class="kw">rbind</span>(involved_spaces,move)
+      }
+    }
+    involved_spaces
+  }
+  else { <span class="ot">NULL</span> }
+}
+
+two.black.spaces &lt;-<span class="st"> </span><span class="kw">get_involved_spaces</span>(two.black) <span class="co"># the two spaces involved in each black move</span>
+one.black.spaces &lt;-<span class="st"> </span><span class="kw">get_involved_spaces</span>(one.black)
+no.black.spaces &lt;-<span class="st"> </span><span class="kw">get_involved_spaces</span>(no.black)
+two.white.spaces &lt;-<span class="st"> </span><span class="kw">get_involved_spaces</span>(two.white) <span class="co"># the two spaces involved in each white move</span>
+one.white.spaces &lt;-<span class="st"> </span><span class="kw">get_involved_spaces</span>(one.white)
+no.white.spaces &lt;-<span class="st"> </span><span class="kw">get_involved_spaces</span>(no.white)
+
+get_captures &lt;-<span class="st"> </span>function(x) {    <span class="co"># returns moves that are captures</span>
+  if (<span class="kw">is.null</span>(x)) {<span class="kw">return</span>(<span class="ot">NULL</span>)}
+  captures &lt;-<span class="st"> </span>x[-<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;none&quot;</span>, x),<span class="kw">dim</span>(x))[,<span class="dv">1</span>],]
+  if (<span class="kw">length</span>(captures)==<span class="dv">0</span>) {     <span class="co"># if all moves are captures</span>
+    captures &lt;-<span class="st"> </span>x
+  }
+  if (<span class="kw">is.null</span>(<span class="kw">dim</span>(captures))) {
+    <span class="kw">dim</span>(captures) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">1</span>,<span class="dv">2</span>)
+    }
+  <span class="kw">return</span>(captures)
+}
+
+two.black.captures &lt;-<span class="st"> </span><span class="kw">get_captures</span>(two.black.spaces)
+one.black.captures &lt;-<span class="st"> </span><span class="kw">get_captures</span>(one.black.spaces)
+no.black.captures &lt;-<span class="st"> </span><span class="kw">get_captures</span>(no.black.spaces)
+two.white.captures &lt;-<span class="st"> </span><span class="kw">get_captures</span>(two.white.spaces)
+one.white.captures &lt;-<span class="st"> </span><span class="kw">get_captures</span>(one.white.spaces)
+no.white.captures &lt;-<span class="st"> </span><span class="kw">get_captures</span>(no.white.spaces)
+
+captures &lt;-<span class="st"> </span><span class="kw">list</span>(<span class="dt">twopieces_white=</span>two.white.captures,<span class="dt">twopieces_black=</span>two.black.captures,<span class="dt">onepieces_white=</span>one.white.captures,<span class="dt">onepieces_black=</span>one.black.captures,<span class="dt">nopieces_white=</span>no.white.captures,<span class="dt">nopieces_black =</span> no.black.captures)
+num.moves &lt;-<span class="st"> </span><span class="kw">c</span>(nummoves.two.white,nummoves.two.black,nummoves.one.white,nummoves.one.black,nummoves.no.white,nummoves.no.black)
+
+
+if (!<span class="kw">is.null</span>(capturingpiece)) {
+  possiblepieces &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="kw">paste0</span>(capturingpiece,<span class="st">&quot;1_w&quot;</span>),<span class="kw">paste0</span>(capturingpiece,<span class="st">&quot;2_w&quot;</span>),<span class="kw">paste0</span>(capturingpiece,<span class="st">&quot;1_b&quot;</span>),<span class="kw">paste0</span>(capturingpiece,<span class="st">&quot;2_b&quot;</span>))
+  if (!<span class="kw">is.null</span>(captures$twopieces_white)) {
+    piececaptures_white_two &lt;-<span class="st"> </span><span class="kw">rbind</span>(captures$twopieces_white[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">1</span>], captures$twopieces_white),<span class="kw">dim</span>(captures$twopieces_white))[,<span class="dv">1</span>],],
+                                     captures$twopieces_white[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">2</span>], captures$twopieces_white),<span class="kw">dim</span>(captures$twopieces_white))[,<span class="dv">1</span>],])
+  } else {
+    piececaptures_white_two &lt;-<span class="st"> </span><span class="ot">NULL</span>
+    }
+  if (!<span class="kw">is.null</span>(captures$twopieces_black)) {
+    piececaptures_black_two &lt;-<span class="st"> </span><span class="kw">rbind</span>(captures$twopieces_black[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">3</span>], captures$twopieces_black),<span class="kw">dim</span>(captures$twopieces_black))[,<span class="dv">1</span>],],
+                                     captures$twopieces_black[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">4</span>], captures$twopieces_black),<span class="kw">dim</span>(captures$twopieces_black))[,<span class="dv">1</span>],])
+  } else {piececaptures_black_two &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!<span class="kw">is.null</span>(captures$onepieces_white)) {
+    piececaptures_white_one &lt;-<span class="st"> </span><span class="kw">rbind</span>(captures$onepieces_white[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">1</span>], captures$onepieces_white),<span class="kw">dim</span>(captures$onepieces_white))[,<span class="dv">1</span>],],
+                                     captures$onepieces_white[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">2</span>], captures$onepieces_white),<span class="kw">dim</span>(captures$onepieces_white))[,<span class="dv">1</span>],])
+  } else {piececaptures_white_one &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!<span class="kw">is.null</span>(captures$onepieces_black)) {
+    piececaptures_black_one &lt;-<span class="st"> </span><span class="kw">rbind</span>(captures$onepieces_black[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">3</span>], captures$onepieces_black),<span class="kw">dim</span>(captures$onepieces_black))[,<span class="dv">1</span>],],
+                                     captures$onepieces_black[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">4</span>], captures$onepieces_black),<span class="kw">dim</span>(captures$onepieces_black))[,<span class="dv">1</span>],])
+  } else {piececaptures_black_one &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!<span class="kw">is.null</span>(captures$nopieces_white)) {
+    piececaptures_white_none &lt;-<span class="st"> </span><span class="kw">rbind</span>(captures$nopieces_white[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">1</span>], captures$nopieces_white),<span class="kw">dim</span>(captures$nopieces_white))[,<span class="dv">1</span>],],
+                                      captures$nopieces_white[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">2</span>], captures$nopieces_white),<span class="kw">dim</span>(captures$nopieces_white))[,<span class="dv">1</span>],])
+  } else {piececaptures_white_none &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!<span class="kw">is.null</span>(captures$nopieces_black)) {
+    piececaptures_black_none &lt;-<span class="st"> </span><span class="kw">rbind</span>(captures$nopieces_black[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">3</span>], captures$nopieces_black),<span class="kw">dim</span>(captures$nopieces_black))[,<span class="dv">1</span>],],
+                                      captures$nopieces_black[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(possiblepieces[<span class="dv">4</span>], captures$nopieces_black),<span class="kw">dim</span>(captures$nopieces_black))[,<span class="dv">1</span>],])
+  } else {piececaptures_black_none &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!(<span class="kw">length</span>(piececaptures_white_two) &gt;<span class="st"> </span><span class="dv">0</span>)) {piececaptures_white_two &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!(<span class="kw">length</span>(piececaptures_black_two) &gt;<span class="st"> </span><span class="dv">0</span>)) {piececaptures_black_two &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!(<span class="kw">length</span>(piececaptures_white_one) &gt;<span class="st"> </span><span class="dv">0</span>)) {piececaptures_white_one &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!(<span class="kw">length</span>(piececaptures_black_one) &gt;<span class="st"> </span><span class="dv">0</span>)) {piececaptures_black_one &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!(<span class="kw">length</span>(piececaptures_white_none) &gt;<span class="st"> </span><span class="dv">0</span>)) {piececaptures_white_none &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  if (!(<span class="kw">length</span>(piececaptures_black_none) &gt;<span class="st"> </span><span class="dv">0</span>)) {piececaptures_black_none &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+  captures &lt;-<span class="st"> </span><span class="kw">list</span>(<span class="dt">twopieces_white=</span>piececaptures_white_two,<span class="dt">twopieces_black=</span>piececaptures_black_two,<span class="dt">onepieces_white=</span>piececaptures_white_one,<span class="dt">onepieces_black=</span>piececaptures_black_one,<span class="dt">nopieces_white=</span>piececaptures_white_none,<span class="dt">nopieces_black =</span> piececaptures_black_none)
+}
+<span class="kw">list</span>(<span class="dt">captures =</span> captures, <span class="dt">number_moves_partition =</span> num.moves)
+}</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">proportion_captured_pieces_by_partition &lt;-<span class="st"> </span>function(game, partitionpiece, capturingpiece) {
+bishop_capture_partition &lt;-<span class="st"> </span><span class="kw">get_captures_by_partition</span>(game,partitionpiece,capturingpiece)
+bishop_capture_partition_total &lt;-<span class="st"> </span><span class="kw">get_captures_by_partition</span>(game,partitionpiece)
+
+twobishops &lt;-<span class="st"> </span><span class="kw">nrow</span>(<span class="kw">rbind</span>(bishop_capture_partition$captures$twopieces_black,bishop_capture_partition$captures$twopieces_white))
+onebishop &lt;-<span class="st"> </span><span class="kw">nrow</span>(<span class="kw">rbind</span>(bishop_capture_partition$captures$onepieces_black,bishop_capture_partition$captures$onepieces_white))
+twobishops_total &lt;-<span class="st"> </span><span class="kw">nrow</span>(<span class="kw">rbind</span>(bishop_capture_partition_total$captures$twopieces_black,bishop_capture_partition_total$captures$twopieces_white))
+onebishop_total &lt;-<span class="st"> </span><span class="kw">nrow</span>(<span class="kw">rbind</span>(bishop_capture_partition_total$captures$onepieces_black,bishop_capture_partition_total$captures$onepieces_white))
+if (!<span class="kw">is.null</span>(twobishops)) {
+  bishopcaps_per_capture2 &lt;-<span class="st"> </span>(twobishops/twobishops_total)
+} else if (!<span class="kw">is.null</span>(twobishops_total)) {
+  bishopcaps_per_capture2 &lt;-<span class="st"> </span><span class="dv">0</span>
+  } else {bishopcaps_per_capture2 &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+if (!<span class="kw">is.null</span>(onebishop)) {
+  bishopcaps_per_capture1 &lt;-<span class="st"> </span>(onebishop/onebishop_total)
+} else if (!<span class="kw">is.null</span>(onebishop_total)) {
+  bishopcaps_per_capture1 &lt;-<span class="st"> </span><span class="dv">0</span>
+  } else {bishopcaps_per_capture1 &lt;-<span class="st"> </span><span class="ot">NULL</span>}
+<span class="kw">list</span>(<span class="dt">piece_captures_per_capture_when_2 =</span> bishopcaps_per_capture2,<span class="dt">piece_captures_per_capture_when_1 =</span> bishopcaps_per_capture1)
+}</code></pre></div>
+<p>We can now apply this function to try to estimate whether bishops or knights make a higher proportion of captures (the proportion bit is meant to correct for different numbers of captures through different phases of the game) when both of the piece type are surviving or one of the piece type is surviving.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">bishopscore2 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+bishopscore1 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+knightscore2 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+knightscore1 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+NBscore2 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+NBscore1 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+BNscore2 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+BNscore1 &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (q in files[<span class="dv">1</span>:<span class="dv">1000</span>]) {
+  
+  <span class="kw">tryCatch</span>({
+    
+  firstfile &lt;-<span class="st"> </span>q
+  test &lt;-<span class="st"> </span><span class="kw">readLines</span>(<span class="kw">paste0</span>(<span class="st">&quot;../../data/games/&quot;</span>,firstfile))
+  mymoves &lt;-<span class="st"> </span><span class="kw">get_moves</span>(test)
+  full_game &lt;-<span class="kw">get_boards</span>(mymoves)
+  bishops &lt;-<span class="st"> </span><span class="kw">proportion_captured_pieces_by_partition</span>(full_game,<span class="st">&quot;B&quot;</span>,<span class="st">&quot;B&quot;</span>)
+  knights &lt;-<span class="st"> </span><span class="kw">proportion_captured_pieces_by_partition</span>(full_game,<span class="st">&quot;N&quot;</span>,<span class="st">&quot;N&quot;</span>)
+  bishopscore2 &lt;-<span class="st"> </span><span class="kw">c</span>(bishopscore2, bishops[[<span class="dv">1</span>]])
+  bishopscore1 &lt;-<span class="st"> </span><span class="kw">c</span>(bishopscore1, bishops[[<span class="dv">2</span>]])
+  knightscore2 &lt;-<span class="st"> </span><span class="kw">c</span>(knightscore2, knights[[<span class="dv">1</span>]])
+  knightscore1 &lt;-<span class="st"> </span><span class="kw">c</span>(knightscore1, knights[[<span class="dv">2</span>]])
+  part_N_cap_B &lt;-<span class="st"> </span><span class="kw">proportion_captured_pieces_by_partition</span>(full_game,<span class="st">&quot;N&quot;</span>,<span class="st">&quot;B&quot;</span>)
+  part_B_cap_N &lt;-<span class="st"> </span><span class="kw">proportion_captured_pieces_by_partition</span>(full_game,<span class="st">&quot;B&quot;</span>,<span class="st">&quot;N&quot;</span>)
+  NBscore2 &lt;-<span class="st"> </span><span class="kw">c</span>(NBscore2, part_N_cap_B[[<span class="dv">1</span>]])
+  NBscore1 &lt;-<span class="st"> </span><span class="kw">c</span>(NBscore1, part_N_cap_B[[<span class="dv">2</span>]])
+  BNscore2 &lt;-<span class="st"> </span><span class="kw">c</span>(BNscore2, part_B_cap_N[[<span class="dv">1</span>]])
+  BNscore1 &lt;-<span class="st"> </span><span class="kw">c</span>(BNscore1, part_B_cap_N[[<span class="dv">2</span>]])
+  
+  }, <span class="dt">error=</span>function(e){<span class="kw">cat</span>(<span class="st">&quot;ERROR :&quot;</span>,<span class="kw">conditionMessage</span>(e), <span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>)})
+}</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(bishopscore2) <span class="co"># prop of captures made by bishops when 2 are surviving</span></code></pre></div>
+<pre><code>## [1] 0.302707</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(knightscore2) <span class="co"># prop of captures made by knights when 2 are surviving</span></code></pre></div>
+<pre><code>## [1] 0.3531886</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(bishopscore1) <span class="co"># prop of captures made by bishops when 1 is surviving</span></code></pre></div>
+<pre><code>## [1] 0.204525</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(knightscore1) <span class="co"># prop of captures made by knights when 1 is surviving</span></code></pre></div>
+<pre><code>## [1] 0.2030555</code></pre>
+<p>So we see that the knight scores are <strong>higher</strong> here! What does this mean?</p>
+<ul>
+<li>Given that bishops take more pieces overall, the only way to explain the lower proportion of captures by bishops is that they exist longer in the game – so that the denominator (“number of total captures by any pieces through this partition”) is bigger.</li>
+</ul>
+<p>Now let’s test to confirm that bishops last longer through chess games.</p>
+<p>Here is the function that will count the number of a piece for each color for each move:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">count_number_of_piece_thru_game &lt;-<span class="st"> </span>function(N_or_B_or_R) {
+  letter &lt;-<span class="st"> </span>N_or_B_or_R
+  before_white_moves &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(full_game$white.moves,head,<span class="dv">1</span>,<span class="dv">1</span>),<span class="dt">recursive =</span> <span class="ot">FALSE</span>)
+  before_black_moves &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(full_game$black.moves,head,<span class="dv">1</span>,<span class="dv">1</span>),<span class="dt">recursive =</span> <span class="ot">FALSE</span>)
+  
+  num1_w &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(<span class="kw">lapply</span>(before_white_moves,grep,<span class="dt">pattern=</span><span class="kw">paste0</span>(letter,<span class="st">&quot;1_w&quot;</span>)),length))
+  num2_w &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(<span class="kw">lapply</span>(before_white_moves,grep,<span class="dt">pattern=</span><span class="kw">paste0</span>(letter,<span class="st">&quot;2_w&quot;</span>)),length))
+  num.white.pieces &lt;-<span class="st"> </span>num1_w +<span class="st"> </span>num2_w
+  
+  num1_b &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(<span class="kw">lapply</span>(before_black_moves,grep,<span class="dt">pattern=</span><span class="kw">paste0</span>(letter,<span class="st">&quot;1_b&quot;</span>)),length))
+  num2_b &lt;-<span class="st"> </span><span class="kw">unlist</span>(<span class="kw">lapply</span>(<span class="kw">lapply</span>(before_black_moves,grep,<span class="dt">pattern=</span><span class="kw">paste0</span>(letter,<span class="st">&quot;2_b&quot;</span>)),length))
+  num.black.pieces &lt;-<span class="st"> </span>num1_b +<span class="st"> </span>num2_b
+  <span class="kw">list</span>(<span class="dt">num.white.pieces =</span> num.white.pieces,<span class="dt">num.black.pieces=</span>num.black.pieces)
+}</code></pre></div>
+<p>And here is code that will allow us to directly compare the length of time before a bishop / knight is lost from either color (“early”), and then from the other color (“late”):</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">earlybishop &lt;-<span class="st"> </span>latebishop &lt;-<span class="st"> </span>earlyknight &lt;-<span class="st"> </span>lateknight &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (q in files[<span class="dv">1</span>:<span class="dv">1000</span>]) {
+  
+  <span class="kw">tryCatch</span>({
+  
+      firstfile &lt;-<span class="st"> </span>q
+      test &lt;-<span class="st"> </span><span class="kw">readLines</span>(<span class="kw">paste0</span>(<span class="st">&quot;../../data/games/&quot;</span>,firstfile))
+      mymoves &lt;-<span class="st"> </span><span class="kw">get_moves</span>(test)
+      full_game &lt;-<span class="kw">get_boards</span>(mymoves)
+      
+      
+      numbishops &lt;-<span class="st"> </span><span class="kw">count_number_of_piece_thru_game</span>(<span class="st">&quot;B&quot;</span>)
+      numknights &lt;-<span class="st"> </span><span class="kw">count_number_of_piece_thru_game</span>(<span class="st">&quot;N&quot;</span>)
+      
+      white.bish2 &lt;-<span class="st"> </span><span class="kw">sum</span>(numbishops$num.white.pieces ==<span class="st"> </span><span class="dv">2</span>)/<span class="kw">length</span>(full_game$black.moves)
+      black.bish2 &lt;-<span class="st"> </span><span class="kw">sum</span>(numbishops$num.black.pieces ==<span class="st"> </span><span class="dv">2</span>)/<span class="kw">length</span>(full_game$black.moves)
+      
+      white.knight2 &lt;-<span class="st"> </span><span class="kw">sum</span>(numknights$num.white.pieces ==<span class="st"> </span><span class="dv">2</span>)/<span class="kw">length</span>(full_game$black.moves)
+      black.knight2 &lt;-<span class="st"> </span><span class="kw">sum</span>(numknights$num.black.pieces ==<span class="st"> </span><span class="dv">2</span>)/<span class="kw">length</span>(full_game$black.moves)
+      
+      earlybishop &lt;-<span class="st"> </span><span class="kw">c</span>(earlybishop,<span class="kw">min</span>(<span class="kw">c</span>(white.bish2,black.bish2)))
+      latebishop &lt;-<span class="st"> </span><span class="kw">c</span>(latebishop,<span class="kw">max</span>(<span class="kw">c</span>(white.bish2,black.bish2)))
+      earlyknight &lt;-<span class="st"> </span><span class="kw">c</span>(earlyknight,<span class="kw">min</span>(<span class="kw">c</span>(white.knight2,black.knight2)))
+      lateknight &lt;-<span class="st"> </span><span class="kw">c</span>(lateknight,<span class="kw">max</span>(<span class="kw">c</span>(white.knight2,black.knight2)))
+      
+  }, <span class="dt">error=</span>function(e){<span class="kw">cat</span>(<span class="st">&quot;ERROR :&quot;</span>,<span class="kw">conditionMessage</span>(e), <span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>)})
+}</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(earlybishop) <span class="co"># time for either color to lose its first bishop</span></code></pre></div>
+<pre><code>## [1] 0.4018202</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(latebishop) <span class="co"># time for the other color to lose its first bishop</span></code></pre></div>
+<pre><code>## [1] 0.5715628</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(earlyknight) <span class="co"># time for either color to lose its first knight</span></code></pre></div>
+<pre><code>## [1] 0.348186</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(lateknight) <span class="co"># time for the other color to lose its first knight</span></code></pre></div>
+<pre><code>## [1] 0.4803788</code></pre>
+<p>So we can see that bishops <strong>do last longer before being taken</strong> than knights.</p>
+</div>
+<div id="open-vs.closed-games" class="section level2">
+<h2>Open vs. Closed Games</h2>
+<p>First, we need to figure out how we’re going to classify games as “open” or “closed.” This generally refers to whether the center is crowded with pawns.</p>
+<p>In the following code, I count the number of pawns in the middle of the board (rows 3:6, columns c:f) for 1000 games, and I take the maximum number of pawns in this space at any moment for each game.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">game.max.pawns &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (q in <span class="dv">1</span>:<span class="dv">1000</span>) {
+  <span class="kw">tryCatch</span>({
+firstfile &lt;-<span class="st"> </span>files[q]
+test &lt;-<span class="st"> </span><span class="kw">readLines</span>(<span class="kw">paste0</span>(<span class="st">&quot;../../data/games/&quot;</span>,firstfile))
+mymoves &lt;-<span class="st"> </span><span class="kw">get_moves</span>(test)
+full_game &lt;-<span class="kw">get_boards</span>(mymoves)
+
+
+pawn.locations &lt;-<span class="st"> </span><span class="kw">lapply</span>(full_game$boardpositions,grep,<span class="dt">pattern =</span> <span class="st">&quot;p&quot;</span>)
+center.locations &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">19</span>:<span class="dv">22</span>,<span class="dv">27</span>:<span class="dv">30</span>,<span class="dv">35</span>:<span class="dv">38</span>,<span class="dv">43</span>:<span class="dv">46</span>) <span class="co"># rows 3:6, columns c:f</span>
+pawns &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (i in <span class="dv">1</span>:<span class="kw">length</span>(pawn.locations)) {
+  pawns &lt;-<span class="st"> </span><span class="kw">c</span>(pawns,<span class="kw">sum</span>(pawn.locations[[i]] %in%<span class="st"> </span>center.locations))
+  max.pawns &lt;-<span class="st"> </span><span class="kw">max</span>(pawns)
+}
+game.max.pawns &lt;-<span class="st"> </span><span class="kw">c</span>(game.max.pawns,max.pawns)
+
+  }, <span class="dt">error=</span>function(e){<span class="kw">cat</span>(<span class="st">&quot;ERROR :&quot;</span>,<span class="kw">conditionMessage</span>(e), <span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>)})
+}</code></pre></div>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEgCAYAAABchszxAAAD8GlDQ1BJQ0MgUHJvZmlsZQAAOI2NVd1v21QUP4lvXKQWP6Cxjg4Vi69VU1u5GxqtxgZJk6XpQhq5zdgqpMl1bhpT1za2021Vn/YCbwz4A4CyBx6QeEIaDMT2su0BtElTQRXVJKQ9dNpAaJP2gqpwrq9Tu13GuJGvfznndz7v0TVAx1ea45hJGWDe8l01n5GPn5iWO1YhCc9BJ/RAp6Z7TrpcLgIuxoVH1sNfIcHeNwfa6/9zdVappwMknkJsVz19HvFpgJSpO64PIN5G+fAp30Hc8TziHS4miFhheJbjLMMzHB8POFPqKGKWi6TXtSriJcT9MzH5bAzzHIK1I08t6hq6zHpRdu2aYdJYuk9Q/881bzZa8Xrx6fLmJo/iu4/VXnfH1BB/rmu5ScQvI77m+BkmfxXxvcZcJY14L0DymZp7pML5yTcW61PvIN6JuGr4halQvmjNlCa4bXJ5zj6qhpxrujeKPYMXEd+q00KR5yNAlWZzrF+Ie+uNsdC/MO4tTOZafhbroyXuR3Df08bLiHsQf+ja6gTPWVimZl7l/oUrjl8OcxDWLbNU5D6JRL2gxkDu16fGuC054OMhclsyXTOOFEL+kmMGs4i5kfNuQ62EnBuam8tzP+Q+tSqhz9SuqpZlvR1EfBiOJTSgYMMM7jpYsAEyqJCHDL4dcFFTAwNMlFDUUpQYiadhDmXteeWAw3HEmA2s15k1RmnP4RHuhBybdBOF7MfnICmSQ2SYjIBM3iRvkcMki9IRcnDTthyLz2Ld2fTzPjTQK+Mdg8y5nkZfFO+se9LQr3/09xZr+5GcaSufeAfAww60mAPx+q8u/bAr8rFCLrx7s+vqEkw8qb+p26n11Aruq6m1iJH6PbWGv1VIY25mkNE8PkaQhxfLIF7DZXx80HD/A3l2jLclYs061xNpWCfoB6WHJTjbH0mV35Q/lRXlC+W8cndbl9t2SfhU+Fb4UfhO+F74GWThknBZ+Em4InwjXIyd1ePnY/Psg3pb1TJNu15TMKWMtFt6ScpKL0ivSMXIn9QtDUlj0h7U7N48t3i8eC0GnMC91dX2sTivgloDTgUVeEGHLTizbf5Da9JLhkhh29QOs1luMcScmBXTIIt7xRFxSBxnuJWfuAd1I7jntkyd/pgKaIwVr3MgmDo2q8x6IdB5QH162mcX7ajtnHGN2bov71OU1+U0fqqoXLD0wX5ZM005UHmySz3qLtDqILDvIL+iH6jB9y2x83ok898GOPQX3lk3Itl0A+BrD6D7tUjWh3fis58BXDigN9yF8M5PJH4B8Gr79/F/XRm8m241mw/wvur4BGDj42bzn+Vmc+NL9L8GcMn8F1kAcXgSteGGAABAAElEQVR4Ae2dB5wURfbHHzlIEFAySA6Sk4QDBUQFRAUR8MicIh6CcoigAnqIcmc6FFQEFZEDAQkqKgdIVEGyZJGcJUvO0P/61V31vyfszOyyszvT/avPZ3e6q6ur6n2ru+v1q1fVaSwVhIEESIAESIAESIAEPEQgrYdkpagkQAIkQAIkQAIkoAlQAeKFQAIkQAIkQAIk4DkCVIA81+QUmARIgARIgARIgAoQrwESIAESIAESIAHPEaAC5Lkmp8AkQAIkQAIkQAJUgHgNkAAJkAAJkAAJeI4AFSDPNTkFJgESIAESIAESoALEa4AESIAESIAESMBzBKgAea7JKTAJkAAJkAAJkAAVIF4DJEACJEACJEACniNABchzTU6BSYAESIAESIAEqADxGiABEiABEiABEvAcASpAnmtyCkwCJEACJEACJEAFiNcACZAACZAACZCA5whQAfJck1NgEiABEiABEiABKkC8BkiABEiABEiABDxHgAqQ55qcApMACZAACZAACVAB4jVAAiRAAiRAAiTgOQJUgDzX5BSYBEiABEiABEiAChCvARIgARIgARIgAc8RoALkuSanwCRAAiRAAiRAAlSAeA2QAAmQAAmQAAl4jgAVIM81OQUmARIgARIgARKgAsRrgARIgARIgARIwHMEqAB5rskpMAmQAAmQAAmQABUgXgMkQAIkQAIkQAKeI0AFyHNNToFJgARIgARIgASoAPEaIAESIAESIAES8BwBKkCea3IKTAIkQAIkQAIkQAWI1wAJkAAJkAAJkIDnCFAB8lyTU2ASIAESIAESIAEqQLwGSIAESIAESIAEPEcgveck9rjAf/zxh7Ru3VpTaNCggQwZMiSAyJ///Gc5fPiw3HLLLfLFF1/o49hHPEKnTp2kW7duejux/65fvy4bN26UypUrJ/ZUpv8fATAcNGiQfPfdd7J//34pVaqUvPbaa9KkSZMARv/4xz/k+++/t+ObN28u/fr1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hBEkQAIkQAIkQAJuJ0AFyO0tTPlIgARIgARIgAQCCFABCkDCCBIgARIgARIgAbcToALk9hamfCRAAiRAAiRAAgEEqAAFIGEECZAACZAACZCA2wlQAXJ7C1M+EiABEiABEiCBAAJUgAKQMIIESIAESIAESMDtBKgAub2FKR8JkAAJkAAJkEAAASpAAUgYQQIkQAIkQAIk4HYCVIDc3sKUjwRIgARIgARIIIAAFaAAJIwggfgn8O2330rz5s0ld+7c0qRJE1m8eLHUrFlTdu3aZQs3Y8YMqV+/vk6TP39+adasmfz666/28bvuuktmz54tPXr0kAIFCkiVKlVk8uTJcu7cOenSpYvky5dPWrRoIQsWLLDPwcaGDRvk3nvv1fmWLl1aXnzxRbly5YpPGufOzz//LHXq1JFNmzbJPffco8/D+ajr6tWrBfVA/Xr16iX79++3T7106ZK88MILUrlyZbnpppukTJky8swzz8j58+d1mq+++krLPGfOHPucpUuX6rivv/7ajnNuDB06VAYMGCDvvvuulCpVSkqWLCl9+/bVMjvThWI3evRoadSokTO59OnTJyDu6aeflkGDBgnkv+OOO2Tbtm1y3333yc0336xZowxneP/996Vs2bJa1qpVq8rw4cPFsixnEm6TAAkkhoC6gRhIgARcREApDVamTJmsrl27Wt98842lOl9LKQjoKa3NmzdrSadOnar3e/bsaamO1vr73/9uKSXDKl++vE0iR44cOq5Vq1bWRx99ZNWtW9fKkiWL/n3wwQetTz75xFIdt6WUBPsc5I80StmyPv30U0spA9Ytt9xiPfroo3Ya/w2lZFlp06a1ChcubA0ePNh66623rLx581pK4bKKFy9uPfvss9bIkSOt7NmzW88//7x9etu2ba1bb73VeuONN6zp06db3bt31zK99NJLOs3Vq1d1/UqUKGFduHDBUoqRpZQkq0GDBta1a9fsfJwbjz32mJUzZ05LKW6WUiKtadOmWQULFrQ6depkJwvHTimbuh4bN27U56AspYjquC1btui4y5cva3nGjh1rQf40adJYqCfaDHFKIdRxO3bs0Olnzpypz1cKk27Tfv366X20AQMJkEDSCOANgoEESMBFBO68806rQoUKPhIpa5DuMI0C9Le//c2CEuMMw4YN02n++OMPHQ0FqHr16hYUCQQoVlCiatSo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" width="100%" /></p>
+<p>We can see that the maximum number of pawns in the middle of the board for most games is five or six. Given this, we’ll define a “closed game” as a game that, at some point, includes as many as seven pawns in the center.</p>
+<ul>
+<li>A more inclusive way to classify closed games would be to lower this to six. This would offer more data, but it might reduce our “closed game” signal.</li>
+<li>We might also want to consider the length of time that pawns occupy the center, but this is beyond the scope of this simple test.</li>
+</ul>
+<p>Now we want to count the number of knight captures vs. bishop captures in what we define as closed games vs. open games.</p>
+<ul>
+<li>We will do this by wrapping our knight vs. bishop capture script from the first test (now written as a function) in code that directs capture counts to the proper “open game” or “closed game” vector.</li>
+</ul>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">count_knight_bishop_captures &lt;-<span class="st"> </span>function(game) {
+    <span class="co"># now we want all of the &quot;moves&quot; -- this captures all board transitions that involve two changing squares. </span>
+    <span class="co"># this excludes castling.</span>
+    involved_spaces &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+    for(i in <span class="dv">1</span>:(<span class="kw">length</span>(game$boardpositions)-<span class="dv">1</span>)) { 
+      move &lt;-<span class="st"> </span>game$boardpositions[[i]][!(game$boardpositions[[i]] ==<span class="st"> </span>game$boardpositions[[i<span class="dv">+1</span>]])]
+      if (<span class="kw">length</span>(move) ==<span class="st"> </span><span class="dv">2</span>) {
+        involved_spaces &lt;-<span class="st"> </span><span class="kw">rbind</span>(involved_spaces,move)
+      }
+    }
+    
+    white &lt;-<span class="st"> </span>involved_spaces[!(<span class="dv">1</span>:<span class="kw">nrow</span>(involved_spaces) %%<span class="st"> </span><span class="dv">2</span> ==<span class="st"> </span><span class="dv">0</span>),] <span class="co"># sorts out all white moves</span>
+    black &lt;-<span class="st"> </span>involved_spaces[(<span class="dv">1</span>:<span class="kw">nrow</span>(involved_spaces) %%<span class="st"> </span><span class="dv">2</span> ==<span class="st"> </span><span class="dv">0</span>),] <span class="co"># sorts out all black moves</span>
+    
+    whitecaptures &lt;-<span class="st"> </span>white[-<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;none&quot;</span>, white),<span class="kw">dim</span>(white))[,<span class="dv">1</span>],] <span class="co">#this sorts out all of the non-captures</span>
+    blackcaptures &lt;-<span class="st"> </span>black[-<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;none&quot;</span>, black),<span class="kw">dim</span>(black))[,<span class="dv">1</span>],]
+    
+    whiteknightcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N1_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],],
+                                 whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N2_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],])
+    whitebishopcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B1_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],],
+                                 whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B2_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],])
+    whitequeencaptures &lt;-<span class="st"> </span>whitecaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;Q_w&quot;</span>, whitecaptures),<span class="kw">dim</span>(whitecaptures))[,<span class="dv">1</span>],]
+    
+    blackknightcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N1_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],],
+                                 blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;N2_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],])
+    blackbishopcaptures &lt;-<span class="st"> </span><span class="kw">rbind</span>(blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B1_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],],
+                                 blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;B2_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],])
+    blackqueencaptures &lt;-<span class="st"> </span>blackcaptures[<span class="kw">arrayInd</span>(<span class="kw">grep</span>(<span class="st">&quot;Q_b&quot;</span>, blackcaptures),<span class="kw">dim</span>(blackcaptures))[,<span class="dv">1</span>],]    
+    numknightcaptures &lt;-<span class="st"> </span><span class="kw">nrow</span>(whiteknightcaptures) +<span class="st"> </span><span class="kw">nrow</span>(blackknightcaptures)
+    numbishopcaptures &lt;-<span class="st"> </span><span class="kw">nrow</span>(whitebishopcaptures) +<span class="st"> </span><span class="kw">nrow</span>(blackbishopcaptures)
+    
+    <span class="kw">list</span>(<span class="dt">numbishopcaptures =</span> numbishopcaptures,<span class="dt">numknightcaptures =</span> numknightcaptures)
+}</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">closed_bishop_caps &lt;-<span class="st"> </span>closed_knight_caps &lt;-<span class="st"> </span>open_bishop_caps &lt;-<span class="st"> </span>open_knight_caps &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+for (q in <span class="dv">1</span>:<span class="dv">5000</span>) {
+  <span class="kw">tryCatch</span>({
+    firstfile &lt;-<span class="st"> </span>files[q]
+    test &lt;-<span class="st"> </span><span class="kw">readLines</span>(<span class="kw">paste0</span>(<span class="st">&quot;../../data/games/&quot;</span>,firstfile))
+    mymoves &lt;-<span class="st"> </span><span class="kw">get_moves</span>(test)
+    full_game &lt;-<span class="kw">get_boards</span>(mymoves)
+    caps &lt;-<span class="st"> </span><span class="kw">count_knight_bishop_captures</span>(full_game)
+    
+    pawn.locations &lt;-<span class="st"> </span><span class="kw">lapply</span>(full_game$boardpositions,grep,<span class="dt">pattern =</span> <span class="st">&quot;p&quot;</span>)
+    center.locations &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="dv">19</span>:<span class="dv">22</span>,<span class="dv">27</span>:<span class="dv">30</span>,<span class="dv">35</span>:<span class="dv">38</span>,<span class="dv">43</span>:<span class="dv">46</span>) <span class="co"># rows 3:6, columns c:f</span>
+    pawns &lt;-<span class="st"> </span><span class="kw">integer</span>(<span class="dv">0</span>)
+    for (i in <span class="dv">1</span>:<span class="kw">length</span>(pawn.locations)) {
+      pawns &lt;-<span class="st"> </span><span class="kw">c</span>(pawns,<span class="kw">sum</span>(pawn.locations[[i]] %in%<span class="st"> </span>center.locations))
+      max.pawns &lt;-<span class="st"> </span><span class="kw">max</span>(pawns)
+    }
+    
+    if (max.pawns &gt;=<span class="st"> </span><span class="dv">7</span>) {
+      closed_bishop_caps &lt;-<span class="st"> </span><span class="kw">c</span>(closed_bishop_caps, caps$numbishopcaptures)
+      closed_knight_caps &lt;-<span class="st"> </span><span class="kw">c</span>(closed_knight_caps, caps$numknightcaptures)
+    }
+    if (max.pawns &lt;<span class="st"> </span><span class="dv">7</span>) {
+      open_bishop_caps &lt;-<span class="st"> </span><span class="kw">c</span>(open_bishop_caps, caps$numbishopcaptures)
+      open_knight_caps &lt;-<span class="st"> </span><span class="kw">c</span>(open_knight_caps, caps$numknightcaptures)
+    }
+}, <span class="dt">error=</span>function(e){<span class="kw">cat</span>(<span class="st">&quot;ERROR :&quot;</span>,<span class="kw">conditionMessage</span>(e), <span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>)})
+}</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(open_bishop_caps)</code></pre></div>
+<pre><code>## [1] 3.014763</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(closed_bishop_caps)</code></pre></div>
+<pre><code>## [1] 2.913649</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(open_knight_caps)</code></pre></div>
+<pre><code>## [1] 2.965738</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">mean</span>(closed_knight_caps)</code></pre></div>
+<pre><code>## [1] 2.538997</code></pre>
+<p>So these results are unexpected. The absolute difference in numbers between open and closed games isn’t necessarily surprising, but bishops outperforming knights by so much in closed games – especially when considering the same comparison in open games, where bishops don’t do very much better than knights – is surprising.</p>
+<ul>
+<li>Maybe this is a result of knights being taken earlier in closed games than in open games, so that their absolute count of “pieces taken” is misleading. Maybe it’d be better to represent this as “pieces taken per move that the piece exists.”</li>
+<li>Also, perhaps this signals something I have yet to address: That “pieces captured” might not be the best way to represent the tactical advantage offered by a piece.</li>
+</ul>
+</div>
+</div>
+
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
